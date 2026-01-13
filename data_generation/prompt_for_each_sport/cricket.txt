@@ -1,0 +1,77 @@
+Analyze the given article to determine its relevance to {match_name}. Use the following guidelines to provide a structured analysis:
+    Relevancy:
+    Relevant: Include ["Relevant"] if the article pertains to {match_name}.
+    Irrelevant: Include ["Irrelevant"] if the article does not pertain to {match_name} or if there is no valid content in the article.
+    If marked "Irrelevant," stop the analysis and return only the relevancy result.
+
+    Detailed Analysis (if Relevant):
+    If the article is relevant, proceed to extract key insights categorized as follows. Ensure each insight is:
+    Complete: Insights should not contain fragments or incomplete sentences.
+    Meaningful: Include only significant or impactful information directly related to the match.
+    Categories for Analysis:
+    New Records:
+
+
+    List any new records broken or created during {match_name}, including:
+    Player records such as most runs, fastest half-century, or best bowling figures (e.g., "Shubman Gill scored the fastest double century in ODIs").
+    Team achievements like the highest score or best win margins (e.g., "India recorded the highest T20 score of 265/2").
+    Milestones or significant achievements (e.g., "Rohit Sharma reached 10,000 ODI runs").
+    Key Match Events:
+
+
+    List notable match events, such as:
+    Major performances (e.g., "Virat Kohli scored an unbeaten 122 off 94 balls" or "Jasprit Bumrah took 5 wickets for 14 runs").
+    Turning points like pivotal wickets, partnerships, or dramatic catches (e.g., "Ravindra Jadeja's brilliant direct hit to dismiss Steve Smith").
+    High-pressure moments (e.g., "India defended 10 runs in the final over to win by 1 run").
+    Pre-Game Insights:
+
+
+    Include pre-match quotes or observations, such as:
+    Predictions or expectations (e.g., "Experts predicted India as the favorites given their home advantage").
+    Strategies and preparations discussed by teams or players (e.g., "Captain Babar Azam emphasized Pakistan’s focus on improving their powerplay performance").
+    Anticipated key player matchups or rivalries (e.g., "The Kohli vs. Shaheen Afridi battle was highlighted as a key contest").
+    Post-Match Reflections:
+
+
+    Summarize post-match comments, including:
+    Emotional reactions from players or coaches (e.g., "Hardik Pandya expressed pride in the team's resilience after a close win").
+    Reflections on team journeys or tournament outcomes (e.g., "Rohit Sharma remarked that winning the series was a significant morale booster ahead of the World Cup").
+    Announcements like retirements or long-term impacts (e.g., "David Warner hinted at his retirement from T20Is after the match").
+    Miscellaneous Highlights:
+
+
+    Include any other significant mentions, such as:
+    Weather or pitch conditions affecting the match (e.g., "Rain interrupted play, reducing the game to 20 overs per side").
+    Historical comparisons or records beyond match performance (e.g., "India ended their ICC trophy drought, winning their first title since 2013").
+    Notable head-to-head statistics or unique historical aspects (e.g., "India maintained their unbeaten World Cup record against Pakistan").
+    Others:
+
+
+    List any other details or significant mentions that do not fall into the categories above.
+
+    Output Format:
+    Return a JSON object with each category as a key and all insights listed as values in a flat list. 
+    Do not return json markdown like (```json) or any other formatting with the response.
+    Example Output:
+    {
+    "Relevancy": ["Relevant"],
+    "New Records": ["Record 1", "Record 2"],
+    "Key Match Events": ["Event 1", "Event 2"],
+    "Pre-Game Insights": ["Insight 1", "Insight 2"],
+    "Post-Match Reflections": ["Reflection 1", "Reflection 2"],
+    "Miscellaneous Highlights": ["Highlight 1", "Highlight 2"],
+    "Others": ["Other detail 1", "Other detail 2"]
+    }
+
+    if the article is not relevant, return:
+    
+    {
+    "Relevancy": ["Irrelevant"]
+    }
+
+    Notes:
+    Use only the data provided in the article for your analysis.
+    Ensure insights are contextually relevant, well-written, and avoid redundancy.
+    Structure the insights into complete, meaningful sentences.
+    Return empty lists for categories with no relevant insights.
+    Strictly do not return anything except a JSON object in the response.

@@ -1,0 +1,86 @@
+Analyze the given article to determine its relevance to {match_name}. Use the following guidelines to provide a structured analysis:
+
+    Relevancy:
+
+    Relevant: Include ["Relevant"] if the article pertains to {match_name}.
+    Irrelevant: Include ["Irrelevant"] if the article does not pertain to {match_name} or if there is no valid content in the article.
+    If marked "Irrelevant," stop the analysis and return only the relevancy result.
+
+    Detailed Analysis (if Relevant):
+
+    If the article is relevant, proceed to extract key insights categorized as follows. Ensure each insight is:
+
+    Complete: Insights should not contain fragments or incomplete sentences.
+    Meaningful: Include only significant or impactful information directly related to the match.
+    Categories for Analysis:
+
+    New Records:
+
+    List any new records broken or created during {match_name}, including:
+
+    Player records such as most goals, fastest hat-trick, or most assists by a player (e.g., "Kylian Mbappé scored the fastest hat-trick in World Cup history").
+    Team achievements like highest scoring margin or fastest goal in history (e.g., "Manchester City achieved the biggest win margin in Champions League history with a 7-0 victory").
+    Milestones or significant achievements (e.g., "Lionel Messi reached 800 career goals").
+    Key Match Events:
+
+    List notable match events, such as:
+
+    Outstanding performances like multi-goal contributions or key saves (e.g., "Cristiano Ronaldo scored a brace to secure victory for Al-Nassr" or "Alisson Becker made three incredible saves to preserve Liverpool’s lead").
+    Turning points including decisive penalties or red cards (e.g., "Bruno Fernandes scored a penalty after a controversial handball decision").
+    High-pressure moments like injury-time goals or penalty shootouts (e.g., "Harry Kane scored a last-minute winner in injury time").
+    Pre-Game Insights:
+
+    Include pre-match quotes or observations, such as:
+
+    Predictions or expectations about the match outcome (e.g., "Experts favored Real Madrid to win based on their current form").
+    Strategies and preparations discussed by teams or players (e.g., "Pep Guardiola emphasized the importance of controlling midfield possession").
+    Anticipated key player matchups or rivalries (e.g., "The Messi vs. Ronaldo clash was highlighted as the match's main attraction").
+    Post-Match Reflections:
+
+    Summarize post-match comments, including:
+
+    Emotional reactions from players or coaches (e.g., "Erik ten Hag praised his team’s resilience after coming back from 2-0 down").
+    Reflections on team journeys or tournament outcomes (e.g., "Chelsea’s manager described the win as a crucial step toward securing a top-four finish").
+    Announcements such as retirements or long-term impacts (e.g., "Luka Modric hinted at retiring from international football after the tournament").
+    Miscellaneous Highlights:
+
+    Include any other significant mentions, such as:
+
+    Weather or pitch conditions affecting the game (e.g., "Heavy rain delayed the match by 30 minutes").
+    Historical comparisons or records beyond match performance (e.g., "This marked Arsenal’s first league title since 2004").
+    Notable head-to-head statistics or unique cultural aspects (e.g., "This was Barcelona’s 100th El Clásico victory over Real Madrid").
+    Others:
+
+    List any other details or significant mentions that do not fall into the categories above.
+
+    Output Format:
+
+    Return a JSON object with each category as a key and all insights listed as values in a flat list.
+
+    Do not return JSON markdown like (```json) or any other formatting with the response.
+
+    Example Output:
+
+    {
+    "Relevancy": ["Relevant"],
+    "New Records": ["Record 1", "Record 2"],
+    "Key Match Events": ["Event 1", "Event 2"],
+    "Pre-Game Insights": ["Insight 1", "Insight 2"],
+    "Post-Match Reflections": ["Reflection 1", "Reflection 2"],
+    "Miscellaneous Highlights": ["Highlight 1", "Highlight 2"],
+    "Others": ["Other detail 1", "Other detail 2"]
+    }
+
+    If the article is not relevant, return:
+
+    {
+    "Relevancy": ["Irrelevant"]
+    }
+
+    Notes:
+
+    Use only the data provided in the article for your analysis.
+    Ensure insights are contextually relevant, well-written, and avoid redundancy.
+    Structure the insights into complete, meaningful sentences.
+    Return empty lists for categories with no relevant insights.
+    Strictly do not return anything except the JSON object in the response.

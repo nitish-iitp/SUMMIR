@@ -1,0 +1,86 @@
+Analyze the given article to determine its relevance to {match_name}. Use the following guidelines to provide a structured analysis:
+
+    Relevancy:
+
+    Relevant: Include ["Relevant"] if the article pertains to {match_name}.
+    Irrelevant: Include ["Irrelevant"] if the article does not pertain to {match_name} or if there is no valid content in the article.
+    If marked "Irrelevant," stop the analysis and return only the relevancy result.
+
+    Detailed Analysis (if Relevant):
+
+    If the article is relevant, proceed to extract key insights categorized as follows. Ensure each insight is:
+
+    Complete: Insights should not contain fragments or incomplete sentences.
+    Meaningful: Include only significant or impactful information directly related to the match.
+    Categories for Analysis:
+
+    New Records:
+
+    List any new records broken or created during {match_name}, including:
+
+    Player Records such as most points scored in a game, fastest triple-double, highest three-point percentage in a match (e.g., "LeBron James scored a career-high 61 points").
+    Team Records like largest victory margin, most three-pointers made in a game (e.g., "The Golden State Warriors set a new record with 30 three-pointers in a single game").
+    Milestones or significant achievements (e.g., "Stephen Curry reached 3,000 career three-pointers").
+    Key Match Events:
+
+    List notable match events, such as:
+
+    Outstanding performances like multi-point contributions or key defensive plays (e.g., "Nikola Jokic recorded a triple-double with 35 points, 15 rebounds, and 12 assists").
+    Turning points including game-winning shots, critical fouls, or momentum-shifting plays (e.g., "Damian Lillard hit a game-winning three-pointer at the buzzer").
+    High-pressure moments like overtime thrillers, last-minute defensive stops, or clutch free throws (e.g., "Kawhi Leonard made two clutch free throws to seal the win in overtime").
+    Pre-Game Insights:
+
+    Include pre-match quotes or observations, such as:
+
+    Predictions or expectations about the match outcome (e.g., "Experts favored the Lakers to win based on their recent performance").
+    Strategies and preparations discussed by teams or players (e.g., "Coach Steve Kerr emphasized the importance of strong perimeter defense").
+    Anticipated key player matchups or rivalries (e.g., "The duel between Kevin Durant and Giannis Antetokounmpo was highlighted as the key matchup").
+    Post-Match Reflections:
+
+    Summarize post-match comments, including:
+
+    Emotional reactions from players or coaches (e.g., "LeBron James expressed pride in his team's effort after the comeback win").
+    Reflections on team journeys or tournament outcomes (e.g., "The coach highlighted the victory as a crucial step toward the championship").
+    Announcements such as player retirements or long-term impacts (e.g., "Vince Carter announced his retirement after the game").
+    Miscellaneous Highlights:
+
+    Include any other significant mentions, such as:
+
+    Arena conditions or unusual events affecting the match (e.g., "A power outage delayed the game by 30 minutes").
+    Historical comparisons or records beyond match performance (e.g., "The team ended a 20-year championship drought").
+    Notable head-to-head statistics or unique historical aspects (e.g., "This was the 100th meeting between the two rival teams").
+    Others:
+
+    List any other details or significant mentions that do not fall into the categories above.
+
+    Output Format:
+
+    Return a JSON object with each category as a key and all insights listed as values in a flat list.
+
+    Do not return JSON markdown like (```json) or any other formatting with the response.
+
+    Example Output:
+
+    {
+    "Relevancy": ["Relevant"],
+    "New Records": ["Record 1", "Record 2"],
+    "Key Match Events": ["Event 1", "Event 2"],
+    "Pre-Game Insights": ["Insight 1", "Insight 2"],
+    "Post-Match Reflections": ["Reflection 1", "Reflection 2"],
+    "Miscellaneous Highlights": ["Highlight 1", "Highlight 2"],
+    "Others": ["Other detail 1", "Other detail 2"]
+    }
+
+    If the article is not relevant, return:
+
+    {
+    "Relevancy": ["Irrelevant"]
+    }
+
+    Notes:
+
+    Use only the data provided in the article for your analysis.
+    Ensure insights are contextually relevant, well-written, and avoid redundancy.
+    Structure the insights into complete, meaningful sentences.
+    Return empty lists for categories with no relevant insights.
+    Strictly do not return anything except the JSON object in the response.
