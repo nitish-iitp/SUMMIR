@@ -1,0 +1,311 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Cubs
+78-68, 37-34 Away
+4
+Final
+Rockies
+52-92, 30-39 Home
+6
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Kris Bryant homers, has 3 RBIs against former team in Rockies' 6-4 win over Cubs
+— Kris Bryant hit a go-ahead homer in the sixth inning and had three RBI against his former team, helping the Colorado Rockies beat the Chicago Cubs 6-4 on Tuesday night.
+Sep 13, 2023, 04:32 am - AP
+
+
+CHC
+
+
+COL
+1	2	3	4	5	6	7	8	9	R	H	E
+0	2	0	0	0	2	0	0	0	4	10	0
+0	0	0	4	0	1	1	0	-	6	9	0
+WIN
+J. Bird
+3-3
+1.2 IP, 1 H, 1 ER, 1 K, 0 BB
+LOSS
+D. Palencia
+5-2
+2.0 IP, 3 H, 2 ER, 3 K, 1 BB
+SAVE
+J. Lawrence
+11
+1.0 IP, 0 H, 0 ER, 2 K, 1 BB
+Scoring Summary
+INNING
+	CHC	COL
+		2nd	Suzuki singled to center, Swanson scored.	1	0
+		2nd	Crow-Armstrong grounded into fielder's choice to pitcher, Suzuki scored, Gomes out at second.	2	0
+		4th	Bryant singled to first, Rodgers scored and Trejo scored, Doyle to third.	2	2
+		4th	Jones grounded out to first, Doyle scored, Bryant to second.	2	3
+		4th	Díaz singled to center, Bryant scored.	2	4
+		6th	Suzuki homered to right (377 feet), Swanson scored.	4	4
+		6th	Bryant homered to left center (420 feet).	4	5
+		7th	Doyle singled to center, McMahon scored, Rodgers to second.	4	6
+Full Play-By-Play
+Cubs
+Rockies
+HITTERS	H-AB	R	HR	RBI	AVG
+
+C. Morel
+DH
+	0-4	0	0	0	.245
+
+N. Hoerner
+2B
+	2-5	0	0	0	.280
+
+TODAY'S AT BATS
+Full Player Profile
+1st: Hoerner flied out to right.
+3rd: Hoerner singled to center.
+5th: Hoerner singled to left.
+7th: Hoerner popped out to second.
+9th: Hoerner struck out looking.
+
+
+I. Happ
+LF
+	0-2	0	0	0	.239
+
+C. Bellinger
+1B
+	1-4	0	0	0	.317
+
+D. Swanson
+SS
+	2-3	2	0	0	.254
+
+S. Suzuki
+RF
+	3-4	2	1	3	.279
+
+Y. Gomes
+C
+	1-3	0	0	0	.275
+
+M. Tauchman
+PH
+	0-1	0	0	0	.253
+
+P. Crow-Armstrong
+CF
+	0-4	0	0	1	.000
+
+N. Madrigal
+3B
+	1-3	0	0	0	.265
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+J. Assad
+	3.1	5	4	4	4	79-40	3.10
+
+L. Little
+	0.2	1	0	1	0	17-8	0.00
+
+B. Boxberger
+	1.0	0	0	0	0	11-6	5.17
+
+D. Palencia
+	2.0	3	2	1	3	33-26	4.09
+
+H. Wesneski
+	1.0	0	0	0	1	13-9	4.74
+HITTERS	H-AB	R	HR	RBI	AVG
+
+C. Blackmon
+RF
+	0-4	0	0	0	.276
+
+K. Bryant
+DH
+	2-4	2	1	3	.255
+
+N. Jones
+LF
+	0-5	0	0	1	.275
+
+E. Diaz
+C
+	3-5	0	0	1	.272
+
+R. McMahon
+3B
+	0-2	1	0	0	.243
+
+E. Montero
+1B
+	2-4	0	0	0	.250
+
+B. Rodgers
+2B
+	0-3	1	0	0	.202
+
+A. Trejo
+SS
+	0-2	1	0	0	.227
+
+H. Goodman
+PH
+	0-1	0	0	0	.295
+
+E. Tovar
+SS
+	0-0	0	0	0	.250
+
+B. Doyle
+CF
+	2-3	1	0	1	.195
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+C. Flexen
+	5.1	9	3	2	5	84-54	7.22
+
+J. Bird
+	1.2	1	1	0	1	24-17	4.45
+
+N. Mears
+	1.0	0	0	1	0	18-14	2.03
+
+J. Lawrence
+	1.0	0	0	1	2	26-17	3.97
+Full Box Score
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+CUBS
+ROCKIES
+COL 100
+%
+CHC 4COL 6
+
+Top 9th
+Hoerner struck out looking.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+CHC
+COL
+Hits
+10
+9
+Home Runs
+1
+1
+Total Bases
+16
+14
+Runners LOB
+7
+10
+Full Team Stats
+Regular Season Series
+Current Series
+COL wins 2-1
+Cubs
+5
+Rockies
+4
+Game 1
+9/12
+Final
+Cubs
+4
+Rockies
+6
+Game 2
+9/13
+Final
+Cubs
+3
+Rockies
+7
+Game 3
+9/13
+Final
+Game Information
+Coors Field
+12:40 AM, September 13, 2023
+Denver, Colorado
+Attendance: 32,058
+Game Time:
+2:55
+Umpires:
+Home Plate Umpire - Pat Hoberg
+First Base Umpire - Nestor Ceja
+Second Base Umpire - Brian Walsh
+Third Base Umpire - Tom Hanahan
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401473192/cubs-rockies 
+ ----- 

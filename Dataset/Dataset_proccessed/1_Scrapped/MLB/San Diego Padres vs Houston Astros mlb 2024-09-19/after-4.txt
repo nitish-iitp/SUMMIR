@@ -1,0 +1,1501 @@
+MLB
+
+Teams
+• • •
+Log In
+Subscribe
+Free Agent Big Board
+Ranking each MLB contender’s postseason pitching core — from shutdown to suspect
+By Stephen J. Nesbitt and Chad Jennings
+Sep 19, 2024
+
+215
+
+What do good and bad Major League Baseball teams have in common?
+
+They go through a lot of arms.
+
+The Chicago White Sox and Miami Marlins have combined to use 79 pitchers this season. The Los Angeles Dodgers and Milwaukee Brewers have used a combined total of 75. There are typically 13 pitchers on a roster at any time, and teams constantly cycle others in as they attempt to survive the marathon of the regular season.
+
+But the postseason is a sprint, and the circle of trust is much smaller. The 2023 Texas Rangers won the World Series leaning heavily upon two starters and three relievers. So, as clubs plan for how to whittle their pitching staffs for playoff time, we constructed a postseason pitching core for each contender: three starters, a swingman and four relievers. With help from our team beat writers, we made our best guesses at postseason pecking orders and which injured pitchers will be available.
+
+These aren’t all the pitchers you’ll see this postseason, but they’ll be the ones given the ball in the moments that matter most.
+
+Trying to rank these cores only reinforced the unpredictability of the playoffs. Can a deep rotation make up for a thin bullpen? Are a couple shutdown set-up relievers more important than a reliable fourth starter? It depends on the team, the staff and the series. Any club that can go to its best pitchers more often is better equipped to own October.
+
+All stats are updated through Wednesday afternoon.
+
+1. Philadelphia Phillies
+
+The good: An ace and a hellacious back-end of the bullpen
+The bad: A 4.32 staff ERA in the second half
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Zack Wheeler
+	
+2.56
+	
+0.954
+	
+106
+
+
+SP
+	
+Aaron Nola
+	
+3.62
+	
+1.197
+	
+104
+
+
+SP
+	
+Cristopher Sánchez
+	
+3.24
+	
+1.233
+	
+96
+
+
+SP/RP
+	
+Ranger Suárez
+	
+3.13
+	
+1.142
+	
+82
+
+
+RP
+	
+Matt Strahm
+	
+2.03
+	
+0.798
+	
+104
+
+
+RP
+	
+Orion Kerkering
+	
+1.99
+	
+1.023
+	
+128
+
+
+RP
+	
+Jeff Hoffman
+	
+1.73
+	
+0.947
+	
+116
+
+
+CL
+	
+Carlos Estévez
+	
+2.22
+	
+0.816
+	
+116
+
+If the standings hold and the Phillies clinch a wild-card bye, they’ll open the NLDS with a rested Wheeler and Nola, both experienced postseason starters. Suárez pitched brilliantly in last year’s playoffs (1.93 ERA) and again through 15 starts this season (1.75 ERA), but Sánchez has been better lately. Either way, the Phillies have a superb fourth starter for a longer series. With last year’s late-inning postseason duo Craig Kimbrel and Seranthony Domínguez gone, manager Rob Thomson will rely upon Kerkering and Hoffman to get the game to the closer Estévez — all three of whom have a sub-2 ERA for the Phillies this season — while strategically deploying lefties Strahm and José Alvarado. It’s a strong staff made even better by the acquisition of Estévez from the Angels this summer.
+
+2. San Diego Padres
+
+The good: Bullpen full of closers
+The bad: Command problems can compound in the playoffs
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Dylan Cease
+	
+3.58
+	
+1.091
+	
+122
+
+
+SP
+	
+Michael King
+	
+3.04
+	
+1.198
+	
+94
+
+
+SP
+	
+Joe Musgrove
+	
+4.23
+	
+1.225
+	
+121
+
+
+SP/RP
+	
+Yu Darvish
+	
+3.21
+	
+1.114
+	
+99
+
+
+RP
+	
+Jeremiah Estrada
+	
+2.98
+	
+1.081
+	
+143
+
+
+RP
+	
+Tanner Scott
+	
+1.61
+	
+1.090
+	
+146
+
+
+RP
+	
+Jason Adam
+	
+1.93
+	
+0.829
+	
+130
+
+
+CL
+	
+Robert Suarez
+	
+2.51
+	
+1.000
+	
+138
+
+If you’d have told a Padres fan a year ago that this would be their postseason pitching core in 2024, it would’ve drawn some confused looks. We got Cease? Isn’t King the guy in the Yankees bullpen? Who exactly is Estrada? Musgrove and Darvish are both healthy?! The Padres have four starters who could turn in six scoreless without surprising anyone. The bullpen behind them is a sight to behold. Scott and Adam have closed games elsewhere but will instead be put to work in leverage spots ahead of Suárez. Estrada has a 37 percent strikeout rate, blowing away hitters (13 in a row at one point) with 97 mph heaters, sliders and splitters. Adrian Morejon, Bryan Hoeing and Wandy Peralta round out a unit that Padres GM A.J. Preller built with October in mind.
+
+3. Houston Astros
+
+The good: Strong second-half pitching leaves lots of options
+The bad: No can’t-miss starters beyond Game 1
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Framber Valdez
+	
+2.91
+	
+1.088
+	
+113
+
+
+SP
+	
+Yusei Kikuchi
+	
+4.29
+	
+1.222
+	
+108
+
+
+SP
+	
+Hunter Brown
+	
+3.57
+	
+1.28
+	
+103
+
+
+SP/RP
+	
+Ronel Blanco
+	
+2.88
+	
+1.087
+	
+94
+
+
+RP
+	
+Héctor Neris
+	
+3.62
+	
+1.354
+	
+83
+
+
+RP
+	
+Ryan Pressly
+	
+3.67
+	
+1.352
+	
+123
+
+
+RP
+	
+Bryan Abreu
+	
+3.18
+	
+1.208
+	
+128
+
+
+CL
+	
+Josh Hader
+	
+3.26
+	
+0.905
+	
+130
+
+The big question here is what to do with Justin Verlander. The season numbers suggest he’s not one of the Astros’ top three or four starting pitchers but he remains one of the great pitchers of his generation. Beyond Valdez in Game 1, there’s a solid case for any of the Astros’ next three starting pitchers, but Verlander is an X-factor. In the bullpen, the top three relievers more or less speak for themselves and could carry the bulk of the load in October. If any team is built to follow Cleveland’s 2016 postseason pitching model of calling on the same three relievers game after game, it might be these Astros.
+
+4. Atlanta Braves
+
+The good: MLB’s second-best staff ERA (3.53) and Chris Sale
+The bad: Worse ERA in the second half (3.86) and injuries galore
+
+ROLE  
+PLAYER  
+ERA  	WHIP  	STUFF+  
+
+SP
+Chris Sale
+2.35
+	
+1.002
+	
+97
+
+
+SP
+Max Fried
+3.49
+	
+1.203
+	
+94
+
+
+SP
+Spencer Schwellenbach
+3.73
+	
+1.100
+	
+101
+
+
+SP/RP
+Reynaldo López
+2.03
+	
+1.150
+	
+96
+
+
+RP
+Pierce Johnson
+3.61
+	
+1.318
+	
+134
+
+
+RP
+Dylan Lee
+1.94
+	
+1.096
+	
+97
+
+
+RP
+Joe Jiménez
+2.45
+	
+0.979
+	
+101
+
+
+CL
+Raisel Iglesias
+1.87
+	
+0.718
+	
+114
+
+For all that ails the Braves, the pitching staff remains potent. Sale, the presumptive NL Cy Young winner, has been the best starter in baseball this season, though it’s worth noting neither he nor Max Fried has sterling postseason records. Beyond them, the way the rotation shakes out depends upon the availability of López, who’s nursing shoulder inflammation. The rookie, Schwellenbach, will play a prominent role, and veteran Charlie Morton will be ready. Atlanta has the third-best bullpen ERA (3.37) this season, led by Iglesias the closer. It’s a bunch of old dudes who can still carve up hitters. Jímenez is the only Braves reliever still in his 20s; he turns 30 this winter. Jímenez and Pierce Johnson are the clear set-up guys, with lefties Lee and Aaron Bummer available for leverage moments against middle-of-the-lineup boppers.
+
+5. Baltimore Orioles
+
+The good: Playoff format maximizes top of the depth chart
+The bad: Back of the rotation has questions
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Corbin Burnes
+	
+3.06
+	
+1.119
+	
+118
+
+
+SP
+	
+Zach Eflin
+	
+3.55
+	
+1.125
+	
+89
+
+
+SP
+	
+Dean Kremer
+	
+4.10
+	
+1.256
+	
+87
+
+
+SP/RP
+	
+Grayson Rodriguez
+	
+3.86
+	
+1.243
+	
+119
+
+
+RP
+	
+Keegan Akin
+	
+3.27
+	
+0.928
+	
+112
+
+
+RP
+	
+Cionel Pérez
+	
+3.38
+	
+1.338
+	
+96
+
+
+RP
+	
+Yennier Cano
+	
+2.78
+	
+1.273
+	
+117
+
+
+CL
+	
+Seranthony Dominguez
+	
+4.23
+	
+1.157
+	
+142
+
+In this scenario, Rodriguez returns from the injured list to pitch in at least a bulk role in the playoffs. He’s a difference-maker, and without him, the O’s would drop a spot or two in these rankings. Their middle-of-the-pack second-half ERA has been inflated by guys who won’t play significant roles in the postseason (Burch Smith, Cole Irvin, Trevor Rogers). Otherwise, Burnes has been steady at the top of the rotation, Eflin (No. 2 starter) and Domínguez (closer) have solidified key roles since the trade deadline. The Orioles may have opened this season expecting to give the ball to Craig Kimbrel in big moments, but that ship sailed long before he was designated for assignment Wednesday, so they’ll turn instead to Cano, Pérez, Akin and Jacob Webb. If Rodriguez doesn’t return in time to be a postseason factor, the Orioles could divide their bulk innings among Kremer, rookie Cade Povich and surprisingly impactful journeyman Albert Suárez.
+
+6. New York Yankees
+
+The good: Clear No. 1 with potential in the rest of the rotation
+The bad: Bullpen has struggled and No. 3 starter is unclear
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Gerrit Cole
+	
+3.97
+	
+1.273
+	
+112
+
+
+SP
+	
+Carlos Rodón
+	
+4.12
+	
+1.222
+	
+123
+
+
+SP
+	
+Luis Gil
+	
+3.14
+	
+1.180
+	
+110
+
+
+SP/RP
+	
+Clarke Schmidt
+	
+2.41
+	
+1.127
+	
+115
+
+
+RP
+	
+Tim Hill
+	
+2.06
+	
+1.017
+	
+105
+
+
+RP
+	
+Clay Holmes
+	
+3.24
+	
+1.303
+	
+135
+
+
+CL
+	
+Tommy Kahnle
+	
+1.80
+	
+1.100
+	
+112
+
+
+CL
+	
+Luke Weaver
+	
+3.09
+	
+0.953
+	
+124
+
+One of manager Aaron Boone’s most difficult — and most important — tasks will be finding the right arms for the right situations. The stuff is clearly there. Cole’s strong second half (Red Sox start aside) has solidified his status as the Game 1 starter, but the rest of the postseason rotation could be a matter of riding the hot hand. Rodón has been good in the second half, Schmidt is healthy and rolling again, Gil’s last few starts have been strong, but Marcus Stroman is trending in the wrong direction and might be relegated to a lesser role alongside Nestor Cortes. The bullpen is even more of a mystery. Weaver has moved near the top of the pecking order, and Kahnle’s had a terrific second half, but Holmes and trade acquisition Mark Leiter Jr. have struggled. Ian Hamilton is another leverage option. He has pitched well since returning from the injured list. The bullpen circle of trust seems subject to change on a weekly basis.
+
+7. Los Angeles Dodgers
+
+The good: A steady bullpen full of familiar names with a new, nasty closer
+The bad: Injuries have shredded the rotation to bits
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Jack Flaherty
+	
+3.04
+	
+1.053
+	
+93
+
+
+SP
+	
+Yoshinobu Yamamoto
+	
+2.63
+	
+1.073
+	
+100
+
+
+SP
+	
+Walker Buehler
+	
+5.54
+	
+1.615
+	
+94
+
+
+SP/RP
+	
+Landon Knack
+	
+3.70
+	
+1.089
+	
+103
+
+
+RP
+	
+Alex Vesia
+	
+1.72
+	
+0.973
+	
+120
+
+
+RP
+	
+Blake Treinen
+	
+2.16
+	
+1.032
+	
+91
+
+
+RP
+	
+Evan Phillips
+	
+3.78
+	
+1.220
+	
+121
+
+
+CL
+	
+Michael Kopech
+	
+3.59
+	
+1.165
+	
+139
+
+The Dodgers may be the most difficult pitching core to rank. With Flaherty, Yamamoto and an experienced bullpen, they could warrant a spot higher on this list. But they’re also so volatile. We’re operating under the assumption that Clayton Kershaw — like Tyler Glasnow, Gavin Stone and the host of other starters on the injured list — will not be healthy enough to start this postseason. This leaves the rotation perilously thin beyond trade-acquisition Flaherty. Yamamoto is still building up his pitch count after returning from the injured list. Walker Buehler has a 5.54 ERA, but his postseason pedigree gives him the nod over Knack and Bobby Miller. Adding Kopech at the trade deadline leveled up a bullpen that continues to chug along with Treinen, Phillips, Vesia, Daniel Hudson, Brusdar Graterol and the now-healthy Joe Kelly. It’s a capable bullpen that’s comfortable in October and will be called upon to do the heavy lifting if the starters slip.
+
+8. Cleveland Guardians
+
+The good: The best bullpen in baseball
+The bad: Rotation has no ace and questionable depth
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Tanner Bibee
+	
+3.60
+	
+1.138
+	
+99
+
+
+SP
+	
+Alex Cobb
+	
+2.76
+	
+1.041
+	
+107
+
+
+SP
+	
+Matthew Boyd
+	
+2.52
+	
+1.065
+	
+75
+
+
+SP/RP
+	
+Ben Lively
+	
+3.87
+	
+1.232
+	
+68
+
+
+RP
+	
+Tim Herrin
+	
+1.94
+	
+1.011
+	
+105
+
+
+RP
+	
+Hunter Gaddis
+	
+1.44
+	
+0.743
+	
+106
+
+
+RP
+	
+Cade Smith
+	
+2.00
+	
+0.917
+	
+120
+
+
+CL
+	
+Emmanuel Clase
+	
+0.65
+	
+0.649
+	
+146
+
+Where to put a club with four of the best relievers in baseball yet so much uncertainty in the rotation? If anything, this format — listing eight names next to three set labels — undersells the strength of the Guardians’ bullpen (we don’t have room to list Nick Sandlin, Eli Morgan or recent call-up Andrew Walters) while overselling the stability of the Guardians’ rotation. Veteran Cobb, acquired at the trade deadline, has made only three starts this season and is back on the injured list. Boyd, another late-season addition, has been terrific lately but has made only 21 starts over the past three seasons. Lively has been a starter all year but has bullpen experience and could pitch in any role in the postseason (starter, piggyback, long relief). The Guardians have the best closer in the sport and have the late-inning arms to protect any lead — Clase, Gaddis and Smith are each top 20 in bullpen Win Probability Added — but they have to get through the first five innings first.
+
+9. Milwaukee Brewers
+
+The good: Bullpen will torture hitters and protect leads
+The bad: Starting depth is comprised mostly of hittable veterans
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Freddy Peralta
+	
+3.75
+	
+1.243
+	
+103
+
+
+SP
+	
+Tobias Myers
+	
+3.07
+	
+1.175
+	
+91
+
+
+SP
+	
+Frankie Montas
+	
+4.50
+	
+1.340
+	
+95
+
+
+SP/RP
+	
+Aaron Civale
+	
+4.48
+	
+1.327
+	
+92
+
+
+RP
+	
+Aaron Ashby
+	
+3.47
+	
+1.200
+	
+88
+
+
+RP
+	
+Jared Koenig
+	
+2.53
+	
+1.228
+	
+90
+
+
+RP
+	
+Trevor Megill
+	
+2.98
+	
+1.016
+	
+142
+
+
+CL
+	
+Devin Williams
+	
+1.53
+	
+1.019
+	
+137
+
+With a questionable rotation, the Brewers are set up similarly to the Guardians, just with a slightly less dominant bullpen. Despite trading away ace Corbin Burnes last offseason, the Brewers are division winners with a pitching staff with very few names a casual baseball fan knows but also has … the third-best ERA in the majors (3.65). They’ll get a wild-card bye if they catch either the Phillies or Dodgers, and that would be crucial in helping shorten the rotation. Freddy Peralta is a bonafide Game 1 guy, Tobias Myers has had an underrated rookie season, and Civale and Montas both have mid-3 ERAs since arriving in July. Devin Williams leads a shutdown bullpen that could run seven deep. Megill has closer stuff. Koenig gets soft contact. Ashby is throwing gas from the left side. And beyond that list, there’s Colin Rea, Joe Ross and Joel Payamps. Who needs household names?
+
+10. Kansas City Royals
+
+The good: Starters are among the best in baseball
+The bad: Bullpen is full of holes
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Cole Ragans
+	
+3.24
+	
+1.148
+	
+109
+
+
+SP
+	
+Seth Lugo
+	
+3.05
+	
+1.113
+	
+97
+
+
+SP
+	
+Michael Wacha
+	
+3.29
+	
+1.192
+	
+91
+
+
+SP/RP
+	
+Brady Singer
+	
+3.53
+	
+1.271
+	
+84
+
+
+RP
+	
+Michael Lorenzen
+	
+3.43
+	
+1.254
+	
+91
+
+
+RP
+	
+Kris Bubic
+	
+3.20
+	
+1.066
+	
+100
+
+
+RP
+	
+John Schreiber
+	
+4.11
+	
+1.391
+	
+98
+
+
+CL
+	
+Lucas Erceg
+	
+3.53
+	
+1.108
+	
+107
+
+The longer we looked at the Royals’ bullpen, the lower they slid. Maybe unfairly low. How far can a rotation take you in the playoffs? We’re about to find out. There’s such little separation between Wacha and Singer that the team could use a typical four-man rotation without needing piggybacks or other postseason gimmicks. It could be one of their greatest strengths, especially if they make a deep run and rotation depth gets tested. The bullpen, though, is another story. The Royals have the fifth-worst bullpen ERA in the second half. Trade addition Erceg has emerged as a legitimate closer, but the middle innings and setup assignments are neither certain nor predictable. Schreiber is healthy again, while James McArthur just joined Hunter Harvey on the injured list. Hunter has resumed playing catch and could provide a boost if healthy, but he hasn’t pitched since Aug. 4. Lorenzen, who’s been good out of the rotation, could be an interesting option out of the bullpen (assuming he returns from a hamstring strain).
+
+11. Arizona Diamondbacks
+
+The good: Improved upon a pennant-winning pitching staff
+The bad: The only truly trustworthy starter is having a down season
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Zac Gallen
+	
+3.61
+	
+1.277
+	
+100
+
+
+SP
+	
+Merrill Kelly
+	
+4.00
+	
+1.190
+	
+99
+
+
+SP
+	
+Brandon Pfaadt
+	
+4.81
+	
+1.266
+	
+107
+
+
+SP/RP
+	
+Eduardo Rodriguez
+	
+5.50
+	
+1.544
+	
+77
+
+
+RP
+	
+Kevin Ginkel
+	
+3.43
+	
+1.203
+	
+108
+
+
+RP
+	
+A.J. Puk
+	
+3.00
+	
+1.106
+	
+124
+
+
+RP
+	
+Ryan Thompson
+	
+3.21
+	
+1.232
+	
+112
+
+
+CL
+	
+Justin Martinez
+	
+2.43
+	
+1.275
+	
+109
+
+Though the recent news of Ryne Nelson (shoulder) and Paul Sewald (neck) hitting the injured list has dampened our enthusiasm of this group, it’s still a better pitching staff than the one we saw in the World Series last fall. Gallen and Kelly remain the Games 1 and 2 starters. Pfaadt has struggled lately, opening the door for Rodríguez and Jordan Montgomery to take more postseason innings if Nelson remains unavailable. With or without Sewald, who lost the closer role this summer, the bullpen is deep. Martínez fires sinkers averaging 100.2 mph. Puk has a 0.41 ERA and 42 percent strikeout rate since his trade in July. The D-Backs entered the postseason with a pitching staff ranked worst among playoff teams and leaned heavily on Ginkel, Thompson, Sewald and Joe Mantiply. They’re all still part of manager Torey Lovullo’s postseason plan, but the overall bullpen is better now than it was a year ago. Arizona does have the fourth-worst ERA in the majors this season (4.66) — ahead of only the Marlins, White Sox and Rockies — but their lineup can outscore anybody. 
+
+12. Minnesota Twins
+
+The good: No. 1 starter has been great in the second half
+The bad: Bullpen has been awful, and rotation depth is questionable
+
+ROLE  
+PLAYER  
+ERA  	WHIP  	STUFF+  
+
+SP
+Pablo López
+3.84
+	
+1.150
+	
+98
+
+
+SP
+Bailey Ober
+3.90
+	
+0.990
+	
+91
+
+
+SP
+Simeon Woods Richardson
+4.08
+	
+1.250
+	
+88
+
+
+SP/RP
+David Festa
+5.07
+	
+1.273
+	
+101
+
+
+RP
+Caleb Thielbar
+5.65
+	
+1.581
+	
+111
+
+
+RP
+Cole Sands
+2.82
+	
+0.940
+	
+92
+
+
+RP
+Griffin Jax
+2.16
+	
+0.900
+	
+135
+
+
+CL
+Jhoan Durán
+3.99
+	
+1.168
+	
+132
+
+The Twins’ bullpen has been one of the worst in baseball in the second half. Jax and Sands have been good, but Durán has not. Beyond those three arms, this bullpen is in shambles. Jorge Alcala was recently demoted to Triple A. Louie Varland has an 8.57 ERA. We included Thielbar, but if healthy, Kody Funderburk could be the primary lefty out of the bullpen. There’s a chance the Twins try to supplement their postseason pen with one or both of Justin Topa (who has been out all year) and Chris Paddack (who has been in the IL since mid-July) but neither is a sure thing to make an impact. López and Ober are solid at the top of the rotation — López has a 2.01 ERA in the second half — but the loss of Joe Ryan was a significant blow, leaving the team to rely on one of its rookies (either Woods Richardson or Festa) as its No. 3 starter.
+
+13. New York Mets
+
+The good: Kodai Senga could bring a spark to the postseason rotation
+The bad: Staff doesn’t strike fear in hitters’ hearts
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Sean Manaea
+	
+3.26
+	
+1.082
+	
+89
+
+
+SP
+	
+Luis Severino
+	
+3.77
+	
+1.227
+	
+106
+
+
+SP
+	
+Kodai Senga
+	
+3.38
+	
+0.563
+	
+-
+
+
+SP/RP
+	
+David Peterson
+	
+2.85
+	
+1.305
+	
+94
+
+
+RP
+	
+José Buttó
+	
+2.64
+	
+1.102
+	
+93
+
+
+RP
+	
+Phil Maton
+	
+2.38
+	
+0.838
+	
+86
+
+
+RP
+	
+Reed Garrett
+	
+3.25
+	
+1.319
+	
+117
+
+
+CL
+	
+Edwin Díaz
+	
+3.66
+	
+1.029
+	
+124
+
+Credit the Mets for getting here. But it’s hard to see their pitching staff being the reason they make a deep run. The complicating factor in the Mets’ postseason pitching equation? Senga’s shoulder. If he’s healthy enough to pitch, as we’ve drawn up here, the Mets could piggyback him with José Quintana. If he’s not, Peterson and Quintana will round out the playoff rotation. In the late innings, the Mets have several ways to build a path to Díaz in the ninth. Maton and Garrett will be part of that, surely, and then there’s a toss-up between Buttó, Ryne Stanek and Adam Ottavino for other leverage opportunities. Stanek and Ottavino haven’t been at their best this season, but both have extensive postseason experience. Manager Carlos Mendoza will ride the hottest steadiest hand come October.
+
+14. Detroit Tigers
+
+The good: MLB’s best second-half ERA (and arguably best starter)
+The bad: Who are these guys? Can they keep up this pace?
+
+ROLE  	PLAYER  	ERA  	WHIP  	STUFF+  
+
+SP
+	
+Tarik Skubal
+	
+2.50
+	
+0.944
+	
+103
+
+
+SP
+	
+Reese Olson
+	
+3.50
+	
+1.206
+	
+91
+
+
+SP
+	
+Casey Mize
+	
+4.36
+	
+1.444
+	
+107
+
+
+SP/RP
+	
+Brant Hurter
+	
+2.56
+	
+0.828
+	
+90
+
+
+RP
+	
+Beau Brieske
+	
+3.77
+	
+1.374
+	
+110
+
+
+RP
+	
+Will Vest
+	
+3.05
+	
+1.185
+	
+100
+
+
+RP
+	
+Tyler Holton
+	
+2.12
+	
+0.787
+	
+84
+
+
+CL
+	
+Jason Foley
+	
+2.97
+	
+1.162
+	
+102
+
+With openers, bulk relievers and late-season call-ups, the Tigers have — fairly remarkably — pitched their way into the playoff race. They’re still longshots, but a bunch of the guys listed above, plus some rookies you’ve probably never heard of — Ty Madden, Sean Guenther, Brenan Hanifee, Keider Montero and his 15 straight scoreless innings — have produced the best second-half ERA in baseball (3.08). The Tigers’ pitching staff is a bunch of moving parts revolving around a Cy Young favorite in Skubal. Olson pitched well in the first half but was hit hard earlier this week in his first start back from the injured list. How manager A.J. Hinch might try to piece it together in October is anyone’s guess, but he’s somehow been making it work this past month. Maybe he can keep that magic going for a few more weeks.
+
+(Top photo of Zack Wheeler: Nick Wosika / Icon Sportswire via Getty Images)
+
+Get all-access to exclusive stories.
+
+Subscribe to The Athletic for in-depth coverage of your favorite players, teams, leagues and clubs. Try a week on us.
+
+Start Free Trial
+National
+Boxing
+Bundesliga
+Champions League
+Championship
+College Football
+College Sports
+Copa America
+Copa del Rey
+Culture
+Europa League
+European Championship
+FA Cup
+Fantasy Baseball
+Fantasy Basketball
+Fantasy Football
+Fantasy Hockey
+Fantasy Premier League
+Formula 1
+Gaming
+Golf
+International Football
+La Liga
+League Cup
+League One
+League Two
+LNH
+Memorabilia & Collectibles
+Men's College Basketball
+Men's World Cup
+Mixed Martial Arts
+MLB
+MLS
+Motorsports
+NASCAR
+NBA
+NFL
+NHL
+NWSL
+Olympics
+Opinion
+Premier League
+Scottish Premiership
+Serie A
+Soccer
+Sports Betting
+Sports Business
+Tennis
+Top Sports News
+UK Women's Football
+WNBA
+Women's College Basketball
+Women's Euros
+Women's Hockey
+Women's World Cup
+The Athletic Ink
+Podcasts
+Headlines
+US
+Arizona
+Atlanta
+Baltimore
+Bay Area
+Boston
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Columbus
+Dallas
+Denver
+Detroit
+Houston
+Indiana
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles
+Memphis
+Miami
+Minnesota
+Nashville
+New Orleans
+New York
+Oklahoma
+Oregon
+Orlando
+Philadelphia
+Pittsburgh
+Sacramento
+San Antonio
+San Diego
+Seattle
+St. Louis
+Tampa Bay
+Utah
+Washington DC
+Wisconsin
+Canada
+Calgary
+Edmonton
+Montreal
+Montréal (français)
+Ottawa
+Toronto
+Vancouver
+Winnipeg
+Partners
+Collectibles by eBay
+Odds by BetMGM
+Streaming by Fubo
+Tickets by StubHub
+Subscribe
+Start Subscription
+Buy a Gift
+Student Discount
+Group Subscriptions
+HQ
+About Us
+Careers
+Code of Conduct
+Editorial Guidelines
+Business Inquiries
+Press Inquiries
+Support
+FAQ
+Forgot Password?
+Redeem Gift
+Contact Us
+Terms of Service
+Newsletters
+The Pulse
+The Bounce
+The Windup
+Prime Tire
+Full Time
+Until Saturday
+Scoop City
+The Athletic FC
+MoneyCall
+©2025 The Athletic Media Company, A New York Times Company
+Privacy Policy
+Your Ad Choices
+Support
+Sitemap
+ 
+ 
+ ----- 
+ Source link : https://www.nytimes.com/athletic/5776400/2024/09/19/mlb-contenders-postseason-pitching-core/ 
+ ----- 

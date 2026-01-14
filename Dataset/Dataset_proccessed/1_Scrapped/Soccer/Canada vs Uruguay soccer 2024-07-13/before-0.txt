@@ -1,0 +1,516 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+Manage Preferences
+Welcome, football fans from around the world! Use FBref in: Deutsch · Français · English · Español · Português · Italiano
+MENU
+2024 Uruguay Stats (Copa América)
+Previous Season Next Season
+
+Last Match: Draw 1–1 at Brazil
+
+Next Match: Tuesday, Mar 4 vs Argentina
+
+Manager: Marcelo Bielsa
+
+Governing Country: CONMEBOL
+
+Copa América: Defeated Canada in Third-place match
+
+Become a Stathead & surf this site ad-free.
+Uruguay Stats & History
+More Uruguay Pages
+
+Stats by Competition
+
+Player Career Details
+
+Stats by Competition
+
+All Competitions Copa América Friendlies (M)
+
+Match Logs (All Competitions)
+
+Scores & Fixtures Shooting Goalkeeping Passing Pass Types Goal and Shot Creation Defensive Actions Possession Miscellaneous Stats
+
+Match Logs (Copa América)
+
+Scores & Fixtures Shooting Goalkeeping Passing Pass Types Goal and Shot Creation Defensive Actions Possession Miscellaneous Stats
+
+Match Logs (Friendlies (M))
+
+Scores & Fixtures Shooting Goalkeeping
+
+Competition Goal Logs
+
+All Competitions Copa América Friendlies (M)
+
+Affiliated Squads
+
+Uruguay women's national football team (F)
+2024 Competitions
+All CompetitionsCopa AméricaFriendlies (M)
+Standard Stats 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+		Playing Time	Performance	Expected	Progression	Per 90 Minutes	
+Player	Pos	Age	MP	Starts	Min	90s	Gls	Ast	G+A	G-PK	PK	PKatt	CrdY	CrdR	xG	npxG	xAG	npxG+xAG	PrgC	PrgP	PrgR	Gls	Ast	G+A	G-PK	G+A-PK	xG	xAG	xG+xAG	npxG	npxG+xAG	Matches
+Sergio Rochet	GK	30	6	6	540	6.0	0	0	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0	0	0	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	Matches
+Federico Valverde	MF	25	6	6	529	5.9	1	0	1	1	0	0	0	0	0.6	0.6	1.1	1.7	21	54	18	0.17	0.00	0.17	0.17	0.17	0.10	0.19	0.29	0.10	0.29	Matches
+Manuel Ugarte Ribeiro	MF	22	6	6	493	5.5	0	0	0	0	0	0	1	0	0.3	0.3	0.1	0.3	2	21	4	0.00	0.00	0.00	0.00	0.00	0.05	0.02	0.06	0.05	0.06	Matches
+Darwin Núñez	FW	24	6	6	472	5.2	2	0	2	2	0	0	1	0	2.6	2.6	0.5	3.1	7	9	35	0.38	0.00	0.38	0.38	0.38	0.50	0.09	0.59	0.50	0.59	Matches
+Facundo Pellistri	FW	22	6	6	447	5.0	1	1	2	1	0	0	0	0	1.2	1.2	0.4	1.6	9	4	27	0.20	0.20	0.40	0.20	0.40	0.24	0.09	0.32	0.24	0.32	Matches
+Maximiliano Araújo	FW,DF	23	6	6	446	5.0	2	1	3	2	0	0	0	0	0.7	0.7	0.6	1.4	11	12	41	0.40	0.20	0.61	0.40	0.61	0.15	0.13	0.28	0.15	0.28	Matches
+Nahitan Nández	DF	28	5	5	433	4.8	0	0	0	0	0	0	0	1	0.3	0.3	0.8	1.1	8	14	18	0.00	0.00	0.00	0.00	0.00	0.07	0.16	0.22	0.07	0.22	Matches
+Mathías Olivera	DF	26	5	5	374	4.2	1	0	1	1	0	0	0	0	0.9	0.9	0.0	0.9	6	29	2	0.24	0.00	0.24	0.24	0.24	0.21	0.00	0.21	0.21	0.21	Matches
+Matías Viña	DF	26	5	5	353	3.9	1	1	2	1	0	0	1	0	0.1	0.1	0.3	0.3	15	20	20	0.25	0.25	0.51	0.25	0.51	0.02	0.06	0.08	0.02	0.08	Matches
+Nicolás De La Cruz	MF	26	5	4	352	3.9	0	2	2	0	0	0	2	0	0.2	0.2	0.7	0.9	3	25	27	0.00	0.51	0.51	0.00	0.51	0.04	0.18	0.22	0.04	0.22	Matches
+Ronald Araújo	DF	24	4	4	257	2.9	0	1	1	0	0	0	0	0	0.1	0.1	0.9	1.0	3	14	0	0.00	0.35	0.35	0.00	0.35	0.02	0.32	0.35	0.02	0.35	Matches
+José María Giménez	DF	29	5	2	302	3.4	0	1	1	0	0	0	1	0	0.5	0.5	0.5	0.9	1	5	2	0.00	0.30	0.30	0.00	0.30	0.14	0.14	0.28	0.14	0.28	Matches
+Sebastián Cáceres	DF	24	5	2	258	2.9	0	1	1	0	0	0	0	0	0.2	0.2	0.2	0.3	0	3	0	0.00	0.35	0.35	0.00	0.35	0.06	0.05	0.12	0.06	0.12	Matches
+Rodrigo Bentancur	MF	26	6	2	170	1.9	2	0	2	2	0	0	1	0	0.5	0.5	0.1	0.6	2	9	2	1.06	0.00	1.06	1.06	1.06	0.26	0.05	0.32	0.26	0.32	Matches
+Giorgian De Arrascaeta	MF,FW	29	5	1	164	1.8	0	1	1	0	0	0	0	0	0.1	0.1	0.6	0.7	3	7	12	0.00	0.55	0.55	0.00	0.55	0.07	0.34	0.41	0.07	0.41	Matches
+Cristian Olivera	FW,DF	21	4	0	144	1.6	0	0	0	0	0	0	0	0	0.0	0.0	0.4	0.4	6	1	17	0.00	0.00	0.00	0.00	0.00	0.00	0.25	0.25	0.00	0.25	Matches
+Luis Suárez	FW	37	4	0	79	0.9	1	0	1	1	0	0	0	0	0.9	0.9	0.0	0.9	2	4	7	1.14	0.00	1.14	1.14	1.14	1.06	0.00	1.06	1.06	1.06	Matches
+Guillermo Varela	DF	30	2	0	46	0.5	0	0	0	0	0	0	1	0	0.0	0.0	0.0	0.0	0	2	0	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	Matches
+Lucas Olaza	DF	29	2	0	33	0.4	0	0	0	0	0	0	0	0	0.0	0.0	0.2	0.2	1	2	3	0.00	0.00	0.00	0.00	0.00	0.00	0.52	0.52	0.00	0.52	Matches
+Brian Rodríguez	FW	23	1	0	30	0.3	0	0	0	0	0	0	0	0	0.2	0.2	0.0	0.2	1	1	1	0.00	0.00	0.00	0.00	0.00	0.58	0.00	0.58	0.58	0.58	Matches
+Agustín Canobbio	MF	25	1	0	1	0.0	0	0	0	0	0	0	0	0	0.0	0.0	0.0	0.0	2	1	1	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	Matches
+Franco Israel	GK	23	0	0																												Matches
+Nicolas Marichal	DF	22	0	0																												Matches
+Emiliano Martínez	MF	24	0	0																												Matches
+Santiago Mele	GK	26	0	0																												Matches
+Brian Ocampo	MF	24	0	0																												Matches
+Squad Total		26.1	6	66	540	6.0	11	9	20	11	0	0	8	1	9.2	9.2	7.3	16.4	103	237	237	1.83	1.50	3.33	1.83	3.33	1.53	1.21	2.74	1.53	2.74	
+Opponent Total		26.4	6	66	540	6.0	4	3	7	4	0	0	15	1	4.7	4.7	4.1	8.8	58	155	154	0.67	0.50	1.17	0.67	1.17	0.79	0.68	1.47	0.79	1.47	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+2024 Competitions
+All CompetitionsCopa AméricaFriendlies (M)
+2024 Match Log Types
+Scores & FixturesShootingGoalkeepingPassingPass TypesGoal and Shot CreationDefensive ActionsPossessionMiscellaneous Stats
+Scores & Fixtures 2024 Uruguay: All Competitions 
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Date	Time	Comp	Round	Day	Venue	Result	GF	GA	Opponent	xG	xGA	Poss	Attendance	Captain	Formation	Opp Formation	Referee	Match Report	Notes
+2024-03-26	20:30 (19:30)	Friendlies (M)	Friendlies (M)	Tue	Neutral	L	1	2	ci Côte d'Ivoire					Federico Valverde	4-1-4-1	4-1-4-1		Match Report	
+2024-06-05	19:00 (01:00)	Friendlies (M)	Friendlies (M)	Wed	Neutral	W	4	0	mx Mexico				57,862	José María Giménez	4-2-3-1	4-2-3-1		Match Report	
+2024-06-23	21:00 (01:00)	Copa América	Group stage	Sun	Neutral	W	3	1	pa Panama	1.5	0.6	55	33,425	Federico Valverde	4-2-3-1	5-4-1	Piero Maza	Match Report	
+2024-06-27	21:00 (01:00)	Copa América	Group stage	Thu	Neutral	W	5	0	bo Bolivia	2.9	0.1	60	48,033	Federico Valverde	4-2-3-1	3-4-3	Juan Gabriel Benítez	Match Report	
+2024-07-01	20:00 (01:00)	Copa América	Group stage	Mon	Neutral	W	1	0	us United States	1.5	0.5	49		Federico Valverde	4-2-3-1	4-3-3	Kevin Ortega	Match Report	
+2024-07-06	18:00 (01:00)	Copa América	Quarter-finals	Sat	Neutral	D	0 (4)	0 (2)	br Brazil	0.9	0.6	40	50,770	Federico Valverde	4-2-3-1	4-2-3-1	Darío Herrera	Match Report	Uruguay won on penalty kicks following normal time
+2024-07-10	20:00 (00:00)	Copa América	Semi-finals	Wed	Neutral	L	0	1	co Colombia	0.8	1.2	61	70,644	José María Giménez	3-2-4-1	4-2-3-1	César Arturo Ramos	Match Report	
+2024-07-13	20:00 (00:00)	Copa América	Third-place match	Sat	Neutral	D	2 (4)	2 (3)	ca Canada	1.6	1.9	49		José María Giménez	4-3-3	4-2-3-1	Alexis Herrera	Match Report	Uruguay won on penalty kicks following normal time
+Includes all matches from 2024-01-01 to 2024-12-31 (as well as qualifying matches for tournaments that took place during the 2024 season).
+Goalkeeping 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Playing Time	Performance	Penalty Kicks	
+Player	Pos	Age	MP	Starts	Min	90s	GA	GA90	SoTA	Saves	Save%	W	D	L	CS	CS%	PKatt	PKA	PKsv	PKm	Save%	Matches
+Sergio Rochet	GK	30	6	6	540	6.0	4	0.67	18	14	77.8	3	2	1	3	50.0	0	0	0	0		Matches
+Squad Total		26.1	6	6	540	6.0	4	0.67	18	14	77.8	3	2	1	3	50.0	0	0	0	0		
+Opponent Total		26.4	6	6	540	6.0	11	1.83	29	18	62.1	1	2	3	2	33.3	0	0	0	0		
+Totals may not be complete for all senior-level play, see coverage note.
+Become a Stathead & surf this site ad-free.
+Advanced Goalkeeping 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Goals	Expected	Launched	Passes	Goal Kicks	Crosses	Sweeper	
+Player	Pos	Age	90s	GA	PKA	FK	CK	OG	PSxG	PSxG/SoT	PSxG+/-	/90	Cmp	Att	Cmp%	Att (GK)	Thr	Launch%	AvgLen	Att	Launch%	AvgLen	Opp	Stp	Stp%	#OPA	#OPA/90	AvgDist	Matches
+Sergio Rochet	GK	30	6.0	4	0	0	2	0	4.2	0.24	+0.2	+0.04	15	45	33.3	101	27	32.7	33.1	35	34.3	33.4	57	9	15.8	1	0.17	12.6	Matches
+Squad Total		26.1	6.0	4	0	0	2	0	4.2	0.24	+0.2	+0.04	15	45	33.3	101	27	32.7		35	34.3	33.4	57	9	15.8	1	0.17		
+Opponent Total		26.4	6.0	11	0	0	1	0	9.7	0.34	-1.3	-0.22	24	99	24.2	147	24	47.6	41.0	72	40.3	36.7	93	2	2.2	9	1.50	20.3	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Shooting 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Standard	Expected	
+Player	Pos	Age	90s	Gls	Sh	SoT	SoT%	Sh/90	SoT/90	G/Sh	G/SoT	Dist	FK	PK	PKatt	xG	npxG	npxG/Sh	G-xG	np:G-xG	Matches
+Sergio Rochet	GK	30	6.0	0	0	0		0.00	0.00				0	0	0	0.0	0.0		0.0	0.0	Matches
+Federico Valverde	MF	25	5.9	1	15	4	26.7	2.55	0.68	0.07	0.25	28.9	2	0	0	0.6	0.6	0.04	+0.4	+0.4	Matches
+Manuel Ugarte Ribeiro	MF	22	5.5	0	4	0	0.0	0.73	0.00	0.00		23.8	0	0	0	0.3	0.3	0.06	-0.3	-0.3	Matches
+Darwin Núñez	FW	24	5.2	2	21	5	23.8	4.00	0.95	0.10	0.40	13.8	1	0	0	2.6	2.6	0.12	-0.6	-0.6	Matches
+Facundo Pellistri	FW	22	5.0	1	3	2	66.7	0.60	0.40	0.33	0.50	8.2	0	0	0	1.2	1.2	0.39	-0.2	-0.2	Matches
+Maximiliano Araújo	FW,DF	23	5.0	2	11	7	63.6	2.22	1.41	0.18	0.29	16.1	0	0	0	0.7	0.7	0.07	+1.3	+1.3	Matches
+Nahitan Nández	DF	28	4.8	0	1	0	0.0	0.21	0.00	0.00		15.2	0	0	0	0.3	0.3	0.32	-0.3	-0.3	Matches
+Mathías Olivera	DF	26	4.2	1	4	1	25.0	0.96	0.24	0.25	1.00	9.3	0	0	0	0.9	0.9	0.22	+0.1	+0.1	Matches
+Matías Viña	DF	26	3.9	1	2	1	50.0	0.51	0.25	0.50	1.00	13.2	0	0	0	0.1	0.1	0.03	+0.9	+0.9	Matches
+Nicolás De La Cruz	MF	26	3.9	0	5	2	40.0	1.28	0.51	0.00	0.00	25.4	0	0	0	0.2	0.2	0.03	-0.2	-0.2	Matches
+Ronald Araújo	DF	24	2.9	0	3	1	33.3	1.05	0.35	0.00	0.00	20.9	0	0	0	0.1	0.1	0.02	-0.1	-0.1	Matches
+José María Giménez	DF	29	3.4	0	4	0	0.0	1.19	0.00	0.00		10.9	0	0	0	0.5	0.5	0.12	-0.5	-0.5	Matches
+Sebastián Cáceres	DF	24	2.9	0	2	0	0.0	0.70	0.00	0.00		8.4	0	0	0	0.2	0.2	0.09	-0.2	-0.2	Matches
+Rodrigo Bentancur	MF	26	1.9	2	2	2	100.0	1.06	1.06	1.00	1.00	4.5	0	0	0	0.5	0.5	0.25	+1.5	+1.5	Matches
+Giorgian De Arrascaeta	MF,FW	29	1.8	0	2	1	50.0	1.10	0.55	0.00	0.00	16.9	0	0	0	0.1	0.1	0.07	-0.1	-0.1	Matches
+Cristian Olivera	FW,DF	21	1.6	0	0	0		0.00	0.00				0	0	0	0.0	0.0		0.0	0.0	Matches
+Luis Suárez	FW	37	0.9	1	5	3	60.0	5.70	3.42	0.20	0.33	14.4	0	0	0	0.9	0.9	0.19	+0.1	+0.1	Matches
+Guillermo Varela	DF	30	0.5	0	0	0		0.00	0.00				0	0	0	0.0	0.0		0.0	0.0	Matches
+Lucas Olaza	DF	29	0.4	0	0	0		0.00	0.00				0	0	0	0.0	0.0		0.0	0.0	Matches
+Brian Rodríguez	FW	23	0.3	0	1	0	0.0	3.00	0.00	0.00		11.2	0	0	0	0.2	0.2	0.19	-0.2	-0.2	Matches
+Agustín Canobbio	MF	25	0.0	0	0	0		0.00	0.00				0	0	0	0.0	0.0		0.0	0.0	Matches
+Squad Total		26.1	6.0	11	85	29	34.1	14.17	4.83	0.13	0.38	17.3	3	0	0	9.2	9.2	0.11	+1.8	+1.8	
+Opponent Total		26.4	6.0	4	54	18	33.3	9.00	3.00	0.07	0.22	20.1	4	0	0	4.7	4.7	0.09	-0.7	-0.7	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Passing 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Total	Short	Medium	Long		Expected		
+Player	Pos	Age	90s	Cmp	Att	Cmp%	TotDist	PrgDist	Cmp	Att	Cmp%	Cmp	Att	Cmp%	Cmp	Att	Cmp%	Ast	xAG	xA	A-xAG	KP	1/3	PPA	CrsPA	PrgP	Matches
+Sergio Rochet	GK	30	6.0	99	136	72.8	2497	1706	29	30	96.7	37	37	100.0	31	66	47.0	0	0.0	0.0	0.0	0	1	0	0	0	Matches
+Federico Valverde	MF	25	5.9	262	316	82.9	5294	1720	105	119	88.2	110	121	90.9	40	53	75.5	0	1.1	1.9	-1.1	9	42	17	2	54	Matches
+Manuel Ugarte Ribeiro	MF	22	5.5	207	235	88.1	3946	838	82	89	92.1	97	104	93.3	25	33	75.8	0	0.1	0.1	-0.1	3	15	1	0	21	Matches
+Darwin Núñez	FW	24	5.2	51	74	68.9	882	207	25	31	80.6	17	24	70.8	6	7	85.7	0	0.5	0.3	-0.5	4	4	1	0	9	Matches
+Facundo Pellistri	FW	22	5.0	60	82	73.2	758	189	41	49	83.7	14	20	70.0	2	4	50.0	1	0.4	0.4	+0.6	6	2	3	2	4	Matches
+Maximiliano Araújo	FW,DF	23	5.0	71	104	68.3	1224	352	37	52	71.2	25	36	69.4	7	9	77.8	1	0.6	0.6	+0.4	6	4	9	4	12	Matches
+Nahitan Nández	DF	28	4.8	140	212	66.0	2776	914	57	71	80.3	58	78	74.4	21	45	46.7	0	0.8	0.7	-0.8	4	10	7	4	14	Matches
+Mathías Olivera	DF	26	4.2	203	229	88.6	4064	1338	66	71	93.0	106	119	89.1	26	30	86.7	0	0.0	0.1	0.0	1	29	0	0	29	Matches
+Matías Viña	DF	26	3.9	137	195	70.3	2156	789	62	74	83.8	63	79	79.7	5	25	20.0	1	0.3	0.1	+0.7	5	15	1	1	20	Matches
+Nicolás De La Cruz	MF	26	3.9	111	164	67.7	2178	739	47	58	81.0	43	53	81.1	19	37	51.4	2	0.7	0.7	+1.3	14	17	9	2	25	Matches
+Ronald Araújo	DF	24	2.9	132	165	80.0	2895	950	32	39	82.1	76	85	89.4	24	40	60.0	1	0.9	0.5	+0.1	1	17	0	0	14	Matches
+José María Giménez	DF	29	3.4	124	148	83.8	2729	1141	36	37	97.3	62	75	82.7	26	34	76.5	1	0.5	0.2	+0.5	1	6	0	0	5	Matches
+Sebastián Cáceres	DF	24	2.9	90	112	80.4	1771	757	28	32	87.5	52	60	86.7	9	16	56.3	1	0.2	0.0	+0.8	3	3	1	1	3	Matches
+Rodrigo Bentancur	MF	26	1.9	48	64	75.0	823	383	22	25	88.0	16	22	72.7	8	12	66.7	0	0.1	0.1	-0.1	1	6	0	0	9	Matches
+Giorgian De Arrascaeta	MF,FW	29	1.8	60	85	70.6	1196	396	28	32	87.5	17	20	85.0	13	26	50.0	1	0.6	0.9	+0.4	4	9	4	2	7	Matches
+Cristian Olivera	FW,DF	21	1.6	24	34	70.6	348	131	13	15	86.7	8	14	57.1	1	1	100.0	0	0.4	0.1	-0.4	3	2	2	1	1	Matches
+Luis Suárez	FW	37	0.9	19	28	67.9	196	61	12	15	80.0	4	6	66.7	0	1	0.0	0	0.0	0.5	0.0	0	2	3	0	4	Matches
+Guillermo Varela	DF	30	0.5	15	18	83.3	239	83	9	9	100.0	5	6	83.3	1	2	50.0	0	0.0	0.0	0.0	0	2	0	0	2	Matches
+Lucas Olaza	DF	29	0.4	18	22	81.8	361	171	8	8	100.0	7	10	70.0	3	4	75.0	0	0.2	0.0	-0.2	1	2	1	1	2	Matches
+Brian Rodríguez	FW	23	0.3	9	13	69.2	115	53	6	6	100.0	2	3	66.7	1	3	33.3	0	0.0	0.0	0.0	0	1	0	0	1	Matches
+Agustín Canobbio	MF	25	0.0	3	4	75.0	33	11	2	2	100.0	1	1	100.0	0	0		0	0.0	0.0	0.0	0	0	0	0	1	Matches
+Squad Total		26.1	6.0	1883	2440	77.2	36481	12929	747	864	86.5	820	973	84.3	268	448	59.8	9	7.3	7.3	+1.7	66	189	59	20	237	
+Opponent Total		26.4	6.0	1645	2193	75.0	29703	12154	710	825	86.1	730	854	85.5	169	392	43.1	3	4.1	3.7	-1.1	41	127	35	8	155	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Pass Types 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Pass Types	Corner Kicks	Outcomes	
+Player	Pos	Age	90s	Att	Live	Dead	FK	TB	Sw	Crs	TI	CK	In	Out	Str	Cmp	Off	Blocks	Matches
+Sergio Rochet	GK	30	6.0	136	92	44	9	0	0	0	0	0	0	0	0	99	0	1	Matches
+Federico Valverde	MF	25	5.9	316	298	14	7	7	11	9	3	4	2	2	0	262	4	4	Matches
+Manuel Ugarte Ribeiro	MF	22	5.5	235	222	12	8	1	3	2	4	0	0	0	0	207	1	1	Matches
+Darwin Núñez	FW	24	5.2	74	65	9	1	0	2	1	0	1	0	0	0	51	0	3	Matches
+Facundo Pellistri	FW	22	5.0	82	81	1	0	0	0	9	1	0	0	0	0	60	0	4	Matches
+Maximiliano Araújo	FW,DF	23	5.0	104	102	1	1	1	1	11	0	0	0	0	0	71	1	4	Matches
+Nahitan Nández	DF	28	4.8	212	163	48	7	4	7	19	41	0	0	0	0	140	1	5	Matches
+Mathías Olivera	DF	26	4.2	229	215	13	5	0	3	0	8	0	0	0	0	203	1	1	Matches
+Matías Viña	DF	26	3.9	195	146	47	4	1	1	5	43	0	0	0	0	137	2	6	Matches
+Nicolás De La Cruz	MF	26	3.9	164	137	25	9	3	3	22	2	13	6	4	0	111	2	6	Matches
+Ronald Araújo	DF	24	2.9	165	155	10	8	2	3	0	2	0	0	0	0	132	0	0	Matches
+José María Giménez	DF	29	3.4	148	138	10	9	1	1	0	1	0	0	0	0	124	0	1	Matches
+Sebastián Cáceres	DF	24	2.9	112	102	10	6	0	1	1	4	0	0	0	0	90	0	2	Matches
+Rodrigo Bentancur	MF	26	1.9	64	63	1	1	1	0	0	0	0	0	0	0	48	0	1	Matches
+Giorgian De Arrascaeta	MF,FW	29	1.8	85	62	22	8	2	1	18	1	12	4	6	0	60	1	2	Matches
+Cristian Olivera	FW,DF	21	1.6	34	32	2	0	0	0	8	2	0	0	0	0	24	0	2	Matches
+Luis Suárez	FW	37	0.9	28	27	1	0	1	0	1	0	0	0	0	0	19	0	2	Matches
+Guillermo Varela	DF	30	0.5	18	15	3	0	0	0	0	3	0	0	0	0	15	0	0	Matches
+Lucas Olaza	DF	29	0.4	22	17	5	0	0	0	3	5	0	0	0	0	18	0	0	Matches
+Brian Rodríguez	FW	23	0.3	13	11	2	0	0	0	4	0	2	0	2	0	9	0	0	Matches
+Agustín Canobbio	MF	25	0.0	4	3	1	0	0	0	1	1	0	0	0	0	3	0	1	Matches
+Squad Total		26.1	6.0	2440	2146	281	83	24	37	114	121	32	12	14	0	1883	13	46	
+Opponent Total		26.4	6.0	2193	1838	350	97	5	8	73	144	20	15	4	0	1645	5	54	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Goal and Shot Creation 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	SCA	SCA Types	GCA	GCA Types	
+Player	Pos	Age	90s	SCA	SCA90	PassLive	PassDead	TO	Sh	Fld	Def	GCA	GCA90	PassLive	PassDead	TO	Sh	Fld	Def	Matches
+Sergio Rochet	GK	30	6.0	1	0.17	1	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Federico Valverde	MF	25	5.9	28	4.76	24	2	0	2	0	0	2	0.34	2	0	0	0	0	0	Matches
+Manuel Ugarte Ribeiro	MF	22	5.5	6	1.10	3	0	0	2	0	1	0	0.00	0	0	0	0	0	0	Matches
+Darwin Núñez	FW	24	5.2	16	3.05	7	1	4	2	2	0	1	0.19	1	0	0	0	0	0	Matches
+Facundo Pellistri	FW	22	5.0	9	1.81	9	0	0	0	0	0	1	0.20	1	0	0	0	0	0	Matches
+Maximiliano Araújo	FW,DF	23	5.0	16	3.23	9	0	2	2	3	0	3	0.61	1	0	0	1	1	0	Matches
+Nahitan Nández	DF	28	4.8	9	1.87	6	0	0	0	2	1	1	0.21	0	0	0	0	1	0	Matches
+Mathías Olivera	DF	26	4.2	3	0.72	3	0	0	0	0	0	1	0.24	1	0	0	0	0	0	Matches
+Matías Viña	DF	26	3.9	7	1.78	6	1	0	0	0	0	1	0.25	1	0	0	0	0	0	Matches
+Nicolás De La Cruz	MF	26	3.9	25	6.39	16	7	1	0	1	0	3	0.77	1	2	0	0	0	0	Matches
+Ronald Araújo	DF	24	2.9	3	1.05	2	0	0	1	0	0	2	0.70	1	0	0	1	0	0	Matches
+José María Giménez	DF	29	3.4	2	0.60	2	0	0	0	0	0	1	0.30	1	0	0	0	0	0	Matches
+Sebastián Cáceres	DF	24	2.9	3	1.05	1	0	0	2	0	0	1	0.35	0	0	0	1	0	0	Matches
+Rodrigo Bentancur	MF	26	1.9	1	0.53	1	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Giorgian De Arrascaeta	MF,FW	29	1.8	8	4.39	3	4	0	1	0	0	2	1.10	1	1	0	0	0	0	Matches
+Cristian Olivera	FW,DF	21	1.6	4	2.50	4	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Luis Suárez	FW	37	0.9	4	4.56	1	0	2	0	1	0	0	0.00	0	0	0	0	0	0	Matches
+Guillermo Varela	DF	30	0.5	0	0.00	0	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Lucas Olaza	DF	29	0.4	1	2.73	1	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Brian Rodríguez	FW	23	0.3	2	6.00	0	1	0	1	0	0	0	0.00	0	0	0	0	0	0	Matches
+Agustín Canobbio	MF	25	0.0	0	0.00	0	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Squad Total		26.1	6.0	148	24.67	99	16	9	13	9	2	19	3.17	11	3	0	3	2	0	
+Opponent Total		26.4	6.0	88	14.67	52	18	3	5	9	1	6	1.00	1	2	1	2	0	0	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Defensive Actions 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Tackles	Challenges	Blocks		
+Player	Pos	Age	90s	Tkl	TklW	Def 3rd	Mid 3rd	Att 3rd	Tkl	Att	Tkl%	Lost	Blocks	Sh	Pass	Int	Tkl+Int	Clr	Err	Matches
+Sergio Rochet	GK	30	6.0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	3	Matches
+Federico Valverde	MF	25	5.9	9	7	3	5	1	6	11	54.5	5	3	0	3	6	15	6	0	Matches
+Manuel Ugarte Ribeiro	MF	22	5.5	25	19	10	10	5	6	12	50.0	6	8	1	7	7	32	12	0	Matches
+Darwin Núñez	FW	24	5.2	5	3	1	1	3	2	3	66.7	1	4	1	3	0	5	4	0	Matches
+Facundo Pellistri	FW	22	5.0	16	8	7	6	3	6	8	75.0	2	6	0	6	1	17	3	0	Matches
+Maximiliano Araújo	FW,DF	23	5.0	5	3	1	2	2	2	8	25.0	6	4	0	4	0	5	3	0	Matches
+Nahitan Nández	DF	28	4.8	15	10	5	8	2	7	18	38.9	11	8	2	6	6	21	12	0	Matches
+Mathías Olivera	DF	26	4.2	12	9	11	1	0	7	9	77.8	2	4	2	2	7	19	8	1	Matches
+Matías Viña	DF	26	3.9	9	5	2	4	3	3	7	42.9	4	3	0	3	3	12	6	1	Matches
+Nicolás De La Cruz	MF	26	3.9	5	3	0	4	1	4	5	80.0	1	1	0	1	2	7	1	0	Matches
+Ronald Araújo	DF	24	2.9	5	4	3	2	0	1	2	50.0	1	4	2	2	6	11	15	0	Matches
+José María Giménez	DF	29	3.4	4	1	3	1	0	0	5	0.0	5	5	5	0	9	13	14	0	Matches
+Sebastián Cáceres	DF	24	2.9	10	4	5	4	1	4	7	57.1	3	4	0	4	3	13	9	0	Matches
+Rodrigo Bentancur	MF	26	1.9	5	0	3	2	0	2	4	50.0	2	3	0	3	6	11	3	0	Matches
+Giorgian De Arrascaeta	MF,FW	29	1.8	3	2	1	2	0	0	3	0.0	3	2	0	2	0	3	0	0	Matches
+Cristian Olivera	FW,DF	21	1.6	4	4	1	2	1	0	0		0	1	0	1	0	4	2	0	Matches
+Luis Suárez	FW	37	0.9	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	Matches
+Guillermo Varela	DF	30	0.5	3	2	3	0	0	2	3	66.7	1	0	0	0	0	3	1	0	Matches
+Lucas Olaza	DF	29	0.4	2	1	0	2	0	0	0		0	0	0	0	0	2	0	0	Matches
+Brian Rodríguez	FW	23	0.3	1	0	0	1	0	0	0		0	2	0	2	0	1	0	0	Matches
+Agustín Canobbio	MF	25	0.0	1	0	0	0	1	0	0		0	0	0	0	0	1	0	0	Matches
+Squad Total		26.1	6.0	139	85	59	57	23	52	105	49.5	53	62	13	49	56	195	99	5	
+Opponent Total		26.4	6.0	118	62	45	57	16	51	106	48.1	55	60	20	40	51	169	124	0	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Possession 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Touches	Take-Ons	Carries	Receiving	
+Player	Pos	Age	90s	Touches	Def Pen	Def 3rd	Mid 3rd	Att 3rd	Att Pen	Live	Att	Succ	Succ%	Tkld	Tkld%	Carries	TotDist	PrgDist	PrgC	1/3	CPA	Mis	Dis	Rec	PrgR	Matches
+Sergio Rochet	GK	30	6.0	145	135	143	2	0	0	145	0	0		0		77	489	298	0	0	0	1	0	48	0	Matches
+Federico Valverde	MF	25	5.9	366	5	61	209	100	6	366	6	4	66.7	2	33.3	220	1439	893	21	11	1	2	4	266	18	Matches
+Manuel Ugarte Ribeiro	MF	22	5.5	314	22	92	167	62	1	314	8	3	37.5	5	62.5	164	858	455	2	5	0	9	7	181	4	Matches
+Darwin Núñez	FW	24	5.2	141	5	12	52	81	37	141	25	13	52.0	12	48.0	73	601	200	7	3	6	6	11	88	35	Matches
+Facundo Pellistri	FW	22	5.0	131	1	26	40	65	12	131	12	5	41.7	6	50.0	74	502	207	9	3	7	10	9	76	27	Matches
+Maximiliano Araújo	FW,DF	23	5.0	154	1	18	55	84	21	154	13	6	46.2	6	46.2	101	510	291	11	5	4	9	5	105	41	Matches
+Nahitan Nández	DF	28	4.8	277	10	83	131	65	2	277	12	7	58.3	2	16.7	118	681	397	8	7	1	6	5	135	18	Matches
+Mathías Olivera	DF	26	4.2	266	22	93	161	16	4	266	0	0		0		170	1314	944	6	3	0	4	4	174	2	Matches
+Matías Viña	DF	26	3.9	239	9	50	120	72	9	239	7	3	42.9	4	57.1	112	719	489	15	8	3	5	2	131	20	Matches
+Nicolás De La Cruz	MF	26	3.9	198	1	12	92	94	4	198	9	5	55.6	1	11.1	117	494	189	3	3	0	5	6	139	27	Matches
+Ronald Araújo	DF	24	2.9	202	15	77	118	8	5	202	1	0	0.0	1	100.0	108	793	582	3	1	0	0	2	118	0	Matches
+José María Giménez	DF	29	3.4	194	27	117	69	11	8	194	2	1	50.0	1	50.0	91	487	339	1	1	0	1	1	109	2	Matches
+Sebastián Cáceres	DF	24	2.9	149	17	98	45	8	4	149	1	1	100.0	0	0.0	68	302	167	0	0	0	4	0	74	0	Matches
+Rodrigo Bentancur	MF	26	1.9	96	4	26	65	11	4	96	9	3	33.3	6	66.7	48	343	129	2	1	0	3	5	50	2	Matches
+Giorgian De Arrascaeta	MF,FW	29	1.8	102	0	5	41	56	6	102	2	0	0.0	2	100.0	51	206	106	3	2	0	4	1	57	12	Matches
+Cristian Olivera	FW,DF	21	1.6	48	1	7	10	33	5	48	1	1	100.0	0	0.0	34	217	106	6	0	2	5	3	34	17	Matches
+Luis Suárez	FW	37	0.9	43	0	1	15	27	12	43	6	3	50.0	2	33.3	21	72	28	2	0	3	5	1	32	7	Matches
+Guillermo Varela	DF	30	0.5	22	3	10	11	1	0	22	0	0		0		10	25	10	0	0	0	0	1	11	0	Matches
+Lucas Olaza	DF	29	0.4	26	0	2	17	7	0	26	0	0		0		15	52	27	1	0	0	1	0	17	3	Matches
+Brian Rodríguez	FW	23	0.3	17	0	2	6	9	1	17	1	0	0.0	1	100.0	10	63	24	1	0	0	0	0	10	1	Matches
+Agustín Canobbio	MF	25	0.0	7	0	1	2	4	1	7	0	0		0		5	40	18	2	1	0	2	0	5	1	Matches
+Squad Total		26.1	6.0	3137	278	936	1428	814	142	3137	115	55	47.8	51	44.3	1687	10207	5899	103	54	27	82	67	1860	237	
+Opponent Total		26.4	6.0	2871	402	999	1309	590	90	2871	116	53	45.7	52	44.8	1320	6970	3518	58	46	10	103	87	1632	154	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Playing Time 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+		Playing Time	Starts	Subs	Team Success	Team Success (xG)	
+Player	Pos	Age	MP	Min	Mn/MP	Min%	90s	Starts	Mn/Start	Compl	Subs	Mn/Sub	unSub	PPM	onG	onGA	+/-	+/-90	On-Off	onxG	onxGA	xG+/-	xG+/-90	On-Off	Matches
+Sergio Rochet	GK	30	6	540	90	100.0	6.0	6	90	6	0		0	1.83	11	4	+7	+1.17		9.2	4.7	+4.4	+0.73		Matches
+Federico Valverde	MF	25	6	529	88	98.0	5.9	6	88	4	0		0	1.83	8	3	+5	+0.85	-15.51	8.5	4.7	+3.8	+0.65	-4.01	Matches
+Manuel Ugarte Ribeiro	MF	22	6	493	82	91.3	5.5	6	82	4	0		0	1.83	10	3	+7	+1.28	+1.28	7.8	4.0	+3.9	+0.71	-0.34	Matches
+Darwin Núñez	FW	24	6	472	79	87.4	5.2	6	79	2	0		0	1.83	9	3	+6	+1.14	-0.18	7.4	3.9	+3.5	+0.66	-0.57	Matches
+Facundo Pellistri	FW	22	6	447	75	82.8	5.0	6	75	2	0		0	1.83	9	3	+6	+1.21	+0.24	7.0	3.8	+3.2	+0.65	-0.47	Matches
+Maximiliano Araújo	FW,DF	23	6	446	74	82.6	5.0	6	74	4	0		0	1.83	9	3	+6	+1.21	+0.25	6.5	4.0	+2.4	+0.49	-1.39	Matches
+Nahitan Nández	DF	28	5	433	87	80.2	4.8	5	87	4	0		0	2.20	11	3	+8	+1.66	+2.50	8.4	3.5	+4.9	+1.01	+1.39	Matches
+Mathías Olivera	DF	26	5	374	75	69.3	4.2	5	75	3	0		1	2.00	7	1	+6	+1.44	+0.90	6.7	2.0	+4.7	+1.13	+1.28	Matches
+Matías Viña	DF	26	5	353	71	65.4	3.9	5	71	1	0		1	2.20	9	2	+7	+1.78	+1.78	6.5	2.8	+3.6	+0.92	+0.53	Matches
+Nicolás De La Cruz	MF	26	5	352	70	65.2	3.9	4	80	0	1	31	0	2.00	7	2	+5	+1.28	+0.32	5.7	1.7	+4.0	+1.03	+0.84	Matches
+Ronald Araújo	DF	24	4	257	64	47.6	2.9	4	64	2	0		2	2.50	7	0	+7	+2.45	+2.45	5.6	0.7	+4.9	+1.70	+1.84	Matches
+José María Giménez	DF	29	5	302	60	55.9	3.4	2	90	2	3	41	1	1.60	4	4	0	0.00	-2.65	3.7	4.4	-0.7	-0.20	-2.12	Matches
+Sebastián Cáceres	DF	24	5	258	52	47.8	2.9	2	90	2	3	26	1	1.60	4	4	0	0.00	-2.23	3.1	3.5	-0.5	-0.16	-1.71	Matches
+Rodrigo Bentancur	MF	26	6	170	28	31.5	1.9	2	62	1	4	12	0	1.83	5	3	+2	+1.06	-0.16	2.6	2.6	+0.1	+0.03	-1.03	Matches
+Giorgian De Arrascaeta	MF,FW	29	5	164	33	30.4	1.8	1	59	0	4	26	1	1.60	3	1	+2	+1.10	-0.10	3.3	1.7	+1.6	+0.85	+0.17	Matches
+Cristian Olivera	FW,DF	21	4	144	36	26.7	1.6	0		0	4	36	2	1.75	3	1	+2	+1.25	+0.11	3.6	1.4	+2.2	+1.38	+0.87	Matches
+Luis Suárez	FW	37	4	79	20	14.6	0.9	0		0	4	20	2	1.75	2	1	+1	+1.14	-0.03	2.2	1.4	+0.8	+0.94	+0.25	Matches
+Guillermo Varela	DF	30	2	46	23	8.5	0.5	0		0	2	23	3	0.50	0	1	-1	-1.96	-3.41	0.0	0.4	-0.3	-0.44	-1.35	Matches
+Lucas Olaza	DF	29	2	33	17	6.1	0.4	0		0	2	17	4	2.00	2	1	+1	+2.73	+1.66	1.5	0.2	+1.4	+3.68	+3.14	Matches
+Brian Rodríguez	FW	23	1	30	30	5.6	0.3	0		0	1	30	5	1.00	1	1	0	0.00	-1.24	1.2	0.3	+0.9	+2.75	+2.13	Matches
+Agustín Canobbio	MF	25	1	1	1	0.2	0.0	0		0	1	1	5	0.00	0	0	0	0.00	-1.17	0.2	0.4	-0.2	-18.65	-19.42	Matches
+Franco Israel	GK	23	0					0		0	0		6												Matches
+Nicolas Marichal	DF	22	0					0		0	0		6												Matches
+Emiliano Martínez	MF	24	0					0		0	0		6												Matches
+Santiago Mele	GK	26	0					0		0	0		6												Matches
+Brian Ocampo	MF	24	0					0		0	0		6												Matches
+Squad Total		26.1	6	540	90	100	6.0	66	79	37	29	25	58	1.83	11	4	+7	+1.17		9.2	4.7	+4.4	+0.73		
+Opponent Total		26.4	6	540	90	100	6.0	66	79	36	29	17	57	0.83	4	11	-7	-1.17		4.7	9.2	-4.4	-0.73		
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Miscellaneous Stats 2024 Uruguay: Copa América 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Performance	Aerial Duels	
+Player	Pos	Age	90s	CrdY	CrdR	2CrdY	Fls	Fld	Off	Crs	Int	TklW	PKwon	PKcon	OG	Recov	Won	Lost	Won%	Matches
+Sergio Rochet	GK	30	6.0	0	0	0	0	2	0	0	0	0	0	0	0	4	0	0		Matches
+Federico Valverde	MF	25	5.9	0	0	0	3	4	0	9	6	7	0	0	0	21	3	1	75.0	Matches
+Manuel Ugarte Ribeiro	MF	22	5.5	1	0	0	9	7	0	2	7	19	0	0	0	34	5	4	55.6	Matches
+Darwin Núñez	FW	24	5.2	1	0	0	6	6	5	1	0	3	0	0	0	17	7	13	35.0	Matches
+Facundo Pellistri	FW	22	5.0	0	0	0	11	6	3	9	1	8	0	0	0	22	3	5	37.5	Matches
+Maximiliano Araújo	FW,DF	23	5.0	0	0	0	10	11	3	11	0	3	0	0	0	18	5	6	45.5	Matches
+Nahitan Nández	DF	28	4.8	0	1	0	13	6	0	19	6	10	0	0	0	17	2	1	66.7	Matches
+Mathías Olivera	DF	26	4.2	0	0	0	2	3	0	0	7	9	0	0	0	27	12	1	92.3	Matches
+Matías Viña	DF	26	3.9	1	0	0	1	3	0	5	3	5	0	0	0	13	10	3	76.9	Matches
+Nicolás De La Cruz	MF	26	3.9	2	0	0	10	15	0	22	2	3	0	0	0	19	4	5	44.4	Matches
+Ronald Araújo	DF	24	2.9	0	0	0	1	1	2	0	6	4	0	0	0	12	17	7	70.8	Matches
+José María Giménez	DF	29	3.4	1	0	0	5	1	0	0	9	1	0	0	0	10	11	9	55.0	Matches
+Sebastián Cáceres	DF	24	2.9	0	0	0	2	5	0	1	3	4	0	0	0	14	6	5	54.5	Matches
+Rodrigo Bentancur	MF	26	1.9	1	0	0	7	1	0	0	6	0	0	0	0	16	5	1	83.3	Matches
+Giorgian De Arrascaeta	MF,FW	29	1.8	0	0	0	3	1	0	18	0	2	0	0	0	5	2	4	33.3	Matches
+Cristian Olivera	FW,DF	21	1.6	0	0	0	3	4	0	8	0	4	0	0	0	6	0	0		Matches
+Luis Suárez	FW	37	0.9	0	0	0	2	1	0	1	0	0	0	0	0	5	0	0		Matches
+Guillermo Varela	DF	30	0.5	1	0	0	1	0	0	0	0	2	0	0	0	1	1	0	100.0	Matches
+Lucas Olaza	DF	29	0.4	0	0	0	1	1	0	3	0	1	0	0	0	2	0	0		Matches
+Brian Rodríguez	FW	23	0.3	0	0	0	0	0	0	4	0	0	0	0	0	3	0	0		Matches
+Agustín Canobbio	MF	25	0.0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0		Matches
+Squad Total		26.1	6.0	8	1	0	90	79	13	114	56	85	0	0	0	267	93	65	58.9	
+Opponent Total		26.4	6.0	15	1	1	81	83	5	73	51	62	0	0	0	231	65	93	41.1	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Group stage (June 20, 2024 to July 2, 2024)
+Group C, Copa América 
+promoted, relegated, Cup QualifierView Complete League Table Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Rk	Squad	MP	W	D	L	GF	GA	GD	Pts	xG	xGA	xGD	xGD/90	Top Team Scorer	Goalkeeper	Notes
+1	uy Uruguay	3	3	0	0	9	1	+8	9	6.0	1.1	+4.9	+1.62	Rodrigo Bentancur, Darwin Núñez... - 2	Sergio Rochet	→ Quarter-finals
+2	pa Panama	3	2	0	1	6	5	+1	6	2.5	3.3	-0.8	-0.26	José Fajardo - 2	Orlando Mosquera	→ Quarter-finals
+3	us United States	3	1	0	2	3	3	0	3	4.1	2.5	+1.6	+0.54	Folarin Balogun - 2	Matt Turner	
+4	bo Bolivia	3	0	0	3	1	10	-9	0	1.0	6.6	-5.7	-1.90	Bruno Miranda - 1	Guillermo Vizcarra	
+Quarter-finals (July 4, 2024 to July 6, 2024)
+Result
+uy Uruguay
+0–0
+Brazil br
+Uruguay won on penalty kicks following normal time and advance to Semi-finals.
+
+Semi-finals (July 9, 2024 to July 10, 2024)
+Result
+co Colombia
+1–0
+Uruguay uy
+Colombia won match in normal time and advance to Final.
+Uruguay advance to Third-place match.
+
+Third-place match (July 13, 2024)
+Result
+uy Uruguay
+2–2
+Canada ca
+Uruguay won on penalty kicks following normal time.
+
+About FBref.com
+
+FBref.com launched (June 13, 2018) with domestic league coverage for England, France, Germany, Italy, Spain, and United States. Since then we have been steadily expanding our coverage to include domestic leagues from over 40 countries as well as domestic cup, super cup and youth leagues from top European countries. We have also added coverage for major international cups such as the UEFA Champions League and Copa Libertadores.
+
+FBref is the most complete sources for women's football data on the internet. This includes the entire history of the FIFA Women's World Cup as well as recent domestic league seasons from nine countries, including advanced stats like xG for most of those nine.
+
+In collaboration with Opta, we are including advanced analytical data such as xG, xA, progressive passing, duels and more for over twenty competitions. For more information on the expected goals model and which competitions have advanced data, see our xG explainer.
+
+View Additional Information
+More Uruguay Pages
+
+Uruguay Stats & History
+
+Stats by Competition
+
+Player Career Details
+
+Stats by Competition
+
+All Competitions Copa América Friendlies (M)
+
+Match Logs (All Competitions)
+
+Scores & Fixtures Shooting Goalkeeping Passing Pass Types Goal and Shot Creation Defensive Actions Possession Miscellaneous Stats
+
+Match Logs (Copa América)
+
+Scores & Fixtures Shooting Goalkeeping Passing Pass Types Goal and Shot Creation Defensive Actions Possession Miscellaneous Stats
+
+Match Logs (Friendlies (M))
+
+Scores & Fixtures Shooting Goalkeeping
+
+Competition Goal Logs
+
+All Competitions Copa América Friendlies (M)
+
+Affiliated Squads
+
+Uruguay women's national football team (F)
+Previous Season Next Season
+Ad-Free Login Create Account
+You are here: FB Home Page > Squads > Uruguay Men Stats, Copa América
+Full Site Menu 
+Return to Top
+Stathead/FBref
+Player Match Finder, Player Season Finder, Team Match Finder, Team Season Finder, ...
+Players
+Edin Džeko, Stefan Kießling, Stefanie van der Gragt, Alexandra Popp, Nilla Fischer, Zlatan Ibrahimović, Henrikh Mkhitaryan, Onome Ebi, Daniel Parejo, Ivan Rakitić, Álvaro Negredo, Lorenzo Insigne, José Callejón, Emily van Egmond, Karen Carney, ...
+Players who played for multiple squads
+Clubs
+Manchester City (M), Chelsea (F), Real Madrid (M), Barcelona (F), Paris Saint-Germain (M), Lyon (F), Bayern Munich (M), Bayern Munich (F), Internazionale (M), AS Roma (F), River Plate (M), Central Coast Mariners (M), Melbourne City (F), Red Bull Salzburg (M), St. Pölten (F), Club Brugge (M), Anderlecht (F), The Strongest (M), Palmeiras (M), Corinthians (F), Ludogorets Razgrad (M), Cavalry FC (M), Colo-Colo (M), Shanghai Port (M), Millonarios (M), Dinamo Zagreb (M), Slavia Prague (M), FC Copenhagen (M), HB Køge (F), Independiente del Valle (M), KuPS (M), Olympiacos (M), Ferencváros (M), Mohun Bagan (M), Persepolis (M), Vissel Kobe (M), Urawa Reds (F), Ulsan Hyundai FC (M), Al-Hilal (M), América (M), PSV Eindhoven (M), Ajax (F), Bodø/Glimt (M), Vålerenga (F), Libertad (M), Sporting Cristal (M), Raków Częstochowa (M), Sporting CP (M), FCSB (M), Mamelodi Sundowns (M), Zenit (M), Celtic (M), Red Star (M), Young Boys (M), Servette (F), Malmö (M), Rosengård (F), Galatasaray (M), Dynamo Kyiv (M), Peñarol (M), Los Angeles FC (M), Orlando Pride (F), Deportivo Táchira (M), ...
+Seasons
+2023, 2023-2024, 2024, 2024-2025, 2025, 2026, ...
+Competitions
+UEFA Champions League, FIFA World Cup, AFC Asian Cup, UEFA European Football Championship, UEFA Nations League, CONMEBOL Copa América, CONCACAF Gold Cup, Africa Cup of Nations, UEFA Women's Champions League, FIFA Women's World Cup, Olympics — Women's Tournament, AFC Women's Asian Cup, UEFA Women's Championship, Copa América Femenina, CONCACAF W Championship, Africa Women Cup of Nations, Premier League, FA Cup, EFL Cup, FA Women's Super League, La Liga, Copa del Rey, Liga F, Ligue 1, Coupe de France, Coupe de la Ligue, Première Ligue, Fußball-Bundesliga, DFB-Pokal, Frauen-Bundesliga, DFB-Pokal Frauen, Serie A, Coppa Italia, Serie A, Liga Profesional de Fútbol Argentina, Copa de la Liga Profesional, A-League Men, A-League Women, Austrian Football Bundesliga, ÖFB Frauen-Bundesliga, Belgian Pro League, Belgian Women's Super League, División de Fútbol Profesional, Campeonato Brasileiro Série A, Brasileirão Feminino Série A1, First Professional Football League, Canadian Premier League, Chilean Primera División, Chinese Football Association Super League, Categoría Primera A, Croatian Football League, Czech First League, Danish Superliga, Danish Women's League, Liga Profesional Ecuador, Veikkausliiga, Super League Greece, Nemzeti Bajnokság I, Indian Super League, Persian Gulf Pro League, J1 League, Women Empowerment League, K League 1, Saudi Professional League, Liga MX, Eredivisie, Eredivisie Vrouwen, Eliteserien, Toppserien, Paraguayan Primera División, Liga 1 de Fútbol Profesional, Ekstraklasa, Primeira Liga, Liga I, South African Premier Division, Russian Premier League, Scottish Premiership, Serbian SuperLiga, Swiss Super League, Swiss Women's Super League, Allsvenskan, Damallsvenskan, Süper Lig, Ukrainian Premier League, Uruguayan Primera División, Major League Soccer, National Women's Soccer League, NWSL Fall Series, Venezuelan Primera División, ...
+Scores & Fixtures
+Thursday December 26, 2024, Friday December 27, 2024, Saturday December 28, 2024, Sunday December 29, 2024
+Awards
+Ballon d'Or Féminin, Ballon d'Or, FIFA FIFPro Women's World XI, FIFA FIFPro World XI, FIFA World Cup All-Star Team, FIFA Women's World Cup All-Star Team, African Women's Footballer of the Year, African Footballer of the Year, CONCACAF Female Player of the Year, CONCACAF Male Player of the Year, UEFA Women's Player of the Year, UEFA Men's Player of the Year, ...
+Countries
+England, Spain, France, Germany, Italy, Argentina, Australia, Austria, Belgium, Bolivia, Brazil, Bulgaria, Canada, Chile, China PR, Colombia, Croatia, Czech Republic, Denmark, Ecuador, Finland, Greece, Hungary, India, Iran, Japan, Korea Republic, Saudi Arabia, Mexico, Netherlands, Norway, Paraguay, Peru, Poland, Portugal, Romania, South Africa, Russia, Scotland, Serbia, Switzerland, Sweden, Turkey, Ukraine, Uruguay, United States, Venezuela, ...
+Draft History
+Major League Soccer: 2024, 2023, 2022, 2021, 2020, ...
+NWSL: 2024, 2023, 2022, 2021, 2020, ...
+Frivolities
+Players With Multiple Squads, Birthdays, National Team Scouting
+About FBref
+Expected Goals Model Explained, FBref Coverage, Positions & Nationalities, Data Usage Terms, Frequently Asked Questions about Football
+Immaculate Footy (World)
+and
+Immaculate Footy (England)
+Put your football knowledge to the test with our daily football trivia game. Can you complete the grid?
+FBref.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Friday, December 27, 1:58PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead FBref: Get your first month FREE
+Your All-Access Ticket to the FBref Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+FBref Launch Post: What we've done, what we have and what's next.
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Football data provided by
+Advanced statistics provided by
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Footy ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • FBref.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://fbref.com/en/squads/870e020f/Uruguay-Men-Stats 
+ ----- 

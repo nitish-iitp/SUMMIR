@@ -1,0 +1,302 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Rays
+73-76, 36-38 Away
+1
+Final
+Guardians
+85-64, 44-27 Home
+6
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+TB
+
+
+CLE
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t0\t0\t0\t0\t0\t0\t1\t0\t1\t6\t2
+0\t0\t0\t0\t1\t3\t0\t2\t-\t6\t8\t1
+WIN
+J. Cantillo
+2-3
+5.0 IP, 3 H, 0 ER, 6 K, 1 BB
+LOSS
+T. Alexander
+6-5
+5.0 IP, 4 H, 4 ER, 2 K, 2 BB
+TB
+Overview
+CLE
+Rays Hitting
+HITTERS
+
+J. DeLuca
+RF
+
+
+J. Caminero
+3B
+
+
+B. Lowe
+1B
+
+
+Y. Diaz
+DH
+
+
+J. Caballero
+2B
+
+
+a
+J. Aranda
+PH
+
+
+J. Lowe
+LF
+
+
+J. Siri
+CF
+
+
+b
+D. Carlson
+PH
+
+
+T. Walls
+SS
+
+
+L. Driscoll
+C
+
+TEAM
+AB\tR\tH\tRBI\tHR\tBB\tAVG
+4\t1\t0\t0\t0\t0\t.212
+4\t0\t3\t1\t0\t0\t.256
+4\t0\t0\t0\t0\t0\t.241
+4\t0\t1\t0\t0\t0\t.283
+3\t0\t0\t0\t0\t0\t.231
+1\t0\t0\t0\t0\t0\t.226
+3\t0\t1\t0\t0\t1\t.240
+3\t0\t1\t0\t0\t0\t.189
+0\t0\t0\t0\t0\t1\t.200
+4\t0\t0\t0\t0\t0\t.178
+3\t0\t0\t0\t0\t0\t.200
+33\t1\t6\t1\t0\t2\t
+a-flied out to left for Caballero in the 9th
+b-walked for Siri in the 9th
+BATTING
+2BCaminero 3 (6, Cantillo, Smith, Gaddis)
+RBICaminero (13)
+Team LOB7
+Team RISP1-10 (Díaz 0-3, Siri 1-1, B. Lowe 0-3, Walls 0-1, Caballero 0-1, Driscoll 0-1)
+BASERUNNING
+SBJ. Lowe (24, 2nd base off Cantillo/Hedges)
+FIELDING
+DP1 (Caminero-Walls-B. Lowe)
+EAlexander (1, throw); Caminero (5, fielding)
+AssistsDeLuca (Noel at Home)
+Guardians Hitting
+HITTERS
+
+A. Martinez
+LF
+
+
+L. Thomas
+CF
+
+
+J. Ramirez
+3B
+
+
+J. Naylor
+DH
+
+
+D. Fry
+1B
+
+
+A. Gimenez
+2B
+
+
+J. Noel
+RF
+
+
+B. Rocchio
+SS
+
+
+A. Hedges
+C
+
+TEAM
+AB\tR\tH\tRBI\tHR\tBB\tAVG
+3\t1\t0\t0\t0\t1\t.230
+4\t2\t2\t1\t1\t0\t.231
+3\t2\t1\t1\t1\t1\t.270
+4\t0\t2\t2\t0\t0\t.244
+3\t0\t1\t1\t0\t0\t.262
+4\t1\t1\t0\t0\t0\t.253
+3\t0\t0\t0\t0\t0\t.233
+3\t0\t1\t1\t0\t0\t.210
+3\t0\t0\t0\t0\t0\t.156
+30\t6\t8\t6\t2\t2\t
+BATTING
+2BThomas (26, Alexander); Rocchio (16, Alexander)
+HRRamírez (35, 8th inning off Bigge 0 on, 1 Out); Thomas (12, 8th inning off Bigge 0 on, 1 Out)
+RBIRamírez (107), J. Naylor 2 (103), Thomas (58), Rocchio (33), Fry (50)
+SFFry
+GIDPGiménez
+Team LOB3
+Team RISP2-6 (Hedges 0-1, J. Naylor 1-1, Giménez 0-1, Rocchio 1-1, Fry 0-1, Noel 0-1)
+BASERUNNING
+SBGiménez (29, 3rd base off Alexander/Driscoll)
+FIELDING
+ERamírez (9, fielding)
+AssistsThomas (J. Lowe at Home)
+Rays Pitching
+PITCHERS
+
+D. Rasmussen
+
+
+T. Alexander
+(L, 6-5)
+
+
+H. Bigge
+
+TEAM
+IP\tH\tER\tK\tPC-ST\tERA
+2.0\t1\t0\t2\t28-23\t2.53
+5.0\t4\t4\t2\t57-40\t5.58
+1.0\t3\t2\t2\t23-14\t2.08
+8.0\t8\t6\t6\t108-77\t
+PITCHING
+WPBigge
+IBBRamírez (by Alexander).
+First-pitch strikes/Batters FacedAlexander 11/20; Rasmussen 5/7; Bigge 2/6
+Called strikes-Swinging strikes-Foul balls-In play strikesAlexander-11-5-8-16; Rasmussen-4-7-7-5; Bigge-4-2-4-4
+Ground Balls-Fly BallsAlexander 6-6; Rasmussen 2-2; Bigge 0-1
+Game ScoresD Rasmussen 56
+Guardians Pitching
+PITCHERS
+
+J. Cantillo
+(W, 2-3)
+
+
+C. Smith
+(H, 26)
+
+
+T. Herrin
+
+
+H. Gaddis
+
+
+N. Sandlin
+
+TEAM
+IP\tH\tER\tK\tPC-ST\tERA
+5.0\t3\t0\t6\t78-45\t4.99
+1.0\t1\t0\t3\t15-12\t2.03
+1.0\t1\t0\t2\t20-14\t1.99
+1.0\t1\t0\t0\t12-10\t1.46
+1.0\t0\t0\t1\t15-7\t3.71
+9.0\t6\t0\t12\t140-88\t
+PITCHING
+First-pitch strikes/Batters FacedSandlin 2/4; Cantillo 8/18; Gaddis 4/5; Herrin 4/4; Smith 4/4
+Called strikes-Swinging strikes-Foul balls-In play strikesSandlin-2-3-0-2; Cantillo-13-15-6-10; Gaddis-2-0-3-5; Herrin-6-2-4-2; Smith-2-5-4-1
+Ground Balls-Fly BallsSandlin 0-2; Cantillo 5-3; Gaddis 2-2; Herrin 0-1
+Game ScoresJ Cantillo 66
+Scoring Summary
+INNING
+\tTB\tCLE
+\t\t5th\tRocchio doubled to right, Giménez scored and Giménez scored, Rocchio to third, Noel thrown out at home.\t0\t1
+\t\t6th\tJ. Naylor singled to center, Martínez scored and Thomas scored, Ramírez to third.\t0\t3
+\t\t6th\tFry hit sacrifice fly to left, Ramírez scored.\t0\t4
+\t\t8th\tCaminero doubled to center, DeLuca scored.\t1\t4
+\t\t8th\tThomas homered to left center (393 feet).\t1\t5
+\t\t8th\tRamírez homered to right (397 feet).\t1\t6
+Full Play-By-Play
+Game Information
+Progressive Field
+10:10 PM, September 14, 2024
+Cleveland, Ohio
+Line: CLE -145
+Over/Under: 7.5
+Attendance: 31,362
+Game Time:
+2:16
+Umpires:
+Home Plate Umpire - Chad Whitson
+First Base Umpire - Alan Porter
+Second Base Umpire - Sean Barber
+Third Base Umpire - Austin Jones
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570697 
+ ----- 

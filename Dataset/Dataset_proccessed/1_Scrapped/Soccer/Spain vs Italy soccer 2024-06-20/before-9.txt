@@ -1,0 +1,367 @@
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Show details
+Deny
+Customize
+Allow all
+Football API
+Widgets
+Cricket API
+Formula 1 API
+Developers
+Resources
+Contact
+Live now!
+Login
+Try for free
+EN
+Home Live blog: Euro 2024
+LIVE BLOG: EURO 2024
+
+Spain wins record fourth title.
+
+FOOTBALL
+Time to read 11 min
+Published 15 June 2024
+Last updated 15 July 2024
+SPAIN CROWNED CHAMPIONS!
+
+A 2-1 win handed Spain a record fourth European Championship title, with England condemned to back-to-back Euro final defeats.
+
+Cole Palmer had given England the leveller, but Mikel Oyarzabal’s goal, off the bench, left jubilant scenes on the Spanish bench at full-time.
+
+‘So we’re happy and proud of this great group of footballers, and it’s time to enjoy it. I think we’ve done something that was very difficult to achieve. So for us, it’s a day of pure happiness, and that’s all we want: we want to enjoy it,’ Luis de la Fuente said.
+
+‘Soon, we’ll start thinking about the future because this is a very ambitious group that wants to go on to win many more tournaments,’ he added.
+
+UEFA’s group of technical observers gave Rodri the ‘Player of the Tournament’ award, while 17-year-old Lamine Yamal, who was King of Assists (4), was awarded Young Player of the Tournament.
+
+Euro 2024 might be over, but there’s always a game around the corner. Keep following the official Sportmonks blog page!
+
+We post blogs about what we are doing, new products, and new product features, like our reliable xG Data, AI-generated post-match news, manually written pre-match news, prediction API, and many more.
+
+THE EURO 2024 FINAL IS HERE!
+
+Saturday, July 13, 2024.
+
+The one-month-long continental contest comes to an end this weekend with three-time European Champions Spain taking on England for a record fourth title.
+
+Tournament favourites Spain dispatched all its opponents, including host nation Germany, relatively easily, with a 2-1 win over a less-than-impressive France well deserved.
+
+On the other hand, England had to rely on several trump cards. One of them was Jude Bellingham’s stoppage-time bicycle kick against Slovakia in the last 16, while another was Ollie Watkins’ winner in the 89th minute against the Netherlands.
+
+Both sides will now meet on Sunday at the Olympiastadion in Berlin. François Letexier, from France, was selected as the referee.
+
+SPAIN VS. ENGLAND, WHAT CAN WE EXPECT?
+
+Will the current King of Assists, Lamine Yamal (3), now 17 after becoming the youngest goal scorer in European Championship history following his goal against France, lead Spain to victory?
+
+Or will England end a 58-year-long troubling trophy drought to see football come home?
+
+Whatever the case may be, as both sides go head-to-head for Europe’s bragging rights, another subplot exists.
+
+Who will claim the European Championship Golden Boot with Harry Kane and Dani Olmo, both with three goals, in a neck-to-neck race?
+
+While we provide data-driven, reliable predictions, you can find the xG for Sunday’s final between Spain and England using our football API, just like we did in our Copa America final preview between Argentina and Colombia.
+
+WELCOME TO THE SEMI-FINALS.
+
+Monday, July 8, 2024.
+
+Germany became the first host nation to suffer elimination in the quarterfinals in the entire history of the European Championship following their 2-1 loss to tournament favourites Spain.
+
+A bleary-eyed and croaky-voiced Julian Nagelsmann struggled to hold back tears following his side’s elimination after Mikel Merino’s 119th-minute remarkable header sent the Germans crashing out of Euro 2024.
+
+While Luis de la Fuente celebrated, Nagelsmann explained.
+
+Toni Kroos has now retired, assuming he won’t be called upon to come out of retirement once again. Thomas Müller and Manuel Neuer could be the next. However, one thing is clear: all three are off the bus to the Olympiastadion in Berlin.
+
+With Spain taking on a so-far less-than-impressive France, who sealed a 5-3 win over Portugal in a round of penalties, it would be surprising if they fail to get across the next hurdle – well, as long as a mask-wearing Mbappe continues to put out an underwhelming performance.
+
+Meanwhile, an own goal from Mert Müldür gave a huge helping hand to the Netherlands’ dream of a second European Championship title.
+
+You have to make your own luck! Surely, the Flying Dutchmen did, having seized 60% of the possession before forcing Müldür to the error in the 76th minute.
+
+Before then, Stefan de Vrij had come up with the leveller via a towering header. Now, a stern contest against the Three Lions awaits.
+
+Just like the Netherlands, they needed to get out of trouble. And they did, thanks to a curling left-footed effort by Bukayo Saka, before emerging victorious in a round of penalties against Switzerland.
+
+THE STAGE IS SET!
+
+England needed to be rescued twice recently. Would they need another get-out-of-jail card on Wednesday when they face the Netherlands?
+
+Will Lamine Yamal celebrate his birthday simultaneously with a spot guaranteed for Spain in the final? Or will the best of Mbappe inspire France to victory?
+
+Keep following our live blog for more eye-catching stats and news as Euro 2024 continues to unfold.
+
+WELCOME TO THE ROUND-OF-EIGHT.
+
+In Peter Drury’s popular saying, ‘the title contenders have been separated from the pretenders,’ and yes, they have!
+
+The round of eight is here, and as expected, it was the big guns that scaled through as the business end of Euro 2024 continues to take shape.
+
+The maiden fixture of this round could be described as a clash between the Titans as Spain takes on Germany this Friday.
+
+In another battle of heavyweights, Portugal will face France in the second game of the day.
+
+While France hasn’t been entirely convincing, could Portugal’s Diogo Costa become the hero again after his goalkeeping exploits against Slovenia?
+
+Did you know Costa became the first goalkeeper ever to save three penalties in a single shootout at the European Championships?
+
+Meanwhile, in our promising players to watch at the Euros, we pointed out how Bellingham’s penchant for stoppage-time goals could come to England’s rescue.
+
+Well, it did against Slovakia! This time through a jaw-dropping bicycle kick with only thirty seconds left to play!
+
+While Harry Kane considered it as one of England’s best goals, considering the nature and timing, we will have to wait and see if Bellingham will escape punishment after an obsene gesture to Slovakian fans.
+
+The Netherlands eventually showed what they were truly capable of after sweeping Romania aside in a 3-0 win.
+
+However, with a quarter-final fixture against Turkey, who are now looking like the traditional dark horse of the tournament, will the likes of Cody Gakpo and Donyell Malen be able to reproduce Tuesday’s form?
+
+You can get all the latest updates in our 48-hour-to-kick-off pre-match previews and right-after-the-game post-match reviews.
+
+The complete Euro 2024 schedule is also at your fingertips with our football API.
+
+HOSTS, GERMANY, IN QUARTERFINALS!
+
+Saturday, June 29, 2024.
+
+Germany’s 2-0 win over Denmark on Saturday helped the host nation join Switzerland in the quarterfinals.
+
+Despite being wasteful, Kai Havertz eventually put the Germans in front from the penalty spot in the 53rd minute.
+
+Moments later, Jamal Musiala joined Georges Mikautadze as top scorer (3 goals) after he doubled Germany’s lead in the 68th minute.
+
+‘There’s always room to grow. I was very happy with the first 20 minutes, but we have to make sure we don’t try to force it; stay patient and keep the ball,’ Nagelsmann said.
+
+‘If we can keep doing what we did in the first 20 minutes, then it will be tough to beat us,’ he concluded.
+
+SWITZERLAND IN QUARTERFINALS!
+
+Saturday, June 29, 2024.
+
+A 2-0 win over lacklustre defending champions Italy saw Switzerland become the first country in the quarterfinals of Euro 2024.
+
+A 37th-minute goal from Remo Freuler gave the Swiss the lead, before another right after kickoff by Rubén Vargas (46′) sent Italy packing.
+
+‘We won a hugely important game, and that’s what matters. As to what happens tomorrow, that’s a different kettle of fish,’ Switzerland coach Murat Yakin said.
+
+‘Yes, we won, but it was the way we played that matters. We dominated every area of the pitch, and we scored goals at the right time. I am not looking ahead. It’s important to take time to savour these results we have been achieving,’ he added.
+
+THE ROUND OF 16 IS HERE!
+
+Saturday, June 29, 2024.
+
+Another exciting round of Euro 2024 is here! This is the knockout stage, where our contenders get only one opportunity to qualify for the quarterfinals.
+
+While a handful of the last 16 got through the group stage without much difficulty, others had a laboured episode.
+
+Spain became the new favourites after becoming the only country to win all group stage games at Euro 2024, while England failed to convince with a number of below-par performances.
+
+Meanwhile, Italy surprised onlookers after slipping into the round of 16 via a stoppage-time 1-1 draw thanks to a fabulous goal by Mattia Zaccagni.
+
+Did you know Zaccagni’s goal beat the others, including Memphis Depay’s sensational goal against Austria, to become ‘Goal of the Round’ on Match Day 3?
+
+WHAT CAN WE EXPECT?
+
+England vs. Slovakia and Romania vs. Netherlands are many of the highly anticipated games to watch in the round of 16, while France vs. Belgium can be described as the Clash of the Titans.
+
+Georgia is already the surprise package of the tournament, despite finishing as one of the best four third-placed countries.
+
+But showing Spain the door on Sunday would require a re-examination under new lenses.
+
+And who would have thought Georges Mikautadze, with three goals, would be the top scorer in a tournament where names like Ronaldo, Harry Kane, and Mbappe are being mentioned?!
+
+Join us for an exciting coverage in our 48-hour-before-the-game preview and right-after-the-game post-match news.
+
+Our Euro 2024 News API will drop it all right on your lap!
+
+ ITALY SNEAKS INTO LAST 16.
+
+Monday, June 24, 2024.
+
+Italy joined the likes of Germany and Spain in the last 16 after a stoppage-time 1-1 draw with Croatia on Monday night.
+
+A bizarre set-up by Spalletti saw the Italians trailing by a goal after eventual MVP Luka Modrić [55’] put Croatia in front one minute after missing from the penalty spot.
+
+However, a fabulous finish from Mattia Zaccagni [90’+8] deep in stoppage time got Italy over the line.
+
+‘I cannot explain my feelings right now because I’m so happy. I think we deserved this goal a lot,’ Riccardo Calafiori, who created the assist for Italy, said.
+
+‘We proved that we could play like this. We have to keep going on this path. When you play with no fear and have the game in your hands, it’s completely different,’ he added.
+
+You can retrieve player stats for every Euro 2024 fixture by replacing the ID (19101798) while making the following API request. https://api.sportmonks.com/v3/football/fixtures/19101798?api_token=YOUR_TOKEN&include=lineups.details.type
+
+ PORTUGAL JOINS SPAIN AND GERMANY IN LAST 16.
+
+Saturday, June 22, 2024.
+
+The round-of-16 continues to take shape as Portugal joins Spain and Germany in the last 16 after a convincing 3-0 win over Turkey.
+
+A 41-year-old Pepe shepherded the defence, while an unselfish Cristiano Ronaldo, who did the same upfront, eventually created Portugal’s third goal.
+
+The win leaves Portugal at the top of Group F with six points after winning two opening games at the Euros.
+
+ POLAND BECOMES FIRST COUNTRY TO MAKE EURO 2024 EXIT.
+
+Friday, June 21, 2024.
+
+After a goalless draw between the Netherlands and France in an intertwined Group D encounter, Poland, who were beaten 3-1 by Austria earlier in the day, became the first nation to be eliminated from Euro 2024.
+
+Poland equalised to make it 1-1 after an unmarked Krzysztof Piątek tapped in from close range.
+
+However, Christoph Baumgartner gave Austria the lead with an assist from Alexander Prass.
+
+Moments later, Marko Arnautović put the final nail in Poland’s coffin, increasing Austria’s lead from the penalty spot.
+
+ SPAIN JOINS GERMANY IN LAST 16.
+
+Thursday, June 20, 2024.
+
+Spain’s narrow 1-0 win at the Veltins-Arena against Italy saw La Roja join host nation Germany in the last 16.
+
+An own goal from emerging centre-back Riccardo Calafiori following a low cross from Nico Williams, who walked away with the MVP award, helped Spain cross the line.
+
+‘I saw the potential that my team boasts tonight. That ability to really make light work of a top-class side like Italy’ said Spain boss Luis de la Fuente.
+
+‘Italy won the Euros three years ago, and we were still a long way off winning it, so I like the fact people are speaking about us and considering that we could win [now],’ he added.
+
+ KLAUS GJASULA REDEEMS HIMSELF IN ALBANIA’S 2-2 DRAW.
+
+Wednesday, June 19, 2024.
+
+Albania drew 2-2 in stoppage time against Croatia in what could be described as one of the most interesting games of the tournament.
+
+An own goal from Klaus Gjasula in the 76th minute had left Croatia with a 2-1 lead and just whiskers away from three points.
+
+However, an entertaining end-to-end encounter ensued in the final moments, and Klaus Gjasula (90’+5) atoned for his error by scoring at the proper end of the field.
+
+‘I am very happy with the team; I think we have deserved [the result]. We fought with heart, and it is exactly what represents this nation,’ Albania manager Sylvinho said. ‘This is a game I will remember all my life,’ he added.
+
+The 2-2 leaves Albania in contention for the round of 16.
+
+ HOST NATION GERMANY IN THE KNOCKOUT PHASE!
+
+Host nation Germany became the first country to qualify for the round of 16 at Euro 2024 after a 2-0 win over Hungary on Wednesday.
+
+
+Germany’s skipper, İlkay Gündoğan, who created the first for Jamal Musiala, now the top scorer with two goals, was the game’s MVP, having also placed his name on the scoresheet.
+
+‘We are getting better, but as we improve, we have to overcome some problems,’ Gündoğan said after helping steer Die Mannschaft to the knockout phase.
+
+‘That is what this game showed today, especially in the first half, but that’s the tournament – you have to survive such situations. We survived and then hit back,’ he added.
+
+GERMANY’S GOOD LUCK CHARM?
+
+Germany have now won their opening two matches at the Euros for a fifth time. On three of the previous four occasions, they went on to win the tournament.
+
+Could they be that lucky once again?
+
+ MATCH DAY 1 SHOCK DEFEAT FOR BELGIUM – GROUP E
+
+Monday, June 17, 2022.
+
+In one of the biggest upsets of Match Day 1, Belgium were stunned by Slovakia in a narrow 1-0 defeat.
+
+While our prediction API listed a shock 1-0 win for Slovakia as an outcome in 16 possible outcomes, it was surprising to see a star-studded Belgium suffer defeat in their first match at Euro 2024.
+
+Ivan Schranz [7’] came up with the goal that forced Belgium to third place in Group E after the opening round.
+
+Lukaku, who was wasteful, was denied twice by the VAR, while the likes of Kevin de Bruyne and Leandro Trossard were ineffective.
+
+Doku was also a letdown, losing the ball so many times while being unable to beat his man.
+
+Belgium were tipped as favourites at Euro 2024; however, anything less than a win in the next game against Romania could spell the end of their campaign.
+
+ KYLIAN MBAPPÉ IN A NINJA TURTLE MASK?
+
+Brace yourselves! While Slovakia’s narrow 1-0 win over Belgium might have been a shocking result, a more bizarre sight may be on its way.
+
+France’s 1-0 win over Austria might not have been your most likely prediction, but the major talking point of the game was Mbappe’s injury.
+
+A broken nose, which resulted from a clash of heads following an aerial contest, forced France’s superstar out in the 90th minute and on the way to the hospital.
+
+However, Mbappe put a positive spin on the situation despite walking off with a bloodied shirt, going on to X, formerly known as Twitter, to ask for suggestions over a protective mask.
+
+‘Des idées de masques?’ He asked.
+
+Among them were several hilarious suggestions, with a Ninja Turtle mask being the most popular option put forward.
+
+Perhaps he will take up the suggestion when France faces the Netherlands this Friday.
+
+ GERMANY EARNS A 5-1 WIN OVER SCOTLAND!
+
+Friday, June 14, 2024.
+
+In a show of force, Germany swept Scotland aside in a 5-1 win in Friday’s Euro 2024 opener.
+
+Julian Nagelsmann, Germany coach: “I’d have accepted that [result] if someone had offered it to me before the game. The first 20 minutes were very good. Scotland showed us respect and probably showed us even more after we scored our first two goals.
+
+The first goal, in particular, was very well played. It wasn’t easy to score because many Scottish bodies were in the way. The important thing is that we scored a lot of goals.”
+
+Jamal Musiala was MVP after scoring a goal in the 19th minute before creating another.
+
+Jamal Musiala Credit: EURO2024
+
+“We definitely felt some pressure before the game, but this is such a good feeling.
+
+The own goal at the end hurts a little bit; otherwise, it was the perfect game,” Musiala said, following the own goal from Antonio Rüdiger.
+
+You can find the upcoming Euro 2024 schedule using our football API.
+
+Did you know you could get all of Euro 2024’s postmatch news via our Football News API?
+
+Our post-match articles are AI-written and post-moderated by our team of experts.
+
+WRITTEN BY JORDY POST
+
+Jordy Post is a seasoned football data and marketing expert with over 3 years of industry experience. With an in-depth understanding of Football Data, he stands out as a leading authority in delivering comprehensive insights. Jordy specializes in uncovering new stats, tracking market trends, and identifying emerging patterns, consistently providing innovative analyses that offer invaluable insights to Sports Data lovers.
+
+POST-MATCH NEWS AT YOUR FINGERTIPS
+
+Fast and accurate post-match AI-generated news, post-moderated by humans.
+
+With our Football News API? you can retrieve both pre-match and post-match news.
+
+Papenstraat 26
+7411 ND Deventer
+support@sportmonks.com
+KvK (Chamber of Commerce) 74390856
+API
+Football API
+Football Coverage
+Pricing
+Cricket
+Cricket Coverage
+Formula 1 API
+FOOTBALL
+Widgets
+Predictions
+xG Data
+Premium Odds Feed
+Pressure Index
+News API
+RESOURCES
+How it works
+Docs
+Plans & Pricing
+FAQ
+Case studies
+Blogs
+SPORTMONKS
+Why Sportmonks
+Take a tour
+Contact & Support
+Sportmonks Careers
+Privacy Policy
+Terms of Service
+Server status
+EN
+Terms and Conditions
+Sitemap
+©2024 Sportmonks B.V. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.sportmonks.com/blogs/follow-euro-2024-as-it-unfolds-in-germany/ 
+ ----- 

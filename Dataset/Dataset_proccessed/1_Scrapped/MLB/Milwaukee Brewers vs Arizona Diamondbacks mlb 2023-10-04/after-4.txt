@@ -1,0 +1,508 @@
+MENU
+2023 Wild Card Series
+Arizona Diamondbacks over Milwaukee Brewers (2-0)
+
+Dates: October 3 - 4, 2023
+
+WS MVP: Corey Seager
+
+NLCS MVP: Ketel Marte
+
+ALCS MVP: Adolis García
+
+Become a Stathead & surf this site ad-free.
+Postseason History
+More Postseason Pages
+
+2023 World Series
+
+ALCS
+
+NLCS
+
+ALDS1
+
+ALDS2
+
+NLDS1
+
+NLDS2
+
+ALWC1
+
+NLWC1
+
+ALWC2
+
+NLWC2
+
+Pete Alonso's Unique Free Agency Deal Offer to the Mets
+Series Scores
+Game 1, October 3
+Arizona Diamondbacks	6	Final
+Milwaukee Brewers	3	
+W	Joe Mantiply (1-0)
+L	Corbin Burnes (0-1)
+S	Paul Sewald (1)
+Game 2, October 4
+Arizona Diamondbacks	5	Final
+Milwaukee Brewers	2	
+W	Zac Gallen (1-0)
+L	Freddy Peralta (0-1)
+S	Paul Sewald (2)
+Series Batting Stats
+Arizona Diamondbacks Batting 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	AB	R	H	2B	3B	HR	RBI	BB	SO	BA	OBP	SLG	OPS	SB	CS	E	WPA	cWPA	G	AB	R	H	HR	RBI	SB	BA	OPS
+Corbin Carroll*	2	7	3	4	1	0	1	2	2	0	.571	.667	1.143	1.810	0	1	0	0.37	2.37%	155	565	116	161	25	76	54	.285	.868
+Miguel Castro	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	2	0	0	0	0	0	0		
+Zac Gallen	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Kevin Ginkel*	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	1	0	0	0	0	0	0		
+Lourdes Gurriel Jr.	2	8	0	1	0	0	0	1	0	4	.125	.125	.125	.250	0	0	0	-0.06	-0.38%	145	551	65	144	24	82	5	.261	.772
+José Herrera#	1	2	0	0	0	0	0	0	1	0	.000	.333	.000	.333	0	0	0	0.03	0.21%	41	101	15	21	0	7	1	.208	.553
+Evan Longoria	2	8	0	1	0	0	0	0	0	3	.125	.125	.125	.250	0	0	0	-0.13	-0.86%	74	211	25	47	11	28	0	.223	.717
+Joe Mantiply	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Ketel Marte#	2	8	1	2	0	0	1	3	1	3	.250	.333	.625	.958	0	0	0	0.17	1.11%	150	569	94	157	25	82	8	.276	.844
+Gabriel Moreno	2	5	1	1	0	0	1	1	1	1	.200	.333	.800	1.133	0	0	0	0.03	0.22%	111	341	33	97	7	50	6	.284	.747
+Ryne Nelson	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Geraldo Perdomo#	2	4	2	1	0	0	0	0	3	1	.250	.571	.250	.821	0	1	0	0.06	0.35%	144	407	71	100	6	47	16	.246	.712
+Brandon Pfaadt	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Tommy Pham	2	8	2	1	0	0	0	0	1	3	.125	.222	.125	.347	1	0		-0.04	-0.14%	*129	426	55	109	16	68	22	.256	.774
+Emmanuel Rivera	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	86	257	32	67	4	29	1	.261	.672
+Andrew Saalfrank*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Paul Sewald	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*2	0	0	0	0	0	0		
+Alek Thomas*	2	8	1	1	0	0	1	1	0	4	.125	.125	.500	.625	0	0	0	-0.12	-0.81%	125	374	51	86	9	39	9	.230	.647
+Ryan Thompson	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*0	0	0	0	0	0	0		
+Christian Walker	2	8	1	3	1	0	0	2	1	2	.375	.444	.500	.944	1	0	0	0.08	0.45%	157	582	86	150	33	103	11	.258	.830
+Totals	32	66	11	15	2	0	4	10	10	21	.227	.329	.439	.768	2	2		0.38	2.52%	162	5436	746	1359	166		166	.250	.730
+* - bats left-handed, # - bats both, else - bats right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Milwaukee Brewers Batting 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	AB	R	H	2B	3B	HR	RBI	BB	SO	BA	OBP	SLG	OPS	SB	CS	E	WPA	cWPA	G	AB	R	H	HR	RBI	SB	BA	OPS
+Willy Adames	2	7	0	4	1	0	0	1	1	2	.571	.625	.714	1.339	0	0	0	0.17	0.96%	149	553	73	120	24	80	5	.217	.717
+Corbin Burnes	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Mark Canha	2	8	0	3	0	0	0	0	0	2	.375	.444	.375	.819	0	0		0.00	0.06%	*139	435	51	114	11	62	11	.262	.755
+William Contreras	2	9	0	3	0	0	0	0	1	3	.333	.400	.333	.733	0	0	0	-0.01	-0.06%	141	540	86	156	17	78	6	.289	.825
+Josh Donaldson	2	7	1	2	0	0	0	0	0	0	.286	.375	.286	.661	0	0	0	-0.13	-0.88%	*50	165	18	25	13	26	0	.152	.667
+Sal Frelick*	2	8	0	2	0	0	0	1	0	3	.250	.222	.250	.472	0	0	0	-0.22	-1.52%	57	191	29	47	3	24	7	.246	.692
+Trevor Megill*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Hoby Milner*	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Andruw Monasterio	2	1	0	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	-0.05	-0.32%	92	282	38	73	3	27	7	.259	.678
+Joel Payamps	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Elvis Peguero	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Freddy Peralta	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Carlos Santana#	2	7	1	2	0	0	0	1	2	2	.286	.444	.286	.730	0	0	0	-0.06	-0.45%	*146	550	78	132	23	86	6	.240	.747
+Tyrone Taylor	2	8	1	1	0	0	1	2	0	2	.125	.125	.500	.625	0	0	0	-0.29	-1.91%	81	231	36	54	10	35	9	.234	.713
+Brice Turang*	2	3	0	0	0	0	0	0	1	2	.000	.250	.000	.250	0	0	0	-0.12	-0.71%	137	404	46	88	6	34	26	.218	.585
+Abner Uribe	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Joey Wiemer	1	0	0	0	0	0	0	0	0	0					0	0		0.00	0.00%	132	367	48	75	13	42	11	.204	.645
+Devin Williams	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Bryse Wilson	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Jesse Winker*	2	2	0	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0		-0.08	-0.55%	61	166	16	33	1	23	0	.199	.567
+Christian Yelich*	2	8	2	4	1	0	0	0	2	1	.500	.600	.625	1.225	1	0	0	0.16	1.08%	144	550	106	153	19	76	28	.278	.818
+Totals	35	68	5	21	2	0	1	5	7	19	.309	.385	.382	.767	1	0		-0.62	-4.30%	162	5386	728	1290	165		129	.240	.704
+* - bats left-handed, # - bats both, else - bats right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Arizona Diamondbacks Pitching 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	GS	ERA	W	L	SV	CG	IP	H	R	ER	BB	SO	WHIP	WPA	cWPA	G	GS	ERA	W	L	SV	IP	H	BB	SO	WHIP
+Miguel Castro	1	0	0.00	0	0	0	0	0.2	0	0	0	1	0	1.500	0.04	0.24%	75	0	4.31	6	6	7	64.2	51	25	60	1.175
+Zac Gallen	1	1	3.00	1	0	0	0	6.0	5	2	2	3	4	1.333	0.07	0.48%	34	34	3.47	17	9	0	210.0	188	47	220	1.119
+Kevin Ginkel	2	0	0.00	0	0	0	0	2.1	4	0	0	0	5	1.714	0.10	0.59%	60	0	2.48	9	1	4	65.1	41	23	70	0.980
+Joe Mantiply*	1	0	0.00	1	0	0	0	0.2	0	0	0	1	0	1.500	0.10	0.58%	35	3	4.62	2	2	0	39.0	35	9	28	1.128
+Ryne Nelson	1	0	0.00	0	0	0	0	0.1	3	0	0	0	1	9.000	-0.14	-0.90%	29	27	5.31	8	8	0	144.0	159	46	96	1.424
+Brandon Pfaadt	1	1	10.13	0	0	0	0	2.2	7	3	3	1	4	3.000	-0.20	-1.17%	19	18	5.72	3	9	0	96.0	109	26	94	1.406
+Andrew Saalfrank*	1	0	0.00	0	0	0	0	0.2	0	0	0	0	0	0.000	0.21	1.48%	10	0	0.00	0	0	0	10.1	7	4	6	1.065
+Paul Sewald	2	0	0.00	0	0	2	0	2.0	1	0	0	0	3	0.500	0.09	0.60%	*65	0	3.12	3	2	34	60.2	46	24	80	1.154
+Ryan Thompson	2	0	0.00	0	0	0	0	2.2	1	0	0	1	2	0.750	0.37	2.40%	*31	0	3.82	1	2	1	30.2	20	8	21	0.913
+Totals	12	2	2.50	2	0	2	0	18.0	21	5	5	7	19	1.556	0.62	4.30%	162	162	4.477	84	78		1435.1	1375	525	1351	1.324
+* - throws left-handed, # - throws both, else - throws right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Milwaukee Brewers Pitching 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	GS	ERA	W	L	SV	CG	IP	H	R	ER	BB	SO	WHIP	WPA	cWPA	G	GS	ERA	W	L	SV	IP	H	BB	SO	WHIP
+Corbin Burnes	1	1	9.00	0	1	0	0	4.0	5	4	4	2	5	1.750	-0.30	-1.86%	32	32	3.39	10	8	0	193.2	141	66	200	1.069
+Trevor Megill	1	0	0.00	0	0	0	0	1.0	0	0	0	0	3	0.000	0.01	0.06%	31	2	3.63	1	0	0	34.2	35	12	52	1.356
+Hoby Milner*	2	0	0.00	0	0	0	0	2.1	2	0	0	0	2	0.857	0.11	0.73%	73	0	1.82	2	1	0	64.1	49	13	59	0.964
+Joel Payamps	1	0	0.00	0	0	0	0	1.2	1	0	0	1	2	1.200	0.11	0.76%	69	0	2.55	7	5	3	70.2	57	17	77	1.047
+Elvis Peguero	2	0	0.00	0	0	0	0	1.2	1	0	0	0	2	0.600	0.05	0.32%	59	0	3.38	4	5	1	61.1	49	26	54	1.223
+Freddy Peralta	1	1	7.20	0	1	0	0	5.0	3	4	4	2	5	1.000	-0.22	-1.51%	30	30	3.86	12	10	0	165.2	131	54	210	1.117
+Abner Uribe	2	0	6.75	0	0	0	0	1.1	2	1	1	2	1	3.000	-0.02	-0.21%	32	0	1.76	1	0	1	30.2	16	20	39	1.174
+Devin Williams	1	0	27.00	0	0	0	0	0.2	1	2	2	3	1	6.000	-0.13	-0.86%	61	0	1.53	8	3	36	58.2	26	28	87	0.920
+Bryse Wilson	1	0	0.00	0	0	0	0	0.1	0	0	0	0	0	0.000	0.01	0.05%	53	0	2.58	6	0	3	76.2	60	22	61	1.070
+Totals	12	2	5.50	0	2	0	0	18.0	15	11	11	10	21	1.389	-0.38	-2.52%	162	162	3.711	92	70		1443.0	1218	493	1425	1.186
+* - throws left-handed, # - throws both, else - throws right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Series Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Series Win Probability - Arizona Diamondbacks vs. Milwaukee Brewers, 2023
+Wild Card Series
+Gm 1
+Gm 2
+MIL
+50%
+ARI
+Inning	Win Pct
+1	0.45
+2	0.44
+3	0.44
+4	0.43
+5	0.42
+6	0.38
+7	0.35
+8	0.37
+9	0.39
+10	0.41
+11	0.43
+12	0.41
+13	0.4
+14	0.38
+15	0.37
+16	0.37
+17	0.31
+18	0.3
+19	0.31
+20	0.32
+21	0.31
+22	0.32
+23	0.39
+24	0.44
+25	0.43
+26	0.43
+27	0.44
+28	0.43
+29	0.38
+30	0.42
+31	0.42
+32	0.45
+33	0.52
+34	0.51
+35	0.5
+36	0.49
+37	0.51
+38	0.49
+39	0.51
+40	0.53
+41	0.55
+42	0.58
+43	0.57
+44	0.53
+45	0.54
+46	0.5
+47	0.47
+48	0.43
+49	0.38
+50	0.43
+51	0.54
+52	0.52
+53	0.51
+54	0.52
+55	0.51
+56	0.47
+57	0.51
+58	0.53
+59	0.55
+60	0.57
+61	0.56
+62	0.52
+63	0.55
+64	0.52
+65	0.58
+66	0.6
+67	0.63
+68	0.63
+69	0.59
+70	0.55
+71	0.59
+72	0.61
+73	0.63
+74	0.64
+75	0.66
+76	0.64
+77	0.62
+78	0.63
+79	0.63
+80	0.63
+81	0.7
+82	0.7
+83	0.71
+84	0.72
+85	0.71
+86	0.71
+87	0.72
+88	0.71
+89	0.72
+90	0.71
+91	0.69
+92	0.68
+93	0.69
+94	0.68
+95	0.65
+96	0.65
+97	0.6
+98	0.62
+99	0.61
+100	0.6
+101	0.6
+102	0.6
+103	0.61
+104	0.61
+105	0.6
+106	0.59
+107	0.59
+108	0.6
+109	0.59
+110	0.58
+111	0.61
+112	0.59
+113	0.58
+114	0.58
+115	0.57
+116	0.59
+117	0.59
+118	0.58
+119	0.57
+120	0.62
+121	0.62
+122	0.63
+123	0.63
+124	0.64
+125	0.67
+126	0.76
+127	0.85
+128	0.88
+129	0.83
+130	0.86
+131	0.91
+132	0.94
+133	0.91
+134	0.88
+135	0.9
+136	0.92
+137	0.94
+138	0.93
+139	0.93
+140	0.93
+141	0.93
+142	0.94
+143	0.95
+144	0.96
+145	0.95
+146	0.95
+147	0.95
+148	0.92
+149	0.87
+150	0.92
+151	0.86
+152	0.92
+153	0.98
+154	0.98
+155	0.98
+156	0.98
+157	0.95
+158	0.97
+159	0.99
+160	0.97
+161	1
+The height of bar indicates the probability of a team winning the series given the current series state.
+Top 10 Plays 
+cWPA and cLI Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Gm#	Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	cWPA	cLI	Play Description
+Gm 1	b5	down 4-3	1	123	6 (3-2)	OO	MIL	Tyrone Taylor	Ryan Thompson	1.37%	38.30	Double Play: Lineout: 3B (SS-3B Hole); W. Adames out at 2B/3B-2B
+Gm 2	t6	down 2-1	0	1--	5 (2-2)		ARI	Corbin Carroll	Freddy Peralta	1.10%	26.07	Double to RF (Ground Ball); G. Perdomo to 3B
+Gm 2	t6	down 2-1	0	-23	7 (3-2)	RR	ARI	Ketel Marte	Freddy Peralta	1.05%	25.30	Single to CF (Ground Ball thru SS-2B); G. Perdomo Scores; C. Carroll Scores; K. Marte to 2B
+Gm 1	t3	down 3-0	1	1--	3 (1-1)	RR	ARI	Corbin Carroll	Corbin Burnes	0.95%	11.52	Home Run (Fly Ball to Deep CF-RF); G. Perdomo Scores
+Gm 1	b2	ahead 1-0	1	-2-	3 (0-2)	RR	MIL	Tyrone Taylor	Brandon Pfaadt	0.85%	11.21	Home Run (Fly Ball to Deep LF Line); J. Donaldson Scores
+Gm 1	t9	ahead 4-3	2	-23	6 (3-2)	RR	ARI	Christian Walker	Devin Williams	0.78%	15.67	Double to CF (Line Drive to Deep CF); C. Carroll Scores; T. Pham Scores
+Gm 1	t4	tied 3-3	0	---	5 (2-2)	R	ARI	Gabriel Moreno	Corbin Burnes	0.76%	11.21	Home Run (Fly Ball to Deep LF-CF)
+Gm 1	b7	down 4-3	1	1--	1 (0-0)	OO	MIL	Josh Donaldson	Kevin Ginkel	0.71%	26.67	Ground Ball Double Play: 3B-2B-1B
+Gm 2	b8	down 5-2	1	123	5 (2-2)	O	MIL	Sal Frelick	Andrew Saalfrank	0.71%	50.82	Groundout: P-C/Forceout at Hm (Front of Home); W. Contreras to 3B; J. Wiemer to 2B; S. Frelick to 1B
+Gm 2	t5	down 2-0	2	---	3 (2-0)	R	ARI	Alek Thomas	Freddy Peralta	0.70%	5.30	Home Run (Fly Ball to Deep RF Line)
+See all plays from this series with the Pivotal Play Finder
+Report an error
+More Postseason Pages
+
+Postseason History
+
+2023 World Series
+
+ALCS
+
+NLCS
+
+ALDS1
+
+ALDS2
+
+NLDS1
+
+NLDS2
+
+ALWC1
+
+NLWC1
+
+ALWC2
+
+NLWC2
+
+Ad-Free Login Create Account
+You are here: BR Home Page > Playoff Index > 2023 Wild Card Series
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+           
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Friday, January 10, 11:09PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2025 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith of Baseballprojection.com and author of WAR in Pieces.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2025.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Fußball Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/postseason/2023_NLWC1.shtml 
+ ----- 

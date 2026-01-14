@@ -1,0 +1,277 @@
+×
+MENU
+Economy & Trade
+Industries
+Tax & Accounting
+Legal & Regulatory
+HR & Payroll
+Technology
+Events
+Publications
+Media
+Doing Business
+ Other Briefings
+Subscribe
+Economy & Trade
+Industries
+Tax & Accounting
+Legal & Regulatory
+HR & Payroll
+Technology
+Events
+Publications
+Media
+Doing Business
+China Monthly Tax Brief: October 2024
+November 5, 2024
+Posted by China Briefing
+Written by Qian Zhou and Fiona Sun
+Reading Time:  8 minutes
+
+In this China Monthly Tax Brief for October 2024, we highlight significant taxation developments for businesses and individual taxpayers.
+
+China will implement a pilot water tax nationwide from December 1, 2024, replacing the current water fee-charging mechanism. The cost burden of water usage for residents and general industrial and commercial activities will remain unchanged. However, the burden will increase for high water-consuming industries and specific areas.
+The State Taxation Administration (STA) and the Ministry of Finance (MOF) launched electronic invoices for railway tickets starting November 1, 2024. Businesses are encouraged to promptly optimize their internal reimbursement processes and related mechanisms to adapt to this change.
+The STA has released the updated “Going Global” tax guidelines for 2024. Chinese businesses looking to expand overseas are advised to adhere to the management regulations, take advantage of available tax agreements, and assess potential tax risks.
+Hainan has introduced a new policy on additional deductions for R&D expenses, making it easier for businesses to access relevant tax incentives.
+DOING BUSINESS IN CHINA
+EXPLORE IN-DEPTH INVESTMENT AND BUSINESS GUIDES.
+Explore vital economic, geographic, and regulatory insights for business investors, managers, or expats to navigate China’s business landscape. Our Online Business Guides offer explainer articles, news, useful tools, and videos from on-the-ground advisors who contribute to the Doing Business in China knowledge.
+Start exploring
+China to pilot water tax nationwide from December 1, 2024
+
+On October 15, 2024, the Ministry of Finance (MOF), the State Taxation Administration (STA), and the Ministry of Water Resources (MWR) released the Notice on Issuing the Implementation Measures for the Pilot Reform of Water Resource Tax (the Implementation Measures), which provided the implementation guidelines for a national pilot program to tax water use, starting from December 1, 2024.
+
+This water resources tax (or water tax) will replace the currently imposed water use fee-charging mechanism. The shift from water use fees to water use taxes is designed to “strengthen the management and protection of water resources and promote the conservation, intensive and safe use of water resources (in China)”.
+
+
+Key Points of China’s Water Tax Pilots
+Category	Details
+Taxpayer	
+Units and individuals directly using surface water or groundwater within our country’s territory are taxpayers for the water resource tax
+
+Tax objects	
+Applies to surface water and groundwater
+Excludes unconventional water sources such as recycled water and collected rainwater
+
+Tax calculation	
+Calculated based on the volume of water used
+Specific formulas set for different types of water use
+Each province, autonomous region, and municipality determines applicable tax rates based on local conditions
+
+Tax incentives	Not subject to tax:
+Rural collective economic organizations and their members using water from the ponds or reservoirs of the collective economic organization
+Household use and small amounts of water taken for sporadic or confined livestock drinking
+Water engineering management units taking water for the allocation or scheduling of water resources
+Temporary emergency water extraction (or drainage) necessary to ensure the safety of underground engineering construction, such as mines
+Temporary emergency water extraction to eliminate threats to public safety or public interest
+Temporary emergency water extraction necessary for agricultural drought relief and to maintain ecology and the environment
+
+Tax exemptions for:
+
+Agricultural production within a separately accounted limit
+Military and firefighting teams
+Pumped storage power generation
+Oil and gas extraction reinjection
+Ecological restoration projects
+
+Tax reductions for industrial users achieving advanced water efficiency.
+
+
+Tax administration	
+Collaborative tax collection mechanism between tax authorities and water administrative departments
+Tax authorities collect the water resource tax according to the Tax Collection and Administration Law
+Water administrative departments supervise water use
+Taxpayers must fulfill tax obligations on the day of water use
+Reporting and payment can be monthly, quarterly, or per use as arranged by tax authorities
+Annual reporting allowed for agricultural production exceeding the limit
+
+Additional notes	
+Distribution ratio for inter-provincial hydropower generation water use tax established.
+Taxpayers must install standard metering facilities for accurate data.
+Violators will be held accountable under the law.
+Collection of the water resource fee will cease upon the imposition of the water resource tax.
+
+The Implementation Measures for the Pilot Reform of Water Resource Tax have undergone four key policy optimizations compared to the previous two pilot programs:
+
+Tax system improvement: The tax system has been refined to clarify the scope and subjects of taxation. The reporting requirements for various tax rates have been detailed, and positive incentives for tax benefits have been strengthened. Additionally, the tax payment location has been adjusted to the water extraction point.
+Expansion of local tax management authority: Local governments have been granted greater authority in tax management, allowing for more flexibility in tax incentives and adjustments to tax rates.
+Enhanced tax administration mechanism: The responsibilities and obligations of taxpayers have been clearly defined. There is now a stronger collaboration between tax authorities and water administrative departments in tax collection and management.
+Clarification of price-tax relationship: The relationship between water resource tax and water supply pricing has been streamlined, emphasizing their separation. This aims to promote water conservation and emissions reduction among enterprises through tax policy.
+
+For more information about China’s water tax pilot program—including the legislative background, the impact on businesses and individuals, and how companies can prepare for the transition from water fees to water tax—please read our article:  China to Pilot Water Tax Nationwide: What Does It Mean for Businesses.
+
+STA and MOF launch electronic invoices for railway tickets
+
+On October 18, 2024, the STA announced the promotion of fully digitalized electronic invoices for railway passenger transport. This announcement, made in collaboration with the MOF and China State Railway Group Co., Ltd., took effect on November 1, 2024.
+
+FIND BUSINESS SUPPORT
+Manage Company Tax and Compliance across Multiple Jurisdictions⟶
+
+The announcement outlines the key features of electronic invoices (railway e-tickets), including rules for invoice numbers and codes, as well as procedures for passengers and organizations to query, verify, download, and use these invoices. After completing their journey or processing ticket refunds or changes, passengers can obtain electronic invoices through the Railway 12306 website and mobile app, allowing them to query, download, and print their invoices.
+
+Organizations can use their digital tax accounts to query, verify, download, print, and confirm the use of electronic invoices. They can also verify invoices through the national VAT invoice verification platform. For general VAT taxpayers, electronic invoices will serve as VAT deduction vouchers, with the input tax amount determined according to current regulations.
+
+A transition period has been established until September 30, 2025. During this time, both paper and electronic invoices will be used concurrently. Passengers can continue to use paper tickets (reimbursement vouchers) for reimbursements, and organizations can account for these paper tickets and calculate the deductible VAT input tax as per regulations.
+
+
+Key Points of China’s Fully Digitalized E-Fapiao Program for Railway Transports
+No.	Description
+1	Railway transport companies will provide electronic invoices to passengers through the railway ticketing system, covering ticket purchases, refunds, and rebooking services.
+2	The electronic invoice (railway e-ticket) includes details such as invoice number, issue date, buyer information, passenger ID details, travel itinerary, ticket price, and QR code.
+3	Electronic invoice numbers are structured with a 20-digit code to ensure uniqueness and traceability.
+4	After completing their journey or paying for a refund or rebooking, passengers can access electronic invoices on the Railway 12306 platform within 180 days.
+5	Railway transport companies will deliver electronic invoices via the Railway 12306 platform or by email. Passengers can query, download, and print these invoices.
+6	Passengers are encouraged to use electronic invoices for reimbursement to achieve a fully paperless process. Paper tickets will still be accepted as reimbursement vouchers until September 30, 2025.
+7	General VAT taxpayers can use electronic invoices as tax deduction vouchers, with the input tax amount determined in accordance with current regulations.
+8	If an invoice needs to be replaced, railway companies will issue a red-letter electronic invoice following the applicable procedures.
+9	The China State Railway Group will upload electronic invoice information to the tax authorities. Buyers can manage and use electronic invoices through their digital tax accounts, and passengers can query and download invoices through the Personal Income Tax App’s ‘personal ticket folder.’
+Insights from Dezan Shira & Associates:
+
+Businesses must recognize the significance of digital transformation and align with the government’s digitization initiatives. It’s crucial to optimize internal reimbursement processes and related mechanisms promptly. The adoption of electronic invoices can lead to cost savings and improved financial management efficiency. However, using electronic invoices also necessitates stronger internal controls and auditing processes to mitigate potential risks associated with electronic data, ensuring the authenticity and reliability of financial reports.
+
+Recommendations for businesses:
+
+Employee guidance: Instruct employees to download electronic invoices from the 12306 railway website or mobile app after completing their journeys or when making ticket changes or cancellations.
+Update reimbursement processes: Establish or refresh internal paperless reimbursement procedures. Ensure employees know how to submit electronic invoices and how the finance department will manage these documents.
+Utilize digital tools: Use tax digital accounts or the national value-added tax (VAT) invoice verification platform to verify, download, and print electronic invoices. Additionally, maintain a secure electronic filing system for storing these invoices.
+VAT deduction certificates: For general VAT taxpayers, electronic invoices (railway electronic tickets) will serve as VAT deduction certificates. Organizations can check the corresponding VAT amounts through the electronic invoice service platform.
+Prepare for the transition: Before the transition period ends on September 30, 2025, finance personnel should be ready to handle both paper and electronic invoices to ensure compliance and avoid duplicate reimbursements.
+
+For more information about China’s e-invoicing push and accounting digitalization, please read our articles:
+
+E-Invoicing Push in China: The Fully Digitalized E-Fapiao Program
+Accounting Digitalization in China: Managing the Impact of Fully Digitalized E-Fapiao and the New Accounting Law
+STA releases updated “Going Global” tax guidelines 2024
+
+On October 17, 2024, the STA published the revised 2024 edition of the “Going Global” Tax Guidelines. This update expands the number of tax service items from 99 to 120 and introduces two new chapters: “Tax Policies for New Foreign Trade Models” and the “Tax Road Connection” service brand.
+
+FIND BUSINESS SUPPORT
+Build Your Asia Business with Turnkey Market Entry and Cross-Regional Support⟶
+
+It also updates and supplements tax policies and agreements from the past four years, aiming to help Chinese taxpayers effectively mitigate overseas tax risks, adapt to new tax environment changes, and promote international economic and trade development.
+
+With more and more Chinese investors seeking opportunities overseas, we have the following recommendations for businesses:
+
+Understand the structure: Familiarize yourself with the structure of the guidelines, which includes chapters on tax policies, tax agreements, management regulations, and service measures. Deeply understand the content relevant to your overseas operations and investments.
+Follow management regulations: Adhere strictly to the management regulations outlined in the guidelines to ensure compliance with tax laws in both China and the host country of your investments. Stay updated on policy changes.
+Leverage tax agreements: Be aware of the specific terms of tax agreements with countries and regions that have signed agreements with China. Use these agreements to optimize your tax structure and reduce tax costs.
+Assess tax risks: Evaluate potential tax risks your business may encounter while operating overseas and develop appropriate risk mitigation strategies.
+Train employees: For businesses involved in overseas operations, conduct regular training for relevant employees and perform internal audits to ensure that tax practices align with the guidelines. This will support the stable development of your business in the international market.
+Hainan releases a new policy on additional deductions for R&D expenses
+
+On October 12, 2024, the Hainan Tax Bureau, along with the Hainan Provincial Department of Science and Technology and the Hainan Provincial Department of Finance, released the Interim Measures for the Identification of Additional Deductions for R&D Expenses in Hainan Province. This policy aims to streamline the identification process for R&D expense deductions and further implement the relevant tax policies.
+
+Key details:
+
+Applicable entities: This policy applies to resident enterprises in Hainan that have sound financial accounting practices, are subject to tax audits, and benefit from additional deductions for R&D expenses.
+Scope of identification: If there are disputes regarding a company’s R&D projects, the tax authorities will require an assessment from the science and technology department.
+Identifying authority: The municipal and county science and technology departments are responsible for evaluating the R&D projects of enterprises.
+Assessment criteria: The evaluation will determine whether the projects qualify as R&D activities as defined in the “Notice on Improving the Pre-Tax Additional Deduction Policy for R&D Expenses” (Cai Shui [2015] No. 119)
+
+The release of these interim measures provides a clear framework and standards for identifying which enterprises and projects are eligible for additional deductions. This reduces the risk of ineligible companies misusing the policy. Companies play a crucial role in benefiting from these deductions and should proactively optimize their internal processes and accounting management for R&D expenses. This will ensure efficient and compliant implementation of the new deduction policy.
+
+Other updates in October
+New regulations for tax professionals in the Greater Bay Area
+
+The Guangdong Provincial Tax Bureau, in collaboration with other local authorities, released the Management Measures for Tax Professionals from Hong Kong and Macao Practicing in the Hengqin Guangdong-Macao Deep Cooperation Zone. This policy allows qualified tax professionals from Hong Kong and Macao to practice in Hengqin, provided they comply with national laws and industry self-regulation, and meet specific qualifications and experience requirements. The Guangdong Provincial Tax Bureau will oversee registration and enforce penalties for violations. The initiative aims to foster a market-oriented, law-based, and international business environment.
+
+VAT deduction policy for integrated circuit enterprises
+
+A joint notice from the Ministry of Industry and Information Technology (MIIT), the National Development and Reform Commission (NDRC), the MOF, and the STA outlines the requirements for the 2024 VAT deduction policy for integrated circuit companies.
+
+Enterprises must submit applications through an information reporting system within a specified timeframe. After initial review by local authorities, the final list will be confirmed by the four departments. Companies included in the list can benefit from VAT deductions but must adhere to regulatory requirements and ensure the authenticity of their submitted materials. This policy has been in effect since September 12, 2024, and aims to support the development of the integrated circuit industry.
+
+Enhanced tax refund services for tourists in Shanghai
+
+On October 24, 2024, the Shanghai Tax Bureau announced the release of the 21st batch of stores eligible for tax refunds for departing travelers, along with new “Instant Refund” points. These measures are designed to improve the convenience of tax refund services for international shoppers and to expand the implementation of tax refund policies. The new list and refund points are effective immediately, aiming to further promote tourism and shopping consumption in the region.
+
+About Us
+
+China Briefing is one of five regional Asia Briefing publications, supported by Dezan Shira & Associates. For a complimentary subscription to China Briefing’s content products, please click here.
+
+Dezan Shira & Associates assists foreign investors into China and has done so since 1992 through offices in Beijing, Tianjin, Dalian, Qingdao, Shanghai, Hangzhou, Ningbo, Suzhou, Guangzhou, Dongguan, Haikou, Zhongshan, Shenzhen, and Hong Kong. We also have offices in Vietnam, Indonesia, Singapore, United States, Germany, Italy, India, and Dubai (UAE) and partner firms assisting foreign investors in The Philippines, Malaysia, Thailand, Bangladesh, and Australia. For assistance in China, please contact the firm at china@dezshira.com or visit our website at www.dezshira.com.
+
+Previous Article
+Understanding China’s New Carbon Accounting Plan: Green Compliance and Opportunities
+Next Article
+
+ 
+
+In this article
+China to pilot water tax nationwide from December 1, 2024
+STA and MOF launch electronic invoices for railway tickets
+Insights from Dezan Shira & Associates:
+STA releases updated “Going Global” tax guidelines 2024
+Hainan releases a new policy on additional deductions for R&D expenses
+Other updates in October
+New regulations for tax professionals in the Greater Bay Area
+VAT deduction policy for integrated circuit enterprises
+Enhanced tax refund services for tourists in Shanghai
+Events in China
+ALL EVENTS
+
+Our free webinars are packed full of useful information for doing business in China.
+
+9
+JAN
+Why China in 2025: Your Ultimate Guide to Doing Business in China
+Webinar | Thursday, January 9, 2025 | 4:00 PM China / 9:00 AM CET / 8:00 AM UK
+Viktor Rojkov
+Manager
+Radomir Tomovic
+Manager
+JOIN EVENT
+22
+JAN
+Cost Control Series: Boosting HR Effectiveness in China with Innovative Compensation, PEO and Flexible Workforce in 2025
+Webinar | Wednesday, January 22, 2025 | 4:00 PM China / 3:00 PM Vietnam / 1:30 PM India / 9:00 AM CET
+Donfil Huang
+Manager
+Sandy Zhang
+Senior Manager
+JOIN EVENT
+Related reading
+DEZAN SHIRA & ASSOCIATES
+
+Meet the firm behind our content. Visit their website to see how their services can help your business succeed.
+
+About Us Find an Advisor
+Want the Latest Sent to Your Inbox?
+
+Subscribing grants you this, plus free access to our articles and magazines.
+
+SUBSCRIBE
+Get free access to our subscriptions and publications
+
+Subscribe to receive weekly China Briefing news updates,
+our latest doing business publications, and access to our Asia archives.
+
+Sign Up Now
+About Us
+Overview
+Personnel
+News
+Events
+Subscribe
+Topics
+Economy & Trade
+Tax & Accounting
+Legal & Regulatory
+Industries
+HR & Payroll
+Bookstore
+Visit Publication
+My Account
+My Order History
+Products
+Media Partners
+Partner
+©1992-2023 Dezan Shira & Associates All Rights Reserved.
+Terms of Use
+Privacy Policy
+ 
+ 
+ ----- 
+ Source link : https://www.china-briefing.com/news/china-monthly-tax-brief-october-2024/ 
+ ----- 

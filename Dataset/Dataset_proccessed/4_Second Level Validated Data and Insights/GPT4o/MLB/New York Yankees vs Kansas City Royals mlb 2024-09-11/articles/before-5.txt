@@ -1,0 +1,247 @@
+Sports Betting
+
+Odds
+• • •
+Log In
+Subscribe
+Wednesday’s MLB odds, best bets: Projections for pitching matchups, playoffs and more
+By Derek Carty
+Sep 11, 2024
+
+Wednesday’s MLB games include a matchup on Prime Video between the Kansas City Royals and New York Yankees in New York at 7:05 p.m. ET. We have odds and projections for that primetime matchup and every other game today. Powered by Derek Carty’s THE BAT X, the tables below provide up-to-the-minute MLB odds, projections, best bets and top picks each day.
+
+Carty’s EV Analytics considers everything from best odds value to the lines with the most movement. There are updated projected records for all 30 MLB teams below the game projections, along with playoff and World Series likelihoods. All the odds you see are from BetMGM.
+
+What are THE BAT X projections?
+
+In the tables below, you’ll see details for each MLB matchup, then a lot of numbers (which are updated all day):
+
+“Moneyline” shows each team’s odds on BetMGM.
+“Implied Win%” is the chance a team has to win based on those BetMGM odds.
+“THE BAT X win%” is the chance a team has to win based on EV Analytics’ projections.
+“Cash Line” is how THE BAT X would price each team’s odds.
+“Value” is the percentage difference between the odds chances and our projections.
+
+The higher the value percentage, the better — which you can easily see from the color coding from red (bad pick) through to green (good pick).
+
+Note: On mobile, you may have to scroll to see the color-coded “Value” column on the far right of the first set of tables.
+
+Another note: If you’re seeing old data or the tables aren’t showing up, you may need to “hard refresh” this page, or you may have an ad blocker or other software blocking the tables from loading.
+
+THE BAT X - TEAM PROJECTIONS
+Last Updated: 10:17PM ET
+DATE\tTIME\tPITCHER\tGAME\tMONEY
+LINE\tIMPLIED
+WIN%\tTHE BAT X
+WIN%\tCASH
+LINE\tVALUE
+
+09/11\t12:35PM\tJonathan Bermudez\tMIA @ PIT\t+130\t43.48%\t40.62%\t+147\t-2.86%
+09/11\t12:35PM\tBailey Falter\tMIA @ PIT\t-155\t60.78%\t59.38%\t-146\t-1.40%
+
+09/11\t2:10PM\tMatthew Boyd\tCLE @ CHW\t-225\t69.23%\t58.78%\t-142\t-10.45%
+09/11\t2:10PM\tDavis Martin\tCLE @ CHW\t+180\t35.71%\t41.22%\t+143\t5.51%
+
+09/11\t3:07PM\tSean Manaea\tNYM @ TOR\t-130\t56.52%\t53.32%\t-114\t-3.20%
+09/11\t3:07PM\tBowden Francis\tNYM @ TOR\t+110\t47.62%\t46.68%\t+115\t-0.94%
+
+09/11\t3:40PM\tCody Bradford\tTEX @ ARI\t+135\t42.55%\t43.57%\t+130\t1.02%
+09/11\t3:40PM\tMerrill Kelly\tTEX @ ARI\t-160\t61.54%\t56.43%\t-129\t-5.11%
+
+09/11\t6:40PM\tTanner Gordon\tCOL @ DET\t+155\t39.22%\t38.15%\t+163\t-1.07%
+09/11\t6:40PM\tCasey Mize\tCOL @ DET\t-190\t65.52%\t61.85%\t-162\t-3.67%
+
+09/11\t6:40PM\tShane Baz\tTBR @ PHI\t+200\t33.33%\t36.96%\t+171\t3.63%
+09/11\t6:40PM\tZack Wheeler\tTBR @ PHI\t-250\t71.43%\t63.04%\t-170\t-8.39%
+
+09/11\t6:45PM\tMax Fried\tATL @ WAS\t-175\t63.64%\t65.85%\t-192\t2.21%
+09/11\t6:45PM\tJake Irvin\tATL @ WAS\t+145\t40.82%\t34.15%\t+193\t-6.67%
+
+09/11\t7:05PM\tCole Ragans\tKCR @ NYY\t+125\t44.44%\t38.93%\t+157\t-5.51%
+09/11\t7:05PM\tLuis Gil\tKCR @ NYY\t-150\t60.00%\t61.07%\t-156\t1.07%
+
+09/11\t7:10PM\tJack Kochanowicz\tLAA @ MIN\t+180\t35.71%\t35.79%\t+180\t0.08%
+09/11\t7:10PM\tZebby Matthews\tLAA @ MIN\t-225\t69.23%\t64.21%\t-179\t-5.02%
+
+09/11\t7:10PM\tDean Kremer\tBAL @ BOS\t+120\t45.45%\t45.31%\t+121\t-0.14%
+09/11\t7:10PM\tNick Pivetta\tBAL @ BOS\t-140\t58.33%\t54.69%\t-120\t-3.64%
+
+09/11\t7:45PM\tBrandon Williamson\tCIN @ STL\t+125\t44.44%\t43.02%\t+133\t-1.42%
+09/11\t7:45PM\tLance Lynn\tCIN @ STL\t-150\t60.00%\t56.98%\t-132\t-3.02%
+
+09/11\t8:10PM\tJoey Estes\tOAK @ HOU\t+200\t33.33%\t34.27%\t+192\t0.94%
+09/11\t8:10PM\tHunter Brown\tOAK @ HOU\t-250\t71.43%\t65.73%\t-191\t-5.70%
+
+09/11\t9:40PM\tMichael King\tSDP @ SEA\t-110\t52.38%\t51.30%\t-105\t-1.08%
+09/11\t9:40PM\tBryan Woo\tSDP @ SEA\t-110\t52.38%\t48.70%\t+106\t-3.68%
+
+09/11\t9:45PM\tColin Rea\tMIL @ SFG\t+120\t45.45%\t40.02%\t+150\t-5.43%
+09/11\t9:45PM\tBlake Snell\tMIL @ SFG\t-140\t58.33%\t59.98%\t-149\t1.65%
+
+09/11\t10:10PM\tJordan Wicks\tCHC @ LAD\t+145\t40.82%\t38.74%\t+159\t-2.08%
+09/11\t10:10PM\tBobby Miller\tCHC @ LAD\t-175\t63.64%\t61.26%\t-158\t-2.38%
+Powered By EV Analytics & THE BAT
+Article Insights By WriteNow
+Moneyline Odds Courtesy Of BetMGM
+Find more projections and sports betting tools at EV Analytics!
+
+Gamesheets, Player Propsheets, Line Service to find the best odds, & more!
+Research bets using THE BAT X Projections!
+Projections side-by-side with Over/Unders, Team Totals, and Player Props across multiple sportsbooks
+Disclaimer – Please note, over a large sample size the model has been proven to be profitable, but readers should acknowledge good and bad variance will occur. Additionally, scaling profitable picks is difficult and as such this information should strictly be used as a research tool. Although, picks get locked, odds and projections may vary throughout the day. Shop for the best price and acknowledge sports wagering at its core is entertainment. If you feel you have a problem please seek help (1-800-GAMBLER).
+Frequently Asked Questions & Records
+
+You can buy tickets to every MLB game here.
+
+(Photo of Bobby Witt Jr.: Ed Zurga / Getty Images)
+
+Derek Carty was a contributor to The Athletic, covering MLB. He is the creator of THE BAT X and THE BLITZ projection systems for MLB and NFL, respectively. He is also affiliated with EV Analytics (for sports betting), RotoGrinders (for DFS) and ESPN (for season-long fantasy), among many others past and present. He was previously a regular on ESPN's "Baseball Tonight," is a three-time LABR expert league champion, and is a graduate of MLB's Scout School.
+
+National
+Boxing
+Bundesliga
+Champions League
+Championship
+College Football
+College Sports
+Copa America
+Copa del Rey
+Culture
+Europa League
+European Championship
+FA Cup
+Fantasy Baseball
+Fantasy Basketball
+Fantasy Football
+Fantasy Hockey
+Fantasy Premier League
+Formula 1
+Gaming
+Golf
+International Football
+La Liga
+League Cup
+League One
+League Two
+LNH
+Memorabilia & Collectibles
+Men's College Basketball
+Men's World Cup
+Mixed Martial Arts
+MLB
+MLS
+Motorsports
+NASCAR
+NBA
+NFL
+NHL
+NWSL
+Olympics
+Opinion
+Premier League
+Scottish Premiership
+Serie A
+Soccer
+Sports Betting
+Sports Business
+Tennis
+Top Sports News
+UK Women's Football
+WNBA
+Women's College Basketball
+Women's Euros
+Women's Hockey
+Women's World Cup
+The Athletic Ink
+Podcasts
+Headlines
+US
+Arizona
+Atlanta
+Baltimore
+Bay Area
+Boston
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Columbus
+Dallas
+Denver
+Detroit
+Houston
+Indiana
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles
+Memphis
+Miami
+Minnesota
+Nashville
+New Orleans
+New York
+Oklahoma
+Oregon
+Orlando
+Philadelphia
+Pittsburgh
+Sacramento
+San Antonio
+San Diego
+Seattle
+St. Louis
+Tampa Bay
+Utah
+Washington DC
+Wisconsin
+Canada
+Calgary
+Edmonton
+Montreal
+Montréal (français)
+Ottawa
+Toronto
+Vancouver
+Winnipeg
+Partners
+Collectibles by eBay
+Tickets by Viagogo
+Subscribe
+Start Subscription
+Group Subscriptions
+HQ
+About Us
+Careers
+Code of Conduct
+Editorial Guidelines
+Business Inquiries
+Press Inquiries
+Support
+FAQ
+Forgot Password?
+Redeem Gift
+Contact Us
+Terms of Service
+Newsletters
+The Pulse
+The Bounce
+The Windup
+Prime Tire
+Full Time
+Until Saturday
+Scoop City
+The Athletic FC
+MoneyCall
+©2025 The Athletic Media Company, A New York Times Company
+Manage Privacy Preferences
+Privacy Policy
+Your Ad Choices
+Support
+Sitemap
+ 
+ 
+ ----- 
+ Source link : https://www.nytimes.com/athletic/5758852/2024/09/11/mlb-odds-best-bets-projections-september-11/ 
+ ----- 

@@ -1,0 +1,334 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NBA
+NFL
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Athletics
+64-82, 28-43 Away
+5
+Final
+Astros
+77-68, 41-32 Home
+4
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Kyle McCann homers, Brent Rooker drives in 2 as Athletics beat Astros 5-4
+— Kyle McCann hit a two-run homer, Brent Rooker had two hits and two RBI and the Oakland Athletics beat the Houston Astros 5-4 on Wednesday night.
+Sep 12, 2024, 04:21 am - AP
+
+
+OAK
+
+
+HOU
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t0\t2\t0\t0\t3\t0\t0\t0\t5\t10\t2
+0\t2\t1\t0\t0\t0\t0\t1\t0\t4\t9\t1
+WIN
+J. Estes
+7-7
+6.2 IP, 7 H, 2 ER, 2 K, 1 BB
+LOSS
+H. Brown
+11-8
+5.0 IP, 9 H, 5 ER, 7 K, 1 BB
+SAVE
+M. Miller
+24
+1.0 IP, 0 H, 0 ER, 0 K, 0 BB
+Scoring Summary
+INNING
+\tOAK\tHOU
+\t\t2nd\tMeyers hit sacrifice fly to center, Bregman scored, Peña to third.\t0\t1
+\t\t2nd\tDubón singled to right, Peña scored, Gamel to third.\t0\t2
+\t\t3rd\tRooker singled to right, Schuemann scored, Noda to third.\t1\t2
+\t\t3rd\tBleday grounded into fielder's choice to second, Noda scored on error, Rooker safe at second on fielding error by second baseman Altuve.\t2\t2
+\t\t3rd\tAlvarez scored on error, Diaz safe at first on fielding error by third baseman Schuemann, Diaz safe at second on error.\t2\t3
+\t\t6th\tMcCann homered to left center (352 feet), Wilson scored.\t4\t3
+\t\t6th\tRooker singled to right, Schuemann scored.\t5\t3
+\t\t8th\tTucker singled to right, Bregman scored, Singleton to second.\t5\t4
+Full Play-By-Play
+Athletics
+Astros
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+L. Butler
+RF
+\t1-5\t0\t0\t0\t.269
+
+B. Rooker
+DH
+\t2-5\t0\t0\t2\t.299
+
+J. Bleday
+CF
+\t1-5\t0\t0\t1\t.244
+
+S. Brown
+LF
+\t0-5\t0\t0\t0\t.241
+
+Z. Gelof
+2B
+\t1-4\t0\t0\t0\t.211
+
+J. Wilson
+SS
+\t1-4\t1\t0\t0\t.233
+
+K. McCann
+C
+\t1-3\t1\t1\t2\t.250
+
+S. Langeliers
+C
+\t0-0\t0\t0\t0\t.223
+
+M. Schuemann
+3B
+\t2-3\t2\t0\t0\t.224
+
+R. Noda
+1B
+\t1-3\t1\t0\t0\t.132
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+J. Estes
+\t6.2\t7\t2\t1\t2\t84-58\t4.36
+
+T.J. McFarland
+\t0.1\t0\t0\t0\t1\t3-3\t3.46
+
+T. Ferguson
+\t1.0\t2\t0\t0\t0\t17-11\t4.15
+
+M. Miller
+\t1.0\t0\t0\t0\t0\t9-7\t2.34
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+J. Altuve
+2B
+\t0-3\t0\t0\t0\t.302
+
+J. Heyward
+RF
+\t0-1\t0\t0\t0\t.111
+
+V. Caratini
+PH
+\t0-1\t0\t0\t0\t.272
+
+Y. Alvarez
+DH
+\t2-4\t1\t0\t0\t.313
+
+Y. Diaz
+C
+\t0-4\t0\t0\t0\t.298
+
+A. Bregman
+3B
+\t2-4\t2\t0\t0\t.259
+
+J. Singleton
+1B
+\t1-4\t0\t0\t0\t.232
+
+J. Pena
+SS
+\t2-3\t1\t0\t0\t.269
+
+K. Tucker
+PH
+\t1-1\t0\t0\t1\t.262
+
+S. Whitcomb
+PR-2B
+\t0-0\t0\t0\t0\t.222
+
+B. Gamel
+RF-LF
+\t0-3\t0\t0\t0\t.268
+
+J. Meyers
+CF
+\t0-3\t0\t0\t1\t.222
+
+M. Dubon
+LF-2B-SS
+\t1-4\t0\t0\t1\t.264
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+H. Brown
+\t5.0\t9\t5\t1\t7\t97-62\t3.59
+
+C. Ferguson
+\t2.0\t1\t0\t0\t3\t22-18\t4.21
+
+T. Scott
+\t1.0\t0\t0\t1\t0\t17-7\t2.00
+
+K. Ort
+\t1.0\t0\t0\t0\t0\t6-6\t1.33
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Oakland Athletics (64-82, 28-43 Away)
+Joey Estes (7-9, 5.01)
+o8.5
++110
++205
+o8.5
+-115
++1.5
+EVEN
+Houston Astros (77-68, 41-32 Home)
+Hunter Brown (11-9, 3.49)
+-190
+ML
+-250
+u8.5
+-105
+-1.5
+-120
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+ATHLETICS
+ASTROS
+OAK 100
+%
+OAK 5HOU 4
+
+Bottom 9th
+Caratini flied out to right.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+OAK
+HOU
+Hits
+10
+9
+Home Runs
+1
+0
+Total Bases
+14
+10
+Runners LOB
+8
+6
+Full Team Stats
+Regular Season Series
+Current Series
+OAK wins 2-1
+Athletics
+4
+Astros
+3
+Game 1
+9/11
+Final/12
+Athletics
+5
+Astros
+4
+Game 2
+9/12
+Final
+Athletics
+3
+Astros
+6
+Game 3
+9/12
+Final
+Game Information
+Daikin Park
+12:10 AM, September 12, 2024
+Houston, Texas
+Attendance: 32,327
+Game Time:
+2:30
+Umpires:
+Home Plate Umpire - Alex Mackay
+First Base Umpire - Jeremie Rehak
+Second Base Umpire - Mark Wegner
+Third Base Umpire - Clint Vondrak
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570657/athletics-astros 
+ ----- 

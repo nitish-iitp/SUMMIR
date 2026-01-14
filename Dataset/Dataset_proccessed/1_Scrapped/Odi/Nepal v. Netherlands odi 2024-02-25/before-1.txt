@@ -1,0 +1,609 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Any experience with ODIN Works Barrels for a typical AR?
+ 
+Thread starter
+LuckyDuck  
+Start date
+Feb 21, 2024
+LuckyDuck
+Old Salt
+Full Member
+Minuteman
+Nov 4, 2020
+2,632
+9,232
+Pennsylvania
+Feb 21, 2024
+#1
+The long and short of my question is if any smarter folks from the Hide held any opinions of ODIN works barrels... I've been running the 77gr SMK ammo from IMI with less than favorable results thus far from an OIDIN works 18" DMR profile barrel and need to determine whether the problem is with me/my technique/my scope or ultimatly whether the barrel isn't exactly... "answering the mail" either. I'd like to give myself the benefit of the doubt given the TT trigger included in my build but figured somebody in this community would have something of value to suggest. I reckon that the logical path forward would be to try different ammo (either by lot or manufacturer) but before I go down that path, I just wanted to ask if anyone on the Hide had any experience with ODIN Works barrels and what their results were with their performance.
+
+-LD
+ 
+H
+hlee
+Sergeant
+Full Member
+Minuteman
+Jul 14, 2012
+12,595
+19,586
+46
+TX
+Feb 21, 2024
+#2
+I have an 18” 6.5 Grendel and an 8.5” 300 black out from Odin works. The Grendel is less precise than my 22” JP 6.5 Grendel, but still sub-moa with Hornady black ammo. The 300 blackout is closer to 2 moa, but my precision expectations are lower for this barrel, and I’m satisfied for its intended role.
+
+I’d push a few flavors of factory ammo through it before settling on the barrel as the issue…
+ 
+ 
+Reactions:
+bfoosh006 and LuckyDuck
+Broncovan
+FHEC
+Full Member
+Minuteman
+Jan 24, 2009
+720
+3,062
+Nampa, ID
+Feb 25, 2024
+#3
+LuckyDuck said:
+The long and short of my question is if any smarter folks from the Hide held any opinions of ODIN works barrels... I've been running the 77gr SMK ammo from IMI with less than favorable results thus far from an OIDIN works 18" DMR profile barrel and need to determine whether the problem is with me/my technique/my scope or ultimatly whether the barrel isn't exactly... "answering the mail" either. I'd like to give myself the benefit of the doubt given the TT trigger included in my build but figured somebody in this community would have something of value to suggest. I reckon that the logical path forward would be to try different ammo (either by lot or manufacturer) but before I go down that path, I just wanted to ask if anyone on the Hide had any experience with ODIN Works barrels and what their results were with their performance.
+
+-LD
+Click to expand...
+Define less than favorable. What are your expectations?
+I have one of those barrels with at least 1k through it. I haven't checked accuracy since I did my load development and stopped with a load I was happy enough with. I was getting regular groups of about 3/4" +or-, depending on the day.
+Some MK262 mod 1 stuff that I had was a little better than that, but I shoot reloads 90% of the time.
+ 
+ 
+Reactions:
+MarshallDodge
+LuckyDuck
+Old Salt
+Full Member
+Minuteman
+Nov 4, 2020
+2,632
+9,232
+Pennsylvania
+Feb 25, 2024
+#4
+Broncovan said:
+Define less than favorable. What are your expectations?
+I have one of those barrels with at least 1k through it. I haven't checked accuracy since I did my load development and stopped with a load I was happy enough with. I was getting regular groups of about 3/4" +or-, depending on the day.
+Some MK262 mod 1 stuff that I had was a little better than that, but I shoot reloads 90% of the time.
+Fair enough- I was looking to achieve MOA or slightly better. I know Odin Works Guarantees that much which I'd be fine with but I did expect the 77gr IMI Razor ammo to be a bit more consistent from the heavy profile barrel than what I've been getting. I have a 3-gun barrel profile from them from a previous build that is scary accurate which is why I rolled the dice trying their DMR barrels for the build I'm referencing. I think "hlee"'s response is on par with what I need to do with trying other factory ammo once things start warming up here before forming an opinion. But as your post provided, I was only attempting to level-set my expectations based of what to chase after. Thanks for weighing in.
+
+-LD
+ 
+Broncovan
+FHEC
+Full Member
+Minuteman
+Jan 24, 2009
+720
+3,062
+Nampa, ID
+Feb 25, 2024
+#5
+LuckyDuck said:
+Fair enough- I was looking to achieve MOA or slightly better. I know Odin Works Guarantees that much which I'd be fine with but I did expect the 77gr IMI Razor ammo to be a bit more consistent from the heavy profile barrel than what I've been getting. I have a 3-gun barrel profile from them from a previous build that is scary accurate which is why I rolled the dice trying their DMR barrels for the build I'm referencing. I think "hlee"'s response is on par with what I need to do with trying other factory ammo once things start warming up here before forming an opinion. But as your post provided, I was only attempting to level-set my expectations based of what to chase after. Thanks for weighing in.
+
+-LD
+Click to expand...
+Remember, not all match precision ammo is as precise as others.
+
+After trying a few types of ammo and you're still not getting what you expect, don't hesitate to call them.
+I know they are very responsive and will work with you to get it right. These guys are not only manufacturers, but they're also shooters and they get it.
+
+As long as you don't tell them that you're trying to get 1/4" 10 shot groups from wolf steel cased 55gr fmj ammo...
+ 
+ 
+Reactions:
+MarshallDodge, bfoosh006 and LuckyDuck
+LuckyDuck
+Old Salt
+Full Member
+Minuteman
+Nov 4, 2020
+2,632
+9,232
+Pennsylvania
+Feb 25, 2024
+#6
+Broncovan said:
+Remember, not all match precision ammo is as precise as others.
+
+After trying a few types of ammo and you're still not getting what you expect, don't hesitate to call them.
+I know they are very responsive and will work with you to get it right. These guys are not only manufacturers, but they're also shooters and they get it.
+
+As long as you don't tell them that you're trying to get 1/4" 10 shot groups from wolf steel cased 55gr fmj ammo...
+Click to expand...
+You're not wrong there!
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,156
+5,678
+SLC, Utah
+Feb 25, 2024
+#7
+Is the barrel bedded?
+
+For 5.56/.223 Wylde, I like to check a barrel with 69gr SMK on any of the known loads to see if it will shoot.
+
+I don’t really care if they shoot sub-MOA though because it doesn’t seem to matter much on plates at distance, as long as they hold 1.5 MOA, I’m good. My 5.56 DM guns have usually shoot well under MOA though after bedding and trued receiver faces.
+
+As far as Odin barrels go, I had a friend make a 1st-round hit at 760yds with his 12.5” suppressed Odin piped Grendel on a 2 MOA plate last summer.
+ 
+LuckyDuck
+Old Salt
+Full Member
+Minuteman
+Nov 4, 2020
+2,632
+9,232
+Pennsylvania
+Feb 25, 2024
+#8
+LRRPF52 said:
+Is the barrel bedded?
+
+For 5.56/.223 Wylde, I like to check a barrel with 69gr SMK on any of the known loads to see if it will shoot.
+
+I don’t really care if they shoot sub-MOA though because it doesn’t seem to matter much on plates at distance, as long as they hold 1.5 MOA, I’m good. My 5.56 DM guns have usually shoot well under MOA though after bedding and trued receiver faces.
+
+As far as Odin barrels go, I had a friend make a 1st-round hit at 760yds with his 12.5” suppressed Odin piped Grendel on a 2 MOA plate last summer.
+Click to expand...
+Bedded- no sir but it is free floated with an BCM MCMR rail (truth be told there is only a marginal amount of clearance between the rail and heavy barrel) and yes it isin a Wylde chambering. I'm not exactly looking for 1/4 MOA type of groups from the barrel but thus far, the trips I've taken has been closer to 1.5 MOA using the same lot of IMI Razor 77gr's which frankly I was a bit disappointed with from both the ammo and/or barrel. Not complaining about Odin Works by any means, or at least not trying to as my previous barrel continues to impress me, but am slightly frustrated with my build thus far as it was intended to play in a 700+ yard AR matches here.
+
+-LD
+ 
+Last edited: Feb 25, 2024
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,156
+5,678
+SLC, Utah
+Feb 26, 2024
+#9
+I would check squareness of the receiver face, then bed the barrel into the upper and see how it shoots.
+
+For heavier barrel profiles, use around 40ft-lbs of torque on the nut after you let the bedding compound cure and solidify.
+
+For lighter barrels, use around 65ft-lbs.
+
+Use very minimal or no torque on the muzzle device, set with Rocksett or Red Loc-tite.
+
+Make sure your scope fasteners all have the same torque following the scope maker’s recommended spec limits.
+
+Use a good rear bag and try a Bulls Bag up front, tucked close to the magazine well.
+
+If you do all that, it should shoot very well.
+ 
+ 
+Reactions:
+MarshallDodge, bfoosh006 and LuckyDuck
+D
+DHDeal
+Sergeant
+Full Member
+Minuteman
+Nov 22, 2008
+500
+255
+Gateway to the Lowcountry, SC
+Feb 27, 2024
+#10
+Very good information already.
+
+I have one Odin barrel myself but have built 5 or 6 using an Odin barrel. Mine is a 16" with intermediate length gas (Rock River receivers, Geissele Mk14 15", Triggertech, JP FMOS carrier, and a Delta Stryker HD 1-6) and from the beginning it has shot an average of 3/4" at 100 yards with handloaded 77 SMK's. Honestly I have never checked to see what factory ammo will group even though I've shot quite a few through it.
+
+I shimmed my barrel, spent a little bit of time with gas tube/carrier fit, and made sure my upper and lower is tight. Was it worth it? I believe so but never shot it without the stuff done. I have not been unsatisfied with the barrel and can depend on it at 300 yards (longest distance the rifle goes). No tiny groups and no WTH groups.
+ 
+Last edited: Feb 27, 2024
+ 
+Reactions:
+MarshallDodge and LuckyDuck
+R
+River44
+Private
+Minuteman
+Jan 23, 2023
+99
+115
+Texas
+Feb 27, 2024
+#11
+Maybe the gun don’t like that particular loading. Have you tried others? just because it don’t like those 77 SMK doesn’t mean that the barrel is bad
+ 
+ 
+Reactions:
+91Eunozs and LuckyDuck
+LuckyDuck
+Old Salt
+Full Member
+Minuteman
+Nov 4, 2020
+2,632
+9,232
+Pennsylvania
+Feb 28, 2024
+#12
+River44 said:
+Maybe the gun don’t like that particular loading. Have you tried others? just because it don’t like those 77 SMK doesn’t mean that the barrel is bad
+No sir- I haven't tried any other loading that the 77gr SMK IMI Razor aside from running 55gr & 62gr (M193 & M885 loading equivalents) to dial in the adjustable gas plug for all three bullet weights (I don't presently reload). I was hoping/read that I should expect some nifty results with the 77 grain SMK but admittedly have been limited to the IMI Razor case I purchased last year. I'd love to pick up some Black Hills ammunition as a comparassion but dang if they haven't been like trying to find hen's teeth the past few years. The DMR barrel seems fine from a cursory/visual inspection and the other ammunition I've mentioned previously all runs extremely well in the other Odin Works barrel but the way this barrel is reacting with the IMI 77gr Razor has me puzzled.
+
+I suspect the advice I've overwhelmingly received thus far is all on par that I need to devote more time and ammo trying other manufacturers/lots before ruling out the barrel at this point. It's just a frustrating/expensive process doing so and diagnosing what's going on. I'm pretty sure I can pick up some Hornady Match ammo in 75gr while I'm waiting on Black Hills and I reckon that's a great place to move towards working this out. I still have an M1 Garand that I have another weird issue to diagnose but that's a story for another thread.
+
+-LD
+ 
+ 
+Reactions:
+bfoosh006 and River44
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,686
+1,646
+USA
+Feb 28, 2024
+#13
+I had an Odin barrel once... and only one...it was 9mm and would not chamber cartridges fully.
+The chamber reamer used was worn that much!
+The barrel OD was so large the barrel nut would not slide over the barrel, to assemble the rifle.
+Fixed it myself. Bored out the barrel nut. And ordered a finish 9mm reamer from Brownells, and rechambered the barrel.
+So no, I will definitely not recommend them, for anything.
+How could quality control let that garbage out the door?
+The average guy can not fix it.
+They will never get a chance to correct such a horrendous mistake, because it's obvious they do not, inspect and check their work...the so called machine operator, (he is no machinist) or the inspector...
+I would have been fired for that kind of machining, and inspection work. Everything must be in print.
+ 
+Attachments
+20210305_232234.jpg
+447 KB · Views: 117
+20210329_172516.jpg
+606.1 KB · Views: 86
+ 
+Reactions:
+LRRPF52
+bfoosh006
+Sergeant
+Full Member
+Minuteman
+Jun 13, 2007
+2,103
+1,320
+PNW
+Feb 28, 2024
+#14
+IMI 77gr can kinda be all over the place velocity wise ( pressure ) between various lots.
+
+I am with the general consensus suggesting you try different brands of ammo.
+
+Bone Frog Gun Club, Selway Armory and Creedmoor Sports will sometimes have BHA 5.56 on hand ... you might need to check often.
+ 
+ 
+Reactions:
+LuckyDuck
+TheOE800
+Argumentative
+Full Member
+Minuteman
+Supporter
+Feb 14, 2017
+5,726
+5,621
+USA
+Feb 28, 2024
+#15
+D556N9 is fairly widely available now, for instance here are nearly 60 cases with free shipping: https://eagleeyeguns.com/500-round-...k262-mod1-used-by-u-s-military-free-shipping/
+ 
+ 
+Reactions:
+1911hombre
+Birddog6424
+Sergeant
+Supporter
+Full Member
+Minuteman
+Apr 25, 2014
+3,950
+4,141
+Boise, Idaho
+Feb 29, 2024
+#16
+I've had a handful of Odin Works barrels, all of them have treated me great.
+
+I'm on my 3rd 18" heavy stainless 3 Gun barrel. I bought a 6.5 Grendel upper that with 123gr SST handloads is a solid .5/.6 moa rifle. I also get great groups out of my 6.5 Creedmoor and run both this one and the Grendel in PRS Gas Gun division every now and then for funnsies. And I have a 9mm PCC upper that's probably on about 15k rounds without issue.
+
+They've been great products for me, and I'll continue to buy them.
+ 
+ 
+Reactions:
+LuckyDuck
+91Eunozs
+The Man (Retired)
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jun 9, 2013
+3,152
+15,862
+south central Texas
+Feb 29, 2024
+#17
+I have an older Odin Works ss 10.5” chambered in .223 Wylde on my daughter’s SBR. Not a tack driver by any means, but will shoot MOA(ish) at 50 yards; about 1.5-2 MOA at 100 yards with basic 55 grain range ammo, and only a red dot.
+
+No issues whatsoever with cycling, chambering, etc. In fact, can’t really recall any gun-related failures whatsoever with this rifle.
+
+
+
+…makes nice fireballs without the suppressor! LoL.
+
+My son shooting it 10+ years ago when he was about 13 or so:
+
+
+ 
+ 
+Reactions:
+LuckyDuck, Birddog6424, MarshallDodge and 1 other person
+1911hombre
+Old School
+Supporter
+Full Member
+Minuteman
+ 
+Apr 13, 2019
+1,271
+1,542
+East Central Minnesota
+Feb 29, 2024
+#18
+TheOE800 said:
+D556N9 is fairly widely available now, for instance here are nearly 60 cases with free shipping: https://eagleeyeguns.com/500-round-...k262-mod1-used-by-u-s-military-free-shipping/
+Midway USA is flush with it right now, too.
+ 
+1911hombre
+Old School
+Supporter
+Full Member
+Minuteman
+ 
+Apr 13, 2019
+1,271
+1,542
+East Central Minnesota
+Feb 29, 2024
+#19
+bfoosh006 said:
+IMI 77gr can kinda be all over the place velocity wise ( pressure ) between various lots.
+
+I am with the general consensus suggesting you try different brands of ammo.
+
+Bone Frog Gun Club, Selway Armory and Creedmoor Sports will sometimes have BHA 5.56 on hand ... you might need to check often.
+Click to expand...
+This is how one lot of IMI chrono'ed for me in a 14.5" barrel with a 5.56 chamber. I've been having issues with this lot and was told this stuff generally doesn't like Wylde chambers.
+
+ 
+ 
+Reactions:
+bfoosh006
+bfoosh006
+Sergeant
+Full Member
+Minuteman
+Jun 13, 2007
+2,103
+1,320
+PNW
+Feb 29, 2024
+#20
+TheOE800 said:
+D556N9 is fairly widely available now, for instance here are nearly 60 cases with free shipping: https://eagleeyeguns.com/500-round-...k262-mod1-used-by-u-s-military-free-shipping/
+Remember, and I haven't shot any of the current D556N9 yet, BHA now uses a Hornady ( made for BHA only ) 77gr OTM. ( not 75gr )
+
+The Mk262 still will use the SMK.
+
+Both loads are held to BHA accuracy requirements, but terminal performance, "might" be different.
+One of the known YouTubers will be posting a video of the DN556N9 Horn 77gr OTM load soon.
+
+BTW your link even explains it a little .. Lol
+ 
+bfoosh006
+Sergeant
+Full Member
+Minuteman
+Jun 13, 2007
+2,103
+1,320
+PNW
+Feb 29, 2024
+#21
+1911hombre said:
+This is how one lot of IMI chrono'ed for me in a 14.5" barrel with a 5.56 chamber. I've been having issues with this lot and was told this stuff generally doesn't like Wylde chambers.
+View attachment 8361447
+Thank You for your data
+
+My results for 2012-2014
+IMI 77gr 5.56 OTM.......IMI 13 variety of 2 digits........16" V Seven .Av. 2726 , ES 39..............20" CHF SS Av. 2810 , ES 41
+
+CBC from the same testing period results..
+CBC 77gr 5.56 PR 844 SMK ......5.56 CBC 12..........................Av. 2620 , ES 36.................Av. 2729 , ES 34...........These last two are labeled with different powders.
+CBC 77gr 5.56 WC732 SMK ......5.56 CBC 14..........................Av. 2640 , ES 52.................Av. 2712 , ES 50
+ 
+Bobby Ball
+Sergeant of the Hide
+Full Member
+Minuteman
+Apr 29, 2022
+106
+63
+colorado
+Mar 1, 2024
+#22
+I just swapped one on a 300 blackout. 10.5". I'm happy with the accuracy, but I wanted to jump in on this to say that after a lot of frustration I found that my chamber is significantly shorter than SAMMI spec. So far with 3 different bullets it's hard to get anything over 2.100 COAL, and with the Hornaday sub-x I can't fit over 2.005. The quality seems good but I thought I'd share my experience. If the opportunity exists to check and confirm chamber dimensions it might prevent the same issue.
+
+That being said, everything else I have purchased from them (gas blocks, safeties, mag releases, muzzle brake, buffer, etc) I have been very happy with. And I will still continue to purchase their stuff
+ 
+LuckyDuck
+Old Salt
+Full Member
+Minuteman
+Nov 4, 2020
+2,632
+9,232
+Pennsylvania
+Mar 1, 2024
+#23
+1911hombre said:
+This is how one lot of IMI chrono'ed for me in a 14.5" barrel with a 5.56 chamber. I've been having issues with this lot and was told this stuff generally doesn't like Wylde chambers.
+View attachment 8361447
+Appreciate the input sir- that's the first that I heard that the IMI doesn't like Wylde chambers but it certainly gives me a variable to explore. Thanks for the feedback!
+
+-LD
+ 
+LuckyDuck
+Old Salt
+Full Member
+Minuteman
+Nov 4, 2020
+2,632
+9,232
+Pennsylvania
+Mar 2, 2024
+#24
+Birddog6424 said:
+I've had a handful of Odin Works barrels, all of them have treated me great.
+
+I'm on my 3rd 18" heavy stainless 3 Gun barrel. I bought a 6.5 Grendel upper that with 123gr SST handloads is a solid .5/.6 moa rifle. I also get great groups out of my 6.5 Creedmoor and run both this one and the Grendel in PRS Gas Gun division every now and then for funnsies. And I have a 9mm PCC upper that's probably on about 15k rounds without issue.
+
+They've been great products for me, and I'll continue to buy them.
+Click to expand...
+I was super happy with my 3 gun barrel as well sir- was able to achieve sub-MOA groups from it at least. With this DMR barrel though- I'm getting only 1.5 MOA groups from the 77gr IMI ammo. I reckon that's my problem and I mainly was focused on the bullet itself with 77gr SMK and I knew that IMI was just a touch hotter but I'd suspect my ES is higher than I'd want with the IMI factory ammo.
+
+-LD
+ 
+Last edited: Mar 2, 2024
+Birddog6424
+Sergeant
+Supporter
+Full Member
+Minuteman
+Apr 25, 2014
+3,950
+4,141
+Boise, Idaho
+Mar 2, 2024
+#25
+LuckyDuck said:
+I was super happy with my 3 gun barrel as well sir- was able to achieve sub-MOA groups from it at least. With this DMR barrel though- I'm getting only 1.5 MOA groups from the 77gr IMI ammo. I reckon that's my problem and I mainly focused on the bullet itself with 77gr SMG and I knew that IMI was just a touch hotter but I'd suspect my ES is higher than I'd want with the IMI factory ammo.
+
+-LD
+Click to expand...
+
+I run reloads through all my rifles. So I'm afraid I have no factory ammo experience.
+
+Based on my experiences in reloading and load development, I would never judge the quality of a barrel based off of factory ammo. That would be the equivalent of me producing one load, with one bullet, charge weight, primer, or seating depth, and just expecting it to shoot.
+ 
+ 
+Reactions:
+DIBBS and LuckyDuck
+S
+SBRSarge
+Gunny Sergeant
+Full Member
+Minuteman
+Jul 9, 2019
+678
+1,005
+Mar 3, 2024
+#26
+I built an upper with an 18” 6mm ARC Odin barrel.
+
+Sub moa with all factory Hornady loads, except the TAP loads. (Five shot groups at 100 yards.)
+ 
+ 
+Reactions:
+LuckyDuck
+You must log in or register to reply here.
+Similar threads
+R
+	
+SOLD $250 - 16.1” Odin Works 350 Legend Barrel + Adjustable GB
+rlsmith1 Dec 18, 2024 Buy - Sell - Trade
+1
+Dec 21, 2024
+	
+Shortening .22 Rifle Barrel...Any Down Side?
+Buck Wilde Dec 22, 2024 All Things Rimfire
+54
+Thursday at 4:33 PM
+	
+Wanted to share my experience with Glock Customer Service/Warranty
+LuckyDuck Nov 15, 2024 The Armory
+17
+Nov 18, 2024
+P
+	
+AR-10 Precision Rifle Shopping - Need Some Input & Advice
+pittfurg Oct 1, 2024 Semi-Automatic Rifles
+22
+Nov 7, 2024
+	
+Random question for those working in the legal profession.
+LuckyDuck May 22, 2024 The Bear Pit
+41
+May 23, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/any-experience-with-odin-works-barrels-for-a-typical-ar.7208580/ 
+ ----- 

@@ -1,0 +1,330 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Reds
+69-75, 33-36 Away
+3
+Final
+Mets
+78-65, 40-34 Home
+1
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+CIN
+
+
+NYM
+1	2	3	4	5	6	7	8	9	R	H	E
+0	0	0	0	0	0	1	0	2	3	7	0
+0	0	0	0	0	1	0	0	0	1	4	1
+WIN
+B. Farmer
+3-0
+1.0 IP, 0 H, 0 ER, 2 K, 0 BB
+LOSS
+P. Maton
+2-3
+0.2 IP, 2 H, 2 ER, 1 K, 0 BB
+SAVE
+A. Diaz
+26
+1.0 IP, 0 H, 0 ER, 2 K, 0 BB
+CIN
+Overview
+NYM
+Reds Hitting
+HITTERS
+
+J. India
+2B
+
+
+A. Rosario
+2B
+
+
+a
+T. Stephenson
+PH-C
+
+
+E. De La Cruz
+SS
+
+
+S. Steer
+LF-2B
+
+
+T. France
+1B
+
+
+J. Fraley
+RF-LF
+
+
+S. Espinal
+DH
+
+
+B. Dunn
+PR-DH
+
+
+N. Marte
+3B
+
+
+W. Benson
+CF-LF
+
+
+c
+R. Hinds
+PH-RF
+
+
+L. Maile
+C
+
+
+b
+T. Friedl
+PH-CF
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+3	0	0	0	0	0	.244
+0	0	0	0	0	0	.175
+1	0	0	0	0	0	.264
+3	0	1	0	0	1	.261
+3	1	0	0	0	0	.232
+4	1	2	0	0	0	.307
+4	1	1	0	0	0	.273
+4	0	2	2	0	0	.268
+0	0	0	0	0	0	.053
+4	0	1	1	0	0	.199
+2	0	0	0	0	1	.191
+1	0	0	0	0	0	.279
+2	0	0	0	0	0	.163
+1	0	0	0	0	0	.218
+32	3	7	3	0	2	
+a-struck out swinging for Rosario in the 8th
+b-lined out to third for Maile in the 8th
+c-popped out to shortstop for Benson in the 9th
+BATTING
+2BFraley (16, Severino); Espinal (12, Maton)
+RBIEspinal 2 (44), Marte (15)
+2Out RBIMarte
+Team LOB5
+Team RISP3-11 (Fraley 0-1, Benson 0-1, Espinal 2-3, India 0-1, Marte 1-3, Hinds 0-1, Steer 0-1)
+BASERUNNING
+CSDe La Cruz (14, 2nd base by Severino/Torrens)
+Picked OffEspinal (1st base, Severino)
+Mets Hitting
+HITTERS
+
+F. Lindor
+SS
+
+
+B. Nimmo
+LF
+
+
+M. Vientos
+3B
+
+
+P. Alonso
+1B
+
+
+J. Winker
+DH
+
+
+J. Iglesias
+2B
+
+
+S. Marte
+RF
+
+
+L. Torrens
+C
+
+
+a
+D. Stewart
+PH
+
+
+H. Bader
+CF
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	0	0	0	0	0	.270
+4	0	0	0	0	0	.229
+3	0	0	0	0	1	.284
+1	1	0	0	0	2	.242
+4	0	0	0	0	0	.280
+4	0	1	0	0	0	.314
+4	0	1	1	0	0	.271
+3	0	0	0	0	0	.257
+1	0	0	0	0	0	.174
+3	0	2	0	0	0	.247
+31	1	4	1	0	3	
+a-struck out swinging for Torrens in the 9th
+BATTING
+RBIMarte (33)
+2Out RBIMarte
+Team LOB7
+Team RISP1-6 (Iglesias 0-1, Marte 1-2, Nimmo 0-1, Winker 0-1, Torrens 0-1)
+BASERUNNING
+SBIglesias (5, 3rd base off Pagán/Maile); Marte (15, 2nd base off Pagán/Maile); Bader (16, 2nd base off Aguiar/Maile)
+FIELDING
+ESeverino (4, throw)
+Reds Pitching
+PITCHERS
+
+J. Aguiar
+
+
+T. Santillan
+
+
+E. Pagan
+
+
+J. Wilson
+
+
+B. Farmer
+(W, 3-0)
+
+
+A. Diaz
+(S, 26)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+4.2	2	0	2	90-56	5.06
+1.0	2	1	2	28-16	2.35
+0.1	0	0	1	6-3	3.78
+1.0	0	0	0	10-7	4.71
+1.0	0	0	2	15-12	2.92
+1.0	0	0	2	17-10	4.38
+9.0	4	1	9	166-104	
+PITCHING
+HBPAlonso (by Aguiar)
+First-pitch strikes/Batters FacedWilson 1/3; Pagán 1/1; Farmer 3/3; Santillan 4/6; Díaz 2/3; Aguiar 10/19
+Called strikes-Swinging strikes-Foul balls-In play strikesWilson-1-0-3-3; Pagán-0-2-1-0; Farmer-4-3-4-1; Santillan-1-5-7-3; Díaz-4-3-2-1; Aguiar-10-9-23-13
+Ground Balls-Fly BallsWilson 0-3; Farmer 0-1; Santillan 0-1; Díaz 0-1; Aguiar 4-8
+Game ScoresJ Aguiar 60
+Mets Pitching
+PITCHERS
+
+L. Severino
+
+
+R. Garrett
+
+
+P. Maton
+(L, 2-3)
+
+
+A. Young
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+6.2	5	1	8	97-66	3.74
+1.1	0	0	3	21-13	3.42
+0.2	2	2	1	17-12	3.81
+0.1	0	0	0	1-1	0.87
+9.0	7	3	12	136-92	
+PITCHING
+WPSeverino
+HBPSteer (by Maton)
+First-pitch strikes/Batters FacedSeverino 18/25; A. Young 1/1; Maton 3/5; Garrett 1/4
+Called strikes-Swinging strikes-Foul balls-In play strikesSeverino-15-14-22-14; A. Young-0-0-0-1; Maton-3-2-4-3; Garrett-3-7-2-1
+Ground Balls-Fly BallsSeverino 4-6; A. Young 0-1; Maton 1-0; Garrett 0-1
+Game ScoresL Severino 66
+Scoring Summary
+INNING
+	CIN	NYM
+		6th	Marte singled to center, Alonso scored, Iglesias to second.	0	1
+		7th	Marte singled to right, Fraley scored.	1	1
+		9th	Espinal doubled to left, France scored and Steer scored.	3	1
+Full Play-By-Play
+Game Information
+Citi Field
+5:40 PM, September 8, 2024
+Queens, New York
+Line: NYM -185
+Over/Under: 8.5
+Attendance: 28,142
+Game Time:
+2:52
+Umpires:
+Home Plate Umpire - Brock Ballou
+First Base Umpire - Adrian Johnson
+Second Base Umpire - Junior Valentine
+Third Base Umpire - Ramon De Jesus
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570611 
+ ----- 

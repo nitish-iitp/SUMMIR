@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Kensington Oval &#8211; Cricket Interviews</title>
+	<atom:link href="https://www.cricketinterviews.com/category/kensington-oval/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.cricketinterviews.com</link>
+	<description>Featuring West Indies cricketers, up close and personal</description>
+	<lastBuildDate>Sat, 29 Jan 2022 22:10:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.cricketinterviews.com/wp-content/uploads/2021/05/cropped-logo_size_invert.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Kensington Oval &#8211; Cricket Interviews</title>
+	<link>https://www.cricketinterviews.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75210207</site>	<item>
+		<title>Windies Cricket Coach Phil Simmons: &#8220;The 2 guys in the middle control things&#8221;</title>
+		<link>https://www.cricketinterviews.com/windies-cricket-coach-phil-simmons-the-2-guys-in-the-middle-control-things/</link>
+					<comments>https://www.cricketinterviews.com/windies-cricket-coach-phil-simmons-the-2-guys-in-the-middle-control-things/#respond</comments>
+		
+		<dc:creator><![CDATA[Michelle L. McDonald]]></dc:creator>
+		<pubDate>Fri, 28 Jan 2022 12:36:00 +0000</pubDate>
+				<category><![CDATA[Caribbean]]></category>
+		<category><![CDATA[England in the West Indies 2022]]></category>
+		<category><![CDATA[Kensington Oval]]></category>
+		<category><![CDATA[Phil Simmons]]></category>
+		<category><![CDATA[Rovman Powell]]></category>
+		<category><![CDATA[T20]]></category>
+		<category><![CDATA[West Indies cricket]]></category>
+		<category><![CDATA[Betway series]]></category>
+		<category><![CDATA[Cricket West Indies]]></category>
+		<category><![CDATA[Nicholas Pooran]]></category>
+		<category><![CDATA[Rovman Powll]]></category>
+		<category><![CDATA[T20 International]]></category>
+		<category><![CDATA[windies cricket]]></category>
+		<guid isPermaLink="false">https://www.cricketinterviews.com/?p=1138</guid>
+
+					<description><![CDATA[For West Indies Cricket team Head Coach Phil Simmons, one thing is clear. &#8220;The two guys out in the middle control things, and the situation controls how the two guys will play, and the messages that are sent back inside.&#8221; He was speaking ahead of the fourth T20 International in the Betway series against the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>For West Indies Cricket team Head Coach Phil Simmons, one thing is clear. &#8220;The two guys out in the middle control things, and the situation controls how the two guys will play, and the messages that are sent back inside.&#8221; He was speaking ahead of the fourth T20 International in the Betway series against the West Indies at Kensington Oval in Barbados. The West Indies are leading the series 2-1 and a victory on Saturday would see the West Indies walking away with a series win. The fifth and final game takes place on Sunday 30th January 2022 at the same venue. </p>
+
+
+
+<p>In previous press conferences, the Coach lamented the failure of his players to apply in matches, what was worked on during practice. For the match on Wednesday 26th January, Simmons was pleased with how the batsmen approached the game between overs 7 and 10 and and that they tried to reduce the loss of wickets during that period. The way that Rovman Powell and Nicholas Pooran approached their innings, was also commended by Simmons. Century-maker Powell scored a magnificent 107 off 53 balls, for a strike rate of 201.88. Vice Captain Pooran contributed 70 off 43, batting at number 3. </p>
+
+
+
+<p>What&#8217;s his message to the team ahead of Saturday&#8217;s match? &#8220;For us to continue improving in our situation awareness and play how we see it,&#8221; said Simmons.&#8221; He went on to say that &#8220;our improvement in batting is determined by how well we assess the situations we are in. The wicket may not be as good as this one, but then we have to adjust.&#8221;</p>
+
+
+
+<p>Click below for an excerpt of the press conference held on 27th January 2022, where I posed questions including the system of ensuring players know what they should be working on, when they are not in the West Indies team set up.  <strong>Video credit: CWI Media</strong></p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://www.cricketinterviews.com/wp-content/uploads/2022/01/Phil-Simmons-Excerpt-270122_1.mp4"></video></figure>
+
+
+
+<p> </p>
+<a href="#" class="irecommendthis" id="irecommendthis-1138" title="Recommend this"><span class="irecommendthis-count" style="display: none;">0</span> <span class="irecommendthis-suffix"></span></a>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cricketinterviews.com/windies-cricket-coach-phil-simmons-the-2-guys-in-the-middle-control-things/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://www.cricketinterviews.com/wp-content/uploads/2022/01/Phil-Simmons-Excerpt-270122_1.mp4" length="21184129" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">1138</post-id>	</item>
+		<item>
+		<title>Interviews after WI / England T20 thriller</title>
+		<link>https://www.cricketinterviews.com/interviews-after-wi-england-t20-thriller/</link>
+					<comments>https://www.cricketinterviews.com/interviews-after-wi-england-t20-thriller/#respond</comments>
+		
+		<dc:creator><![CDATA[Michelle L. McDonald]]></dc:creator>
+		<pubDate>Wed, 26 Jan 2022 01:30:00 +0000</pubDate>
+				<category><![CDATA[Akeal Hosein]]></category>
+		<category><![CDATA[Barbados]]></category>
+		<category><![CDATA[Cricket]]></category>
+		<category><![CDATA[Cricket West Indies]]></category>
+		<category><![CDATA[England]]></category>
+		<category><![CDATA[England in the West Indies 2022]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Kensington Oval]]></category>
+		<category><![CDATA[Nicholas Pooran]]></category>
+		<category><![CDATA[Romario Shepherd]]></category>
+		<category><![CDATA[West Indies cricket]]></category>
+		<category><![CDATA[Betway T20 International]]></category>
+		<category><![CDATA[west indies cricket]]></category>
+		<guid isPermaLink="false">https://www.cricketinterviews.com/?p=1128</guid>
+
+					<description><![CDATA[Cricket fans were kept on the edge of their seats during last Sunday&#8217;s second Betway T20 international between England and the West Indies. After the home team had steam rolled the visitors in the first match on 22nd January, England came out blazing when they batted first, after Captain Keiron Pollard again won the toss [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Cricket fans were kept on the edge of their seats during last Sunday&#8217;s second Betway T20 international between England and the West Indies. After the home team had steam rolled the visitors in the first match on 22nd January, England came out blazing when they batted first, after Captain Keiron Pollard again won the toss</p>
+
+
+
+<p>In this first video, Nicholas Pooran talks about the second Betway T20I versus England. The series has been split 1-1, so Wednesday&#8217;s game will be an important one to forecast the series result. </p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://www.cricketinterviews.com/wp-content/uploads/2022/01/Nicholas-Pooran-2nd-T20-Part1.mp4"></video><figcaption>West Indies T20 Vice Captain speaking about the second Betway T20 International at Kensington Oval, Barbados. Video credit: CWI Media</figcaption></figure>
+
+
+
+<p>In the second video, Pooran talks about the lesson of lower order batsmen Akeal Hosein and Romario Shepherd not giving up. The pair put on 79 runs for just 29 balls to take West Indies to an unlikely score of 170-8, after they were teetering on 103 for 8 in the 16th over. </p>
+
+
+
+<figure class="wp-block-video"><video controls src="https://www.cricketinterviews.com/wp-content/uploads/2022/01/Nicholas-Pooran-2nd-T20-Part2.mp4"></video><figcaption>Video credit: CWI Media</figcaption></figure>
+
+
+
+<p>Watch <a rel="noreferrer noopener" href="https://www.facebook.com/watch/?ref=saved&amp;v=1277099902802328" target="_blank">highlights of the partnership between Hosein and Shepherd</a>, which kept fans on the edge of their seats. Credit: CWI Media.</p>
+<a href="#" class="irecommendthis" id="irecommendthis-1128" title="Recommend this"><span class="irecommendthis-count" style="display: none;">0</span> <span class="irecommendthis-suffix"></span></a>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cricketinterviews.com/interviews-after-wi-england-t20-thriller/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://www.cricketinterviews.com/wp-content/uploads/2022/01/Nicholas-Pooran-2nd-T20-Part1.mp4" length="26460196" type="video/mp4" />
+<enclosure url="https://www.cricketinterviews.com/wp-content/uploads/2022/01/Nicholas-Pooran-2nd-T20-Part2.mp4" length="25694006" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">1128</post-id>	</item>
+		<item>
+		<title>Windies captain Kieron Pollard&#8217;s preview of the ODI series vs Australia</title>
+		<link>https://www.cricketinterviews.com/windies-captain-kieron-pollards-preview-of-the-odi-series-vs-australia/</link>
+					<comments>https://www.cricketinterviews.com/windies-captain-kieron-pollards-preview-of-the-odi-series-vs-australia/#respond</comments>
+		
+		<dc:creator><![CDATA[Michelle L. McDonald]]></dc:creator>
+		<pubDate>Wed, 21 Jul 2021 03:16:16 +0000</pubDate>
+				<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Australia in the West Indies]]></category>
+		<category><![CDATA[Barbados]]></category>
+		<category><![CDATA[Caribbean]]></category>
+		<category><![CDATA[Cricket]]></category>
+		<category><![CDATA[Cricket West Indies]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Kensington Oval]]></category>
+		<category><![CDATA[Kieron Pollard]]></category>
+		<category><![CDATA[ODI]]></category>
+		<category><![CDATA[West Indies cricket]]></category>
+		<guid isPermaLink="false">https://www.cricketinterviews.com/?p=1064</guid>
+
+					<description><![CDATA[The Australians got revenge in the first One Day International (ODI) match tonight at Kensington Oval. On Monday July 19, 2021, Kieron Pollard spoke with the media about the series, and also touched on some aspects of the recently concluded T20 series which West Indies won 4-1.]]></description>
+										<content:encoded><![CDATA[
+<p>The Australians got revenge in the first One Day International (ODI) match tonight at Kensington Oval. On Monday July 19, 2021, Kieron Pollard spoke with the media about the series, and also touched on some aspects of the recently concluded T20 series which West Indies won 4-1. </p>
+
+
+
+<figure class="wp-block-video"><video controls src="blob:https://www.cricketinterviews.com/3c679210-4cce-4b6e-8c3b-a9bb9b3419eb"></video><figcaption>Kieron Pollard press conference July 19, 2021. Credit CWI Media</figcaption></figure>
+
+
+
+<p></p>
+<a href="#" class="irecommendthis" id="irecommendthis-1064" title="Recommend this"><span class="irecommendthis-count" style="display: none;">0</span> <span class="irecommendthis-suffix"></span></a>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cricketinterviews.com/windies-captain-kieron-pollards-preview-of-the-odi-series-vs-australia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1064</post-id>	</item>
+		<item>
+		<title>Shimron Hetmyer Audio, 2nd ODI #WIvsENG</title>
+		<link>https://www.cricketinterviews.com/shimron-hetmyer-audio-2nd-odi-wivseng/</link>
+					<comments>https://www.cricketinterviews.com/shimron-hetmyer-audio-2nd-odi-wivseng/#respond</comments>
+		
+		<dc:creator><![CDATA[Michelle L. McDonald]]></dc:creator>
+		<pubDate>Sat, 23 Feb 2019 01:35:37 +0000</pubDate>
+				<category><![CDATA[Barbados]]></category>
+		<category><![CDATA[Caribbean]]></category>
+		<category><![CDATA[Cricket]]></category>
+		<category><![CDATA[Cricket West Indies]]></category>
+		<category><![CDATA[England]]></category>
+		<category><![CDATA[England in West Indies 2019]]></category>
+		<category><![CDATA[Kensington Oval]]></category>
+		<category><![CDATA[Shimron Hetmyer]]></category>
+		<category><![CDATA[West Indies cricket]]></category>
+		<guid isPermaLink="false">http://www.cricketinterviews.com/?p=516</guid>
+
+					<description><![CDATA[Thanks to Phillip Spooner and Cricket West Indies for the audio and article below. Shimron Hetmyer Audio &#124; 2nd Colonial Medical Insurance ODI BRIDGETOWN, Barbados – West Indies batsman Shimron Hetmyer spoke to members of the media following the second Colonial Medical Insurance One-Day International against England. The 22-year-old made his fourth ODI century as [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p style="background-color:#5d0809" class="has-text-color has-background has-small-font-size has-very-light-gray-color">Thanks to Phillip Spooner and Cricket West Indies for the audio and article below. </p>
+
+
+
+<p><strong>Shimron Hetmyer Audio | 2nd Colonial Medical Insurance ODI</strong></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://www.cricketinterviews.com/wp-content/uploads/2019/02/CWI-Media-WIvENG-2019-02-22-Shimron-Hetmyer.mp3"></audio><figcaption>Shimron Hetmyer</figcaption></figure>
+
+
+
+<p><strong>BRIDGETOWN, Barbados –</strong> West Indies batsman Shimron Hetmyer spoke to members of the media following the second Colonial Medical Insurance One-Day International against England. The 22-year-old made his fourth ODI century as the Windies won by 26 runs at Kensington Oval to level the five-match series 1-1.</p>
+
+
+
+<p><em>Catch highlights on&nbsp;</em><strong><em><a href="https://www.windiescricket.com/" target="_blank" rel="noreferrer noopener">www.windiescricket.com</a></em></strong><em>&nbsp;</em><em>– brought to you by Suzuki</em></p>
+
+
+
+<p>The home side made 289-6 off their 50 overs and then bowled out the visitors for 263 off 47.4 overs. Hetmyer made 104 not out off just 83 balls with seven fours and four sixes. It was his fourth century in the last 11 months – the others: 127 against United Arab Emirates in Harare in March, 2018; 125 against Bangladesh in Guyana in July, 2018; and 106 against India in Guwahati in October, 2018.</p>
+
+
+
+<p>In the second half of the match, left-arm pacer Sheldon Cottrell took a career-best 5-46 off nine overs to mark a successful return to the Windies colours. He was well supported by captain Jason Holder, who had 3-53 to spark celebrations among the appreciative home crowd at the historic venue.</p>
+
+
+
+<p>Hetmyer shared a vital partnership of 76 for the fourth wicket with left-hander Darren Bravo, who made 25. Earlier Chris Gayle made 50 off 63 balls with four sixes to record his 50<sup>th</sup>&nbsp;half-century in ODIs.</p>
+
+
+
+<p>“It was a wonderful day for me and the team and I feel really pleased with my performance, which helped the team to win and level the series. We are on a rise as a team and we just want to take it step by step, stage by stage,” Hetmyer said.</p>
+
+
+
+<p>“I started slowly and Bravo was quite helpful to me in guiding me. We played well as a team today … we batted well and batted deep. Then the bowlers did a fantastic job with the ball … special congrats to Cottrell for the way he bowled. It was great to see him do such a great job with the new ball and then come back and finish off the innings.”</p>
+
+
+
+<p>The two teams now travel to Grenada for the third and fourth Colonial Medical Insurance One-Day Internationals at the Grenada National Stadium on Monday and Wednesday.</p>
+
+
+
+<p><strong>Colonial Medical Insurance ODI Series&nbsp;Schedule</strong></p>
+
+
+
+<p><strong>1<sup>st</sup>&nbsp;</strong>Colonial Medical Insurance&nbsp;ODI – Wednesday, February 20</p>
+
+
+
+<p class="has-text-color has-vivid-red-color">Kensington Oval, Barbados – England won by six wickets</p>
+
+
+
+<p><strong>2<sup>nd</sup>&nbsp;</strong>Colonial Medical Insurance&nbsp;ODI<strong>&nbsp;–&nbsp;</strong>Friday, February 22</p>
+
+
+
+<p>Kensington Oval, Barbados </p>
+
+
+
+<p><strong>3<sup>rd</sup>&nbsp;</strong>Colonial Medical Insurance&nbsp;ODI<strong>&nbsp;–&nbsp;</strong>Monday, February 25</p>
+
+
+
+<p>Grenada National Stadium, Grenada</p>
+
+
+
+<p><strong>4<sup>th</sup>&nbsp;</strong>Colonial Medical Insurance&nbsp;ODI – Wednesday, February 27</p>
+
+
+
+<p>Grenada National Stadium, Grenada</p>
+
+
+
+<p><strong>5<sup>th</sup>&nbsp;</strong>Colonial Medical Insurance&nbsp;ODI– Saturday, March 2</p>
+
+
+
+<p>Daren Sammy Cricket Ground, Saint Lucia</p>
+<a href="#" class="irecommendthis" id="irecommendthis-516" title="Recommend this"><span class="irecommendthis-count" style="display: none;">0</span> <span class="irecommendthis-suffix"></span></a>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cricketinterviews.com/shimron-hetmyer-audio-2nd-odi-wivseng/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="http://www.cricketinterviews.com/wp-content/uploads/2019/02/CWI-Media-WIvENG-2019-02-22-Shimron-Hetmyer.mp3" length="6591502" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">516</post-id>	</item>
+		<item>
+		<title>Richard Pybus audio after victory in 1st Test &#8211; Wisden Trophy series</title>
+		<link>https://www.cricketinterviews.com/richard-pybus-audio-after-victory-in-1st-test-wisden-trophy-series/</link>
+					<comments>https://www.cricketinterviews.com/richard-pybus-audio-after-victory-in-1st-test-wisden-trophy-series/#respond</comments>
+		
+		<dc:creator><![CDATA[Michelle L. McDonald]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2019 11:05:39 +0000</pubDate>
+				<category><![CDATA[Barbados]]></category>
+		<category><![CDATA[Cricket]]></category>
+		<category><![CDATA[Cricket West Indies]]></category>
+		<category><![CDATA[England]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Kensington Oval]]></category>
+		<category><![CDATA[Richard Pybus]]></category>
+		<category><![CDATA[Test]]></category>
+		<category><![CDATA[West Indies cricket]]></category>
+		<category><![CDATA[WICB]]></category>
+		<category><![CDATA[Wisden Trophy Series]]></category>
+		<guid isPermaLink="false">http://www.cricketinterviews.com/?p=502</guid>
+
+					<description><![CDATA[Thanks to Cricket West Indies&#8217;s Media &#38; Communications Manager Phillip Spooner for the audio.]]></description>
+										<content:encoded><![CDATA[
+<p>Thanks to Cricket West Indies&#8217;s Media &amp; Communications Manager Phillip Spooner for the audio. </p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://www.cricketinterviews.com/wp-content/uploads/2019/01/CWI-Media-WIvENG-2019-01-26-Richard-Pybus.mp3"></audio><figcaption>Interim Windies coach Richard Pybus speaking to the media after the win inside 4 days</figcaption></figure>
+<a href="#" class="irecommendthis" id="irecommendthis-502" title="Recommend this"><span class="irecommendthis-count" style="display: none;">0</span> <span class="irecommendthis-suffix"></span></a>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cricketinterviews.com/richard-pybus-audio-after-victory-in-1st-test-wisden-trophy-series/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="http://www.cricketinterviews.com/wp-content/uploads/2019/01/CWI-Media-WIvENG-2019-01-26-Richard-Pybus.mp3" length="6581311" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">502</post-id>	</item>
+		<item>
+		<title>Jason Holder audio after victory in 1st Test &#8211; Wisden Trophy series</title>
+		<link>https://www.cricketinterviews.com/jason-holder-audio-after-victory-in-1st-test-wisden-trophy-series/</link>
+					<comments>https://www.cricketinterviews.com/jason-holder-audio-after-victory-in-1st-test-wisden-trophy-series/#respond</comments>
+		
+		<dc:creator><![CDATA[Michelle L. McDonald]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2019 05:03:28 +0000</pubDate>
+				<category><![CDATA[Barbados]]></category>
+		<category><![CDATA[Bowler]]></category>
+		<category><![CDATA[Caribbean]]></category>
+		<category><![CDATA[Cricket]]></category>
+		<category><![CDATA[Cricket West Indies]]></category>
+		<category><![CDATA[England]]></category>
+		<category><![CDATA[Fastbowling]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Jason Holder]]></category>
+		<category><![CDATA[Kensington Oval]]></category>
+		<category><![CDATA[West Indies cricket]]></category>
+		<guid isPermaLink="false">http://www.cricketinterviews.com/?p=499</guid>
+
+					<description><![CDATA[Thanks to Cricket West Indies&#8217;s Media &#38; Communications Manager Phillip Spooner for the &#8216;blurb&#8217; and audio. Technology rocks! West Indies captain Jason Holder spoke to members of the media after the end of the first Test of the Wisden Trophy Series at Kensington Oval in Barbados on Saturday January 26, 2019. Apart from congratulating Roston [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-background has-pale-cyan-blue-background-color"><em>Thanks to Cricket West Indies&#8217;s Media &amp; Communications Manager Phillip Spooner for the &#8216;blurb&#8217; and audio. Technology rocks!</em></p>
+
+
+
+<p> West Indies captain Jason Holder spoke to members of the media after the end of the first Test of the Wisden Trophy Series at Kensington Oval in Barbados on Saturday January 26, 2019. </p>
+
+
+
+<p>Apart from congratulating Roston Chase on his 8 wicket haul, Holder reflected on his own performance. </p>
+
+
+
+<p> “It was a really good match for me personally. To come back the way I’ve come back I’m really pleased. I have put in a lot of hard work over the last couple of months trying to get myself back to full fitness. I’ve had a lot of emotion bottled up for a long time. We still have a long way to go. One Test match doesn’t make a summer. We’ve been in this position before, so lots of hard work to be done. We ticked a few boxes in this test match but it’s a matter of turning up in Antigua and doing the same,”  </p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://www.cricketinterviews.com/wp-content/uploads/2019/01/CWI-Media-WIvENG-2019-01-26-Jason-Holder.mp3"></audio><figcaption>Jason Holder speaks to the media after huge win in the 1st Test of the Wisden Trophy series</figcaption></figure>
+
+
+
+<p>Holder, the highly-rated allrounder, was named Player-of-the-Match due to his majestic 202 not out from 229 balls in the second innings which helped to set England a target of 628 to win. He also held three catches in the slips and took two wickets in the England first innings of 77 all out.</p>
+
+
+
+<p><strong>Scores:</strong>&nbsp;<strong>WEST INDIES</strong>&nbsp;<strong>289</strong>&nbsp;(Shimron Hetmyer 81, Shai Hope 57, Roston Chase 54; James Anderson 5-46, Ben Stokes 4-59)&nbsp;<strong>and 415-6 declared</strong>&nbsp;(Jason Holder 202 not out, Shane Dowrich 116 not out; Moeen Ali 3-78)&nbsp;<strong>ENGLAND</strong>&nbsp;<strong>77</strong>&nbsp;(Kemar Roach 5-17, Jason Holder 2-15, Alzarri Joseph 2-20)&nbsp;<strong>and 246</strong>&nbsp;(Rory Burns 84; Roston Chase 8-60)</p>
+<a href="#" class="irecommendthis" id="irecommendthis-499" title="Recommend this"><span class="irecommendthis-count" style="display: none;">0</span> <span class="irecommendthis-suffix"></span></a>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cricketinterviews.com/jason-holder-audio-after-victory-in-1st-test-wisden-trophy-series/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="http://www.cricketinterviews.com/wp-content/uploads/2019/01/CWI-Media-WIvENG-2019-01-26-Jason-Holder.mp3" length="3332514" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">499</post-id>	</item>
+		<item>
+		<title>Kemar Roach audio &#8211; Day 2 of the 1st Test &#8211; Wisden Trophy Series</title>
+		<link>https://www.cricketinterviews.com/kemar-roach-audio-day-2-of-the-1st-test-wisden-trophy-series/</link>
+					<comments>https://www.cricketinterviews.com/kemar-roach-audio-day-2-of-the-1st-test-wisden-trophy-series/#respond</comments>
+		
+		<dc:creator><![CDATA[Michelle L. McDonald]]></dc:creator>
+		<pubDate>Sun, 27 Jan 2019 06:10:26 +0000</pubDate>
+				<category><![CDATA[Barbados]]></category>
+		<category><![CDATA[Bowler]]></category>
+		<category><![CDATA[Caribbean]]></category>
+		<category><![CDATA[Cricket]]></category>
+		<category><![CDATA[Fastbowling]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Kemar Roach]]></category>
+		<category><![CDATA[Kensington Oval]]></category>
+		<category><![CDATA[West Indies cricket]]></category>
+		<category><![CDATA[Wisden Trophy]]></category>
+		<category><![CDATA[Wisden Trophy Series]]></category>
+		<guid isPermaLink="false">http://www.cricketinterviews.com/?p=491</guid>
+
+					<description><![CDATA[“The ball was coming out really well today and my rhythm was good. I felt really good and enjoyed my bowling. We had specific plans… we were very disciplined and we hit the nail on the head. I was happy for the support of the others and we bowled well as a team today. I have been putting in a lot of work in the nets and today I got some rewards,” Roach said.]]></description>
+										<content:encoded><![CDATA[<p><em>Thanks to Cricket West Indies&#8217;s Media &amp; Communications Manager Phillip Spooner for the following &#8216;blurb&#8217; and audio&#8230;.</em></p>
+<p class="MsoNoSpacing" style="margin: 0in 0in 0.0001pt; font-size: 12pt;"><span style="font-size: 14pt; font-family: Cambria, serif; color: black;">West Indies fast bowler Kemar Roach spoke to members of the media following the second day of the first Test of the Wisden Trophy Series at Kensington Oval on Thursday.</span></p>
+<p class="MsoNoSpacing" style="margin: 0in 0in 0.0001pt; font-size: 12pt;"><span style="font-size: 14pt; font-family: Cambria, serif; color: black;">The 30-year-old had the remarkable figures of</span><span style="font-size: 14pt; font-family: Cambria, serif; color: black;"><span class="Apple-converted-space"> </span></span><span style="font-size: 14pt; font-family: Cambria, serif; color: black;"><u>11-7-17-5</u></span><span style="font-size: 14pt; font-family: Cambria, serif; color: black;"><span class="Apple-converted-space"> </span></span><span style="font-size: 14pt; font-family: Cambria, serif; color: black;">– his ninth five-for in Test cricket – as the home side bowled out the England for 77 in the first innings. This gave the Windies a lead of 212 and they reached 127-6 in the second innings, as 18 wickets fell on the day. The overall lead is 339, going into Day 3 on Friday.</span></p>
+<p class="MsoNoSpacing" style="margin: 0in 0in 0.0001pt; font-size: 12pt;"><span style="font-size: 14pt; font-family: Cambria, serif; color: black;">Roach continued his excellent track record on home soil – he now has 29 wickets in his fifth Test at the historic venue – and today’s effort bettered his previous best figures of 4-55 against New Zealand in 2014.</span><span style="font-size: 14pt; font-family: Cambria, serif; color: black;"><span class="Apple-converted-space"> </span></span><span style="font-size: 14pt; font-family: Cambria, serif; color: #313132; background-color: white; background-position: initial initial; background-repeat: initial initial;">It was England’s fourth-lowest total against West Indies and the lowest by any team at the ground.</span></p>
+<p class="MsoNoSpacing" style="margin: 0in 0in 0.0001pt; font-size: 12pt;"><span style="font-size: 14pt; font-family: Cambria, serif; color: #313132; background-color: white; background-position: initial initial; background-repeat: initial initial;">“The ball was coming out really well today and my rhythm was good. I felt really good and enjoyed my bowling. We had specific plans… we were very disciplined and we hit the nail on the head. I was happy for the support of the others and we bowled well as a team today. I have been putting in a lot of work in the nets and today I got some rewards,” Roach said.</span></p>
+<p class="MsoNoSpacing" style="margin: 0in 0in 0.0001pt; font-size: 12pt;"><span style="font-size: 14pt; font-family: Cambria, serif; color: #313132; background-color: white; background-position: initial initial; background-repeat: initial initial;">Full audio is below.</span></p>
+<p><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-491-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://www.cricketinterviews.com/wp-content/uploads/2019/01/cwi-media-wiveng-2019-01-24-kemar-roach.mp3?_=1" /><a href="https://www.cricketinterviews.com/wp-content/uploads/2019/01/cwi-media-wiveng-2019-01-24-kemar-roach.mp3">https://www.cricketinterviews.com/wp-content/uploads/2019/01/cwi-media-wiveng-2019-01-24-kemar-roach.mp3</a></audio><a href="#" class="irecommendthis" id="irecommendthis-491" title="Recommend this"><span class="irecommendthis-count" style="display: none;">0</span> <span class="irecommendthis-suffix"></span></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cricketinterviews.com/kemar-roach-audio-day-2-of-the-1st-test-wisden-trophy-series/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="http://www.cricketinterviews.com/wp-content/uploads/2019/01/cwi-media-wiveng-2019-01-24-kemar-roach.mp3" length="8123581" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">491</post-id>	</item>
+		<item>
+		<title>West Indies Squad &#8211; 1st Test vs England</title>
+		<link>https://www.cricketinterviews.com/west-indies-squad-1st-test-vs-england/</link>
+					<comments>https://www.cricketinterviews.com/west-indies-squad-1st-test-vs-england/#respond</comments>
+		
+		<dc:creator><![CDATA[Michelle L. McDonald]]></dc:creator>
+		<pubDate>Thu, 17 Jan 2019 01:59:10 +0000</pubDate>
+				<category><![CDATA[Caribbean]]></category>
+		<category><![CDATA[Cricket]]></category>
+		<category><![CDATA[Cricket West Indies]]></category>
+		<category><![CDATA[England]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Kensington Oval]]></category>
+		<category><![CDATA[Test]]></category>
+		<category><![CDATA[Test Match]]></category>
+		<category><![CDATA[West Indies cricket]]></category>
+		<category><![CDATA[Wisden Trophy]]></category>
+		<guid isPermaLink="false">http://www.cricketinterviews.com/?p=420</guid>
+
+					<description><![CDATA[I scrolled through the Windies squad for the 1st Test to see which of the cricketers I have interviewed.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-background has-medium-font-size has-very-light-gray-background-color">Cricket West Indies announced the West Indies squad to face England in the first Test match of the Wisden Trophy Series, scheduled to be played from January 23 to 27, 2019 at Kensington Oval.</p>
+
+
+
+<p class="has-medium-font-size">I scrolled through the Windies squad for the 1st Test to see which of the cricketers I have interviewed.</p>
+
+
+
+<p class="has-text-color has-large-font-size has-vivid-red-color">None! </p>
+
+
+
+<p class="has-medium-font-size">Soooo much time has passed since I had the time to do player interviews. Six of the players could walk past me and I wouldn&#8217;t know who they were. Gotta do something about that this year.</p>
+
+
+
+<ol class="wp-block-list"><li>Jason Holder (Captain)</li><li>Kraigg Brathwaite </li><li>Darren Bravo</li><li>Shamarh Brooks</li><li>John Campbell</li><li>Roston Chase</li><li>Shane Dowrich</li><li>Shannon Gabriel</li><li>Shimron Hetmyer</li><li>Shai Hope</li><li>Alzarri Joseph</li><li>Kemar Roach</li><li>Jomel Warrican</li></ol>
+
+
+
+<p class="has-text-color has-medium-font-size has-very-dark-gray-color"><strong>NOTE</strong>: Oshane Thomas has been called up as cover for Alzarri Joseph</p>
+<a href="#" class="irecommendthis" id="irecommendthis-420" title="Recommend this"><span class="irecommendthis-count" style="display: none;">0</span> <span class="irecommendthis-suffix"></span></a>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cricketinterviews.com/west-indies-squad-1st-test-vs-england/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">420</post-id>	</item>
+	</channel>
+</rss>
+
+ 
+ 
+ ----- 
+ Source link : https://www.cricketinterviews.com/category/kensington-oval/feed/ 
+ ----- 

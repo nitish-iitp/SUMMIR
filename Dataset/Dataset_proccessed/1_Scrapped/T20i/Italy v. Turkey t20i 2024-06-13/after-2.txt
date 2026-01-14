@@ -1,0 +1,113 @@
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Allow selection
+Allow all
+Market Place Sourcing Support
+Login
+Find Suppliers : API/FDF
+Services
+Excipients
+Drugs in Dev.
+News
+Blog
+Big Pharma bets big on AI’s US$ 148 bn potential to revolutionize healthcare industry
+BLOG
+MARKET INTEL by PharmaCompass
+Data Compilation #PharmaFlow
+Stock Recap #PipelineProspector
+CONTENT by Suppliers
+Interview #SpeakPharma
+Video #SupplierSpotlight
+Vlog #PharmaReel
+Company Bio #AboutSupplier
+Services Bio #AboutCapabilities
+News
+Pharma & Biotech News #PharmaBuzz
+
+Create content with us, ask us
+
+By PharmaCompass
+
+2024-06-13
+
+Impressions: 2339
+
+Artificial intelligence (AI) is changing the world and bringing efficiencies across all industries. Pharmaceuticals is one of them. AI can accelerate drug discovery, streamline clinical trials, and personalize medicine. It holds the potential to revolutionize the pharma industry.
+
+It takes anywhere between 10 to 15 years and around US$ 3 billion to take a new drug from its discovery phase to the market. AI can drastically cut both the timespan and costs and bring life-saving yet affordable treatments to the market at a faster pace. The global AI market in healthcare was estimated to be about US$ 21 billion in 2024 and is expected to grow to over US$ 148 billion by 2029, compounding at an annual growth rate of 48.1 percent.
+
+Drugmakers are eager to ride the AI wave. Players like Bayer, Merck KGaA, Moderna, BMS, Roche, Astellas, Amgen, Eli Lilly, Sanofi, Novo Nordisk and Johnson & Johnson have announced collaborations, signed deals and entered into partnerships in the AI space. Many others, such as Exscientia, Insilico, Berg, Nimbus, Recursion, and Pharos iBio, are a step ahead and are holding clinical trials on drugs developed using AI.
+
+On its part, the US Food and Drug Administration (FDA) has recognized the increased use of AI and machine learning (ML) and has reiterated its commitment to ensure the safety and efficacy of drugs “while facilitating innovations in their development.” To this end, the US agency published a paper in March that lists out its approach towards the use of AI.
+
+Novo, Lilly turn to AI for drug discovery; AI-based firms sign multiple deals
+
+With increased adoption of wearable devices, e-health services and other technology-driven offerings in medicine and healthcare, there is valuable data out there that drugmakers can analyze to get more accurate predictions of a drug’s effects on the human body. Such an analysis speeds up drug development and reduces side effects of therapies.
+
+Ergo, several large drugmakers have signed crucial AI deals. For example, Novo Nordisk has inked a potential US$ 2.7 billion deal with Valo Health to discover and develop novel treatments for cardio-metabolic diseases. The collaboration between the two organizations will leverage the capabilities of Valo’s Opal Computational Platform, including access to real-world patient data, AI-enabled small molecule discovery and Biowire human tissue modeling platform designed to speed up the discovery and development process.
+
+Similarly, Eli Lilly has entered into a US$ 494 million deal with Fauna Bio to use the latter’s AI platform — Convergence — for preclinical drug discovery efforts in obesity. Convergence analyzes genomic data from 452 mammal species and various tissue types to create a comprehensive dataset. By integrating human data and information from animals with natural disease resistance, the platform can identify potential drug targets.
+
+AI-based pharma firms like Isomorphic Labs and Biolojic are also landing multiple deals. Isomorphic is owned by Google’s parent Alphabet. Along with Google DeepMind, it has created a new AI model that can accurately predict 76 percent of protein interactions with small molecules. In January, Isomorphic inked deals with Novartis and Lilly for a combined value of nearly US$ 3 billion.
+
+Biolojic Design uses computational biology and AI to transform antibodies into programmable, intelligent medicines. Earlier this month, it announced a multi-target drug discovery collaboration with Merck KGaA, which includes antibody-drug conjugates. Biolojic has also inked deals with Teva and Nektar recently.
+
+Amgen harnesses generative biology for protein-based drugs; Sanofi ties up with OpenAI
+
+Finding a good protein drug candidate is like finding a needle in a haystack. Drug developers typically start by looking at proteins in nature and then go through the painstaking process of shaping them into safe and effective drugs.
+
+Generative biology is a revolutionary approach to drug discovery and development that leverages ML and AI to design novel protein therapeutics. Amgen is using generative biology to innovate new protein-based drugs that have desired structures and properties based on existing protein data inputs. In fact, the California-based multinational has said it is “integrating AI across all operational levels.” It has collaborated with PostEra to advance up to five small molecule programs.
+
+Amgen is building AI models trained to analyze one of the world’s largest human datasets on an NVIDIA full-stack data center platform, known as DGX SuperPOD, that will be installed at Amgen’s deCODE genetics’ headquarters in Reykjavik, Iceland. This system will be used to build a human diversity atlas for drug target and disease-specific biomarker discovery, providing vital diagnostics for monitoring disease progression and regression.
+
+AI can analyze individual data like genetic makeup, lifestyle and medical history to come up with personalized therapies. Amgen is working on AI-driven precision medicines, and potentially individualized therapies, at its Iceland facility.
+
+Sanofi too has signed multiple deals in recent months. In May, the French drugmaker signed a collaboration with ChatGPT maker OpenAI and Formation Bio to build AI-powered software to accelerate drug development. Sanofi is also collaborating with BioMap in a deal that could be worth up to US$ 1 billion. The deal is expected to enable superior prediction from limited data in a range of therapeutic areas, including immunology, neurology, oncology, and rare diseases.
+
+AI tools can create control arms, digital twins and slash failure rate in clinical trials
+
+Traditional ways of drug development are fraught with challenges, and 90 percent of drug candidates in clinical trials tend to fail. Major reasons behind this are poor patient cohort selection and recruiting mechanisms, and the inability to monitor patients effectively during trials.
+
+AI tools like Trial Pathfinder study real data obtained from patients’ electronic health records and simulate clinical trials for the drug with different eligibility criteria. Trial Pathfinder also calculates trial hazard ratios, a scientific term that compares the survival rates of those given and not given the drug.
+
+AI and synthetic data can also be used to create control arms in clinical trials, which can help speed up the process, reduce costs, and improve the quality of data. For example, FDA has supported the use of a Medidata Synthetic Control Arm in a phase 3 trial of Medicenna’s MDNA55 in recurrent glioblastoma.
+
+In addition to observing real-time patient data, researchers can also create digital twins, virtual replicas of cells, organs, or people, which they can use to simulate and predict various clinical outcomes during a trial.
+
+Our view
+
+The pharmaceutical industry is on the cusp of a revolution. In the coming years, we hope to see some tangible results of the efforts being put in by drugmakers, AI developers and regulatory agencies. The CPhI Annual Report 2023 has predicted that in 2030, over half of FDA-approved drugs will involve AI in their development and/or manufacturing. The winner, in our view, will be the end-user who will have cheaper, safer and more effective treatments, delivered at a faster pace.
+
+The PharmaCompass Newsletter – Sign Up, Stay Ahead
+
+Feedback, help us to improve.  Click here
+
+ Image Credit : Companies ACTIVE IN PHARMA-AI SPACE by PharmaCompass license under CC BY 2.0
+
+“ The article is based on the information available in public and which the author believes to be true. The author is not disseminating any information, which the author believes or knows, is confidential or in conflict with the privacy of any person. The views expressed or information supplied through this article is mere opinion and observation of the author. The author does not intend to defame, insult or, cause loss or damage to anyone, in any manner, through this article.”
+
+Read More
+Privacy policy
+Terms and conditions
+Disclaimers
+
+LOOKING FOR A SUPPLIER?
+
+Pharma, Lab & Chemical Expo
+
+Meet the PharmaCompass' Team, ask us for a meeting
+
+Latest Content by PharmaCompass
+
+Our BLOG!
+ 
+ 
+ ----- 
+ Source link : https://www.pharmacompass.com/radio-compass-blog/big-pharma-bets-big-on-ai-s-us-148-bn-potential-to-revolutionize-healthcare-industry 
+ ----- 

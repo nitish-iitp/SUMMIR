@@ -1,0 +1,343 @@
+Skip to content
+
+Free lower 48 U.S. Shipping on orders over $60
+
+Log in
+0
+0 items
+Home
+Blog
+ANSI Z358.1: A Compliance Guide to the Emergency Eyewash & Shower Standard
+ANSI Z358.1: A Compliance Guide to the Emergency Eyewash & Shower Standard
+March 21, 2024
+Share this article
+Contents
+What is ANSI Z358.1?
+Integration with OSHA Regulations
+Benefits of Compliance
+ANSI Z358.1-2014 Updates
+ANSI Z358.1-2014 Safety Considerations
+ANSI Z358.1-2014 Installation Considerations
+ANSI Standards for Each Type of Emergency Eyewash & Shower Station
+ANSI Standard Required Maintenance and Inspection Procedures
+FAQs about ANSI Z358.1 Standard
+
+Emergency eyewash and shower systems play a critical role in safeguarding the environment and the well-being of workers in various industries. In the event of chemical splashes, contaminants, or other hazardous exposures, these systems provide immediate relief by flushing the affected areas, preventing potential injuries, and minimizing long-term damage. Compliance with recognized safety standards is crucial to ensure the effectiveness and reliability of these systems.
+
+ANSI, or the American National Standards Institute, sets forth comprehensive guidelines for the installation, performance, and maintenance of emergency eye wash and shower equipment. By adhering to this standard, organizations can ensure the availability and functionality of these life-saving devices. To gain a deeper understanding of the importance of emergency eyewash and shower systems and the specifics of the ANSI Z358.1-2014 standard, read on.
+
+What is ANSI Z358.1?
+
+The American National Standards Institute (ANSI) plays a pivotal role in the American engineering standards community. As a private non-profit organization, ANSI oversees the creation, promulgation, and use of thousands of norms and guidelines that directly impact businesses in nearly every sector. Originating from the United States and known earlier as the America Standards Institute, ANSI coordinates the voluntary standards development process in the U.S. This process involves a range of stakeholders, including government agencies, private companies, and academic institutions, collaborating to draft standards for consideration.
+
+The ANSI Z358.1 serves as a comprehensive guideline for the standardization of emergency eye wash and shower equipment in the workplace. Authored and released by the International Safety Equipment Association (ISEA), an organization accredited by the American National Standards Institute (ANSI) to develop standards, this guideline sets forth the basic requirements and standards for the performance and usage of eyewash and shower equipment, aimed at the emergency treatment of individuals exposed to hazardous substances.
+
+Integration with OSHA Regulations
+
+OSHA is the national organization responsible for enforcing health and safety legislation in the United States, but it does not formally incorporate ANSI standards into its voluntary standards and regulatory framework. However, it frequently cites ANSI Z358.1 as a trusted guideline for the correct installation and maintenance of emergency eye wash and shower stations. Specifically, OSHA Regulation 29 CFR 1910.151(c) mandates that facilities be equipped with appropriate means for quick drenching or flushing of the eyes and body in areas where exposure to harmful corrosive materials is possible, to be used during emergencies.
+
+Benefits of Compliance
+
+Legal Compliance: Adhering to standards of the American National Standards Institute or ANSI Z358.1 helps companies and other organizations meet regulatory requirements, reducing the risk of penalties and fines associated with non-compliance.
+Improved Worker Safety: Compliance ensures the availability of effective emergency decontamination facilities, decreasing the likelihood and severity of injuries from hazardous material exposure.
+Reduced Downtime From Injuries: By minimizing the severity of injuries, compliance with ANSI Z358.1 can lead organizations to quicker recovery times and less operational disruption, saving costs on lost business productivity and worker compensation.
+
+ANSI Z358.1-2014 Updates
+
+While the core of the ANSI Z358.1 standard remained largely unchanged from the 2009 version, the ANSI Z358.1-2014 revision introduced specific international standards and updates to existing standards to enhance usability and safety. Here are the notable changes, with references to the specific sections of the standard:
+
+Hands-free operations: Section 4.1.5 states that, “Emergency showers shall be designed, manufactured and installed in such a manner that, once activated, they can be used without requiring the use of the operator’s hands.”
+
+Weekly visual checks of self-contained emergency showers: Section 4.6.3 states that “Self-contained emergency showers shall be visually checked weekly to determine if flushing fluid needs to be changed or supplemented. Such inspection shall be conducted in accordance with manufacturer’s instructions.”
+
+Height of the flushing fluid stream: Sections 5.4.4 and 6.4.4 state that Eyewashes and eye/face wash stations shall “be arranged such that the flushing fluid flow pattern as described in Section 5.1.8 (and 6.1.8) is not less than 33 in. and no greater than 53 in. from the surface on which the user stands and 6 in. minimum from the wall or nearest obstruction.” The 2009 international standards limited nozzle height to 45", while the 2014 revision focuses on the fluid flow pattern, setting its maximum height at 53".
+
+Weekly visual checks of self-contained eyewashes: Section 5.5.3 states that "Self-contained eyewashes shall be visually checked weekly to determine if flushing fluid needs to be changed or supplemented. Such inspection shall be conducted in accordance with manufacturer’s instructions."
+
+ 
+
+ANSI Z358.1-2014 Safety Considerations
+
+In compliance with ANSI Z358.1-2014 international standards, several key safety considerations must be addressed regarding emergency eye wash and shower units.
+
+Personal Wash Unit
+
+American National Standards Institute (ANSI) standards acknowledge the use of personal wash units, such as bottled eyewashes, as supplements to compliant fixtures outlined in the guide. While they are vital in highly hazardous environments, they do not offer the same level of protection as ANSI-compliant drench safety showers or eye/face washes.
+
+First Aid Devices
+
+Emergency eye wash and shower units are essential first aid devices designed to rinse contaminants from the eyes, face, or body during accidents. However, they are not substitutes for primary protective devices like eye and face protection or safe handling procedures for hazardous materials.
+
+Wastewater Disposal
+
+Implementing a plan for wastewater disposal is crucial. This can include drains in new construction or dedicated waste containment systems. Failure to dispose of flushing fluid properly can create slip hazards and pose risks to impaired workers. Compliance with local ordinances and regulations is necessary when planning disposal methods.
+
+Identification
+
+Eyewash and shower equipment should be clearly identified with signage that meets the requirements of ANSI Z535.4. The signage should be highly visible, making it clear, and use recognizable symbols and appropriate wording to ensure quick recognition during emergencies.
+
+Emergency Response
+
+Mere installation of emergency equipment is insufficient for ensuring worker safety. Employees must be trained in the location and proper use of emergency equipment. Regular maintenance of equipment is also crucial. Ultimately, employers should develop a comprehensive response plan focused on providing prompt assistance to injured workers in case of accidents.
+
+ 
+
+ANSI Z358.1-2014 Installation Considerations
+
+When installing emergency eye wash and shower units in compliance with ANSI Z358.1-2014 standards, several critical considerations must be addressed:
+
+Location of Emergency Equipment
+
+Emergency equipment should be installed within 10 seconds of walking time from the hazard, approximately 55 feet. It should be on the same level as the hazard, with an unobstructed and straight path to access the equipment. In high-risk areas handling strong acids or caustics, emergency eyewash equipment should be adjacent to the hazard. Laboratory environments may require recessed eyewash/shower cabinets and dual-purpose units at lab sinks.
+
+Water Capacity, Flow Rate, & Temperature
+
+Safety showers and eyewashes must have a minimum pressure of 30 psi (207 kPa), ideally supplied at 45 psi (310 kPa). Water temperature should be tepid (60-100ºF), but consultation with medical professionals may be needed for chemicals sensitive to warm water.
+
+Valve Operation
+
+Valves should remain open for easy access during emergencies, allowing injured individuals to use their hands freely. In some cases, self-closing ball valves may be allowed in less hazardous environments, with proper shut-off valve security measures in place.
+
+Corrosion Resistance
+
+All components of the emergency eye wash and shower equipment, including pipes, fittings, valves, and accessories, should be made of materials that are resistant to corrosion. Materials like epoxy-coated galvanized steel, chrome-plated brass, stainless steel, and PVC are highly recommended to users for durability.
+
+Anti-Freeze Equipment
+
+Freeze-resistant emergency eyewash equipment is essential in cold climates. Options include temperature-actuated bleed valves, remote-activated valves, electrically heated units, and heated enclosures to protect both equipment and users from freezing temperatures.
+
+ 
+
+ANSI Standards for Each Type of Emergency Eyewash & Shower Station
+Emergency Eyewash Stations
+
+Emergency Eyewash Stations are designed to deliver a gentle flow of water to rinse contaminants from the eyes. They are crucial in workplaces where chemicals or particulate matter could come into contact with the eyes, causing damage or irritation. Typically activated by pushing a lever or pressing a button, these stations must provide a hands-free operation once turned on. The user should hold their eyes open and position their face in the stream of water to thoroughly flush out contaminants.
+
+These stations should be located within 10 seconds’ walking distance of potential hazard areas, ensuring immediate access. They must be free of obstacles, allowing a clear path for anyone in need of eye flushing.
+
+Factors	ANSI Requirements
+Water Flow Rate	Must provide a minimum of 0.4 gpm
+Flush Duration	Minimum of 15 minutes of continuous flow
+Water Temperature	Tepid water, between 60°F and 100°F (16°C and 38°C)
+Design	The outlet heads must be installed at a height ranging from 33” to 53” above the floor and should maintain a minimum distance of 6” from the wall or closest obstruction
+Training	Users must be trained in the operation of the equipment
+Maintenance/Inspection	Weekly activation to verify proper operation and annual maintenance checks
+
+ 
+
+Emergency Eye/Face Wash Stations
+
+Emergency Eye/Face Wash Stations are designed to provide a thorough flushing of the eyes and face. This is particularly crucial when substances are splashed not only on the eyes but also on other facial areas. These stations deliver a soft, aerated flow of water to rinse away contaminants gently but effectively. Typically, these stations are activated by pushing a paddle or lever, ensuring immediate hands-free operation. The user should press the activation device, then open their eyes wide and move their face around in the water stream, ensuring that all affected areas are rinsed thoroughly.
+
+An Emergency Eye/Face Wash Station should be easily accessible, prominently marked, and in locations where hazardous substances are used or stored. Read our full review of the best eye wash and eye/face wash stations for industrial safety.
+
+Factors	ANSI Requirements
+Water Flow Rate	Not less than 3.0 gpm for combined eye/face wash units
+Flush Duration	At least 15 minutes of continuous flushing capability
+Water Temperature	Tepid water, between 60°F and 100°F (16°C and 38°C)
+Design	The outlet heads must be installed at a height ranging from 33” to 53” above the floor and should maintain a minimum distance of 6” from the wall or closest obstruction
+Training	Users must be trained in the operation of the equipment
+Maintenance/Inspection	Weekly activation to verify proper operation and annual maintenance checks
+
+ 
+
+Laboratory Eye & Eye/Face Wash Stations
+
+This type of emergency eyewash equipment is specifically designed for use in laboratory settings where chemicals and hazardous materials are frequently handled. These stations are often integrated into lab fixtures and provide immediate flushing capabilities for the eyes and, in some models, the face. Laboratory eye & eye/face wash stations are typically activated by a lever, foot pedal, or push plate, located within easy reach of lab workers. In an emergency, the user swiftly activates the station and positions their eyes or face in the stream, ensuring complete coverage and effective flushing of contaminants.
+
+These stations should be installed at every point where hazardous materials are handled, within a laboratory setting, ensuring immediate access. They need to be located away from potential obstacles, enabling a clear and quick path for any user in distress.
+
+Factors	ANSI Requirements
+Water Flow Rate	Adequate flow to flush both eyes simultaneously, typically 0.4 gpm for eyewashes
+Flush Duration	Minimum flush duration of 15 minutes
+Water Temperature	Tepid water, between 60°F and 100°F (16°C and 38°C)
+Design	The outlet heads must be installed at a height ranging from 33” to 53” above the floor and should maintain a minimum distance of 6” from the wall or closest obstruction
+Training	Users must be trained in the operation of the equipment
+Maintenance/Inspection	Weekly activation to verify proper operation and annual maintenance checks
+
+ 
+
+Self-Contained Eyewash Stations
+
+Self-Contained Eyewash Stations are portable units designed to provide emergency flushing when plumbed water is not available. These stations are filled with a preserved, sterile flushing solution suitable for immediate eye irrigation, making them ideal for remote or temporary work sites where hazardous materials are handled. These stations are activated by pulling a lever or pushing a button that releases the flushing fluid. The user should ensure that both eyes are adequately covered by the stream or spray, keeping them open to allow thorough flushing of contaminants.
+
+Ideal for locations without direct plumbing, these stations should be placed in easily accessible areas, close to potential hazard sites. They are particularly suited for construction sites, outdoor locations, or areas undergoing maintenance where permanent facilities are not yet installed.
+
+Factors	ANSI Requirements
+Water Flow Rate	Sufficient flow to last at least 15 minutes, varies by unit capacity
+Flush Duration	Minimum of 15 minutes based on the capacity of the unit
+Water Temperature	Tepid water, between 60°F and 100°F (16°C and 38°C)
+Design	The outlet heads must be installed at a height ranging from 33” to 53” above the floor and should maintain a minimum distance of 6” from the wall or closest obstruction
+Training	Instruction on proper usage necessary for all potential users
+Maintenance/Inspection	Regular inspection to check fluid expiration and operation; frequency as per manufacturer’s guidelines
+
+ 
+
+Emergency Safety Shower Stations
+
+Emergency Safety Shower Stations are designed to provide full-body decontamination, allowing for the immediate flushing of hazardous substances from the user's body. These safety showers deliver a large volume of water to quickly rinse away contaminants, providing rapid relief and preventing further injury. Activation is typically via a pull rod or handle that, when pulled, releases a deluge of water over the entire body. The user should step into the shower, ideally without clothing, to ensure complete and effective decontamination.
+
+Safety showers must be located within 10 seconds of hazardous work areas, ensuring unobstructed and immediate access. They should be in areas where large quantities of hazardous materials are used or stored, such as chemical manufacturing plants or laboratories, to provide quick emergency access for full-body rinsing. Read our full review of the best safety shower stations.
+
+Factors	ANSI Requirements
+Water Flow Rate	Minimum of 20 gpm
+Flush Duration	At least 15 minutes of uninterrupted water supply
+Water Temperature	Tepid water, between 60°F and 100°F (16°C and 38°C)
+Design	Height of water column shall be between 82" and 96" above floor; easily located, accessible actuator no higher than 69" above floor; at 60" above floor, the water pattern must be at least 20" in diameter; center of water pattern shall be at least 16" from any obstructions
+Training	Users need to know the location and operation method
+Maintenance/Inspection	Weekly operational checks and annual detailed inspections required
+
+ 
+
+Combination Unit Eyewash & Shower Stations
+
+Combination Unit Eyewash & Shower Stations offer dual functionality, providing both eyewash and full-body shower capabilities in a single unit. This integrated approach ensures that workers can quickly respond to various types of exposure, from eye contamination to full-body chemical spills. These combination units are designed for the simultaneous use of both the shower and eyewash functions. Activation typically involves separate controls for the emergency eye wash and shower, allowing users to operate both as needed. The eyewash is usually activated by a push lever or pedal, while the shower is activated by pulling a rod or handle.
+
+Placement of these combination units should be in areas where there is a high risk of both eye and body exposure to hazardous chemicals, such as in mixing or handling stations within industrial or chemical processing plants. Read our full review of the best combination unit eyewash & shower stations.
+
+Factors	ANSI Requirements
+Water Flow Rate	Shower at 20 gpm and eyewash at 0.4 gpm, ensuring simultaneous operation
+Flush Duration	15 minutes of continuous flushing for both shower and eyewash
+Water Temperature	Tepid water, between 60°F and 100°F (16°C and 38°C)
+Design	Height of water column shall be between 82" and 96" above floor; easily located, accessible actuator no higher than 69" above floor; at 60" above floor, the water pattern must be at least 20" in diameter; center of water pattern shall be at least 16" from any obstructions
+Training	Training on how to activate and use both features simultaneously
+Maintenance/Inspection	Weekly operational checks and annual detailed inspections required
+
+ 
+
+Enclosed Safety Shower Stations
+
+Enclosed Safety Shower Stations are designed to provide privacy and protection from the elements while offering full-body decontamination. These enclosed units are especially beneficial in outdoor or exposed environments, shielding the user from external conditions during decontamination. Entry into the enclosure typically activates the shower, allowing for immediate drenching. Some models may have an internal activation mechanism, such as a pull rod or handle, to start the water flow, ensuring rapid response to chemical exposure.
+
+These stations are best placed in outdoor settings or areas where hazardous materials are used or transported, providing immediate access for emergency decontamination. Their enclosed nature makes them suitable for locations with extreme weather conditions, ensuring the shower is operational and accessible year-round.
+
+Factors	ANSI Requirements
+Water Flow Rate	A minimum flow of 20 gpm for the shower
+Flush Duration	15 minutes of continuous flushing for both shower and eyewash
+Water Temperature	Tepid water, between 60°F and 100°F (16°C and 38°C)
+Design	Height of water column shall be between 82" and 96" above floor; easily located, accessible actuator no higher than 69" above floor; at 60" above floor, the water pattern must be at least 20" in diameter; center of water pattern shall be at least 16" from any obstructions
+Training	Instruction on access and operation of the enclosed unit
+Maintenance/Inspection	Weekly operational checks and annual detailed inspections required
+
+ 
+
+ANSI Standard Required Maintenance and Inspection Procedures
+
+Consistent maintenance and inspection efforts are crucial to keeping emergency eyewash equipment in optimal working condition. Here are the recommended procedures for maintenance and inspection to ensure readiness for use:
+
+Routine Maintenance Tasks: Regular maintenance tasks for emergency eye wash and shower equipment include checking for leaks, ensuring proper water flow, and verifying the functionality of activation mechanisms. Routine inspections help identify any issues that may affect the performance of the equipment. This should be done weekly.
+
+Cleaning and Sanitization: Eyewash and shower units should be cleaned and sanitized regularly to prevent the buildup of contaminants and ensure hygienic operation. This includes cleaning the nozzles, bowls, and other components using appropriate cleaning agents and following the manufacturer's instructions.
+
+Inspection Checklist: An inspection checklist should be developed to guide members of the organization through the inspection process. The checklist should cover critical aspects such as water temperature, flow rate, activation methods, signage visibility, and general equipment condition. Inspections should be conducted at regular intervals and documented for record-keeping purposes.
+
+Training and Competency: Proper training should be provided to personnel responsible for the maintenance and inspection of emergency eye wash and shower systems. Training should cover the knowledge of emergency eyewash equipment operation, maintenance procedures, and inspection protocols. Regular competency assessments should be conducted to ensure that individuals and organizations involved are knowledgeable and capable of performing their duties effectively.
+
+ 
+
+FAQs about ANSI Z358.1 Standard
+What is the ANSI Z358 1 requirement?
+
+The ANSI Z358.1 requirement sets the criteria for the next standards development, technology, design, performance, and maintenance of emergency eyewash and shower equipment, ensuring that individuals exposed to hazardous chemicals can quickly and effectively flush the contaminants from their eyes and skin to prevent serious injury.
+
+How to use an eyewash station?
+
+To use an eyewash station, quickly approach the station, activate the water flow, hold your eyes open with your hands, and position your eyes in the streams of water. Move your eyes around to ensure all areas are flushed thoroughly for at least 15 minutes.
+
+What is an sufficient water flow for an eyewash/facewash station?
+
+A sufficient water flow for an eyewash station is at least 0.4 gallons per minute (gpm), and for facewash stations, it should be at least 3.0 gpm to ensure effective flushing of contaminants.
+
+What is the 10 second rule for eyewash?
+
+The 10-second rule for eyewash stations refers to the requirement that the station must be accessible within 10 seconds or roughly 55 feet of walking distance from areas where hazardous substances are used or handled. This ensures that in the event of chemical exposure, individuals can quickly reach and use the eyewash station to flush out contaminants, minimizing potential injury.
+
+In case of accidental contact with chemicals, how long should the eyes be flushed at the eyewash station?
+
+In the event of chemical contact, the eyes should be flushed at the eyewash station for a minimum of 15 minutes to ensure all contaminants are thoroughly rinsed away.
+
+What height should an eyewash station be mounted?
+
+The ANSI/ISEA Z358.1-2014 standard specifies that the water flow from an eyewash station should be accessible between 33 to 53 inches (84 to 135 centimeters) above the floor, ensuring users of varying heights, including those in wheelchairs, can use it comfortably. Additionally, the station should be installed at least 6 inches away from any wall or obstruction to allow clear access and proper functionality in emergencies.
+
+Do eyewash stations need to be hands free?
+
+Yes, eyewash stations need to be hands-free. Once activated, the eyewash station should allow the user to keep their eyes on the flushing fluid without the need to manually hold the valve open. This ensures that individuals can use both hands to hold their eyes open and properly flush the affected area for the required duration.
+
+Eyewash stations designed for hands-free operation are equipped with mechanisms like foot pedals, push handles, or pull levers to initiate water flow. These stations are engineered to sustain a steady stream of water post-activation, eliminating the need for users to continuously engage with the controls involved.
+
+How often does OSHA recommend flushing eyewash stations?
+
+OSHA recommends that eyewash stations be flushed weekly to ensure they are in proper working order and to clear the system of any sediment or bacteria that may have accumulated. Following manufacturer guidelines is essential to guarantee adequate water flow and cleanliness in the eyewash system and stations. But, unlike plumbed stations, self-contained or portable units require only a visual check weekly, without needing activation.
+
+Moreover, a monthly operation of these stations is suggested to maintain functionality and prevent water stagnation, with a three-minute flush to clear any pipe debris. Employers must document these flushing and activation processes, along with any maintenance or repairs, to ensure the eyewash stations remain in compliance with OSHA standards and operational efficiency.
+
+Tags:
+Eyewash Stations Topic
+Herbert Post
+Safety Standards & Regulations
+Share this article
+March 21, 2024
+Outdoor Faucet Lock: How to Lock A Water Faucet for Water Security
+March 22, 2024
+10 Roof Safety Tips: Your Guide to Avoid Roofing Hazards
+Herbert Post
+Born in the Philadelphia area and raised in Houston by a family who was predominately employed in heavy manufacturing. Herb took a liking to factory processes and later safety compliance where he has spent the last 13 years facilitating best practices and teaching updated regulations. He is married with two children and a St Bernard named Jose. Herb is a self-described compliance geek. When he isn’t studying safety reports and regulatory interpretations he enjoys racquetball and watching his favorite football team, the Dallas Cowboys.
+Contact Us
+Reno, Nevada 89502
+(316) 247-1270
+hello@trdsf.com
+Absorbent Supplies
+Oil Only
+Pads
+Pillows
+Socks
+Spill Kits
+Sweep Off
+Universal
+Eyewash Stations
+Pedestal Mount
+Portable
+Wall Mount
+Lockout Tagout
+Breaker Locks
+Electrical Lockout
+Hasps
+Kits
+Lock Boxes
+LOTO Devices
+Padlocks
+Plug & Socket Lockout
+Push Button Lockout
+Spigot Lockout
+Stations
+Supplies
+Tags
+Valve Lockout
+Workplace Signs
+Floor Signs
+Safety Scoreboards
+Spanish Signs
+Wall Signs
+More
+About
+Blog
+Privacy
+Terms of Use
+Contact Us
+FAQ
+Shipping
+Warranty
+Warranty Registration
+Where to Buy
+Facebook
+Instagram
+YouTube
+Linkedin
+Payment methods
+© 2024, TRADESAFE Powered by Shopify
+ 
+ 
+ ----- 
+ Source link : https://trdsf.com/blogs/news/ansi-z358-1-a-compliance-guide-to-the-emergency-eyewash-shower-standard 
+ ----- 

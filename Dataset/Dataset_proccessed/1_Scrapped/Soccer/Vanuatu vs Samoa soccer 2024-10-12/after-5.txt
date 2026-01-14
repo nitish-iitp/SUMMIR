@@ -1,0 +1,451 @@
+Match Ticker
+Premier League
+Other Competitions
+Opta Football Stats
+Opta Football Predictions
+Newsletter
+American Football
+More
+NBA
+NCAA
+FOOTBALL
+The Player Welfare Debate: Is Football Really at Breaking Point?
+OCT 12, 2024
+ALI TWEEDALE / AUTHOR, ANA GONZALEZ / DESIGN, PETER MCKEEVER / DATA VIZ, JONNY WHITMORE / DATA VIZ, JONATHAN MANUEL / DATA VIZ
+Twitter
+WhatsApp
+Email
+Share
+
+With Manchester City star Rodri suggesting players could strike over their workload, we look into the numbers behind football’s packed schedule and ask whether anything needs to change.
+
+“I’ve got no idea what it was – maybe exhaustion, maybe dehydration?”
+
+Former Arsenal, Ipswich Town and West Brom midfielder Brian Talbot is discussing the aftermath of the 1980 FA Cup final with Opta Analyst. On the team bus following the game at the end of a record-breaking season, Talbot collapsed.
+
+“The doctors took a look at me, and I was hooked up to a heart monitor for 24 hours. I didn’t think much of it, and it can’t have been that bad because four days later I was playing 120 minutes in the Cup Winners’ Cup final. And I scored my penalty.”
+
+That season, Talbot set a record that still stands today for the most club games played by any player for a top-flight team in the history of English football. And what’s more, he didn’t just feature in all 70 of Arsenal’s matches, he started every single one.
+
+At a time when the modern game is going through a player-welfare crisis, it is pertinent to remember a time when sports science was non-existent, preparation and recovery were nothing like they are today, substitutions were rare, and players were expected to play even more games than they do these days.
+
+A series of recent events and the modern-day pile-up of fixtures, however, have led us to what people are calling ‘breaking point’ in football in 2024.
+
+The schedule is now so packed that player welfare is becoming a real worry, leading to complaints of players being overworked and pleas to clear the calendar in any way possible. It is, for some, a risk to the game we love.
+
+This isn’t just concern about the wellbeing of the players, though. There are also legitimate concerns that the quality of the product is diminished by so many games being played – something that perhaps wouldn’t have been considered back in Talbot’s time.
+
+The thinking here is that if you have fatigued players who can’t perform to the best of their ability in every game, or might even be forced to conserve energy in some matches or, more likely, miss certain games, then paying customers aren’t going to see the best possible version of the product they have paid for.
+
+Making some space in the schedule might mean less football, but it could potentially allow for better football to be played and enjoyed.
+
+But just how urgent is the situation? Is the sport really at breaking point?
+
+Manchester City and Spain midfielder Rodri has been at the centre of this discussion – even before his season-ending anterior cruciate ligament injury – because he is often the player cited as an example to help prove that players are being overworked.
+
+Rodri plays more football than most because he plays for two hugely successful teams, a point that is particularly relevant in the context of the past two years, a period in which both City and Spain have gone deep in just about every competition possible. Just a few weeks ago, the Spaniard suggested that footballers could even go on strike if they aren’t better protected.
+
+“I think we are close to [striking],” he said. “If it keeps this way, it will be a moment that we have no other option, but let’s see.”
+
+Just five days later, Rodri suffered an injury that will rule him out for the remainder of the 2024-25 season, putting further demand on the rest of the City squad. While he is on the treatment table, his teammates will also feel the strain as they once again compete on four fronts without one of the team’s most important players.
+
+And what’s more, once this season is over, City will contest the first edition of the revamped Club World Cup next summer, now a 32-team tournament played over an entire month.
+
+In a summer without an international tournament, the players at those 32 clubs won’t be afforded a proper break.
+
+Barcelona defender Jules Koundé has since come out in support of Rodri.
+
+“Every year we have more games and less rest,” he said last month. “We players have been saying this for three or four years, but nobody pays attention to us. The time will come when we will have to go on strike to make ourselves heard, as Rodri said.”
+
+Arsenal’s Jurriën Timber has followed suit, insisting “we are close” to action from the players if nothing were to be done to address the issue. City’s Bernardo Silva is another to have weighed in, calling the schedule “absurd” and “completely crazy”.
+
+The chief executive of the Professional Footballers’ Association (PFA), Maheta Molango, has also called for stricter measures when it comes to how many games elite players should be allowed to play in a given period. He has also insisted he would support any strike should the players decide direct action was necessary.
+
+So, whether the sport is at breaking point or not, we are at a stage where the players’ willingness to continue as they are is in serious question, and changes may therefore be necessary.
+
+But looking back through our records, the stats suggest this isn’t the most extreme the footballing calendar has ever been.
+
+Yes, we’ve got more Champions League games in the new-look league phase plus an extra play-off round, and there’s now the Conference League as well as the Europa League. There’s next summer’s Club World Cup, while the European Championship and World Cup tournaments have been expanded, and the introduction of the Nations League has further increased the number of international matches being played in Europe.
+
+But it’s also true that concessions have been made elsewhere. Two decades ago, the English top flight was reduced from 22 teams to 20, and shortly after that English teams competing in Europe were granted a bye to the third round of the League Cup. League Cup replays were scrapped and then, in more recent times, FA Cup replays followed, while extra-time has also been removed from the League Cup until the semi-finals.
+
+There is potential for City’s domestic and European campaign to last 68 games in 2024-25, from the Community Shield on 10 August 2024 to the Champions League final on 31 May 2025. And that’s not even taking into account the Club World Cup, consisting of at least three more games and up to a maximum of seven, which will begin just 16 days later on 15 June and end on 13 July, around a month before 2025-26 begins. On top of that, the Premier League has, according to City manager Pep Guardiola, refused the champions’ request to delay their start to the new domestic campaign after competing in the CWC.
+
+The relentlessness of that potential schedule is what concerns many people, but it also needs to be noted that it is the exception and not the rule; the best teams in the world are in a unique position of at once being able to compete on every front and being the best equipped to do so in terms of resources.
+
+And the truth is that City’s season probably won’t last as long as 68 games before they get to the Club World Cup. They are unlikely to need the two-legged play-off round to make it through the league phase of the Champions League, while Guardiola has already insisted his team will not “waste energy on” the League Cup. Most teams will play nothing like 60 games, let alone 68.
+
+Last season, City played 59 matches in all competitions, which was more than any other team in Europe’s top six leagues. Competitions like the Conference League mean sides like Aston Villa (56) and Fiorentina (58) weren’t far behind, but most teams in these leagues played fewer than 50 matches. Five Premier League teams played as few as 42 games, and 36 sides across those six divisions played fewer than 40. For much of Europe, there is no issue with players facing too many matches.
+
+Jonathan Manuel / Data Analyst
+
+There are exceptions, though, and there always have been.
+
+In the history of top-flight English football, there have been 13 examples of a team playing 65 or more games in a season. Only two of those, however, have come since the turn of the century: Manchester United in 2008-09 (66) and Chelsea in 2012-13 (69).
+
+In that Chelsea season, Juan Mata played a whopping 64 matches, starting 55 times and playing a total of 4,920 minutes. He also came into the season on the back of helping Spain to win Euro 2012 and – quite incredibly – starting all three of Spain’s games at the London 2012 Olympics.
+
+Once the season was over, Chelsea went on a post-season tour to the USA, where they played two money-spinning friendlies against Manchester City. Mata then flew to Brazil to help Spain to a runners-up medal in the 2013 Confederations Cup, where he played in four of a possible five games.
+
+The Spaniard became a legend over his time at Stamford Bridge, loved more for his creativity and disarming cheeky smile than his durability, but his career took an unexpected downturn shortly after that marathon campaign. Chelsea sold him to Manchester United midway through the following season (2014-15). He never again hit the heights he had at Chelsea.
+
+Mata only managed more than 4,000 minutes once more in his career – in 2015-16 with United – and after turning 28 towards the end of that season, his influence at the top of the game waned. He became increasingly peripheral at Old Trafford, playing less and providing fewer and fewer telling moments in big games. Looking at how his playing time dwindled in the years that followed, it’s natural to wonder if that taxing 2012-13 had played a part. Had playing so much football in a short space of time caught up on a player not particularly known for his physical capabilities?
+
+Jonny Whitmore / Senior Data Editor
+
+Meanwhile, two top-flight teams in English football history have played even more games than Chelsea did in 2012-13 – Stoke City in 1971-72 and Arsenal in 1979-80. Both played 70 matches.
+
+For Stoke, their schedule was packed due to playing in a huge variety of competitions. As well as playing in the old First Division (in which they, bizarrely, finished 17th) they also won the League Cup, progressed to the semi-finals of the FA Cup, and competed in the Anglo-Italian Cup and the Texaco Cup.
+
+Arsenal, meanwhile, played 11 games on their way to the FA Cup final in 1979-80, including four matches (three replays) in the semi-final against Liverpool, and also went all the way to the UEFA Cup Winners’ Cup final. They also, fairly ridiculously, played seven matches in the League Cup even though they only entered in the second round and were knocked out in the fifth.
+
+These were days long before nine-player benches and five changes being permitted. Only one substitute was allowed, and many managers didn’t change their teams very often. As a result, Stoke’s Jackie Marsh played 69 games in 1971-72. For Arsenal, it was that season in which Brian Talbot started all 70 matches.
+
+“It was certainly an enjoyable time,” Talbot tells us. “I was fortunate to be young, fit and healthy, and I wanted to play every week.
+
+“The walls of my heart are thicker than normal – that was something I was born with. When I was playing, I had a resting heart rate of 39; that’s a marathon-runner’s heart rate. I wasn’t a marathon runner, but it helped me play so much.”
+
+Cup replays and a European adventure clogged up Arsenal’s schedule. The fixture list got so crowded late in the season that Arsenal were forced to play three games in the space of five days. The second of those games was an away north London derby that Arsenal asked to be moved, but Spurs refused. The Gunners went to their rivals and won 2-1, with momentum perhaps a bigger factor at that stage of the campaign than fatigue. There was no break for players like Talbot, but was playing so relentlessly for the best?
+
+“I thought it was a fantastic idea,” he says. “If you had a knock back then, you’d play through it. I wanted to play every single game. Sometimes it was difficult, but you just got through it.”
+
+Things did indeed get very difficult for Arsenal later in the season, the gruelling schedule appearing to get the better of them. They fell away in the league despite not training for the last two months of the season, eventually missing out on European qualification and losing both cup finals. It was after a defeat to West Ham in the FA Cup final at Wembley that Talbot passed out on the team bus, four days before starting the Cup Winners’ Cup final. It’s a series of events that surely wouldn’t play out in the modern game.
+
+“At the time, I thought it was absolutely the right decision, and I still think so,” Talbot says. “I’ve never suffered any ill effects. I started my playing career at 15 with Ipswich and played on until I was 38. Even now, I’m 71, and I’m still going out running, though I’m still no marathon runner.”
+
+Looking at the average number of games played by English top-flight teams in each season, we can see that the 1970s, 1980s and early 1990s brought the peak – at more than 50 games per team and the odd season pushing 55.
+
+But the general trend in the number of games being played since the introduction of the Premier League in the early 1990s – and the many aforementioned measures to create gaps in the schedule – is downwards. Since the division was reduced from 22 to 20 teams ahead of the 1995-96 season, the average number of games played by top-flight sides has never gone above 50.
+
+However, another area of the schedule is causing problems. While there has been a drop in the number of games each club side is playing, the international football calendar is busier than ever.
+
+In each decade since the 1960s, the number of games England, France, Germany, Spain, Italy and the Netherlands have played on average each year has steadily increased. In the cases of Spain and Italy, the average number of games they are playing each year has doubled from six to 12.
+
+Bigger (or more bloated, depending on your viewpoint) international tournaments and the introduction of the UEFA Nations League are behind this increase. The number of teams playing at each World Cup and European Championship has gone up steadily over the years, and is only going to increase further in 2026, when 48 teams will play 104 games at the World Cup in Canada, Mexico and the United States. The 2022 tournament saw 32 teams contest 64 games.
+
+But as well as more games, there are more meaningful ones, too (that’s both more matches of greater meaning and matches that mean more). The introduction of the Nations League ensures that international teams are playing competitive fixtures at every possible break in the domestic schedule. These games are also, due to the way the competition is designed, likely to be against teams of similar quality.
+
+It is therefore harder than ever for national team managers to leave the best players out or allow them a rest, or to rotate their squad. Again, it is the best and most indispensable players who are pushed to play the most.
+
+It’s clear, then, that this is an issue with a pinch point at the top of the game. Not every top-flight club has a calendar with European fixtures and cup games dotted all over, nor do they all have squads full of internationals who can’t have a little downtime when international breaks or major summer tournaments roll around.
+
+And looking back through history, there’s little evidence that club sides are playing more matches. Instead, with bigger matchday squads allowed and five substitutions now permitted, players are playing less.
+
+There’s no way any manager in the modern game – let alone the medical staff – would countenance any of their players starting all 70 of their team’s matches in a single season, like Talbot did for Arsenal 45 years ago.
+
+The game is much faster these days. Even watching clips of games from as recently as the 2000s, it can at times look like a different sport. The pace and intensity of the game is a crucial difference in terms of the workload the players are being subjected to, but just how much more demanding is it?
+
+“The intensity and quality at the top of the game is now so high that there is just no respite,” Neil Mason, consultant physiotherapist with 25 years’ experience in elite sport including with Brentford and the Premier League, tells Opta Analyst.
+
+“The level that they’re expected to play at is just relentless. These days, everything is optimised to allow the players to perform at the highest possible level their body can manage.
+
+“This is just a theory, but back in the 1970s and 1980s, maybe the players were playing at 80% of what they were capable of. They might have thought they were playing at 100%, but physically, they weren’t able to reach that level. Their diet, recovery, everything just wasn’t anything like as efficient.
+
+“These days, everything about the development of a player allows them to perform at a higher level. It has improved the quality of the game, but it also increases the strain on the players immeasurably.”
+
+Talbot acknowledges that the sport is quicker and more challenging in that sense, but he also raises another difference that is worth considering: “Things were different [when I played],” he says. “Football was slower, but we weren’t given any of the help with recovery or preparation. You were on your own in many ways.”
+
+Sports science was non-existent before the Premier League era. Balls and kit absorbed and held rainwater and would weigh much more than they do now. Pitches were muddy and much more difficult to run on.
+
+It’s impossible to accurately compare the difficulty of playing football in the 1970s with 2024, but both clearly had big – though contrasting – challenges.
+
+Mason insists that Rodri’s injury – “traumatic” in nature – was not the result of overwork. “His was the kind of freak injury you get up and down the country every week.”
+
+But while it may not have been directly caused by playing such a large volume of football, simply by being on the pitch more than most other elite-level footballers, Rodri was surely more likely to suffer any kind of injury. Given how much he has played over the past two years, it was arguably just a matter of time before he was sidelined.
+
+So, what is the solution? How can players be better protected to reduce the likelihood of injuries and maintain the quality of the football at the top of the game?
+
+Speaking to the Athletic FC Podcast, PFA chief executive Molango called for a mandatory three-week break for every player, no more than six consecutive weeks of playing on the weekend and in midweek, and a maximum of 50-60 games per season, depending on the player’s level.
+
+It seems as though, then, that if there was a specific aspect of all of this that we could call a breaking point, it feels like it might be the Club World Cup.
+
+Its addition to the sporting calendar can be argued to be unnecessary; it’s a competition there is seemingly little appetite for, an argument supported by FIFA reportedly holding an “emergency” meeting last month to attempt to garner some interest from broadcasters to buy the rights to televise it. The Nations League also hasn’t generated the kind of interest or excitement that it would have been hoped to when it was introduced.
+
+So, despite squads and resources at the top of the club game being bigger than ever, adding more competitions to the calendar probably isn’t for the best. It might only be a select group of clubs and players that are affected, but given there is so little desire for any additional tournaments, what point is there in increasing the workload of the game’s best players?
+
+Everyone knows why these extra competitions are created, but it is a small group of people who stand to benefit financially from them and a few very elite players who will take the physical toll against their wishes.
+
+Our data shows that there isn’t more football being played than in times gone by, but that doesn’t mean anyone wants or needs any more to be added to what we already have.
+
+Enjoy this? Subscribe to our football newsletter to receive exclusive weekly content. You should also follow our social accounts over on X, Instagram, TikTok and Facebook.
+
+RELATED ARTICLES
+PREMIER LEAGUE
+Who Will Win the Premier League Title in 2024-25? The Opta Supercomputer Predictions
+53 MINS AGO OLIVER HOPKINS
+PREMIER LEAGUE
+Who Will Be Relegated from the Premier League in 2024-25? The Opta Supercomputer Predictions
+3 HOURS AGO MATT FURNISS
+PREMIER LEAGUE
+Cole Palmer’s Panenka Makes Premier League History
+1 DAY AGO OLIVER HOPKINS
+PREMIER LEAGUE
+Six Knee-Jerk Reactions to the Premier League Weekend
+1 DAY AGO ALI TWEEDALE
+Subscribe
+
+Sign up and be the first to receive exclusive stats, news, and updates from Opta Analyst.
+
+Country*
+Select A Country
+Canada
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Afghanistan
+Åland Islands
+Albania
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia (Plurinational State of)
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+United States Minor Outlying Islands
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (Democratic Republic of the)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran (Islamic Republic of)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia (the former Yugoslav Republic of)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova (Republic of)
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Korea (Democratic People's Republic of)
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Kosovo
+Réunion
+Romania
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Korea (Republic of)
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suricontent
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela (Bolivarian Republic of)
+Viet Nam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I agree to receive emails from Opta Analyst.
+See our Privacy Policy for more details.
+Privacy Policy
+Terms of Use
+Do Not Sell My Information
+Advertising
+Cookie Policy
+© 2024 Opta Analyst. All Rights Reserved.
+ 
+ 
+ ----- 
+ Source link : https://theanalyst.com/2024/10/football-schedule-breaking-point-rodri-player-welfare 
+ ----- 

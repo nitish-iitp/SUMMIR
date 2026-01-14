@@ -1,0 +1,10 @@
+file,fact-score,insights
+after-5,0.8,5
+after-4,1.0,5
+after-2,1.0,4
+before-2,0.8,10
+after-6,0.8181818181818182,11
+before-0,1.0,7
+after-3,0.8666666666666667,15
+after-0,0.5,10
+after-7,0.5,2

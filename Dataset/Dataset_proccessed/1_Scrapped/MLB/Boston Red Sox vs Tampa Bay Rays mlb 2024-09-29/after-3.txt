@@ -1,0 +1,293 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Rays
+80-82, 38-43 Away
+1
+Final
+Red Sox
+81-81, 38-43 Home
+3
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+TB
+
+
+BOS
+1	2	3	4	5	6	7	8	9	R	H	E
+0	0	0	1	0	0	0	0	0	1	8	2
+0	0	2	0	1	0	0	0	-	3	7	1
+WIN
+Q. Priester
+3-6
+5.0 IP, 4 H, 1 ER, 2 K, 1 BB
+LOSS
+R. Pepiot
+8-8
+4.0 IP, 4 H, 1 ER, 5 K, 2 BB
+SAVE
+J. Slaten
+2
+1.0 IP, 1 H, 0 ER, 0 K, 0 BB
+TB
+Overview
+BOS
+Rays Hitting
+HITTERS
+
+R. Palacios
+2B
+
+
+J. Caminero
+3B
+
+
+J. Aranda
+1B
+
+
+C. Morel
+LF
+
+
+J. Lowe
+RF
+
+
+J. DeLuca
+CF
+
+
+D. Carlson
+DH
+
+
+J. Caballero
+SS
+
+
+L. Driscoll
+C
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	0	0	0	0	0	.223
+4	0	0	0	0	0	.248
+3	0	0	0	0	0	.234
+4	0	2	0	0	0	.196
+4	1	1	0	0	0	.241
+4	0	1	0	0	0	.217
+4	0	3	1	0	0	.209
+4	0	1	0	0	0	.227
+3	0	0	0	0	1	.171
+34	1	8	1	0	1	
+BATTING
+RBICarlson (25)
+2Out RBICarlson
+GIDPPalacios
+Team LOB9
+Team RISP1-8 (Carlson 1-2, J. Lowe 0-1, Aranda 0-1, Caballero 0-1, Morel 0-1, Driscoll 0-1, DeLuca 0-1)
+FIELDING
+DP2 (Caballero-Aranda , Caballero-Palacios-Aranda)
+ECaballero 2 (12, throw 2)
+Red Sox Hitting
+HITTERS
+
+J. Duran
+LF
+
+
+V. Grissom
+2B
+
+
+T. Casas
+1B
+
+
+C. Wong
+C
+
+
+W. Abreu
+RF
+
+
+N. Sogard
+SS
+
+
+C. Rafaela
+CF
+
+
+M. Gasper
+DH
+
+
+E. Valdez
+3B
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	1	1	0	0	0	.285
+3	2	1	1	0	1	.190
+4	0	1	1	0	0	.241
+4	0	1	1	0	0	.280
+3	0	0	0	0	1	.253
+4	0	1	0	0	0	.273
+3	0	2	0	0	0	.246
+2	0	0	0	0	1	.000
+3	0	0	0	0	0	.214
+30	3	7	3	0	3	
+BATTING
+2BWong (24, Bigge); Grissom (3, Pepiot)
+RBIWong (52), Casas (32), Grissom (6)
+GIDPAbreu; Gasper
+Team LOB6
+Team RISP0-6 (Wong 0-1, Casas 0-1, Sogard 0-1, Abreu 0-2, Gasper 0-1)
+BASERUNNING
+CSRafaela (10, 2nd base by Pepiot/Driscoll)
+FIELDING
+DP1 (Grissom-Sogard-Casas)
+ESogard (1, throw)
+AssistsAbreu (Carlson at 2nd base)
+Rays Pitching
+PITCHERS
+
+R. Pepiot
+(L, 8-8)
+
+
+M. Montgomery
+
+
+R. Lovelady
+
+
+H. Bigge
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+4.0	4	1	5	63-38	3.60
+2.0	2	1	2	30-20	1.86
+1.0	0	0	0	10-7	4.46
+1.0	1	0	2	15-12	2.60
+8.0	7	2	9	118-77	
+PITCHING
+First-pitch strikes/Batters FacedLovelady 3/3; Pepiot 13/18; Montgomery 4/8; Bigge 3/4
+Called strikes-Swinging strikes-Foul balls-In play strikesLovelady-2-0-2-3; Pepiot-9-6-12-11; Montgomery-4-6-5-5; Bigge-4-1-5-2
+Ground Balls-Fly BallsLovelady 3-0; Pepiot 1-6; Montgomery 3-0; Bigge 1-0
+Game ScoresR Pepiot 51
+Red Sox Pitching
+PITCHERS
+
+Q. Priester
+(W, 3-6)
+
+
+J. Winckowski
+(H, 4)
+
+
+L. Guerrero
+(H, 3)
+
+
+C. Martin
+(H, 15)
+
+
+J. Slaten
+(S, 2)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+5.0	4	1	2	89-58	4.71
+1.0	2	0	2	17-11	4.14
+1.0	0	0	0	11-8	0.00
+1.0	1	0	1	13-9	3.45
+1.0	1	0	0	16-11	2.93
+9.0	8	1	5	146-97	
+PITCHING
+HBPAranda (by Martin); Palacios (by Priester)
+First-pitch strikes/Batters FacedMartin 5/5; Priester 10/20; Winckowski 3/5; Slaten 3/4; Guerrero 2/3
+Called strikes-Swinging strikes-Foul balls-In play strikesMartin-4-1-1-3; Priester-14-9-19-16; Winckowski-5-1-2-3; Slaten-1-1-5-3; Guerrero-1-1-3-3
+Ground Balls-Fly BallsMartin 0-2; Priester 10-2; Winckowski 0-1; Slaten 0-3; Guerrero 2-1
+Game ScoresQ Priester 56
+Scoring Summary
+INNING
+	TB	BOS
+		3rd	Grissom doubled to center, Duran scored on error, Grissom safe at third on throwing error by shortstop Caballero.	0	1
+		3rd	Casas grounded into fielder's choice to first, Grissom scored.	0	2
+		4th	Carlson singled to right, J. Lowe scored on error, Carlson safe at second on throwing error by shortstop Sogard.	1	2
+		5th	Wong grounded into fielder's choice to shortstop, Grissom scored on error, Casas safe at second on throwing error by shortstop Caballero.	1	3
+Full Play-By-Play
+Game Information
+Fenway Park
+7:05 PM, September 29, 2024
+Boston, Massachusetts
+Line: BOS -110
+Over/Under: 7.5
+Attendance: 34,862
+Game Time:
+2:13
+Umpires:
+Home Plate Umpire - Doug Eddings
+First Base Umpire - Chad Whitson
+Second Base Umpire - Brian Walsh
+Third Base Umpire - Bill Miller
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570897 
+ ----- 

@@ -1,0 +1,339 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Cardinals
+70-69, 34-37 Away
+7
+Final/12
+Brewers
+81-58, 41-26 Home
+4
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Siani's 2-run single leads Cardinals to 7-4 win over Brewers in 12 innings
+— Michael Siani hit a tiebreaking two-run single in the 12th inning, and the St. Louis Cardinals beat the Milwaukee Brewers 7-4 on Tuesday night.
+Sep 4, 2024, 04:20 am - AP
+
+
+STL
+
+
+MIL
+1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t11\t12\tR\tH\tE
+2\t0\t0\t1\t0\t0\t0\t0\t0\t0\t1\t3\t7\t9\t1
+0\t0\t2\t0\t1\t0\t0\t0\t0\t0\t1\t0\t4\t5\t2
+WIN
+R. Helsley
+7-4
+2.0 IP, 1 H, 0 ER, 4 K, 0 BB
+LOSS
+E. Peguero
+7-4
+1.0 IP, 1 H, 1 ER, 2 K, 1 BB
+Scoring Summary
+INNING
+\tSTL\tMIL
+\t\t1st\tArenado hit sacrifice fly to center, Winn scored.\t1\t0
+\t\t1st\tGoldschmidt doubled to right, Donovan scored.\t2\t0
+\t\t3rd\tOrtiz homered to left (370 feet).\t2\t1
+\t\t3rd\tChourio homered to center (403 feet).\t2\t2
+\t\t4th\tGoldschmidt homered to left center (430 feet).\t3\t2
+\t\t5th\tChourio doubled to left, Turang scored on error, Chourio safe at third on fielding error by left fielder Nootbaar.\t3\t3
+\t\t11th\tGoldschmidt singled to center, Arenado scored.\t4\t3
+\t\t11th\tAdames doubled to center, Perkins scored.\t4\t4
+\t\t12th\tSiani singled to left, Scott II scored and Herrera scored.\t6\t4
+\t\t12th\tBurleson hit sacrifice fly to left, Siani scored.\t7\t4
+Full Play-By-Play
+Cardinals
+Brewers
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+M. Winn
+SS
+\t1-6\t1\t0\t0\t.279
+
+A. Burleson
+DH
+\t0-4\t0\t0\t1\t.278
+
+N. Arenado
+3B
+\t0-5\t1\t0\t1\t.266
+
+B. Donovan
+2B
+\t1-5\t1\t0\t0\t.268
+
+P. Goldschmidt
+1B
+\t3-5\t1\t1\t3\t.247
+
+L. Nootbaar
+LF
+\t2-5\t0\t0\t0\t.245
+
+J. Walker
+RF
+\t0-4\t0\t0\t0\t.178
+
+V. Scott II
+RF
+\t0-1\t1\t0\t0\t.165
+
+P. Pages
+C
+\t1-4\t0\t0\t0\t.248
+
+J. Fermin
+PR
+\t0-0\t0\t0\t0\t.160
+
+I. Herrera
+C
+\t0-0\t1\t0\t0\t.281
+
+M. Siani
+CF
+\t1-4\t1\t0\t2\t.253
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+S. Matz
+\t4.2\t3\t3\t1\t7\t78-50\t6.12
+
+R. Fernandez
+\t1.1\t1\t0\t0\t2\t22-16\t3.24
+
+J. Romero
+\t1.0\t0\t0\t0\t1\t14-10\t2.62
+
+A. Kittredge
+\t1.0\t0\t0\t0\t1\t9-6\t3.12
+
+M. Liberatore
+\t2.0\t0\t0\t2\t2\t30-19\t4.52
+
+R. Helsley
+\t2.0\t1\t0\t0\t4\t27-22\t2.26
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+J. Chourio
+LF
+\t2-4\t1\t1\t2\t.277
+
+B. Perkins
+CF
+\t0-5\t1\t0\t0\t.258
+
+W. Contreras
+C
+\t0-4\t0\t0\t0\t.278
+
+G. Sanchez
+DH
+\t0-4\t0\t0\t0\t.225
+
+G. Mitchell
+PH-DH
+\t0-1\t0\t0\t0\t.261
+
+W. Adames
+SS
+\t1-5\t0\t0\t1\t.255
+
+B. Hicklen
+RF
+\t0-3\t0\t0\t0\t.000
+
+S. Frelick
+RF
+\t0-2\t0\t0\t0\t.266
+
+R. Hoskins
+1B
+\t0-4\t0\t0\t0\t.209
+
+J. Ortiz
+3B
+\t1-3\t1\t1\t1\t.242
+
+B. Turang
+2B
+\t1-5\t1\t0\t0\t.254
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+A. Civale
+\t5.0\t6\t3\t0\t7\t89-63\t4.62
+
+A. Ashby
+\t2.0\t1\t0\t0\t1\t25-21\t3.24
+
+T. Megill
+\t1.0\t0\t0\t0\t0\t10-6\t3.05
+
+D. Williams
+\t1.0\t0\t0\t0\t2\t14-10\t2.13
+
+J. Payamps
+\t1.0\t0\t0\t1\t0\t13-7\t3.48
+
+J. Koenig
+\t1.0\t1\t0\t0\t1\t18-13\t2.21
+
+E. Peguero
+\t1.0\t1\t1\t1\t2\t24-14\t3.12
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+St. Louis Cardinals (70-69, 34-37 Away)
+Steven Matz (1-2, 5.08)
+o8.5
+EVEN
++130
+o7.5
+-125
++1.5
+-160
+Milwaukee Brewers (81-58, 41-26 Home)
+Aaron Civale (8-9, 4.36)
+-155
+ML
+-155
+u7.5
++105
+-1.5
++135
+See All on ESPN BET
+Win Probability
+100
+%
+2nd
+4th
+6th
+8th
+10th
+12th
+100
+50
+100
+CARDINALS
+BREWERS
+STL 100
+%
+STL 7MIL 4
+
+Bottom 12th
+Turang lined out to left.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+STL
+MIL
+Hits
+9
+5
+Home Runs
+1
+2
+Total Bases
+15
+14
+Runners LOB
+8
+8
+Full Team Stats
+Regular Season Series
+Current Series
+STL wins 2-1
+Cardinals
+3
+Brewers
+9
+Game 1
+9/2
+Final
+Cardinals
+7
+Brewers
+4
+Game 2
+9/3
+Final/12
+Cardinals
+3
+Brewers
+2
+Game 3
+9/4
+Final/10
+Game Information
+American Family Field
+11:40 PM, September 3, 2024
+Milwaukee, Wisconsin
+Attendance: 20,027
+Game Time:
+3:13
+Umpires:
+Home Plate Umpire - Lance Barrett
+First Base Umpire - Jeremy Riggs
+Second Base Umpire - Mark Ripperger
+Third Base Umpire - Alfonso Marquez
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570552/cardinals-brewers 
+ ----- 

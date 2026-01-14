@@ -1,0 +1,351 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NBA
+NFL
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Guardians
+84-62, 41-37 Away
+6
+Final
+White Sox
+33-114, 18-57 Home
+4
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Lane Thomas has 4 RBIs to lead Guardians over White Sox 6-4
+— Lane Thomas had four RBI and the Cleveland Guardians held on behind their bullpen to beat the Chicago White Sox 6-4 on Wednesday for a three-game series sweep.
+Sep 12, 2024, 03:29 am - AP
+
+
+CLE
+
+
+CHW
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+2\t0\t3\t0\t0\t0\t0\t1\t0\t6\t10\t3
+0\t0\t4\t0\t0\t0\t0\t0\t0\t4\t8\t0
+WIN
+N. Sandlin
+8-0
+1.1 IP, 1 H, 0 ER, 2 K, 1 BB
+LOSS
+D. Martin
+0-4
+3.0 IP, 6 H, 5 ER, 4 K, 1 BB
+SAVE
+E. Clase
+44
+1.0 IP, 1 H, 0 ER, 2 K, 0 BB
+Scoring Summary
+INNING
+\tCLE\tCHW
+\t\t1st\tThomas reached on infield single to third, Kwan scored and Ramírez scored.\t2\t0
+\t\t3rd\tHedges homered to left (362 feet).\t3\t0
+\t\t3rd\tThomas reached on infield single to second, Kwan scored and Giménez scored.\t5\t0
+\t\t3rd\tSosa singled to center, Julks scored, Ramos to second, Robert Jr. to third.\t5\t1
+\t\t3rd\tRobert Jr. scored on a balk, Sosa to second on a balk, Ramos to third on a balk.\t5\t2
+\t\t3rd\tVargas grounded out to second, Ramos scored, Sosa to third.\t5\t3
+\t\t3rd\tFletcher reached on infield single to shortstop, Sosa scored.\t5\t4
+\t\t8th\tBrennan grounded out to first, Thomas scored, Freeman to second.\t6\t4
+Full Play-By-Play
+Guardians
+White Sox
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+S. Kwan
+LF
+\t2-4\t2\t0\t0\t.290
+
+A. Gimenez
+2B
+\t2-5\t1\t0\t0\t.255
+
+J. Ramirez
+3B
+\t1-5\t1\t0\t0\t.270
+
+J. Naylor
+1B
+\t0-4\t0\t0\t0\t.244
+
+L. Thomas
+CF
+\t3-4\t1\t0\t4\t.229
+
+K. Manzardo
+DH
+\t1-4\t0\t0\t0\t.236
+
+T. Freeman
+PR-DH
+\t0-0\t0\t0\t0\t.210
+
+J. Noel
+RF
+\t0-2\t0\t0\t0\t.232
+
+W. Brennan
+PH-RF
+\t0-1\t0\t0\t1\t.252
+
+D. Schneemann
+SS
+\t0-2\t0\t0\t0\t.227
+
+B. Rocchio
+SS
+\t0-1\t0\t0\t0\t.211
+
+A. Hedges
+C
+\t1-3\t1\t1\t1\t.160
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+M. Boyd
+\t4.1\t6\t1\t2\t9\t95-65\t2.18
+
+N. Sandlin
+\t1.1\t1\t0\t1\t2\t29-14\t3.78
+
+C. Smith
+\t1.1\t0\t0\t0\t2\t17-13\t2.06
+
+H. Gaddis
+\t1.0\t0\t0\t0\t3\t13-9\t1.49
+
+E. Clase
+\t1.0\t1\t0\t0\t2\t16-13\t0.67
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+C. Julks
+LF
+\t1-5\t1\t0\t0\t.219
+
+L. Robert Jr.
+CF
+\t1-4\t1\t0\t0\t.221
+
+B. Ramos
+DH
+\t2-5\t1\t0\t0\t.211
+
+A. Vaughn
+1B
+\t0-5\t0\t0\t0\t.244
+
+L. Sosa
+2B
+\t2-4\t1\t0\t1\t.232
+
+M. Vargas
+3B
+\t0-4\t0\t0\t1\t.105
+
+D. Fletcher
+RF
+\t1-3\t0\t0\t1\t.217
+
+C. Robinson
+C
+\t0-2\t0\t0\t0\t.149
+
+A. Benintendi
+PH
+\t0-1\t0\t0\t0\t.220
+
+K. Lee
+C
+\t0-0\t0\t0\t0\t.209
+
+J. Amaya
+SS
+\t1-2\t0\t0\t0\t.250
+
+G. Sheets
+PH
+\t0-1\t0\t0\t0\t.239
+
+N. Lopez
+SS
+\t0-0\t0\t0\t0\t.241
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+D. Martin
+\t3.0\t6\t5\t1\t4\t72-48\t4.14
+
+M. Foster
+\t0.1\t0\t0\t2\t1\t14-4\t2.70
+
+F. Ellard
+\t1.2\t0\t0\t0\t2\t23-15\t2.93
+
+P. Berroa
+\t1.0\t0\t0\t1\t1\t16-10\t3.86
+
+C. Kuhl
+\t2.0\t3\t1\t0\t2\t29-21\t4.89
+
+J. Anderson
+\t1.0\t1\t0\t0\t0\t16-10\t4.07
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Cleveland Guardians (84-62, 41-37 Away)
+Matthew Boyd (2-2, 2.72)
+-225
+ML
+-240
+o7.5
+-115
+-2.5
++110
+Chicago White Sox (33-114, 18-57 Home)
+Davis Martin (0-5, 4.32)
+u7.5
++115
++200
+u7.5
+-105
++2.5
+-130
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+GUARDIANS
+WHITE SOX
+CLE 100
+%
+CLE 6CHW 4
+
+Bottom 9th
+Vaughn struck out swinging.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+CLE
+CHW
+Hits
+10
+8
+Home Runs
+1
+0
+Total Bases
+13
+9
+Runners LOB
+6
+9
+Full Team Stats
+Regular Season Series
+Current Series
+CLE wins 3-0
+Guardians
+5
+White Sox
+3
+Game 1
+9/9
+Final
+Guardians
+5
+White Sox
+0
+Game 2
+9/10
+Final
+Guardians
+6
+White Sox
+4
+Game 3
+9/11
+Final
+Game Information
+Rate Field
+6:10 PM, September 11, 2024
+Chicago, Illinois
+Attendance: 11,252
+Game Time:
+3:00
+Umpires:
+Home Plate Umpire - Malachi Moore
+First Base Umpire - Ryan Blakney
+Second Base Umpire - Emil Jimenez
+Third Base Umpire - Bill Miller
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570651/guardians-white-sox 
+ ----- 

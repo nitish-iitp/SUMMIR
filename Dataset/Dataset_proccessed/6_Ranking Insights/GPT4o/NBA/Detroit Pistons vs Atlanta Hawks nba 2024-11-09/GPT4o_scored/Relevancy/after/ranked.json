@@ -1,0 +1,21 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "The Detroit Pistons face off against the Atlanta Hawks on 2024-11-09 in a highly anticipated NBA showdown.",
+            "score": 9.0
+        },
+        {
+            "sentence": "Detroit Pistons are unstoppable this season!",
+            "score": 8.0
+        },
+        {
+            "sentence": "I love having pizza on Friday nights.",
+            "score": 2.0
+        }
+    ],
+    "relevance_labels": [
+        "Relevant",
+        "Relevant",
+        "Irrelevant"
+    ]
+}

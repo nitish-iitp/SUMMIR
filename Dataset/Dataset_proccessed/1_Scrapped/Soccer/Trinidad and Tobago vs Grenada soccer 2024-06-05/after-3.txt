@@ -1,0 +1,862 @@
+Football
+Hockey
+Basketball
+Tennis
+Cricket
+Settings
+Home
+Live
+Favourites
+England
+Champions League
+Champions League 23/24
+Spain
+Italy
+Germany
+France
+Netherlands
+Scotland
+Turkiye
+Europa League
+Europa Conference League 23/24
+Euro 2024 Qualification
+Euro 2024
+UEFA Nations League
+International
+World Cup Qualification
+Africa Cup of Nations 2023
+UEFA Women's CL
+UEFA Nations League Women
+Copa Libertadores
+Copa Sudamericana
+Africa Cup of Nations Qualification
+African Nat. Champ.
+Club Friendlies
+Women's World Cup
+International Friendlies
+Women's World Cup Qualification
+Women's Euro
+Women's World Cup U20
+World Cup U20
+Women's World Youth Cup
+World Youth Cup
+Women's Euro U19
+Women's Euro U17
+Women's World Cup U17
+World Cup U17
+UEFA Youth League
+Euro U21 2025
+Euro U21
+Euro U19
+Euro U19 Qualification
+Euro U17
+CONCACAF Nat. League
+CONCACAF Championship U20
+Copa America
+AFC Asian Cup
+AFC Women's Club Championship
+CONCACAF Gold Cup
+Africa
+Asia
+CONCACAF
+Oceania
+South America
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Mali
+Malta
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Romania
+Rwanda
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+USA
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
+World Cup 2022
+Champions League 22/23
+Champions League 21/22
+Champions League 20/21
+Champions League 19/20
+Europa League 22/23
+Europa League 21/22
+Europa League 20/21
+Europa League 19/20
+Europa Conference League 22/23
+Europa Conference League 21/22
+Africa Cup of Nations 2021
+Euro 2020
+UEFA Women's CL 22/23
+Women's CAF Champions League
+CONCACAF Women Gold Cup
+UEFA Nations League 22/23
+Paris 2024 Women
+Europa League 23/24
+The Games - Men
+The Games - Women
+Conference League
+CONCACAF Women Champions Cup
+World Cup 2026
+DEC 26
+DEC 27
+DEC 28
+TODAY
+DEC 30
+DEC 31
+JAN 1
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP A
+JUNE 5
+FT
+Sierra Leone
+2 - 1
+Djibouti
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP B
+JUNE 5
+FT
+Togo
+1 - 1
+South Sudan
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP E
+JUNE 5
+Canc.
+Tanzania
+-
+Eritrea
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP H
+JUNE 5
+FT
+Namibia
+1 - 1
+Liberia
+FT
+Tunisia
+1 - 0
+Equatorial Guinea
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP I
+JUNE 5
+FT
+Central African Republic
+1 - 0
+Chad
+WORLD CUP QUALIFICATION - CONCACAF QUALIFICATION: 2ND ROUND: GROUP A
+JUNE 5
+FT
+Antigua and Barbuda
+1 - 1
+Bermuda
+WORLD CUP QUALIFICATION - CONCACAF QUALIFICATION: 2ND ROUND: GROUP B
+JUNE 5
+FT
+Trinidad and Tobago
+2 - 2
+Grenada
+WORLD CUP QUALIFICATION - CONCACAF QUALIFICATION: 2ND ROUND: GROUP C
+JUNE 5
+FT
+Curacao
+4 - 1
+Barbados
+WORLD CUP QUALIFICATION - CONCACAF QUALIFICATION: 2ND ROUND: GROUP F
+JUNE 5
+FT
+Suriname
+4 - 1
+Saint Vincent and The Grenadines
+BRAZIL - SERIE A
+JUNE 5
+FT
+Juventude
+1 - 0
+Atletico GO
+FT
+Cuiaba
+0 - 0
+Vitoria
+COPA LIBERTADORES - GROUP C
+JUNE 5
+FT
+Huachipato
+0 - 1
+Gremio
+COPA SUDAMERICANA - GROUP C
+JUNE 5
+FT
+Real Tomayapo
+0 - 2
+Internacional
+SOUTH AFRICA - PREMIER LEAGUE: QUALIFICATION GROUP
+JUNE 5
+FT
+Richards Bay
+1 - 0
+University of Pretoria
+INTERNATIONAL FRIENDLIES - FRIENDLIES 2024
+JUNE 5
+FT
+Slovakia
+4 - 0
+San Marino
+FT
+Denmark
+2 - 1
+Sweden
+FT
+Norway
+3 - 0
+Kosovo
+FT
+Belgium
+2 - 0
+Montenegro
+FT
+France
+3 - 0
+Luxembourg
+FT
+Spain
+5 - 0
+Andorra
+INTERNATIONAL FRIENDLIES - WOMEN'S FRIENDLIES
+JUNE 5
+FT
+Nicaragua W
+1 - 0
+Peru W
+FT
+USA W
+3 - 0
+South Korea W
+INTERNATIONAL FRIENDLIES - FRIENDLIES U21
+JUNE 5
+FT
+Bosnia and Herzegovina U21
+2 - 1
+North Macedonia U21
+FT
+Malta U21
+0 - 2
+Belarus U21
+INTERNATIONAL FRIENDLIES - FRIENDLIES U20
+JUNE 5
+FT
+Uruguay U20
+3 - 3
+Australia U20
+EURO U17 - FINAL
+JUNE 5
+FT
+Italy U17
+3 - 0
+Portugal U17
+INTERNATIONAL - MAURICE REVELLO TOURNAMENT: GROUP A
+JUNE 5
+FT
+Ivory Coast U20
+2 - 1
+South Korea U21
+AP
+Mexico U23
+2 - 2
+France U20
+AUSTRALIA - WOMEN'S NPL VICTORIA
+JUNE 5
+FT
+Heidelberg United FC W
+2 - 2
+FV Emerging W
+BRAZIL - SERIE B
+JUNE 5
+FT
+Paysandu
+2 - 0
+America MG
+BRAZIL - SERIE D: GROUP A8
+JUNE 5
+FT
+Brasil de Pelotas
+1 - 0
+Barra FC
+BRAZIL - CARIOCA 2
+JUNE 5
+FT
+Audax Rio EC
+0 - 0
+Americano RJ
+BRAZIL - GAUCHO 2: GROUP A
+JUNE 5
+Postp.
+Esportivo
+-
+EC Cruzeiro
+Postp.
+Passo Fundo
+-
+SERC Brasil de Farroupilha
+Postp.
+Uniao Frederiquense
+-
+Gloria
+Postp.
+Veranopolis
+-
+Sport Club Gaucho Passo Fundo
+FT
+Sport Club Gaucho Passo Fundo
+1 - 1
+Gloria
+FT
+Veranopolis
+3 - 1
+Passo Fundo
+FT
+Esportivo
+3 - 1
+SERC Brasil de Farroupilha
+FT
+Uniao Frederiquense
+1 - 1
+EC Cruzeiro
+BRAZIL - GAUCHO 2: GROUP B
+JUNE 5
+Canc.
+CE Aimore
+-
+Sao Gabriel
+Canc.
+Com Vida
+-
+CE Lajeadense
+Canc.
+GE Bage
+-
+Internacional Santa Maria
+Canc.
+Pelotas
+-
+Monsoon FC
+Postp.
+CE Aimore
+-
+Monsoon FC
+FT
+GE Bage
+2 - 1
+Com Vida
+FT
+Internacional Santa Maria
+2 - 1
+Sao Gabriel
+BRAZIL - MINEIRO 2: GROUP A
+JUNE 5
+FT
+Valeriodoce EC MG
+0 - 0
+Tupi FC MG
+FT
+Nacional AC Muriae MG
+0 - 1
+Betim Futebol MG
+BRAZIL - MINEIRO 2: GROUP B
+JUNE 5
+FT
+Boa Esporte Clube
+0 - 1
+North EC MG
+FT
+Urt MG
+1 - 1
+Varginha EC MG
+BRAZIL - RONDONIENSE: PLAY-OFF
+JUNE 5
+FT
+Porto Velho EC
+0 - 0
+Barcelona RO
+BRAZIL - BRASILEIRO U20
+JUNE 5
+FT
+Cruzeiro U20
+2 - 2
+Internacional U20
+BRAZIL - CEARENSE U20: GROUP A
+JUNE 5
+FT
+Cariri FC CE U20
+1 - 2
+FC Acopiara CE U20
+BRAZIL - WOMEN'S PAULISTA
+JUNE 5
+FT
+Red Bull Bragantino SP W
+0 - 1
+Ferroviaria SP W
+FT
+Marilia AC SP W
+1 - 3
+Sao Jose EC W
+FT
+Sao Paulo FC SP W
+4 - 1
+AE Realidade Jovem SP W
+CHILE - PRIMERA B
+JUNE 5
+FT
+Santiago Wanderers
+6 - 0
+San Luis
+COLOMBIA - PRIMERA B: APERTURA: GROUP B: PLAY-OFF
+JUNE 5
+FT
+Union Magdalena
+2 - 1
+Llaneros FC
+DENMARK - DANMARKSSERIEN: PROMOTION PLAY-OFF: GROUP 2
+JUNE 5
+FT
+Noerresundby
+4 - 3
+Horsens fS
+FT
+Kjellerup
+6 - 4
+Aarhus Fremad II
+ECUADOR - SERIE B
+JUNE 5
+FT
+Manta
+3 - 1
+Club Leones Del Norte
+FT
+Gualaceo SC
+0 - 0
+Vargas Torres
+FT
+Guayaquil City
+0 - 0
+Independiente Juniors
+FINLAND - YKKONEN
+JUNE 5
+FT
+FCV
+1 - 2
+JJK Jyvaskyla
+GERMANY - REGIONALLIGA NORD: QUALIFICATION PLAY-OFFS
+JUNE 5
+FT
+TuS Bersenbrueck
+2 - 2
+SC Weiche Flensburg
+GERMANY - OBERLIGA: PROMOTION GROUP SOUTH
+JUNE 5
+FT
+Turk Gucu Friedberg
+1 - 2
+SV Gonsenheim
+ICELAND - 1. DEILD
+JUNE 5
+FT
+Keflavik
+5 - 0
+Leiknir Reykjavik
+ICELAND - WOMEN'S 1. DEILD
+JUNE 5
+FT
+Grotta W
+0 - 1
+Grindavik W
+FT
+IA Akranes W
+3 - 0
+IR Reykjavik W
+LIBYA - PREMIER LEAGUE: GROUP B
+JUNE 5
+FT
+Al-Khums
+1 - 0
+Olympic Azzaweya SC
+NETHERLANDS - TWEEDE DIVISIE: QUALIFICATION
+JUNE 5
+FT
+Blauw Geel
+4 - 3
+Genemuiden
+FT
+Harkemase Boys
+1 - 1
+Excelsior Maassluis
+NORWAY - WOMEN'S CUP
+JUNE 5
+FT
+Sogndal W
+0 - 6
+Aasane W
+FT
+KFUM Oslo W
+0 - 4
+Lyn Fotball W
+PERU - LIGA 2: GROUP A
+JUNE 5
+FT
+ADC Juan Pablo II
+3 - 1
+Carlos Stein
+FT
+Deportivo Llacuabamba
+5 - 0
+ADA Jaen
+SWEDEN - SVENSKA CUPEN: QUALIFICATION
+JUNE 5
+AP
+Viggbyholms IK FF
+1 - 1
+Karlbergs BK
+SWEDEN - DIVISION 1: SOUTH
+JUNE 5
+FT
+Oskarshamns AIK
+1 - 2
+Joenkoepings Soedra
+SWEDEN - DIVISION 2: NORRLAND
+JUNE 5
+FT
+Ytterhogdals IK
+2 - 1
+Froesoe IF
+SWITZERLAND - 1. LIGA: PROMOTION PLAY-OFF
+JUNE 5
+FT
+Black Stars
+1 - 4
+FC Grand-Saconnex
+FT
+FC Schoetz
+2 - 2
+Vevey
+URUGUAY - SEGUNDA DIVISIÓN
+JUNE 5
+FT
+Cooper
+2 - 0
+Atenas
+FT
+Tacuarembo FC
+1 - 1
+Rentistas
+FT
+Oriental
+1 - 0
+La Luz
+FT
+Plaza Colonia
+0 - 1
+Uruguay Montevideo
+FT
+Montevideo City Torque
+2 - 2
+Albion
+USA - NISA
+JUNE 5
+FT
+Savannah Clovers
+0 - 2
+Georgia Lions FC
+USA - USL LEAGUE TWO
+JUNE 5
+FT
+Hattiesburg FC
+0 - 2
+Mississippi Brilla
+FT
+RKC Soccer Club
+0 - 3
+Bavarian SC
+FT
+Twin City Toucans
+0 - 1
+AHFC Royals
+FT
+New Jersey Copa FC
+1 - 2
+Cedar Stars Rush
+FT
+Weston FC
+1 - 0
+Swan City
+FT
+Athens United
+1 - 0
+Dothan United
+FT
+Charlottesville Blues
+1 - 2
+Lionsbridge FC
+FT
+Flint City Bucks
+3 - 1
+AFC Ann Arbor
+FT
+Florida Elite Sa
+4 - 1
+Inter Gainesville KF
+FT
+Kalamazoo FC
+0 - 1
+Midwest United FC
+FT
+Wake FC
+3 - 0
+Tobacco Road FC
+FT
+Boston Bolts
+2 - 1
+Albany Rush
+FT
+Brooke House FC
+2 - 2
+Brevard
+FT
+FC Motown II
+5 - 2
+Westchester Flames
+FT
+Morris Elite SC
+1 - 3
+Manhattan SC
+FT
+Virginia Marauders
+0 - 3
+Patuxent Football Athletics
+USA - NPSL: EAST REGION: KEYSTONE WEST CONFERENCE
+JUNE 5
+FT
+Pennsylvania Classics
+1 - 0
+First State FC
+USA - NPSL: EAST REGION: MID-ATLANTIC CONFERENCE
+JUNE 5
+FT
+Alexandria Reds
+2 - 2
+Virginia Dream FC
+USA - NPSL: EAST REGION: SOUTHEAST CONFERENCE
+JUNE 5
+FT
+Greenville United
+3 - 3
+Port City FC
+USA - NPSL: MIDWEST REGION: GREAT LAKES CONFERENCE
+JUNE 5
+Postp.
+Cleveland SC
+-
+Erie Commodores FC
+FT
+Niagara 1812
+0 - 5
+Akron City FC
+USA - NPSL: SOUTH REGION: HEARTLAND CONFERENCE
+JUNE 5
+FT
+Arkansas Wolves
+2 - 0
+Demize
+USA - USL W-LEAGUE: GREAT LAKES DIVISION
+JUNE 5
+FT
+Michiana FC W
+0 - 2
+Cleveland Force SC W
+USA - USL W-LEAGUE: METROPOLITAN DIVISION
+JUNE 5
+FT
+AC Connecticut W
+3 - 2
+Paisley Athletic FC W
+FT
+Long Island Rough Riders W
+4 - 0
+Manhattan SC W
+USA - USL W-LEAGUE: MID ATLANTIC DIVISION
+JUNE 5
+Postp.
+Christos FC W
+-
+Northern Virginia FC W
+FT
+Charlottesville Blues W
+0 - 1
+Richmond Ivy SC W
+FT
+Virginia Marauders FC W
+7 - 1
+Patuxent Football Athletics W
+USA - USL W-LEAGUE: NOR CAL DIVISION
+JUNE 5
+FT
+Marin FC Alliance W
+0 - 1
+California Storm
+USA - USL W-LEAGUE: SOUTHEAST DIVISION
+JUNE 5
+FT
+Florida Elite Soccer Academy W
+4 - 0
+Palm City Americanas W
+FT
+Brooke House FC W
+2 - 1
+Swan City W
+FT
+Brevard SC Riptide
+0 - 5
+Tampa Bay United W
+FT
+Miami AC W
+14 - 0
+Tallahassee Reckoning W
+USA - USL W-LEAGUE: SOUTH ATLANTIC DIVISION
+JUNE 5
+FT
+Charlotte Eagles W
+0 - 2
+South Carolina United FC W
+FT
+Carolina Ascent
+7 - 0
+Fayetteville Fury W
+USA - USL W-LEAGUE: SOUTH CENTRAL DIVISION
+JUNE 5
+FT
+Greenville Liberty W
+1 - 0
+Southern Soccer Academy W
+Live Scores and fixtures for football on 5 June 2024
+Looking for the livescore today? See live scores and fixtures for football on 5 June 2024.
+LiveScore brings you the latest football fixtures, results and live score information for 5 June 2024. Revisit scores and statistics and look ahead for upcoming fixtures for your favourite sport team. Plus, find out the livescore today, 5 June 2024.
+© 1998-2024 LiveScore Limited
+CareersMobileAdvertiseContactPrivacy NoticeCookie PolicyTerms of UseCorporate
+This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners.For more information see our Cookie Policy
+Manage Preferences Accept Cookies
+ 
+ 
+ ----- 
+ Source link : https://www.livescore.mobi/football/2024-06-05/ 
+ ----- 

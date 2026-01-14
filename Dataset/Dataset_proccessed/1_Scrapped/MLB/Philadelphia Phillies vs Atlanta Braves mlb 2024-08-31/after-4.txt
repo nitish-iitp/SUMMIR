@@ -1,0 +1,583 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Philadelphia Phillies Schedule
+Atlanta Braves Schedule
+Atlanta Braves vs Philadelphia Phillies Box Score: August 31, 2024
+MLB Scores — August 31, 2024
+STL	6	Final
+NYY	5	
+CHC	5	Final
+WSN	3	
+SDP	4	Final
+TBR	11	
+PIT	3	Final
+CLE	0	
+BOS	1	Final
+DET	2	
+OAK	2	Final
+TEX	3	
+NYM	5	Final
+CHW	3	
+KCR	2	Final
+HOU	5	
+TOR	15	Final
+MIN	0	
+MIL	5	Final
+CIN	4	
+ATL	0	Final
+PHI	3	
+LAD	8	Final
+ARI	6	
+BAL	5	Final
+COL	7	
+MIA	4	Final
+SFG	3	
+SEA	4	Final
+LAA	5	
+MLB Scores & Standings on this Day
+Atlanta Braves
+0
+74-62
+Prev Game Next Game
+ 
+Philadelphia Phillies
+3
+80-56
+Prev Game Next Game
+Saturday, August 31, 2024
+Start Time: 7:15 p.m. Local
+Attendance: 42,730
+Venue: Citizens Bank Park
+Game Duration: 2:16
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Atlanta Braves	0	0	0	0	0	0	0	0	0	0	6	0
+
+	Philadelphia Phillies	0	0	1	0	0	1	1	0	X	3	5	1
+WP: Zack Wheeler (13-6) • LP: Max Fried (8-8) • SV: Carlos Estévez (23)
+Atlanta Braves 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Whit Merrifield 2B	4	0	1	0	0	1	4	.219	.307	.319	.626	18	11	-0.081	1.16	0.028	-0.110	-0.07%	1.69	-0.9	1	3	
+Jorge Soler RF	4	0	1	0	0	1	4	.232	.333	.421	.755	19	10	-0.121	1.31	0.011	-0.132	-0.11%	1.93	-1.0	3	0	
+Marcell Ozuna DH	4	0	0	0	0	3	4	.307	.379	.576	.955	20	12	-0.094	0.90	0.000	-0.094	-0.08%	1.31	-0.8	0	0	
+Matt Olson 1B	4	0	0	0	0	0	4	.234	.312	.446	.758	10	6	-0.089	0.88	0.000	-0.089	-0.08%	1.29	-0.8	10	0	
+Travis d'Arnaud C	4	0	1	0	0	2	4	.248	.305	.469	.774	16	11	-0.028	0.56	0.016	-0.044	-0.03%	0.82	-0.3	5	0	
+Michael Harris II CF	4	0	1	0	0	2	4	.245	.290	.362	.652	16	13	-0.066	0.75	0.008	-0.074	-0.06%	1.09	-0.4	2	0	
+Orlando Arcia SS	4	0	0	0	0	1	4	.226	.278	.370	.648	12	9	-0.027	0.89	0.040	-0.067	-0.02%	1.30	-0.2	2	7	
+Ramón Laureano LF	3	0	1	0	0	1	3	.245	.304	.413	.717	6	6	0.025	1.02	0.061	-0.036	0.02%	1.50	0.3	1	0	
+Gio Urshela 3B	3	0	1	0	0	0	3	.249	.288	.337	.626	12	9	-0.032	1.18	0.018	-0.050	-0.03%	1.73	-0.4	0	2	
+																							
+Max Fried P																					0	0	
+   Jesse Chavez P																					0	0	
+Team Totals	34	0	6	0	0	11	34	.176	.176	.176	.353	129	87	-0.513	0.95	0.182	-0.696	-0.45%	1.40	-4.5	24	12	
+TB: Whit Merrifield; Travis d'Arnaud; Jorge Soler; Ramón Laureano; Gio Urshela; Michael Harris II.
+Team LOB: 7.
+With RISP: 0 for 4.
+Fielding
+DP: 2. Orlando Arcia-Whit Merrifield-Matt Olson; Whit Merrifield-Orlando Arcia-Matt Olson.
+Philadelphia Phillies 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Kyle Schwarber DH	3	0	0	0	1	0	4	.238	.366	.451	.817	21	12	-0.060	0.74	0.022	-0.082	-0.06%	1.30	-0.9	0	0	GDP
+Trea Turner SS	4	1	1	1	0	2	4	.299	.343	.462	.805	19	14	0.061	0.66	0.106	-0.044	0.07%	1.16	0.3	0	2	HR
+Bryce Harper 1B	4	0	0	0	0	1	4	.279	.369	.522	.891	11	10	-0.047	0.43	0.000	-0.047	-0.05%	0.76	-0.7	4	1	
+Nick Castellanos RF	3	0	0	0	1	1	4	.248	.302	.420	.722	12	6	-0.002	0.55	0.033	-0.034	-0.00%	0.96	-0.1	0	0	
+J.T. Realmuto C	3	0	0	0	0	1	3	.262	.317	.420	.736	12	8	-0.093	0.75	0.000	-0.093	-0.10%	1.32	-1.0	11	0	GDP
+Austin Hays LF	3	0	2	0	0	0	3	.259	.310	.395	.705	8	6	0.025	0.41	0.035	-0.010	0.03%	0.72	0.1	4	0	2B
+Weston Wilson 3B	2	1	0	0	1	0	3	.333	.362	.611	.973	13	5	-0.046	0.77	0.011	-0.057	-0.05%	1.35	-0.3	2	2	
+   Bryson Stott 2B	0	0	0	0	0	0	0	.243	.320	.360	.680										0	0	
+Edmundo Sosa 2B-3B	2	1	2	2	1	0	3	.269	.320	.448	.768	10	5	0.216	0.79	0.216	0.000	0.23%	1.39	2.8	2	2	HR,2B
+Johan Rojas CF	3	0	0	0	0	0	3	.241	.280	.302	.583	5	4	-0.068	0.84	0.000	-0.068	-0.07%	1.47	-1.2	3	0	
+																							
+Zack Wheeler P																					1	0	
+   Jeff Hoffman P																					0	0	
+   Carlos Estévez P																					0	0	
+Team Totals	27	3	5	3	4	5	31	.185	.290	.481	.772	111	70	-0.014	0.65	0.423	-0.435	-0.01%	1.14	-1.0	27	7	
+2B: Austin Hays (18, off Max Fried); Edmundo Sosa (11, off Max Fried).
+HR: Edmundo Sosa (7, off Max Fried, 3rd inn, 0 on, 0 outs to Deep LF-CF); Trea Turner (15, off Max Fried, 6th inn, 0 on, 0 outs to Deep LF).
+TB: Edmundo Sosa 6; Trea Turner 4; Austin Hays 3.
+GIDP: J.T. Realmuto (6); Kyle Schwarber (5).
+RBI: Edmundo Sosa 2 (29); Trea Turner (48).
+Team LOB: 4.
+With RISP: 0 for 3.
+Fielding
+E: Weston Wilson (1).
+Atlanta Braves 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Max Fried, L (8-8)	7	5	3	3	4	4	2	3.52	28	103	63	38	10	15	11	9	4	0	55			0.006	0.71	0.01%	1.04	0.5
+Jesse Chavez	1	0	0	0	0	1	0	3.34	3	8	7	4	1	2	0	2	0	0		0	0	0.007	0.08	0.01%	0.12	0.5
+Team Totals	8	5	3	3	4	5	2	3.38	31	111	70	42	11	17	11	11	4	0	55	0	0	0.013	0.65	0.01%	0.95	1.0
+
+Philadelphia Phillies 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Zack Wheeler, W (13-6)	7	4	0	0	0	7	0	2.63	26	96	65	42	12	11	10	9	3	0	76			0.437	1.09	0.46%	1.92	3.5
+Jeff Hoffman, H (18)	1	1	0	0	0	2	0	1.88	4	21	12	7	2	3	0	2	2	0		0	0	0.043	0.57	0.04%	0.99	0.5
+Carlos Estévez, S (23)	1	1	0	0	0	2	0	2.31	4	12	10	3	4	3	1	1	0	0		0	0	0.033	0.43	0.03%	0.76	0.5
+Team Totals	9	6	0	0	0	11	0	0.00	34	129	87	52	18	17	11	12	5	0	76	0	0	0.513	0.95	0.54%	1.67	4.5
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Adam Hamari, 1B - Edwin Moscoso, 2B - Vic Carapazza, 3B - Paul Clemons, LF - (none), RF - (none).
+Time of Game: 2:16.
+Attendance: 42,730.
+Field Condition: Unknown.
+Start Time Weather: 80° F, Wind 8mph out to Rightfield, Cloudy, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Braves
+1	Whit Merrifield	2B
+2	Jorge Soler	RF
+3	Marcell Ozuna	DH
+4	Matt Olson	1B
+5	Travis d'Arnaud	C
+6	Michael Harris II	CF
+7	Orlando Arcia	SS
+8	Ramón Laureano	LF
+9	Gio Urshela	3B
+	Max Fried	P
+Phillies
+1	Kyle Schwarber	DH
+2	Trea Turner	SS
+3	Bryce Harper	1B
+4	Nick Castellanos	RF
+5	J.T. Realmuto	C
+6	Austin Hays	LF
+7	Weston Wilson	3B
+8	Edmundo Sosa	2B
+9	Johan Rojas	CF
+	Zack Wheeler	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Atlanta Braves vs. Philadelphia Phillies, August 31 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+PHI
+50%
+ATL
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.47
+6	0.49
+7	0.5
+8	0.48
+9	0.46
+10	0.45
+11	0.47
+12	0.49
+13	0.47
+14	0.5
+15	0.54
+16	0.6
+17	0.57
+18	0.5
+19	0.44
+20	0.33
+21	0.35
+22	0.33
+23	0.35
+24	0.37
+25	0.35
+26	0.33
+27	0.34
+28	0.31
+29	0.28
+30	0.35
+31	0.34
+32	0.36
+33	0.33
+34	0.3
+35	0.32
+36	0.35
+37	0.29
+38	0.26
+39	0.29
+40	0.34
+41	0.3
+42	0.27
+43	0.26
+44	0.15
+45	0.17
+46	0.17
+47	0.18
+48	0.15
+49	0.12
+50	0.11
+51	0.12
+52	0.11
+53	0.04
+54	0.06
+55	0.07
+56	0.05
+57	0.03
+58	0.04
+59	0.03
+60	0.03
+61	0.03
+62	0.03
+63	0.01
+64	0
+65	0.01
+66	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b3	0-0	0	---	3,(1-1) 	R	PHI	Edmundo Sosa	Max Fried	12%	67%	Home Run (Fly Ball to Deep LF-CF)
+b6	1-0	0	---	9,(3-2) 	R	PHI	Trea Turner	Max Fried	11%	85%	Home Run (Fly Ball to Deep LF)
+t3	0-0	1	1-3	3,(1-1) 	O	ATL	Whit Merrifield	Zack Wheeler	7%	50%	Flyball: CF (Short CF)
+b4	1-0	0	1--	1,(0-0) 	OO	PHI	J.T. Realmuto	Max Fried	-7%	65%	Ground Ball Double Play: SS-2B-1B
+b7	2-0	1	1--	2,(0-1) 	R	PHI	Edmundo Sosa	Max Fried	7%	96%	Double to RF (Line Drive to Deep CF-RF); W. Wilson Scores; E. Sosa to 3B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Phillies' Zack Wheeler facing 1-2-3
+t1	0-0	0	---	2,(0-1) 	O	ATL	Whit Merrifield	Zack Wheeler	2%	52%	Groundout: 1B-P
+t1	0-0	1	---	4,(2-1) 	O	ATL	Jorge Soler	Zack Wheeler	2%	54%	Groundout: 2B-1B (Deep SS-2B)
+t1	0-0	2	---	5,(2-2) 	O	ATL	Marcell Ozuna	Zack Wheeler	1%	55%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Phillies 0.
+Bottom of the 1st, Phillies Batting, Tied 0-0, Braves' Max Fried facing 1-2-3
+b1	0-0	0	---	5,(2-2) 	O	PHI	Kyle Schwarber	Max Fried	-2%	53%	Groundout: SS-1B (Deep SS)
+b1	0-0	1	---	2,(0-1) 	O	PHI	Trea Turner	Max Fried	-2%	51%	Groundout: 3B-1B
+b1	0-0	2	---	2,(0-1) 	O	PHI	Bryce Harper	Max Fried	-1%	50%	Groundout: 2B-1B (2B-1B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Phillies 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Phillies' Zack Wheeler facing 4-5-6
+t2	0-0	0	---	1,(0-0) 	O	ATL	Matt Olson	Zack Wheeler	2%	52%	Lineout: 3B (SS-3B Hole)
+t2	0-0	1	---	5,(3-1) 	O	ATL	Travis d'Arnaud	Zack Wheeler	2%	54%	Groundout: SS-1B
+t2	0-0	2	---	2,(1-1) 	O	ATL	Michael Harris II	Zack Wheeler	1%	55%	Flyball: LF (Deep LF Line)
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Phillies 0.
+Bottom of the 2nd, Phillies Batting, Tied 0-0, Braves' Max Fried facing 4-5-6
+b2	0-0	0	---	6,(2-2) 	O	PHI	Nick Castellanos	Max Fried	-2%	53%	Strikeout Looking
+b2	0-0	1	---	5,(2-2) 	O	PHI	J.T. Realmuto	Max Fried	-2%	51%	Flyball: CF (Deep CF-RF)
+b2	0-0	2	---	3,(1-1) 		PHI	Austin Hays	Max Fried	2%	53%	Double to RF (Line Drive to RF Line)
+b2	0-0	2	-2-	6,(3-2) 	O	PHI	Weston Wilson	Max Fried	-3%	50%	Groundout: SS-1B (Weak SS-2B)
+									0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Phillies 0.
+Top of the 3rd, Braves Batting, Tied 0-0, Phillies' Zack Wheeler facing 7-8-9
+t3	0-0	0	---	5,(2-2) 		ATL	Orlando Arcia	Zack Wheeler	-4%	46%	Reached on E5 (Ground Ball to SS-3B Hole); O. Arcia to 1B
+t3	0-0	0	1--	1,(0-0) 		ATL	Ramón Laureano	Zack Wheeler	-6%	40%	Single to RF (Line Drive to Short RF); O. Arcia to 2B
+t3	0-0	0	12-	2,(0-1) 	O	ATL	Gio Urshela	Zack Wheeler	3%	43%	Groundout: SS-2B/Forceout at 2B; O. Arcia to 3B; G. Urshela to 1B
+t3	0-0	1	1-3	3,(1-1) 	O	ATL	Whit Merrifield	Zack Wheeler	7%	50%	Flyball: CF (Short CF)
+t3	0-0	2	1-3	5,(3-1) 	O	ATL	Jorge Soler	Zack Wheeler	6%	56%	Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); J. Soler to 1B
+									0 runs, 1 hit, 1 error, 2 LOB. Braves 0, Phillies 0.
+Bottom of the 3rd, Phillies Batting, Tied 0-0, Braves' Max Fried facing 8-9-1
+b3	0-0	0	---	3,(1-1) 	R	PHI	Edmundo Sosa	Max Fried	12%	67%	Home Run (Fly Ball to Deep LF-CF)
+b3	1-0	0	---	1,(0-0) 	O	PHI	Johan Rojas	Max Fried	-2%	65%	Groundout: SS-1B
+b3	1-0	1	---	7,(3-2) 		PHI	Kyle Schwarber	Max Fried	2%	67%	Walk
+b3	1-0	1	1--	5,(2-2) 	O	PHI	Trea Turner	Max Fried	-3%	65%	Strikeout Swinging
+b3	1-0	2	1--	2,(0-1) 	O	PHI	Bryce Harper	Max Fried	-2%	63%	Lineout: LF
+									1 run, 1 hit, 0 errors, 1 LOB. Braves 0, Phillies 1.
+Top of the 4th, Braves Batting, Behind 0-1, Phillies' Zack Wheeler facing 3-4-5
+t4	0-1	0	---	4,(1-2) 	O	ATL	Marcell Ozuna	Zack Wheeler	3%	65%	Strikeout Swinging
+t4	0-1	1	---	4,(2-1) 	O	ATL	Matt Olson	Zack Wheeler	2%	67%	Lineout: CF (Deep CF)
+t4	0-1	2	---	4,(1-2) 		ATL	Travis d'Arnaud	Zack Wheeler	-2%	66%	Single to RF (Ground Ball thru 2B-1B)
+t4	0-1	2	1--	6,(2-2) 	O	ATL	Michael Harris II	Zack Wheeler	3%	69%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Phillies 1.
+Bottom of the 4th, Phillies Batting, Ahead 1-0, Braves' Max Fried facing 4-5-6
+b4	1-0	0	---	4,(3-0) 		PHI	Nick Castellanos	Max Fried	3%	72%	Walk
+b4	1-0	0	1--	1,(0-0) 	OO	PHI	J.T. Realmuto	Max Fried	-7%	65%	Ground Ball Double Play: SS-2B-1B
+b4	1-0	2	---	4,(1-2) 		PHI	Austin Hays	Max Fried	1%	66%	Single to CF (Line Drive to Deep LF-CF)
+b4	1-0	2	1--	2,(1-0) 	O	PHI	Weston Wilson	Max Fried	-2%	64%	Flyball: RF (Deep RF)
+									0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Phillies 1.
+Top of the 5th, Braves Batting, Behind 0-1, Phillies' Zack Wheeler facing 7-8-9
+t5	0-1	0	---	1,(0-0) 	O	ATL	Orlando Arcia	Zack Wheeler	3%	67%	Foul Popfly: 3B (Behind Home)
+t5	0-1	1	---	3,(0-2) 	O	ATL	Ramón Laureano	Zack Wheeler	2%	70%	Strikeout Swinging
+t5	0-1	2	---	8,(2-2) 		ATL	Gio Urshela	Zack Wheeler	-2%	68%	Single to SS (Fly Ball to Short LF)
+t5	0-1	2	1--	6,(3-2) 		ATL	Whit Merrifield	Zack Wheeler	-3%	65%	Single to LF (Ground Ball thru SS-3B Hole); G. Urshela to 2B
+t5	0-1	2	12-	4,(1-2) 	O	ATL	Jorge Soler	Zack Wheeler	6%	71%	Strikeout Looking
+									0 runs, 2 hits, 0 errors, 2 LOB. Braves 0, Phillies 1.
+Bottom of the 5th, Phillies Batting, Ahead 1-0, Braves' Max Fried facing 8-9-1
+b5	1-0	0	---	5,(3-1) 		PHI	Edmundo Sosa	Max Fried	3%	74%	Walk
+b5	1-0	0	1--	1,(0-0) 	O	PHI	Johan Rojas	Max Fried	-3%	71%	Bunt Groundout: 3B-SS/Forceout at 2B (Weak 3B); J. Rojas to 1B
+b5	1-0	1	1--	3,(1-1) 	OO	PHI	Kyle Schwarber	Max Fried	-5%	66%	Ground Ball Double Play: 2B-SS-1B (2B-1B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Phillies 1.
+Top of the 6th, Braves Batting, Behind 0-1, Phillies' Zack Wheeler facing 3-4-5
+t6	0-1	0	---	5,(3-1) 	O	ATL	Marcell Ozuna	Zack Wheeler	4%	70%	Groundout: 2B-1B
+t6	0-1	1	---	4,(2-1) 	O	ATL	Matt Olson	Zack Wheeler	3%	73%	Flyball: CF (Deep CF)
+t6	0-1	2	---	3,(0-2) 	O	ATL	Travis d'Arnaud	Zack Wheeler	2%	74%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Phillies 1.
+Bottom of the 6th, Phillies Batting, Ahead 1-0, Braves' Max Fried facing 2-3-4
+b6	1-0	0	---	9,(3-2) 	R	PHI	Trea Turner	Max Fried	11%	85%	Home Run (Fly Ball to Deep LF)
+b6	2-0	0	---	3,(0-2) 	O	PHI	Bryce Harper	Max Fried	-1%	83%	Strikeout Swinging
+b6	2-0	1	---	1,(0-0) 	O	PHI	Nick Castellanos	Max Fried	-1%	83%	Groundout: SS-1B (Deep SS)
+b6	2-0	2	---	6,(2-2) 	O	PHI	J.T. Realmuto	Max Fried	-1%	82%	Strikeout Swinging
+									1 run, 1 hit, 0 errors, 0 LOB. Braves 0, Phillies 2.
+Top of the 7th, Braves Batting, Behind 0-2, Phillies' Zack Wheeler facing 6-7-8
+t7	0-2	0	---	5,(1-2) 	O	ATL	Michael Harris II	Zack Wheeler	3%	85%	Strikeout Swinging
+t7	0-2	1	---	2,(0-1) 	O	ATL	Orlando Arcia	Zack Wheeler	2%	88%	Groundout: 3B-1B
+t7	0-2	2	---	2,(0-1) 	O	ATL	Ramón Laureano	Zack Wheeler	1%	89%	Flyball: LF (Deep LF-CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Phillies 2.
+Bottom of the 7th, Phillies Batting, Ahead 2-0, Braves' Max Fried facing 6-7-8
+b7	2-0	0	---	1,(0-0) 	O	PHI	Austin Hays	Max Fried	-1%	88%	Flyball: CF (Deep CF)
+b7	2-0	1	---	5,(3-1) 		PHI	Weston Wilson	Max Fried	1%	89%	Walk
+b7	2-0	1	1--	2,(0-1) 	R	PHI	Edmundo Sosa	Max Fried	7%	96%	Double to RF (Line Drive to Deep CF-RF); W. Wilson Scores; E. Sosa to 3B
+b7	3-0	1	--3	3,(1-1) 	O	PHI	Johan Rojas	Max Fried	-2%	94%	Groundout: SS-1B (Weak SS)
+b7	3-0	2	--3	6,(2-2) 	O	PHI	Kyle Schwarber	Max Fried	-1%	93%	Groundout: 1B unassisted
+									1 run, 1 hit, 0 errors, 1 LOB. Braves 0, Phillies 3.
+Top of the 8th, Braves Batting, Behind 0-3, Phillies' Jeff Hoffman facing 9-1-2
+									
+Jeff Hoffman replaces Zack Wheeler pitching
+Bryson Stott replaces Weston Wilson (3B) playing 2B batting 7th
+Edmundo Sosa moves from 2B to 3B
+
+t8	0-3	0	---	2,(1-0) 	O	ATL	Gio Urshela	Jeff Hoffman	2%	95%	Lineout: LF (Deep LF-CF)
+t8	0-3	1	---	7,(3-2) 	O	ATL	Whit Merrifield	Jeff Hoffman	1%	97%	Strikeout Swinging
+t8	0-3	2	---	6,(3-2) 		ATL	Jorge Soler	Jeff Hoffman	-1%	96%	Single to CF (Line Drive to Deep CF)
+t8	0-3	2	1--	6,(2-2) 	O	ATL	Marcell Ozuna	Jeff Hoffman	2%	97%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Phillies 3.
+Bottom of the 8th, Phillies Batting, Ahead 3-0, Braves' Jesse Chavez facing 2-3-4
+									
+Jesse Chavez replaces Max Fried pitching
+
+b8	3-0	0	---	3,(0-2) 	O	PHI	Trea Turner	Jesse Chavez	0%	97%	Strikeout Swinging
+b8	3-0	1	---	4,(1-2) 	O	PHI	Bryce Harper	Jesse Chavez	0%	97%	Flyball: RF (Deep CF-RF)
+b8	3-0	2	---	1,(0-0) 	O	PHI	Nick Castellanos	Jesse Chavez	0%	97%	Flyball: RF
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Phillies 3.
+Top of the 9th, Braves Batting, Behind 0-3, Phillies' Carlos Estévez facing 4-5-6
+									
+Carlos Estévez replaces Jeff Hoffman pitching
+
+t9	0-3	0	---	1,(0-0) 	O	ATL	Matt Olson	Carlos Estévez	2%	99%	Flyball: LF
+t9	0-3	1	---	4,(1-2) 	O	ATL	Travis d'Arnaud	Carlos Estévez	1%	100%	Strikeout Swinging
+t9	0-3	2	---	3,(0-2) 		ATL	Michael Harris II	Carlos Estévez	-1%	99%	Single to RF (Ground Ball thru 2B-1B)
+t9	0-3	2	1--	4,(1-2) 	O	ATL	Orlando Arcia	Carlos Estévez	1%	100%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Phillies 3.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Philadelphia Phillies Schedule Atlanta Braves Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Atlanta Braves vs Philadelphia Phillies Box Score: August 31, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/PHI/PHI202408310.shtml 
+ ----- 

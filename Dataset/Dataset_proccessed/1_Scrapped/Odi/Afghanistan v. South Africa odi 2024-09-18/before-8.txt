@@ -1,0 +1,867 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Reloading Depot
+25GT Load Data.
+ 
+Thread starter
+Niles Coyote  
+Start date
+Sep 16, 2024
+Niles Coyote
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2007
+4,778
+1,857
+South West, MI
+Sep 16, 2024
+#1
+For anyone looking at the 25GT, I started using one a couple months back. I got around 500 rounds on it now and a match under its belt (4th place finish at a regional 1 day prs match)
+
+I haven't seen much in the way of load data so I figured I'd share what I've found so far. I keep this intentionally slow but it should give you an idea of where to start.
+
+Barrel is a 28" Benchmark chambered by TS Customs with the alpha .180 reamer and installed by me on a Impact 737.
+
+in the below image I am fire forming new 6mmGT Hornady brass and velocity tends to be about 15-20fps faster after the first firing.
+
+
+
+Bullet being used in the above is a 135 Berger Hybrid jumping around .055", range notes 76 degrees, 67% 29.14 station pressure, little to no wind and time of day was 10 minutes before sunset through 20 minutes after... Limited on time, I had some pretty wicked mirage while shooting H4350 and RL-TS 15.5 coming off my shielded maverick and I know groups were affected but I was really more interested in velocities anyway... by the time I got to the loads with StaBall Match & 6.5 I had so little light left that I stopped for the night.
+
+Garmin Xero used for velocity collection.
+
+Top string is Varget
+31.5: 2577, 2570, 2574 = 2574 SD 3.0/7.4 ES
+32.0: 2599, 2602, 2596 = 2599 2.7/6.5
+32.5: 2625, 2625, 2627 = 2626 1.1/2.4
+33.0: 2657, 2649, 2654 = 2653 7.8/3.2
+
+Middle string H4350, no compression was noted when seating these.
+34.5: 2604, 2595, 2590 = 2596 5.6/13.3
+35.0: 2639, 2642, 2642 = 2641 1.2/2.8
+35.5: 2662, 2664, 2664 = 2663 1.1/2.6
+36.0: 2698, 2685, 2696 = 2693 5.7/13.3
+
+Bottom String Reloder TS-15.5
+31.5: 2555, 2544, 2543 = 2548 5.3/11.6
+32.0: 2572, 2580, 2578 = 2577 3.6/8.6
+32.5: 2599, 2606, 2603 = 2603 2.7/6.6
+33.0: 2621, 2621, 2629 = 2624 3.8/8.5
+
+Different day with 135 Bergers Hybrids.
+Vihtavuori N150 31.75gr 16 shots = 2632 SD 6.2/24 ES
+32.75gr 4 shots = 2692 5.7/14.3
+
+With 134 Hornady ELD seating same jump... .055ish
+Vihtavuori N150 31.75gr 17 shots = 2610 SD 8.9/38.9 ES
+ 
+Last edited: Sep 16, 2024
+ 
+Reactions:
+762 ULTRAMAGA
+Niles Coyote
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2007
+4,778
+1,857
+South West, MI
+Sep 16, 2024
+#2
+a post I made earlier this year...
+
+Some background on how I got here.
+I've been competing with a 6gt since late 2019.
+
+Last fall I had a 25x47L spun up for 2024, got the barrel broke in and shot it at two regional matches this past winter.
+
+Spring rolled around and I realized I had a certificate for a free chamber and fitting job I needed to get turned in quick and I had a spare 6.5 barrel sitting around I had purchased the previous year... long story short I had a 6.5x47L chambered up. I looked at the BC's and bullet weights and figured they would be interesting to compare.
+
+I am now 700 rounds into the 6.5 shooting A-tip 135's and noticed TS Customs had a barrel sale going in July that I couldn't pass up and a 25 GT found it's way into my home, cause... well... I have 1000 unfired Hornady brass in 6mm GT I got from a buddy named Swanny... way back when I made the switch back in 2019.
+
+Opened those 6mm necks up for a nice .003" neck tension and started loading them up.
+
+Barrel is broken in now and I am deciding on what load I want to run for matches now.
+
+What I can say so far.
+
+That 6.5x47L is awesome and the sad thing is I already knew that back when I was using one ten years ago. I can say if I were faced with the decision between that and the 25x47L again I'd go to the 6.5 as there are just more bullet options out there and while the 25 version isn't picky by any means... the 6.5 will shoot nearly every load well. That said, this 25 GT is really growing on me. I just like the size. It reminds me of a scaled up 6BR or a scaled down 6.5x47L and it also seems to shoot really well with just about every load I've tried... especially for unfired factory Hornady brass.
+
+Recoil energy comparison. I set my velocity goal to make the 6.5 and 25 cal match my 109 6GT load at mid range in the wind. I shoot the 109 at around 2830fps, so for the 6.5 and 25 that means mid to low 2600's. I also increased the weight one pound on my 6.5 and 25 cal rifles (21 pounds 1 ounce on each) and recoil energy is now right around half a pound more for each compared to the 6mm. Both give me around a 30% increase in energy on target.
+
+Can I tell a difference in recoil? Between 25 and 6.5, no. Between 6mm and either of the other two, yes. However, with the extra few hundredths of a second those larger bullets are in the air I feel I "see" the same feedback down range when my bullet arrives, so the little bit more recoil hasn't really been a bother other than getting use to it.
+
+Going forward, I don't see myself leaving the 6mm but I will also be keeping a 6.5x47 or 25GT for longer range matches.
+
+search terms: 25 GT 257 .257
+ 
+Last edited: Sep 16, 2024
+Niles Coyote
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2007
+4,778
+1,857
+South West, MI
+Sep 16, 2024
+#3
+
+
+Next up is 134ELD & N150, again this is all new Hornady brass with the necks opened up with a mandrel for .0025-.003 neck tension. Primers are CCI 450's
+
+32.0= 2608, 2612, 2612 adv= 2611.4, SD 1.8 / 3.9 ES
+33.0= 2645, 2670, 2666 = 2660.7, 10.9 / 24.9
+34.0= 2711, 2721, 2792 = 2720.8, 7.3 / 17.8
+35.0= 2771, 2794, 2791 = 2785.9, 10.6 / 23.7
+
+Moving on to StaBALL 6.5 with 135 berger hybrids seated at 1.915' per my SAC comparator which gives me about .055 jump to the lands. New Hornady brass and cci 450 primers
+
+37.0= 2640,2661,2665 =2655.7 10.9/24.8
+38.0= 2670,2678,2675 =2674.5 3.3/7.9
+39.0= 2736,2734,2735 =2735.4 1.0/2.3
+
+Same but with StaBALL Match (hang fires on all, just enough to hear the striker impact separate from the muzzle report)
+
+31.0= 2480,2495,2492 =2489.5 6.3/14.4
+32.0= 2523,2573,2554 =2550.7 20.5/49.8
+33.0= 2609,2649,2629 =2629.3 16.0/39.3
+
+I had hang fires on my 6mm GT with StaBALL Match as well and figured the temps may have played a roll as it was near zero degree that day, today it was 67 degrees.
+
+@762 ULTRAMAGA below is a pic of my brass, the three with the 35 grain charge show a very faint ejector swipe. On once fired brass I have been gaining about 20ish fps on other loads so this could put you into that 2800 zone. keep in mind this is a 28" barrel. I do feel that the 25x47L would be a better fit for 2800+ though.
+
+
+ 
+Last edited: Oct 6, 2024
+762 ULTRAMAGA
+Major Hide Member
+Full Member
+Minuteman
+Dec 29, 2018
+1,051
+3,056
+Idaho
+Sep 18, 2024
+#4
+Cool thread
+I know you're running them slow intentionally, But.... If you ever feel like experimenting in the name of science I'd love to see where you pressure out with 134s using N150 or Varget.
+
+I have a 6GT and it's giving me single digit ES with about every load I've used, absolutely a dream to tune.
+
+I'd like to go with the 25 version for NRL if I can make power factor with it, I know the guaranteed answer is a 25 Creed but I just don't like that case..
+ 
+ 
+Reactions:
+Niles Coyote
+tlsmith22
+Sergeant
+Supporter
+Full Member
+Minuteman
+Nov 9, 2008
+1,470
+833
+53
+ALABAMA
+Sep 19, 2024
+#5
+Sounds like Austin Buschman just won the world championship with a 25GT.
+ 
+ 
+Reactions:
+Niles Coyote
+Niles Coyote
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2007
+4,778
+1,857
+South West, MI
+Sep 19, 2024
+#6
+Some additional 25 data can be found here.
+
+
+https://precisionriflevoice.com/2024/03/29/exploring-the-potential-25-gt-early-load-development/
+
+
+https://precisionriflevoice.com/2024/04/13/precision-load-development-my-final-load-for-the-25-gt/
+ 
+Last edited: Sep 19, 2024
+ 
+Reactions:
+ForecaztDead and jonthomps
+R_A_W
+Miderator
+Full Member
+Minuteman
+Supporter
+Dec 19, 2006
+1,035
+1,057
+Texas
+Sep 19, 2024
+#7
+762 ULTRAMAGA said:
+I'd like to go with the 25 version for NRL if I can make power factor with it, I know the guaranteed answer is a 25 Creed but I just don't like that case..
+Any objections to 25x47? I’ve been kicking that idea around for a month, but for PRS
+
+Should easily get you to 2850 for NRLH
+ 
+762 ULTRAMAGA
+Major Hide Member
+Full Member
+Minuteman
+Dec 29, 2018
+1,051
+3,056
+Idaho
+Sep 19, 2024
+#8
+I've thought about the x47 but nobody has a reamer so I'd be looking at that cost, plus $450 for 300 cases, and another $150 for dies.
+At that point I'd just go 25 Creed since I have match dies and a bunch of Peterson brass..
+
+Currently I'm thinking long and hard on a 6.5 GT, I could make power factor with 140s at 2720, or 144s at 2640. Pretty damn sure it'd make that, barrel life would be awesome too.
+
+Sorry OP for the tangent..
+ 
+S
+SweaterDood
+Private
+Minuteman
+Sep 9, 2020
+25
+29
+Sep 25, 2024
+#9
+762 ULTRAMAGA said:
+I've thought about the x47 but nobody has a reamer so I'd be looking at that cost, plus $450 for 300 cases, and another $150 for dies.
+At that point I'd just go 25 Creed since I have match dies and a bunch of Peterson brass..
+
+Currently I'm thinking long and hard on a 6.5 GT, I could make power factor with 140s at 2720, or 144s at 2640. Pretty damn sure it'd make that, barrel life would be awesome too.
+
+Sorry OP for the tangent..
+Click to expand...
+Since you are referencing power factor, I assume your use case is for NRLH:
+
+I looked very hard at 25GT and 25x47 for my next NRLH barrel. I have a 25x47 on my open class PRS rig, and with the 28” tube it barely makes PF with a 135 Berger. After considering weight, you won’t want to run a barrel longer than 26” in NRLH, and I don’t think the carbon options are even offered longer than that. Unless you hate reusing brass the GT case will not get you to PF no matter the bullet option (257-6.5 dia.). The smallest cartridges that will reliably (not pushing pressure too hard) make PF are 6.5x47 or 25CM.
+
+OP - Thanks for the data. It is lacking on this chambering. I do feel that the 25GT is the scaled up Dasher, and expect to see it gain some market share now that the JTAC Crew has been.
+ 
+ 
+Reactions:
+762 ULTRAMAGA and Niles Coyote
+Niles Coyote
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2007
+4,778
+1,857
+South West, MI
+Oct 5, 2024
+#10
+updates added
+ 
+ncyotecaller
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+May 10, 2009
+442
+265
+48
+McLeansville, NC
+Oct 6, 2024
+#11
+My CRB loves 135gr Berger’s and Varget. First picture is a 6rd group and second one is a 10rd group 
+ 
+ 
+Reactions:
+giumau1, sierracharlie338 and Niles Coyote
+Niles Coyote
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2007
+4,778
+1,857
+South West, MI
+Oct 6, 2024
+#12
+ncyotecaller said:
+My CRB loves 135gr Berger’s and Varget. First picture is a 6rd group and second one is a 10rd group View attachment 8518446View attachment 8518447View attachment 8518448
+Add your data if you don't mind.
+ 
+ncyotecaller
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+May 10, 2009
+442
+265
+48
+McLeansville, NC
+Oct 6, 2024
+#13
+Niles Coyote said:
+Add your data if you don't mind.
+34.5gr Varget 25thou jump 2745fps
+ 
+sierracharlie338
+Sergeant
+Full Member
+Minuteman
+ 
+Mar 12, 2013
+1,371
+600
+Republic of Texas (Houston)
+Oct 6, 2024
+#14
+ncyotecaller said:
+My CRB loves 135gr Berger’s and Varget. First picture is a 6rd group and second one is a 10rd group View attachment 8518448
+Nice shootin. That is a beefy barrel!
+ 
+ncyotecaller
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+May 10, 2009
+442
+265
+48
+McLeansville, NC
+Oct 6, 2024
+#15
+sierracharlie338 said:
+Nice shootin. That is a beefy barrel!
+She’s hefty 1.250” 27”
+ 
+ 
+Reactions:
+sierracharlie338
+sierracharlie338
+Sergeant
+Full Member
+Minuteman
+ 
+Mar 12, 2013
+1,371
+600
+Republic of Texas (Houston)
+Oct 6, 2024
+#16
+ncyotecaller said:
+She’s hefty 1.250” 27”
+Truck axle!!
+ 
+ncyotecaller
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+May 10, 2009
+442
+265
+48
+McLeansville, NC
+Oct 6, 2024
+#17
+sierracharlie338 said:
+Truck axle!!
+Truck axle life for me 
+ 
+ 
+Reactions:
+sierracharlie338
+ncyotecaller
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+May 10, 2009
+442
+265
+48
+McLeansville, NC
+Oct 6, 2024
+#18
+ncyotecaller said:
+Truck axle life for me 
+ 
+sierracharlie338
+Sergeant
+Full Member
+Minuteman
+ 
+Mar 12, 2013
+1,371
+600
+Republic of Texas (Houston)
+Oct 6, 2024
+#19
+ncyotecaller said:
+View attachment 8518511
+What do those set up weigh?
+ 
+ncyotecaller
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+May 10, 2009
+442
+265
+48
+McLeansville, NC
+Oct 6, 2024
+#20
+sierracharlie338 said:
+What do those set up weigh?
+26ish, haven’t weighed them in awhile
+ 
+ 
+Reactions:
+sierracharlie338
+sierracharlie338
+Sergeant
+Full Member
+Minuteman
+ 
+Mar 12, 2013
+1,371
+600
+Republic of Texas (Houston)
+Oct 6, 2024
+#21
+ncyotecaller said:
+26ish, haven’t weighed them in awhile
+Bet the recoil is like a pellet gun 
+ 
+Mahaffey82
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Aug 11, 2022
+109
+46
+Phoenix
+Oct 16, 2024
+#22
+Niles Coyote said:
+For anyone looking at the 25GT, I started using one a couple months back. I got around 500 rounds on it now and a match under its belt (4th place finish at a regional 1 day prs match)
+
+I haven't seen much in the way of load data so I figured I'd share what I've found so far. I keep this intentionally slow but it should give you an idea of where to start.
+
+Barrel is a 28" Benchmark chambered by TS Customs with the alpha .180 reamer and installed by me on a Impact 737.
+
+in the below image I am fire forming new 6mmGT Hornady brass and velocity tends to be about 15-20fps faster after the first firing.
+
+View attachment 8502846
+
+Bullet being used in the above is a 135 Berger Hybrid jumping around .055", range notes 76 degrees, 67% 29.14 station pressure, little to no wind and time of day was 10 minutes before sunset through 20 minutes after... Limited on time, I had some pretty wicked mirage while shooting H4350 and RL-TS 15.5 coming off my shielded maverick and I know groups were affected but I was really more interested in velocities anyway... by the time I got to the loads with StaBall Match & 6.5 I had so little light left that I stopped for the night.
+
+Garmin Xero used for velocity collection.
+
+Top string is Varget
+31.5: 2577, 2570, 2574 = 2574 SD 3.0/7.4 ES
+32.0: 2599, 2602, 2596 = 2599 2.7/6.5
+32.5: 2625, 2625, 2627 = 2626 1.1/2.4
+33.0: 2657, 2649, 2654 = 2653 7.8/3.2
+
+Middle string H4350, no compression was noted when seating these.
+34.5: 2604, 2595, 2590 = 2596 5.6/13.3
+35.0: 2639, 2642, 2642 = 2641 1.2/2.8
+35.5: 2662, 2664, 2664 = 2663 1.1/2.6
+36.0: 2698, 2685, 2696 = 2693 5.7/13.3
+
+Bottom String Reloder TS-15.5
+31.5: 2555, 2544, 2543 = 2548 5.3/11.6
+32.0: 2572, 2580, 2578 = 2577 3.6/8.6
+32.5: 2599, 2606, 2603 = 2603 2.7/6.6
+33.0: 2621, 2621, 2629 = 2624 3.8/8.5
+
+Different day with 135 Bergers Hybrids.
+Vihtavuori N150 31.75gr 16 shots = 2632 SD 6.2/24 ES
+32.75gr 4 shots = 2692 5.7/14.3
+
+With 134 Hornady ELD seating same jump... .055ish
+Vihtavuori N150 31.75gr 17 shots = 2610 SD 8.9/38.9 ES
+Click to expand...
+Varget is just so tough to beat.
+
+I appreciate that you tried so many different combos. Saves us a lot of time & $ experimenting with powders and projectiles. I'll stay tuned to see your data once you get some larger sample sizes as you dial things in.
+ 
+ 
+Reactions:
+Niles Coyote
+Niles Coyote
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2007
+4,778
+1,857
+South West, MI
+Oct 17, 2024
+#23
+New Alpha brass is in. Used N150, 135hy at 1.911 and CCI 450'S
+
+31.5 = 2609, 2618, 2638, 2613, 2621, 2633, 2712= 2620 sd10/30es
+
+31.75= 2599?, 2635, 2651, 2636, 2625 = 2629 17/53... without the odd ball = 2637 9/26
+
+32.0 = 2656, 2648, 2658, 2644, 2646 = 2651 5/13
+ 
+ntrinsik
+Private
+Full Member
+Minuteman
+Jul 19, 2017
+284
+148
+WI
+Oct 17, 2024
+#24
+I’m at 36.5 H4350. 135s at 2700. 28” Bartlein. 600 yard group.
+
+
+ 
+ 
+Reactions:
+Niles Coyote
+Niles Coyote
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2007
+4,778
+1,857
+South West, MI
+Oct 19, 2024
+#25
+400y, N150 32.0 new Alpha vs once fired Hornady brass. 135 hybrid on all, 10 shots each.
+ALPHA 2657fps 8.4/22.6
+
+Hornady 2642fps 13.2/44.7
+
+ 
+762 ULTRAMAGA
+Major Hide Member
+Full Member
+Minuteman
+Dec 29, 2018
+1,051
+3,056
+Idaho
+Oct 19, 2024
+#26
+https://www.hornady.com/bullets/rifle/25-cal-.257-138-gr-a-tip-match#!/
+ 
+ 
+Reactions:
+sierracharlie338 and Niles Coyote
+Mahaffey82
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Aug 11, 2022
+109
+46
+Phoenix
+Nov 13, 2024
+#27
+Any guys having trouble getting things to line up at distance with the 134 ELD-Ms?
+I have a couple buddies (both sound shooters) who spent the better part of an afternoon tweaking MV and BC but couldn't come up with a firing solution that was good for all distances between 250 & 1,000. They tried multiple different ballistic calculations (Kestrel, Hornady, GeoBalistics). Some were better than others, but none were perfect.
+My best guess (hope) is that it's too new of a projectile for AB to have a good CC.
+ 
+ncyotecaller
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+May 10, 2009
+442
+265
+48
+McLeansville, NC
+Nov 13, 2024
+#28
+Mahaffey82 said:
+Any guys having trouble getting things to line up at distance with the 134 ELD-Ms?
+I have a couple buddies (both sound shooters) who spent the better part of an afternoon tweaking MV and BC but couldn't come up with a firing solution that was good for all distances between 250 & 1,000. They tried multiple different ballistic calculations (Kestrel, Hornady, GeoBalistics). Some were better than others, but none were perfect.
+My best guess (hope) is that it's too new of a projectile for AB to have a good CC.
+Click to expand...
+If you can get your hands on them try the Sierra’s as I feel they will be the best option till the new run of 135 Bergers hit the shelves. My 135’s have lined up perfectly out to 1260yds.
+ 
+Niles Coyote
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2007
+4,778
+1,857
+South West, MI
+Nov 13, 2024
+#29
+Mahaffey82 said:
+Any guys having trouble getting things to line up at distance with the 134 ELD-Ms?
+I have a couple buddies (both sound shooters) who spent the better part of an afternoon tweaking MV and BC but couldn't come up with a firing solution that was good for all distances between 250 & 1,000. They tried multiple different ballistic calculations (Kestrel, Hornady, GeoBalistics). Some were better than others, but none were perfect.
+My best guess (hope) is that it's too new of a projectile for AB to have a good CC.
+Click to expand...
+
+I have been using Hornady 4DOF and they have worked out to 700 which is a far as I have used the ELD, the Berger 135's have tracked will in both 4DOF and AB's custom drag model to 1050 yards.
+ 
+L
+Lightning8
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2019
+1,732
+3,085
+Nov 13, 2024
+#30
+Mahaffey82 said:
+Any guys having trouble getting things to line up at distance with the 134 ELD-Ms?
+I have a couple buddies (both sound shooters) who spent the better part of an afternoon tweaking MV and BC but couldn't come up with a firing solution that was good for all distances between 250 & 1,000. They tried multiple different ballistic calculations (Kestrel, Hornady, GeoBalistics). Some were better than others, but none were perfect.
+My best guess (hope) is that it's too new of a projectile for AB to have a good CC.
+Click to expand...
+Try G7 .335 for 700+. I think my Kestrel had .315. All my impacts 700+ were high on a troop line. 25x47, 134 ELDMs, 2665. I watched other new 25 competitors trying out 133 and 135 too and they were hitting high on the same troop line.
+ 
+ 
+Reactions:
+Mahaffey82
+Mahaffey82
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Aug 11, 2022
+109
+46
+Phoenix
+Nov 13, 2024
+#31
+Lightning8 said:
+Try G7 .335 for 700+. I think my Kestrel had .315. All my impacts 700+ were high on a troop line. 25x47, 134 ELDMs, 2665. I watched other new 25 competitors trying out 133 and 135 too and they were hitting high on the same troop line.
+Does that mean that you run two different profiles (two different G7s) for this projectile? 0.315 for nearer range and 0.335 for distance?
+ 
+L
+Lightning8
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2019
+1,732
+3,085
+Nov 13, 2024
+#32
+Mahaffey82 said:
+Does that mean that you run two different profiles (two different G7s) for this projectile? 0.315 for nearer range and 0.335 for distance?
+No, I run .335 G7 for 134 ELDM all the time. I did not tune for speed - I used my Garmin data of 2665. That takes care of 0-600. The .335 BC makes the difference at 700 yards plus.
+ 
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Nov 14, 2024
+#33
+I just finished doing mine. After testing H4350, N550, N555, N160, RL16 and RL15.5, I decided to go with RL15.5. I also tested the ELDm and SMK. The 131 SMK shot better, more consistent. Group is .155" velocity is 2759. Load is 34.2 with 131 at .035 off lands. 4 shots at 100 yards.
+
+
+ 
+ 
+Reactions:
+Raufoss and Niles Coyote
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Nov 22, 2024
+#34
+@Aviatorfreak page 4 of reloading.
+ 
+R
+Raufoss
+Sergeant
+Full Member
+Minuteman
+Nov 23, 2010
+556
+248
+38
+Missouri
+Dec 2, 2024
+#35
+John Glidewell said:
+I just finished doing mine. After testing H4350, N550, N555, N160, RL16 and RL15.5, I decided to go with RL15.5. I also tested the ELDm and SMK. The 131 SMK shot better, more consistent. Group is .155" velocity is 2759. Load is 34.2 with 131 at .035 off lands. 4 shots at 100 yards.
+
+View attachment 8546423View attachment 8546424
+Would you be able to share your data with N555?
+ 
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Dec 2, 2024
+#36
+You can run a full case without pressure. I did not see the results I was looking for, which was disappointing as I run 37.5 in my 22 and 6gts with great results. It starts to compress around 38. All the other powders produced better results in the 25gt. I may try it again now that I have some rounds down the tube. But you can run 36 to 38 and see if it shoots for you.
+ 
+ 
+Reactions:
+Raufoss
+R
+Raufoss
+Sergeant
+Full Member
+Minuteman
+Nov 23, 2010
+556
+248
+38
+Missouri
+Dec 2, 2024
+#37
+Did you keep any speed data and groups?
+
+I was going to explore from 36 to 39gr.
+ 
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Dec 2, 2024
+#38
+37.5 to 38.5 was 2704 to 2764, best group was 38.5. I did not keep data. Have a shop full of guns to do load work on, so I don't keep that stuff. Data is kept in quick load.
+ 
+ 
+Reactions:
+Raufoss
+806guns
+Supporter
+Supporter
+Full Member
+Minuteman
+Nov 17, 2020
+792
+311
+Texas
+Dec 24, 2024
+#39
+24" 10 twist 25 GT Remage from Crownridgebarrelworks
+Varmint/coyote rig i had a wild hair on. Will try up to 110gr eldx soon
+
+ 
+ 
+Reactions:
+Niles Coyote and John Glidewell
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Dec 24, 2024
+#40
+Anthony does great work. Looks like fun.
+ 
+You must log in or register to reply here.
+Similar threads
+T
+	
+300 PRC
+TripleBull Nov 27, 2019 Reloading Depot
+145
+Apr 9, 2024
+	
+Range Report Preliminary data for the 6.5DD
+GasLight Sep 3, 2010 Ballistic Calculators & Field Results
+3
+Sep 3, 2010
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Reloading Depot
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/25gt-load-data.7231388/ 
+ ----- 

@@ -1,0 +1,664 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Night Vision Which budget night vision optic?
+ 
+Thread starter
+AK4900PA  
+Start date
+Nov 23, 2023
+A
+AK4900PA
+Sergeant
+Full Member
+Minuteman
+May 25, 2013
+505
+361
+Nov 23, 2023
+#1
+Looking to pick up a budget night vision scope and narrowed it down to...
+
+AGM Neith DS32-4MP 2.5-20x50mm
+Sightmark Wraith 4K Mini 2-16x32mm
+
+Primary use will be for hog hunting on a 12.5" AR-10 in .308 at <150 yards.
+
+Would love to hear opinions from anyone who's had a chance to handle either of these units.
+ 
+ 
+Reactions:
+Jackal66
+L
+Lowdown3
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jun 17, 2020
+592
+422
+Nov 24, 2023
+#2
+I would look at a thermal weapon sight before either of those.
+
+Bering optics line is pretty budget friendly.
+
+Iray has a discount of $1000. now on the RH25 unit.
+
+Tons of options now.
+ 
+ 
+Reactions:
+nikonNUT
+B y r o n
+Private
+Full Member
+Minuteman
+Nov 8, 2004
+1,026
+675
+Western Kentucky
+Nov 26, 2023
+#3
+Being budget minded I'd take a look at the Arken Zulus. However, I would probably wait for them to release the version that has the better IR illuminator and the laser range finder. I've been happy with my Pard NV008S LRF but this updated version is spec'ing out much better.
+ 
+db2000
+Supporter
+Supporter
+Full Member
+Minuteman
+Mar 27, 2020
+5,025
+4,579
+Nov 26, 2023
+#4
+Second on getting a thermal. I have a Super Yoter C and love it. RH25 would be excellent as well.
+ 
+ 
+Reactions:
+nikonNUT and Evolution 9
+M
+moosemeat
+30Hate club founding member
+Full Member
+Minuteman
+Jun 21, 2009
+1,003
+720
+Barren plains of Kansas
+Nov 27, 2023
+#5
+Looking at $1000 NV.
+SH recommends $3500-5000 thermals.
+
+He's hunting hogs. Not engaging the talis.
+
+Either will work fine. Upgrade the illuminator. Snuperhogg makes some good ones.
+ 
+Last edited: Nov 27, 2023
+ 
+Reactions:
+FuhQ, Jackal66, mikefraz and 1 other person
+R
+redneckbmxer24
+Four Star General
+Full Member
+Minuteman
+Supporter
+ 
+ 
+Jan 15, 2005
+12,531
+9,765
+Gulf Coast, FL
+Nov 27, 2023
+#6
+Take the money to a strip club, you’ll get far more enjoyment out of it than that cheap crap.
+ 
+ 
+Reactions:
+WaltHer, Steel+Killer and WhereNow&How
+shoobe01
+Private
+Supporter
+Full Member
+Minuteman
+Feb 15, 2005
+905
+635
+Mission, KS
+www.donttouchme.com
+Nov 27, 2023
+#7
+For hunting, I'll also say you want thermal instead of image intensifier (night vision). Practice a lot before shooting, as ID can be hard, but it is much much much easier to detect animals with thermal. If you stick with night vision, budget to include the illuminator, which will be a couple hundred dollars on top of the scope (a few come with a good enough one, though).
+
+For your range, under 200 yds you can live with lower resolution. I had 160 resolution (thermals are always in vertical lines of resolution, 640 is the gold standard now for things not mounted to helicopters etc, mostly it's factor of 2 down, 320, 160...). Do not let yourself get confused by display resolution specs; thermals are electronics, so there's a sensor and a display (a screen). The display will always be higher resolution by far than the sensor.
+
+And then, while I would rather suggest better makers, or a clipon system so you can have a day gun you turn to night, you CAN sneak into thermal for under $1000 with things like the ATN ThOR LT in 160. I don't know them all, so start your research again or start with suggestions people here are giving and see if the budget can be stretched or there's a discount (lower res) version of what is suggested instead.
+ 
+Big Phish
+Gunny Sergeant
+Full Member
+Minuteman
+Aug 8, 2023
+676
+748
+Shitholeofitall, Ohio
+Dec 1, 2023
+#8
+I have been using AGM Micro Python 35 for 4 years now and its been great lil Thermal unit although its not quite as good as the newer ones. I use for daytime woods hunting groundhog and chipmunks when they are stationary and hard to find in the brush. Go thermal and not look back.
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,263
+10,730
+Your Wife's Pussy
+Dec 1, 2023
+#9
+I just ordered an AGM Rattler TS50-640 thermal for Coyote hunting, but the more videos I watch of the Arken (HITTAC) Zulus 5-20x NV scope, the more I’m interested in buying one for a cheap knock-around day/night scope on my 16” .300 BLK AR just to see how good they are.
+
+If it was an Arken-only product, I wouldn’t even consider it, based on my past experiences with new Arken product releases (I’m 0-2), but being that Arken bought out HITTAC, which was an already established NV optics brand with a good reputation, and Arken is keeping the entire HITTAC company intact, and is simply putting their logos on it, I’m interested. I will probably order one, since Arken has a satisfaction guarantee, and does take their customer service seriously. So, I guess it’s hard to lose in that scenario? 
+ 
+W
+WhereNow&How
+Major Hide Member
+Full Member
+Minuteman
+Nov 10, 2019
+2,085
+2,497
+MS
+Dec 1, 2023
+#10
+redneckbmxer24 said:
+Take the money to a strip club, you’ll get far more enjoyment out of it than that cheap crap.
+Plus she will likely give you something that will LAST FOREVER. 
+ 
+Last edited: Dec 31, 2023
+ 
+Reactions:
+mikefraz, JS8588, CaptNkllm and 4 others
+L
+Lowdown3
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jun 17, 2020
+592
+422
+Dec 1, 2023
+#11
+LMAO!!
+ 
+ 
+Reactions:
+WhereNow&How
+W
+warnera1102
+Sergeant of the Hide
+Full Member
+Minuteman
+Feb 25, 2020
+363
+194
+Dec 1, 2023
+#12
+I use a the Sightmark Wraith in 1080, the biggest downfall is the IR so I upgraded to a coyote cannon IR.
+
+Here is my option after a lot of dead coyotes and hogs with a few years behind the Sightmark:
+-Under 200 yards the 4x gets aggravating as once you take the first shot and everything starts to scatter.. its hard to keep up with everything going on due to the lack of FOV at 4x
+-The bigger IR light makes my setup awkward and heavy but it stays in the tripod so its not as bad.
+-NV has its perks for identification but nothing hides from a thermal, luckily my hunting partner runs a thermal (AGM Varmint) so he spots everything.
+- Just of distance is terrible hunting at night, get use to understanding the distances of land marks to your location.
+ 
+ 
+Reactions:
+DIBBS
+Big Phish
+Gunny Sergeant
+Full Member
+Minuteman
+Aug 8, 2023
+676
+748
+Shitholeofitall, Ohio
+Dec 1, 2023
+#13
+FuhQ said:
+I just ordered an AGM Rattler TS50-640 thermal for Coyote hunting, but the more videos I watch of the Arken (HITTAC) Zulus 5-20x NV scope, the more I’m interested in buying one for a cheap knock-around day/night scope on my 16” .300 BLK AR just to see how good they are.
+
+If it was an Arken-only product, I wouldn’t even consider it, based on my past experiences with new Arken product releases (I’m 0-2), but being that Arken bought out HITTAC, which was an already established NV optics brand with a good reputation, and Arken is keeping the entire HITTAC company intact, and is simply putting their logos on it, I’m interested. I will probably order one, since Arken has a satisfaction guarantee, and does take their customer service seriously. So, I guess it’s hard to lose in that scenario? 
+Click to expand...
+Did you get the 25% discount? I had point accumulated from previous purchases and they kinda fucked me out of it. Zulus does look interesting to play with but not sure I will purchase one now though.
+ 
+B y r o n
+Private
+Full Member
+Minuteman
+Nov 8, 2004
+1,026
+675
+Western Kentucky
+Dec 1, 2023
+#14
+Well, I got a response back from Arken. Seems they don't have any timeframe for when the laser range finder version or enhanced IR will be available. So it looks like I'll stick with my Pard NV008S LRF for a while longer. The upgraded spec's of the Zulus and features will keep me watching.
+ 
+Big Phish
+Gunny Sergeant
+Full Member
+Minuteman
+Aug 8, 2023
+676
+748
+Shitholeofitall, Ohio
+Dec 1, 2023
+#15
+WhereNow&How said:
+Plus she will likely give you something the will LAST FOREVER. 
+Or a very costly trip to emergency room for some nasty VD diseases especially after your wife finds out and gets a D.I.V.O.R.C.E. lawyer.
+ 
+ 
+Reactions:
+Charlie112 and WhereNow&How
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,263
+10,730
+Your Wife's Pussy
+Dec 1, 2023
+#16
+Big Phish said:
+Did you get the 25% discount? I had point accumulated from previous purchases and they kinda fucked me out of it. Zulus does look interesting to play with but not sure I will purchase one now though.
+Fuck it… I decided to order one to try… I’ve wasted $500 on worse. And if it’s not up to snuff, then I’ll just send it back and get a full refund. 
+
+Yeah, it was $163 savings with the 25% off coupon code. My points were only like $64.00, I couldn’t use both at the same time, so I used to coupon for the extra $100 in savings.
+ 
+ 
+Reactions:
+Big Phish
+bulldurham
+Private
+Full Member
+Minuteman
+Mar 19, 2005
+39
+3
+ky
+Dec 13, 2023
+#17
+Have you received the zulus yet I'm interested in one myself
+ 
+R
+Redlion
+Gunny Sergeant
+Full Member
+Minuteman
+Aug 21, 2022
+836
+1,814
+Midwest
+Dec 13, 2023
+#18
+B y r o n said:
+Well, I got a response back from Arken. Seems they don't have any timeframe for when the laser range finder version or enhanced IR will be available. So it looks like I'll stick with my Pard NV008S LRF for a while longer. The upgraded spec's of the Zulus and features will keep me watching.
+
+They answered you. LRF version is now available.
+
+ZULUS HD 5-20R Day/Night Digital With Laser Rangefinder And Ballistic Calculator
+ 
+bulldurham
+Private
+Full Member
+Minuteman
+Mar 19, 2005
+39
+3
+ky
+Dec 14, 2023
+#19
+Fuck it… I decided to order one to try… I’ve wasted $500 on worse. And if it’s not up to snuff, then I’ll just send it back and get a full refund. 
+
+Yeah, it was $163 savings with the 25% off coupon code. My points were only like $64.00, I couldn’t use both at the same time, so I used to coupon for the extra $100 in savings.
+
+Fuhq posted
+
+Just asking if they had used it yet . ?????
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,263
+10,730
+Your Wife's Pussy
+Dec 14, 2023
+#20
+bulldurham said:
+Fuck it… I decided to order one to try… I’ve wasted $500 on worse. And if it’s not up to snuff, then I’ll just send it back and get a full refund. 
+
+Yeah, it was $163 savings with the 25% off coupon code. My points were only like $64.00, I couldn’t use both at the same time, so I used to coupon for the extra $100 in savings.
+
+Fuhq posted
+
+Just asking if they had used it yet . ?????
+Click to expand...
+I canceled the Arken order for several reasons, and bought the new AGM Neith DS32-4MP instead. Very happy with my purchase. Higher resolution than the Arken, and made in the USA. 
+
+They’re sold out at Midway USA, which is where I got mine, but B&H Photo has them in stock for the same price.
+
+
+https://www.bhphotovideo.com/c/product/1750987-REG/agm_814511225014ns31_neith_ds32_4mp_digital_day.html
+
+
+
+For reference, the pontoon boat is about 200 yards away, the house is about 100 yards away.
+
+
+ 
+ 
+Reactions:
+mikefraz and Big Phish
+C
+Cat pitch
+Banhammer
+Banned !
+Minuteman
+Apr 16, 2021
+192
+736
+NC
+Dec 14, 2023
+#21
+I recently bought the Pard NV007 and for the same reasons you are inquiring about. I have it on an Athlon Helos and Impact as well. It is surprisingly clear and should work well for seeing and filming the coyotes at night around here. I went with the removable night vision because I did not want a scope mounted to the Impact that was dedicated to night vision or needed batteries to operate during the daytime. For the money spent, it has all the benefits I need and is a good product with less "issues" that some of the other models and types have.
+ 
+roostercogburn98
+Fudd gun collector extraordinaire
+Full Member
+Minuteman
+Supporter
+Nov 3, 2010
+9,932
+21,103
+Dec 14, 2023
+#22
+FuhQ said:
+I canceled the Arken order for several reasons, and bought the new AGM Neith DS32-4MP instead. Very happy with my purchase. Higher resolution than the Arken, and made in the USA. 
+
+They’re sold out at Midway USA, which is where I got mine, but B&H Photo has them in stock for the same price.
+
+
+https://www.bhphotovideo.com/c/product/1750987-REG/agm_814511225014ns31_neith_ds32_4mp_digital_day.html
+
+View attachment 8296328View attachment 8296326View attachment 8296327
+
+For reference, the pontoon boat is about 200 yards away, the house is about 100 yards away.
+
+View attachment 8296329View attachment 8296330
+Click to expand...
+What kind of life do you expect from that thing on a 556 gun(I’m ASSuming)?
+
+I’ve got a 10.5 inch 22 mag I hope to make a critter gitter alongside my 5.7 bolt gun. I’ve got a C35 and pvs 14s with an IR, but something cheap enough that might last a while would be fun as an extra
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,263
+10,730
+Your Wife's Pussy
+Dec 14, 2023
+#23
+roostercogburn98 said:
+What kind of life do you expect from that thing on a 556 gun(I’m ASSuming)?
+
+I’ve got a 10.5 inch 22 mag I hope to make a critter gitter alongside my 5.7 bolt gun. I’ve got a C35 and pvs 14s with an IR, but something cheap enough that might last a while would be fun as an extra
+That’s a 16” .300 BLK shooting 220 subs. So, should hold up fine. I think it’s rated to handle stuff like .308 Win, maybe larger.  Call them and find out for sure, but 5.56 shouldn’t be an issue at all.
+ 
+slkzic
+Private
+Supporter
+Full Member
+Minuteman
+Oct 27, 2010
+1,144
+84
+45
+Maine
+Dec 14, 2023
+#24
+Eddyshot said:
+I recently bought the Pard NV007 and for the same reasons you are inquiring about. I have it on an Athlon Helos and Impact as well. It is surprisingly clear and should work well for seeing and filming the coyotes at night around here. I went with the removable night vision because I did not want a scope mounted to the Impact that was dedicated to night vision or needed batteries to operate during the daytime. For the money spent, it has all the benefits I need and is a good product with less "issues" that some of the other models and types have.
+Click to expand...
+I’m thinking about giving their new front mounted FD1 a try.
+ 
+Big Phish
+Gunny Sergeant
+Full Member
+Minuteman
+Aug 8, 2023
+676
+748
+Shitholeofitall, Ohio
+Dec 19, 2023
+#25
+My AGM Thermal unit has held up for I think 4 years now and I have dropped it quite a few time with the rifle also and have approx 1000+ hrs on itand it still killing unwanted critters. AGM is rock solid in my book.
+ 
+ 
+Reactions:
+WhereNow&How and FuhQ
+bulldurham
+Private
+Full Member
+Minuteman
+Mar 19, 2005
+39
+3
+ky
+Dec 23, 2023
+#26
+Nice , been looking at the agm rattler. 25-384 guys here have them and love them.
+ 
+ 
+Reactions:
+Big Phish and FuhQ
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,263
+10,730
+Your Wife's Pussy
+Dec 23, 2023
+#27
+New video is up with the AGM Neith NV scope shooting a life-sized steel deer @ 200 yards with the 16" .300 BLK and 220 subs.
+
+
+ 
+A
+AK4900PA
+Sergeant
+Full Member
+Minuteman
+May 25, 2013
+505
+361
+Jan 10, 2024
+#28
+I ended up buying the AGM Neith. Currently on my 22lr upper and I'm loving it. For the money I'm very happy with my purchase. I was going to move it to my .308 AR-10, but I'm concerned the recoil may effect the long term reliability so I'm probably going to end up putting it on my 300blk upper.
+
+If money was no object I would've gone thermal, but for my intended purpose and current budget it's worked out great.
+ 
+ 
+Reactions:
+FuhQ
+A
+AK4900PA
+Sergeant
+Full Member
+Minuteman
+May 25, 2013
+505
+361
+Jan 10, 2024
+#29
+ 
+ 
+Reactions:
+FuhQ
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,263
+10,730
+Your Wife's Pussy
+Jan 10, 2024
+#30
+AK4900PA said:
+I ended up buying the AGM Neith. Currently on my 22lr upper and I'm loving it. For the money I'm very happy with my purchase. I was going to move it to my .308 AR-10, but I'm concerned the recoil may effect the long term reliability so I'm probably going to end up putting it on my 300blk upper.
+
+If money was no object I would've gone thermal, but for my intended purpose and current budget it's worked out great.
+Click to expand...
+It should hold up just fine on the .308... But if you're concerned, contact AGM, and talk to them about it.
+ 
+A
+AK4900PA
+Sergeant
+Full Member
+Minuteman
+May 25, 2013
+505
+361
+Jan 10, 2024
+#31
+FuhQ said:
+It should hold up just fine on the .308... But if you're concerned, contact AGM, and talk to them about it.
+Not really concerned. It's rated to .308 so I'm sure it'd be fine. I just figure it's likely to last longer on the 300blk.
+ 
+ 
+Reactions:
+FuhQ
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,263
+10,730
+Your Wife's Pussy
+Jan 10, 2024
+#32
+AK4900PA said:
+Not really concerned. It's rated to .308 so I'm sure it'd be fine. I just figure it's likely to last longer on the 300blk.
+What's your thoughts on the Neith so far?
+ 
+A
+AK4900PA
+Sergeant
+Full Member
+Minuteman
+May 25, 2013
+505
+361
+Jan 11, 2024
+#33
+So far, I'm very impressed. It's my first digital optic so it took a minute to get used to not having traditional windage/elevation/parallax. The controls are fairly intuitive though.
+
+All I've used it for at this point is the range and killing some racoons. I definitely feel like it was worth the money.
+ 
+ 
+Reactions:
+FuhQ
+You must log in or register to reply here.
+Similar threads
+	
+Night Vision *** New *** AGM Neith DS32-4MP Day/Night Vision Scope - Review
+FuhQ Dec 10, 2023 Observation & Sighting Devices
+65
+Jun 24, 2024
+H
+	
+Night Vision 1000.00 night vision
+hino895 Aug 25, 2021 Observation & Sighting Devices
+9
+Aug 27, 2021
+	
+Rifle Scopes Winners Chosen - Next Drawing is March 2nd for Sightmark Sport Optics
+gr8fuldoug Feb 3, 2022 Observation & Sighting Devices
+0
+Feb 3, 2022
+	
+Maggie’s Winners Chosen - Next Drawing is March 2nd for Sightmark Sport Optics
+gr8fuldoug Feb 3, 2022 The Bear Pit
+0
+Feb 3, 2022
+	
+Optics Sightmark Optics
+gr8fuldoug Jun 22, 2021 Buy - Sell - Trade
+0
+Jun 22, 2021
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/which-budget-night-vision-optic.7196664/ 
+ ----- 

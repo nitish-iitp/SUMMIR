@@ -1,0 +1,16 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "Philadelphia Phillies overcame the New York Mets in a thrilling game on 2023-09-22.",
+            "score": 9
+        },
+        {
+            "sentence": "The game started slow but ended with a dramatic home run in the ninth inning.",
+            "score": 8
+        },
+        {
+            "sentence": "Fans were excited to see two powerful pitchers duel under the bright lights.",
+            "score": 7
+        }
+    ]
+}

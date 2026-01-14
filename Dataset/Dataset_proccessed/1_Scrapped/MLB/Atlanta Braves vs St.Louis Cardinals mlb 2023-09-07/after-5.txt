@@ -1,0 +1,254 @@
+NHL
+MLB
+NBA
+NFL
+More
+Watch
+Listen
+LIVE
+MLB
+Signing Tracker
+Trade Tracker
+Scoreboard
+Standings
+BetMGM MLB Odds
+Stats
+Players
+Teams
+Video
+What subtle change in attack plan means for Jordan Hicks, Blue Jays
+Nick Ashbourne
+@NickAshbourne
+September 07, 2023 - 10:14am
+Toronto Blue Jays relief pitcher Jordan Hicks (12) works against the Baltimore Orioles during ninth inning American League MLB baseball action in Toronto. (Nathan Denette/THE CANADIAN PRESS)
+23 comments
+
+When the Toronto Blue Jays traded for Jordan Hicks on July 30, they weren’t acquiring a fixer-upper.
+
+Hicks is one of baseball’s top fireballers — and he was a premium rental reliever at the time of the deal after posting a 3.67 ERA in 41.2 innings with the St. Loui Cardinals while producing an impressive 12.74 K/9. 
+
+It would’ve been reasonable for the Blue Jays to tell the right-hander to simply keep doing what he was doing when he arrived in Toronto. That doesn’t seem to be the case, though, as it’s clear Hicks has changed his approach in his 15 games with the Blue Jays.
+
+Teams often have a vision for how to optimize a pitcher’s performance when they acquire him from outside the organization — and the Blue Jays are no exception. That can mean a mechanical tweak or a pitch mix alteration, but in the case of Hicks we seem to be witnessing a change in philosophy.
+
+Since joining the Blue Jays, the veteran reliever has absolutely pounded the strike zone, particularly on the first pitch:
+
+Split
+
+	
+
+Zone%
+
+	
+
+First-pitch zone%
+
+	
+
+First-pitch strike%
+
+
+
+
+With Cardinals
+
+	
+
+42.0
+
+	
+
+51.3
+
+	
+
+57.7
+
+
+
+
+With Blue Jays
+
+	
+
+47.3
+
+	
+
+71.1
+
+	
+
+73.1
+
+That sounds like an unambiguously good strategy, particularly when you have a triple-digit heater to lean on. An 0-1 count can put Hicks in the driver’s seat, and consistently getting ahead has undoubtedly curbed the walk issue he dealt with earlier in the season:
+
+The overall results have also been solid from a run suppression perspective as his ERA with the Blue Jays (3.46) is better than his work with the Cardinals.
+
+Despite those upsides, Hicks' newfound zeal for pounding the zone is coming at a price. The most obvious is a drop in strikeouts. 
+
+It may seem counterintuitive that throwing more pitches in the strike zone would lead to fewer punchouts, but opposing hitters have made contact on 81.5 per cent of the right-hander’s pitches in the zone, and just 49.6 per cent of them outside of it.
+
+This is a balance pitchers are always trying to strike. Pounding the zone puts you at more risk of hard contact and can limit Ks. Dancing outside of it can help generate soft contact and whiffs, but it has the potential to get you into serious walk trouble.
+
+It seems that since joining the Blue Jays, Hicks has leaned towards the former. The bottom-line results are solid, but there are some red flags.
+
+Peripheral metrics like FIP and xFIP like his work with the Cardinals far more than what he’s done in Toronto due to the major drop in Ks.
+
+Split
+
+	
+
+XIP
+
+	
+
+xFIP
+
+
+
+
+With Cardinals
+
+	
+
+3.00
+
+	
+
+3.21
+
+
+
+
+With Blue Jays
+
+	
+
+4.49
+
+	
+
+3.77
+
+Those numbers don’t take contact quality into account, and the low BABIP Hicks has posted with the Blue Jays (.257) hints at the righty compensating for his loss of Ks by avoiding hard-hit balls. 
+
+Unfortunately for Toronto, the Statcast data doesn’t bear that out.
+
+Split
+
+	
+
+Avg. Exit Velocity
+
+	
+
+Barrel%
+
+	
+
+Hard-Hit%
+
+
+
+
+With Cardinals
+
+	
+
+86.1
+
+	
+
+3.9
+
+	
+
+35.0
+
+
+
+
+With Blue Jays
+
+	
+
+89.1
+
+	
+
+8.1
+
+	
+
+40.5
+
+None of this constitutes a reason for panic. Hicks is still a supremely talented pitcher and his 15-game stint with the Blue Jays represents a pretty small sample.
+
+Still, it’s clear his plan of attack has changed since coming to Toronto. While he’s kept runs off the board, his production is built on a shakier foundation than what he was doing in St. Louis. 
+
+When the Blue Jays acquired Hicks he wasn’t a player in need of an overhaul. For him to be as dynamic a high-leverage arm as he was with the Cardinals, he might need to get closer to the approach that helped him miss so many bats in St. Louis — even if it results in an extra walk or two.
+
+MORE FROM SPORTSNET
+Angels’ Ward: Being hit in face by pitch from Blue Jays’ Manoah ‘badge of honour’
+Blue Jays unable to complete sweep of Athletics but have big opportunity ahead
+MLB NEWS
+MLBShi Davidi
+Jays swoop in for Hoffman after Orioles hit snag
+MLBShi Davidi
+Hard part begins for Blue Jays, Guerrero Jr.
+MLBSportsnet Staff
+Blue Jays, Guerrero Jr. avoid arbitration
+MLBSportsnet Staff
+Jays Arbitration Tracker: All players sign
+MLBNick Ashbourne
+How would Santander fit on 2025 Jays roster?
+MORE HEADLINES
+MLBSportsnet Staff
+Arbitration Tracker: All deals at deadline
+MLBAssociated Press
+Yankees fans who grabbed Mookie Betts banned
+MLBZach Worden
+Rumour Roundup: Jays made offer to Santander
+MLBArden Zwelling
+Sandlin eager to bring unique look to Jays
+MLBAssociated Press
+AP source: Verlander agrees to join Giants
+MLBSportsnet Staff
+Blue Jays' Manoah says 2022 mechanics are back
+
+COMMENTS
+
+When submitting content, please abide by our submission guidelines, and avoid posting profanity, personal attacks or harassment. Should you violate our submissions guidelines, we reserve the right to remove your comments and block your account. Sportsnet reserves the right to close a story’s comment section at any time.
+
+WATCH
+Schedule
+Subscribe
+Sportsnet+ Support
+LISTEN
+Podcasts
+SN 590
+SN 650
+SN 960
+GENERAL
+FAQ
+Media Centre
+Company Info
+Advertise With Us
+Political Ads Registry
+Accessibility
+Feedback
+Commenting
+Download our mobile apps to personalize your Sportsnet experience, get breaking news alerts and watch Sportsnet+ on the go.
+DOWNLOAD THE APP
+This product is only available in Canada
+CONNECT
+Privacy Policy
+Ad Choices
+Terms of Service
+© 2025 Rogers Media. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.sportsnet.ca/mlb/article/what-subtle-change-in-attack-plan-means-for-jordan-hicks-blue-jays/ 
+ ----- 

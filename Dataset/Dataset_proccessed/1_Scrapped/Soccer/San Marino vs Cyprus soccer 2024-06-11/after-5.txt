@@ -1,0 +1,150 @@
+We value your privacy
+
+Our website uses cookies to improve your browsing experience and to personalize the content and advertisements we show you. By continuing to use our website, you consent to our use of cookies in accordance with ourprivacy policy and Cookie Notice.
+
+By using our website, you consent to our use of cookies in accordance with this cookie notice and our privacy policy.
+
+Customize
+Reject All
+Accept All
+skip to Main Content
+	
+Open Mobile Menu
+BLOG
+Flight Operations to Germany – European Soccer Championships 
+UAS Operations | - 06/11/2024
+Go back to main page
+AVIATION, ,
+
+Flight Operations to Germany – European Soccer Championships: Germany will host this year’s European soccer championships from June 14 to July 14. 
+
+24 teams are set to compete with matches taking place across ten cities: Berlin, Leipzig, Hamburg, Dortmund, Düsseldorf, Cologne, Frankfurt, Stuttgart, Munich and Gelsenkirchen.  
+
+The opening game takes place on June 14 at the Munich Football Arena, kicking off the group stages. Quarter finals will take place on July 5 and 6 in Stuttgart, Hamburg, Dusseldorf, and Berlin.
+
+The semifinals will take place on July 9 and 10 in Munich and Dortmund, and the final will take place on July 14 at the Olympia Stadium Berlin.  
+
+Full information on the competition and the match venues and schedule is available on the official EUFA website here. 
+
+Here is what operators need to know about organizing trips to Germany during the tournament. 
+
+Flight Operations to Germany – Operational Coordination 
+
+Slots that have already been allocated and slot requests that don’t relate to the event are not affected and can adhere to normal standard procedures.  
+
+Regardless of the category (scheduled, nonscheduled, Business or General Aviation), all flights departing from or arriving at any of the coordinated airports (BER, DUS, CGN, FRA, STR, HAM, MUC) during the event, require an airport slot. 
+
+These will only be allocated by Fluko Flughafen Deutschland GmbH. 
+
+The following flight categories are exempt:   
+
+Medical, evacuation and humanitarian flights
+State and military flights 
+Search and rescue operations 
+Emergency operations
+Requesting Slots 
+ Slot requests should be made in SSIM format (SMA/SCR/GCR) to fraztxh@fluko.org  
+AIS will not be available for GA/BA slot requests during this period 
+PPR procedures at affected airports are expected 
+Airports can be affected from two days before the match until the day after the match 
+SCR and SMA requests must be submitted with turnaround information, either with 2 single leg lines in one SCR or in turnaround format  
+GCR messages must include corresponding arrival and departure slot requests to keep track of planned aircraft turnaround and parking availability  
+Slots for general and business aviation flights must be requested through a ground-handling agent  
+Due to the limited amount of parking stand availability, ground time should be kept to a minimum 
+
+Operators must use the specific following service type codes when making requests for the tournament:  
+
+Use of service type code “L” for any flight with passengers  
+Use of service type code “P” for any positioning flight 
+Use of any combination L-L, L-P, P-L for the turnaround format 
+Service type code “L” must be used for flights operated specifically for the EURO 2024 tournament Failure to do so may result in no handling of the flight 
+
+ Note:  
+
+All ad hoc flights that intend to operate at an airport on a date concerned by a match (two days before the match until the day after the match) will be processed following the rules below 
+Ad hoc slot requests will be held on a waiting list and processed no more than two days prior to the match for the knock-out rounds 
+Slots will not be allocated for speculative requests and requests should only be made once the teams are known
+Slot Allocation Priorities  
+
+All slot requests will be processed in accordance with the WSG and EU Slot Regulations 
+
+The following special priority order will be applied to the relevant period for the coordinated airports: 
+
+Scheduled and non-scheduled flight services according to Regulation (EEC) No. 95/93 2)  
+Flights carrying football teams  
+Flights carrying fans  
+Other ad hoc flights 
+Airport Slot Compliance Monitoring  
+
+All ATC Flight plans will be automatically monitored for compliance with Airport Slots within a timeframe of 4 hours before filed EOBT. 
+
+Flights which either do not have any Airport Slot or which do not comply with an allocated slot will be reported to:  
+
+Flight plan originator 
+Fluko Flughafen Deutschland GmbH 
+CFMU 
+Destination Airport  
+
+ Flights not holding an Airport Slot for their destination or not complying with an allocated Airport Slot risk not being accepted and/or being subject to a fine of up to 50,000 EURO. 
+
+For support with your operations to Germany, contact UAS 
+
+Share on:
+SIMILAR ARTICLES
+AVIATION
+EXECUTIVE INSIGHT
+FEATURED
+Disruptive sustainability innovations in BizAv
+We are all responsible for caring for the environment so our planet and its resources can be inherited by future generations, and when we run businesses, this responsibility becomes even greater. Business aviation often unfairly comes under scrutiny for its environmental impact, despite statistics confirming that the industry creates just a fraction of the total environmental impact that the broader aviation sector is responsible for.
+Omar Hosari | - 03/20/2023
+FEATURED
+PLANNING AND OPERATING
+Flight Operations to Blackpool – The Open Championship 2017
+
+Flight Operations to Blackpool - The Open Championship 2017 gets under at Royal Birkdale Golf Club, Southport, England from July 17-23. Here's the information you need to plan a successful mission to the closest airport - Blackpool.  Blackpool Airport IATA: BLK…
+
+Fadi Khalifa | - 07/11/2017
+FEATURED
+NEWS AND EVENTS
+Competition Growing in Commercial Space Sector
+
+Competition Growing in Commercial Space Sector: Twenty years ago, the idea of commercial space travel was almost unimaginable. But today, it is a vibrant industry that is fiercely competitive and thoroughly exciting. One of the freshest examples of this “new…
+
+Marketing Team UAS International Trip Support | - 08/31/2017
+Company
+Overview
+UAS Initiatives
+Media Room
+Resources
+Careers
+Services
+Flight Support
+Executive Travel
+Air Charter
+VVIP Jet
+Business Jet
+Air Ambulance
+Helicopter
+Commercial Aircraft
+Technology
+UAS LinkEvolution®
+UAS GTM®
+Global Network
+Headquarters
+Regional Offices
+International Stations
+Trip Cost Estimate
+Trip Support Request
+Air Charter Request
+ 
+Plan your trip now
+ePayment
+
+WeChat
+Copyright © UAS International Trip Support. | Terms & Conditions | Terms of Use | Privacy Policy | Cookie Notice
+    
+ 
+ 
+ ----- 
+ Source link : https://www.uas.aero/flight-operations-to-germany-european-soccer-championships/ 
+ ----- 

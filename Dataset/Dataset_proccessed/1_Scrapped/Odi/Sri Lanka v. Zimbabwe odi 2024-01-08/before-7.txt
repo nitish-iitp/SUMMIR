@@ -1,0 +1,619 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Reloading Depot
+How to get a load in 50 bullets with Gordon's Reloading Tool (GRT)
+ 
+Thread starter
+Dstoenner  
+Start date
+Jan 3, 2024
+D
+Dstoenner
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 10, 2018
+295
+205
+Holly Springs, NC
+Jan 3, 2024
+#1
+There have been a few threads on here about GRT. I have been using it for over 2 years now. As an electrical engineer, I am used to simulating systems to see the response. GRT is just exactly that but the "trick" is how to coax it into giving you a good answer. That took me some time to figure out and put it to practice. The bottom line is back annotation. I do not own QuickLoad basically because I am cheap but have learned how to make GRT give me good answers. That is why I am posting this that it might help others.
+
+You can get GRT for free at grtools.de. You do have to create a user profile in order to download and it only runs on Windows or Linux
+
+GRT requires that you describe the case, the bullet and the loaded round parameters (powder type, amount of powder and the COAL of the finished round). The problem is that when you select a powder in GRT you get a set of parameters that has been established by Gordon and his team. For me when I put in my known good round, the velocity never came to the point I was measuring.
+
+So the trick is to get GRT to create a set of parameters that do give you a correct value. When GRT is doing this iterative curve fitting process it is taking you rifle(chamber, barrel, bore, bullet, case, powder, primer) as a whole system. The option for OBT is where this iterative process is run. If you compare the original screen to the OBT screen you will see 2 parametrs are different. Those are:
+
+1) Isentropic exponent (k)
+2) Combustion coefficent (Ba)
+
+Getting these right then gives good answers to where the nodes are. So here is the way I have found to give the shortest and most efficent process for a good load. These is where you can do it in 50 bullets.
+
+1) Build your system. Get as much into the given sections as possible. Fired case water volume is important.
+
+2) Run an OBT and look for a node that is at at about 85% of you case pressure.
+
+3) Use that node you just creaated to load 8 bullets to the parameters that are in GRT. this will be the first iteration of determining those 2 parameters. Fire all 8 taking Velocity on them. I use the first 3 to foul the barrel and then the last 5 for velocity data.
+
+4) Open your original base file and add to the "Measurement" tab the 5 velocity values you obtained. Now in the base file set up the powder steps so that the value you used for powder in thewse 8 bullets is created. Then select that powder level in the "Results" window. This then sets the system to do an iterative solution with one known point. One is better than 0 when we started but is not good enough to get an accurate projection of a node.
+
+So run OBT now at this powder level. Figure out which node you want to aim for and then have OBT calculate that node. As a final step to document the optimized results hit the "create a OBT file". Once that file is created then cut and paste these to 2 values back into the base file (iteration 1 is now done).
+
+5) For iteration 2 we will now build 20 bullets. Here I take the the node predicted in 4) as the centerpoint of 5 test powder values .2gn apart. I load 6 for the lowest value and 3 for each value above that. The first 3 are to foul the barrel. Then I take and shot these on a target that has 6 bulls so I can see the placement of each set relative to each other. Taking velocity for each shot fired.
+
+6) now we go back to the base file and put these all in the measurement tab as before. I typically over write the first group values unless that value was within the new set of 5. Now I adjust the pwder spread to have a value that was the center value of the 5 sets and select that value Now run OBT again for probably the same node we used in 4). Create and OBT file. Back annotate the 2 parameters for iteration 2 into the base file.
+
+7) At this point I am usually done. Usually one value on the 5 targets is close to iteration 2's predicted node, the SD will be low. Some times it is between 2 of the steps and if we are really blessed those 2 values have low SD's and you can split your new derived node.
+
+8) Now we have come to the "proof of the pudding" I now load up 20 at this new value and go shot 4-5 shot groups. If the average is what I am looking for, I am done.
+
+At this point if I haven't come up with a good load but the sd is still low, I then try seating depth to tune it in. So far I haven't had to try that.
+
+So we used 8 + 15 + 20 = 43 bullets and 3 range trips to get a working load with an unknown system to GRT.
+
+Once I had the powder values ( RL-16 and Varget) for my system I now plugged in those values to a different bullet and used that as step 4 results to do a spread of 15 bullets. And yes when I run OBT and get the values again they are slightly different but much closer than step 1.
+
+Hope this makes sense. Unfortunately my main computer is a MAC and I have a Windows computer in the garage where I run GRT but getting screen shots into this MAC is cumbersome. But I think that if you are a novice to GRT once you have gotten through steps 1 and 2, the rest will flow easily.
+
+David
+ 
+Last edited: Jan 4, 2024
+ 
+Reactions:
+LimaKilo, MarshallDodge, Tx_Aggie and 7 others
+simonp
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Feb 29, 2020
+655
+461
+Jan 3, 2024
+#2
+I think that GRT must be like Quick loads, takes an EE or someone mentally wired that way to make it operate and make sense lol.
+
+I purchased Quick loads and struggled with it for a while before putting it away and just going back to the old ways, pick a powder, a bullet and start running ladders.
+ 
+ 
+Reactions:
+LR1845
+mrcheesemoose
+Sergeant of the Hide
+Full Member
+Minuteman
+Aug 23, 2023
+113
+69
+The mountains
+Jan 3, 2024
+#3
+Dstoenner said:
+There have been a few threads on here about GRT. I have been using it for over 2 years now. As an electrical engineer, I am used to simulating systems to see the response. GRT is just exactly that but the "trick" is how to coax it into giving you a good answer. That took me some time to figure out and put it to practice. The bottom line is back annotation. I do not own QuickLoad basically because I am cheap but have learned how to make GRT give me good answers. That is why I am posting this that it might help others.
+
+You can get GRT for free at grtools.de. You do have to create a user profile in order to download and it only runs on Windows or Linux
+
+GRT requires that you describe the case, the bullet and the loaded round parameters (powder type, amount of powder and the COAL of the finished round). The problem is that when you select a powder in GRT you get a set of parameters that has been established by Gordon and his team. For me when I put in my known good round, the velocity never came to the point I was measuring.
+
+So the trick is to get GRT to create a set of parameters that do give you a correct value. When GRT is doing this iterative curve fitting process it is taking you rifle(chamber, barrel, bore, bullet, case, powder, primer) as a whole system. The option for OBT is where this iterative process is run. If you compare the original screen to the OBT screen you will see 2 parametrs are different. Those are:
+
+1) Isentropic exponent (k)
+2) Combustion coefficent (Ba)
+
+Getting these right then gives good answers to where the nodes are. So here is the way I have found to give the shortest and most efficent process for a good load. These is where you can do it in 50 bullets.
+
+1) Build your system. Get as much into the given sections as possible. Fired case water volume is important.
+
+2) Run an OBT and look for a node that is at at about 85% of you case pressure.
+
+3) Use that node you just creaated to load 8 bullets to the parameters that are in GRT. this will be the first iteration of determining those 2 parameters. Fire all 8 taking Velocity on them. I use the first 3 to foul the barrel and then the last 5 for velocity data.
+
+4) Open your original base file and add to the "Measurement" tab the 5 velocity values you obtained. Now in the base file set up the powder steps so that the value you used for powder in thewse 8 bullets is created. Then select that powder level in the "Results" window. This then sets the system to do an iterative solution with one known point. One is better than 0 when we started but is not good enough to get an accurate projection of a node.
+
+So run OBT now at this powder level. create a OBT file, then cut and paste these to values back into the base file (iteration 1 is now done).
+
+5) For iteration 2 we will now build 20 bullets. Here I take the the node predicted in 4) as the centerpoint of 5 test powder values .2gn apart. I load 6 for the lowest value and 3 for each value above that. The first 3 are to foul the barrel. Then I take and shot these on a target that has 6 bulls so I can see the placement of each set relative to each other. Taking velocity for each shot fired.
+
+6) now we go back to the base file and put these all in the measurement tab as before. I typically over write the first group values unless that value was within the new set of 5. Now I adjust the pwder spread to have a value that was the center value of the 5 sets and select that value Now run OBT again for probably the same node we used in 4). Create and OBT file. Back annotate the 2 parameters for iteration 2 into the base file.
+
+7) At this point I am usually done. Usually one value on the 5 targets is close to iteration 2's predicted node, the SD will be low. Some times it is between 2 of the steps and if we are really blessed those 2 values have low SD's and you can split your new derived node.
+
+8) Now we have come to the "proof of the pudding" I now load up 20 at this new value and go shot 4-5 shot groups. If the average is what I am looking for, I am done.
+
+At this point if I haven't come up with a good load but the sd is still low, I then try seating depth to tune it in. So far I haven't had to try that.
+
+So we used 8 + 15 + 20 = 43 bullets and 3 range trips to get a working load with an unknown system to GRT.
+
+Once I had the powder values ( RL-16 and Varget) for my system I now plugged in those values to a different bullet and used that as step 4 results to do a spread of 15 bullets. And yes when I run OBT and get the values again they are slightly different but much closer than step 1.
+
+Hope this makes sense. Unfortunately my main computer is a MAC and I have a Windows computer in the garage where I run GRT but getting screen shots into this MAC is cumbersome. But I think that if you are a novice to GRT once you have gotten through steps 1 and 2, the rest will flow easily.
+
+David
+Click to expand...
+Glad to hear you’re able to use it well. I was on the development team for GRT for a couple months before my work got really busy. Pretty smart people. Got me hooked on vv powders, especially since vihta vouhri has actually worked with GRT to get reliable powder burn data for their powders
+ 
+ 
+Reactions:
+Chipster697, MarshallDodge and Dstoenner
+D
+Dstoenner
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 10, 2018
+295
+205
+Holly Springs, NC
+Jan 4, 2024
+#4
+Ffastfreddy said:
+Thanks for doing the "ground work" and posting your findings. In working with GRT, I have been bothered with reconciling the GRT expectations with my real world observations. I think you have given me the answer to that in k and Ba. The possibility of skipping to step 5 when doing work with a different bullet is very appealing.... I'm anxious to give it a go!
+
+FWIW, may I suggest you be more specific in the last line of step 4. For example, "So run OBT now at this powder level. create a OBT file, then cut and paste the values shown for k and Ba back into the base file (iteration 1 is now done)." Maybe it's just my thick head but I didn't get it at first reading.
+Click to expand...
+I have re-worked that sentence. I am a slow typist and sometimes my brain is too far in front of my fingers. I think it is a little clearer. And thanks for pointing it out.
+
+To everybody, it has been my experience that after we have done the 2nd iteration the node that appears on paper is usually a little higher than predicted. Sometimes .1 gn but uysually not more than .2 gn. So don't be surprised. I should have said that this whole exercise is to get you close. While it is science, it isn't exact.
+
+David
+ 
+ 
+Reactions:
+MarshallDodge, Bbracken667 and memilanuk
+memilanuk
+F'ing nuke
+Full Member
+Minuteman
+Supporter
+Mar 23, 2002
+2,793
+1,144
+East Wenatchee WA
+Jan 4, 2024
+#5
+Very much appreciate the time you put into this 
+
+I recently started working with a new barrel on a new gun - old familiar (to me) cartridge / powder / bullet, but figured I'd take the opportunity to tinker with GRT a bit more and map out a powder that QL was always historically crap with (N150). Fun times 
+ 
+0
+03machstock
+Sergeant of the Hide
+Full Member
+Minuteman
+Oct 16, 2021
+253
+173
+Pennsylvania
+Jan 4, 2024
+#6
+I’ve just been using Grt as my own custom reloading manual to estimate pressures and velocities. I’ll have to give this a shot, although my chrono isn’t the best. Thanks for the write up!
+ 
+ 
+Reactions:
+Bbracken667
+Bobby Ball
+Sergeant of the Hide
+Full Member
+Minuteman
+Apr 29, 2022
+106
+63
+colorado
+Jan 5, 2024
+#7
+I'm using it also, I ran into that initially as well. Important to note that I found Vhitavouri lists the info you need for their powder on their website, and some of the information pre-configured for some of their powders is wrong. I found on a couple that when I went in and put my measurement results with the simulation and made sure that the powder information was correct they lined up very consistently. I am rather baffled though by the fact that no matter how hard I looked I could not find that info for Hogdon or Winchester anywhere online.
+
+Also, I've been running all of my load development with a strain gauge so I'm putting my chamber pressure measurements, and real velocity measurements in and comparing them to the simulation. It took some fine tuning but now I "feel" like I've got it pretty dialed. It's really interesting when you take the known velocity and chamber pressure and adjust it in the calculated obt. I've found it to be VERY close when you have that other piece of the puzzle. It almost makes me want to try a new cartridge and see how close I could get in 5-10 shots lol.
+
+One thing I did find, and I hope that if someone just starting out with it reads this.. is that if you are entering any information for any of the barrel or cartridge or bullet/ powder it really needs to be a value that you know for certain. A few times I've had something go in wrong or even just brushed the keyboard by accident and all of a sudden it's calling for 3 more grains of powder. And if it's a missed decimal point the program picks up on it right away, so it's something as small as like accidentally hitting the 3 key instead of the 4 key on your keyboard and then having to go back and try to find where you messed it up. So if you have loads developed already it's important to have it written down somewhere outside of the software to verify against, especially if it's something you aren't using every day and a few weeks or months goes by and you pop open your load file on a fresh screen assuming it's all good to go the way it is or you wouldn't have saved it. Or... I'm just very computer dumb.
+All that being said I really like the program, and once I had every portion of it dialed in for all the parameters including corrected cartridge and chamber dimensions, it can really be spot f-ing on point. Especially for wildcat cartridges. I'd love to figure out how to help contribute more of my info and data that I've been accumulating so that it would help grow the database more and make it easier for others in the future.
+ 
+ 
+Reactions:
+Chipster697 and Bbracken667
+sirhrmechanic
+Command Sgt. Major
+Full Member
+Minuteman
+Feb 23, 2010
+37,327
+145,086
+The Snobbiest Town in The Snobbiest State in the N
+Jan 5, 2024
+#8
+Interesting write up and cool software tool.
+
+The addition of large data set and logic to reloading is definitely taking hold. Between auto measures, ballistic computers and a few ventures into scopes that run their own knobs (those haven’t quite measured up… but give it time) the computer is definitely coming into the precision shooting and reloading game.
+
+Not sure I’ll be using it, but for a generation of shooters who work with electronics, this is really cool stuff!
+
+Related story… December 1981 issue of Hot Rod Magazine (I poured over every issue) had a big apocalyptic piece on how Hot Rodding is Dead and used the then-new 1982 Camaro with fuel Injection and (gasp) a computer to argue that 'chips' would render “hot rodding” a thing of the past. It was all over. No more because of computer and smog stuff… Malaise Corvettes. 55 mph interstates. I was 17 btw and had had a farm license for a 2 years… cool cars were everything… so this stuff mattered! A mere 250 miles South of me another kid who grew up (??!!??) to be @Lowlight was similarly into hot rods, IIRC. And probably read the same magazine. (BTW, growing up has nothing to do with height... we car and gun people never reeally 'grow up.' We just get better toys).
+
+Well fast forward just a few years and we had “Chip” modifications. Then Downloadable software with “kids” in the mid- 1990’s using Palm pilots and early laptops to modify ePROMS. Then sharing data on their “Internet” thing starting in Usenet use groups… and hot rodding Supras across three continents in virtual garages.
+
+Today, hot rodding is bigger than ever! And young people are in the hobby doing it with phones. And 1.2 liter engines are putting out twice the power of a ‘70s V8 with massively more economy. (I still like carbureted V8’s but no one can deny the impact of computers on the reliability and longevity of cars).
+
+The application of these sorts of programs (and philosophies) is doing amazing things for shooting! It’s cool stuff. And my guess is that as data is loaded back into these systems, it will improve further. It also brings in a whole generation of (generally young) folks to shooting who aren’t interested in loading manuals and powder tricklers and voluminous DOPE notebooks. Which is fantastic. We need more young shooters.
+
+And especially in ELR and 1000 yd plus, the ballistics are now a technological game. Once we see a new generation of wildcats with extreme velocities and greatly increased pressures (I assure folks that is coming) these programs and quantitative methodologies are going to be a requirement. All this stuff now has A ton of variables… too many for a simple notebook, IMHO!
+
+Thanks Doestenner (sp?) OP for the detailed write up. Very interesting stuff!
+
+Sirhr
+ 
+Last edited: Jan 5, 2024
+D
+Dstoenner
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 10, 2018
+295
+205
+Holly Springs, NC
+Jan 5, 2024
+#9
+03machstock said:
+I’ve just been using Grt as my own custom reloading manual to estimate pressures and velocities. I’ll have to give this a shot, although my chrono isn’t the best. Thanks for the write up!
+You are welcome
+ 
+mrcheesemoose
+Sergeant of the Hide
+Full Member
+Minuteman
+Aug 23, 2023
+113
+69
+The mountains
+Jan 5, 2024
+#10
+Bobby Ball said:
+I'm using it also, I ran into that initially as well. Important to note that I found Vhitavouri lists the info you need for their powder on their website, and some of the information pre-configured for some of their powders is wrong. I found on a couple that when I went in and put my measurement results with the simulation and made sure that the powder information was correct they lined up very consistently. I am rather baffled though by the fact that no matter how hard I looked I could not find that info for Hogdon or Winchester anywhere online.
+
+Also, I've been running all of my load development with a strain gauge so I'm putting my chamber pressure measurements, and real velocity measurements in and comparing them to the simulation. It took some fine tuning but now I "feel" like I've got it pretty dialed. It's really interesting when you take the known velocity and chamber pressure and adjust it in the calculated obt. I've found it to be VERY close when you have that other piece of the puzzle. It almost makes me want to try a new cartridge and see how close I could get in 5-10 shots lol.
+
+One thing I did find, and I hope that if someone just starting out with it reads this.. is that if you are entering any information for any of the barrel or cartridge or bullet/ powder it really needs to be a value that you know for certain. A few times I've had something go in wrong or even just brushed the keyboard by accident and all of a sudden it's calling for 3 more grains of powder. And if it's a missed decimal point the program picks up on it right away, so it's something as small as like accidentally hitting the 3 key instead of the 4 key on your keyboard and then having to go back and try to find where you messed it up. So if you have loads developed already it's important to have it written down somewhere outside of the software to verify against, especially if it's something you aren't using every day and a few weeks or months goes by and you pop open your load file on a fresh screen assuming it's all good to go the way it is or you wouldn't have saved it. Or... I'm just very computer dumb.
+All that being said I really like the program, and once I had every portion of it dialed in for all the parameters including corrected cartridge and chamber dimensions, it can really be spot f-ing on point. Especially for wildcat cartridges. I'd love to figure out how to help contribute more of my info and data that I've been accumulating so that it would help grow the database more and make it easier for others in the future.
+Click to expand...
+There’s a discord on the website you can join: https://grtools.de/doku.php there’s sections for powder model sharing there.
+ 
+D
+Dstoenner
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 10, 2018
+295
+205
+Holly Springs, NC
+Jan 5, 2024
+#11
+I don’t think there is any development being dine after Gordon died unexpectedly about 2 years.
+ 
+memilanuk
+F'ing nuke
+Full Member
+Minuteman
+Supporter
+Mar 23, 2002
+2,793
+1,144
+East Wenatchee WA
+Jan 5, 2024
+#12
+IIRC there was a number of people that got involved after he passed. There were intentions, at least, of finding a way to continue the development. Haven't heard about anything new yet, so I don't know what if anything has happened.
+
+It's still better than QL, any which way.
+ 
+ 
+Reactions:
+R_A_W and Dstoenner
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Jan 5, 2024
+#13
+I run QL without issues. You just have to learn the system. Both are BS in BS out. Your values have to be measured. Don't assume your 26" barrel is actually 26" bolt face to crown. If you know how to use it it works. OBT around 1.5 to 2 grains off max seems to be were most rifles shoot. Been doing this for years. Fastest way to do load development.
+ 
+ 
+Reactions:
+simonp
+mrcheesemoose
+Sergeant of the Hide
+Full Member
+Minuteman
+Aug 23, 2023
+113
+69
+The mountains
+Jan 5, 2024
+#14
+memilanuk said:
+IIRC there was a number of people that got involved after he passed. There were intentions, at least, of finding a way to continue the development. Haven't heard about anything new yet, so I don't know what if anything has happened.
+
+It's still better than QL, any which way.
+when I was helping with development a couple months ago they were improving the UI. There were some plans to create a next gen physics engine for the internal ballistics, however I think they wanted the UI part to be finished first, and that may take awhile.
+ 
+ 
+Reactions:
+R_A_W and memilanuk
+memilanuk
+F'ing nuke
+Full Member
+Minuteman
+Supporter
+Mar 23, 2002
+2,793
+1,144
+East Wenatchee WA
+Jan 5, 2024
+#15
+John Glidewell said:
+I run QL without issues. You just have to learn the system. Both are BS in BS out. Your values have to be measured. Don't assume your 26" barrel is actually 26" bolt face to crown. If you know how to use it it works. OBT around 1.5 to 2 grains off max seems to be were most rifles shoot. Been doing this for years. Fastest way to do load development.
+
+If the QL powder model is worth a damn for your powder, sure. Viht N150, it's historically been so f'ing far off that I might as well just do it all from scratch. Not the only powder I've ran into that with, but it's one of the more glaring examples. And the BS that the software has to be distributed on CD... due to some obscure logic that it's affected by ITAR or some such. Sure doesn't seem to pertain to GRT. But hey, you have a good time with that antiquated dog's dinner of an interface 
+ 
+ 
+Reactions:
+simonp
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Jan 5, 2024
+#16
+memilanuk said:
+If the QL powder model is worth a damn for your powder, sure. Viht N150, it's historically been so f'ing far off that I might as well just do it all from scratch. Not the only powder I've ran into that with, but it's one of the more glaring examples. And the BS that the software has to be distributed on CD... due to some obscure logic that it's affected by ITAR or some such. Sure doesn't seem to pertain to GRT. But hey, you have a good time with that antiquated dog's dinner of an interface 
+Click to expand...
+I am at 5k+ altitude, so none of them line up. I shoot 3 or 4 charge weights and adjust burn rate, what I call truing the profile for the rifle. I can be very close rifle to rifle once I have a burn rate for the powder. Also, QL has a DL option for updates, I just did mine.
+ 
+O
+Oldmauser
+Sergeant of the Hide
+Full Member
+Minuteman
+Apr 2, 2018
+292
+91
+Jan 7, 2024
+#17
+Is there a chance for a shortcut in finding obt?
+
+Why not take the predicted obt node charge of powder as reference point and load 25 bullets- 2 charges above and 2charged below the predicted node in 0.2 increments?
+Wouldn’t be simpler?
+ 
+Bobby Ball
+Sergeant of the Hide
+Full Member
+Minuteman
+Apr 29, 2022
+106
+63
+colorado
+Jan 7, 2024
+#18
+I've found the powder data for Vhitavouri can be way off in GRT, but it's available on their website so if you go back in and fix it in your load it lines up much closer. I took the time with my wildcat cartridge and adjusted all of the case and chamber numbers and all the barrel numbers down to the . 0001, and it's a night and day difference. With some tweaking to the primer profile and seating depth I've got the prediction within 3-4 fps. I'm at 6k altitude also. It's not quite as simple to get super close on the otb, unless you have and confirm that your load data is spot on. It took me quite a while to learn that. Also, with the strain gauge giving me the chamber pressure measurements and the burn profile it makes it possible to find tune the kcal(?) To the proper numbers instead of the published data in the software.
+ 
+ 
+Reactions:
+Tx_Aggie, Dstoenner and John Glidewell
+D
+Dstoenner
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 10, 2018
+295
+205
+Holly Springs, NC
+Jan 8, 2024
+#19
+Oldmauser said:
+Is there a chance for a shortcut in finding obt?
+
+Why not take the predicted obt node charge of powder as reference point and load 25 bullets- 2 charges above and 2charged below the predicted node in 0.2 increments?
+Wouldn’t be simpler?
+My experience is that without these 2 iterations to fine tune the powder parameters to your gun you will not find a node quickly. I see that these values change pretty dramatically over these 2 iterations.
+
+David
+ 
+ 
+Reactions:
+memilanuk and Tx_Aggie
+L
+LarryAZ
+Private
+Minuteman
+Jan 25, 2024
+2
+1
+Arizona
+Jan 28, 2024
+#20
+Dstoenner said:
+There have been a few threads on here about GRT. I have been using it for over 2 years now. As an electrical engineer, I am used to simulating systems to see the response. GRT is just exactly that but the "trick" is how to coax it into giving you a good answer. That took me some time to figure out and put it to practice. The bottom line is back annotation. I do not own QuickLoad basically because I am cheap but have learned how to make GRT give me good answers. That is why I am posting this that it might help others.
+
+You can get GRT for free at grtools.de. You do have to create a user profile in order to download and it only runs on Windows or Linux
+
+GRT requires that you describe the case, the bullet and the loaded round parameters (powder type, amount of powder and the COAL of the finished round). The problem is that when you select a powder in GRT you get a set of parameters that has been established by Gordon and his team. For me when I put in my known good round, the velocity never came to the point I was measuring.
+
+So the trick is to get GRT to create a set of parameters that do give you a correct value. When GRT is doing this iterative curve fitting process it is taking you rifle(chamber, barrel, bore, bullet, case, powder, primer) as a whole system. The option for OBT is where this iterative process is run. If you compare the original screen to the OBT screen you will see 2 parametrs are different. Those are:
+
+1) Isentropic exponent (k)
+2) Combustion coefficent (Ba)
+
+Getting these right then gives good answers to where the nodes are. So here is the way I have found to give the shortest and most efficent process for a good load. These is where you can do it in 50 bullets.
+
+1) Build your system. Get as much into the given sections as possible. Fired case water volume is important.
+
+2) Run an OBT and look for a node that is at at about 85% of you case pressure.
+
+3) Use that node you just creaated to load 8 bullets to the parameters that are in GRT. this will be the first iteration of determining those 2 parameters. Fire all 8 taking Velocity on them. I use the first 3 to foul the barrel and then the last 5 for velocity data.
+
+4) Open your original base file and add to the "Measurement" tab the 5 velocity values you obtained. Now in the base file set up the powder steps so that the value you used for powder in thewse 8 bullets is created. Then select that powder level in the "Results" window. This then sets the system to do an iterative solution with one known point. One is better than 0 when we started but is not good enough to get an accurate projection of a node.
+
+So run OBT now at this powder level. Figure out which node you want to aim for and then have OBT calculate that node. As a final step to document the optimized results hit the "create a OBT file". Once that file is created then cut and paste these to 2 values back into the base file (iteration 1 is now done).
+
+5) For iteration 2 we will now build 20 bullets. Here I take the the node predicted in 4) as the centerpoint of 5 test powder values .2gn apart. I load 6 for the lowest value and 3 for each value above that. The first 3 are to foul the barrel. Then I take and shot these on a target that has 6 bulls so I can see the placement of each set relative to each other. Taking velocity for each shot fired.
+
+6) now we go back to the base file and put these all in the measurement tab as before. I typically over write the first group values unless that value was within the new set of 5. Now I adjust the pwder spread to have a value that was the center value of the 5 sets and select that value Now run OBT again for probably the same node we used in 4). Create and OBT file. Back annotate the 2 parameters for iteration 2 into the base file.
+
+7) At this point I am usually done. Usually one value on the 5 targets is close to iteration 2's predicted node, the SD will be low. Some times it is between 2 of the steps and if we are really blessed those 2 values have low SD's and you can split your new derived node.
+
+8) Now we have come to the "proof of the pudding" I now load up 20 at this new value and go shot 4-5 shot groups. If the average is what I am looking for, I am done.
+
+At this point if I haven't come up with a good load but the sd is still low, I then try seating depth to tune it in. So far I haven't had to try that.
+
+So we used 8 + 15 + 20 = 43 bullets and 3 range trips to get a working load with an unknown system to GRT.
+
+Once I had the powder values ( RL-16 and Varget) for my system I now plugged in those values to a different bullet and used that as step 4 results to do a spread of 15 bullets. And yes when I run OBT and get the values again they are slightly different but much closer than step 1.
+
+Hope this makes sense. Unfortunately my main computer is a MAC and I have a Windows computer in the garage where I run GRT but getting screen shots into this MAC is cumbersome. But I think that if you are a novice to GRT once you have gotten through steps 1 and 2, the rest will flow easily.
+
+David
+Click to expand...
+David, Thanks for the write-up. Question: If I have a muzzle brake, suppressor or tuner added to the barrel, should that be considered in some fashion when inputting my rifle measurements into the software?
+ 
+D
+Dstoenner
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 10, 2018
+295
+205
+Holly Springs, NC
+Jan 29, 2024
+#21
+LarryAZ said:
+David, Thanks for the write-up. Question: If I have a muzzle brake, suppressor or tuner added to the barrel, should that be considered in some fashion when inputting my rifle measurements into the software?
+You are welcome.
+
+No. GRT is only interested in the actual bore length for calculations. What will be off is the recoil calculations as it doesn’t model the muzzle break.
+
+David
+ 
+ 
+Reactions:
+simonp, Tx_Aggie and LarryAZ
+L
+LarryAZ
+Private
+Minuteman
+Jan 25, 2024
+2
+1
+Arizona
+Mar 18, 2024
+#22
+Dstoenner said:
+You are welcome.
+
+No. GRT is only interested in the actual bore length for calculations. What will be off is the recoil calculations as it doesn’t model the muzzle break.
+
+David
+Hello David,
+One more question. GRT defaults to 70 degrees F for powder temperature. I'm assuming that when you input your velocity measurements, after the first iteration, that the powder temperature should be adjusted for the actual temperature when the test was shot. Is this correct?
+ 
+ 
+Reactions:
+Chipster697
+D
+Dstoenner
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 10, 2018
+295
+205
+Holly Springs, NC
+Mar 19, 2024
+#23
+Yes that would be correct although I don’t do it. My 3 powders i use for competition are Varget, H4350 and RL16. All don’t have much change with temps and i am usually working in a temp range from 60 to 90. If i was doing it at 20 or so yes because I don’t shoot competitions in that cold a weather.
+
+But great point
+
+David
+ 
+ 
+Reactions:
+Chipster697
+You must log in or register to reply here.
+Similar threads
+	
+Optimum barrel time: great theory or bunk?
+Bbracken667 Sep 16, 2023 Reloading Depot
+159
+Sep 25, 2023
+D
+	
+260 Rem Quickload Request
+Dimefox Oct 15, 2023 Reloading Depot
+4
+Oct 16, 2023
+	
+AR10 using 178gr Horniday ELD-M Bullets Powder Suggestions
+KittieKatt Dec 24, 2024 Reloading Depot
+13
+Monday at 4:53 PM
+U
+	
+First load development
+UndFrm Jun 5, 2024 Reloading Depot
+12
+Jun 9, 2024
+	
+How To Read OCW Test Results
+Rommel Garcia Nov 13, 2024 Reloading Depot
+17
+Nov 16, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Reloading Depot
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/how-to-get-a-load-in-50-bullets-with-gordons-reloading-tool-grt.7202056/ 
+ ----- 

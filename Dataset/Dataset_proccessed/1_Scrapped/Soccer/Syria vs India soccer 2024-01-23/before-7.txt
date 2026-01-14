@@ -1,0 +1,71 @@
+Search
+Topics
+Research and Media Mentions
+About
+Go
+Exact search
+
+Close
+
+The information on this page represents either a request to remove material from an online site or a DMCA (copyright) "counternotice," asking that material already removed be replaced.
+
+Lumen maintains an independent database of these notices and counternotices - we are not their senders or recipients. All of the notices and requests in the Lumen database have been shared with Lumen voluntarily by the companies or individuals responsible for either originally sending or receiving the notices. Lumen is not responsible in any way for either removing or restoring on-line content from the web or search engine listings, or for "blocking" or restoring access to websites or URLs.
+
+Other information in the notice or counternotice depends on what details were included when a copy of the notice was shared with Lumen. Lumen does not have any more information about a particular notice than what is present within it.
+
+The "Recipient" of the notice is the person or organization, most often an OSP, controlling access to the material or search results that are the subject of the request, and is therefore in a position to remove or restore access to it.
+The "Principal" is the person or organization whose rights have allegedly been violated and on whose behalf the request is being made.
+The "Sender" is the same as the Principal, the person or entity who is requesting that the material be removed, unless a third party has sent the notice on the Principal's behalf, in which case both are listed, with the agent sending "on behalf of" the original complainant.
+The "Submitter" is the person or organization that shared a copy of the notice or counternotice with Lumen
+
+Other important fields on each notice include the following, although not every notice will have information in all of these fields.
+
+The URL(s) for the material that the complainant wants taken down
+A brief description of the issue leading to the complaint; and whether the recipient acted on the complaint or not.
+In the case of a copyright complaint, the notice will also include a description of the original copyrighted material, and its URL if one exists.
+DMCA (Copyright) Complaint to Google
+SENDER
+Venus Group
+on behalf of India Love
+[Private]
+US
+Sent on March 16, 2024
+COUNTRY: US 🇺🇸
+RECIPIENT
+Google LLC 
+[Private]
+Mountain View, CA, 94043, US
+SUBMITTER
+Google LLC 
+OTHER ENTITIES:
+PRINCIPAL
+Re: Unknown
+NOTICE TYPE:
+DMCA
+Copyright claim 1
+KIND OF WORK:
+Unspecified
+DESCRIPTION
+The urls below are hosting and sharing a direct, literal copy of my client, India Love, copyrighted material (photographs, videos) from her premium content platform https://www.onlyfans.com/indialove, without her permission. We request the immediate removal of her copyrighted material by a DMCA takedown.
+ORIGINAL URLS:
+www.instagram.com - 2 URLs
+www.onlyfans.com - 1 URL
+ALLEGEDLY INFRINGING URLS:
+www.timesnownews.com - 19 URLs
+static.tnn.in - 15 URLs
+imgk.timesnownews.com - 5 URLs
+
+Click here to request access and see full URLs.
+
+JURISDICTIONS
+US
+TOPICS
+DMCA Notices, Copyright
+TAGS
+ 2017 Lumen
+Legal Licenses Privacy Researchers Blog Archive Spring '22 Research Sprint Sign In
+ 
+ 
+ ----- 
+ Source link : https://lumendatabase.org/notices/40166457 
+ ----- 

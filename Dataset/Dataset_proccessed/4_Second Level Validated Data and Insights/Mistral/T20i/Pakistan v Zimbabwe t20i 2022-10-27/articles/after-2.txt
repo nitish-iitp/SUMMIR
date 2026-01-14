@@ -1,0 +1,343 @@
+ZIM vs PAK
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+24th Match, Group 2 (N), Perth, October 27, 2022, ICC Men's T20 World Cup
+ZIM
+130/8
+PAK
+(20 ov, T:131) 129/8
+
+Zimbabwe won by 1 run
+
+Powered by Smart Stats
+Win Probability
+ZIM 100%
+PAK 0.00%
+ZIM
+PAK
+100%
+50%
+100%
+ZIM Innings
+PAK Innings
+
+Over 20 • PAK 129/8
+
+Mohammad Nawaz c Ervine b Evans 22 (18b 1x4 1x6 36m) SR: 122.22
+W
+Shaheen Shah Afridi run out (Sikandar Raza/†Chakabva) 1 (1b 0x4 0x6 3m) SR: 100
+W
+Zimbabwe won by 1 run
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Sikandar Raza
+, ZIM
+3/25
+CRICINFO'S MVP
+Brad Evans
+, ZIM
+83.98 pts
+Impact List
+Zimbabwe
+Pakistan
+Match Flow
+Info
+Zimbabwe  (20 ovs maximum)
+Batting	R	B	4s	6s	SR
+
+Wessly Madhevere 
+	17	13	3	0	130.76
+
+lbw b Mohammad Wasim
+
+
+Craig Ervine (c)
+	19	19	2	0	100.00
+
+c Mohammad Wasim b Haris Rauf
+
+
+Milton Shumba 
+	8	10	1	0	80.00
+
+c & b Shadab Khan
+
+
+Sean Williams 
+	31	28	3	0	110.71
+
+b Shadab Khan
+
+
+Sikandar Raza 
+	9	16	1	0	56.25
+
+c Haris Rauf b Mohammad Wasim
+
+
+Regis Chakabva †
+	0	1	0	0	0.00
+
+c Babar Azam b Shadab Khan
+
+
+Ryan Burl 
+	10	15	0	0	66.66
+
+not out
+
+
+Luke Jongwe 
+	0	1	0	0	0.00
+
+b Mohammad Wasim
+
+
+Brad Evans 
+	19	15	0	1	126.66
+
+b Mohammad Wasim
+
+
+Richard Ngarava 
+	3	2	0	0	150.00
+
+not out
+
+Extras	14	(lb 8, w 6)
+Total	130/8	
+20 Ov (RR: 6.50)
+
+
+Did not bat: 
+Blessing Muzarabani 
+
+
+Fall of wickets: 1-42 (Craig Ervine, 4.6 ov), 2-43 (Wessly Madhevere, 5.2 ov), 3-64 (Milton Shumba, 9.4 ov), 4-95 (Sean Williams, 13.5 ov), 5-95 (Regis Chakabva, 13.6 ov), 6-95 (Sikandar Raza, 14.3 ov), 7-95 (Luke Jongwe, 14.4 ov), 8-126 (Brad Evans, 19.3 ov)
+Bowling	O	M	R	W	ECON	WD	NB
+
+Shaheen Shah Afridi
+	4	0	29	0	7.25	0	0
+
+Naseem Shah
+	4	0	34	0	8.50	2	0
+
+Mohammad Wasim
+	4	0	24	
+4
+	6.00	4	0
+
+Haris Rauf
+	4	1	12	
+1
+	3.00	0	0
+
+Shadab Khan
+	4	0	23	
+3
+	5.75	0	0
+Pakistan  (T: 131 runs from 20 ovs)
+Batting	R	B	4s	6s	SR
+
+Mohammad Rizwan †
+	14	16	1	1	87.50
+
+b Muzarabani
+
+
+Babar Azam (c)
+	4	9	1	0	44.44
+
+c Burl b Evans
+
+
+Shan Masood 
+	44	38	3	0	115.78
+
+st †Chakabva b Sikandar Raza
+
+
+Iftikhar Ahmed 
+	5	10	1	0	50.00
+
+c †Chakabva b Jongwe
+
+
+Shadab Khan 
+	17	14	0	1	121.42
+
+c Williams b Sikandar Raza
+
+
+Haider Ali 
+	0	1	0	0	0.00
+
+lbw b Sikandar Raza
+
+
+Mohammad Nawaz 
+	22	18	1	1	122.22
+
+c Ervine b Evans
+
+
+Mohammad Wasim 
+	12	13	2	0	92.30
+
+not out
+
+
+Shaheen Shah Afridi 
+	1	1	0	0	100.00
+
+run out (Sikandar Raza/†Chakabva)
+
+Extras	10	(lb 5, w 5)
+Total	129/8	
+20 Ov (RR: 6.45)
+
+
+Did not bat: 
+Haris Rauf, 
+Naseem Shah 
+
+
+Fall of wickets: 1-13 (Babar Azam, 3.3 ov), 2-23 (Mohammad Rizwan, 4.4 ov), 3-36 (Iftikhar Ahmed, 7.4 ov), 4-88 (Shadab Khan, 13.4 ov), 5-88 (Haider Ali, 13.5 ov), 6-94 (Shan Masood, 15.1 ov), 7-128 (Mohammad Nawaz, 19.5 ov), 8-129 (Shaheen Shah Afridi, 19.6 ov)
+Bowling	O	M	R	W	ECON	WD	NB
+
+Richard Ngarava
+	4	0	24	0	6.00	2	0
+
+Blessing Muzarabani
+	4	0	18	
+1
+	4.50	0	0
+
+Brad Evans
+	4	0	25	
+2
+	6.25	0	0
+
+Sikandar Raza
+	4	0	25	
+3
+	6.25	2	0
+
+Luke Jongwe
+	1	0	10	
+1
+	10.00	0	0
+
+Sean Williams
+	2	0	15	0	7.50	1	0
+
+Ryan Burl
+	1	0	7	0	7.00	0	0
+Unlocking the magic of Statsguru
+Match Flow
+Zimbabwe innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 47 runs, 2 wickets)
+Over 5.2: Review by Pakistan (Bowling), Umpire - RA Kettleborough, Batter - W Madhevere (Upheld)
+Zimbabwe: 50 runs in 7.1 overs (43 balls), Extras 7
+Drinks: Zimbabwe - 64/3 in 9.4 overs (SC Williams 13)
+Zimbabwe: 100 runs in 15.3 overs (93 balls), Extras 14
+Innings Break: Zimbabwe - 130/8 in 20.0 overs (RP Burl 10, R Ngarava 3)
+Pakistan innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 28 runs, 2 wickets)
+Pakistan: 50 runs in 9.1 overs (55 balls), Extras 3
+Drinks: Pakistan - 54/3 in 10.0 overs (Shan Masood 24, Shadab Khan 4)
+4th Wicket: 50 runs in 35 balls (Shan Masood 31, Shadab Khan 17, Ex 4)
+Over 13.5: Review by Pakistan (Batting), Umpire - RA Kettleborough, Batter - Haider Ali (Struck down)
+Over 14.1: Review by Zimbabwe (Bowling), Umpire - CB Gaffaney, Batter - Shan Masood (Struck down - Umpires Call)
+Over 16.3: Review by Zimbabwe (Bowling), Umpire - CB Gaffaney, Batter - Mohammad Wasim (1) (Struck down)
+Pakistan: 100 runs in 16.3 overs (99 balls), Extras 9
+Match Details
+Perth Stadium
+
+Toss	Zimbabwe, elected to bat first
+Series	
+ICC Men's T20 World Cup
+
+Season	
+2022/23
+
+Player Of The Match	
+Sikandar Raza
+
+Match number	
+T20I no. 1849
+
+Match days	27 October 2022 - night (20-over match)
+Umpires	
+Chris Gaffaney
+Richard Kettleborough
+
+TV Umpire	
+Marais Erasmus
+
+Reserve Umpire	
+Richard Illingworth
+
+Match Referee	
+Andy Pycroft
+
+Points	Zimbabwe 2, Pakistan 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 873 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/pakistan-vs-zimbabwe-24th-match-group-2-1298158/full-scorecard 
+ ----- 

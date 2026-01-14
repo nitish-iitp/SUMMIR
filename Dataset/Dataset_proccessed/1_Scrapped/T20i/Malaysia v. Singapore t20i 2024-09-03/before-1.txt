@@ -1,0 +1,1014 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Vintage Sniper Rifles
+Swiss K31 as a sniper rifle
+ 
+Thread starter
+cuirc  
+Start date
+Sep 1, 2024
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Sep 1, 2024
+#1
+I have a Swiss K31 that shoots very well so much that I would like to convert it to the extent possible as a sniper rifle. But I don't want to put any modern scope that is readily available on it. I would like to keep it a close to what an original would be. Does anyone know what is the best scope in this situation. I understand the the Valdada is as close as any but new ones are as much as a Nightforce. Problem is I have drawn a blank on locating a vintage scope feedback from anyone with a source would be appreciated.
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Sep 1, 2024
+#2
+Hi cuirc,
+
+Your wish is very well understandable. Yes. Thats what quite a lot of K31-owners think. (included me  ) Not all are courageous enough to point that out publicly. The are since a long time many different K31-Sniper-resp. Targetrifle-conversions known. Some examples in the pics below.
+
+The technical aspects depend particularly on the time or period to which your K31 should match then. For example 1950, 1970, 1990, perhaps ?
+To the scopes yourself: As far as I know - there are just 3 old scope-types which have actually been installed here in the Swiss Army - including test-examples and serial-rifles. The K31/42, K31/43 and the K31/55 resp. Zfk 55. The most comfortable of them is in general opinion the 3,5x of the Zfk55. But that is probably not easy to find nowadays. Unfortunately, I don't have a source for that now.. .
+
+Some 100 K31 around 1949 with probably 4x-Kahles-Scopes, were first sent to Nicaragua. But they reached then Israel as far as we know. Pic down. I remember there was an article to that subject, some years ago. A journalist could find one of the gunsmiths from then by Hämmerli. This said that he is not really sure with that Kahles-Scopes.. .
+
+The more comfortable 6x scopes only appeared - generally - in significant numbers in the 1970s. Maybe you can find an older Schmidtund-Bender or Pecar with 4x-power.
+
+My Zfk 84 (f for fictive)-Conversion with his 10x-Zf is too modern in that case.. .
+
+What is then a suitable scope for you, cuirc ?   Which reticle and which magnification, f.e. ?
+
+Just my 2 cents 
+ 
+Attachments
+K 31 Zf-Karabiner Tir Longue Distance side right.jpg
+59.7 KB · Views: 118
+Schmidt-Rubin K 31-Sniper Daniel Roch.jpg
+45.4 KB · Views: 114
+Surplusrifle-Com K 31 II..jpg
+19.1 KB · Views: 109
+Schmidt-Rubin Zfk K 31 mit Kahles-Zf Israel.eoutlet.factory.jpg
+46.7 KB · Views: 111
+ 
+Reactions:
+cuirc, MarshallDodge, Schütze and 3 others
+Ledzep
+Bullet Engineer
+Full Member
+Minuteman
+Jun 9, 2009
+4,439
+5,850
+Hornady
+Sep 3, 2024
+#3
+This is what the original sniper rifles look like on the right half of this photo. There is one other export version that I believe wound up in Israel.
+
+
+
+This is the variant that found its way to Israel. Optic is akin to the ZF-39 found on many K98k sniper rifles of WWII.
+
+
+
+
+The K31/42, K31/43, and K31/44 all have a dovetail machined into the left side of the receiver for the optic to directly attach. Some of the early (first 120 or so) 31/42's were even welded after being press-fit dovetailed. Obviously good luck finding a suitable optic for that. Likely doesn't exist. The ZFK 55 has scope mount bosses machined into the receiver integrally.
+
+The Israeli variant would be the easiest to clone if that's what you're going for. I believe some German scopes were tried in the 1930's as prototype experiments and the Swiss weren't very impressed with the durability and repeatability of the mounting systems (hence the welding of the scope tube to the receiver in the K31/42's). Those German scopes are all 26.5mm main tubes and finding rings might be a problem. It might be possible to make some K98k side-mount solutions fit on the K31 but you may also run into problems with the top-eject nature of the action.
+
+The "easy button" IMO is a Weaver K4 or K6 with one of the St. Marie clamp style mounts. I suppose if a guy could find appropriate sized rings a ZF39 could be mounted to one of those as well, or maybe even some of the 7/8" tube optics of the era.
+ 
+ 
+Reactions:
+tpepper70, D_TROS, MarshallDodge and 3 others
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Sep 3, 2024
+#4
+Now without words  
+ 
+Attachments
+Schmidt-Rubin Zielfernrohrkarabiner 43 und 55 Schnittzeichnungen..jpg
+253.8 KB · Views: 80
+Schmidt-Rubin ZfK 55 sitzend.jpg
+510.2 KB · Views: 91
+Schmidt-Rubin ZfK 55 V..jpg
+24.9 KB · Views: 82
+Schmidt-Rubin ZfK 55 VI..jpg
+21.7 KB · Views: 86
+ 
+Reactions:
+D_TROS, MarshallDodge, Calfed and 3 others
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Sep 26, 2024
+#5
+Winchester M70 Van Orden said:
+Now without words  View attachment 8493657
+Well I just won an ebay bid on a IOR Valdada 4-14x50mm scope being a European scope, as "I understand it it might have been used on the K31 for sniper purposes; if not I at least got something a lot closer to correct than a Leopold (no offense to Leopold). I think this will make a nice pair now I need to find a good mount. The rifle it self shoots very well as the other one I have with dioptic sights.
+ 
+ 
+Reactions:
+Charlie112
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Sep 27, 2024
+#6
+Winchester M70 Van Orden said:
+Hi cuirc,
+
+Your wish is very well understandable. Yes. Thats what quite a lot of K31-owners think. (included me  ) Not all are courageous enough to point that out publicly. The are since a long time many different K31-Sniper-resp. Targetrifle-conversions known. Some examples in the pics below.
+
+The technical aspects depend particularly on the time or period to which your K31 should match then. For example 1950, 1970, 1990, perhaps ?
+To the scopes yourself: As far as I know - there are just 3 old scope-types which have actually been installed here in the Swiss Army - including test-examples and serial-rifles. The K31/42, K31/43 and the K31/55 resp. Zfk 55. The most comfortable of them is in general opinion the 3,5x of the Zfk55. But that is probably not easy to find nowadays. Unfortunately, I don't have a source for that now.. .
+
+Some 100 K31 around 1949 with probably 4x-Kahles-Scopes, were first sent to Nicaragua. But they reached then Israel as far as we know. Pic down. I remember there was an article to that subject, some years ago. A journalist could find one of the gunsmiths from then by Hämmerli. This said that he is not really sure with that Kahles-Scopes.. .
+
+The more comfortable 6x scopes only appeared - generally - in significant numbers in the 1970s. Maybe you can find an older Schmidtund-Bender or Pecar with 4x-power.
+
+My Zfk 84 (f for fictive)-Conversion with his 10x-Zf is too modern in that case.. .
+
+What is then a suitable scope for you, cuirc ?   Which reticle and which magnification, f.e. ?
+
+Just my 2 cents 
+Click to expand...
+WELL I PAID $650 FOR THIS AND I THINK AT LEAST IT IS AN OLD SCOPE THAT CONCEIVABLY COULD HAVE BEEN USED. THE POWER RANGE FITS IN YOUR RANGE: IT WILL DO. THE MOUNT IS EASY TO ADDRESS WITH A RAIL BUT IT NEEDS TO BE OFFSET FOR THE EJECTION. A BIGGER QUESTION FOR ME IS THE BI POD. AMY IDEA WHERE TO FIND SOMETHING LIKE THAT. I WISH I KEPT THE CARD FOR A GUN STORE I like IN LAZURN. (sorry for caps). it is in one of the side streets near the lake if you are familiar the area.
+ 
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Sep 27, 2024
+#7
+cuirc said:
+WELL I PAID $650 FOR THIS AND I THINK AT LEAST IT IS AN OLD SCOPE THAT CONCEIVABLY COULD HAVE BEEN USED. THE POWER RANGE FITS IN YOUR RANGE: IT WILL DO. THE MOUNT IS EASY TO ADDRESS WITH A RAIL BUT IT NEEDS TO BE OFFSET FOR THE EJECTION. A BIGGER QUESTION FOR ME IS THE BI POD. AnY IDEA WHERE TO FIND SOMETHING LIKE THAT. I WISH I KEPT THE CARD FOR A GUN STORE I like IN LAZURN. (sorry for caps). it is in one of the side streets near the lake if you are familiar with the area.
+Click to expand...
+ 
+W
+Win70chris
+Sergeant
+Full Member
+Minuteman
+Aug 31, 2008
+262
+20
+45
+Dallas, TX
+Sep 27, 2024
+#8
+I have a mount for the K31 but went with Diopter sights instead. (Not installed in pic).
+ 
+Attachments
+IMG_4412.jpeg
+402.9 KB · Views: 52
+ 
+Reactions:
+cuirc and camocorvette
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Sep 28, 2024
+#9
+I have two of these rifles, they shoot great. One of them I put dioptic sights on (that I picked up in Switzerland), for iron sights they are incredible. The second rifle, I used the military sights on with the future intention of putting a scope on. I finally moved on that. One hangup I had, was I didn't like the one screw mount I saw around and was unaware of anything else. Now that I have this scope, which I bought by "accident" meaning I put the value of the scope at over $1000 and wasn't going to pay that, so I put a bid on it almost for laughs and what do you know but I won. Now I will have to put this project in the higher priority pile and get a mount which will require some research on my part. It looks like it will have to be mounted offset to accommodate the top ejection. Its amazing with these rifles. a good while ago, I bought the two for around $300 each now I see prices on them of $1200.
+ 
+ 
+Reactions:
+camocorvette
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Sep 30, 2024
+#10
+cuirc said:
+Well I just won an ebay bid on a IOR Valdada 4-14x50mm scope being a European scope, as "I understand it it might have been used on the K31 for sniper purposes; if not I at least got something a lot closer to correct than a Leopold (no offense to Leopold). I think this will make a nice pair now I need to find a good mount. The rifle it self shoots very well as the other one I have with dioptic sights.
+That sounds good.. The IOR Valdada-scope is an older company, true.. .
+
+What about the reticle in it ? I'm in a hurry, more later.. . 
+ 
+ 
+Reactions:
+cuirc
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Sep 30, 2024
+#11
+thank you
+ 
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Sep 30, 2024
+#12
+Winchester M70 Van Orden said:
+That sounds good.. The IOR Valdada-scope is an older company, true.. .
+
+What about the reticle in it ? I'm in a hurry, more later.. . 
+I think you said you had a mount what kind is it I remember they had one that only needed one screw I think I want something more substantial. I think it would need several mounting points on the left side and perhaps a rail that puts it offset for the top extraction.
+ 
+TonyTheTiger
+Like a Boss
+Full Member
+Minuteman
+Feb 14, 2017
+5,118
+8,460
+Sep 30, 2024
+#13
+I put a scope on my K31 with one of the St. Marie clamp on mounts. I enjoyed it for a while but eventually began to despise the aesthetics of a beautiful classic rifle with what was clearly not period correct stuff hanging on it.
+With the exception of difficult to see targets, the scope barely increased my hit percentage also.
+I took it off, sold it, and if I do anything with it in the future it will be diopter sights.
+ 
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Oct 2, 2024
+#14
+Winchester M70 Van Orden said:
+That sounds good.. The IOR Valdada-scope is an older company, true.. .
+
+What about the reticle in it ? I'm in a hurry, more later.. . 
++
+What kind of mount do you have for the K31 also could you offer an opinion on how to mount a bipod.
+Thank You
+ 
+Last edited: Oct 2, 2024
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Oct 2, 2024
+#15
+Winchester M70 Van Orden said:
+Hi cuirc,
+
+Your wish is very well understandable. Yes. Thats what quite a lot of K31-owners think. (included me  ) Not all are courageous enough to point that out publicly. The are since a long time many different K31-Sniper-resp. Targetrifle-conversions known. Some examples in the pics below.
+
+The technical aspects depend particularly on the time or period to which your K31 should match then. For example 1950, 1970, 1990, perhaps ?
+To the scopes yourself: As far as I know - there are just 3 old scope-types which have actually been installed here in the Swiss Army - including test-examples and serial-rifles. The K31/42, K31/43 and the K31/55 resp. Zfk 55. The most comfortable of them is in general opinion the 3,5x of the Zfk55. But that is probably not easy to find nowadays. Unfortunately, I don't have a source for that now.. .
+
+Some 100 K31 around 1949 with probably 4x-Kahles-Scopes, were first sent to Nicaragua. But they reached then Israel as far as we know. Pic down. I remember there was an article to that subject, some years ago. A journalist could find one of the gunsmiths from then by Hämmerli. This said that he is not really sure with that Kahles-Scopes.. .
+
+The more comfortable 6x scopes only appeared - generally - in significant numbers in the 1970s. Maybe you can find an older Schmidtund-Bender or Pecar with 4x-power.
+
+My Zfk 84 (f for fictive)-Conversion with his 10x-Zf is too modern in that case.. .
+
+What is then a suitable scope for you, cuirc ?   Which reticle and which magnification, f.e. ?
+
+Just my 2 cents 
+
+Ledzep said:
+This is what the original sniper rifles look like on the right half of this photo. There is one other export version that I believe wound up in Israel.
+
+View attachment 8493518
+
+This is the variant that found its way to Israel. Optic is akin to the ZF-39 found on many K98k sniper rifles of WWII.
+
+View attachment 8493519
+
+
+The K31/42, K31/43, and K31/44 all have a dovetail machined into the left side of the receiver for the optic to directly attach. Some of the early (first 120 or so) 31/42's were even welded after being press-fit dovetailed. Obviously good luck finding a suitable optic for that. Likely doesn't exist. The ZFK 55 has scope mount bosses machined into the receiver integrally.
+
+The Israeli variant would be the easiest to clone if that's what you're going for. I believe some German scopes were tried in the 1930's as prototype experiments and the Swiss weren't very impressed with the durability and repeatability of the mounting systems (hence the welding of the scope tube to the receiver in the K31/42's). Those German scopes are all 26.5mm main tubes and finding rings might be a problem. It might be possible to make some K98k side-mount solutions fit on the K31 but you may also run into problems with the top-eject nature of the action.
+
+The "easy button" IMO is a Weaver K4 or K6 with one of the St. Marie clamp style mounts. I suppose if a guy could find appropriate sized rings a ZF39 could be mounted to one of those as well, or maybe even some of the 7/8" tube optics of the era.
+Click to expand...
+Hi:
+Click to expand...
+I have two K31s one has dioptic sights ,the other just the military sights I would like to put a scope and a bipod on the second one. Purely by luck I won a bid on Ebay for a Valdada 4-14 50mm scope with a 30mm tube. I would like to use that, keeping it European and possibly closer to what original would be. Recognizing that it is a top ejector (which means I need to grow neck) i see some difficulties with he scope. I am also at loss to the best way to mount a bipod I suppose it could be fastened to the wood for arm but I don't think that would be very suitable
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Oct 14, 2024
+#16
+Hi cuirc,
+
+I was unfortunately absent for a couple of days. Therefore this "silence, only.. .
+
+My Zfk 84 (f) carries since 2005 the Richner-Mount  To my complete satisfaction. So simply to install, participation of a gunsmith is not necessary, usually. See the pics down. Please.
+
+
+Respectively here, too  https://www.snipershide.com/shooting/threads/scope-mount-for-swiss-k31-rifle.7227630/#post-11729720
+
+My Zfk carries no bipod.. . The centered mount is better suited for a scope like your Valdada, the side-mount reduces the scope-size, say our Long-Range-shooters here.
+
+More later
+BR
+ 
+Attachments
+K 31-Picatinny-Montage Richner.jpg
+16.7 KB · Views: 47
+Blick im Jäggi-Optik AG-Estrich-Schiessstand über den Schmidt-Rubin-Zielfernrohrkarabiner Zfk ...jpg
+532 KB · Views: 42
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Oct 14, 2024
+#17
+Here we are  with the link for Richner.ch resp. now the Munitionsdepot.ch:
+https://www.munitionsdepot.ch/ZF-Montage-Richner-K31-schwarz
+
+The link for Gunfactory.ch: https://www.gunfactory.ch/optic/zf_montagen_k31.htm
+
+
+To the reticle: the "typical" reticle for the earlier K31 are the so-called No. 1-Absehen, f.e. the Zfk 55. The post and wire-reticle. See 1th line, left.
+
+And down there an example for the Zfk 55-Reticle, too.
+
+In my Zfk-Project I tried to stay as near as possible in this period, tecnical seen.. . But with an better scope and reticle, in the end, of course. To my luck, then - 2005/2006 - Pecar was still producing. Their "Champion"-Series with the Reticle 1 was clearly the most suitable scope for my purpose. The last pic shows their Reticle 1, sufficient similar to the Zfk 55 Kern-Reticle.
+
+
+
+
+
+ 
+Attachments
+Schmidt-Rubin Zfk 84 (f) Pecar-Zf 84 Absehen 1.jpg
+502.9 KB · Views: 20
+Schmidt-Rubin Zfk 55 Reglement Zielfernrohrkarabiner 55 Zfk 55 1.12.1967.jpg
+351.4 KB · Views: 20
+ 
+Reactions:
+TorF
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Oct 14, 2024
+#18
+
+Is this the clamp on mount you are referring to if so I will buy one. I have the stocks of both guns sanded down to 800 grit wetting the wood as i went along They have come out pretty good considering what they looked like before I stared. I am going to finish them a litle darker than the original. using min wax gun stock stain darkened 20% by volume with Min wax walnut. I tested it ad it looks pretty good. Swiss Products has this mount and a bipod also. If this is not the mount you mention and know where to find it I will take a look. now that I am committed to this job.
+
+
+Thanks for oall the help you have given me.
+ 
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Oct 14, 2024
+#19
+oops this won't work the site has a disclaimer that the mount does not fit the K31
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Oct 15, 2024
+#20
+cuirc said:
+View attachment 8524259
+Is this the clamp on mount you are referring to if so I will buy one. I have the stocks of both guns sanded down to 800 grit wetting the wood as i went along They have come out pretty good considering what they looked like before I stared. I am going to finish them a litle darker than the original. using min wax gun stock stain darkened 20% by volume with Min wax walnut. I tested it ad it looks pretty good. Swiss Products has this mount and a bipod also. If this is not the mount you mention and know where to find it I will take a look. now that I am committed to this job.
+
+
+Thanks for oall the help you have given me.
+Click to expand...
+
+Hi.
+
+No, that is not this mount-type, cuirc.. . Unfortunately. This is a clamp-mount probably on a K11, not on a K31.. .
+
+I can't recommend this clamp-mounts, as i mentioned earlier. IMHO it's in every case the better solution mounting a riflescope with an centered mount. In general. The development of K 31-mounts resulted in the centered mount with a rail, after several clamp-mounts. Pics down. That says to me that there was a need for better mounts. Today exist these better mounts. See here the details: https://mittelkaliber.ch/karabiner-31/
+Consider the aiming-position of your head, the Richner-Mount is a bit high. A headbutt noticeably improves then your comfort. If possible, try out one or several rail-mounts before the purchase. And I can eject the case with not so much muscle-power during half a afternoon 
+
+Pics: Headbutt-example, rail-mount-K31 from behind, headposition with dioptre, old Andretto-Mount, an early centered mount, Zfk 84 (f)-butt
+
+There are several such mounts around - unfortunately I don't know the world of your gunshops there in N.Y. at all - probably New York ?  I would get in contact with the two swiss companies, by Email f.e., in your place. And if that doesn't help somebody in your environment can probably help. Switzerland exports their good products usually in great quantities often - mainly - in the USA..  Good success.
+
+Maybe your project needs a bit more time than originally planned, cuirc?  
+
+Your "woodwork" sounds really good ! That's something I can't do myself.. . Respect. Such a work I only can admire. And hope that in such a case my old friend has a bit time left to do such a refinement for me.. .
+
+Best regards
+ 
+Attachments
+Schmidt-Rubin Zfk 84 (f) Hinterschaft von links gesehen.jpg
+745.5 KB · Views: 41
+K 31-Andretto-Montage I..jpg
+73.3 KB · Views: 38
+Schmidt-Rubin K 31 beim Feldschiessen.jpg
+627.6 KB · Views: 35
+SMKSG Schmidt-Rubin K 31 im Brünig.jpg
+108 KB · Views: 38
+K 31 Scope rifle Calgun with Headbutt I.jpg
+94.2 KB · Views: 35
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Oct 15, 2024
+#21
+You matched the type of targets, the distance with the scope-model and this reticle already, I suppose.. ?
+
+The European Reticle 1, see above - in German das Absehen 1 - is good usable on such targetpapers as after the text, according to my experience.
+
+This combinations bring the K31-accuracy to the target, in the end. Even when it's getting dark.. .Therefore comes my "contribution" to that part of the chaptre sight.
+You use probably a Crosshair-version in your scope, not ? A more american reticle-type. With good weather it's okay, but it should stay good.. 
+
+
+Well, just my 2 cents 
+ 
+Attachments
+McQueen-Target HBSA DP14-03.jpg
+5.4 KB · Views: 20
+400 Meter-MOA-Bild.Scan.2023-01-02.173705.jpg
+132.7 KB · Views: 18
+Military Sniper Scheiben bucklig 10 cm Figur-Breite.png
+192 KB · Views: 17
+Army F Target Maulwurfshügel Ziel 200m 91%.jpg
+189.1 KB · Views: 17
+Schmidt-Rubin-Zielfernrohrkarabiner ZfK 84(f) erstes Einschiessen I. mit 7,5 mm Swiss RUAG 175...jpg
+619.1 KB · Views: 17
+7,5x55 mm Swiss RUAG 175 grs Swiss P HPBT Match 3er-Schussbild aus Zfk 84 (f) II.jpg
+442.5 KB · Views: 23
+ 
+Reactions:
+cuirc
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Oct 15, 2024
+#22
+Hi Win is this the mount you got from Swiss Products
+
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Oct 17, 2024
+#23
+No.. . Unfortunately. First pic this time my Zfk 84 (f) with Richner-Mount seen from the left., old pic. Then as second something"new".
+
+That looks promising so far, too : https://www.badacetactical.com/prod...C5LCl83bsN2_Uc8nWF9nGHMb_vOy-LNkhZO4ZCFq7zFpZ
+
+
+
+
+
+Best regards from CH
+Winchester M70 Sharpshooter
+ 
+triumph001
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Nov 22, 2018
+203
+417
+Colorado
+Oct 17, 2024
+#24
+Here is another option for a center mounted scope base. Uses the same concept as the badace mount that @Winchester M70 Van Orden linked above. I havent used it personally but is looks solid.
+
+
+
+
+https://addleyprecision.com/product/swiss-k31/#scopes
+ 
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Oct 17, 2024
+#25
+`Thanks you have been a big help I ordered the Addley precision mount.
+The stocks are ready for oil they will probably be finished by the time the mount gets here.
+I will send you a picture
+ 
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Oct 19, 2024
+#26
+cuirc said:
+thank you
+Since found a suitable mount for the Valdada scope I bought I decided to refinish both rifles. I sanded them down and mixed some stain to darken the wood a little. I just put the first coat of oil on the stocks. I will probably piut 5 or 6 coats on. The wood cleaned up very well I went up in sandpaper to 2000 grit so the stocks are extremely smooth and look pretty good. When I finish and have the scope mounted I will post pictures.
+I have been thinking that since the action is, for a bolt action very fast cycling it might make a nice ELR rifle in a caliber like 300 PRC. So
+i am considering buying another for conversion as described above. The only problem to solve is how to improve the stock to complement what the caliber conversion to I think, might be a fast accurate ELR.
+ 
+ 
+Reactions:
+Winchester M70 Van Orden
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Oct 21, 2024
+#27
+cuirc said:
+Since found a suitable mount for the Valdada scope I bought I decided to refinish both rifles. I sanded them down and mixed some stain to darken the wood a little. I just put the first coat of oil on the stocks. I will probably piut 5 or 6 coats on. The wood cleaned up very well I went up in sandpaper to 2000 grit so the stocks are extremely smooth and look pretty good. When I finish and have the scope mounted I will post pictures.
+I have been thinking that since the action is, for a bolt action very fast cycling it might make a nice ELR rifle in a caliber like 300 PRC. So
+i am considering buying another for conversion as described above. The only problem to solve is how to improve the stock to complement what the caliber conversion to I think, might be a fast accurate ELR.
+Click to expand...
+
+I see, our K31 have an inspiring effect on you, cuirc 
+
+That's fine ! Just go ahead.
+ 
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Oct 21, 2024
+#28
+Just put the 5th coat on will do a sew more I started using oooo steel wool to break the finish. The rings that came with the mount sit perfectly. I didn't do bad on the scope either they sll on Planet optic for around 3k and I paid 600! Probably finish by middle of the next week then to sight it in
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Oct 22, 2024
+#29
+cuirc said:
+Just put the 5th coat on will do a sew more I started using oooo steel wool to break the finish. The rings that came with the mount sit perfectly. I didn't do bad on the scope either they sll on Planet optic for around 3k and I paid 600! Probably finish by middle of the next week then to sight it in
+That sounds good.. Which ammo, please ?
+ 
+F
+fdkay
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+ 
+Nov 27, 2009
+7,860
+5,155
+62
+Ingleside, Tx
+Oct 22, 2024
+#30
+ 
+ 
+Reactions:
+Winchester M70 Van Orden
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Oct 22, 2024
+#31
+
+
+
+A handload, probably ? 
+ 
+ 
+Reactions:
+crackerbrown
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Oct 22, 2024
+#32
+Winchester M70 Van Orden said:
+That sounds good.. Which ammo, please ?
+I have 100 boxer prime cases to reload so I can do a wide range of choices also I have 2 cases of Swiss military Berden primed ammo
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Oct 31, 2024
+#33
+Hmmm.. 2 Cases with each 60 rounds or each 480 rounds ? The 7,5 mm Swiss-Reloading is always a interesting subject .. .
+
+Supposing it's a Match-load, what bullet-weight may it be, then ? 
+ 
+Attachments
+50_SKH_Kal_7.5x55mm_175gr_FMJ_BT_GP11_geladen_mit_Originalpatronen_GP11_WLP_222-1024x683.jpg
+60.5 KB · Views: 26
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Nov 1, 2024
+#34
+Winchester M70 Van Orden said:
+Hmmm.. 2 Cases with each 60 rounds or each 480 rounds ? The 7,5 mm Swiss-Reloading is always a interesting subject .. .
+
+Supposing it's a Match-load, what bullet-weight may it be, then ? 
+Held one up by a 308 and a 3006 I would guess 175 to 180 grain
+ 
+F
+fdkay
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+ 
+Nov 27, 2009
+7,860
+5,155
+62
+Ingleside, Tx
+Nov 1, 2024
+#35
+Well, it does say 175 gr hpbt on the package, that might be a clue
+ 
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Nov 1, 2024
+#36
+fdkay said:
+Well, it does say 175 gr hpbt on the package, that might be a clue
+mystery solved
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Nov 6, 2024
+#37
+cuirc said:
+Held one up by a 308 and a 3006 I would guess 175 to 180 grain
+
+ This plastic bag with 7,5 x 55 mm Swiss-Reloads was only a spontaneuous example for such ammo.. Occasionally recently detected.. . A fitting pic, as I thought.. .
+
+My question referred to the Swiss Army-packages, simply said. So-called "Gaschons" in Swiss Dialect. One size holds 60 rounds, the large on 480.
+
+Then you plan another 175-180 grs HPBT-Match-Round, I see.. . Maybe a Sierra-Matchking-Bullet.. . Some 185 and 190 gr-recipes I saw earlier..
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Nov 6, 2024
+#38
+Without words 
+
+
+ 
+Attachments
+7,5 mm Schmidt-Rubin GP 11 Pack gross, Pack klein..JPG
+39.4 KB · Views: 18
+ 
+Reactions:
+BScore and crackerbrown
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Nov 6, 2024
+#39
+Winchester M70 Van Orden said:
+Without words 
+
+View attachment 8540251
+I have two cases of that also I started loading 100 Norma cases with 175 gr bullets and using 4350 load from sierra manual. Finished the stocks, installed the scope on one of them.
+ 
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Nov 6, 2024
+#40
+Winchester M70 Van Orden said:
+ This plastic bag with 7,5 x 55 mm Swiss-Reloads was only a spontaneuous example for such ammo.. Occasionally recently detected.. . A fitting pic, as I thought.. .
+
+My question referred to the Swiss Army-packages, simply said. So-called "Gaschons" in Swiss Dialect. One size holds 60 rounds, the large on 480.
+
+Then you plan another 175-180 grs HPBT-Match-Round, I see.. . Maybe a Sierra-Matchking-Bullet.. . Some 185 and 190 gr-recipes I saw earlier..
+Click to expand...
+Yes these are sierra matchking BTHP 175 group will probable get to the range early next week
+I am still working on a load for my 338 LM
+I also, in the near future have 4 more to work up a .223, .243, 6.5 PRC and a 300 PRC all on Remington 40-X actions
+I am hoping the 300 will workout for ELR
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Nov 6, 2024
+#41
+cuirc said:
+I have two cases of that also I started loading 100 Norma cases with 175 gr bullets and using 4350 load from sierra manual. Finished the stocks, installed the scope on one of them.
+Two cases of GP11 from which production, please ?
+ 
+cuirc
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 8, 2023
+465
+202
+Poughkeepsie n. y.
+Nov 7, 2024
+#42
+Don't know; if you know where to look for that info, I will look. I had them about 2 years
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Nov 7, 2024
+#43
+Please see above - all boxes contain a grey line in the center. With production-date... F. E 3.12.84 :  
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Nov 7, 2024
+#44
+My question refers primarly to the production-date because of the rather different production-details by the GP 11.
+
+The newer one from 2016 onwards have to be "reconstructed" with quite a lot of effort, time and new materials.. .
+
+And the newer one from 2026-2018 caused problems in our old repeaters.. 
+ 
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Nov 25, 2024
+#45
+Without words, once more:
+
+
+
+
+Best regards
+ 
+ 
+Reactions:
+crackerbrown
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Nov 28, 2024
+#46
+The above mentioned and a first time pictured SKH-Handload worked well during the first test, done yesterday evening 
+
+
+
+
+
+
+In this two quite different K31-Examples:
+ 
+Attachments
+Rossboden 27.11.2024. Ingold SKH 7,5x55 mm-GP 11 175 gr FMJ T20-Tests in Karabinern I.jpg
+446.2 KB · Views: 22
+Rossboden 27.11.2024. Ingold SKH 7,5x55 mm-GP 11 175 gr FMJ T20-Tests in Karabinern II.jpg
+571 KB · Views: 18
+Rossboden 27.11.2024. Ingold SKH 7,5x55 mm-GP 11 175 gr FMJ T20-Tests in Karabinern III.jpg
+471.5 KB · Views: 18
+Winchester M70 Van Orden
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 20, 2020
+214
+102
+Switzerland
+Dec 11, 2024
+#47
+That is IMHO until now the most accurate ammo in my Zfk 84 (f) this so-called general SKH-Handload. A Consistence like no other.. .
+
+The results today: 8 shots at 100 meters within 27 mm.. . Without exact adjustment, with a "suboptimal" target. Next time I will chronograph this round, too. I don't know their specifi-cation and I miss other details yet, t
+ 
+Attachments
+20241128_111900.jpg
+362.5 KB · Views: 12
+20241211_162452.jpg
+609 KB · Views: 12
+You must log in or register to reply here.
+Similar threads
+	
+Scope mount for swiss k31 rifle
+cuirc Aug 10, 2024 Vintage Sniper Rifles
+28
+Oct 15, 2024
+U
+	
+Swiss K31 Sniper Build
+u500771 Nov 27, 2024 Vintage Sniper Rifles
+16
+Tuesday at 10:38 AM
+	
+2024 Christmas gift thread (#2)! Please read instructions to participate!
+USMCSGT0331 Dec 23, 2024 Vintage Sniper Rifles
+134
+Wednesday at 11:55 AM
+	
+МЦ-55 Zenit rifle by Yevgeny Dragunov
+PMB27 Dec 15, 2024 Vintage Sniper Rifles
+0
+Dec 15, 2024
+	
+CMP has sniper rifle up for auction
+cuirc Dec 9, 2024 Vintage Sniper Rifles
+70
+Dec 17, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Vintage Sniper Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/swiss-k31-as-a-sniper-rifle.7229834/ 
+ ----- 

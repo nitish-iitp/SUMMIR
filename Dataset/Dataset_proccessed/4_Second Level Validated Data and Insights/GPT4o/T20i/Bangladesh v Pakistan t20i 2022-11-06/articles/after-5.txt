@@ -1,0 +1,330 @@
+BAN vs PAK
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+41st Match, Group 2, Adelaide, November 06, 2022, ICC Men's T20 World Cup
+BAN
+127/8
+PAK
+(18.1/20 ov, T:128) 128/5
+
+Pakistan won by 5 wickets (with 11 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+BAN 0.00%
+PAK 100%
+BAN
+PAK
+100%
+50%
+100%
+BAN Innings
+PAK Innings
+
+Over 19 • PAK 128/5
+
+Pakistan won by 5 wickets (with 11 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Shaheen Shah Afridi
+, PAK
+4/22
+CRICINFO'S MVP
+Najmul Hossain Shanto
+, BAN
+66.51 pts
+Impact List
+Bangladesh
+Pakistan
+Match Flow
+Info
+Bangladesh  (20 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+Najmul Hossain Shanto 
+\t54\t48\t7\t0\t112.50
+
+b Iftikhar Ahmed
+
+
+Litton Das 
+\t10\t8\t0\t1\t125.00
+
+c Shan Masood b Shaheen Shah Afridi
+
+
+Soumya Sarkar 
+\t20\t17\t1\t1\t117.64
+
+c Shan Masood b Shadab Khan
+
+
+Shakib Al Hasan (c)
+\t0\t1\t0\t0\t0.00
+
+lbw b Shadab Khan
+
+
+Afif Hossain 
+\t24\t20\t3\t0\t120.00
+
+not out
+
+
+Mosaddek Hossain 
+\t5\t11\t0\t0\t45.45
+
+b Shaheen Shah Afridi
+
+
+Nurul Hasan †
+\t0\t3\t0\t0\t0.00
+
+c Mohammad Haris b Shaheen Shah Afridi
+
+
+Taskin Ahmed 
+\t1\t5\t0\t0\t20.00
+
+c Babar Azam b Shaheen Shah Afridi
+
+
+Nasum Ahmed 
+\t7\t6\t1\t0\t116.66
+
+c Mohammad Wasim b Haris Rauf
+
+
+Mustafizur Rahman 
+\t0\t1\t0\t0\t0.00
+
+not out
+
+Extras\t6\t(b 2, lb 3, w 1)
+Total\t127/8\t
+20 Ov (RR: 6.35)
+
+
+Did not bat: 
+Ebadot Hossain 
+
+
+Fall of wickets: 1-21 (Litton Das, 2.5 ov), 2-73 (Soumya Sarkar, 10.4 ov), 3-73 (Shakib Al Hasan, 10.5 ov), 4-91 (Najmul Hossain Shanto, 13.2 ov), 5-107 (Mosaddek Hossain, 16.2 ov), 6-107 (Nurul Hasan, 16.5 ov), 7-109 (Taskin Ahmed, 18.1 ov), 8-126 (Nasum Ahmed, 19.5 ov)
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Shaheen Shah Afridi
+\t4\t0\t22\t
+4
+\t5.50\t0\t0
+
+Naseem Shah
+\t3\t0\t15\t0\t5.00\t0\t0
+
+Mohammad Wasim
+\t2\t0\t19\t0\t9.50\t1\t0
+
+Haris Rauf
+\t4\t0\t21\t
+1
+\t5.25\t0\t0
+
+Shadab Khan
+\t4\t0\t30\t
+2
+\t7.50\t0\t0
+
+Iftikhar Ahmed
+\t3\t0\t15\t
+1
+\t5.00\t0\t0
+Pakistan  (T: 128 runs from 20 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+Mohammad Rizwan †
+\t32\t32\t2\t1\t100.00
+
+c Najmul Hossain Shanto b Ebadot Hossain
+
+
+Babar Azam (c)
+\t25\t33\t2\t0\t75.75
+
+c Mustafizur Rahman b Nasum Ahmed
+
+
+Mohammad Nawaz 
+\t4\t11\t0\t0\t36.36
+
+run out (Litton Das)
+
+
+Mohammad Haris 
+\t31\t18\t1\t2\t172.22
+
+c Nasum Ahmed b Shakib Al Hasan
+
+
+Shan Masood 
+\t24\t14\t2\t0\t171.42
+
+not out
+
+
+Iftikhar Ahmed 
+\t1\t3\t0\t0\t33.33
+
+c Najmul Hossain Shanto b Mustafizur Rahman
+
+
+Shadab Khan 
+\t0\t0\t0\t0\t-
+
+not out
+
+Extras\t11\t(lb 7, nb 2, w 2)
+Total\t128/5\t
+18.1 Ov (RR: 7.04)
+
+
+Did not bat: 
+Mohammad Wasim, 
+Naseem Shah, 
+Haris Rauf, 
+Shaheen Shah Afridi 
+
+
+Fall of wickets: 1-57 (Babar Azam, 10.3 ov), 2-61 (Mohammad Rizwan, 11.2 ov), 3-92 (Mohammad Nawaz, 14.4 ov), 4-121 (Mohammad Haris, 16.5 ov), 5-126 (Iftikhar Ahmed, 17.6 ov)
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Taskin Ahmed
+\t3\t0\t26\t0\t8.66\t0\t1
+
+Nasum Ahmed
+\t4\t0\t14\t
+1
+\t3.50\t2\t0
+
+Shakib Al Hasan
+\t4\t0\t35\t
+1
+\t8.75\t0\t0
+
+Mustafizur Rahman
+\t4\t0\t21\t
+1
+\t5.25\t0\t0
+
+Ebadot Hossain
+\t3.1\t0\t25\t
+1
+\t7.89\t0\t1
+Unlocking the magic of Statsguru
+Match Flow
+Bangladesh innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 40 runs, 1 wicket)
+Bangladesh: 50 runs in 7.3 overs (45 balls), Extras 1
+Drinks: Bangladesh - 70/1 in 10.0 overs (Najmul Hossain Shanto 41, Soumya Sarkar 18)
+2nd Wicket: 50 runs in 45 balls (Najmul Hossain Shanto 31, Soumya Sarkar 18, Ex 1)
+Over 10.5: Review by Bangladesh (Batting), Umpire - AT Holdstock, Batter - Shakib Al Hasan (Struck down)
+Najmul Hossain Shanto: 50 off 46 balls (6 x 4)
+Bangladesh: 100 runs in 15.1 overs (91 balls), Extras 4
+Over 16.6: Review by Pakistan (Bowling), Umpire - AT Holdstock, Batter - Taskin Ahmed (Struck down)
+Innings Break: Bangladesh - 127/8 in 20.0 overs (Afif Hossain 24, Mustafizur Rahman 0)
+Pakistan innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 35 runs, 0 wicket)
+Match delayed because Babar was hit on the helmet
+Pakistan: 50 runs in 9.3 overs (57 balls), Extras 0
+1st Wicket: 50 runs in 57 balls (Mohammad Rizwan 31, Babar Azam 19, Ex 0)
+Drinks: Pakistan - 56/0 in 10.0 overs (Mohammad Rizwan 31, Babar Azam 25)
+Over 10.6: Review by Bangladesh (Bowling), Umpire - AT Holdstock, Batter - Mohammad Nawaz (3) (Struck down)
+Pakistan: 100 runs in 15.2 overs (94 balls), Extras 11
+Match Details
+Adelaide Oval
+
+Toss\tBangladesh, elected to bat first
+Series\t
+ICC Men's T20 World Cup
+
+Season\t
+2022/23
+
+Player Of The Match\t
+Shaheen Shah Afridi
+
+Match number\t
+T20I no. 1872
+
+Match days\t6 November 2022 - day (20-over match)
+Umpires\t
+Adrian Holdstock
+Joel Wilson
+
+TV Umpire\t
+Langton Rusere
+
+Reserve Umpire\t
+Michael Gough
+
+Match Referee\t
+Chris Broad
+
+Points\tPakistan 2, Bangladesh 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 873 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/bangladesh-vs-pakistan-41st-match-group-2-1298175/full-scorecard 
+ ----- 

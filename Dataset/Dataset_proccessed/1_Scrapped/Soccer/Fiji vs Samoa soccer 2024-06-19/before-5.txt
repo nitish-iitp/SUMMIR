@@ -1,0 +1,974 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Bolt Action Rifles
+Is a LA/SA multi caliber rifle possible with a Terminus Zeus?
+ 
+Thread starter
+Islas82  
+Start date
+Jun 18, 2024
+1
+	
+2
+Next
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 18, 2024
+#1
+So am currently brainstorming if I can make a multi caliber rifle out of a Terminus Zeus QC LA. The calibers I intend to run are 300 PRC, 7 PRC, 6.5 creedmoor. This will be running out of a AX AICS chassis or Foundation Stock, I know that there is no issue with the PRC cartridges besides barrel changes so it comes down to the 6.5 creedmoor. As of now magazines that will feed reliably are the main concern as am sure Terminus has .308 LA bolts. I know theres AXSR magazines that are designed to feed 6.5 CM but I believe those are double stack and the magazines on the AX chassis and Foundation are single stack.
+
+Are there single stack magazines out there that will feed 6.5 CM reliably on a LA? maybe inserts?
+
+Are there other issues I should be worried about?
+
+Does this make any sense? can it be done?
+ 
+Last edited: Jun 20, 2024
+ 
+Reactions:
+richthe1
+ma smith
+Old Salt
+Full Member
+Minuteman
+Sep 29, 2020
+2,928
+2,478
+Jun 18, 2024
+#2
+Did you try to call Terminus and ask them? That or your gunsmith. I'm not sure I'd try this as a lego-build.
+ 
+ 
+Reactions:
+Islas82
+FimRire RongLifle
+Sergeant of the Hide
+Full Member
+Minuteman
+Apr 27, 2022
+324
+212
+Florida, USA
+Jun 18, 2024
+#3
+Haven't tried one myself.
+
+
+AICS .308 Win. Long Action Magazine
+Our single-stack, single-feed long action magazines for the .308 Winchester are the perfect magazines for any shooter looking to feed several short action calibers in their long action rifle. These long action .308 WIN magazines from Accurate-Mag are built from steel, heat treated, and then...
+accurate-mag.com
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 18, 2024
+#4
+FimRire RongLifle said:
+Haven't tried one myself.
+
+
+AICS .308 Win. Long Action Magazine
+Our single-stack, single-feed long action magazines for the .308 Winchester are the perfect magazines for any shooter looking to feed several short action calibers in their long action rifle. These long action .308 WIN magazines from Accurate-Mag are built from steel, heat treated, and then...
+accurate-mag.com
+Click to expand...
+So they do exist. Thanks 
+ 
+moaorbust
+You make the lord very nervous...
+Full Member
+Minuteman
+Nov 12, 2019
+367
+244
+Idaho Falls, ID
+Jun 18, 2024
+#5
+Yes. I have used .308 in larger win mag length magazines.
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 18, 2024
+#6
+moaorbust said:
+Yes. I have used .308 in larger win mag length magazines.
+Any issues? Seems like this could work.
+ 
+moaorbust
+You make the lord very nervous...
+Full Member
+Minuteman
+Nov 12, 2019
+367
+244
+Idaho Falls, ID
+Jun 18, 2024
+#7
+No issues. I forget which sniper branch used to do so but .308 in long actions is old news.
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 18, 2024
+#8
+moaorbust said:
+No issues. I forget which sniper branch used to do so but .308 in long actions is old news.
+Right. It makes sense that it could be done like I said magazine comparability was the real issue. Just checked with Terminus and they do make a LA .308 bolt.
+ 
+R
+richthe1
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 31, 2018
+329
+105
+Jun 18, 2024
+#9
+Islas82 said:
+So am currently brainstorming if I can make a multi caliber rifle out of a Terminus Zeus QC LA. The calibers I intend to run are 300 PRC, 7 PRC, 6.5 creedmoor. This will be running out of a AX AICS chassis or Foundation Stock, I know that there is no issue with the PRC cartridges besides barrel changes so it comes down to the 6.5 creedmoor. As of now magazines that will feed reliably are the main concern as am sure Terminus has .308 LA bolts. I know theres AXSR magazines that are designed to feed 6.5 CM but I believe those are double stack and I the magazines on the AX chassis and Foundation are single stack.
+
+Are there single stack magazines out there that will feed 6.5 CM reliably on a LA? maybe inserts?
+
+Are there other issues I should be worried about?
+
+Does this make any sense? can it be done?
+Click to expand...
+Are you planning to run the QC or the FT Zeus Action?
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 18, 2024
+#10
+richthe1 said:
+Are you planning to run the QC or the FT Zeus Action?
+QC. don’t want to be removing barrels with a wrench every time I want to swap.
+ 
+R
+richthe1
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 31, 2018
+329
+105
+Jun 18, 2024
+#11
+Islas82 said:
+QC. don’t want to be removing barrels with a wrench every time I want to swap.
+You might ask to make sure 300/7 PRC are cool on the QC. Sounds like they are, but I asked on 300NM and got this response: “…We recommend the FT option for the NM and Lapua based cartridges…”
+ 
+ 
+Reactions:
+moaorbust, ma smith and Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 18, 2024
+#12
+richthe1 said:
+You might ask to make sure 300/7 PRC are cool on the QC. Sounds like they are, but I asked on 300NM and got this response: “…We recommend the FT option for the NM and Lapua based cartridges…”
+Good info. I already have a 7 PRC QC barrel so am hoping it won’t be an issue, I don’t think it would be since it’s a off the shelf proof pre-fit and I would think they’d do their research.
+ 
+ 
+Reactions:
+richthe1
+Ty21
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Jun 25, 2020
+285
+133
+Oregon
+Jun 19, 2024
+#13
+You can there is a mag that fits into the long action but is designed for short action cartridges I don’t remember the name off the top of my head I think it’s accurate mag. Just google it lol…. But it should work now I really want to sell my S.A. zues and get an long action lol 
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 19, 2024
+#14
+Ty21 said:
+You can there is a mag that fits into the long action but is designed for short action cartridges I don’t remember the name off the top of my head I think it’s accurate mag. Just google it lol…. But it should work now I really want to sell my S.A. zues and get an long action lol 
+Let’s start a trend lol. @FimRire RongLifle confirmed it on his post accumag makes them.
+ 
+Ty21
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Jun 25, 2020
+285
+133
+Oregon
+Jun 19, 2024
+#15
+Islas82 said:
+Let’s start a trend lol. @FimRire RongLifle confirmed it on his post accumag makes them.
+ yeah but I really do love my zues idk if I wanna start over lol 
+ 
+W
+WB300
+Cranky Yankee
+Full Member
+Minuteman
+Jan 15, 2011
+871
+332
+GA
+Jun 19, 2024
+#16
+James Eagleman from Barbour Creek Outfitters has a few videos of using the Zeus QC Long Action for both and doing a barrel swap.
+
+I think the key was the mags.
+
+Hope this helps.
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 19, 2024
+#17
+WB300 said:
+James Eagleman from Barbour Creek Outfitters has a few videos of using the Zeus QC Long Action for both and doing a barrel swap.
+
+I think the key was the mags.
+
+Hope this helps.
+
+
+I believe this is what you were talking about? Thank you.
+ 
+Punkur67
+Supporter
+Supporter
+Full Member
+Minuteman
+Oct 11, 2019
+1,122
+2,025
+Jun 19, 2024
+#18
+This is definitely a cool concept
+ 
+W
+WB300
+Cranky Yankee
+Full Member
+Minuteman
+Jan 15, 2011
+871
+332
+GA
+Jun 19, 2024
+#19
+That's it.
+ 
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,336
+2,169
+Midwest
+Jun 19, 2024
+#20
+Holler at the MKM boys in this thread, they are working on a better solution for this!
+
+Long Action Magazine Interchangeability
+@lash and @Tyler Kemp I figured we could start a new thread to kick ideas around instead of polluting @Terry Cross’s thread haha. So, the objective is to allow someone to go from shooting 308 Win to 338 Lapua with the change of a barrel, bolt and magazine. Extra points if it’s possible to step...
+ www.snipershide.com
+@Tyler Kemp
+
+
+
+I run a 6 CM (Proof CF), 6.5 CM, 308 Win, 300 Win and 300 NM through my Zeus LA QC using the mags already mentioned. Trying to stay strong and not add a 6.5 PRC or 25 CM to the mix!
+
+If you’re going to run a clip on and need the maximum versatility in an optic, I’ve enjoyed the MK8 3.5-25 TMR (easy to see at min power, great glass, good tracking, lightweight, better FOV than the MK5 3.6-18)
+ 
+ 
+Reactions:
+kthomas, texastonk and Islas82
+Ty21
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Jun 25, 2020
+285
+133
+Oregon
+Jun 19, 2024
+#21
+rlsmith1 said:
+Holler at the MKM boys in this thread, they are working on a better solution for this!
+
+Long Action Magazine Interchangeability
+@lash and @Tyler Kemp I figured we could start a new thread to kick ideas around instead of polluting @Terry Cross’s thread haha. So, the objective is to allow someone to go from shooting 308 Win to 338 Lapua with the change of a barrel, bolt and magazine. Extra points if it’s possible to step...
+ www.snipershide.com
+@Tyler Kemp
+
+View attachment 8442486
+
+I run a 6 CM (Proof CF), 6.5 CM, 308 Win, 300 Win and 300 NM through my Zeus LA QC using the mags already mentioned. Trying to stay strong and not add a 6.5 PRC or 25 CM to the mix!
+
+If you’re going to run a clip on and need the maximum versatility in an optic, I’ve enjoyed the MK8 3.5-25 TMR (easy to see at min power, great glass, good tracking, lightweight, better FOV than the MK5 3.6-18)
+Click to expand...
+6.5 prc I don’t see a gain for you but I think you definitely need a 25 creed I run a 6 creed and 6.5 prc in my sa zues qc I like to go fast 
+ 
+ 
+Reactions:
+rlsmith1 and Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 19, 2024
+#22
+rlsmith1 said:
+Holler at the MKM boys in this thread, they are working on a better solution for this!
+
+Long Action Magazine Interchangeability
+@lash and @Tyler Kemp I figured we could start a new thread to kick ideas around instead of polluting @Terry Cross’s thread haha. So, the objective is to allow someone to go from shooting 308 Win to 338 Lapua with the change of a barrel, bolt and magazine. Extra points if it’s possible to step...
+ www.snipershide.com
+@Tyler Kemp
+
+View attachment 8442486
+
+I run a 6 CM (Proof CF), 6.5 CM, 308 Win, 300 Win and 300 NM through my Zeus LA QC using the mags already mentioned. Trying to stay strong and not add a 6.5 PRC or 25 CM to the mix!
+
+If you’re going to run a clip on and need the maximum versatility in an optic, I’ve enjoyed the MK8 3.5-25 TMR (easy to see at min power, great glass, good tracking, lightweight, better FOV than the MK5 3.6-18)
+Click to expand...
+You’re using accumag single stacks?
+ 
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,336
+2,169
+Midwest
+Jun 19, 2024
+#23
+Ty21 said:
+6.5 prc I don’t see a gain for you but I think you definitely need a 25 creed I run a 6 creed and 6.5 prc in my sa zues qc I like to go fast 
+If I did a 6.5 PRC it would be a ~20” to shoot the 100 ELD VT’s as close to 3500fps as I could!
+
+ETA: hard to get away from factory 6 CM slinging the 80 ELD VT’s at 3150fps and very accurate (good enough for 300 yds at midnight anyway)
+
+
+ 
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,336
+2,169
+Midwest
+Jun 19, 2024
+#24
+Islas82 said:
+You’re using accumag single stacks?
+I believe so, they have a sort of spacer in the back of the mag that keep the SA cartridges towards the front of the magazine. I’m on the road the next couple weeks or I’d take a pic. The mags I’m using came with the actions / barrels when I bought it
+ 
+ 
+Reactions:
+Modoc and Islas82
+Ty21
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Jun 25, 2020
+285
+133
+Oregon
+Jun 20, 2024
+#25
+rlsmith1 said:
+If I did a 6.5 PRC it would be a ~20” to shoot the 100 ELD VT’s as close to 3500fps as I could!
+Oh ok lol that would be cool I just love the prc and the creed just for long range stuff I figured the prc would be easier to get out to a mile… I mean hell it’s just barrels lol there just like tires for your truck
+ 
+ 
+Reactions:
+rlsmith1
+Tyler Kemp
+Print Daddy
+Commercial Supporter
+Full Member
+Minuteman
+Aug 23, 2008
+1,949
+1,803
+MO
+mkmachining.com
+Jun 20, 2024
+#26
+siccing @Lil' Tone on this project with fury
+ 
+ 
+Reactions:
+rlsmith1
+hafejd30
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Feb 27, 2019
+6,449
+12,902
+MI
+Jun 20, 2024
+#27
+richthe1 said:
+You might ask to make sure 300/7 PRC are cool on the QC. Sounds like they are, but I asked on 300NM and got this response: “…We recommend the FT option for the NM and Lapua based cartridges…”
+It would be cool if they are. Or they come out with a Gen 2 that is. A cheaper option for QC compared to the MRAD and AXSR.
+
+I want to build a magnum again eventually. The Zeus has been on my radar
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 20, 2024
+#28
+Currently waiting on Terminus/proof regarding headspace compatibility between LA/SA pre fits. I would imagine it’s the same tenon dimensions?
+ 
+ 
+Reactions:
+rlsmith1
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,336
+2,169
+Midwest
+Jun 20, 2024
+#29
+I run both on my LA with no issues at all. My 6 CM Proof CF is a hammer
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jun 20, 2024
+#30
+rlsmith1 said:
+I run both on my LA with no issues at all. My 6 CM Proof CF is a hammer
+Do you also use the accurate mag or something different?
+ 
+ 
+Reactions:
+ma smith
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jul 3, 2024
+#31
+Well at this point this project has hit a brick wall. Still waiting to hear any news of my Zeus we are on week 16 originally quoted 7. I got everything else. It’s a shame because I really want the QC feature.
+
+Any LA recommendations I should be looking at as a substitute?
+ 
+Punkur67
+Supporter
+Supporter
+Full Member
+Minuteman
+Oct 11, 2019
+1,122
+2,025
+Jul 3, 2024
+#32
+Islas82 said:
+Well at this point this project has hit a brick wall. Still waiting to hear any news of my Zeus we are on week 16 originally quoted 7. I got everything else. It’s a shame because I really want the QC feature.
+
+Any LA recommendations I should be looking at as a substitute?
+There was one in the PX the other day. It may still be available
+ 
+ 
+Reactions:
+Islas82
+hafejd30
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Feb 27, 2019
+6,449
+12,902
+MI
+Jul 3, 2024
+#33
+Firearms - Terminus Zeus QC LA PRICE DROP 6/28
+Have an excellent condition Terminus Zeus LA with QC and lapua bolt face. Asking $1620 OBO Full disclosure, has a slight bump on the bottom of the tang, but fits between v block points and didn't cause any issues. PM if interested Thanks
+ www.snipershide.com
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jul 3, 2024
+#34
+Thank you guys, I seen but that’s a Lapua bolt face and am looking for standard magnum.
+ 
+Ty21
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Jun 25, 2020
+285
+133
+Oregon
+Jul 4, 2024
+#35
+You could buy that one then get a magnum bolt
+ 
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jul 4, 2024
+#36
+Ty21 said:
+You could buy that one then get a magnum bolt
+Trust me I have thought about it…
+ 
+R
+ruger35
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Nov 13, 2019
+371
+188
+Baton Rouge, LA
+Jul 4, 2024
+#37
+Kind of wish I had seen this thread before ordering a SA Zeus QC yesterday morning 
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jul 4, 2024
+#38
+ruger35 said:
+Kind of wish I had seen this thread before ordering a SA Zeus QC yesterday morning 
+How long did they tell you? 
+ 
+R
+ruger35
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Nov 13, 2019
+371
+188
+Baton Rouge, LA
+Jul 4, 2024
+#39
+3-4 weeks
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Jul 4, 2024
+#40
+ruger35 said:
+3-4 weeks
+Holy shit… well maybe that’s how far I am now 
+ 
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Aug 1, 2024
+#41
+Ok so after a 21 week wait it seems like it’s finally at its end. I been told that the action should be shipping from terminus today.
+
+Also I email Joel and he says that all proof prefit barrels are I interchangeable between LA and SA and there should not be any issues feeding .308 SA based carriages using the accurate mag magazine recommended above.
+
+This might happen guys. I’ll keep you posted everything is in place.
+ 
+ 
+Reactions:
+rlsmith1 and Modoc
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Aug 9, 2024
+#42
+GTAC grip mods just came back from cerakote. Just got notification that action has shipped to my FFL. It’s coming together.
+ 
+Attachments
+IMG_6976.jpeg
+669.2 KB · Views: 61
+IMG_6973.jpeg
+757.5 KB · Views: 59
+ 
+Reactions:
+rlsmith1
+18Echo
+Sergeant
+Supporter
+Full Member
+Minuteman
+Supporter
+Jun 12, 2007
+875
+154
+Maricopa Co., AZ
+Aug 10, 2024
+#43
+A little off topic, but I have a Zeus QC and was thinking of buying an extra bolt with Lapua bolt face for a future 300NM barrel, that’s not recommended by Terminus?
+
+Keith at PCR was sketchy about the short amount of threads on the tenon when he chambered my 300WM.
+
+@rlsmith1 any concerns with your 300NM in QC option?
+ 
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Aug 10, 2024
+#44
+18Echo said:
+A little off topic, but I have a Zeus QC and was thinking of buying an extra bolt with Lapua bolt face for a future 300NM barrel, that’s not recommended by Terminus?
+
+Keith at PCR was sketchy about the short amount of threads on the tenon when he chambered my 300WM.
+Unsure what’s the caliber cut off, if contact Joe. I’d be interested on his answers as I plan to move to 300 PRC in the future.
+ 
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,336
+2,169
+Midwest
+Aug 10, 2024
+#45
+18Echo said:
+A little off topic, but I have a Zeus QC and was thinking of buying an extra bolt with Lapua bolt face for a future 300NM barrel, that’s not recommended by Terminus?
+
+Keith at PCR was sketchy about the short amount of threads on the tenon when he chambered my 300WM.
+
+@rlsmith1 any concerns with your 300NM in QC option?
+Click to expand...
+I've not had issues but also have shot about 50 rounds through the Norma barrel. From what I've read, the 300NM shouldn't be an issue.
+
+For rifles in general, I'd be more concerned about hanging a suppressor off a heavy contour 26" barrel of any caliber but people have been doing that for a long time with no issues.
+ 
+ 
+Reactions:
+Islas82
+R
+richthe1
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 31, 2018
+329
+105
+Aug 10, 2024
+#46
+18Echo said:
+A little off topic, but I have a Zeus QC and was thinking of buying an extra bolt with Lapua bolt face for a future 300NM barrel, that’s not recommended by Terminus?
+
+Keith at PCR was sketchy about the short amount of threads on the tenon when he chambered my 300WM.
+
+@rlsmith1 any concerns with your 300NM in QC option?
+Click to expand...
+When I emailed earlier this year:
+
+“We recommend the FT option for the NM and Lapua based cartridges.“
+ 
+ 
+Reactions:
+rlsmith1
+M
+Mauser48
+Sergeant of the Hide
+Full Member
+Minuteman
+May 17, 2018
+267
+187
+Aug 10, 2024
+#47
+I've been thinking about doing this very thing but with a bighorn origin. Been looking at the zeus as well. Can't wait to see how the short action cartridges perform. I don't think you'll have any issues.
+ 
+TheOE800
+Argumentative
+Full Member
+Minuteman
+Supporter
+Feb 14, 2017
+5,703
+5,586
+USA
+Aug 10, 2024
+#48
+So is there a mag solution that lets you get more than 5rd in either LA or SA are you stuck with 5rd LA CIP type mags and Accurate’s 5rd LA footprint SA mags? To me that’s always been the LIMFAC.
+ 
+ 
+Reactions:
+Islas82
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Aug 10, 2024
+#49
+TheOE800 said:
+So is there a mag solution that lets you get more than 5rd in either LA or SA are you stuck with 5rd LA CIP type mags and Accurate’s 5rd LA footprint SA mags? To me that’s always been the LIMFAC.
+Unsure. I purchased a .308 single stack LA CIO magazine to try out. I did see anything other than 5 rounds tho. We’ll see if it works.
+ 
+Islas82
+Old Salt
+Full Member
+Minuteman
+Dec 18, 2019
+2,598
+1,106
+North Las Vegas
+Nov 9, 2024
+#50
+UPDATE.
+
+this project got side tracked for some time but it’s back on.
+
+I have confirmed reliable feeding with the accurate mag .308 long action magazine. At this time am waiting on the .308 bolt from Terminus to confirm headspace and extraction which I suspect should be fine.
+
+I had also reached out to Hawkins regarding their hunter magazine system. They confirmed that a 30.06 magazine with one of their spacers could be used to run .308 based cartridges out of a LA. That would have been my back up plan.
+ 
+ 
+Reactions:
+carbonbased and rlsmith1
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+B
+	
+R700 AICS AT Chassis 300WM to 308Win conversion possible?
+Boyydavid Sep 11, 2024 Bolt Action Rifles
+7
+Sep 12, 2024
+	
+Magazine system for Multi Cal rifle?
+Milf Dots Mar 27, 2023 Bolt Action Rifles
+17
+Mar 29, 2023
+	
+Firearms Terminus Zeus QC, Foundation Centurion, 6mm Creedmoor
+allentuckerjr Nov 28, 2024 Buy - Sell - Trade
+6
+Dec 1, 2024
+T
+	
+Another caliber selection post
+_Thor_ Sep 16, 2024 Bolt Action Rifles
+32
+Sep 30, 2024
+P
+	
+Tikka CTR feeding in Manners stock
+patriot07 Aug 12, 2024 Bolt Action Rifles
+5
+Nov 19, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Bolt Action Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/is-a-la-sa-multi-caliber-rifle-possible-with-a-terminus-zeus.7222273/ 
+ ----- 

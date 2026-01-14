@@ -1,0 +1,112 @@
+THE ECONOMIC RESEARCH PORTAL
+MY ACCOUNT
+FR
+EN
+CHARTS OF THE WEEK
+ALL CHARTS OF THE WEEK
+Home > 
+Charts of the Week > 
+France: Household financial savings rate remains high despite the sharp contraction in financial investment flows
+FRANCE: HOUSEHOLD FINANCIAL SAVINGS RATE REMAINS HIGH DESPITE THE SHARP CONTRACTION IN FINANCIAL INVESTMENT FLOWS
+01/24/2024
+ PDF
+ 
+
+After the historic peak in the first quarter of 2021 (“Covid savings”), financial investments and the household savings rate fell in step with each other through to the second quarter of 2022.
+
+Since then, however, the financial savings rate (7.1% on average for the year to Q3 2023, from 6.0% to Q2 2022) has resisted the continued fall in financial investment flows. The explanation for this lies in the very marked slowdown[1] in housing investment by value, which has grown more slowly than both nominal gross disposable income and gross savings since the second quarter of 2023, thus supporting financial savings[2] - also referred to as the “financing capacity” of households. In terms of national accounts, the latter represents the final line of sector accounts and the link between these and the financial accounts. In theory[3] it is equal to the flow of financial investment less the flow of financing (change in outstanding credit)[4]. However, most bank lending finances the transactions of existing homes, land and second-hand vehicles between households– transactions which involve existing goods and have no impact on consumption, investment or savings. This said, a fall in the flow of bank lending to cover purchases of such items does produce a reduction in financial investment flows (lower levels of money creation) for the household sector as a whole (as opposed to individual households) without affecting the financial savings rate.
+
+France : household investment and financing flows, and financial savings rate
+
+1 GFCF by value continued to grow as an annual average in the third quarter of 2023 (+2.3%), but this was much slower than growth in Gross Disposable Income (+8.0%) and gross savings (+12.0%). Its quarterly change was nevertheless negative in the first quarter of 2023, in keeping with the fall in new house sales.
+
+2 Financial savings or financing capacity is equal to gross savings (the share of income not consumed) less real savings (housing GFCF, primarily).
+
+3 In practice, due to the diversity of statistical sources, a significant gap is sometimes observed.
+
+4 The simplified balance of the source and application of funds for households can be expressed as: GDI + Bank lending flows = Consumption + GFCF + Financial Investment flows, which is equivalent to: Gross savings (GDI-Consumption) = Real savings (GFCF) + Financial savings (Financial investment flows - bank lending flows)
+
+THE ECONOMISTS WHO PARTICIPATED IN THIS ARTICLE
+Laurent QUIGNON
+Team : Banking economics
++33(0)1 42 98 56 54
+laurent.quignon@bnpparibas.com
+PREVIOUS ISSUE
+ 
+NEXT ISSUE 
+ECONOMIC RESEARCH
+
+Three teams of economists (OECD economies, emerging economies and country risk, banking economics) form the BNP Paribas Economic Research Department.
+This web site presents their analyses.
+
+My Account
+
+Receive all publications as soon as they are published
+
+PUBLICATIONS
+CHARTS OF THE WEEK
+ECO BRIEF
+ECO CHARTS
+ECO CONJONCTURE
+ECO EMERGING
+ECO FLASH
+ECO PERSPECTIVES
+ECO PULSE
+ECO WEEK
+ECOTV
+ECOTV WEEK
+FRENCH ECONOMY POCKET ATLAS
+PODCAST - MACRO WAVES
+SPECIAL EDITION
+THEMATICS
+CLIMATE CHANGE
+SUSTAINABLE FINANCE
+FISCAL POLICY
+EMERGING ECONOMIES
+DEVELOPED ECONOMIES
+FINANCIAL MARKETS AND INVESTMENTS
+FINANCIAL REGULATIONS
+MONETARY POLICY
+INTERNATIONAL TRADE
+BANKING ECONOMICS
+EMPLOYMENT AND LABOUR MARKET
+ECONOMIC GROWTH
+INFLATION
+REAL ESTATE
+CONSUMPTION AND PURCHASING POWER
+ENERGY
+ECONOMIC POLICY
+ARTIFICIAL INTELLIGENCE
+ECONOMIC REGIONS
+ASIA
+CENTRAL ASIA
+EUROPEAN UNION
+NORTH AMERICA
+GLOBAL
+EMERGING COUNTRIES
+SUB-SAHARA AFRICA
+MIDDLE EAST AND NORTH AFRICA
+LATIN AMERICA
+NON-EU EUROPE
+COOKIES POLICY
+MANAGE COOKIES
+DATA PROTECTION
+LEGAL NOTICE
+TERMS & CONDITIONS
+ACCESSIBILITY : NOT COMPLIANT
+CONTACT
+The bank for a changing world
+
+With your consent, BNP Paribas would like to use cookies placed by us or by partners on this website. Some of these cookies are strictly necessary for the proper functioning of this website. Others are used for the following purposes:
+- setting your preferences: These cookies allow us to personalize and offer the content and features of the Site and in particular the display of our products and services.
+- audience measurement: These cookies allow us and our partners, to understand how you access on our Website and to measure the number of visitors to our site.
+
+Your consent to the installation of cookies which is not strictly necessary is free and can be withdrawn at any time.
+
+Reject All Accept All Cookies
+Manage Cookies
+ 
+ 
+ ----- 
+ Source link : https://economic-research.bnpparibas.com/html/en-US/France-Household-financial-savings-rate-remains-high-despite-sharp-contraction-financial-investment-flows-1/24/2024,49246 
+ ----- 

@@ -1,0 +1,115 @@
+Search
+➜
+Main Site Navigation
+Home
+About Us 
+News 
+Services 
+Software 
+Sectors 
+Case Studies
+Clients
+Careers
+Contact Us
+News
+Sports Rating Algorithm Predicts UEFA Euro 2024 Knock-Out Stages
+11 Jul 2024
+
+UEFA Euro 2024 is heating up! The group stage has passed, which means it’s knock-out football from here, and Quintessa’s N-Estimates algorithm will be offering its predictions every step of the way.
+
+Over the past two weeks, Quintessa’s N-Estimates algorithm for rating sports teams has been predicting results of matches at UEFA Euro 2024. There have been some surprising statistics so far; for example, typically around 20% of men’s international football matches result in draws, whereas the figure for the group stages of this competition was a huge 38%. Nevertheless, the algorithm has performed well; the correct winner was predicted in 50% of the matches (a random set of predictions would have had a success rate of only 34%), and the exact scoreline was correctly predicted in 8 matches (twice the 4-match success rate from random predictions). A more detailed analysis of these and other performance metrics will be presented following the tournament.
+
+In an earlier article, the algorithm predicted the group winners would be Germany, Spain, England, France, Belgium and Portugal. Four of these teams did win their groups, with France falling to second place behind Austria and Belgium just missing out to Romania by virtue of having scored only two goals compared to Romania’s four.
+
+The predictions for the knock-out stages of the competition have now been produced and are presented in Figure 1. The list of predictions will be appended to as the tournament progresses. The prediction plots indicate the likelihood levels of various possible results. The x- and y-axes represent potential numbers of goals scored by the "home" and "away" teams respectively, with the home wins below the diagonal black dashed line and away wins above (except for matches involving host nation Germany, no home advantage is applied and the designation of a “home” team is arbitrary). The colour scale represents the normalised probability of each result, with a high probability plotted in orange and a low probability in blue. The most likely result is highlighted by the black crossed-circle.
+
+Figure 1: Predictions for the Euro 2024 knock-out stages. For each plot, the circles represent possible final scores, with the number of goals scored by each team plotted on the axes. Each circle has been colour coded to indicate the probability of that result occurring, with the most likely outcome marked with a black cross. The dashed black line indicates a goal difference of zero.
+
+Originally published 27 June 2024
+
+Updated 3ʳᵈ July 2024 for quarter-final predictions.
+
+Updated 8ᵗʰ July 2024 for semi-final predictions.
+
+Updated 11ᵗʰ July 2024 for the Spain-England final prediction.
+
+Quintessa is not affiliated in any way with UEFA. Its application of the N-estimates algorithm to the UEFA Euro 2024 competition is an independent and non-commercial endeavour.
+
+Related Pages
+News Archive
+Latest News
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+Contacts and News, Related Software, Case Studies etc.
+Contact
+Simon Rookyard
+SimonRookyard@quintessa.org
+Selected News
+
+How did Quintessa’s Sports Rating Algorithm Perform at Euro 2024?
+
+14 Aug 2024
+
+Sports Rating Algorithm Predicts UEFA Euro 2024 Group Stages
+
+24 Jun 2024
+
+How did Quintessa’s Sports Rating Algorithm Perform for the 2022 FIFA World Cup?
+
+16 Jan 2023
+
+Sports Rating Algorithm Predicts FIFA World Cup 2022 Final Stages
+
+7 Dec 2022
+
+Sports Rating Algorithm Predicts FIFA World Cup 2022 Knockout Stages
+
+2 Dec 2022
+
+Sports Rating Algorithm Predicts FIFA World Cup 2022 Group Stages
+
+18 Nov 2022
+
+How did Quintessa’s EURO 2020 Sports Rating Algorithm Perform?
+
+13 Aug 2021
+
+Sports Rating Algorithm Predicts UEFA EURO 2020 Knock-out Stages
+
+25 Jun 2021
+
+Sports Rating Algorithm Predicts UEFA EURO 2020 Group Results
+
+10 Jun 2021
+
+Quintessa presents new sports rating algorithm at OR Society conference
+
+16 Oct 2019
+Legal Links
+Contact Us Terms and Conditions Website Privacy Policy Sitemap ©2024 Quintessa Ltd.
+ 
+ 
+ ----- 
+ Source link : https://www.quintessa.org/latest-news/sports-rating-algorithm-predicts-uefa-euro-2024-knock-out-stages 
+ ----- 

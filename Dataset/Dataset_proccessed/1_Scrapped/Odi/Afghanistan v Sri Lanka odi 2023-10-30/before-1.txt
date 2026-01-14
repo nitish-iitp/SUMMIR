@@ -1,0 +1,42 @@
+We value your privacy
+We and our partners store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised advertising and content, advertising and content measurement, audience research and services development. With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our 1467 partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences or withdraw your consent at any time by returning to this site and clicking the "Privacy" button at the bottom of the webpage.
+Please note that this website/app uses one or more Google services and may gather and store information including but not limited to your visit or usage behaviour. You may click to grant or deny consent to Google and its third-party tags to use your data for below specified purposes in below Google consent section.
+MORE OPTIONS
+AGREE
+	CricClubs
+Home
+Players
+Matches
+Teams
+Statistics
+Series
+League
+ Log in
+Player Batting Records
+Player:	Rahmat Shah
+Series:	ICC Cricket World cup 2023
+Start Date:	10/05/2023	
+
+
+No.  	Match Date  	Team  	Against  	Winner  	Batting Position  	Runs  	Balls 	SR  	4's  	6's  	Points  	 
+1	11/10/2023	Afghanistan	South Africa	South Africa	3	26	46	56.52	2	0	48	Scorecard
+2	11/07/2023	Afghanistan	Australia	Australia	3	30	44	68.18	1	0	61	Scorecard
+3	11/03/2023	Afghanistan	Netherlands	Afghanistan	3	52	54	96.30	8	0	164	Scorecard
+4	10/30/2023	Afghanistan	Sri Lanka	Afghanistan	3	62	74	83.78	7	0	193	Scorecard
+5	10/23/2023	Afghanistan	Pakistan	Afghanistan	3	77*	84	91.67	5	2	240	Scorecard
+6	10/18/2023	Afghanistan	New Zealand	New Zealand	3	36	62	58.06	1	0	67	Scorecard
+7	10/15/2023	Afghanistan	England	Afghanistan	3	3	8	37.50	0	0	3	Scorecard
+8	10/11/2023	Afghanistan	India	India	3	16	22	72.73	3	0	29	Scorecard
+9	10/07/2023	Afghanistan	Bangladesh	Bangladesh	3	18	25	72.00	1	0	29	Scorecard
+
+© Copyright 2025 CricClubs.com. All Rights Reserved.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://cricclubs.com/InternationalScores/playerBattingRecords.do?playerId=1298006&league=1468&clubId=11707 
+ ----- 

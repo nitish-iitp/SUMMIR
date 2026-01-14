@@ -1,0 +1,313 @@
+Skip to main content
+
+An official website of the United States government
+
+Here's how you know
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+Materials (Basel). 2022 Jul 15;15(14):4948. doi: 10.3390/ma15144948
+Electrochemically Pretreated Sensor Based on Screen-Printed Carbon Modified with Pb Nanoparticles for Determination of Testosterone
+Jędrzej Kozak 1, Katarzyna Tyszczuk-Rotko 1,*, Magdalena Wójciak 2, Ireneusz Sowa 2, Marek Rotko 1
+Editors: Michael Moustakas, Catherine Dendrinou-Samara
+Author information
+Article notes
+Copyright and License information
+PMCID: PMC9320313  PMID: 35888414
+Abstract
+
+Testosterone (TST), despite its good properties, may be harmful to the human organism and the environment. Therefore, monitoring biological fluids and environmental samples is important. An electrochemically pretreated screen-printed carbon sensor modified with Pb nanoparticles (pSPCE/PbNPs) was successfully prepared and used for the determination of TST. The surface morphology and electrochemical properties of unmodified and modified sensors were characterized by cyclic voltammetry (CV), electrochemical impedance spectroscopy (EIS), scanning and transmission electron microscopy (SEM and TEM), and energy-dispersive X-ray spectroscopy (EDS). Selective determinations of TST at the pSPCE/PbNPs were carried out by differential pulse adsorptive stripping voltammetry (DPAdSV, EPb dep.and TST acc. of −1.1 V, t Pb dep.and TST acc. of 120 s, ΔEA of 50 mV, ν of 175 mV s−1, and tm of 5 ms) in a solution containing 0.075 mol L−1 acetate buffer of pH = 4.6 ± 0.1, and 7.5 × 10−5 mol L−1 Pb(NO3)2. The analytical signal obtained at the potential around −1.42 V (vs. silver pseudo-reference electrode) is related to the reduction process of TST adsorbed onto the electrode surface. The use of pSPCE/PbNPs allows obtaining a very low limit of TST detection (2.2 × 10−12 mol L−1) and wide linear ranges of the calibration graph (1.0 × 10−11–1.0 × 10−10, 1.0 × 10−10–2.0 × 10−9, and 2.0 × 10−9–2.0 × 10−8 mol L−1). The pSPCE/PbNPs were successfully applied for the determination of TST in reference material of human urine and wastewater purified in a sewage treatment plant without preliminary preparation.
+
+Keywords: testosterone, electrochemical preparation, screen-printed carbon sensor, lead nanoparticles, differential-pulse adsorptive stripping voltammetry, human urine, wastewater
+
+1. Introduction
+
+Hormones regulate many types of cellular and physiological functions in the human body, such as reproduction, growth, and differentiation [1]. Testosterone (TST), chemically known as 17β-hydroxyandrost-4-en-3-one, is the principal endogenous androgenic–anabolic steroid in humans. In the human body, it is produced primarily in the testes of males and in the ovaries of females, while small amounts are produced by adrenal glands in both sexes [2,3]. In men, TST plays a key role in the development of male reproductive tissues such as the testis and prostate, as well as in promoting secondary sexual characteristics such as increased muscle, bone mass, and the growth of body hair. Moreover, TST is essential for health and well-being as well as the prevention of osteoporosis. Testosterone abuse is widespread among sportsmen willing to increase aggressiveness, strength, and recovery, making it the most frequently reported substance in steroid misuse. The World Anti-Doping Agency prohibited its use to ensure fair play and protect athletes from possible adverse side effects such as heart attack, high blood pressure, liver disease, or mental effects [2,4]. TST can be an ingredient in pharmaceuticals. In the urine of an average man, TST is present at a level of 10−8 mol L−1, but in the case of hormone therapy using TST, these concentrations can be several times higher [5]. Currently, we are dealing with increasing pollution of the environment with various types of pharmaceuticals, including hormones. TST is one of the organic micropollutants present in the environment and in natural waters and can cause adverse biological effects on humans and wildlife below the physiological levels (sub-ng L−1) [6,7]. Due to the fact that TST concentrations detected in the environment are in the order of 10−12–10−11 mol L−1 (groundwater [8] and municipal wastewater [9]), it is necessary to develop highly sensitive methods of measuring this hormone.
+
+Among the popular analytical methods used for the detection of TST, chromatographic methods can be indicated, e.g., high-performance liquid chromatography coupled with tandem mass spectrometry (HPLC-MS/MS) [10], isotope dilution ultra-performance liquid chromatography–tandem mass spectrometry (ID-UPLC-MS/MS) [11], liquid chromatography coupled with mass spectrometry (LC-MS) [12,13], and gas chromatography coupled with mass spectrometry (GC-MS) [14,15]. Other methods that allow us to determine TST are capillary electrophoresis (CE) [16,17] and the molecularly imprinted plasmon resonance method [18]. While chromatographic methods are extremely effective, most have many disadvantages, such as cost and long and complicated sample pretreatment, usually involving different types of derivatization, extraction, and purification prior to analysis.
+
+On the other hand, electrochemical methods provide fast, low-cost on-site analysis with high specificity and high sensitivity [4,6]. However, there are only a few studies available on the voltammetric determination of testosterone. Most of them show the use of conventional working electrodes such as glassy carbon electrodes modified in various ways—modified with a lead film (PbFE) [19], a cationic surfactant (GCE/CTAB) [4], or a cationic surfactant and a bismuth film (GCE/CTAB/BiF) [3]. It can also include maltodextrin-modified paste electrodes based on various carbon materials (graphite, graphene, carbon nanotubes, and fullerene C60) [1], the hanging mercury drop electrode (HMDE) [20], the edge plane pyrolytic graphite electrode modified with single-walled carbon nanotubes (SWNTs-EPPGE) [2], and a gold electrode modified with a double-layered molecularly imprinted polymer (AuE/DMIP) [21]. The lowest detection limit at the conventional working electrode, equal to 1.0 × 10−14 mol L−1, was obtained on the AuE/DMIP. However, the preparation of this electrode requires many reagents and a multi-step procedure consisting of cleaning the gold surface and electrodepositing the first conductive polymer layer, and then another one forming the DMIP. The final step is to remove the testosterone template and dry the electrode.
+
+Unlike individual working electrodes in electrochemical analysis, all electrodes of screen-printed sensors (SPEs), i.e., reference, working, and counter electrodes, are printed and integrated on the same substrate. SPEs represent a modern analytical chemistry trend in miniaturization [22,23]. Screen-printed electrodes have advantages such as simplicity of construction and operation, diversification of the selection of electrode materials, low cost, design flexibility, reliability for detecting different substances, portability, and simplicity of modification of the electrodes for various uses [24]. An SPE is a good electrode due to its mass production, low cost, and low background current [25]. Conductive inks from screen-printed carbon electrodes (SPCEs) contain carbon with organic solvents, bonding pastes (e.g., polyester resin, ethyl cellulose, or epoxy-based polymer binder), and some additives that provide functional properties. The presence of these additional non-conductive materials can lead to a slowdown in the kinetics of heterogeneous electrochemical reactions [26]. The main purpose of the SPCE pretreatment is to remove the organic components of the ink or contaminants and to increase the surface roughness or functionality [27]. The following methods of pretreatment of SPEs can be found in the literature—heat treatment [27], oxygen plasma treatment [28], chemical treatment [29], polishing [30,31], and electrochemical treatment [32,33,34].
+
+Nanomaterials are chemical substances or materials that are manufactured and used at a very small scale [35]. Among the nanomaterials, carbon nanomaterials are often used today as electrode modifiers. We can distinguish here graphene, carbon black (CB), carbon nanofibers (CNFs), carbon nanotubes (CNTs), and carbon nanohorns (CNHs). Carbon nanomaterials have proven to be efficient electrode materials as they exhibit remarkable electronic, mechanical, and chemical properties; high surface areas; low electrical resistance; excellent electrical conductivity; and low cost. Additionally, the ability to functionalize their surfaces with antibodies, nucleic acids, or catalysts can lead to enhanced analytical performance, including sensitivity and selectivity [36,37,38]. Another group of commonly used nanomaterials is nanoparticles (NPs), mainly metal nanoparticles. Due to their small size, nanoparticles can increase the surface area of the electrode used. In addition, metallic nanoparticles can increase the mass transport speed and provide fast electron transfer between the electroactive species and the electrode surface, which increases the sensitivity of the electrodes used [39,40].
+
+Only one study describes the determination of testosterone using screen-printed sensors [41]. The TST determination procedure presented in the article [41] used SPEs modified with molecularly imprinted polymer (MIP). A very low LOD was obtained on this electrode, equal to 3.5 × 10−17 mol L−1. However, the preparation of the SPE/MIP is laborious and time-consuming and requires steps such as electropolymerizing the MIP on the surface of the working electrode in the presence of a high concentration of TST as a template and then removing this template. Therefore, a very simple procedure for the preparation of the modified screen-printed sensor was proposed while maintaining the high sensitivity and selectivity of the sensor. In this work, the combination of the valuable properties of screen-printed carbon electrode (SPCE) and lead nanoparticles (PbNPs), as well as the electrochemical pretreatment step in the fabrication of a novel voltammetric sensor of TST, was proposed for the first time. The use of a lead film glassy carbon electrode for TST determination was described in the literature [19]. However, as far as we know, the application of an electrochemically pretreated screen-printed carbon sensor modified with Pb nanoparticles (pSPCE/PbNPs) has never been reported. Moreover, it is the first time a voltammetric sensor has been used in TST determinations not only in body fluids (urine) but also in environmental samples (wastewater). It is worth adding that the samples do not require preliminary preparation. To specify the advantages of PbNPs and the use of the electrochemical pretreatment step, the pSPCE/PbNPs were characterized by cyclic voltammetry (CV), electrochemical impedance spectroscopy (EIS), scanning and transmission electron microscopy (SEM and TEM), and energy-dispersive X-ray spectroscopy (EDS).
+
+2. Materials and Methods
+2.1. Apparatus
+
+Transmission electron microscopy (TEM) analysis was performed by means of a high-resolution transmission electron microscope Tecnai G2 T20 X-TWIN (FEI) equipped with an energy dispersive X-ray spectrometer (EDS). The samples were prepared for analysis by scratching the film from the surface of the electrode and placing it on a TEM copper grid. Moreover, microscopic images of the pSPCE/PbNPs surface were attained with a high-resolution scanning electron microscope Quanta 3D FEG (FEI, USA) (acceleration voltage of 5.0 kV, working distance of 9.3 mm, magnification of 25,000×).
+
+All voltammetric studies were made using a µAutolab electrochemical analyzer (Eco Chemie, Utrecht, The Netherlands) controlled by GPES 4.9 software. The standard quartz electrochemical cell with a volume of 10 mL composed of a commercially available screen-printed carbon sensor (SPCE, DropSens, Spain, Ref. C150) was applied for experiments. The SPCE sensor consisted of a screen-printed carbon working electrode, a platinum screen-printed auxiliary electrode, and a silver screen-printed pseudo-reference electrode. The µAutolab analyzer controlled by FRA 4.9 software was used for electrochemical impedance spectroscopy (EIS) measurements.
+
+HPLC analyses were performed on a VWR Hitachi Elite LaChrom HPLC with a PDA detector using an Ascentis Express C18 column (15 cm × 2.1 mm i.d., 2.7 μm).
+
+2.2. Reagents and Solutions
+
+Appropriate amounts of Merck reagent (Darmstadt, Germany), testosterone propionate, were dissolved in ethanol to obtain a 10−3 mol L−1 solution of TST. This solution was diluted with ethanol to obtain a 10−4 mol L−1 solution of TST or with 0.1 mol L−1 acetate buffer of pH = 4.6 ± 0.1 to obtain 10−5 or 10−6 mol L−1 solutions of TST. The supporting electrolyte, acetate buffer of pH = 4.6 ± 0.1, was prepared with reagents (CH3COONa and CH3COOH) purchased from Merck. The 10−3 mol L−1 stock solutions of Fe(III), Ca(II), Cu(II), Mg(II), Cd(II), Ni(II), V(V), glucose (GL), dopamine (DA), ascorbic acid (AA), uric acid (UA), epinephrine (EP), and adenine (AD) were prepared from Merck reagents in deionized water before starting the set of experiments and stored at 4 °C in the dark until used. HPLC-grade acetonitrile was purchased from Merck. The solutions were prepared using ultra-purified water supplied by a Milli-Q system.
+
+2.3. Fabrication of pSPCE/PbNPs and Voltammetric Determination of TST
+
+The scheme of sensor fabrication and voltammetric measurements of TST at the pSPCE/PbNPs is presented in Figure 1. The commercially available SPCE was simultaneously electrochemically pretreated and electrochemically decorated by lead nanoparticles (PbNPs) in 0.075 mol L−1 acetate buffer of pH = 4.6 ± 0.1 containing 7.5 × 10−5 mol L−1 Pb(NO3)2. After placing a fresh electrode in the solution, 15 consecutive differential-pulse voltammograms were recorded (an electrochemical cleaning step at a potential of 0.5 V (Eclean.) for 10 s (tclean.), modification of the surface with PbNPs at a potential of −1.1 V (EPb dep.) for 120 s (tPb dep.), a scan rate (ν) of 175 mV s−1, an amplitude (ΔEA) of 50 mV, a modulation time (tm) of 5 ms, and a differential-pulse scan from −1.1 to −1.7 V). Then, after rinsing the electrode with water, it was allowed to dry for 10 min at room temperature. The sensor was electrochemically pretreated only once before a series of measurements of TST.
+
+Figure 1.
+
+Open in a new tab
+
+Scheme of sensor fabrication and voltammetric measurements of TST at the pSPCE/PbNPs.
+
+The pSPCE/PbNPs fabricated were used for TST determination in the same solution (0.075 mol L−1 acetate buffer of pH = 4.6 ± 0.1 containing 7.5 × 10−5 mol L−1 Pb(NO3)2) in which it had been prepared. Only a specified amount of TST standard solution (concentration of TST in the range of 1.0 × 10−11–2.0 × 10−8 mol L−1) or sample was introduced into the supporting electrolyte. The procedure consists of an electrochemical cleaning step at a potential of 0.5 V (Eclean.) for 10 s (tclean.), simultaneous modification of the surface with PbNPs, and accumulation of TST at a potential (EPb dep. and TST acc.) of −1.1 V for a time (tPb dep. and TST acc.) of 120 s. Differential-pulse scans were registered from −1.1 to −1.7 V with ν of 250 mV s−1, ΔEA of 150 mV, and tm of 5 ms.
+
+2.4. HPLC/PDA Analysis
+
+Chromatographic conditions were established based on the literature [42] with slight modification. A mixture of acetonitrile and water (65:35 v/v) at a flow rate of 0.25 mL min−1 was used as the mobile phase. The temperature was set at 30 °C. The injection volume was 10 µL, and the analytical wavelength was 240 nm.
+
+2.5. Sample Analysis
+
+The reference material of human urine (Medidrug Basis-line U) and wastewater purified in a sewage treatment plant (Lublin, Poland) were analyzed using the DPAdSV and HPLC/PDA methods. The desired concentrations of TST were added to the samples, and they were directly analyzed without any separation steps.
+
+3. Results and Discussion
+3.1. Characteristics of Sensors
+
+In the first phase of the research, the differential-pulse adsorptive stripping voltammetry (DPAdSV) technique was used to characterize TST behavior at the pSPCE/PbNPs sensor. The studies were performed in 0.1 mol L−1 acetate buffer of pH equal to 4.6 ± 0.1 containing 7.5 × 10−5 mol L−1 Pb(NO3)2 and 2.0 × 10−9 mol L−1 TST. For comparison, the DPAdSV curves were recorded under the same conditions at the unmodified SPCE and the SPCE/PbNPs that was not electrochemically pretreated. The studies (Figure 2A) showed that the use of modification with lead nanoparticles was necessary to obtain a reduction in the TST signal. Moreover, the application of electrochemical pretreatment of the SPCE (15 consecutive DPV measurements: 0.5 V for 10 s, −1.1 V for 120 s, scan from −1.1 to −1.7 V in the solution used further for TST determinations, rinsing with water and drying for 10 min) practically does not change the TST peak current (1.80 vs. 1.74 µA), but significantly improves its shape and shifts the peak potential of TST towards less negative potential values (−1.45 vs. −1.36 V). Furthermore, the electrochemical pretreatment significantly improves the repeatability of the analytical signal (Figure 2B, 2.0 × 10−9 mol L−1 TST RSD of 24.77 vs. 3.58%, n = 10). In summary, the electrochemical pretreatment step was crucial for a nicely shaped and repeatable signal, which has already been described in the literature [33]. It is worth adding that in contrast to the works described so far [43], in the electrochemical pretreatment step, the same solution and parameters as for the TST determination were used, which simplifies the electrode preparation step and reduces the consumption of reagents.
+
+Figure 2.
+
+Open in a new tab
+
+(A) DPAdSV curves of 2 × 10−9 mol L−1 TST recorded at the unmodified SPCE (a), modified with PbNPs (b), and the electrochemically pretreated SPCE/PbNPs (c). (B) Histogram bars of the repeatability of the TST signal (relative standard deviation (RSD), 2 × 10−9 mol L−1 TST, n = 10) at the SPCE/PbNPs and pSPCE/PbNPs.
+
+The interfacial electron transport ability of the unmodified SPCE and the electrochemically pretreated SPCE/PbNPs was studied using EIS and CV techniques in 0.1 mol L−1 KCl containing 5.0 mmol L−1 K3(Fe(CN)6). The CV curve displayed a pair of well-defined redox peaks of (Fe(CN)6)3-/4- at the unmodified SPCE (Figure 3A, curve a). In the case of the pSPCE/PbNPs (Figure 3A, curve b), the peak-to-peak separation (ΔE) increases from 123.6 to 169.0 mV, which is ascribed to the inhibition of the electrochemical reaction process by the PbNPs modification and electrochemical pretreatment. Moreover, the rate of the electron transfer at the SPCE and the pSPCE/PbNPs was calculated as the relative peak separations (χ0) by dividing ΔE by 59 mV. The χ0 values for the SPCE and pSPCE/PbNPs were greater than the theoretical value (χ0 = 1) and were equal to 2.09 and 2.86, respectively. Furthermore, the pSPCE/PbNPs show a higher anodic current intensity than the SPCE. The new peak at a potential around −0.5 V is related to the oxidation of lead from the pSPCE/PbNPs surface. The obtained results indicate that the PbNPs modification and electrochemical pretreatment inhibit the electron transfer kinetics. In addition, the Randles–Sevcik equation, CV curves recorded at scan rates of 5–150 mV s−1, and the dependence between the anodic peak current (Ip) and the square root of the scan rate (v1/2) (Figure 3B) were used to calculate of the electrochemically active electrode area (As) of the SPCE and pSPCE/PbNPs [44]. The As values of the SPCE and pSPCE/PbNPs were calculated to be 0.072 and 0.22 cm2, respectively. It is evident that the PbNPs modification and electrochemical pretreatment significantly increase the As. Moreover, the impedance spectra (Nyquist plots) were recorded at the SPCE and pSPCE/PbNPs in the frequency range from 50 kHz to 1 Hz (Figure 3C). According to the experimental results, the charge transfer resistance (Rct) values obtained for the SPCE and pSPCE/PbNPs are 146.7 and 121.3 Ω, respectively. The pSPCE/PbNPs are characterized by lower Rct and good conductivity.
+
+Figure 3.
+
+Open in a new tab
+
+(A) Cyclic voltammograms recorded at the SPCE (a) and pSPCE/PbNPs (b) using the scan rate of 100 mV s−1; (B) the relationship between the anodic peak current (Ip) and the square root of the scan rate (υ1/2) obtained at the SPCE (a) and pSPCE/PbNPs using the scan rate from 5 to 150 mV s−1; (C) Nyquist plots of the SPCE (a) and pSPCE/PbNPs (b) registered at a potential of 0.2 V, in the frequency range from 50 kHz to 1 Hz. All results were performed in 0.1 mol L−1 KCl and 5.0 mmol L−1 K3(Fe(CN)6).
+
+In order to specify the advantages of PbNPs and the use of the electrochemical pretreatment step, the pSPCE/PbNPs were also characterized by scanning and transmission electron microscopy (SEM and TEM) and energy-dispersive X-ray spectroscopy (EDS). The SEM image of the pSPCE/PbNPs shows cracks formed during the drying of the SPCE surface (Figure 4A). Moreover, the characteristic structure of the carbon layer obtained by the screen-printing technique is visible in the higher resolution SEM image (Figure 4B). However, the presence of electrochemically deposited lead nanoparticles (PbNPs) was only detected using a high-resolution transmission microscope equipped with an energy dispersive X-ray spectrometer (EDS) (Figure 4C,D). The EDS analysis confirms that the black dots contain very small amounts of lead (mass % = 0.11), which confirms that the electrochemically deposited lead is rewarded in the form of nanoparticles.
+
+Figure 4.
+
+Open in a new tab
+
+The SEM (A,B) and TEM (C) images of the pSPCE/PbNPs surface. (D) The EDS spectrum of the highlighted fragment of the pSPCE/PbNPs. The concentration of Pb(NO3)2 was 7.5 × 10−5 mol L−1.
+
+3.2. Mechanism and Optimization Procedure
+
+In order to identify the involved TST reduction mechanism at the pSPCE/PbNPs, the effect of scan rate was investigated. The cyclic voltammograms of 0.075 mol L−1 acetate buffer of pH ± 0.1 containing 7.5 × 10−5 mol L−1 Pb(NO3)2 and 5.0 × 10−6 mol L−1 TST were recorded at scan rates from 5 to 250 mV s−1. Figure 5A demonstrates the CVs obtained for three scan rate values (35, 50, and 75 mV s−1). There is a cathodic peak and no anodic peak in the CVs of TST, indicating an irreversible electrode process. The TST reduction mechanism (Figure 5C) is well described in the literature [3]. It shows that the electrode process for TST is two-proton coupled two-electron transfer. As can be seen in Figure 5B, the TST signal (Ip) increases non-linearly with the square root of the scan rate (υ). The non-linear Ip/υ plot with the regression equation of Ip (µA) = 0.74 × υ1/2 ((mV s−1)1/2) − 2.17 indicates that the faradic reaction is controlled by an adsorption process.
+
+Figure 5.
+
+Open in a new tab
+
+(A) CVs obtained at the pSPCE/PbNPs in the 0.075 mol L−1 acetate buffer of pH 4.6 ± 0.1 containing 7.5 × 10−5 mol L−1 Pb(NO3)2 and 5.0 × 10−6 mol L−1 TST (υ of 35, 50, 75 mV s−1). (B) The dependence between TST signal (Ip) and the square root of the scan rate (υ) (υ in the range of 5–250 mV s−1). (C) The possible TST reduction mechanism.
+
+Additionally, the effect of pH value (acetic acid and acetate buffer) on the reduction peak current of 1.0 × 10−8 mol L−1 TST was studied. The progress of Ip with pH shows that (Figure 6A) this parameter increased up to pH 4.6 ± 0.1, and therefore, an acetate buffer of pH 4.6 ± 0.1 was selected for further studies. Furthermore, the TST reduction process was analyzed at various concentrations (from 0.025 to 0.125 mol L−1) of acetate buffer (pH 4.6 ± 0.1) at the pSPCE/PbNPs. The fixed concentration of TST (1.0 × 10−8 mol L−1) was added to the supporting electrolyte. According to the results, the highest peak current was obtained at an acetate buffer concentration of 0.075 mol L−1. Then, the effect of Pb(NO3)2 concentration was evaluated in the range of 2.5 × 10−5 to 1.25 × 10−4 mol L−1 towards the reduction peak current of 1.0 × 10−8 mol L−1 TST. As exposed in Figure 6B, when increasing the Pb(NO3)2 concentration, the TST response also increases up to 7.5 × 10−5 mol L−1, and therefore, this concentration value was chosen. Moreover, the impact of DPAdSV procedure parameters, such as simultaneous modification of the surface with PbNPs and accumulation of TST potential (EPb dep. and TST acc.) and time (tPb dep. and TST acc.), amplitude (ΔEA), scan rate (ν), and modulation time (tm), on the peak currents of 1.0 × 10−8 mol L−1 TST was investigated. The EPb dep. and TST acc. were tested in the range from −0.8 to −1.3 V. The results (Figure 6C) show that the highest TST signal was obtained for −1.1 V (tPb dep. and TST acc. was equal to 120 s), and hence this value was chosen as optimal. Next, for the selected value of the potential, the effect of tPb dep. and TST acc. in the range of 15–300 s was examined. The tPb dep. and TST acc. of 120 s was selected for further study (Figure 6D), but the stage of simultaneous modification of the surface with PbNPs and accumulation of TST can be extended to obtain lower detection limits.
+
+Figure 6.
+
+Open in a new tab
+
+The dependence of pH (A), Pb(NO3)2 concentration (B), EPb dep. and TST acc. (C), and tPb dep. and TST acc. (D) on 1 × 10−8 mol L−1 TST signal. The DPAdSV parameters: tm of 10 ms, ΔEA of 50 mV and ν of 40 mV s−1. The mean values of Ip are given with the standard deviation for n = 3.
+
+In order to investigate the effect of ΔEA (from 25 to 200 mV), the reduction peak current of TST was measured (Figure 7A). The best responses were obtained with ΔEA of 150 and 175 mV. For further studies, the value of 150 mV was chosen. Figure 7B depicts the effect of ν in the range of 25–200 mV s−1 on the TST signal. The TST reduction signal increased by increasing υ up to 200 mV s−1. Due to the better repeatability of the TST signal, υ of 175 mV s−1 was selected as optimal. The tm was checked in the range from 2 to 40 ms. The highest TST signal was recorded for the tm of 5 ms (Figure 7C).
+
+Figure 7.
+
+Open in a new tab
+
+The dependence of ΔEA (A), ν (B), and tm (C) on 1 × 10−8 mol L−1 TST signal. The DPAdSV parameters: EPb dep. and TST acc. of −1.1 V and EPb dep. and TST acc. of 120 s. The mean values of Ip are given with the standard deviation for n = 3.
+
+3.3. Voltammetric Determination of TST
+
+The determination of TST at different concentrations was performed at the pSPCE/PbNPs by the DPAdSV technique under the developed conditions. Figure 8 shows the obtained results. As the concentration of TST increased, the related reduction peak current also increased. The plot of the peak current against TST concentration exhibited three linear ranges. The first one was from 1.0 × 10−11 to 1.0 × 10−10 mol L−1, the second one was from 1.0 × 10−10 to 2.0 × 10−9 mol L−1, and the third one was from 2.0 × 10−9 to 2.0 × 10−8 mol L−1. The detection (LOD) and quantification (LOQ) limits were estimated to be 2.2 × 10−12 and 7.3 × 10−12 mol L−1, respectively, using LOD = 3SDa/b and LOQ = 10 SDa/b equations (SDa—standard deviation of intercept (n = 3); b—slope of calibration curve) [45].
+
+Figure 8.
+
+Open in a new tab
+
+The DPAdSVs of the pSPCE/PbNPs in the presence of various TST concentrations (a → k, 1.0 × 10−11–2.0 × 10−8 mol L−1) in 0.075 mol L−1 acetate buffer of pH 4.6 ± 0.1 and 7.5 × 10−5 mol L−1 Pb(NO3)2 (A).Calibraion graph of TST (B). The obtained average values of the peak current are shown with standard deviation for n = 3. The DPAdSV parameters: tm of 5 ms, ΔEA of 150 mV, ν of 175 mV s−1, EPb dep. and TST acc. of −1.1 V and EPb dep. and TST acc. of 120 s.
+
+The linear range and the LOD of the pSPCE/PbNPs were compared with other previously reported voltammetric sensors, and the data are presented in Table 1. It can be seen that only two studies describe the determination of TST with a lower LOD [21,41]. However, the preparation of these electrodes (SPEs modified with a molecularly imprinted polymer and AuE modified with a double-layered molecularly imprinted polymer) requires a more expensive apparatus; the procedures are more labor-intensive, and more chemicals are used.
+
+Table 1.
+
+Comparison of techniques for analysis of TST.
+
+Electrode	Method	Linear Range [mol L−1]	LOD
+[mol L−1]	Application	Ref.
+SWNT-EPPGE	SWV	5.0 × 10−9–1.0 × 10−6	2.8 × 10−9	Urine	[2]
+GCE/BiF + CTAB	SWAdSV	1.0 × 10−9–4.5 × 10−8	3.0 × 10−10	Pharmaceutical formulations, urine	[3]
+HMDE	AdSV	1.0 × 10−8–7.3 × 10−6	5.0 × 10−9	Pharmaceutical formulations	[20]
+MD/graphite	DPV	1.0 × 10−8–1.0 × 10−6	4.1 × 10−8	Saliva	[1]
+MD/Graphene	DPV	1.0 × 10−7–1.0 × 10−6	6.7 × 10−9	Saliva	[1]
+MD/CNTs	DPV	1.0 × 10−10–1.0 × 10−6	1.4 × 10−11	Saliva	[1]
+MD/fullerene C60	DPV	1.0 × 10−8–1.0 × 10−6	1.5 × 10−8	Saliva	[1]
+SPE/MIP	CV	3.5 × 10−18–3.5 × 10−15	3.5 × 10−17	Urine	[41]
+PbFE (GCE/PbF)	SWAdSV	2.0 × 10−8–3.0 × 10−7	9.0 × 10−9	Urine	[19]
+AuE/DMIP	SWV	1.0 × 10−14–1.0 × 10−13	1.0 × 10−14	Urine	[21]
+GCE/CTAB	SWAdSV	1.0 × 10−8–7.0 × 10−8	1.2 × 10−9	Pharmaceutical formulations, urine	[4]
+pSPCE/PbNPs	DPAdSV	1.0 × 10−11–1.0 × 10−10
+2.0 × 10−10–2.0 × 10−9
+2.0 × 10−9–2.0 × 10−8	2.2 × 10−12	Urine, wastewater	This work
+Open in a new tab
+
+SWNT-EPPGE—edge plane pyrolytic graphite electrode modified with single-walled carbon nanotubes; GCE/BiF + CTAB—glassy carbon electrode modified with bismuth film and cetyltrimethylammonium bromide; HMDE—hanging mercury drop electrode; MD/graphite—maltodextrin-modified paste electrode based on graphite; MD/graphene—maltodextrin-modified paste electrode based on grapheme; MD/CNTs—maltodextrin-modified paste electrode based on carbon nanotubes; MD/fullerene C60—maltodextrin-modified paste electrode based on fullereneC60; SPE/MIP—screen-printed electrode modified with molecularly imprinted polymer; PbFE—lead film electrode; AuE/DMIP—gold electrode modified with a double-layered molecularly imprinted polymer; GCE/CTAB—glassy carbon electrode modified with cetyltrimethylammonium bromide; pSPCE/PbNPs—electrochemically pretreated screen-printed carbon electrode modified with lead nanoparticles; SWV—square-wave voltammetry; SWAdSV—square-wave adsorptive stripping voltammetry; AdSV—adsorptive stripping voltammetry; DPV—differential-pulse voltammetry; CV—cyclic voltammetry; DPAdSV—differential-pulse adsorptive stripping voltammetry.
+
+In order to investigate the selectivity of the DPAdSV procedure with the use of the pSPCE/PbNPs for TST determination, increasing concentrations of potential interferents were added to the supporting electrolyte. The tolerance limit was defined as the concentration that gave an error of ≤10% in the determination of 1.0 × 10−9 mol L−1 TST. It was noted that studied substances have negligible effects on the peak current of TST (Figure 9).
+
+Figure 9.
+
+Open in a new tab
+
+Histogram of the selectivity of pSPCE/PbNPs for TST determination. GLU—glucose, AA—ascorbic acid, ADN—adenine, DOP—dopamine, UA—uric acid, EPI—epinephrine.
+
+3.4. TST Determination in Real Samples
+
+The high performance of the DPAdSV procedure at the pSPCE/PbNPs for TST determination makes it a great potential for the analysis of environmental and biological samples. Therefore, the practical ability of DPAdSV at the pSPCE/PbNPs was checked by the determination of TST in reference material of human urine and wastewater samples purified in a sewage treatment plant without any separation steps. The samples were spiked with a known concentration of TST standard solution and analyzed by the standard addition method. Table 2 presents the obtained results. The very low value of LOD (2.2 × 10−12 mol L−1) allows for the use of small sample volumes and multiple dilutions of the sample in the electrolyte solution (10 × dilution of wastewater and 1000 × dilution of urine, which contributes to minimizing the interference from the sample matrix). The coefficient of variation values obtained between 0.8 and 4.7% indicate very good repeatability of the signal. The recovery values were between 98.7 and 104.5%, which confirms a satisfactory degree of accuracy of the DPAdSV procedure at the pSPCE/PbNPs. The DPAdSVs registered during the determination of TST in real samples are shown in Figure 10. The HPLC/PDA was applied to compare the results of TST analysis in samples without preliminary preparation. However, the concentrations of TST were below the LOD and LOQ of HPLC/PDA. The calculated LOD and LOQ for the standard solution were 7.5 × 10−8 and 2.5 × 10−7 mol L−1, respectively.
+
+Table 2.
+
+The outcomes of TST determination in reference material of human urine and wastewater purified in a sewage treatment plant.
+
+	TST Concentration [µmol L−1] ± SD (n = 3)		
+Sample	Added	Found DPAdSV	Found in Electrochemical Cell	Coefficient of Variation * [%]	Recovery ** [%]
+Purified wastewater	0.0003	0.000297 ± 0.000012	0.0000297 ± 0.0000012	4.05	99.0
+0.002	0.00201 ± 0.000026	0.000209 ± 0.0000017	0.80	100.5
+RM of human urine	0.03	0.0296 ± 0.0012	0.0000296 ± 0.0000012	4.07	98.7
+0.02	0.209 ± 0.0017	0.000209 ± 0.0000017	1.29	104.5
+Open in a new tab
+
+* Coefficient of variation [%] = (SD × 100)/Found DPAdSV, ** Recovery [%] = (Found DPAdSV × 100)/Added.
+
+Figure 10.
+
+Open in a new tab
+
+The DPAdSVs recorded for the determination of TST in reference material of human urine (A,B) and wastewater samples purified in a sewage treatment plant (C,D): (A): (a) 10 µL of sample + 0.03, (b) as (a) + 0.03, (c) as (a) + 0.06 nM TST, (B): (a) 10 µL of sample + 0.2, (b) as (a) + 0.2, (c) as (a) + 0.4 nM TST, (C): (a) 1 mL of sample + 0.03, (b) as (a) + 0.03, (c) as (a) + 0.06 nM TST, and (D): (a) 1 mL of sample + 0.2, (b) as (a) + 0.2, (c) as (a) + 0.4 nmol L−1. TST. The DPAdSV parameters: ΔEA of 150 mV, tm of 5 ms, ν of 175 mV s−1, EPb dep. and TST acc. of −1.1 V and EPb dep. and TST acc. of 120 s.
+
+4. Conclusions
+
+In summary, in this study, for the first time, an electrochemically pretreated screen-printed carbon electrode modified with lead nanoparticles (pSPCE/PbNPs) was introduced for trace analysis of testosterone (TST). The pSPCE/PbNPs were characterized by cyclic voltammetry (CV), electrochemical impedance spectroscopy (EIS), scanning and transmission electron microscopy (SEM and TEM), and energy-dispersive X-ray spectroscopy (EDS). The electrochemical pretreatment of the SPCE surface and electrochemical modification with PbNPs reduce the charge transfer resistance, inhibit the electron transfer kinetics, and significantly increase the active surface area of the sensor, which is translated into a significant increase in the TST reduction peak current. The DPAdSV procedure using the pSPCE/PbNPs is a highly sensitive and selective method for the determination of TST. The use of the pSPCE/PbNPs allows obtaining a very low limit of TST detection (2.2 × 10−12 mol L−1) and wide linear ranges of the calibration graph (1.0 × 10−11–1.0 × 10−10, 1.0 × 10−10–2.0 × 10−9, and 2.0 × 10−9–2.0 × 10−8 mol L−1). The practical ability of DPAdSV at the pSPCE/PbNPs was successfully confirmed by the determination of TST in spiked reference material of human urine and wastewater samples purified in a sewage treatment plant without any separation steps. These findings suggest that it is a promising analytical electrochemical sensing procedure for TST analysis in environmental and biological samples. Furthermore, the advantage of the sensor is its portability, which is very promising for quick field analysis.
+
+Acknowledgments
+
+The authors would like to thank the employees of Municipal Water Supply and Waste Water Treatment Company Ltd. (Lublin, Poland) for the wastewater samples.
+
+Author Contributions
+
+Conceptualization, J.K. and K.T.-R.; methodology, J.K. and K.T.-R.; investigation, J.K., K.T.-R., M.W., I.S. and M.R.; writing—original draft preparation, J.K. and K.T.-R.; writing—review and editing, J.K., K.T.-R., M.W., I.S. and M.R.; supervision, K.T.-R. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Informed Consent Statement
+
+Not applicable.
+
+Data Availability Statement
+
+The data presented in this study are available on request from the corresponding author.
+
+Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+Funding Statement
+
+This research received no external funding.
+
+Footnotes
+
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+References
+1.Gugoasa L.A., Stefan-van Staden R.-I., Calenic B., Legler J. Multimode sensors as new tools for molecular recognition of testosterone, dihydrotestosterone and estradiol in children’s saliva. J. Mol. Recognit. 2015;28:10–19. doi: 10.1002/jmr.2408. [DOI] [PubMed] [Google Scholar]
+2.Goyal R.N., Gupta V.K., Chatterjee S. Electrochemical investigations of corticosteroid isomers—testosterone and epitestosterone and their simultaneous determination in human urine. Anal. Chim. Acta. 2010;657:147–153. doi: 10.1016/j.aca.2009.10.035. [DOI] [PubMed] [Google Scholar]
+3.Levent A., Altun A., Taş S., Yardım Y., Şentürk Z. Voltammetric behavior of testosterone on bismuth film electrode: Highly sensitive determination in pharmaceuticals and human urine by square-wave adsorptive stripping voltammetry. Electroanalysis. 2015;27:1219–1228. doi: 10.1002/elan.201400627. [DOI] [Google Scholar]
+4.Levent A., Altun A., Yardım Y., Şentürk Z. Sensitive voltammetric determination of testosterone in pharmaceuticals and human urine using a glassy carbon electrode inthe presence of cationic surfactant. Electrochim. Acta. 2014;128:54–60. doi: 10.1016/j.electacta.2013.10.024. [DOI] [Google Scholar]
+5.Moon J.Y., Kwon W., Suh S., Cheong J.C., In M.K., Chung B.C., Kim J.Y., Choi M.H. Reference ranges for urinary levels of testosterone and epitestosterone, which may reveal gonadal function, in a Korean male population. J. Steroid Biochem. Mol. Biol. 2014;140:100–105. doi: 10.1016/j.jsbmb.2013.12.001. [DOI] [PubMed] [Google Scholar]
+6.Bulut U., Sanli S., Cevher S.C., Cirpan A., Donmez S., Timur S. A biosensor platform based on amine functionalized conjugated benzenediamine-benzodithiophene polymer for testosterone analysis. J. Appl. Polym. Sci. 2020;137:49332. doi: 10.1002/app.49332. [DOI] [Google Scholar]
+7.Lyubimenko R., Cardenas O.I.G., Turshatov A., Richards B.S., Schäfer A.I. Photodegradation of steroid-hormone micropollutants in a flow-through membrane reactor coated with Pd(II)-porphyrin. Appl. Catal. B. 2021;291:120097. doi: 10.1016/j.apcatb.2021.120097. [DOI] [Google Scholar]
+8.Bexfield L.M., Toccalino P.T., Belitz K., Foreman W.T., Furlong E.T. Hormones and pharmaceuticals in groundwater used as a source of drinking water across the united states. Environ. Sci. Technol. 2019;53:2950–2960. doi: 10.1021/acs.est.8b05592. [DOI] [PubMed] [Google Scholar]
+9.Kolodziej E.P., Gray J.L., Sedlak D.L. Quantification of steroid hormones with pheromonal properties in municipal wastewater effluent. Environ. Toxicol. Chem. 2003;22:2622–2629. doi: 10.1897/03-42. [DOI] [PubMed] [Google Scholar]
+10.Vicente F.B., Smith F.A., Sierra R., Wang S. Measurement of serum testosterone using high-performance liquid chromatography/tandem mass spectrometry. Clin. Chem. Lab. Med. 2006;44:70–75. doi: 10.1515/CCLM.2006.014. [DOI] [PubMed] [Google Scholar]
+11.Sun G., Xue J., Li L., Li X., Cui Y., Qiao B., Wei D., Li H. Quantitative determination of human serum testosterone via isotope dilution ultra-performance liquid chromatography tandem mass spectrometry. Mol. Med. Rep. 2020;22:1576–1582. doi: 10.3892/mmr.2020.11235. [DOI] [PMC free article] [PubMed] [Google Scholar]
+12.Wang Y., Gay G.D., Botelho J.C., Caudill S.P., Vesper H.W. Total testosterone quantitative measurement in serum by LC-MS/MS. Clin. Chim. Acta. 2014;436:263–267. doi: 10.1016/j.cca.2014.06.009. [DOI] [PMC free article] [PubMed] [Google Scholar]
+13.French D. Development and validation of a serum total testosterone liquid chromatography–tandem mass spectrometry (LC-MS/MS) assay calibrated to NIST SRM 971. Clin. Chim. Acta. 2013;415:109–117. doi: 10.1016/j.cca.2012.10.007. [DOI] [PubMed] [Google Scholar]
+14.Kannenberg F., Fobker M., Schulte E., Pierściński G., Kelsch R., Zitzmann M., Nofer J.R., Schüring A.N. The Simultaneous measurement of serum testosterone and 5α-dihydrotestosterone by gas chromatography–mass spectrometry (GC-MS) Clin. Chim. Acta. 2018;476:15–24. doi: 10.1016/j.cca.2017.10.030. [DOI] [PubMed] [Google Scholar]
+15.Matysik S., Schmitz G. Determination of steroid hormones in human plasma by GC-triple quadrupole MS. Steroids. 2015;99:151–154. doi: 10.1016/j.steroids.2015.01.016. [DOI] [PubMed] [Google Scholar]
+16.Du B., Zhang J., Dong Y., Wang J., Lei L., Shi R. Determination of testosterone/epitestosterone concentration ratio in human urine by capillary electrophoresis. Steroids. 2020;161:108691. doi: 10.1016/j.steroids.2020.108691. [DOI] [PubMed] [Google Scholar]
+17.Chen H.-X., Deng Q.-P., Zhang L.-W., Zhang X.-X. Quantification of testosterone and epitestosterone in biological samples by capillary electrophoresis with immunoaffinity extraction. Talanta. 2009;78:464–470. doi: 10.1016/j.talanta.2008.11.048. [DOI] [PubMed] [Google Scholar]
+18.Tan Y., Jing L., Ding Y., Wei T. A novel double-layer molecularly imprinted polymer film based surface plasmon resonance for determination of testosterone inaqueous media. Appl. Surf. Sci. 2015;342:84–91. doi: 10.1016/j.apsusc.2015.03.031. [DOI] [Google Scholar]
+19.Tyszczuk K. Application of an in situ plated lead film electrode to the analysis of testosterone by adsorptive stripping voltammetry. Anal. Bioanal. Chem. 2018;390:1951–1956. doi: 10.1007/s00216-008-1928-9. [DOI] [PubMed] [Google Scholar]
+20.Hu S., Chen Z., Zhang T. Adsorptive stripping voltammetry of testosterone propionate in pharmaceutical preparations. Fresenius J. Anal. Chem. 1993;346:1008–1010. doi: 10.1007/BF00322768. [DOI] [Google Scholar]
+21.Fourou H., Braiek M., Bonhomme A., Lagarde F., Zazoua A., Jaffrezic-Renault N. Voltammetric sensor based on a double layered molecularly imprinted polymer for testosterone. Anal. Lett. 2018;51:312–322. doi: 10.1080/00032719.2017.1298118. [DOI] [Google Scholar]
+22.Ma L.-L., He Y., Qin D., Chang A., Huang A., Xie X.-J., Zhang Y. Fabrication, Characterization and performance evaluation of screen-printed carbon electrodes: Determination of acetaminophen in Tylenol. Chin. J. Anal. Chem. 2021;49:21187–21196. doi: 10.1016/S1872-2040(21)60116-0. [DOI] [Google Scholar]
+23.Raymundo-Pereira P.A., Gomes N.O., Machado S.A.S., Oliveira Jr O.N. Simultaneous, ultrasensitive detection of hydroquinone, paracetamol and estradiol for quality control of tap water with a simple electrochemical method. J. Electroanal. Chem. 2019;848:113319. doi: 10.1016/j.jelechem.2019.113319. [DOI] [Google Scholar]
+24.Bagherinasab Z., Beitollahi H., Yousefi M., Bagherzadeh M., Hekmati M. Rapid sol gel synthesis of BaFe12O19 nanoparticles: An excellent catalytic application in the electrochemical detection of tramadol in the presence of acetaminophen. Microchem. J. 2020;156:104803. doi: 10.1016/j.microc.2020.104803. [DOI] [Google Scholar]
+25.Kondori T., Tajik S., Akbarzadeh-T N., Beitollahi H., Graiff C., Jang H.W., Shokouhimehr M. Synthesis and characterization of bipyridine cobalt(II) complex modified graphite screen printed electrode: An electrochemical sensor for simultaneous detection of acetaminophen and naproxen. RSC Adv. 2021;11:3049–3057. doi: 10.1039/D0RA08126D. [DOI] [PMC free article] [PubMed] [Google Scholar]
+26.Tyszczuk-Rotko K., Kozak J., Czech B. Screen-printed voltammetric sensors—tools for environmental water monitoring of painkillers. Sensors. 2022;22:2437. doi: 10.3390/s22072437. [DOI] [PMC free article] [PubMed] [Google Scholar]
+27.Gonzalez-Sanchez M.I., Gomez-Monedero B., Agrisuelas J., Iniesta J., Valero E. Highly activated screen-printed carbon electrodes by electrochemical treatment with hydrogen peroxide. Electrochem. Commun. 2018;91:36–40. doi: 10.1016/j.elecom.2018.05.002. [DOI] [Google Scholar]
+28.Yuan X., Ma L., Zhang J., Zheng Y. Simple pre-treatment by low-level oxygen plasma activates screen-printed carbon electrode: Potential for mass production. Appl. Surf. Sci. 2021;544:148760. doi: 10.1016/j.apsusc.2020.148760. [DOI] [Google Scholar]
+29.Wei H., Sun J.-J., Xie Y., Lin C.-G., Wang Y.-M., Yin W.-H., Chen G.-N. Enhanced electrochemical performance at screen-printed carbon electrodes by a new pretreating procedure. Anal. Chim. Acta. 2007;588:297–303. doi: 10.1016/j.aca.2007.02.006. [DOI] [PubMed] [Google Scholar]
+30.Lee J., Arrigan D.W.M., Silvester D.S. Mechanical polishing as an improved surface treatment for platinum screen-printed electrodes. Sens. Bio-Sens. Res. 2016;9:38–44. doi: 10.1016/j.sbsr.2016.05.006. [DOI] [Google Scholar]
+31.Cumba L.R., Foster C.W., Brownson D.A.C., Smith J.P., Iniesta J., Thakur B., do Camo D.R., Banks C.E. Can the mechanical activation (polishing) of screen-printed electrodes enhance their electroanalytical response? Analyst. 2016;141:2791–2799. doi: 10.1039/C6AN00167J. [DOI] [PubMed] [Google Scholar]
+32.Montiel N.F., Parilla M., Beltran V., Nuyts G., Van Durme F., De Wael K. The opportunity of 6-monoacetylmorphine to selectively detect heroin at preanodized screen printed electrodes. Talanta. 2021;226:122005. doi: 10.1016/j.talanta.2020.122005. [DOI] [PubMed] [Google Scholar]
+33.de Oliveira Silva R., da Silva E.A., Fiorucci A.R., Ferreira V.S. Electrochemically activated multi-walled carbon nanotubes modified screen-printed electrode for voltammetric determination of sulfentrazone. J. Electroanal. Chem. 2019;835:220–226. doi: 10.1016/j.jelechem.2019.01.018. [DOI] [Google Scholar]
+34.Kozak J., Tyszczuk-Rotko K., Wójciak M., Sowa I., Rotko M. First screen-printed sensor (electrochemically activated screen-printed boron-doped diamond electrode) for quantitative determination of rifampicin by adsorptive stripping voltammetry. Materials. 2021;14:4231. doi: 10.3390/ma14154231. [DOI] [PMC free article] [PubMed] [Google Scholar]
+35.Yaghoubian H., Tajik S., Beitollahi H., Sardahi H., Sheikhshoaie I. Fe2MoO4 magnetic nanocomposite modified screen printed graphite electrode as a voltammetric sensor for simultaneous determination of nalbuphine and diclofenac. J. Mater. Sci. 2021;32:17311–17323. doi: 10.1007/s10854-021-06244-3. [DOI] [Google Scholar]
+36.Cumba L.R., Camisasca A., Giordani S., Foster R.J. Electrochemical properties of screen-printed carbon nano-onion electrodes. Molecules. 2020;25:3884. doi: 10.3390/molecules25173884. [DOI] [PMC free article] [PubMed] [Google Scholar]
+37.Kozak J., Tyszczuk-Rotko K., Sadok I., Sztanke K., Sztanke M. Application of a screen-printed sensor modified with carbon nanofibers for the voltammetric analysis of an anticancer disubstituted fused triazinone. Int. J. Mol. Sci. 2022;23:2429. doi: 10.3390/ijms23052429. [DOI] [PMC free article] [PubMed] [Google Scholar]
+38.Ibanez-Redin G., Furuta R.H.M., Wilson D., Shimizu F.M., Materon E.M., Arantes L.M.R.B., Melendez M.E., Carvalho A.L., Reis R.M., Chaur M.N., et al. Screen-printed interdigitated electrodes modified with nanostructured carbon nano-onion films for detecting the cancer biomarker CA19-9. Mater. Sci. Eng. C. 2019;99:1502–1508. doi: 10.1016/j.msec.2019.02.065. [DOI] [PubMed] [Google Scholar]
+39.Sawan S., Maalouf R., Errachid A., Jaffrezic-Renault N. Metal and metal oxide nanoparticles in the voltammetric detection of heavy metals: A review. Trends Anal. Chem. 2020;131:116014. doi: 10.1016/j.trac.2020.116014. [DOI] [Google Scholar]
+40.Hezard T., Fajerwerg K., Evrard D., Colliere V., Behra P., Gros P. Gold nanoparticles electrodeposited on glassy carbon using cyclic voltammetry: Application to Hg(II) trace analysis. J. Electroanal. Chem. 2012;664:46–52. doi: 10.1016/j.jelechem.2011.10.014. [DOI] [Google Scholar]
+41.Lee M.-H., Thomas J.L., Liu W.-C., Zhang Z.-X., Liu B.D., Yang C.-H., Lin H.-Y. A multichannel system integrating molecularly imprinted conductive polymers for ultrasensitive voltammetric determination of four steroid hormones in urine. Microchim. Acta. 2019;186:695–705. doi: 10.1007/s00604-019-3797-7. [DOI] [PubMed] [Google Scholar]
+42.Gonzalo-Lumbreras R., García-Miguens M.A., Izquierdo-Hornillos R. HPLC method development for testosterone propionate and cipionate in oil-based injectables. J. Pharm. Biomed. Anal. 2005;38:757–762. doi: 10.1016/j.jpba.2005.02.003. [DOI] [PubMed] [Google Scholar]
+43.Rana A., Baig N., Saleh T.A. Electrochemically pretreated carbon electrodes and their electroanalytical applications–A review. J. Electroanal. Chem. 2019;833:313–332. doi: 10.1016/j.jelechem.2018.12.019. [DOI] [Google Scholar]
+44.Gosser D.K. Cyclic Voltammetry: Simulation and Analysis of Reaction Mechanism. VCH; New York, NY, USA: 1993. [Google Scholar]
+45.Mocak J., Bond A.M., Mitchell S., Scollary G. A statistical overview of standard (IUPAC and ACS) and new procedures for determining the limits of detection and quantification: Application to voltammetric and stripping techniques. Pure Appl. Chem. 1997;69:297–328. doi: 10.1351/pac199769020297. [DOI] [Google Scholar]
+Associated Data
+
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+
+Data Availability Statement
+
+The data presented in this study are available on request from the corresponding author.
+
+Articles from Materials are provided here courtesy of Multidisciplinary Digital Publishing Institute (MDPI)
+
+FOLLOW NCBI
+NCBI on X (formerly known as Twitter)
+NCBI on Facebook
+NCBI on LinkedIn
+NCBI on GitHub
+NCBI RSS feed
+
+Connect with NLM
+
+NLM on X (formerly known as Twitter)
+NLM on Facebook
+NLM on YouTube
+
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+ 
+ 
+ ----- 
+ Source link : https://pmc.ncbi.nlm.nih.gov/articles/PMC9320313/ 
+ ----- 

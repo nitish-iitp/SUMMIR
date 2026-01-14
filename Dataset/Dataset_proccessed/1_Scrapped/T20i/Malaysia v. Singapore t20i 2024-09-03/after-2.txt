@@ -1,0 +1,167 @@
+HOME › X Stories › A Student of Stargazing: Astrophotography with Bálint Lengyel
+
+A Student of Stargazing: Astrophotography with Bálint Lengyel
+03.09.2024
+Facebook
+X
+LinkedIn
+Email
+Bálint Lengyel describes how he got hooked on photographing the night sky
+
+Hungarian astrophotographer Bálint Lengyel started his image-making journey almost on a whim, but soon found himself delving deep into the finer points of photographic technique.
+
+“I bought my first camera in the summer of 2016, so I could make photos while travelling,” he begins. “Straight away, I was reading articles and forums about settings and how to compose for different subjects.”
+
+In getting to grips with his second-hand camera, Bálint opened the door to an entirely new way of looking at the world.
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-A5 and FUJINON XF23mmF1.4 R LM WR, 37×30 secs (stacked exposures) at F1.4, ISO 800
+
+“That summer, I read an article about astrophotography. As a beginner, I checked the EXIF data of the photos in the article, and saw they were made with a full-frame camera. I knew I didn’t have the kind of money for equipment like that, but I gave the technique a try. In my photo, I saw Mercury – a little pale, but it was there.”
+
+Later that year, Bálint bought his first FUJIFILM X Series camera, hoping it would unlock even more detail in the night sky. “I knew I wanted to try and explore astrophotography – and at a lower cost,” he explains. “I found it so interesting, and took a deep dive into the subject.
+
+“After that, it was like an avalanche,” Bálint continues. “I started reading every astrophotography article that came to me. The next year, we bought a house in a small village – at that time I was looking for a house close to a dark sky. This is how it began.”
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-A5 and FUJINON XF35mmF1.4 R, 9×8 secs (stacked exposures) at F1.4, ISO 3200
+Getting started in astrophotography
+
+“I bought a tripod and a wide-angle lens. From that point, I was waking up and going to sleep thinking about astrophotography,” explains Bálint. “I read more articles, checked Facebook groups on the subject and it became my main hobby.”
+
+Bálint found that the APS-C sensor of his X Series camera was delivering quality and depth-of-field right in the sweet spot for the compositions he was attempting.
+
+“I realised this sensor size is better for astrophotography because the foreground is sharper – I don’t have to stop down the lens to bring it into focus. And with the sky, I didn’t see a difference in detail compared to full-frame images online.
+
+“It took years to learn how to do everything,” adds Bálint, explaining how many techniques are involved in astrophotography. “At first, I learnt image stacking for noise reduction. After that, I bought and learnt how to use a star tracker.
+
+“At this point, I bought another camera – the FUJIFILM X-A5 – and sent it off to receive an astro modification* that lets it take in more infrared light. This makes post-processing the images even easier.”
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-T20 and FUJINON XF56mmF1.2 R WR, 15×6 secs (stacked exposures) at F1.2, ISO 4000
+
+ A third-party astro modification involves swapping out or removing a camera’s built-in optical window filter. Often known as a hydrogen-alpha modification, it makes the camera more sensitive to wavelengths of light originating from deep-sky objects such as nebulae and galaxies.
+
+“The main challenge in astrophotography is the noise,” Bálint continues. “Many techniques can decrease this, such as AI denoising, which can give fantastic results for foregrounds – but for the sky it’s better if the RAW files aren’t too noisy.
+
+“Because of this, I choose the fastest lenses I can. F2 is OK, but F1.4 or F1.2 is much better. In the past, I had to stop down the lenses because of aberrations in the corners of the image. But the new X Series lenses are so good, and they perform well even when wide open. You just have to choose your favourite focal length and it won’t disappoint – I go for the XF23mmF1.4 R LM WR as my best all-rounder for day and night.
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-A5 and FUJINON XF23mmF2 R WR, 40×120 secs (stacked exposures) at F2, ISO 800
+
+“When I’m not using a star tracker, my exposure time has to be limited to avoid star trails. You can figure out an approximate speed by dividing 300 by your focal length for an exposure time in seconds. Of course, you always need to test this. You should also keep in mind that higher-megapixel sensors will need shorter exposure times. For example, a 16-megapixel sensor with a 35mm lens would be good with a ten-second exposure, but for a 24-megapixel sensor it would only be eight seconds.”
+
+“When I have enough time, I use a star tracker. In that case, I will make as many pictures as I can. The more the better – even if it takes hours or a whole night – because in post-processing, you can find more detail if you have enough photos. Those details are there even on a single exposure, but they are floating in an ocean of noise.
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-T20 and FUJINON XF56mmF1.2 R WR, 216×6.5 secs (stacked exposures) at F1.2, ISO 4000
+
+“Usually, I will do a test photo at a higher ISO and a faster shutter speed, just to check quickly if the foreground is exposed properly, then I’ll change the settings to make further pictures.
+
+“For my main photos, I’ll normally use ISO 1600 or 3200 without a star tracker and ISO 400 or 800 with a tracker. I could use base ISO, but I don’t like to make exposures longer than one or two minutes, as star trails can appear if the polar alignment isn’t perfect.”
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-T20 and FUJINON XF16mmF1.4 R WR, 15 secs at F2, ISO 4000
+Selecting a foreground
+
+Bálint puts a lot of effort into locating interesting elements to build his compositions around. “The main thing for me is finding a good foreground,” he notes. “At lunchtime, I will be searching on Google Maps for places I could go. Then I check it at daytime. Then I go back at night and hope for the best.”
+
+As Bálint has found, scouting a location during the day doesn’t necessarily guarantee a good photo once the sun goes down.
+
+“It could be beautiful during daytime, but at night it might be completely different. I might find an abandoned house or church, but when I go back at night it’s illuminated by a bright light.”
+
+Astrophotography requires extremely low levels of ambient light. Local light pollution makes stars and other celestial bodies less visible, while having any object brighter than the night sky in frame will make it much harder to balance overall exposure.
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-T3 and FUJINON XF23mmF1.4 R LM WR, 32×30 secs (stacked exposures) at F2, ISO 400
+
+“I don’t tend to work too near big cities, although I did make one photo of city lights from the top of a mountain,” notes Bálint. “It can work if the weather is clear, and there’s no dust or humidity in the air. If there’s heavy rain for three days, it will be clearer afterwards because that washes dust from the air – but even then, it needs some luck.
+
+“That picture of the Milky Way over the city was two years of waiting. The location is an hour by car from my house, so I had to wait until the conditions lined up with a night where I wasn’t too tired to go and do it. I tried last year, but what I ended up with was terrible.”
+
+Patience and perseverance are crucial traits for astrophotography – though as Bálint has found, these come more easily when working with something that fascinates you.
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-A5 and FUJINON XF23mmF1.4 R LM WR, 70×30 secs (stacked exposures) at F1.4, ISO 800
+Post-processing for astrophotography
+
+“I’ve photographed almost everything near my home,” remarks Bálint. “I’ve now made a checklist of things I’d like to photograph around Hungary and its neighbouring countries.
+
+The more journeys he goes on, however, the longer Bálint’s list gets. “When I travel anywhere, I’m always looking around for anything interesting. If it’s in the right direction for photographing the Milky Way, I add it to my list.”
+
+One thing preventing Bálint from ticking locations off as quickly as he may like is the unfortunate fact that astrophotography is not a year-round enterprise.
+
+“The winter isn’t very good,” he acknowledges. “If I can go out and make some photos about three or four times, that’s a good winter. Months go by without any chances. In the first few years it was annoying, but after seven years you accept it works like that. You have to be patient.”
+
+Due to the reliance on specific atmospheric conditions, astrophotography is more of a seasonal hobby for Bálint – though the summer months provide him with more than enough imagery to keep busy with editing.
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-A5 and FUJINON XF23mmF2 R WR, 43×30 secs (stacked exposures) at F2, ISO 1000
+
+“In the summer of last year, I made more than 40 pictures, but most of those are still on my computer without any post-processing because I haven’t had time,” Bálint explains.
+
+“Editing the pictures is like a whole other hobby. One photo can take from half an hour to two hours. Stacking is the simplest – but most boring – of processes. I use Sequator to do it. I just have to drop in the pictures, mask the sky – that’s how the software knows what to stack if there is an untracked foreground on the picture – then push the start button. If there are lots of pictures, you can have a coffee or even dinner while the process is ongoing.
+
+“I then use Adobe Lightroom for the general post-processing, and Photoshop for fine-tuning the details and colours. This is also where I use the technique of star reduction,” adds Bálint. “The images I make have more stars than you would see with the naked eye, and during post-processing they become bigger and even brighter. We have to make them smaller for a clearer result and so the nebulae become much more spectacular.”
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-A5 and FUJINON XF35mmF1.4 R, 25×8 secs (stacked exposures) at F2, ISO 3200
+
+Star reduction is in keeping with Bálint’s overall editing philosophy, which is one of showcasing the beauty of the night sky while maintaining naturalism. “When I look at my pictures, I want to believe it was really made at night, so I don’t push the exposure of the foreground,” he explains. “I normally desaturate a little as well, as the human eye can’t see colours very well in the dark.
+
+“The sky is another story. I want to show the detail and natural colours that the human eye would never see, but still in a realistic way. It’s hard to find the balance, I often need to do the post-processing again and again from the beginning because I’m not satisfied with the result.”
+
+Despite the high skill ceiling in the post-production phase, Bálint is insistent that astrophotography is a surprisingly approachable genre of image making.
+
+“For a good photo – not a prize winner but a good photo – all you need is a tripod, any camera body and an ultra-wide to normal lens with a good aperture,” he asserts. “F2 or F1.4 – that’s enough for someone who wants to give it a try.”
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-A5 and FUJINON XF23mmF1.4 R LM WR, 48×11 secs (stacked exposures) at F1.4, ISO 1600
+Thinking on your feet
+
+While it’s a discipline that requires a patient and methodical approach, at times astrophotography requires you to keep an ear to the ground, ready to react.
+
+“Here in Hungary, you don’t get chances to make photos of the aurora borealis,” remarks Bálint. “I always thought I’d have to go to Finland or Iceland, but it turns out not.
+
+“We have an online astrophotography live chat, where anyone can write to say what is happening in the area. People were saying the aurora would be occurring in Hungary, but then it seemed it was only going to come during the daytime.”
+
+Image 2024 © Bálint Lengyel | FUJIFILM X-A5 and FUJINON XF23mmF1.4 R LM WR, 15 secs at F1.4, ISO 1600
+
+Getting photos of the phenomenon in such conditions would have been impossible, leaving Bálint feeling like he’d experienced an agonisingly near miss.
+
+“It seemed there would be no chance. But that night, after my son fell asleep, I checked the group and saw people saying it was here! I jumped on my bicycle and headed away from the village.”
+
+Using the knowledge he has accrued over years of research and experimentation, Bálint made for some dark fields and hunted out a suitable composition to mark this rare event. His impossible dream came true.
+
+“I didn’t know if the foreground I picked would be good or not, but it worked really well. I was very tired – I almost fell asleep – but I’d never seen anything like it before.”
+
+*Please note that any modification to Fujifilm cameras or equipment will automatically invalidate your Fujifilm warranty. Modifications are completed at the risk of the camera owner.
+
+PRODUCTS
+Cameras
+Lenses
+Accessories
+Software
+Help Me Choose
+SUPPORT
+Download
+Manual
+Compatibility
+FAQ
+FUJIFILM X | GFX Members
+FUJIFILM Professional Services (FPS)
+Product Security Information
+MORE
+X-Photographers
+X Stories
+Learning Centre
+EVENTS
+NEWS
+PROMOTIONS
+SHOP
+FOLLOW US
+UK
+ 
+Global
+STAY IN TOUCH
+©FUJIFILM Corporation.
+CONTACT
+PRIVACY POLICY
+TERMS OF USE
+COOKIE SETTINGS
+Use of Cookies
+This website uses cookies. By using the site you are agreeing to ourPrivacy Policy.
+ 
+ 
+ ----- 
+ Source link : https://fujifilm-x.com/en-gb/stories/a-student-of-stargazing-astrophotography-with-balint-lengyel/ 
+ ----- 

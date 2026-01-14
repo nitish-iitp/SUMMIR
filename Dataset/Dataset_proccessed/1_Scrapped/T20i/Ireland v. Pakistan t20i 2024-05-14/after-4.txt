@@ -1,0 +1,31 @@
+	CricClubs
+Home
+Players
+Matches
+Teams
+Statistics
+Series
+League
+ Log in
+Player Batting Records
+Player:	Saim Ayub
+Series:	Pakistan vs Ireland T20 2024
+Start Date:	05/10/2024	
+
+
+No.  	Match Date  	Team  	Against  	Winner  	Batting Position  	Runs  	Balls 	SR  	4's  	6's  	Points  	 
+1	05/14/2024	Pakistan	Ireland	Pakistan	1	14	11	127.27	3	0	47	Scorecard
+2	05/12/2024	Pakistan	Ireland	Pakistan	1	6	3	200.00	0	1	8	Scorecard
+3	05/10/2024	Pakistan	Ireland	Ireland	1	45	29	155.17	4	3	125	Scorecard
+
+© Copyright 2025 CricClubs.com. All Rights Reserved.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://cricclubs.com/InternationalScores/playerBattingRecords.do?playerId=3286348&league=1531&clubId=11707 
+ ----- 

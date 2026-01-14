@@ -1,0 +1,992 @@
+Football
+Hockey
+Basketball
+Tennis
+Cricket
+Settings
+Home
+Live
+Favourites
+England
+Champions League
+Champions League 23/24
+Spain
+Italy
+Germany
+France
+Netherlands
+Scotland
+Turkiye
+Europa League
+Europa Conference League 23/24
+Euro 2024 Qualification
+Euro 2024
+UEFA Nations League
+International
+World Cup Qualification
+Africa Cup of Nations 2023
+UEFA Women's CL
+UEFA Nations League Women
+Copa Libertadores
+Copa Sudamericana
+Africa Cup of Nations Qualification
+African Nat. Champ.
+Club Friendlies
+Women's World Cup
+International Friendlies
+Women's World Cup Qualification
+Women's Euro
+Women's World Cup U20
+World Cup U20
+Women's World Youth Cup
+World Youth Cup
+Women's Euro U19
+Women's Euro U17
+Women's World Cup U17
+World Cup U17
+UEFA Youth League
+Euro U21 2025
+Euro U21
+Euro U19
+Euro U19 Qualification
+Euro U17
+CONCACAF Nat. League
+CONCACAF Championship U20
+Copa America
+AFC Asian Cup
+AFC Women's Club Championship
+CONCACAF Gold Cup
+Africa
+Asia
+CONCACAF
+Oceania
+South America
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Mali
+Malta
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Romania
+Rwanda
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+USA
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
+World Cup 2022
+Champions League 22/23
+Champions League 21/22
+Champions League 20/21
+Champions League 19/20
+Europa League 22/23
+Europa League 21/22
+Europa League 20/21
+Europa League 19/20
+Europa Conference League 22/23
+Europa Conference League 21/22
+Africa Cup of Nations 2021
+Euro 2020
+UEFA Women's CL 22/23
+Women's CAF Champions League
+CONCACAF Women Gold Cup
+UEFA Nations League 22/23
+Paris 2024 Women
+Europa League 23/24
+The Games - Men
+The Games - Women
+Conference League
+CONCACAF Women Champions Cup
+World Cup 2026
+DEC 27
+DEC 28
+DEC 29
+TODAY
+DEC 31
+JAN 1
+JAN 2
+USA - MLS 2024
+MARCH 24
+FT
+Sporting Kansas City
+2 - 3
+LA Galaxy
+FT
+St. Louis City
+2 - 2
+DC United
+FT
+Colorado Rapids
+0 - 1
+Houston Dynamo
+FT
+Los Angeles FC
+5 - 0
+Nashville SC
+FT
+Portland Timbers
+1 - 3
+Philadelphia Union
+FT
+San Jose Earthquakes
+3 - 2
+Seattle Sounders FC
+INTERNATIONAL FRIENDLIES - FRIENDLIES 2024
+MARCH 24
+FT
+Ethiopia
+2 - 1
+Lesotho
+FT
+Suriname
+1 - 1
+Martinique
+FT
+San Marino
+0 - 0
+St. Kitts and Nevis
+FT
+Italy
+2 - 0
+Ecuador
+FT
+Guatemala
+0 - 0
+Venezuela
+CLUB FRIENDLIES - CLUB FRIENDLIES 2024
+MARCH 24
+FT
+Kristiansund BK
+1 - 1
+Aalesund
+FT
+Ull/Kisa
+2 - 1
+Moss
+FT
+FK Haugesund
+0 - 1
+Egersund
+FT
+Odds Ballklubb
+0 - 2
+Sandefjord
+FT
+Viking
+5 - 0
+Rosenborg
+FT
+CD Guadalajara
+0 - 0
+Atlas
+USA - NATIONAL WOMEN'S SOCCER LEAGUE
+MARCH 24
+FT
+Houston Dash
+0 - 0
+Racing Louisville
+FT
+San Diego Wave FC
+1 - 2
+Kansas City Current
+FT
+Portland Thorns
+0 - 1
+Gotham FC
+ARGENTINA - PRIMERA NACIONAL
+MARCH 24
+FT
+CA Gimnasia de Jujuy
+1 - 1
+Patronato de Parana
+ARGENTINA - FEDERAL A: GROUP B
+MARCH 24
+FT
+Juventud Unida Universitario
+0 - 0
+Argentino Monte Maiz
+AUSTRALIA - NPL VICTORIA 2
+MARCH 24
+FT
+Western United FC Youth
+5 - 2
+Caroline Springs George Cross
+FT
+Melbourne Victory Youth
+3 - 0
+Melbourne City FC Youth
+AUSTRALIA - WOMEN'S NPL QUEENSLAND
+MARCH 24
+FT
+Brisbane Roar Qas W
+2 - 3
+Souths United W
+BRAZIL - PAULISTA A2: PLAY-OFF
+MARCH 24
+FT
+Juventus SP
+1 - 1
+Ferroviaria
+FT
+Portuguesa Santista
+3 - 2
+XV de Piracicaba
+BRAZIL - COPA DO NORDESTE: GROUP STAGE
+MARCH 24
+FT
+AO Itabaiana
+0 - 1
+Botafogo PB
+FT
+Bahia
+1 - 0
+Maranhao
+FT
+Treze
+0 - 1
+Ceara
+FT
+Juazeirense
+4 - 1
+River AC
+FT
+Nautico
+1 - 1
+CRB
+BRAZIL - COPA VERDE
+MARCH 24
+FT
+Goias
+1 - 1
+Vila Nova
+FT
+Paysandu
+4 - 1
+Manaus FC
+BRAZIL - COPA ALAGOAS: KNOCKOUT STAGE
+MARCH 24
+FT
+Penedense
+1 - 0
+Coruripe
+BRAZIL - AMAZONENSE: 2ND STAGE: GROUP A
+MARCH 24
+FT
+Operario AC
+2 - 2
+Nacional AM
+BRAZIL - AMAZONENSE: 2ND STAGE: GROUP B
+MARCH 24
+FT
+Sao Raimundo AM
+1 - 2
+Manauara EC
+BRAZIL - BRASILIENSE: PLAY-OFF
+MARCH 24
+FT
+Capital FC
+3 - 2
+Brasiliense
+BRAZIL - CAPIXABA: PLAY-OFF
+MARCH 24
+FT
+Porto Vitoria
+1 - 2
+Rio Branco ES
+BRAZIL - CATARINENSE: PLAY-OFF
+MARCH 24
+AP
+Criciuma
+2 - 1
+Barra FC
+BRAZIL - CEARENSE: SERIE B
+MARCH 24
+FT
+Maranguape
+0 - 1
+Tiradentes CE
+FT
+Icasa
+2 - 2
+Pacajus SC
+BRAZIL - MATOGROSSENSE: PLAY-OFF
+MARCH 24
+FT
+Cuiaba
+4 - 3
+Luverdense
+BRAZIL - PARANAENSE: PLAY-OFFS
+MARCH 24
+FT
+Coritiba
+0 - 0
+Maringa FC
+BRAZIL - TOCANTINENSE: PLAY-OFF
+MARCH 24
+FT
+Tocantinopolis
+1 - 0
+Capital TO
+BRAZIL - WOMEN'S BRASILEIRO A1
+MARCH 24
+FT
+SE Palmeiras SP W
+0 - 2
+Botafogo FR RJ W
+FT
+America MG W
+2 - 1
+Santos FC SP W
+FT
+Gremio W
+3 - 2
+Fluminense FC RJ W
+CAMEROON - ELITE 1: CHAMPIONSHIP PLAY-OFF
+MARCH 24
+FT
+Canon Sportif
+0 - 1
+Colombe
+FT
+Dynamo de Douala
+0 - 1
+Victoria United
+CAMEROON - ELITE 1: RELEGATION PLAY-OFF
+MARCH 24
+FT
+Bamboutos
+0 - 0
+Fauve Azur
+CHILE - PRIMERA B
+MARCH 24
+FT
+Antofagasta
+2 - 1
+San Marcos
+FT
+Magallanes
+2 - 1
+Santiago Morning
+FT
+Santiago Wanderers
+2 - 1
+Deportes Temuco
+FT
+Club Deportes Limache
+0 - 1
+Universidad de Concepcion
+CHILE - SEGUNDA DIVISION
+MARCH 24
+FT
+Melipilla
+1 - 0
+San Antonio Unido
+FT
+Real San Joaquin
+1 - 0
+Lautaro de Buin
+CHILE - WOMEN'S PRIMERA DIVISION
+MARCH 24
+FT
+Universidad de Chile W
+0 - 1
+Colo Colo W
+FT
+Universidad de Concepcion W
+1 - 3
+Universidad Catolica W
+FT
+CD Everton Vina Del Mar W
+2 - 0
+Cobresal W
+FT
+Palestino W
+2 - 2
+Deportes Antofagasta W
+CHINA - LEAGUE ONE
+MARCH 24
+FT
+Dalian Zhixing FC
+1 - 0
+Guangxi Baoyun
+FT
+Shanghai Jiading
+1 - 0
+Liaoning Tieren
+FT
+Wuxi Wugou FC
+0 - 1
+Suzhou Dongwu
+CHINA - LEAGUE TWO: GROUP A
+MARCH 24
+FT
+Beijing Technology
+4 - 0
+Xi'an Ronghai
+CHINA - LEAGUE TWO: GROUP B
+MARCH 24
+FT
+Quanzhou Yaxin
+2 - 1
+Hainan Star
+FT
+Shenzhen Juniors
+0 - 0
+Ganzhou Ruishi FC
+FT
+Jiangxi Dark Horse Junior
+2 - 1
+Shanghai Port B
+FT
+Guangxi Lanhang
+2 - 2
+Guangxi Hengchen
+CHINA - WOMEN'S SUPER LEAGUE
+MARCH 24
+FT
+Guangdong Meizhou Hakka W
+2 - 1
+Shandong Sports Lottery W
+FT
+Henan Jianye W
+3 - 3
+Changchun Dazhong W
+FT
+Zhejiang Hangzhou W
+1 - 2
+Beijing BG W
+COLOMBIA - PRIMERA A: APERTURA
+MARCH 24
+FT
+America de Cali
+3 - 2
+Chico FC
+FT
+Bucaramanga
+3 - 1
+Envigado
+FT
+Atletico Nacional
+1 - 0
+Deportivo Pasto
+COLOMBIA - PRIMERA B: APERTURA
+MARCH 24
+FT
+Llaneros FC
+3 - 3
+Real Soacha Cundinamarca
+FT
+Cucuta
+2 - 1
+Real Santander
+COLOMBIA - LIGA FEMENINA
+MARCH 24
+FT
+CSDC de Pereira W
+0 - 1
+Alianza FC W
+CONGO - LIGUE 1
+MARCH 24
+FT
+Cara Brazzaville
+2 - 0
+AS Kondzo
+FT
+V. Club Mokanda
+1 - 2
+Diables Noirs
+COSTA RICA - LIGA DE ASCENSO: CLAUSURA: GROUP A
+MARCH 24
+FT
+AD Sarchi
+2 - 1
+ADR Jicaral
+AW
+Quepos Cambute
+3 - 0
+Puerto Golfito
+COSTA RICA - LIGA DE ASCENSO: CLAUSURA: GROUP B
+MARCH 24
+FT
+Turrialba
+1 - 1
+Santa Ana
+FT
+CS Uruguay
+1 - 1
+Escorpiones
+COSTA RICA - WOMEN'S PRIMERA DIVISIÓN
+MARCH 24
+FT
+Deportivo Saprissa
+9 - 0
+Municipal Perez Zeledon
+FT
+Puerto Viejo FC W
+2 - 0
+Municipal Pococ
+ECUADOR - SERIE A: 1ST STAGE
+MARCH 24
+FT
+El Nacional
+2 - 1
+Deportivo Cuenca
+FT
+Tecnico Universitario
+1 - 1
+CSD Macara
+FT
+Independiente del Valle
+1 - 1
+Aucas
+EL SALVADOR - PRIMERA DIVISION: CLAUSURA
+MARCH 24
+FT
+Once Deportivo
+3 - 1
+Alianza FC
+FT
+CD Dragon
+1 - 4
+CD Luis Angel Firpo
+EL SALVADOR - SEGUNDA DIVISION: CLAUSURA, CENTER-EAST
+MARCH 24
+FT
+Atletico Balboa
+2 - 0
+CD Santiagueno
+FT
+CD Cacahuatique
+5 - 2
+Corinto FC
+FT
+CD Cruzeiro
+2 - 2
+El Roble de Ilobasco
+EL SALVADOR - SEGUNDA DIVISION: CLAUSURA, CENTER-WEST
+MARCH 24
+FT
+CD Inca
+1 - 1
+CD Once Lobos Chalchuapa
+FT
+CD Racing Junior de Armenia
+3 - 1
+Tiburones de Sonsonate
+FT
+CD San Pablo Municipal
+0 - 3
+CD Fuerte Aguilares
+FT
+Csd Vendaval
+0 - 5
+CD Titan
+ENGLAND - FA WOMEN’S SUPER LEAGUE 23/24
+MARCH 24
+FT
+Everton W
+0 - 0
+Liverpool W
+FT
+Bristol City W
+0 - 1
+Tottenham Hotspur W
+FT
+Leicester City W
+2 - 3
+Brighton W
+FT
+West Ham United W
+0 - 2
+Chelsea W
+FT
+Aston Villa W
+1 - 3
+Arsenal W
+JAPAN - WOMEN'S NADESHIKO LEAGUE
+MARCH 24
+FT
+Orca Kamogawa FC W
+0 - 4
+Viamaterasu Miyazaki W
+FT
+Iga Kunoichi W
+6 - 1
+Bunny's Gunma FC White Star W
+FT
+NGU Loveledge Nagoya W
+2 - 0
+Speranza Osaka-Takatsuki W
+MOROCCO - CUP
+MARCH 24
+FT
+Widad Temara
+0 - 1
+Racing de Casablanca
+NORWAY - NM CUP: QUALIFICATION
+MARCH 24
+FT
+NIL-Trysil
+3 - 1
+Flisa
+PANAMA - LPF APERTURA: EAST
+MARCH 24
+FT
+Sporting San Miguelito
+1 - 1
+UD Universitario
+FT
+Costa Del Este FC
+2 - 1
+Veraguas FC
+FT
+CD Plaza Amador
+3 - 1
+Umecit
+PERU - LIGA FEMENINA
+MARCH 24
+FT
+Universidad Cesar Vallejo W
+4 - 1
+Universidad San Antonio Abad W
+FT
+Defensores Del Ilucan W
+0 - 1
+Sporting Cristal W
+FT
+Deportivo Municipal W
+0 - 4
+Club Alianza Lima W
+REPUBLIC OF KOREA - CUP
+MARCH 24
+FT
+Bucheon FC 1995
+2 - 1
+Busan Transport Corp
+AP
+Busan I'Park
+0 - 0
+Ulsan Citizen FC
+FT
+Cheonan City
+4 - 0
+Yangsan Eogok
+FT
+Cheongju FC
+2 - 0
+Geoje Citizen
+FT
+Hwaseong
+2 - 0
+Yeoju Sejong
+FT
+Jeonnam Dragons
+1 - 0
+Gangneung City
+FT
+Suwon Bluewings
+2 - 1
+Chuncheon FC
+SPAIN - LALIGA 2 23/24
+MARCH 24
+FT
+SD Amorebieta
+3 - 1
+Sporting Gijon
+FT
+Real Valladolid
+3 - 1
+Eibar
+FT
+SD Huesca
+3 - 0
+Burgos CF
+FT
+Levante
+3 - 2
+Elche
+FT
+Mirandes
+0 - 0
+Real Zaragoza
+FT
+Racing Santander
+2 - 1
+CD Eldense
+SWITZERLAND - 1. LIGA: GROUP 1
+MARCH 24
+FT
+Terre Sainte
+3 - 3
+Portalban
+FT
+FC Coffrane
+3 - 0
+FC La Sarraz Eclepens
+FT
+Naters
+3 - 1
+Meyrin
+SWITZERLAND - 1. LIGA: GROUP 2
+MARCH 24
+FT
+FC Muri
+1 - 3
+Black Stars
+FT
+Solothurn
+3 - 3
+Muttenz
+SWITZERLAND - 1. LIGA: GROUP 3
+MARCH 24
+FT
+FC Gossau
+1 - 1
+Tuggen
+FT
+FC Kreuzlingen
+1 - 1
+SC YF Juventus Zuerich
+FT
+AC Taverne
+0 - 2
+Mendrisio FC
+FT
+Grasshopper II
+1 - 3
+FC Wettswil-Bonstetten
+UKRAINE - 1ST DIVISION: PROMOTION GROUP
+MARCH 24
+FT
+Ahrobiznes Volochysk
+0 - 0
+Victoria Sumy
+UKRAINE - 1ST DIVISION: RELEGATION GROUP
+MARCH 24
+FT
+FC Kremin Kremenchuk
+0 - 0
+Metalist Kharkiv
+FT
+Dinaz Vyshhorod
+0 - 2
+Bukovyna Chernivtsi
+URUGUAY - PRIMERA DIVISIÓN: APERTURA
+MARCH 24
+FT
+Deportivo Maldonado
+1 - 0
+Defensor Sporting
+FT
+Cerro
+1 - 1
+Cerro Largo
+FT
+Danubio
+0 - 2
+Montevideo Wanderers
+URUGUAY - SEGUNDA DIVISIÓN: GROUP A
+MARCH 24
+FT
+Albion
+1 - 1
+Juventud de las Piedras
+URUGUAY - SEGUNDA DIVISIÓN: GROUP B
+MARCH 24
+FT
+Atenas
+1 - 1
+Plaza Colonia
+USA - NISA
+MARCH 24
+Postp.
+Maryland Bobcats FC
+-
+Arizona Monsoon
+USA - MLS NEXT PRO
+MARCH 24
+FT
+Atlanta United II
+4 - 0
+Carolina Core
+AP
+Crown Legacy
+3 - 3
+Columbus Crew II
+FT
+Philadelphia Union II
+2 - 1
+New England Revolution II
+FT
+Los Angeles FC II
+3 - 2
+Houston Dynamo II
+AP
+New York Red Bulls II
+3 - 3
+Inter Miami CF II
+FT
+Sporting Kansas City II
+1 - 3
+Ventura County FC
+AP
+St. Louis City II
+1 - 1
+North Texas SC
+USA - NPSL: WEST REGION: GOLDEN GATE CONFERENCE
+MARCH 24
+FT
+Oakland SC
+1 - 2
+Napa Valley 1839 FC
+FT
+San Ramon FC
+1 - 1
+California Odyssey SC
+FT
+El Farolito SC
+0 - 0
+Sacramento Gold FC
+VENEZUELA - PRIMERA DIVISION: APERTURA
+MARCH 24
+FT
+Deportivo La Guaira
+2 - 1
+Zamora FC
+FT
+Monagas SC
+1 - 1
+Caracas
+ZIMBABWE - PREMIER SOCCER LEAGUE
+MARCH 24
+FT
+Bikita Minerals
+1 - 1
+Yadah FC
+Live Scores and fixtures for football on 24 March 2024
+Looking for the livescore today? See live scores and fixtures for football on 24 March 2024.
+LiveScore brings you the latest football fixtures, results and live score information for 24 March 2024. Revisit scores and statistics and look ahead for upcoming fixtures for your favourite sport team. Plus, find out the livescore today, 24 March 2024.
+© 1998-2024 LiveScore Limited
+CareersMobileAdvertiseContactPrivacy NoticeCookie PolicyTerms of UseCorporate
+ 
+ 
+ ----- 
+ Source link : https://www.livescore.mobi/football/2024-03-24/ 
+ ----- 

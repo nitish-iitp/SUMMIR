@@ -1,0 +1,431 @@
+NEWS
+SCORES
+SCHEDULE
+STATS
+Search by Roster
+2023
+Select Year
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+1997
+1996
+1995
+1994
+1993
+1992
+1991
+1990
+1989
+1988
+1987
+1986
+1985
+1984
+1983
+1982
+1981
+1980
+1979
+1978
+1977
+1976
+1975
+1974
+1973
+1972
+1971
+1970
+1969
+1968
+1967
+1966
+1965
+1964
+1963
+1962
+1961
+1960
+1959
+1958
+1957
+1956
+1955
+1954
+1953
+1952
+1951
+1950
+1949
+1948
+1947
+1946
+1945
+1944
+1943
+1942
+1941
+1940
+1939
+1938
+1937
+1936
+1935
+1934
+1933
+1932
+1931
+1930
+1929
+1928
+1927
+1926
+1925
+1924
+1923
+1922
+1921
+1920
+1919
+1918
+1917
+1916
+1915
+1914
+1913
+1912
+1911
+1910
+1909
+1908
+1907
+1906
+1905
+1904
+1903
+1902
+1901
+1900
+1899
+1898
+1897
+1896
+1895
+1894
+1893
+1892
+1891
+1890
+1889
+1888
+1887
+1886
+1885
+1884
+1883
+1882
+1881
+1880
+1879
+1878
+1877
+1876
+ 
+Select Team
+Select Team
+Arizona Diamondbacks
+Atlanta Braves
+Baltimore Orioles
+Boston Red Sox
+Chicago Cubs
+Chicago White Sox
+Cincinnati Reds
+Cleveland Guardians
+Colorado Rockies
+Detroit Tigers
+Houston Astros
+Kansas City Royals
+Los Angeles Angels
+Los Angeles Dodgers
+Miami Marlins
+Milwaukee Brewers
+Minnesota Twins
+New York Mets
+New York Yankees
+Oakland Athletics
+Philadelphia Phillies
+Pittsburgh Pirates
+San Diego Padres
+San Francisco Giants
+Seattle Mariners
+St. Louis Cardinals
+Tampa Bay Rays
+Texas Rangers
+Toronto Blue Jays
+Washington Nationals
+ 
+Select Player
+Select Player
+Enmanuel De Jesus #44
+P
+B/T: L/L
+6' 3"/190
+FOLLOW
+Summary
+Stats
+News
+Awards
+SHOP
+Career Regular Season
+G
+	
+W-L
+	
+ERA
+	
+IP
+	
+SO
+	
+WHIP
+
+2	0-0	11.37	6.1	5	2.05
+Enmanuel De Jesus Bio
+Fullname: Enmanuel Jose De Jesus
+Born: 12/10/1996 in Valencia, Venezuela
+Debut: 9/09/2023
+View More Bio Info +
+Stats
+Career
+Game Logs
+Splits
+Batter vs. Pitcher
+MLB
+Minors
+ 
+Pitching
+Fielding
+ 
+Regular Season
+All-Star Game
+Regular Season
+Wild Card
+Division Series
+League Championship Series
+World Series
+Spring Training
+Postseason Cumulative
+Career Stats
+Season
+	
+Team
+	
+LG
+	
+W
+	
+L
+	
+ERA
+	
+G
+	
+GS
+	
+CG
+	
+SHO
+	
+HLD
+	
+SV
+	
+SVO
+	
+IP
+	
+H
+	
+R
+	
+ER
+	
+HR
+	
+NP
+	
+HB
+	
+BB
+	
+IBB
+	
+SO
+	
+AVG
+	
+WHIP
+	
+GO/AO
+
+2023	MIA	NL	0	0	11.37	2	0	0	0	0	0	0	6.1	9	8	8	0	136	3	4	0	5	.333	2.05	0.86
+MLB Career	-	-	0	0	11.37	2	0	0	0	0	0	0	6.1	9	8	8	0	136	3	4	0	5	.333	2.05	0.86
+Season
+	
+2023	
+MLB Career	
+Advanced Career Stats
+Season
+	
+Team
+	
+LG
+	
+QS
+	
+GF
+	
+2B
+	
+3B
+	
+GIDP
+	
+GIDPO
+	
+WP
+	
+BK
+	
+SB
+	
+CS
+	
+PK
+	
+S%
+	
+P/IP
+	
+P/PA
+
+2023	MIA	NL	0	2	3	0	1	4	0	0	1	0	0	.600	21.47	4.000
+MLB Career	-	-	0	2	3	0	1	4	0	0	1	0	0	.600	21.47	4.000
+Season
+	
+2023	
+MLB Career	
+Season
+	
+Team
+	
+LG
+	
+WPCT
+	
+RS/9
+	
+TBF
+	
+BABIP
+	
+OBP
+	
+SLG
+	
+OPS
+	
+K/9
+	
+BB/9
+	
+HR/9
+	
+H/9
+	
+K/BB
+	
+IR
+	
+IR_S
+	
+BQR
+	
+BQR_S
+
+2023	MIA	NL	.---	11.37	34	.409	.471	.444	.915	7.11	5.68	0.00	12.79	1.25	1	0	0	0
+MLB Career	-	-	.---	11.37	34	.409	.471	.444	.915	7.11	5.68	0.00	12.79	1.25	1	0	0	0
+Season
+	
+2023	
+MLB Career	
+News
+9/09/2023 at 8:36 PM
+Enmanuel De Jesus fans Alec Bohm for his first MLB K
+3/15/2023 at 2:38 PM
+Breaking down Enmanuel De Jesus's pitches
+View More Videos
+Awards
+SAL Pitcher of the Week
+Week	Team	League
+07/22/2018	Greenville Drive	SAL
+CAR Pitcher of the Week
+Week	Team	League
+06/30/2019	Salem Red Sox	CAR
+Latest Transactions
+Team	Date	Transaction
+	November 6, 2023	LHP Enmanuel De Jesus elected free agency.
+	October 31, 2023	Miami Marlins sent LHP Enmanuel De Jesus outright to Jacksonville Jumbo Shrimp.
+	October 18, 2023	LHP Enmanuel De Jesus assigned to Navegantes del Magallanes.
+	October 5, 2023	Miami Marlins activated LHP Enmanuel De Jesus.
+	September 28, 2023	Miami Marlins optioned LHP Enmanuel De Jesus to Jacksonville Jumbo Shrimp.
+	September 25, 2023	Miami Marlins recalled LHP Enmanuel De Jesus from Jacksonville Jumbo Shrimp.
+	September 10, 2023	Miami Marlins optioned LHP Enmanuel De Jesus to Jacksonville Jumbo Shrimp.
+	September 8, 2023	Miami Marlins selected the contract of LHP Enmanuel De Jesus from Jacksonville Jumbo Shrimp.
+	May 19, 2023	Jacksonville Jumbo Shrimp activated LHP Enmanuel De Jesus from the 7-day injured list.
+	May 9, 2023	Jacksonville Jumbo Shrimp sent LHP Enmanuel De Jesus on a rehab assignment to Jupiter Hammerheads.
++ View More Transactions
+OFFICIAL INFORMATION
+HELP/CONTACT US
+MORE MLB SITES & AFFILIATES
+CAREERS
+CONNECT WITH MLB
+Terms of Use
+Privacy Policy
+Legal Notices
+Contact Us
+Do not Sell or Share My Personal Data
+Cookie Settings
+© 2025 MLB Advanced Media, LP. All rights reserved.
+By clicking “Accept & Continue”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+The MLB Privacy Policy and Terms of Use Agreement have been updated, effective February 6, 2024, to encompass all MiLB.com and Minor League Club digital properties, and to update the arbitration and dispute resolution procedures, among other changes. By continuing to use our services, you agree to the updated Privacy Policy and Terms of Use Agreement.
+Cookies Settings Accept & Continue
+ 
+ 
+ ----- 
+ Source link : https://www.mlb.com/player/enmanuel-de-jesus-646241 
+ ----- 

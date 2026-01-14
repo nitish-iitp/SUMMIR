@@ -1,0 +1,730 @@
+liquipedia
+
+PUBG Mobile
+ 
+ 
+Close top ad
+PUBG Mobile Super League - Europe, Middle East & Africa Spring 2024
+[hide]
+vde
+Path to 
+ PUBG Mobile World Cup 2024
+
+
+Super
+Leagues
+	
+ Southeast Asia
+ Central & South Asia
+  Americas
+   Europe, Middle East & Africa
+
+
+Regional
+Leagues
+	
+ Challengers League
+ Peace Elite League PMWC Points
+ Pro Series Korea Japan League
+  Rivals Cup
+PMGC Points
+Spring
+Fall
+Overview
+League Matches
+Statistics
+[e][h]
+PUBG Mobile Super League - EMEA Spring 2024
+League Information
+Series:
+ PMSL
+Organizers:
+KRAFTON
+Level Infinite
+ESL
+Sponsor(s):
+Monster Energy
+Official Device:
+Infinix GT 20 Pro
+Game version:
+PUBG Mobile
+Game mode:
+Squads TPP
+Type:
+Offline
+Location:
+ Katowice
+
+Prize Pool:
+$400,000 USD
+Start Date:
+2024-05-15
+End Date:
+2024-06-09
+Liquipedia Tier:
+A-Tier
+Links
+       
+Teams
+Number of teams:
+20
+Chronology
+Fall 2024 
+
+PUBG Mobile Super League - EMEA (also known as PMSL EMEA) is the official professional PUBG Mobile partnership league held across  Europe,  Middle East and  Africa.
+
+Contents
+1	About
+1.1	Broadcast Talent
+1.2	Format
+1.2.1	Tournament Schedule
+1.2.2	Map/Group Schedule
+1.2.3	Points Distribution
+1.3	Allocations
+2	Prize Pool
+2.1	Base Prizes and Awards
+3	Participants
+3.1	Middle East & Africa
+3.2	Europe
+3.3	Türkiye
+3.4	Roster Transfers
+4	Results
+4.1	League
+4.2	Finals
+4.3	Showmatch
+4.4	League Challenge
+5	Additional Content
+5.1	Streams
+5.2	Country Representation
+6	References
+About[edit]
+Broadcast Talent[edit]
+English
+Turkish
+Arabic
+Russian
+Kazakh
+Uzbek
+English Commentators:
+ Blank (Zander Padwick)
+ John Allen
+Format[edit]
+League: May 15th - June 2nd, 2024
+20 teams:
+13 partnership teams (6 from Middle East & Africa, 2 from Europe, 5 from Türkiye)
+Top 3 teams from Middle East & Africa Qualifier
+Top 2 teams from Europe Qualifier
+Top 2 teams from Türkiye Qualifier
+3 weeks, each week consisting of 5 matchdays.
+Each matchday consists of 6 matches. (30 matches total per week)
+Teams are split into 5 groups of 4, each group plays a total of 24 matches.
+Groups are reshuffled every week:
+Week 1: Teams are grouped randomly.
+Week 2: Teams are grouped based on their Week 1 placements.
+Week 3: Teams are grouped based on their Week 2 placements.
+Each week teams are awarded Bonus Points based on their placements.
+Top 16 teams based on the overall rankings advance to Finals.
+Finals: June 7th - 9th, 2024
+16 teams.
+Teams begin with 50% of their accumulated Bonus Points from League stage.
+In case of a team's total bonus points is an odd number, the points will be rounded up to the nearest integer.
+18 matches (6 per day).
+Tournament Schedule[edit]
+Tournament Schedule
+Week	Matchdays
+1	May 15 - 19
+2	May 22 - 26
+3	May 29 - Jun 2
+Finals	Jun 7 - 9
+ 
+Map/Group Schedule[edit]
+League
+Finals
+Map & Group Rotation
+Match	Map	Day 1	Day 2	Day 3	Day 4	Day 5
+1	Sanhok	ACDE	BCDE	ABDE	ABCD	ABCE
+2	Erangel
+3	Erangel
+4	Erangel
+5	Miramar
+6	Miramar
+Points Distribution[edit]
+Match Points Distribution
+Elimination Points	1 per elimination
+Place	Points	Place	Points
+1st	10	5th	3
+2nd	6	6th	2
+3rd	5	7th - 8th	1
+4th	4	9th - 16th	0
+Ties are broken in the following order:
+ Total number of  WWCDs across all matches.
+ Total number of Placement Points across all matches.
+ Total number of Kill Points across all matches.
+ The best Placement Ranking in the most recent match.
+ 
+Bonus Points Ranking Distribution
+Place	Points	Place	Points
+1st	20	11th	10
+2nd	19	12th	9
+3rd	18	13th	8
+4th	17	14th	7
+5th	16	15th	6
+6th	15	16th	5
+7th	14	17th	4
+8th	13	18th	3
+9th	12	19th	2
+10th	11	20th	1
+
+
+
+
+Allocations[edit]
+Best  Saudi Arabia-based team is invited to 
+ PUBG Mobile World Cup 2024 - Group Stage as the Host Country Invite. [1]
+Top 4 teams qualify for 
+ PUBG Mobile World Cup 2024 - Group Stage
+5th place team qualify for 
+ PUBG Mobile World Cup 2024 - Survival Stage
+If the best Saudi team finishes within the top 5, the qualification slot will be transferred to the next best team.
+Prize Pool[edit]
+$400,000 USD are spread among the participants as seen below:
+
+Place
+$ 
+USD
+Qualifies To
+Participant
+ 1st
+$69,750
+ PMWC - Grp. Stage
+Brute Force
+ 2nd
+$53,000
+ PMWC - Grp. Stage
+IW NRX
+ 3rd
+$27,000
+ PMWC - Grp. Stage
+Beşiktaş Black
+ 4th
+$30,000
+ PMWC - Grp. Stage
+Money Makers
+ 5th
+$34,750
+ PMWC - Surv. Stage
+Team Spirit
+ 6th
+$17,750
+-
+S2G Esports
+ 7th
+$15,750
+ PMWC - Grp. Stage
+POWR eSports
+place 8 to 20 
+Award
+$ 
+USD
+Participant
+MVP
+$3,000
+Zwolf
+ 
+Rising Star
+$2,000
+FR1Z3R
+ 
+Gunslinger
+$1,000
+Zwolf
+ 
+Initiator
+$1,000
+ALHAJE
+ 
+Grenade Master
+$1,000
+BISKE
+ 
+Award
+$ 
+USD
+Participant
+Week 1 Terminator
+$500
+Koops
+ 
+Week 2 Terminator
+$500
+Lord
+ 
+Week 3 Terminator
+$500
+Zwolf
+ 
+Base Prizes and Awards[edit]
+
+*These prizes will be included in the overall prize distribution above.
+
+League Stage Prize Distribution
+(Weekly)
+Place	$ USD
+1st	$15,000
+2nd	$12,000
+3rd	$10,000
+4th	$7,000
+5th - 8th	$5,000
+9th - 12th	$2,000
+13th - 16th	$1,500
+17th - 20th	$1,000
+ 
+Grand Finals Prize Distribution
+Place	$ USD	Place	$ USD
+1st	$55,000	9th	$8,500
+2nd	$35,000	10th	$8,000
+3rd	$22,000	11th	$7,500
+4th	$17,000	12th	$7,000
+5th	$14,000	13th	$6,500
+6th	$11,500	14th	$6,000
+7th	$10,000	15th	$5,500
+8th	$9,000	16th	$5,000
+ 
+Showmatch Prize Distribution
+Finals
+Place	$ USD
+1st	$2,500
+2nd	$1,500
+3rd	$1,000
+4th - 5th	$750
+6th - 8th	$500
+9th - 16th	$0
+ 
+Special Prize
+Category	$ USD
+(per unit)	$ USD
+(total)
+ WWCD	$250/match	$27,000
+Team Participation	$2000/team	$40,000
+Challenge (League)	$500/team	$6,000
+Participants[edit]
+Show Players
+  Player Info
+What are Partnership Teams (PMSL)?
+Middle East & Africa[edit]
+ Natus Vincere [2]
+1	 AXZCER
+2	 PUNCHER
+3	 PSIX
+4	 Gonzo
+
+Partner Team
+ 
+ Nigma Galaxy [3]
+Notes
+1	 RAOUF
+2	 Lord
+3	
+DNP
+ FREAK
+4	 Koops
+5	 Lufa
+Staff
+
+Partner Team
+ 
+ Twisted Minds [4]
+1	 Damii
+2	
+DNP
+ MARSHALL
+3	 MON
+4	 NvrAlone
+5	 YOUSSEF
+6	
+ J3
+Staff
+
+Partner Team
+ 
+ Falcons Esports [5]
+1	 Damar
+2	 Ghaith
+3	
+DNP
+ Hope
+4	 RAGNAR
+5	 SaTaN
+6	
+DNP
+ SPARK
+Staff
+
+Partner Team
+ 
+ POWR eSports [6]
+1	 ALHAJE
+2	 EASY
+3	 Fhidan
+4	 KANTE
+5	 SAAD
+Staff
+
+Partner Team
+ 
+ HEROIC [7]
+1	 HASSAN
+2	 ZAKARIA
+3	 VOLT
+4	 RAGNARoK
+5	 QTEL
+
+Partner Team
+ 
+ Brute Force
+1	 PREPOD
+2	 NEOZ
+3	 4YDO
+4	 FR1Z3R
+5	 NALSON
+Staff
+
+MEA Qualifier
+ 
+ Money Makers
+1	 OldBoy
+2	 Icy
+3	 Coa77
+4	 BISKE
+5	
+DNP
+ A7MED
+6	 Havlik
+Staff
+
+MEA Qualifier
+ 
+ Onyx Ravens
+Notes
+1	 ALI21
+2	 LAITH
+3	 Vigors
+4	 TURKi
+5	 Saleh
+
+MEA Qualifier
+Europe[edit]
+ Gaimin Gladiators [8]
+1	 Matic
+2	 Mequ
+3	 Tixzy
+4	 AISZY
+5	 FROZEN
+
+Partner Team
+ 
+ Virtus.pro [9]
+1	 MilkyWay
+2	 FURIA
+3	 Korka
+4	 MALOYYY
+Staff
+
+Partner Team
+ 
+ 3DMAX
+Notes
+1	 Victor
+2	 Narvalow
+3	 Snowix
+4	 RobbZ
+5	 Terminuz
+6	
+DNP
+ Tree
+
+Europe Qualifier
+ 
+ Team Spirit
+1	 KITSUNÉ
+2	 KnowMe
+3	 NAOMI
+4	 EFFECT
+Staff
+
+Europe Qualifier
+Türkiye[edit]
+ Fire Flux Esports [11]
+1	 Solkay
+2	 Kecth
+3	 Lux
+4	 Soulless
+Staff
+
+Partner Team
+ 
+ IW NRX [12]
+1	 FrozeNNX
+2	 Zwolf
+3	 Kein
+4	 Swain
+Staff
+
+Partner Team
+ 
+ FUT Kaos [13]
+1	 Kairos
+2	 Dokunma
+3	 Falconist
+4	 Storm
+5	 Rookie
+Staff
+
+Partner Team
+ 
+ RC BRA Esports [14]
+1	 Sylas
+2	 Wild
+3	 Loxy
+4	 KissYou
+Staff
+
+Partner Team
+ 
+ S2G Esports [15]
+1	 Calse
+2	 RayZ
+3	 HamsiG
+4	 CEO
+5	
+DNP
+ Swash
+Staff
+
+Partner Team
+ 
+ Digital Athletics
+1	 Scarface
+2	 Coldex
+3	 Nyko
+4	 Yekta
+5	
+DNP
+ Upfor
+
+Yıldızlar Ligi
+ 
+ Beşiktaş Black
+Notes
+1	 Kircali
+2	 Tospik
+3	 Poser
+4	 Lewis
+Staff
+
+Yıldızlar Ligi
+Roster Transfers[edit]
+[show]
+Transfers during the off-season
+Results[edit]
+League[edit]
+Show Group Draw
+
+Click here for detailed League match standings
+
+League Standings
+Bonus Points Standings
+Overall League Standings
+	Team	Total	Week 1	Week 2	Week 3
+1.	   Team Spirit	568	197	201	170
+2.	   IW NRX	544	210	134	200
+3.	   Brute Force	512	163	193	156
+4.	   Money Makers	501	193	135	173
+5.	   Virtus.pro	473	163	152	158
+6.	   Nigma Galaxy	462	159	148	155
+7.	   Digital Athletics	455	130	176	149
+8.	   3DMAX	453	120	148	185
+9.	   S2G Esports	417	173	148	96
+10.	   Fire Flux Esports	411	130	148	133
+11.	   POWR eSports	407	126	165	116
+12.	   Gaimin Gladiators	405	105	135	165
+13.	   Beşiktaş Black	392	131	145	116
+14.	   Regnum Carya Bra Esports	391	136	129	126
+15.	   FUT Esports	332	109	91	132
+16.	   Twisted Minds	330	67	138	125
+17.	   HEROIC	315	132	101	82
+18.	   Onyx Ravens	295	92	104	99
+19.	   Team Falcons	285	106	84	95
+20.	   Natus Vincere	280	98	68	114
+ 
+Legend
+Qualified for Finals
+Eliminated
+Finals[edit]
+Initial Finals Points
+Team	Points	Team	Points	Team	Points	Team	Points
+ SPRT	28	 MM	23	 FF	18	 BJK	14
+ BF	25	 NGX	20	 S2G	17	 GG	14
+ IW NRX	24	 DA	20	 POWR	16	 TM	10
+ VP	23	 3DMAX	19	 RCB	14	 FUT	10
+Points
+Finals Standings
+
+	Team	Total	Round 1
+	Round 2
+	Round 3
+	Round 4
+	Round 5
+	Round 6
+	Round 7
+	Round 8
+	Round 9
+	Round 10
+	Round 11
+	Round 12
+	Round 13
+	Round 14
+	Round 15
+	Round 16
+	Round 17
+	Round 18
+
+P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K	P	K
+1.	   BF	183	5	9	5	8	8	0	5	5	12	4	15	0	8	5	11	3	13	0	16	0	1	23	6	1	1	8	2	11	5	7	11	7	15	2	1	13
+2.	   IW NRX	143	10	4	13	2	10	1	16	0	1	9	11	0	4	3	8	4	2	4	12	4	2	4	10	3	9	0	8	3	1	16	14	3	7	9	6	9
+3.	   BJK	141	1	15	6	3	13	1	3	5	11	0	6	7	2	4	6	3	8	7	7	6	5	2	16	0	14	3	16	2	4	2	1	11	4	3	10	3
+4.	   MM	140	7	2	16	0	7	4	1	9	2	9	12	1	15	0	5	13	6	5	1	9	16	0	9	6	6	6	6	6	13	0	5	1	13	2	12	4
+5.	   SPRT	131	14	0	3	9	1	12	9	3	15	1	16	0	13	2	13	0	3	10	9	5	10	4	15	1	8	3	10	1	2	6	9	1	12	2	2	10
+6.	   S2G	128	9	2	4	0	16	0	10	4	10	1	8	6	3	3	9	2	1	11	3	7	4	4	5	4	11	4	11	1	3	10	6	1	14	1	3	6
+7.	   POWR	127	4	5	12	5	3	3	2	11	16	2	10	1	7	6	7	6	16	0	13	3	11	4	3	14	10	8	5	9	10	2	12	2	10	3	15	2
+8.	   RCB	121	6	0	8	3	6	5	4	4	4	4	14	0	6	4	2	10	4	7	11	0	7	5	8	2	3	5	12	0	12	0	2	13	8	3	5	0
+9.	   FUT	112	12	2	11	0	12	1	12	4	3	5	5	1	11	8	15	0	15	1	4	5	3	5	12	4	2	4	1	6	7	3	13	2	5	8	4	2
+10.	   VP	108	13	4	2	14	9	2	11	3	6	4	7	5	10	0	10	2	7	1	6	3	15	3	4	0	4	10	14	1	6	3	4	0	16	0	14	4
+11.	   NGX	102	2	8	10	0	15	0	15	1	9	5	2	12	1	15	16	0	11	2	14	0	14	0	11	0	16	0	7	3	8	0	8	0	6	8	7	0
+12.	   DA	102	3	0	7	2	4	9	8	0	5	7	3	5	5	6	4	3	5	0	8	3	12	1	13	1	15	3	3	3	11	0	15	0	9	2	16	2
+13.	   GG	101	15	5	9	4	11	0	6	2	7	3	9	3	12	0	14	1	9	4	2	6	6	1	14	1	13	3	15	4	9	4	3	12	1	7	11	1
+14.	   FF	98	8	3	1	5	14	1	13	0	8	1	4	5	9	0	1	1	10	3	5	5	9	1	7	1	7	1	9	3	15	0	7	4	2	4	9	4
+15.	   TM	97	16	1	14	1	2	14	14	4	13	3	1	13	14	1	12	2	14	0	10	0	8	2	2	5	5	1	4	5	14	0	16	1	11	2	8	1
+16.	   3DMAX	92	11	0	15	2	5	1	7	5	14	0	13	0	16	0	3	8	12	5	15	6	13	1	1	16	12	1	13	0	16	0	10	1	3	3	13	0
+ 
+Legend
+Invited to 
+ PMWC 2024 - Group Stage
+Qualified for 
+ PMWC 2024 - Group Stage
+Qualified for 
+ PMWC 2024 - Survival Stage
+Showmatch[edit]
+Points
+Showmatch Standings
+
+	Team	Total	Round 1
+	Round 2
+	Round 3
+
+P	K	P	K	P	K
+1.	 VP	60	6	12	2	18	1	12
+2.	 NGX	39	3	12	14	2	2	14
+3.	 TM	38	2	6	6	7	3	12
+4.	 RCB	37	4	10	7	15	11	7
+5.	 POWR	36	10	5	1	16	12	5
+6.	 MM	35	1	16	15	1	9	8
+7.	 3DMAX	30	8	4	3	14	5	3
+8.	 S2G	30	7	8	12	2	6	17
+9.	 IW NRX	25	5	10	16	0	4	8
+10.	 BJK	17	9	2	4	4	7	6
+11.	 DA	15	16	1	5	5	8	5
+12.	 FUT	11	14	2	11	2	10	7
+13.	 SPRT	8	12	3	9	5	16	0
+14.	 BF	6	11	1	8	4	13	0
+15.	 FF	6	13	1	13	3	14	2
+16.	 GG	1	15	0	10	1	15	0
+ 
+League Challenge[edit]
+Format:
+After each day of the League stage (except Sunday), the MVP player of the day can challenge another team for a TDM match.
+The winning team receives $500 as reward.
+Day	MVP Team	Score	Challenged Team
+W1D1	Nigma Galaxy 	40	37	 Money Makers
+W1D2	Team Spirit 	40	34	 Gaimin Gladiators
+W1D3	Virtus.pro 	39	40	 Natus Vincere
+W1D4	IW NRX 	40	30	 Digital Athletics
+W2D1	3DMAX 	40	31	 Twisted Minds
+W2D2	Team Spirit 	40	32	 Nigma Galaxy
+W2D3	Digital Athletics 	40	39	 FUT Esports
+W2D4	IW NRX 	40	27	 S2G Esports
+W3D1	IW NRX 	38	40	 Regnum Carya Bra Esports
+W3D2	IW NRX 	40	21	 Fire Flux Esports
+W3D3	Brute Force 	40	29	 Onyx Ravens
+W3D4	Money Makers 	40	34	 Team Falcons
+Additional Content[edit]
+Streams[edit]
+Language						
+Streams	
+
+
+	
+
+
+	
+
+	
+		
+Country Representation[edit]
+#	Country / Region	Representation	Players
+1	 Turkey	29 / 89 (33%)	Calse, CEO, Coldex, Dokunma, Falconist, FrozeNNX, HamsiG, Kairos, Kecth, Kein, Kircali, KissYou, Lewis, Loxy, Lux, Nyko, Poser, RayZ, Rookie, Scarface, Solkay, Soulless, Storm, Swain, Sylas, Tospik, Wild, Yekta, Zwolf
+2	 Russia	12 / 89 (13%)	AISZY, FROZEN, FURIA, KITSUNÉ, KnowMe, Korka, Matic, Mequ, MilkyWay, NALSON, NAOMI, Tixzy
+2	 Saudi Arabia	12 / 89 (13%)	Damar, Damii, EASY, Fhidan, KANTE, MON, NvrAlone, QTEL, SAAD, Saleh, TURKi, Vigors
+4	 France	5 / 89 (6%)	Narvalow, RobbZ, Snowix, Terminuz, Victor
+4	 Iraq	5 / 89 (6%)	ALHAJE, Ghaith, J3, Lord, VOLT
+4	 Kazakhstan	5 / 89 (6%)	AXZCER, Gonzo, MALOYYY, PSIX, PUNCHER
+7	 Bahrain	4 / 89 (4%)	4YDO, FR1Z3R, NEOZ, PREPOD
+8	 Syria	3 / 89 (3%)	ALI21, SaTaN, YOUSSEF
+9	 Jordan	2 / 89 (2%)	LAITH, RAGNARoK
+9	 Lebanon	2 / 89 (2%)	HASSAN, ZAKARIA
+9	 Serbia	2 / 89 (2%)	BISKE, Coa77
+9	 Ukraine	2 / 89 (2%)	Havlik, OldBoy
+13	 Algeria	1 / 89 (1%)	RAOUF
+13	 Bulgaria	1 / 89 (1%)	Icy
+13	 Kuwait	1 / 89 (1%)	RAGNAR
+13	 Kyrgyzstan	1 / 89 (1%)	EFFECT
+13	 Philippines	1 / 89 (1%)	Lufa
+13	 United States	1 / 89 (1%)	Koops
+References[edit]
+↑ PUBG MOBILE Esports MEA (2024-06-04). "نعلن اليوم عن دعوة مباشرة واحدة إلى مرحلة مجموعات PMWC لأفضل فريق سعودي من نهائيات PMSL EMEA! " [Today we announce one direct invitation to the PMWC group stage for the best Saudi team from the PMSL EMEA Finals!] (in  Arabic).
+↑ PUBG Mobile Esports MEA (2024-02-20). "فريق NAVI دخل المعركة " [NAVI enters the fray] (in  Arabic).
+↑ PUBG Mobile Esports MEA (2024-02-21). "لقد وصلت قوة لا يستهان بها: جولة من التصفيق لفريق Nigma Galaxy " [A force to be reckoned arrives: a round of applause for Nigma Galaxy] (in  Arabic).
+↑ PUBG Mobile Esports MEA (2024-02-24). "Twisted Minds على أهبة الاستعداد لتحدي PMSL EMEA 2024! " [Twisted Minds are up for the challenge of PMSL EMEA 2024!] (in  Arabic).
+↑ PUBG Mobile Esports MEA (2024-02-25). "الصقور قادمة للصيد في حقول PMSL EMEA 2024! " [Falcons come to hunt on the PMSL EMEA 2024 fields!] (in  Arabic).
+↑ PUBG Mobile Esports MEA (2024-03-03). "يستعد فريق POWR eSports لإشعال النار في PMSL EMEA 2024! " [The POWR eSports team is gearing up to set the PMSL EMEA 2024 on fire!] (in  Arabic).
+↑ PUBG Mobile Esports MEA (2024-04-15). "نقدم لكم HEROIC: أحدث أبطالنا في منطقة الشرق الأوسط وأفريقيا، الذين سيتألقون قريبًا في PMSL EMEA 2024 " [Introducing HEROIC: our newest MEA Champions, who will soon be shining at PMSL EMEA 2024] (in  Arabic).
+↑ PUBG Mobile Esports (2024-03-07). "Check out the 2024 PUBG MOBILE ESPORTS PARTNERSHIP TEAMS!".
+↑ Virtus.pro (2024-03-21). "The Bears are making a comeback to competitive PUBG MOBILE! We are becoming a partner team with Tencent and signing a new roster.".
+↑ 3DMAX (2024-05-15). "Because Devil Never Dies, we're back on the PUBG Mobile scene. 🔥".
+↑ PUBG Mobile Esports Türkiye (2024-02-15). "Temsilcimiz @firefluxmobile, PMSL EMEA ve Yıldızlar Ligi’nde! 🥳 " [Our representative @firefluxmobile is in PMSL EMEA and Stars League! 🥳] (in  Turkish).
+↑ PUBG Mobile Esports Türkiye (2024-02-15). "Partner takımlarımıza bir yenisi daha eklendi! 🥳 " [A new one has been added to our partner teams! 🥳] (in  Turkish).
+↑ PUBG Mobile Esports Türkiye (2024-02-15). "Yükselmeye devam! 😎 " [Keep rising! 😎] (in  Turkish).
+↑ PUBG Mobile Esports Türkiye (2024-02-16). "Bir diğer partner takımımız huzurlarınızda! 🙏 " [Another partner team is here! 🙏] (in  Turkish).
+↑ PUBG Mobile Esports Türkiye (2024-02-16). "Sırada 5. ve son partner takımımız! 😎 " [Next up is our 5th and final partner team! 😎] (in  Turkish).
+↑ PUBG Mobile Esports Türkiye (2024-05-10). "KARTALLAR PMSL SEMALARINDA BELİRDİ! " [EAGLES APPEARED IN THE PMSL SKIES!] (in  Turkish).
+[show]
+vde
+ PUBG Mobile Super League
+Categories: Polish TournamentsTournamentsTeam TournamentsA-Tier TournamentsOffline TournamentsPages storing into original match tableSquads Mode Tournaments
+Send an email
+Chat with us
+Contact
+ABOUT
+Privacy policy
+About Liquipedia PUBG Mobile Wiki
+Disclaimers
+API
+AFFILIATED SITES
+TL.net
+This page was last edited on 18 June 2024, at 16:27.
+Text/code is available under CC-BY-SA. Licenses for other media varies.
+ 
+ 
+ ----- 
+ Source link : https://liquipedia.net/pubgmobile/PUBG_Mobile_Super_League/EMEA/2024/Spring 
+ ----- 

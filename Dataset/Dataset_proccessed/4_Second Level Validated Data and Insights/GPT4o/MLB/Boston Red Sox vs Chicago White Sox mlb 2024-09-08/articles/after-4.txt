@@ -1,0 +1,636 @@
+MENU
+Pete Alonso's Unique Free Agency Deal Offer to the Mets
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Boston Red Sox Schedule
+Chicago White Sox Schedule
+Chicago White Sox vs Boston Red Sox Box Score: September 8, 2024
+MLB Scores — September 8, 2024
+TBR\t2\tFinal
+BAL\t0\t
+TOR\t3\tFinal
+ATL\t4\t(11)
+CHW\t7\tFinal
+BOS\t2\t
+WSN\t3\tFinal
+PIT\t7\t
+PHI\t1\tFinal
+MIA\t10\t
+CIN\t3\tFinal
+NYM\t1\t
+MIN\t0\tFinal
+KCR\t2\t
+COL\t4\tFinal
+MIL\t1\t
+SEA\t10\tFinal
+STL\t4\t
+NYY\t1\tFinal
+CHC\t2\t
+LAA\t4\tFinal
+TEX\t7\t
+DET\t9\tFinal
+OAK\t1\t
+CLE\t0\tFinal
+LAD\t4\t
+SFG\t7\tFinal
+SDP\t6\t
+ARI\t12\tFinal
+HOU\t6\t
+MLB Scores & Standings on this Day
+Chicago White Sox
+7
+33-111
+Prev Game Next Game
+ 
+Boston Red Sox
+2
+72-71
+Prev Game Next Game
+Sunday, September 8, 2024
+Start Time: 1:35 p.m. Local
+Attendance: 29,110
+Venue: Fenway Park
+Game Duration: 2:35
+Day Game, on grass
+Logos via Sports Logos.net / About logos
+ \t \t1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+
+\tChicago White Sox\t0\t0\t0\t0\t0\t2\t0\t0\t5\t7\t12\t0
+
+\tBoston Red Sox\t0\t1\t0\t0\t0\t1\t0\t0\t0\t2\t8\t2
+WP: Fraser Ellard (2-2) • LP: Zack Kelly (6-3)
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Zach DeLoach DH\t5\t1\t1\t2\t0\t0\t5\t.152\t.222\t.182\t.404\t18\t12\t0.052\t1.09\t0.135\t-0.082\t0%\t0.00\t1.9\t0\t0\t
+Luis Robert Jr. CF\t4\t1\t3\t1\t0\t0\t5\t.223\t.275\t.395\t.669\t13\t9\t0.101\t1.05\t0.177\t-0.076\t0%\t0.00\t0.7\t1\t0\tSF
+Andrew Benintendi LF\t5\t0\t1\t1\t0\t1\t5\t.222\t.287\t.383\t.670\t17\t11\t0.019\t1.17\t0.071\t-0.052\t0%\t0.00\t-0.1\t2\t0\t
+Andrew Vaughn 1B\t4\t0\t2\t0\t0\t0\t4\t.242\t.297\t.400\t.697\t11\t8\t0.039\t1.89\t0.119\t-0.080\t0%\t0.00\t0.1\t8\t0\t
+   Bryan Ramos PR-3B\t0\t1\t0\t0\t0\t0\t0\t.196\t.208\t.239\t.447\t\t\t0.000\t\t0.000\t0.000\t0%\t\t0.0\t0\t0\t
+Korey Lee C\t4\t0\t1\t1\t0\t1\t4\t.213\t.244\t.345\t.589\t11\t8\t-0.117\t2.34\t0.146\t-0.263\t0%\t0.00\t-1.1\t9\t3\tGDP
+Lenyn Sosa 2B\t4\t0\t2\t0\t0\t1\t4\t.227\t.257\t.302\t.559\t11\t9\t0.075\t1.62\t0.132\t-0.057\t0%\t0.00\t0.2\t1\t1\t
+   Nicky Lopez PR-2B\t0\t1\t0\t0\t0\t0\t0\t.241\t.311\t.297\t.609\t\t\t0.000\t\t0.000\t0.000\t0%\t\t0.0\t0\t0\t
+Dominic Fletcher RF\t4\t1\t1\t1\t0\t1\t4\t.214\t.261\t.277\t.538\t18\t12\t0.205\t2.27\t0.317\t-0.112\t0%\t0.00\t0.6\t3\t1\t2B
+Miguel Vargas 3B\t2\t0\t0\t0\t1\t1\t3\t.170\t.268\t.289\t.557\t14\t8\t-0.005\t1.29\t0.051\t-0.056\t0%\t0.00\t-0.0\t1\t1\t
+   Gavin Sheets PH-1B\t0\t1\t0\t0\t1\t0\t1\t.242\t.315\t.362\t.677\t0\t0\t0.001\t1.14\t0.001\t0.000\t0%\t0.00\t0.2\t0\t0\tIW
+Jacob Amaya SS\t4\t1\t1\t1\t0\t1\t4\t.269\t.296\t.308\t.604\t14\t10\t-0.109\t1.51\t0.056\t-0.164\t0%\t0.00\t-0.2\t2\t2\tGDP
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Chris Flexen P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t1\t
+   Prelander Berroa P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Fraser Ellard P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Justin Anderson P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t36\t7\t12\t7\t2\t6\t39\t.333\t.359\t.361\t.720\t127\t87\t0.261\t1.53\t1.205\t-0.942\t0.00%\t0.00\t2.3\t27\t9\t
+2B: Dominic Fletcher (8, off Zack Kelly).
+SF: Luis Robert Jr. (1, off Luis Guerrero).
+IBB: Gavin Sheets (2, by Zack Kelly).
+TB: Luis Robert Jr. 3; Lenyn Sosa 2; Andrew Vaughn 2; Dominic Fletcher 2; Andrew Benintendi; Zach DeLoach; Korey Lee; Jacob Amaya.
+GIDP: Jacob Amaya (2); Korey Lee (11).
+RBI: Zach DeLoach 2 (3); Jacob Amaya (2); Korey Lee (32); Andrew Benintendi (53); Dominic Fletcher (14); Luis Robert Jr. (35).
+2-out RBI: Korey Lee.
+Team LOB: 5.
+With RISP: 5 for 11.
+Fielding
+Outfield Assists: Dominic Fletcher (Jarren Duran at home plate).
+Baserunning
+Pickoffs: Luis Robert Jr. (1st base by Richard Fitts).
+Boston Red Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Jarren Duran CF\t4\t0\t1\t0\t0\t0\t4\t.292\t.349\t.517\t.866\t14\t8\t-0.052\t1.06\t0.035\t-0.086\t-0.02%\t0.60\t-0.1\t4\t0\t
+Rafael Devers 3B\t4\t0\t0\t0\t0\t0\t4\t.278\t.356\t.541\t.897\t16\t9\t-0.110\t1.11\t0.000\t-0.110\t-0.04%\t0.63\t-0.9\t0\t0\t
+Wilyer Abreu RF\t4\t1\t2\t1\t0\t1\t4\t.267\t.332\t.499\t.830\t9\t6\t0.118\t0.77\t0.189\t-0.071\t0.04%\t0.44\t0.0\t3\t0\tHR,2B,CS
+Tyler O'Neill LF\t4\t0\t0\t0\t0\t1\t4\t.256\t.346\t.525\t.871\t26\t11\t-0.055\t0.53\t0.000\t-0.055\t-0.02%\t0.30\t-0.6\t4\t0\t
+Masataka Yoshida DH\t3\t0\t1\t0\t1\t1\t4\t.284\t.357\t.419\t.776\t12\t6\t-0.021\t0.76\t0.034\t-0.056\t-0.01%\t0.43\t0.2\t0\t0\t2B
+Connor Wong C\t4\t1\t3\t1\t0\t1\t4\t.286\t.338\t.436\t.774\t17\t10\t0.230\t0.75\t0.232\t-0.002\t0.08%\t0.43\t1.7\t6\t1\tHR,2B
+Triston Casas 1B\t3\t0\t0\t0\t0\t2\t3\t.242\t.341\t.431\t.772\t13\t8\t-0.070\t1.36\t0.000\t-0.070\t-0.02%\t0.77\t-0.6\t8\t0\t
+Trevor Story SS\t3\t0\t1\t0\t0\t1\t3\t.237\t.293\t.316\t.608\t16\t11\t-0.144\t1.39\t0.032\t-0.176\t-0.05%\t0.79\t-1.2\t2\t2\tCS
+Enmanuel Valdez 2B\t3\t0\t0\t0\t0\t2\t3\t.224\t.281\t.388\t.669\t13\t10\t-0.134\t1.67\t0.000\t-0.134\t-0.05%\t0.95\t-1.2\t0\t3\t
+   Nick Sogard 2B\t0\t0\t0\t0\t0\t0\t0\t.250\t.306\t.268\t.574\t\t\t\t\t\t\t\t\t\t0\t0\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Richard Fitts P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t3\t
+   Greg Weissert P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Justin Slaten P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Zack Kelly P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Luis Guerrero P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t32\t2\t8\t2\t1\t9\t33\t.250\t.273\t.531\t.804\t136\t79\t-0.238\t1.01\t0.522\t-0.760\t-0.08%\t0.58\t-2.7\t27\t9\t
+2B: Wilyer Abreu (31, off Chris Flexen); Connor Wong (18, off Prelander Berroa); Masataka Yoshida (17, off Justin Anderson).
+HR: Connor Wong (13, off Chris Flexen, 2nd inn, 0 on, 2 outs to Deep LF); Wilyer Abreu (15, off Chris Flexen, 6th inn, 0 on, 2 outs to Deep CF-RF).
+TB: Connor Wong 7; Wilyer Abreu 6; Masataka Yoshida 2; Jarren Duran; Trevor Story.
+RBI: Connor Wong (48); Wilyer Abreu (55).
+2-out RBI: Connor Wong; Wilyer Abreu.
+Team LOB: 4.
+With RISP: 0 for 6.
+Fielding
+DP: 2. Richard Fitts-Trevor Story-Triston Casas; Trevor Story-Triston Casas.
+E: Triston Casas (5); Wilyer Abreu (6).
+Baserunning
+CS: Wilyer Abreu (3, 3rd base by Chris Flexen/Korey Lee); Trevor Story (2, 2nd base by Chris Flexen/Korey Lee).
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Chris Flexen\t6\t6\t2\t2\t1\t6\t2\t5.26\t22\t87\t53\t31\t11\t11\t4\t11\t6\t0\t57\t\t\t0.031\t0.99\t0.00%\t0.00\t1.1
+Prelander Berroa\t1.1\t1\t0\t0\t0\t1\t0\t4.32\t5\t21\t16\t12\t2\t2\t1\t3\t1\t0\t\t0\t0\t0.136\t1.76\t0.00%\t0.00\t0.8
+Fraser Ellard, W (2-2)\t0.2\t0\t0\t0\t0\t0\t0\t3.29\t2\t11\t5\t3\t0\t2\t2\t0\t0\t0\t\t0\t0\t0.062\t1.23\t0.00%\t0.00\t0.3
+Justin Anderson\t1\t1\t0\t0\t0\t2\t0\t4.15\t4\t17\t9\t3\t3\t3\t0\t2\t1\t0\t\t0\t0\t0.008\t0.10\t0.00%\t0.00\t0.5
+Team Totals\t9\t8\t2\t2\t1\t9\t2\t2.00\t33\t136\t83\t49\t16\t18\t7\t16\t8\t0\t57\t0\t0\t0.237\t1.01\t0.00%\t0.00\t2.7
+
+Boston Red Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Richard Fitts\t5.2\t6\t2\t0\t1\t2\t0\t0.00\t22\t66\t44\t32\t3\t9\t10\t9\t3\t0\t54\t\t\t0.150\t1.44\t0.05%\t0.82\t1.8
+Greg Weissert\t1.1\t1\t0\t0\t0\t2\t0\t3.71\t5\t22\t16\t7\t3\t6\t1\t2\t1\t0\t\t1\t1\t-0.030\t1.31\t-0.01%\t0.75\t-0.1
+Justin Slaten\t1\t0\t0\t0\t0\t1\t0\t3.17\t3\t10\t7\t6\t0\t1\t1\t1\t0\t0\t\t0\t0\t0.109\t1.42\t0.04%\t0.81\t0.5
+Zack Kelly, L (6-3)\t0.1\t5\t5\t5\t1\t1\t0\t3.58\t7\t21\t15\t9\t3\t3\t1\t4\t3\t0\t\t0\t0\t-0.491\t2.45\t-0.17%\t1.40\t-4.9
+Luis Guerrero\t0.2\t0\t0\t0\t0\t0\t0\t0.00\t2\t8\t5\t3\t1\t1\t0\t2\t0\t0\t\t2\t1\t-0.001\t0.03\t0.00%\t0.01\t0.4
+Team Totals\t9\t12\t7\t5\t2\t6\t0\t5.00\t39\t127\t87\t57\t10\t20\t13\t18\t7\t0\t54\t3\t2\t-0.263\t1.53\t-0.09%\t0.87\t-2.3
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Zack Kelly (3; Gavin Sheets).
+Pickoffs: Richard Fitts (1; Luis Robert Jr., 1st base).
+Other Info 
+Umpires: HP - Andy Fletcher, 1B - Jansen Visconti, 2B - John Bacon, 3B - Mike Muchlinski, LF - (none), RF - (none).
+Time of Game: 2:35.
+Attendance: 29,110.
+Field Condition: Unknown.
+Start Time Weather: 69° F, Wind 11mph out to Rightfield, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+White Sox
+1\tZach DeLoach\tDH
+2\tLuis Robert Jr.\tCF
+3\tAndrew Benintendi\tLF
+4\tAndrew Vaughn\t1B
+5\tKorey Lee\tC
+6\tLenyn Sosa\t2B
+7\tDominic Fletcher\tRF
+8\tMiguel Vargas\t3B
+9\tJacob Amaya\tSS
+\tChris Flexen\tP
+Red Sox
+1\tJarren Duran\tCF
+2\tRafael Devers\t3B
+3\tWilyer Abreu\tRF
+4\tTyler O'Neill\tLF
+5\tMasataka Yoshida\tDH
+6\tConnor Wong\tC
+7\tTriston Casas\t1B
+8\tTrevor Story\tSS
+9\tEnmanuel Valdez\t2B
+\tRichard Fitts\tP
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Chicago White Sox vs. Boston Red Sox, September 8 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+BOS
+50%
+CHW
+Inning\tWin Pct
+1\t0.5
+2\t0.48
+3\t0.5
+4\t0.46
+5\t0.45
+6\t0.42
+7\t0.45
+8\t0.47
+9\t0.5
+10\t0.54
+11\t0.5
+12\t0.47
+13\t0.45
+14\t0.47
+15\t0.49
+16\t0.38
+17\t0.39
+18\t0.36
+19\t0.34
+20\t0.33
+21\t0.3
+22\t0.33
+23\t0.37
+24\t0.38
+25\t0.42
+26\t0.49
+27\t0.46
+28\t0.31
+29\t0.34
+30\t0.35
+31\t0.36
+32\t0.41
+33\t0.37
+34\t0.42
+35\t0.29
+36\t0.26
+37\t0.21
+38\t0.21
+39\t0.28
+40\t0.34
+41\t0.44
+42\t0.54
+43\t0.53
+44\t0.48
+45\t0.63
+46\t0.6
+47\t0.64
+48\t0.67
+49\t0.48
+50\t0.5
+51\t0.46
+52\t0.43
+53\t0.41
+54\t0.45
+55\t0.38
+56\t0.44
+57\t0.5
+58\t0.45
+59\t0.42
+60\t0.39
+61\t0.44
+62\t0.47
+63\t0.5
+64\t0.58
+65\t0.5
+66\t0.58
+67\t0.9
+68\t0.9
+69\t0.95
+70\t0.99
+71\t0.99
+72\t0.99
+73\t1
+74\t1
+75\t1
+76\t1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+t9\t2-2\t1\t12-\t6,(2-2) \tR\tCHW\tDominic Fletcher\tZack Kelly\t32%\t90%\tDouble to LF (Line Drive to LF Line); B. Ramos Scores; N. Lopez to 3B
+b6\t1-2\t2\t---\t3,(2-0) \tR\tBOS\tWilyer Abreu\tChris Flexen\t-19%\t48%\tHome Run (Line Drive to Deep CF-RF)
+t6\t1-1\t2\t--3\t3,(2-0) \tR\tCHW\tKorey Lee\tGreg Weissert\t15%\t63%\tSingle to P (Ground Ball to P's Right); L. Robert Scores/unER
+t4\t0-1\t1\t1-3\t3,(0-2) \tOO\tCHW\tKorey Lee\tRichard Fitts\t-15%\t31%\tGround Ball Double Play: P-SS-1B
+t5\t0-1\t1\t12-\t2,(0-1) \tOO\tCHW\tJacob Amaya\tRichard Fitts\t-13%\t29%\tGround Ball Double Play: SS-1B (SS-2B)
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+Top of the 1st, White Sox Batting, Tied 0-0, Red Sox' Richard Fitts facing 1-2-3
+t1\t0-0\t0\t---\t3,(0-2) \tO\tCHW\tZach DeLoach\tRichard Fitts\t-2%\t48%\tFlyball: LF
+t1\t0-0\t1\t---\t1,(0-0) \t\tCHW\tLuis Robert Jr.\tRichard Fitts\t2%\t50%\tSingle to LF (Line Drive to LF Line)
+t1\t0-0\t1\t1--\t5,(3-2) \tO\tCHW\tAndrew Benintendi\tRichard Fitts\t-4%\t46%\tL. Robert Picked off 1B (P-1B)
+t1\t0-0\t2\t---\t6,(3-2) \tO\tCHW\tAndrew Benintendi\tRichard Fitts\t-1%\t45%\tGroundout: 2B-1B
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 0 LOB. White Sox 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, White Sox' Chris Flexen facing 1-2-3
+b1\t0-0\t0\t---\t2,(0-1) \t\tBOS\tJarren Duran\tChris Flexen\t-3%\t42%\tSingle to LF (Line Drive to Deep SS-3B Hole)
+b1\t0-0\t0\t1--\t4,(1-2) \tO\tBOS\tRafael Devers\tChris Flexen\t3%\t45%\tLineout: CF (Deep CF)
+b1\t0-0\t1\t1--\t1,(0-0) \tO\tBOS\tWilyer Abreu\tChris Flexen\t2%\t47%\tDouble to 1B (Line Drive to RF Line); J. Duran out at Hm/RF-C
+b1\t0-0\t2\t-2-\t7,(3-2) \tO\tBOS\tTyler O'Neill\tChris Flexen\t3%\t50%\tW. Abreu Caught Stealing 3B (P-3B)
+\t\t\t\t\t\t\t\t\t0 runs, 2 hits, 0 errors, 0 LOB. White Sox 0, Red Sox 0.
+Top of the 2nd, White Sox Batting, Tied 0-0, Red Sox' Richard Fitts facing 4-5-6
+t2\t0-0\t0\t---\t2,(1-0) \t\tCHW\tAndrew Vaughn\tRichard Fitts\t4%\t54%\tSingle to P (Ground Ball to Short 3B Line)
+t2\t0-0\t0\t1--\t1,(0-0) \tO\tCHW\tKorey Lee\tRichard Fitts\t-4%\t50%\tFlyball: LF
+t2\t0-0\t1\t1--\t5,(1-2) \tO\tCHW\tLenyn Sosa\tRichard Fitts\t-3%\t47%\tStrikeout Swinging
+t2\t0-0\t2\t1--\t3,(2-0) \tO\tCHW\tDominic Fletcher\tRichard Fitts\t-2%\t45%\tGroundout: 2B-1B (2B-1B)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Tied 0-0, White Sox' Chris Flexen facing 4-5-6
+b2\t0-0\t0\t---\t5,(2-2) \tO\tBOS\tTyler O'Neill\tChris Flexen\t2%\t47%\tGroundout: 3B-1B (SS-3B Hole)
+b2\t0-0\t1\t---\t3,(0-2) \tO\tBOS\tMasataka Yoshida\tChris Flexen\t2%\t49%\tStrikeout Swinging; M. Yoshida out at 1B/C-1B
+b2\t0-0\t2\t---\t4,(2-1) \tR\tBOS\tConnor Wong\tChris Flexen\t-11%\t38%\tHome Run (Fly Ball to Deep LF)
+b2\t1-0\t2\t---\t5,(2-2) \tO\tBOS\tTriston Casas\tChris Flexen\t1%\t39%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 0 LOB. White Sox 0, Red Sox 1.
+Top of the 3rd, White Sox Batting, Behind 0-1, Red Sox' Richard Fitts facing 8-9-1
+t3\t0-1\t0\t---\t3,(0-2) \tO\tCHW\tMiguel Vargas\tRichard Fitts\t-3%\t36%\tFlyball: RF (Short RF)
+t3\t0-1\t1\t---\t4,(2-1) \tO\tCHW\tJacob Amaya\tRichard Fitts\t-2%\t34%\tFlyball: RF
+t3\t0-1\t2\t---\t6,(3-2) \tO\tCHW\tZach DeLoach\tRichard Fitts\t-1%\t33%\tGroundout: P-1B
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Red Sox 1.
+Bottom of the 3rd, Red Sox Batting, Ahead 1-0, White Sox' Chris Flexen facing 8-9-1
+b3\t1-0\t0\t---\t5,(2-2) \t\tBOS\tTrevor Story\tChris Flexen\t-3%\t30%\tSingle to CF (Line Drive to Deep LF-CF)
+b3\t1-0\t0\t1--\t5,(1-2) \tO\tBOS\tEnmanuel Valdez\tChris Flexen\t3%\t33%\tStrikeout Swinging
+b3\t1-0\t1\t1--\t2,(1-0) \tO\tBOS\tJarren Duran\tChris Flexen\t4%\t37%\tT. Story Caught Stealing 2B (C-SS)
+b3\t1-0\t2\t---\t5,(3-1) \tO\tBOS\tJarren Duran\tChris Flexen\t1%\t38%\tFlyball: RF (Deep RF Line)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 0 LOB. White Sox 0, Red Sox 1.
+Top of the 4th, White Sox Batting, Behind 0-1, Red Sox' Richard Fitts facing 2-3-4
+t4\t0-1\t0\t---\t3,(1-1) \t\tCHW\tLuis Robert Jr.\tRichard Fitts\t5%\t42%\tSingle to CF (Ground Ball thru SS-2B)
+t4\t0-1\t0\t1--\t3,(1-1) \t\tCHW\tAndrew Benintendi\tRichard Fitts\t7%\t50%\tSingle to RF (Line Drive to CF-RF); L. Robert to 2B
+t4\t0-1\t0\t12-\t1,(0-0) \tO\tCHW\tAndrew Vaughn\tRichard Fitts\t-3%\t46%\tFlyball: CF (Deep CF); L. Robert to 3B
+t4\t0-1\t1\t1-3\t3,(0-2) \tOO\tCHW\tKorey Lee\tRichard Fitts\t-15%\t31%\tGround Ball Double Play: P-SS-1B
+\t\t\t\t\t\t\t\t\t0 runs, 2 hits, 0 errors, 1 LOB. White Sox 0, Red Sox 1.
+Bottom of the 4th, Red Sox Batting, Ahead 1-0, White Sox' Chris Flexen facing 2-3-4
+b4\t1-0\t0\t---\t6,(3-2) \tO\tBOS\tRafael Devers\tChris Flexen\t2%\t34%\tFlyball: RF (Deep RF)
+b4\t1-0\t1\t---\t3,(0-2) \tO\tBOS\tWilyer Abreu\tChris Flexen\t2%\t35%\tStrikeout Swinging
+b4\t1-0\t2\t---\t4,(2-1) \tO\tBOS\tTyler O'Neill\tChris Flexen\t1%\t36%\tFoul Popfly: 1B
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Red Sox 1.
+Top of the 5th, White Sox Batting, Behind 0-1, Red Sox' Richard Fitts facing 6-7-8
+t5\t0-1\t0\t---\t2,(1-0) \t\tCHW\tLenyn Sosa\tRichard Fitts\t5%\t41%\tSingle to RF (Ground Ball thru 2B-1B)
+t5\t0-1\t0\t1--\t6,(2-2) \tO\tCHW\tDominic Fletcher\tRichard Fitts\t-5%\t37%\tStrikeout Swinging
+t5\t0-1\t1\t1--\t4,(3-0) \t\tCHW\tMiguel Vargas\tRichard Fitts\t5%\t42%\tWalk; L. Sosa to 2B
+t5\t0-1\t1\t12-\t2,(0-1) \tOO\tCHW\tJacob Amaya\tRichard Fitts\t-13%\t29%\tGround Ball Double Play: SS-1B (SS-2B)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Red Sox 1.
+Bottom of the 5th, Red Sox Batting, Ahead 1-0, White Sox' Chris Flexen facing 5-6-7
+b5\t1-0\t0\t---\t4,(3-0) \t\tBOS\tMasataka Yoshida\tChris Flexen\t-3%\t26%\tWalk
+b5\t1-0\t0\t1--\t2,(1-0) \t\tBOS\tConnor Wong\tChris Flexen\t-5%\t21%\tSingle to SS (Ground Ball); M. Yoshida to 2B
+b5\t1-0\t0\t12-\t3,(1-1) \tO\tBOS\tTriston Casas\tChris Flexen\t0%\t21%\tGroundout: C-1B; M. Yoshida to 3B; C. Wong to 2B
+b5\t1-0\t1\t-23\t6,(3-2) \tO\tBOS\tTrevor Story\tChris Flexen\t7%\t28%\tStrikeout Swinging
+b5\t1-0\t2\t-23\t4,(1-2) \tO\tBOS\tEnmanuel Valdez\tChris Flexen\t6%\t34%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 2 LOB. White Sox 0, Red Sox 1.
+Top of the 6th, White Sox Batting, Behind 0-1, Red Sox' Richard Fitts facing 1-2-3
+t6\t0-1\t0\t---\t2,(1-0) \t\tCHW\tZach DeLoach\tRichard Fitts\t10%\t44%\tReached on E3 (Ground Ball); Z. DeLoach to 2B
+t6\t0-1\t0\t-2-\t2,(0-1) \t\tCHW\tLuis Robert Jr.\tRichard Fitts\t10%\t54%\tSingle to RF (Line Drive to Short RF Line); Z. DeLoach to 3B
+t6\t0-1\t0\t1-3\t1,(0-0) \tRO\tCHW\tAndrew Benintendi\tRichard Fitts\t-1%\t53%\tGroundout: 2B-1B (2B-1B); Z. DeLoach Scores/unER; L. Robert to 2B
+t6\t1-1\t1\t-2-\t3,(0-2) \tO\tCHW\tAndrew Vaughn\tRichard Fitts\t-5%\t48%\tFlyball: RF (Deep CF-RF); L. Robert to 3B
+\t\t\t\t\t\t\t\t\t
+Greg Weissert replaces Richard Fitts pitching
+
+t6\t1-1\t2\t--3\t3,(2-0) \tR\tCHW\tKorey Lee\tGreg Weissert\t15%\t63%\tSingle to P (Ground Ball to P's Right); L. Robert Scores/unER
+t6\t2-1\t2\t1--\t3,(0-2) \tO\tCHW\tLenyn Sosa\tGreg Weissert\t-3%\t60%\tLineout: CF (Deep CF)
+\t\t\t\t\t\t\t\t\t2 runs, 2 hits, 1 error, 1 LOB. White Sox 2, Red Sox 1.
+Bottom of the 6th, Red Sox Batting, Behind 1-2, White Sox' Chris Flexen facing 1-2-3
+b6\t1-2\t0\t---\t1,(0-0) \tO\tBOS\tJarren Duran\tChris Flexen\t4%\t64%\tFlyball: LF (Deep LF)
+b6\t1-2\t1\t---\t1,(0-0) \tO\tBOS\tRafael Devers\tChris Flexen\t3%\t67%\tLineout: RF (Deep CF-RF)
+b6\t1-2\t2\t---\t3,(2-0) \tR\tBOS\tWilyer Abreu\tChris Flexen\t-19%\t48%\tHome Run (Line Drive to Deep CF-RF)
+b6\t2-2\t2\t---\t4,(1-2) \tO\tBOS\tTyler O'Neill\tChris Flexen\t2%\t50%\tGroundout: SS-1B
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 0 LOB. White Sox 2, Red Sox 2.
+Top of the 7th, White Sox Batting, Tied 2-2, Red Sox' Greg Weissert facing 7-8-9
+t7\t2-2\t0\t---\t3,(0-2) \tO\tCHW\tDominic Fletcher\tGreg Weissert\t-4%\t46%\tFlyball: LF (Deep LF)
+t7\t2-2\t1\t---\t7,(2-2) \tO\tCHW\tMiguel Vargas\tGreg Weissert\t-3%\t43%\tStrikeout Swinging
+t7\t2-2\t2\t---\t6,(2-2) \tO\tCHW\tJacob Amaya\tGreg Weissert\t-2%\t41%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Red Sox 2.
+Bottom of the 7th, Red Sox Batting, Tied 2-2, White Sox' Prelander Berroa facing 5-6-7
+\t\t\t\t\t\t\t\t\t
+Prelander Berroa replaces Chris Flexen pitching
+
+b7\t2-2\t0\t---\t2,(1-0) \tO\tBOS\tMasataka Yoshida\tPrelander Berroa\t4%\t45%\tFlyball: LF (Short LF-CF)
+b7\t2-2\t1\t---\t5,(1-2) \t\tBOS\tConnor Wong\tPrelander Berroa\t-7%\t38%\tDouble to LF (Line Drive to LF Line)
+b7\t2-2\t1\t-2-\t5,(2-2) \tO\tBOS\tTriston Casas\tPrelander Berroa\t6%\t44%\tStrikeout Swinging
+b7\t2-2\t2\t-2-\t5,(0-2) \tO\tBOS\tTrevor Story\tPrelander Berroa\t6%\t50%\tGroundout: 1B unassisted
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Red Sox 2.
+Top of the 8th, White Sox Batting, Tied 2-2, Red Sox' Justin Slaten facing 1-2-3
+\t\t\t\t\t\t\t\t\t
+Justin Slaten replaces Greg Weissert pitching
+
+t8\t2-2\t0\t---\t4,(1-2) \tO\tCHW\tZach DeLoach\tJustin Slaten\t-5%\t45%\tFlyball: LF
+t8\t2-2\t1\t---\t1,(0-0) \tO\tCHW\tLuis Robert Jr.\tJustin Slaten\t-4%\t42%\tGroundout: C-1B
+t8\t2-2\t2\t---\t5,(2-2) \tO\tCHW\tAndrew Benintendi\tJustin Slaten\t-3%\t39%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Red Sox 2.
+Bottom of the 8th, Red Sox Batting, Tied 2-2, White Sox' Prelander Berroa facing 9-1-2
+b8\t2-2\t0\t---\t4,(1-2) \tO\tBOS\tEnmanuel Valdez\tPrelander Berroa\t5%\t44%\tPopfly: 2B
+\t\t\t\t\t\t\t\t\t
+Fraser Ellard replaces Prelander Berroa pitching
+
+b8\t2-2\t1\t---\t6,(3-2) \tO\tBOS\tJarren Duran\tFraser Ellard\t4%\t47%\tGroundout: 2B-1B
+b8\t2-2\t2\t---\t5,(3-1) \tO\tBOS\tRafael Devers\tFraser Ellard\t3%\t50%\tGroundout: SS-1B
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Red Sox 2.
+Top of the 9th, White Sox Batting, Tied 2-2, Red Sox' Zack Kelly facing 4-5-6
+\t\t\t\t\t\t\t\t\t
+Zack Kelly replaces Justin Slaten pitching
+Nick Sogard replaces Enmanuel Valdez playing 2B batting 9th
+
+t9\t2-2\t0\t---\t5,(2-2) \t\tCHW\tAndrew Vaughn\tZack Kelly\t8%\t58%\tSingle to RF (Line Drive to Short RF Line)
+\t\t\t\t\t\t\t\t\t
+Bryan Ramos pinch runs for Andrew Vaughn (1B) batting 4th
+
+t9\t2-2\t0\t1--\t4,(1-2) \tO\tCHW\tKorey Lee\tZack Kelly\t-8%\t50%\tStrikeout Swinging
+t9\t2-2\t1\t1--\t1,(0-0) \t\tCHW\tLenyn Sosa\tZack Kelly\t8%\t58%\tSingle to RF (Line Drive); B. Ramos to 2B
+\t\t\t\t\t\t\t\t\t
+Nicky Lopez pinch runs for Lenyn Sosa (2B) batting 6th
+
+t9\t2-2\t1\t12-\t6,(2-2) \tR\tCHW\tDominic Fletcher\tZack Kelly\t32%\t90%\tDouble to LF (Line Drive to LF Line); B. Ramos Scores; N. Lopez to 3B
+\t\t\t\t\t\t\t\t\t
+Gavin Sheets pinch hits for Miguel Vargas (3B) batting 8th
+
+t9\t3-2\t1\t-23\t,(3-0) \t\tCHW\tGavin Sheets\tZack Kelly\t0%\t90%\tIntentional Walk
+t9\t3-2\t1\t123\t2,(0-1) \tR\tCHW\tJacob Amaya\tZack Kelly\t6%\t95%\tSingle to RF (Fly Ball to Short CF-RF); N. Lopez Scores; D. Fletcher to 3B; G. Sheets to 2B
+t9\t4-2\t1\t123\t3,(1-1) \tRR\tCHW\tZach DeLoach\tZack Kelly\t4%\t99%\tSingle to RF (Ground Ball thru 2B-1B); D. Fletcher Scores; G. Sheets Scores; J. Amaya to 3B; Z. DeLoach to 2B/Adv on E9 (throw)
+\t\t\t\t\t\t\t\t\t
+Luis Guerrero replaces Zack Kelly pitching
+
+t9\t6-2\t1\t-23\t6,(3-2) \tRO\tCHW\tLuis Robert Jr.\tLuis Guerrero\t0%\t99%\tFlyball: CF/Sacrifice Fly (Deep CF-RF); J. Amaya Scores; Z. DeLoach to 3B
+t9\t7-2\t2\t--3\t2,(0-1) \tO\tCHW\tAndrew Benintendi\tLuis Guerrero\t0%\t99%\tFlyball: CF (Short CF-RF)
+\t\t\t\t\t\t\t\t\t5 runs, 5 hits, 1 error, 1 LOB. White Sox 7, Red Sox 2.
+Bottom of the 9th, Red Sox Batting, Behind 2-7, White Sox' Justin Anderson facing 3-4-5
+\t\t\t\t\t\t\t\t\t
+Justin Anderson replaces Fraser Ellard pitching
+Gavin Sheets moves from PH to 1B
+Nicky Lopez moves from PR to 2B
+Bryan Ramos moves from PR to 3B
+
+b9\t2-7\t0\t---\t2,(1-0) \tO\tBOS\tWilyer Abreu\tJustin Anderson\t1%\t100%\tLineout: SS (Short CF)
+b9\t2-7\t1\t---\t6,(3-2) \tO\tBOS\tTyler O'Neill\tJustin Anderson\t0%\t100%\tStrikeout Swinging
+b9\t2-7\t2\t---\t3,(1-1) \t\tBOS\tMasataka Yoshida\tJustin Anderson\t0%\t100%\tDouble to RF (Fly Ball to Deep RF)
+b9\t2-7\t2\t-2-\t6,(3-2) \tO\tBOS\tConnor Wong\tJustin Anderson\t0%\t100%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. White Sox 7, Red Sox 2.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Boston Red Sox Schedule Chicago White Sox Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Chicago White Sox vs Boston Red Sox Box Score: September 8, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/BOS/BOS202409080.shtml 
+ ----- 

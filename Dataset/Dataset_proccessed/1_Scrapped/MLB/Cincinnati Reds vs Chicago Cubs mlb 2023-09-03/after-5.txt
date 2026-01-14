@@ -1,0 +1,318 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Cubs
+73-64, 36-33 Away
+15
+Final
+Reds
+71-68, 33-36 Home
+7
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Eighth-inning barrage powers Cubs to 15-7 rout of Reds and a split of the critical 4-game series
+— Ian Happ had four RBI while Mike Tauchman and Cody Bellinger each drove in three to help the Chicago Cubs cruise to a 15-7 rout of the Cincinnati Reds on Sunday and earn a split of a critical four-game series between the contending divisional rivals.
+Sep 3, 2023, 08:40 pm - AP
+
+
+CHC
+
+
+CIN
+1	2	3	4	5	6	7	8	9	R	H	E
+1	2	0	0	0	1	1	7	3	15	18	0
+2	2	0	0	0	1	0	2	0	7	11	1
+WIN
+D. Palencia
+5-0
+1.1 IP, 1 H, 0 ER, 2 K, 0 BB
+LOSS
+D. Law
+4-5
+0.0 IP, 2 H, 3 ER, 0 K, 0 BB
+Scoring Summary
+INNING
+	CHC	CIN
+		1st	Bellinger singled to center, Tauchman scored, Happ to second.	1	0
+		1st	Friedl homered to right center (419 feet).	1	1
+		1st	Steer homered to left center (410 feet).	1	2
+		2nd	Tauchman singled to right, Madrigal scored, Amaya to third.	2	2
+		2nd	Happ sacrificed into double play, left to third to shortstop, Amaya scored, Tauchman thrown out at third.	3	2
+		2nd	Stephenson homered to right center (391 feet), Benson scored.	3	4
+		6th	Bellinger homered to center (407 feet).	4	4
+		6th	Stephenson singled to left, Encarnacion-Strand scored.	4	5
+		7th	Happ singled to left, Hoerner scored.	5	5
+		8th	Madrigal singled to center, Suzuki scored and Swanson scored, Candelario to second.	7	5
+		8th	Tauchman singled to right, Candelario scored and Madrigal scored, Mastrobuoni to third.	9	5
+		8th	Bellinger hit sacrifice fly to left, Mastrobuoni scored, Tauchman to third.	10	5
+		8th	Swanson doubled to right, Happ scored and Tauchman scored.	12	5
+		8th	Marte doubled to center, Steer scored and Benson scored, Stephenson to third.	12	7
+		9th	Candelario homered to right center (410 feet).	13	7
+		9th	Happ doubled to right, Hoerner scored and Tauchman scored.	15	7
+Full Play-By-Play
+Cubs
+Reds
+HITTERS	H-AB	R	HR	RBI	AVG
+
+M. Tauchman
+CF
+	4-6	3	0	3	.262
+
+N. Hoerner
+2B
+	2-5	2	0	0	.280
+
+I. Happ
+LF
+	3-4	1	0	4	.248
+
+C. Bellinger
+DH
+	2-5	1	1	3	.320
+
+D. Swanson
+SS
+	2-5	1	0	2	.244
+
+S. Suzuki
+RF
+	2-5	1	0	0	.265
+
+J. Candelario
+1B
+	1-4	2	1	1	.259
+
+N. Madrigal
+3B
+	2-5	2	0	2	.273
+
+M. Amaya
+C
+	0-2	1	0	0	.220
+
+M. Mastrobuoni
+PH
+	0-0	1	0	0	.210
+
+Y. Gomes
+C
+	0-1	0	0	0	.265
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+J. Taillon
+	5.2	7	5	0	7	91-65	5.51
+
+D. Palencia
+	1.1	1	0	0	2	22-14	3.57
+
+K. Thompson
+	1.0	2	2	2	1	28-15	4.44
+
+S. Greene
+	1.0	1	0	0	1	9-6	0.00
+HITTERS	H-AB	R	HR	RBI	AVG
+
+N. Martini
+DH
+	1-5	0	0	0	.237
+
+T. Friedl
+LF-CF
+	2-5	1	1	1	.268
+
+S. Steer
+2B
+	1-4	2	1	1	.270
+
+E. De La Cruz
+SS
+	0-5	0	0	0	.241
+
+C. Encarnacion-Strand
+1B
+	1-4	1	0	0	.253
+
+W. Benson
+RF
+	1-3	2	0	0	.263
+
+T. Stephenson
+C
+	3-3	1	1	3	.252
+
+N. Marte
+3B
+	1-4	0	0	2	.224
+
+H. Bader
+CF
+	1-2	0	0	0	.239
+
+J. Fraley
+PH
+	0-1	0	0	0	.271
+
+S. Fairchild
+LF
+	0-1	0	0	0	.224
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+C. Spiers
+	4.0	5	3	2	7	87-58	6.75
+
+C. Shreve
+	1.0	1	1	0	1	13-7	4.89
+
+L. Sims
+	1.0	1	0	0	1	18-12	3.59
+
+I. Gibaut
+	1.0	2	1	0	2	18-15	3.34
+
+D. Law
+	0.0	2	3	0	0	13-7	3.80
+
+A. Diaz
+	0.0	2	1	0	0	14-10	2.30
+
+B. Kennedy
+	2.0	5	4	1	1	42-24	6.50
+Full Box Score
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+CUBS
+REDS
+CHC 100
+%
+CHC 15CIN 7
+
+Bottom 9th
+De La Cruz flied out to center.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+CHC
+CIN
+Hits
+18
+11
+Home Runs
+2
+3
+Total Bases
+30
+23
+Runners LOB
+7
+6
+Full Team Stats
+Regular Season Series
+Current Series
+Series tied 2-2
+Cubs
+6
+Reds
+2
+Game 1
+9/1
+Final
+Cubs
+2
+Reds
+3
+Game 2
+9/1
+Final
+Cubs
+1
+Reds
+2
+Game 3
+9/2
+Final
+Cubs
+15
+Reds
+7
+Game 4
+9/3
+Final
+Game Information
+Great American Ball Park
+4:10 PM, September 3, 2023
+Cincinnati, Ohio
+Attendance: 37,029
+Game Time:
+3:17
+Umpires:
+Home Plate Umpire - Mike Estabrook
+First Base Umpire - Andy Fletcher
+Second Base Umpire - Erich Bacchus
+Third Base Umpire - Laz Diaz
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401473062/cubs-reds 
+ ----- 

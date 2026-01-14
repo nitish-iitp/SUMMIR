@@ -1,0 +1,390 @@
+Match Ticker
+Premier League
+Other Competitions
+Opta Football Stats
+Opta Football Predictions
+Newsletter
+American Football
+More
+NBA
+NCAA
+PREMIER LEAGUE
+Premier League 2023-24 Title and Top Four Predictions: November Update
+NOV 22, 2023
+DAVID SEGAR / AUTHOR, MATT SISNEROS / DESIGN
+Twitter
+WhatsApp
+Email
+Share
+
+Before the season started, the Opta supercomputer predicted how the Premier League would pan out in 2023-24; here, after 12 rounds of matches, we have an update on those predictions.
+
+Ad
+Updated Premier League Predictions: The Quick Hits
+
+Favourites for the Title: Manchester City
+Top Four Favourites: Liverpool, Arsenal and Tottenham Hotspur
+
+At the start of the season, our trusty supercomputer revealed its predictions for the Premier League season.
+
+Much like the city of New York, the Opta supercomputer never sleeps – it has been running 10,000 simulations of the Premier League season on a more-than-daily basis since the season began, letting us know the most likely finishing position for each of the division’s 20 teams.
+
+With pretty much a third of the season gone, these are the percentage probabilities of each team finishing in each position in the latest round of 10,000 season simulations from our supercomputer.
+
+Ahead of the return of domestic football this weekend, we bring you the November update to our Premier League predictions; read on for analysis of our findings. We’ve already taken a look at the Premier League relegation battle.
+
+Who Will Win the Premier League in 2023-24?
+
+Due to notable things like having Pep Guardiola as their manager, Erling Haaland as their striker, and having won five of the last six Premier League titles, Manchester City have been heavy favourites to take the crown again this season since they lifted it – along with the FA Cup and UEFA Champions League – in 2022-23.
+
+Ad
+
+Since our last Premier League predictions update in October, City have only strengthened their favourites tag. Their chances were judged to be down at a still fairly mighty 73.4%, but after wins against Brighton, Manchester United and Bournemouth and a draw at Chelsea in an eight-goal thriller, the supercomputer now has them winning the title in 84.3% of its 10,000 simulations.
+
+Their first game back after the international break is against former great title rivals Liverpool, who are threatening to return to their position as Guardiola’s biggest obstacle. Jürgen Klopp’s men also won three and drew one between international breaks, beating Everton, Nottingham Forest and Brentford, but a 1-1 draw at Luton Town was not exactly the result of likely champions. They sit just a point behind City, though, which might make their 9.3% chance of finishing in first place seem a little harsh, down from 12.2% in October.
+
+Arsenal’s likelihood of going one better than last season is also down from our previous update, from 11.8% to just 5.7% after also drawing at Chelsea as well as losing at Newcastle United, with their two victories coming against relegation-zone ensconced pair Sheffield United and Burnley.
+
+Another team whose chances have taken a hit are Tottenham, with injuries and suspensions costing them in their final two games before this international break. Ange Postecoglou’s men beat London rivals Fulham and Crystal Palace, before a bizarre game against Chelsea that saw them lose 4-1 was followed by a disappointing late defeat at Wolves last time out. Spurs are only two points off the summit, but that hasn’t stopped the supercomputer from slashing their chances from 1.5% to just 0.3%.
+
+Look away Manchester United fans; the supercomputer has not given much credence to recent league form. Erik ten Hag’s men have won four of their last five Premier League games (L1) and sit in sixth place, but they are handed just a 0.01% chance of winning the league.
+
+Fifth-placed Aston Villa are considered more likely to win it (0.2%), while Newcastle (0.07%) and Brighton (0.01%) are also given very slight chances.
+
+Ad
+Who Will Finish in the Premier League’s Top Four in 2023-24?
+
+While Man City may have a stranglehold on the title reckoning, the top four race feels relatively wide open. In fact, 15 teams are considered to still have at least a 0.01% chance of finishing there come the end of the season; admittedly a tad optimistic for Nottingham Forest and Fulham but never say never.
+
+That said, the top five look like they might be primed to start pulling away, with Aston Villa in fifth four points clear of Man Utd in sixth. But with the hectic December period just around the corner, who knows how it’ll look by January?
+
+Man City will probably finish in the top four (try not to faint with shock), doing so 99.9% of the time in the supercomputer’s simulations, while Liverpool can feel confident of getting back into the Champions League with their 93.8%, up from 89.0% in October.
+
+Arsenal’s likelihood has also crept up a smidge, going from 88.0% to 90.3%, though Spurs’ chances have taken a hit, down from almost 50% last month to just 39.2% now after their back-to-back defeats.
+
+That is only narrowly ahead of Villa, whose home form (they have won their last 13 league games at Villa Park) is likely responsible for them finishing in the top four in 36% of simulations, more than double the 16.1% Unai Emery’s men were judged to have by the supercomputer last time.
+
+Man Utd’s chances have increased, up to 6.6% from 3.4% in October, while Newcastle’s have gone down from 35.7% to 24.6% after their last two away games saw them draw at Wolves and lose at Bournemouth.
+
+Brighton are without a win in six league games (D4 L2), which has seen their chances halved from 11.3% to 5.4%, while Chelsea have increased theirs from 0.6% to 1.9% despite only winning one of their last four (D2 L1). Impressive performances in draws with Arsenal and Man City probably helped Mauricio Pochettino’s side.
+
+Ad
+
+The only other team with a greater than 1% chance of finishing in the top four is West Ham (1.4%), with Brentford handed a 0.9% probability.
+
+Although we’ve only been focusing on the top four, it must be remembered that due to the new Champions League format coming in next season, the team that finishes fifth in the Premier League may also qualify. At the moment, the supercomputer believes the current occupants, Villa, are the likeliest to do so (22.1%).
+
+Opta-Simulated Premier League Table
+
+After simulating the Premier League 2023-24 season 10,000 times following 12 games played, we’re able to rank teams positionally. Here’s the Opta supercomputer results from those simulations:
+
+1st: Manchester City
+2nd: Liverpool
+3rd: Arsenal
+4th: Tottenham Hotspur
+5th: Aston Villa
+6th: Newcastle United
+7th: Manchester United
+8th: Brighton & Hove Albion
+9th: Chelsea
+10th: West Ham United
+11th: Brentford
+12th: Crystal Palace
+13th: Wolverhampton Wanderers
+14th: Fulham
+15th: Nottingham Forest
+16th: Bournemouth
+17th: Everton
+18th: Luton Town
+19th: Sheffield United
+20th: Burnley
+
+How Does the Opta Supercomputer Model Work?
+Opta’s League Prediction model estimates the likelihood of teams finishing in each position in the competition. We can therefore see how successful a team’s season is likely to be, whether it’s their relegation or title chances.
+The model estimates the probability of each match outcome (win, draw or loss) by using betting market odds and Opta Power Rankings. The odds and rankings are based on historical and recent team performances.
+The model considers the strength of opponents by using these match outcome probabilities and simulates the remaining fixtures in the competition thousands of times. By analysing the outcome of each of these simulations, the model can see how often teams finished in each league position to create our final predictions.
+Ad
+
+Enjoy this? Subscribe to our new football newsletter to receive exclusive weekly content. You should also follow our social accounts over on X, Instagram, TikTok and Facebook.
+
+RELATED ARTICLES
+PREMIER LEAGUE
+Premier League Match Predictions
+9 MINS AGO CHRIS MYSON, HARRY CARR, CHLOE HORSWILL, PATRIC RIDGE
+PREMIER LEAGUE
+Premier League Predictions 2024-25: The Opta Projections at the Halfway Point
+3 HOURS AGO MATT FURNISS
+PREMIER LEAGUE
+Crystal Palace vs Chelsea Prediction
+4 HOURS AGO TOM PATEY
+PREMIER LEAGUE
+Is Alexander Isak the Best Striker in the Premier League?
+4 HOURS AGO DAVID SEGAR
+Subscribe
+
+Sign up and be the first to receive exclusive stats, news, and updates from Opta Analyst.
+
+Country*
+Select A Country
+Canada
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Afghanistan
+Åland Islands
+Albania
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia (Plurinational State of)
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+United States Minor Outlying Islands
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (Democratic Republic of the)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran (Islamic Republic of)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia (the former Yugoslav Republic of)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova (Republic of)
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Korea (Democratic People's Republic of)
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Kosovo
+Réunion
+Romania
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Korea (Republic of)
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suricontent
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela (Bolivarian Republic of)
+Viet Nam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I agree to receive emails from Opta Analyst.
+See our Privacy Policy for more details.
+Privacy Policy
+Terms of Use
+Do Not Sell My Information
+Advertising
+Cookie Policy
+© 2025 Opta Analyst. All Rights Reserved.
+×
+ 
+ 
+ ----- 
+ Source link : https://theanalyst.com/2023/11/premier-league-title-top-four-predictions-november 
+ ----- 

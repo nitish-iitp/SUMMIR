@@ -1,0 +1,125 @@
+Skip to main content
+Bullets Forever homepage
+a Washington Wizards community
+Follow Bullets Forever online:
+Log in or sign up
+Site search
+Search
+Bullets Forever main menu
+FANPOSTS
+MORE 
+ALL 300 COMMUNITIES ON 
+
+FILED UNDER:
+
+WASHINGTON WIZARDS STATISTICAL ANALYSIS
+The Numbers Crunch: Bilal Coulibaly’s defense shines in the Wizards’ first win of the season
+
+Stats, analysis, commentary
+
+By Kevin Broom@so_wizards  Oct 29, 2024, 7:00am EDT  51 Comments / 51 New
+Share this story
+Share this on Facebook (opens in new window)
+Share this on Twitter (opens in new window)
+SHARE
+All sharing options
+
+Jordan Poole played well for a third straight game, Bub Carrington rained threes, Kyle Kuzma woke up in the second half, Corey Kispert got buckets, and Bilal Coulibaly locked up Atlanta Hawks star Trae Young. All that was necessary for the Wizards to depart Atlanta with their first win of the season, 121-119.
+
+The Wizards weathered a sloppy first half (13 turnovers) by knocking down eight threes and grabbing a few offensive boards. They cut out the turnovers and hit even more threes in the second half — finishing the game with 21 threes to Atlanta’s 15.
+
+Poole played a contained and efficient game — attacking when he had an advantage, bombing threes when open, and holding his own on the defensive end. He hit 6-8 from three-point range, boosting his shooting through the first three games to 16-28 — 61.5%.
+
+For me, the story of the game was Coulibaly, despite somewhat ho-hum numbers. That’s because of his defense on Young. Coulibaly’s length, agility, and defensive skill harassed Young — one of the NBA’s more skillful offensive weapons — into a terrible game. On a night when the injury-depleted Hawks needed Young to generate big production, he went 2-15 from the floor and committed six turnovers.
+
+On the offensive end, Coulibaly seemed to be on his way to a quiet night until he got aggressive in the fourth quarter. He repeatedly attacked the much smaller Young (who was matched up against Coulibaly) and scored 11 points in the final period. Late in the game, Coulibaly was in the point guard role — bringing the ball up the floor, using ball screens to attack the paint, and getting to the free throw line.
+
+Kudos to head coach Brian Keefe and his staff for repeatedly using Kispert to set ball screens, by the way. One of my favorite offensive sets of the Wes Unseld Jr. era was an empty corner pick and roll with Kispert setting a ball screen for the departed Bradley Beal. Kispert’s shooting and ability to attack close outs force defenders to make decisions.
+
+Last night was Kuzma’s best game of the season, and much of the positive production came in the third quarter when he knocked down three consecutive threes. He got through the requisite heat checks (misses) and went on to hit a couple more treys in the fourth. His full game numbers were held down by a poor first half (5 points on 2-8 shooting and 4 turnovers).
+
+It was an ugly but entertaining win for the Wizards, made encouraging because of positive contributions from so many players — including their three youngest guys (Carrington, Alex Sarr, and Coulibaly).
+
+Sarr didn’t play well overall, but his offensive rebounds helped boost the offense, and he had a steal and two blocks on defense. He had a handful of rookie variety defensive lapses and missed a couple shots from inside three feet (he should have dunked either), but made some helpful plays and got an opportunity to learn.
+
+Back to Keefe for a final thought — it was interesting that he used just nine players in the game, and just eight in the second half. In a competitive game, Washington’s four youngsters (Coulibaly, Sarr, Carrington, and Kyshawn George) all got significant minutes.
+
+Four Factors
+
+Below are the four factors that decide wins and losses in basketball — shooting (efg), rebounding (offensive rebounds), ball handling (turnovers), fouling (free throws made).
+
+Four Factors: Wizards at Hawks
+﻿FOUR FACTORS	WIZARDS	HAWKS
+
+EFG	0.566	0.574
+OREB	9	6
+TOV	18	16
+FTM	18	26
+PACE	107	
+ORTG	114	112
+Stats & Metrics
+
+Below are a few performance metrics, including the Player Production Average (PPA) Game Score. PPA is my overall production metric, which credits players for things they do that help a team win (scoring, rebounding, playmaking, defending) and dings them for things that hurt (missed shots, turnovers, bad defense, fouls).
+
+Game Score (GmSC) converts individual production into points on the scoreboard. The scale is the same as points and reflects each player’s total contributions for the game. The lowest possible GmSC is zero.
+
+PPA is a per possession metric designed for larger data sets. In small sample sizes, the numbers can get weird. In PPA, 100 is average, higher is better and replacement level is 45. For a single game, replacement level isn’t much use, and I reiterate the caution about small samples sometimes producing weird results.
+
+POSS is the number of possessions each player was on the floor in this game.
+
+ORTG = offensive rating, which is points produced per individual possessions x 100. League average last season was 114.8. Points produced is not the same as points scored. It includes the value of assists and offensive rebounds, as well as sharing credit when receiving an assist.
+
+USG = offensive usage rate. Average is 20%.
+
+ORTG and USG are versions of stats created by former Wizards assistant coach Dean Oliver and modified by me. ORTG is an efficiency measure that accounts for the value of shooting, offensive rebounds, assists and turnovers. USG includes shooting from the floor and free throw line, offensive rebounds, assists and turnovers.
+
++PTS = “Plus Points” is a measure of the points gained or lost by each player based on their efficiency in this game compared to league average efficiency on the same number of possessions. A player with an offensive rating (points produced per possession x 100) of 100 who uses 20 possessions would produce 20 points. If the league average efficiency is 114, the league — on average — would produced 22.8 points in the same 20 possessions. So, the player in this hypothetical would have a +PTS score of -2.8.
+
+Stats & Metrics: Wizards
+﻿WIZARDS	MIN	POSS	ORTG	USG	+PTS	PPA	GmSC	+/-
+
+Jordan Poole	33	73	133	25.5%	3.9	175	33.6	4
+Carlton Carrington	21	47	191	13.5%	5.0	191	23.4	-3
+Kyle Kuzma	40	90	104	28.5%	-2.2	83	19.6	6
+Corey Kispert	35	77	123	19.1%	1.5	94	18.9	13
+Bilal Coulibaly	37	82	111	18.7%	-0.2	52	11.2	4
+Jonas Valanciunas	22	49	83	23.3%	-3.3	39	5.0	2
+Alexandre Sarr	27	60	81	18.0%	-3.4	32	5.0	-11
+Marvin Bagley III	4	8	203	9.8%	0.7	204	4.2	1
+Kyshawn George	22	48	83	7.5%	-1.0	-39	0.0	-6
+Stats & Metrics: Hawks
+﻿HAWKS	MIN	POSS	ORTG	USG	+PTS	PPA	GmSC	+/-
+
+Jalen Johnson	39	86	130	25.5%	4.0	195	34.6	8
+Larry Nance Jr.	23	51	156	19.3%	4.4	211	22.4	-8
+David Roddy	19	43	186	10.6%	3.3	222	19.7	-18
+Dyson Daniels	36	81	111	10.1%	-0.1	95	15.8	-10
+Clint Capela	25	55	143	18.7%	3.2	131	14.9	6
+Vit Krejci	10	22	110	23.8%	-0.1	118	5.3	2
+Garrison Mathews	24	53	104	22.2%	-1.0	49	5.3	5
+Trae Young	36	79	81	32.2%	-8.1	6	1.0	-7
+Keaton Wallace	2	5		0.0%	0.0	0	0.0	-2
+Zaccharie Risacher	26	57	43	15.7%	-6.1	-59	0.0	14
+Sponsored Content
+Loading comments...
+Chorus
+	
+FanPosts
+Masthead
+Community Guidelines
+Facebook
+Twitter
+YouTube
+	
+Contact Have a News Tip? Browse Blogs SB Nation Masthead Company Blog Blog Openings Editorial Ethics and Guidelines
+Vox Media
+Terms of Use Privacy Notice Cookie Policy Do Not Sell or Share My Personal Data  Licensing FAQ Accessibility Platform Status Advertise with us Jobs @ Vox Media
+© 2025 Vox Media, LLC. All Rights Reserved
+
+
+Gambling Problem? Call 1-800-GAMBLER (1-800-426-2537). Hope is here. GamblingHelpLineMA.org or call (800) 327-5050 for 24/7 support (MA). Visit www.mdgamblinghelp.org (MD). Call 877-8HOPE-NY or text HOPENY (467369) (NY). 21+ (18+ D.C.) and present in select states (for KS, in affiliation with Kansas Star Casino). Call 1-888-789-7777 or visit ccpg.org/chat (CT) or visit FanDuel.com/RG.
+ 
+ 
+ ----- 
+ Source link : https://www.bulletsforever.com/2024/10/29/24282433/washington-wizards-atlanta-hawks-bilal-coulibaly-nba-statistical-analysis 
+ ----- 

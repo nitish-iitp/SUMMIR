@@ -1,0 +1,366 @@
+IND vs NZ
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+21st Match (D/N), Dharamsala, October 22, 2023, ICC Cricket World Cup
+NZ
+273
+IND
+(48/50 ov, T:274) 274/6
+
+India won by 4 wickets (with 12 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+NZ 0.00%
+IND 100%
+NZ
+IND
+100%
+50%
+100%
+NZ Innings
+IND Innings
+
+Over 48 • IND 274/6
+
+Virat Kohli c Phillips b Henry 95 (104b 8x4 2x6 154m) SR: 91.34
+W
+India won by 4 wickets (with 12 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Mohammed Shami
+, IND
+5/54
+CRICINFO'S MVP
+Daryl Mitchell
+, NZ
+168.37 pts
+Impact List
+New Zealand
+India
+Match Flow
+Info
+New Zealand  (50 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+Devon Conway 
+\t0\t9\t0\t0\t0.00
+
+c Iyer b Mohammed Siraj
+
+
+Will Young 
+\t17\t27\t3\t0\t62.96
+
+b Mohammed Shami
+
+
+Rachin Ravindra 
+\t75\t87\t6\t1\t86.20
+
+c Shubman Gill b Mohammed Shami
+
+
+Daryl Mitchell 
+\t130\t127\t9\t5\t102.36
+
+c Kohli b Mohammed Shami
+
+
+Tom Latham (c)†
+\t5\t7\t1\t0\t71.42
+
+lbw b Kuldeep Yadav
+
+
+Glenn Phillips 
+\t23\t26\t0\t1\t88.46
+
+c Sharma b Kuldeep Yadav
+
+
+Mark Chapman 
+\t6\t8\t0\t0\t75.00
+
+c Kohli b Bumrah
+
+
+Mitchell Santner 
+\t1\t2\t0\t0\t50.00
+
+b Mohammed Shami
+
+
+Matt Henry 
+\t0\t1\t0\t0\t0.00
+
+b Mohammed Shami
+
+
+Lockie Ferguson 
+\t1\t5\t0\t0\t20.00
+
+run out (†Rahul)
+
+
+Trent Boult 
+\t0\t1\t0\t0\t0.00
+
+not out
+
+Extras\t15\t(b 3, lb 5, w 7)
+Total\t273\t
+50 Ov (RR: 5.46)
+
+
+Fall of wickets: 1-9 (Devon Conway, 3.3 ov), 2-19 (Will Young, 8.1 ov), 3-178 (Rachin Ravindra, 33.3 ov), 4-205 (Tom Latham, 36.5 ov), 5-243 (Glenn Phillips, 44.2 ov), 6-257 (Mark Chapman, 46.6 ov), 7-260 (Mitchell Santner, 47.4 ov), 8-260 (Matt Henry, 47.5 ov), 9-273 (Daryl Mitchell, 49.5 ov), 10-273 (Lockie Ferguson, 49.6 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Jasprit Bumrah
+\t10\t1\t45\t
+1
+\t4.50\t0\t0
+
+Mohammed Siraj
+\t10\t1\t45\t
+1
+\t4.50\t4\t0
+
+Mohammed Shami
+\t10\t0\t54\t
+5
+\t5.40\t0\t0
+
+Ravindra Jadeja
+\t10\t0\t48\t0\t4.80\t0\t0
+
+Kuldeep Yadav
+\t10\t0\t73\t
+2
+\t7.30\t3\t0
+India  (T: 274 runs from 50 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+Rohit Sharma (c)
+\t46\t40\t4\t4\t115.00
+
+b Ferguson
+
+
+Shubman Gill 
+\t26\t31\t5\t0\t83.87
+
+c Mitchell b Ferguson
+
+
+Virat Kohli 
+\t95\t104\t8\t2\t91.34
+
+c Phillips b Henry
+
+
+Shreyas Iyer 
+\t33\t29\t6\t0\t113.79
+
+c Conway b Boult
+
+
+KL Rahul †
+\t27\t35\t3\t0\t77.14
+
+lbw b Santner
+
+
+Suryakumar Yadav 
+\t2\t4\t0\t0\t50.00
+
+run out (Santner/Boult/†Latham)
+
+
+Ravindra Jadeja 
+\t39\t44\t3\t1\t88.63
+
+not out
+
+
+Mohammed Shami 
+\t1\t1\t0\t0\t100.00
+
+not out
+
+Extras\t5\t(lb 1, w 4)
+Total\t274/6\t
+48 Ov (RR: 5.70)
+
+
+Did not bat: 
+Jasprit Bumrah, 
+Kuldeep Yadav, 
+Mohammed Siraj 
+
+
+Fall of wickets: 1-71 (Rohit Sharma, 11.1 ov), 2-76 (Shubman Gill, 13.2 ov), 3-128 (Shreyas Iyer, 21.3 ov), 4-182 (KL Rahul, 32.1 ov), 5-191 (Suryakumar Yadav, 33.5 ov), 6-269 (Virat Kohli, 47.4 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Trent Boult
+\t10\t0\t60\t
+1
+\t6.00\t1\t0
+
+Matt Henry
+\t9\t0\t55\t
+1
+\t6.11\t0\t0
+
+Mitchell Santner
+\t10\t0\t37\t
+1
+\t3.70\t0\t0
+
+Lockie Ferguson
+\t8\t0\t63\t
+2
+\t7.87\t2\t0
+
+Rachin Ravindra
+\t9\t0\t46\t0\t5.11\t1\t0
+
+Glenn Phillips
+\t2\t0\t12\t0\t6.00\t0\t0
+Unlocking the magic of Statsguru
+Match Flow
+New Zealand innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 34 runs, 2 wickets)
+Over 4.3: Review by India (Bowling), Decision Challenged - Wicket, Umpire - AT Holdstock, Batter - R Ravindra (Struck down)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 185 runs, 2 wickets)
+Over 10.2: Review by New Zealand (Batting), Decision Challenged - Wicket, Umpire - AT Holdstock, Batter - R Ravindra (Upheld)
+New Zealand: 50 runs in 12.3 overs (75 balls), Extras 4
+Drinks: New Zealand - 56/2 in 14.0 overs (R Ravindra 21, DJ Mitchell 14)
+3rd Wicket: 50 runs in 49 balls (R Ravindra 26, DJ Mitchell 20, Ex 4)
+New Zealand: 100 runs in 20.5 overs (125 balls), Extras 5
+R Ravindra: 50 off 56 balls (5 x 4, 1 x 6)
+3rd Wicket: 100 runs in 97 balls (R Ravindra 54, DJ Mitchell 41, Ex 5)
+DJ Mitchell: 50 off 60 balls (3 x 4, 2 x 6)
+Over 28.5: Review by New Zealand (Batting), Decision Challenged - Wicket, Umpire - AT Holdstock, Batter - R Ravindra (Upheld)
+New Zealand: 150 runs in 30.1 overs (181 balls), Extras 7
+Drinks: New Zealand - 167/2 in 32.0 overs (R Ravindra 74, DJ Mitchell 69)
+3rd Wicket: 150 runs in 148 balls (R Ravindra 73, DJ Mitchell 73, Ex 7)
+New Zealand: 200 runs in 36.1 overs (217 balls), Extras 14
+Over 36.5: Review by New Zealand (Batting), Decision Challenged - Wicket, Umpire - AT Holdstock, Batter - TWM Latham (Struck down)
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 54 runs, 6 wickets)
+DJ Mitchell: 100 off 100 balls (7 x 4, 4 x 6)
+New Zealand: 250 runs in 46.1 overs (277 balls), Extras 14
+Innings Break: New Zealand - 273/10 in 50.0 overs (TA Boult 0)
+India innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 63 runs, 0 wicket)
+India: 50 runs in 7.4 overs (46 balls), Extras 0
+1st Wicket: 50 runs in 46 balls (RG Sharma 28, Shubman Gill 24, Ex 0)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 162 runs, 5 wickets)
+India: 100 runs in 15.4 overs (94 balls), Extras 0
+Bad Weather: India - 100/2 in 15.4 overs (V Kohli 7, SS Iyer 21)
+3rd Wicket: 50 runs in 45 balls (V Kohli 16, SS Iyer 33, Ex 1)
+India: 150 runs in 27.5 overs (167 balls), Extras 2
+4th Wicket: 50 runs in 62 balls (V Kohli 22, KL Rahul 27, Ex 1)
+Drinks: India - 182/3 in 32.0 overs (V Kohli 48, KL Rahul 27)
+Over 32.1: Review by New Zealand (Bowling), Decision Challenged - Wicket, Umpire - MA Gough, Batter - KL Rahul (Upheld)
+V Kohli: 50 off 60 balls (5 x 4, 1 x 6)
+India: 200 runs in 35.4 overs (214 balls), Extras 2
+Over 35.5: Review by New Zealand (Bowling), Decision Challenged - Wicket, Umpire - AT Holdstock, Batter - RA Jadeja (Struck down)
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 49 runs, 1 wicket)
+6th Wicket: 50 runs in 52 balls (V Kohli 21, RA Jadeja 28, Ex 1)
+India: 250 runs in 45.2 overs (272 balls), Extras 3
+Match Details
+Himachal Pradesh Cricket Association Stadium, Dharamsala
+
+Toss\tIndia, elected to field first
+Series\t
+ICC Cricket World Cup
+
+Season\t
+2023/24
+
+Player Of The Match\t
+Mohammed Shami
+
+Match number\t
+ODI no. 4678
+
+Hours of play (local time)\t14.00 start, First Session 14.00-17.30, Interval 17.30-18.00, Second Session 18.00-21.30
+Match days\t22 October 2023 - daynight (50-over match)
+Umpires\t
+Adrian Holdstock
+DRS
+Michael Gough
+DRS
+
+TV Umpire\t
+Paul Wilson
+
+Reserve Umpire\t
+Praveen Sen
+
+Match Referee\t
+Andy Pycroft
+
+Points\tIndia 2, New Zealand 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 874 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/india-vs-new-zealand-21st-match-1384412/full-scorecard 
+ ----- 

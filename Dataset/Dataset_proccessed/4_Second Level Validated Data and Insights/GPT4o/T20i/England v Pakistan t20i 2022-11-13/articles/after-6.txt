@@ -1,0 +1,336 @@
+PAK vs ENG
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+Final (N), Melbourne, November 13, 2022, ICC Men's T20 World Cup
+PAK
+137/8
+ENG
+(19/20 ov, T:138) 138/5
+
+England won by 5 wickets (with 6 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+PAK 0.00%
+ENG 100%
+PAK
+ENG
+100%
+50%
+100%
+PAK Innings
+ENG Innings
+
+Over 19 • ENG 138/5
+
+Moeen Ali b Mohammad Wasim 19 (13b 3x4 0x6 30m) SR: 146.15
+W
+England won by 5 wickets (with 6 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Sam Curran
+, ENG
+3/12
+CRICINFO'S MVP
+Sam Curran
+, ENG
+100.11 pts
+Impact List
+Pakistan
+England
+Match Flow
+Info
+Pakistan  (20 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+Mohammad Rizwan †
+\t15\t14\t0\t1\t107.14
+
+b Curran
+
+
+Babar Azam (c)
+\t32\t28\t2\t0\t114.28
+
+c & b Rashid
+
+
+Mohammad Haris 
+\t8\t12\t1\t0\t66.66
+
+c Stokes b Rashid
+
+
+Shan Masood 
+\t38\t28\t2\t1\t135.71
+
+c Livingstone b Curran
+
+
+Iftikhar Ahmed 
+\t0\t6\t0\t0\t0.00
+
+c †Buttler b Stokes
+
+
+Shadab Khan 
+\t20\t14\t2\t0\t142.85
+
+c Woakes b Jordan
+
+
+Mohammad Nawaz 
+\t5\t7\t0\t0\t71.42
+
+c Livingstone b Curran
+
+
+Mohammad Wasim 
+\t4\t8\t0\t0\t50.00
+
+c Livingstone b Jordan
+
+
+Shaheen Shah Afridi 
+\t5\t3\t1\t0\t166.66
+
+not out
+
+
+Haris Rauf 
+\t1\t1\t0\t0\t100.00
+
+not out
+
+Extras\t9\t(b 1, lb 1, nb 1, w 6)
+Total\t137/8\t
+20 Ov (RR: 6.85)
+
+
+Did not bat: 
+Naseem Shah 
+
+
+Fall of wickets: 1-29 (Mohammad Rizwan, 4.2 ov), 2-45 (Mohammad Haris, 7.1 ov), 3-84 (Babar Azam, 11.1 ov), 4-85 (Iftikhar Ahmed, 12.2 ov), 5-121 (Shan Masood, 16.3 ov), 6-123 (Shadab Khan, 17.2 ov), 7-129 (Mohammad Nawaz, 18.3 ov), 8-131 (Mohammad Wasim, 19.3 ov)
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Ben Stokes
+\t4\t0\t32\t
+1
+\t8.00\t2\t1
+
+Chris Woakes
+\t3\t0\t26\t0\t8.66\t2\t0
+
+Sam Curran
+\t4\t0\t12\t
+3
+\t3.00\t0\t0
+
+Adil Rashid
+\t4\t1\t22\t
+2
+\t5.50\t1\t0
+
+Chris Jordan
+\t4\t0\t27\t
+2
+\t6.75\t0\t0
+
+Liam Livingstone
+\t1\t0\t16\t0\t16.00\t1\t0
+England  (T: 138 runs from 20 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+Jos Buttler (c)†
+\t26\t17\t3\t1\t152.94
+
+c †Mohammad Rizwan b Haris Rauf
+
+
+Alex Hales 
+\t1\t2\t0\t0\t50.00
+
+b Shaheen Shah Afridi
+
+
+Phil Salt 
+\t10\t9\t2\t0\t111.11
+
+c Iftikhar Ahmed b Haris Rauf
+
+
+Ben Stokes 
+\t52\t49\t5\t1\t106.12
+
+not out
+
+
+Harry Brook 
+\t20\t23\t1\t0\t86.95
+
+c Shaheen Shah Afridi b Shadab Khan
+
+
+Moeen Ali 
+\t19\t13\t3\t0\t146.15
+
+b Mohammad Wasim
+
+
+Liam Livingstone 
+\t1\t1\t0\t0\t100.00
+
+not out
+
+Extras\t9\t(lb 1, w 8)
+Total\t138/5\t
+19 Ov (RR: 7.26)
+
+
+Did not bat: 
+Sam Curran, 
+Chris Woakes, 
+Chris Jordan, 
+Adil Rashid 
+
+
+Fall of wickets: 1-7 (Alex Hales, 0.6 ov), 2-32 (Phil Salt, 3.3 ov), 3-45 (Jos Buttler, 5.3 ov), 4-84 (Harry Brook, 12.3 ov), 5-132 (Moeen Ali, 18.2 ov)
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Shaheen Shah Afridi
+\t2.1\t0\t13\t
+1
+\t6.00\t0\t0
+
+Naseem Shah
+\t4\t0\t30\t0\t7.50\t1\t0
+
+Haris Rauf
+\t4\t0\t23\t
+2
+\t5.75\t1\t0
+
+Shadab Khan
+\t4\t0\t20\t
+1
+\t5.00\t0\t0
+
+Mohammad Wasim
+\t4\t0\t38\t
+1
+\t9.50\t2\t0
+
+Iftikhar Ahmed
+\t0.5\t0\t13\t0\t15.60\t0\t0
+Unlocking the magic of Statsguru
+Match Flow
+Pakistan innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 39 runs, 1 wicket)
+Pakistan: 50 runs in 7.6 overs (49 balls), Extras 4
+Drinks: Pakistan - 68/2 in 10.0 overs (Babar Azam 29, Shan Masood 11)
+Pakistan: 100 runs in 14.3 overs (88 balls), Extras 7
+Shan Masood had a concussion test as he was hit on helmet by Chris Jordan's delivery at 14.1 overs.
+Innings Break: Pakistan - 137/8 in 20.0 overs (Shaheen Shah Afridi 5, Haris Rauf 1)
+England innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 49 runs, 3 wickets)
+Over 2.2: Review by Pakistan (Bowling), Umpire - HDPK Dharmasena, Batter - PD Salt (Struck down - Umpires Call)
+England: 50 runs in 6.1 overs (37 balls), Extras 7
+Drinks: England - 77/3 in 10.0 overs (BA Stokes 17, HC Brook 14)
+Over 11.6: Review by Pakistan (Bowling), Umpire - M Erasmus, Batter - BA Stokes (Struck down)
+Total attendance: 80,462
+England: 100 runs in 15.4 overs (94 balls), Extras 9
+BA Stokes: 50 off 47 balls (5 x 4, 1 x 6)
+Match Details
+Melbourne Cricket Ground
+
+Toss\tEngland, elected to field first
+Series\t
+ICC Men's T20 World Cup
+England tour of Australia
+
+Season\t
+2022/23
+
+Player Of The Match\t
+Sam Curran
+
+Player Of The Series\t
+Sam Curran
+
+Series result\tEngland won the 2022/23 ICC Men's T20 World Cup
+Match number\t
+T20I no. 1879
+
+Match days\t13 November 2022 - night (20-over match)
+Umpires\t
+Kumar Dharmasena
+Marais Erasmus
+
+TV Umpire\t
+Chris Gaffaney
+
+Reserve Umpire\t
+Paul Reiffel
+
+Match Referee\t
+Ranjan Madugalle
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 873 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/england-vs-pakistan-final-1298179/full-scorecard 
+ ----- 

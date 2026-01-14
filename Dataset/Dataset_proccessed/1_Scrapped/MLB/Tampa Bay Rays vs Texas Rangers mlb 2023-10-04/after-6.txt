@@ -1,0 +1,492 @@
+MENU
+2023 Wild Card Series
+Texas Rangers over Tampa Bay Rays (2-0)
+
+Dates: October 3 - 4, 2023
+
+WS MVP: Corey Seager
+
+NLCS MVP: Ketel Marte
+
+ALCS MVP: Adolis García
+
+Become a Stathead & surf this site ad-free.
+Postseason History
+More Postseason Pages
+
+2023 World Series
+
+ALCS
+
+NLCS
+
+ALDS1
+
+ALDS2
+
+NLDS1
+
+NLDS2
+
+ALWC1
+
+NLWC1
+
+ALWC2
+
+NLWC2
+
+Pete Alonso's Unique Free Agency Deal Offer to the Mets
+Series Scores
+Game 1, October 3
+Texas Rangers	4	Final
+Tampa Bay Rays	0	
+W	Jordan Montgomery (1-0)
+L	Tyler Glasnow (0-1)
+Game 2, October 4
+Texas Rangers	7	Final
+Tampa Bay Rays	1	
+W	Nathan Eovaldi (1-0)
+L	Zach Eflin (0-1)
+Series Batting Stats
+Texas Rangers Batting 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	AB	R	H	2B	3B	HR	RBI	BB	SO	BA	OBP	SLG	OPS	SB	CS	E	WPA	cWPA	G	AB	R	H	HR	RBI	SB	BA	OPS
+Evan Carter*	2	4	2	3	2	0	1	2	3	1	.750	.875	2.000	2.875	1	0	1	0.26	1.80%	23	62	15	19	5	12	3	.306	1.058
+Aroldis Chapman*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*1	0	0	0	0	0	0		
+Nathan Eovaldi	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Adolis García	2	10	1	2	0	0	1	1	0	3	.200	.200	.500	.700	0	0	0	0.11	0.81%	148	555	108	136	39	107	9	.245	.836
+Robbie Grossman#	2	9	0	1	0	0	0	0	1	4	.111	.200	.111	.311	0	0		-0.10	-0.62%	115	353	56	84	10	49	1	.238	.734
+Jonah Heim#	2	8	0	2	0	0	0	0	1	1	.250	.333	.250	.583	0	0	1	0.00	-0.01%	131	457	61	118	18	95	2	.258	.755
+Josh Jung	2	8	2	3	2	1	0	2	0	3	.375	.333	.875	1.208	0	0	0	0.11	0.81%	122	478	75	127	23	70	1	.266	.781
+José Leclerc	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Nathaniel Lowe*	2	10	1	2	0	0	0	1	0	3	.200	.200	.200	.400	0	0	0	-0.10	-0.63%	161	623	89	163	17	82	1	.262	.775
+Jordan Montgomery*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*0	0	0	0	0	0	0		
+Josh Sborz	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	1	1	0	0	0	0	0	.000	.000
+Corey Seager*	2	8	2	4	3	0	0	2	2	2	.500	.600	.875	1.475	0	0	0	0.33	2.20%	119	477	88	156	33	96	2	.327	1.013
+Marcus Semien	2	9	2	1	1	0	0	1	1	1	.111	.200	.222	.422	0	0	0	-0.23	-1.50%	162	670	122	185	29	100	14	.276	.826
+Leody Taveras#	2	9	1	3	0	0	0	0	0	3	.333	.333	.333	.667	2	0	0	-0.05	-0.28%	143	511	67	136	14	67	14	.266	.733
+Totals	24	75	11	21	8	1	2	9	8	21	.280	.353	.493	.846	3	0		0.34	2.58%	162	5595	881	1470	233		79	.263	.790
+* - bats left-handed, # - bats both, else - bats right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Tampa Bay Rays Batting 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	AB	R	H	2B	3B	HR	RBI	BB	SO	BA	OBP	SLG	OPS	SB	CS	E	WPA	cWPA	G	AB	R	H	HR	RBI	SB	BA	OPS
+Jonathan Aranda*	1	1	0	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0		-0.01	-0.04%	34	87	13	20	2	13	0	.230	.708
+Shawn Armstrong	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Randy Arozarena	2	8	0	3	1	0	0	0	0	2	.375	.375	.500	.875	0	0	0	0.04	0.30%	151	551	95	140	23	83	22	.254	.789
+Christian Bethancourt	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	104	315	49	71	11	33	1	.225	.635
+Junior Caminero	2	2	0	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	-0.02	-0.15%	7	34	4	8	1	7	0	.235	.631
+Chris Devenski	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*0	0	0	0	0	0	0		
+Yandy Díaz	2	8	0	1	0	0	0	0	0	1	.125	.125	.125	.250	0	0	1	-0.06	-0.39%	137	525	95	173	22	78	0	.330	.932
+Jake Diekman	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*0	0	0	0	0	0	0		
+Zach Eflin	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Tyler Glasnow*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Andrew Kittredge	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Zack Littell	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*0	0	0	0	0	0	0		
+Josh Lowe*	2	4	1	1	0	0	0	0	1	0	.250	.400	.250	.650	0	0	0	-0.04	-0.29%	135	466	71	136	20	83	32	.292	.835
+Manuel Margot	2	6	0	1	0	0	0	0	0	2	.167	.167	.167	.333	0	0	0	-0.08	-0.52%	99	311	39	82	4	38	9	.264	.686
+Curtis Mead	2	6	0	2	0	0	0	1	0	2	.333	.333	.333	.667	0	0	1	-0.01	-0.05%	24	83	12	21	1	5	0	.253	.675
+Isaac Paredes	2	8	0	3	1	0	0	0	0	2	.375	.375	.500	.875	0	0	0	-0.09	-0.55%	143	492	71	123	31	98	1	.250	.840
+René Pinto	2	5	0	0	0	0	0	0	0	4	.000	.000	.000	.000	0	0	1	-0.10	-0.67%	38	103	10	26	6	16	0	.252	.723
+Colin Poche*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Harold Ramírez	2	8	0	1	0	0	0	0	0	2	.125	.125	.125	.250	0	0		-0.16	-1.03%	122	400	58	125	12	68	5	.313	.813
+Jose Siri	1	3	0	0	0	0	0	0	0	0	.000	.000	.000	.000	0	0	1	-0.13	-0.84%	101	338	58	75	25	56	12	.222	.761
+Taylor Walls#	2	6	0	2	0	0	0	0	0	1	.333	.333	.333	.667	0	0	1	0.00	-0.01%	99	303	50	61	8	36	22	.201	.638
+Totals	31	65	1	14	2	0	0	1	1	18	.215	.227	.246	.473	0	0		-0.66	-4.24%	162	5511	860	1432	230		160	.260	.776
+* - bats left-handed, # - bats both, else - bats right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Texas Rangers Pitching 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	GS	ERA	W	L	SV	CG	IP	H	R	ER	BB	SO	WHIP	WPA	cWPA	G	GS	ERA	W	L	SV	IP	H	BB	SO	WHIP
+Aroldis Chapman*	1	0	0.00	0	0	0	0	1.0	0	0	0	0	1	0.000	0.03	0.19%	*61	0	3.09	6	5	6	58.1	37	36	103	1.251
+Nathan Eovaldi	1	1	1.35	1	0	0	0	6.2	6	1	1	0	8	0.900	0.22	1.42%	25	25	3.63	12	5	0	144.0	117	47	132	1.139
+José Leclerc	2	0	0.00	0	0	0	0	2.0	2	0	0	1	3	1.500	0.02	0.14%	57	0	2.68	0	2	4	57.0	37	28	67	1.140
+Jordan Montgomery*	1	1	0.00	1	0	0	0	7.0	6	0	0	0	5	0.857	0.37	2.38%	*32	32	3.20	10	11	0	188.2	177	48	166	1.193
+Josh Sborz	1	0	0.00	0	0	0	0	1.1	0	0	0	0	1	0.000	0.02	0.11%	44	0	5.50	6	7	0	52.1	43	17	66	1.146
+Totals	6	2	0.50	2	0	0	0	18.0	14	1	1	1	18	0.833	0.66	4.24%	162	162	4.280	90	72		1436.1	1330	491	1351	1.268
+* - throws left-handed, # - throws both, else - throws right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Tampa Bay Rays Pitching 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	GS	ERA	W	L	SV	CG	IP	H	R	ER	BB	SO	WHIP	WPA	cWPA	G	GS	ERA	W	L	SV	IP	H	BB	SO	WHIP
+Shawn Armstrong	1	0	0.00	0	0	0	0	1.0	1	0	0	0	1	1.000	0.00	0.01%	39	6	1.38	1	0	0	52.0	36	11	54	0.904
+Chris Devenski	1	0	0.00	0	0	0	0	2.0	1	0	0	0	0	0.500	-0.05	-0.31%	*38	0	4.46	6	4	0	42.1	36	11	42	1.110
+Jake Diekman*	1	0	0.00	0	0	0	0	1.0	1	0	0	1	2	2.000	0.01	0.05%	*63	0	3.34	0	2	0	56.2	37	38	64	1.324
+Zach Eflin	1	1	7.20	0	1	0	0	5.0	8	5	4	2	3	2.000	-0.23	-1.79%	31	31	3.50	16	8	0	177.2	158	24	186	1.024
+Tyler Glasnow	1	1	5.40	0	1	0	0	5.0	6	4	3	5	8	2.200	-0.05	-0.38%	21	21	3.53	10	7	0	120.0	93	37	162	1.083
+Andrew Kittredge	1	0	0.00	0	0	0	0	1.0	1	0	0	0	1	1.000	0.00	0.03%	14	0	3.09	2	0	1	11.2	12	2	10	1.200
+Zack Littell	1	0	0.00	0	0	0	0	2.0	0	0	0	0	4	0.000	0.00	0.01%	*28	14	4.10	3	6	0	90.0	94	12	74	1.178
+Colin Poche*	1	0	18.00	0	0	0	0	1.0	3	2	2	0	2	3.000	-0.03	-0.20%	66	0	2.23	12	3	1	60.2	42	24	61	1.088
+Totals	8	2	4.50	0	2	0	0	18.0	21	11	9	8	21	1.611	-0.34	-2.58%	162	162	3.857	99	63		1442.0	1258	439	1507	1.177
+* - throws left-handed, # - throws both, else - throws right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Series Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Series Win Probability - Texas Rangers vs. Tampa Bay Rays, 2023 Wild Card
+Series
+Gm 1
+Gm 2
+TBR
+50%
+TEX
+Inning	Win Pct
+1	0.45
+2	0.44
+3	0.46
+4	0.44
+5	0.43
+6	0.44
+7	0.43
+8	0.44
+9	0.45
+10	0.47
+11	0.46
+12	0.49
+13	0.5
+14	0.5
+15	0.51
+16	0.51
+17	0.49
+18	0.46
+19	0.47
+20	0.45
+21	0.49
+22	0.51
+23	0.5
+24	0.49
+25	0.5
+26	0.49
+27	0.5
+28	0.48
+29	0.5
+30	0.52
+31	0.54
+32	0.52
+33	0.51
+34	0.53
+35	0.49
+36	0.51
+37	0.52
+38	0.53
+39	0.56
+40	0.58
+41	0.61
+42	0.58
+43	0.62
+44	0.63
+45	0.6
+46	0.57
+47	0.58
+48	0.6
+49	0.6
+50	0.62
+51	0.64
+52	0.69
+53	0.69
+54	0.67
+55	0.67
+56	0.68
+57	0.68
+58	0.68
+59	0.69
+60	0.69
+61	0.68
+62	0.68
+63	0.69
+64	0.68
+65	0.69
+66	0.7
+67	0.71
+68	0.7
+69	0.7
+70	0.7
+71	0.7
+72	0.7
+73	0.71
+74	0.71
+75	0.71
+76	0.71
+77	0.71
+78	0.71
+79	0.71
+80	0.72
+81	0.72
+82	0.72
+83	0.71
+84	0.73
+85	0.71
+86	0.69
+87	0.68
+88	0.69
+89	0.72
+90	0.71
+91	0.72
+92	0.69
+93	0.7
+94	0.71
+95	0.71
+96	0.72
+97	0.76
+98	0.78
+99	0.71
+100	0.72
+101	0.69
+102	0.7
+103	0.71
+104	0.72
+105	0.79
+106	0.78
+107	0.77
+108	0.77
+109	0.78
+110	0.84
+111	0.92
+112	0.92
+113	0.9
+114	0.92
+115	0.93
+116	0.94
+117	0.95
+118	0.97
+119	0.96
+120	0.96
+121	0.96
+122	0.97
+123	0.96
+124	0.97
+125	0.97
+126	0.98
+127	0.97
+128	0.98
+129	0.99
+130	0.99
+131	0.99
+132	0.99
+133	1
+134	0.99
+135	1
+136	0.99
+137	0.99
+138	1
+139	0.99
+140	0.99
+141	0.99
+142	0.99
+143	1
+144	0.99
+145	1
+146	0.99
+147	0.99
+148	1
+149	1
+150	1
+151	1
+152	1
+153	1
+154	1
+155	1
+156	0.99
+157	1
+158	1
+The height of bar indicates the probability of a team winning the series given the current series state.
+Top 10 Plays 
+cWPA and cLI Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Gm#	Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	cWPA	cLI	Play Description
+Gm 2	t4	ahead 2-0	2	--3	1 (0-0)	RR	TEX	Evan Carter	Zach Eflin	0.93%	12.37	Home Run (Fly Ball to Deep RF); J. Jung Scores
+Gm 2	t4	tied 0-0	0	---	3 (1-1)	R	TEX	Adolis García	Zach Eflin	0.83%	11.93	Home Run (Fly Ball to Deep LF)
+Gm 2	t4	ahead 1-0	2	-2-	6 (3-2)	R	TEX	Josh Jung	Zach Eflin	0.76%	13.48	Triple to RF (Fly Ball to Short RF Line); L. Taveras Scores
+Gm 2	t3	tied 0-0	0	12-	5 (0-2)	OO	TEX	Marcus Semien	Zach Eflin	0.76%	22.98	Ground Ball Double Play: 3B-2B-1B (SS-3B Hole); J. Jung to 3B
+Gm 1	t6	ahead 2-0	0	12-	1 (0-0)	RR	TEX	Corey Seager	Chris Devenski	0.65%	12.77	Single to CF (Line Drive); E. Carter Scores; M. Semien Scores/Adv on E8 (throw)/No RBI/unER; C. Seager to 3B
+Gm 1	t5	ahead 1-0	1	123	1 (0-0)	R	TEX	Jonah Heim	Tyler Glasnow	0.51%	26.46	Wild Pitch; C. Seager Scores/No RBI; R. Grossman to 3B; A. García to 2B
+Gm 1	b2	down 1-0	1	1-3	2 (1-0)	O	TBR	Jose Siri	Jordan Montgomery	0.46%	21.28	Bunt Popfly: P (Short 1B Line)
+Gm 2	t3	tied 0-0	0	---	2 (1-0)		TEX	Josh Jung	Zach Eflin	0.45%	10.94	Double to LF (Line Drive to LF Line)
+Gm 1	t5	ahead 1-0	0	12-	4 (1-2)		TEX	Adolis García	Tyler Glasnow	0.43%	19.10	Single to P (Line Drive to Weak SS-2B); C. Seager to 3B; R. Grossman to 2B
+Gm 1	t2	tied 0-0	1	1--	3 (1-1)		TEX	Leody Taveras	Tyler Glasnow	0.42%	12.77	Single to RF (Ground Ball); N. Lowe to 3B
+See all plays from this series with the Pivotal Play Finder
+Report an error
+More Postseason Pages
+
+Postseason History
+
+2023 World Series
+
+ALCS
+
+NLCS
+
+ALDS1
+
+ALDS2
+
+NLDS1
+
+NLDS2
+
+ALWC1
+
+NLWC1
+
+ALWC2
+
+NLWC2
+
+Ad-Free Login Create Account
+You are here: BR Home Page > Playoff Index > 2023 Wild Card Series
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+           
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Friday, January 10, 11:09PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2025 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith of Baseballprojection.com and author of WAR in Pieces.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2025.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Fútbol Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/postseason/2023_ALWC1.shtml 
+ ----- 

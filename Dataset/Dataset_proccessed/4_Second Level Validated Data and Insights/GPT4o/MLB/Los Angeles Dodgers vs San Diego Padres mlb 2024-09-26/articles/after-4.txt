@@ -1,0 +1,313 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Padres
+91-68, 46-32 Away
+2
+Final
+Dodgers
+95-64, 52-29 Home
+7
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+SD
+
+
+LAD
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t0\t0\t0\t1\t1\t0\t0\t0\t2\t8\t2
+0\t0\t0\t0\t0\t0\t5\t2\t-\t7\t11\t0
+WIN
+A. Banda
+3-2
+1.1 IP, 0 H, 0 ER, 0 K, 0 BB
+LOSS
+T. Scott
+9-6
+0.2 IP, 3 H, 2 ER, 0 K, 1 BB
+SD
+Overview
+LAD
+Padres Hitting
+HITTERS
+
+L. Arraez
+1B
+
+
+F. Tatis Jr.
+RF
+
+
+J. Profar
+LF
+
+
+M. Machado
+3B
+
+
+J. Merrill
+CF
+
+
+X. Bogaerts
+SS
+
+
+J. Cronenworth
+2B
+
+
+D. Peralta
+DH
+
+
+a
+D. Solano
+PH-DH
+
+
+K. Higashioka
+C
+
+TEAM
+AB\tR\tH\tRBI\tHR\tBB\tAVG
+4\t0\t0\t1\t0\t0\t.315
+3\t0\t1\t0\t0\t1\t.283
+4\t1\t1\t0\t0\t0\t.282
+4\t0\t3\t0\t0\t0\t.278
+3\t0\t0\t0\t0\t0\t.290
+3\t0\t2\t1\t0\t0\t.264
+4\t0\t0\t0\t0\t0\t.242
+1\t1\t0\t0\t0\t1\t.265
+2\t0\t0\t0\t0\t0\t.278
+4\t0\t1\t0\t0\t0\t.218
+32\t2\t8\t2\t0\t2\t
+a-grounded to shortstop for D. Peralta in the 7th
+BATTING
+2BHigashioka (10, Buehler); Bogaerts (15, Kopech)
+RBIBogaerts (44), Arraez (45)
+SFBogaerts
+SHMerrill
+GIDPBogaerts
+Team LOB7
+Team RISP0-10 (Solano 0-1, Higashioka 0-2, D. Peralta 0-1, Tatis Jr. 0-1, Cronenworth 0-2, Arraez 0-1, Merrill 0-2)
+BASERUNNING
+SBTatis Jr. (11, 2nd base off Treinen/Smith)
+FIELDING
+EHigashioka (8, catcher's interference); Tatis Jr. (5, throw)
+Dodgers Hitting
+HITTERS
+
+S. Ohtani
+DH
+
+
+M. Betts
+RF
+
+
+F. Freeman
+1B
+
+
+C. Taylor
+2B
+
+
+T. Hernández
+LF
+
+
+K. Kiermaier
+CF
+
+
+M. Muncy
+3B
+
+
+W. Smith
+C
+
+
+T. Edman
+SS
+
+
+G. Lux
+2B
+
+
+a
+E. Hernández
+PH-1B
+
+
+A. Pages
+CF-LF
+
+TEAM
+AB\tR\tH\tRBI\tHR\tBB\tAVG
+5\t1\t3\t1\t0\t0\t.305
+4\t0\t2\t2\t0\t1\t.292
+4\t0\t1\t0\t0\t0\t.282
+1\t0\t0\t0\t0\t0\t.182
+3\t0\t0\t0\t0\t1\t.268
+0\t0\t0\t0\t0\t0\t.164
+3\t1\t0\t0\t0\t1\t.231
+4\t1\t1\t2\t1\t0\t.246
+4\t0\t0\t0\t0\t0\t.258
+2\t0\t1\t0\t0\t0\t.247
+2\t2\t2\t0\t0\t0\t.227
+3\t2\t1\t2\t1\t0\t.251
+35\t7\t11\t7\t2\t3\t
+a-singled to center for Lux in the 7th
+BATTING
+2BFreeman (35, Musgrove); Ohtani (37, Matsui); Lux (23, Musgrove)
+HRSmith (20, 7th inning off Musgrove 1 on, 0 Out); Pages (12, 8th inning off Hoeing 1 on, 2 Out)
+RBIBetts 2 (75), Smith 2 (74), Ohtani (126), Pages 2 (45)
+2Out RBIPages 2
+Team LOB8
+Team RISP3-10 (Freeman 0-1, Taylor 0-1, Betts 1-1, Muncy 0-2, T. Hernández 0-2, Ohtani 1-1, Pages 1-2)
+FIELDING
+DP1 (Edman-Lux-Freeman)
+Padres Pitching
+PITCHERS
+
+J. Musgrove
+
+
+T. Scott
+(L, 9-6)
+
+
+B. Hoeing
+
+
+Y. Matsui
+
+TEAM
+IP\tH\tER\tK\tPC-ST\tERA
+6.1\t5\t2\t6\t85-58\t3.88
+0.2\t3\t2\t0\t21-14\t1.75
+0.2\t2\t2\t0\t19-12\t2.22
+0.1\t1\t0\t1\t7-5\t3.82
+8.0\t11\t6\t7\t132-89\t
+PITCHING
+WPHoeing
+IBBT. Hernández (by Scott).; Betts (by Matsui).
+First-pitch strikes/Batters FacedMusgrove 20/25; Scott 3/7; Hoeing 2/4; Matsui 2/3
+Called strikes-Swinging strikes-Foul balls-In play strikesMusgrove-18-11-11-17; Scott-3-3-3-5; Hoeing-3-3-2-4; Matsui-1-1-2-1
+Ground Balls-Fly BallsMusgrove 5-8; Scott 2-0; Hoeing 2-0
+Game ScoresJ Musgrove 60
+Dodgers Pitching
+PITCHERS
+
+W. Buehler
+
+
+E. Phillips
+
+
+A. Banda
+(W, 3-2)
+
+
+B. Treinen
+(H, 16)
+
+
+M. Kopech
+
+TEAM
+IP\tH\tER\tK\tPC-ST\tERA
+5.0\t5\t1\t1\t71-42\t5.38
+0.2\t2\t1\t0\t9-6\t3.69
+1.1\t0\t0\t0\t17-10\t3.14
+1.0\t0\t0\t0\t17-8\t1.93
+1.0\t1\t0\t1\t14-10\t3.51
+9.0\t8\t2\t2\t128-76\t
+PITCHING
+First-pitch strikes/Batters FacedTreinen 3/4; Kopech 4/4; Banda 0/4; Phillips 1/4; Buehler 13/20
+Called strikes-Swinging strikes-Foul balls-In play strikesTreinen-2-2-1-2; Kopech-3-3-1-3; Banda-1-1-4-4; Phillips-1-1-0-4; Buehler-14-3-7-17
+Ground Balls-Fly BallsTreinen 0-3; Kopech 0-2; Banda 2-2; Phillips 1-1; Buehler 7-6
+Game ScoresW Buehler 53
+Scoring Summary
+INNING
+\tSD\tLAD
+\t\t5th\tArraez grounded out to first, D. Peralta scored, Higashioka to third.\t1\t0
+\t\t6th\tBogaerts hit sacrifice fly to center, Profar scored, Machado to third.\t2\t0
+\t\t7th\tSmith homered to center (426 feet), Muncy scored.\t2\t2
+\t\t7th\tOhtani singled to right, E. Hernández scored on error, Ohtani safe at second on throwing error by right fielder Tatis Jr., Pages safe at third on error.\t2\t3
+\t\t7th\tBetts singled to right, Pages scored and Ohtani scored.\t2\t5
+\t\t8th\tPages homered to left (428 feet), E. Hernández scored.\t2\t7
+Full Play-By-Play
+Game Information
+Dodger Stadium
+2:10 AM, September 27, 2024
+Los Angeles, California
+Line: LAD -110
+Over/Under: 8.5
+Attendance: 52,433
+Game Time:
+2:29
+Umpires:
+Home Plate Umpire - Jansen Visconti
+First Base Umpire - Mike Muchlinski
+Second Base Umpire - Tripp Gibson
+Third Base Umpire - Andy Fletcher
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570850 
+ ----- 

@@ -1,0 +1,310 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Angels
+64-70, 32-37 Away
+10
+Final
+Phillies
+74-59, 41-26 Home
+8
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Harper's 300th homer not enough as Angels rally to beat Phillies 10-8 on Drury's homer in 9th
+— Bryce Harper put the Philadelphia Phillies ahead in the eighth inning with his 300th home run, but Brandon Drury capped a three-run ninth with a tiebreaking, two-run homer that lifted the Los Angeles Angels to a 10-8 victory on Wednesday that...
+Aug 30, 2023, 09:30 pm - AP
+
+
+LAA
+
+
+PHI
+1	2	3	4	5	6	7	8	9	R	H	E
+0	2	0	0	3	0	0	2	3	10	12	0
+0	2	0	0	1	3	0	2	0	8	11	1
+WIN
+M. Moore
+4-1
+1.0 IP, 3 H, 2 ER, 2 K, 0 BB
+LOSS
+C. Kimbrel
+7-5
+1.0 IP, 2 H, 3 ER, 2 K, 1 BB
+SAVE
+C. Estevez
+29
+1.0 IP, 0 H, 0 ER, 2 K, 0 BB
+Scoring Summary
+INNING
+	LAA	PHI
+		2nd	Renfroe homered to left (365 feet), O'Hoppe scored.	2	0
+		2nd	Rojas singled to center, Stott scored, Marsh to second, Bohm to third.	2	1
+		2nd	Stubbs grounded into fielder's choice to shortstop, Bohm scored, Rojas out at second, Marsh to third.	2	2
+		5th	Velazquez sacrificed, Renfroe scored, Velazquez to first on fielding error by pitcher Sánchez, Escobar to second.	3	2
+		5th	Ohtani singled to right, Velazquez scored, Schanuel to second.	4	2
+		5th	Drury singled to center, Schanuel scored, Ohtani thrown out at third.	5	2
+		5th	Castellanos singled to right, Turner scored.	5	3
+		6th	Turner homered to left center (416 feet), Marsh scored and Stubbs scored.	5	6
+		8th	Renfroe singled to right, Drury scored and Ohtani scored, Grichuk to third.	7	6
+		8th	Harper homered to right center (381 feet), Schwarber scored.	7	8
+		9th	Rengifo hit sacrifice fly to center, Cabbage scored.	8	8
+		9th	Drury homered to right center (372 feet), Schanuel scored.	10	8
+Full Play-By-Play
+Angels
+Phillies
+HITTERS	H-AB	R	HR	RBI	AVG
+
+N. Schanuel
+1B
+	1-5	2	0	0	.324
+
+L. Rengifo
+CF-SS
+	1-4	0	0	1	.257
+
+S. Ohtani
+DH
+	1-4	1	0	1	.307
+
+B. Drury
+2B
+	2-4	2	1	3	.269
+
+R. Grichuk
+LF-CF
+	1-4	0	0	0	.267
+
+L. O'Hoppe
+C
+	1-5	1	0	0	.213
+
+H. Renfroe
+RF
+	3-4	2	1	4	.242
+
+E. Escobar
+3B
+	2-4	0	0	0	.231
+
+A. Velazquez
+SS
+	0-2	1	0	1	.173
+
+M. Moustakas
+PH
+	0-1	0	0	0	.252
+
+T. Cabbage
+PR-LF
+	0-0	1	0	0	.200
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+R. Detmers
+	4.0	4	2	3	3	84-53	5.01
+
+D. Leone
+	1.0	2	1	0	0	12-9	4.74
+
+A. Loup
+	0.2	1	2	1	1	19-13	5.88
+
+R. Lopez
+	1.1	1	1	2	0	17-8	3.93
+
+M. Moore
+	1.0	3	2	0	2	29-19	2.66
+
+C. Estevez
+	1.0	0	0	0	2	21-16	3.33
+HITTERS	H-AB	R	HR	RBI	AVG
+
+K. Schwarber
+LF
+	1-4	1	0	0	.188
+
+J. Cave
+LF
+	0-0	0	0	0	.239
+
+T. Turner
+SS
+	2-4	2	1	3	.260
+
+B. Harper
+1B
+	1-4	1	1	2	.308
+
+N. Castellanos
+DH
+	3-5	0	0	1	.278
+
+B. Stott
+2B
+	1-5	1	0	0	.296
+
+A. Bohm
+3B
+	0-4	1	0	0	.281
+
+B. Marsh
+RF
+	0-1	1	0	0	.290
+
+J. Rojas
+CF
+	1-5	0	0	1	.289
+
+G. Stubbs
+C
+	2-4	1	0	1	.225
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+C. Sanchez
+	4.2	7	3	0	5	62-45	3.48
+
+J. Hoffman
+	1.1	1	0	0	1	15-11	2.63
+
+M. Strahm
+	1.0	0	0	0	1	9-5	3.27
+
+G. Soto
+	0.1	0	2	2	1	15-7	4.86
+
+S. Dominguez
+	0.2	2	0	0	1	13-10	3.82
+
+C. Kimbrel
+	1.0	2	3	1	2	25-14	3.63
+Full Box Score
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+ANGELS
+PHILLIES
+LAA 100
+%
+LAA 10PHI 8
+
+Bottom 9th
+Rojas struck out swinging.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+LAA
+PHI
+Hits
+12
+11
+Home Runs
+2
+2
+Total Bases
+21
+18
+Runners LOB
+5
+9
+Full Team Stats
+Regular Season Series
+Current Series
+PHI wins 2-1
+Angels
+4
+Phillies
+6
+Game 1
+8/28
+Final
+Angels
+7
+Phillies
+12
+Game 2
+8/29
+Final
+Angels
+10
+Phillies
+8
+Game 3
+8/30
+Final
+Game Information
+Citizens Bank Park
+5:05 PM, August 30, 2023
+Philadelphia, Pennsylvania
+Attendance: 34,655
+Game Time:
+3:03
+Umpires:
+Home Plate Umpire - Mike Estabrook
+First Base Umpire - Andy Fletcher
+Second Base Umpire - Erich Bacchus
+Third Base Umpire - Laz Diaz
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401473009/angels-phillies 
+ ----- 

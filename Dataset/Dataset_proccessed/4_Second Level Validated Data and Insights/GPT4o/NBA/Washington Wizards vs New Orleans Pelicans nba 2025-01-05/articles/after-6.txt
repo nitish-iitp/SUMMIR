@@ -1,0 +1,281 @@
+Teams
+NBA Store
+NBA League Pass
+NBA ID
+New Orleans Pelicans
+TICKETS
+SCHEDULE
+TEAM
+NEWS
+PHOTOS
+GAME NIGHT
+COMMUNITY
+SHOP
+ACCOUNT MANAGER
+WATCH
+504‑525‑4667
+Match against Wizards on January 5 2025
+PELICANS
+110
+FINAL
+WATCH REPLAY
+OF MATCH AGAINST WIZARDS ON JANUARY 5 2025
+WIZARDS
+98
+GAME LEADERS
+
+C. McCollum
+
+25 PTS
+POINTS PER GAME
+
+D. Murray
+
+10 REBS
+REBOUNDS PER GAME
+
+D. Murray
+
+12 ASTS
+ASSISTS PER GAME
+
+GAME NEWS & HIGHLIGHTS
+Willie Green on defense, win vs. Washington | Pelicans-Wizards Postgame Interview 1/5/25
+6d
+news
+00:03:16
+Trey Murphy III Highlights vs. Washington Wizards 1/5/2025
+6d
+news
+00:03:09
+Pelicans 110, Wizards 98: CJ McCollum 25 points | Postgame wrap
+6d
+articles
+CJ McCollum Highlights vs. Washington Wizards 1/5/2025
+6d
+news
+00:02:27
+Yves Missi runs the floor for transition dunk | Pelicans-Wizards Highlights 1/5/2025
+6d
+news
+00:00:19
+Trey Murphy III with the MONSTER jam | Pelicans-Wizards Highlights 1/5/2025
+6d
+news
+00:00:24
+Dejounte Murray throws behind-the-head dime | Pelicans-Wizards Highlights 1/5/2025
+6d
+news
+00:00:20
+Photos: Pelicans vs. Wizards | Game Action 1/5/25
+6d
+game action gallery
+Trey Murphy III hits a deep triple to close half | Pelicans-Wizards Highlights 1/5/2025
+6d
+news
+00:00:11
+Yves Missi swats Kyle Kuzma | Pelicans-Wizards Highlights 1/5/2025
+6d
+news
+00:00:17
+Herb Jones flying around on defense | Pelicans-Wizards Highlights 1/5/2025
+6d
+news
+00:00:23
+Trey Murphy III scores first with putback dunk | Pelicans-Wizards Highlights 1/5/2025
+6d
+news
+00:00:20
+Box Score
+Game Charts
+Play-By-Play
+FILTERS
+Change Splits
+Traditional
+Advanced
+Misc
+Scoring
+Usage
+Four Factors
+Player Tracking
+Hustle
+Defense
+Matchups
+Change Period
+All Periods
+Q1
+Q2
+Q3
+Q4
+1st Half
+2nd Half
+SHOW RANGE
+Q1 12:00
+Q4 00:00
+RESET RANGE
+New Orleans Pelicans
+
+Click on any linked stat to view the Video and/or Shot Chart
+
+PLAYER\tMIN\tFGM\tFGA\tFG%\t3PM\t3PA\t3P%\tFTM\tFTA\tFT%\tOREB\tDREB\tREB\tAST\tSTL\tBLK\tTO\tPF\tPTS\t+/-
+
+Herbert Jones
+F
+\t37:36\t4\t8\t50.0\t1\t4\t25.0\t2\t2\t100\t0\t4\t4\t1\t2\t2\t1\t1\t11\t2.0
+
+Trey Murphy III
+F
+\t29:23\t8\t19\t42.1\t4\t10\t40.0\t2\t2\t100\t3\t5\t8\t2\t2\t1\t0\t2\t22\t19.0
+
+Yves Missi
+C
+\t32:45\t4\t5\t80.0\t0\t0\t0.0\t8\t8\t100\t3\t4\t7\t1\t1\t3\t1\t3\t16\t2.0
+
+CJ McCollum
+G
+\t35:43\t9\t18\t50.0\t6\t11\t54.5\t1\t2\t50.0\t0\t3\t3\t3\t0\t1\t3\t1\t25\t-5.0
+
+Dejounte Murray
+G
+\t35:38\t5\t14\t35.7\t1\t5\t20.0\t3\t4\t75.0\t2\t8\t10\t12\t0\t0\t4\t2\t14\t15.0
+
+Jordan Hawkins
+\t12:17\t2\t10\t20.0\t2\t7\t28.6\t0\t0\t0.0\t0\t2\t2\t0\t0\t0\t1\t1\t6\t17.0
+
+Daniel Theis
+\t15:15\t2\t3\t66.7\t1\t2\t50.0\t0\t0\t0.0\t1\t6\t7\t2\t1\t1\t0\t0\t5\t10.0
+
+Jeremiah Robinson-Earl
+\t10:24\t1\t2\t50.0\t1\t2\t50.0\t0\t0\t0.0\t1\t3\t4\t1\t0\t0\t0\t0\t3\t10.0
+
+Jose Alvarado
+\t12:22\t1\t4\t25.0\t1\t4\t25.0\t0\t0\t0.0\t0\t0\t0\t3\t1\t0\t0\t3\t3\t-3.0
+
+Brandon Boston
+\t18:37\t1\t7\t14.3\t1\t4\t25.0\t2\t2\t100\t1\t3\t4\t1\t0\t0\t1\t0\t5\t-7.0
+
+Javonte Green
+\t
+DNP - Coach's Decision
+
+
+Antonio Reeves
+\t
+DNP - Coach's Decision
+
+
+TOTALS
+\t \t37\t90\t41.1\t18\t49\t36.7\t18\t20\t90.0\t11\t38\t49\t26\t7\t8\t11\t13\t110\t12.0
+Washington Wizards
+
+Click on any linked stat to view the Video and/or Shot Chart
+
+PLAYER\tMIN\tFGM\tFGA\tFG%\t3PM\t3PA\t3P%\tFTM\tFTA\tFT%\tOREB\tDREB\tREB\tAST\tSTL\tBLK\tTO\tPF\tPTS\t+/-
+
+Justin Champagnie
+F
+\t27:16\t1\t6\t16.7\t1\t4\t25.0\t0\t0\t0.0\t2\t3\t5\t4\t0\t1\t1\t2\t3\t-13.0
+
+Kyle Kuzma
+F
+\t30:50\t13\t23\t56.5\t2\t5\t40.0\t0\t0\t0.0\t1\t4\t5\t1\t2\t1\t3\t0\t28\t-1.0
+
+Alexandre Sarr
+C
+\t28:19\t6\t9\t66.7\t3\t6\t50.0\t3\t5\t60.0\t2\t9\t11\t3\t0\t0\t2\t2\t18\t7.0
+
+Carlton Carrington
+G
+\t33:32\t6\t9\t66.7\t4\t7\t57.1\t0\t0\t0.0\t1\t6\t7\t4\t1\t0\t1\t1\t16\t1.0
+
+Malcolm Brogdon
+G
+\t14:34\t2\t7\t28.6\t0\t2\t0.0\t0\t0\t0.0\t0\t3\t3\t5\t0\t0\t1\t0\t4\t-12.0
+
+Corey Kispert
+\t26:23\t1\t10\t10.0\t0\t7\t0.0\t3\t3\t100\t0\t1\t1\t0\t0\t1\t1\t2\t5\t-20.0
+
+Jonas Valančiūnas
+\t19:41\t3\t5\t60.0\t0\t0\t0.0\t0\t0\t0.0\t1\t6\t7\t2\t0\t1\t1\t2\t6\t-19.0
+
+Kyshawn George
+\t26:58\t0\t7\t0.0\t0\t6\t0.0\t1\t1\t100\t1\t2\t3\t1\t1\t0\t2\t5\t1\t-12.0
+
+Jared Butler
+\t19:57\t6\t12\t50.0\t1\t3\t33.3\t4\t5\t80.0\t1\t3\t4\t5\t1\t0\t2\t3\t17\t3.0
+
+Anthony Gill
+\t7:16\t0\t0\t0.0\t0\t0\t0.0\t0\t0\t0.0\t0\t0\t0\t0\t1\t0\t1\t1\t0\t2.0
+
+Johnny Davis
+\t5:14\t0\t1\t0.0\t0\t1\t0.0\t0\t0\t0.0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t4.0
+
+Patrick Baldwin Jr.
+\t
+DNP - Coach's Decision
+
+
+Richaun Holmes
+\t
+DNP - Coach's Decision
+
+
+TOTALS
+\t \t38\t89\t42.7\t11\t41\t26.8\t11\t14\t78.6\t9\t37\t46\t25\t6\t4\t15\t18\t98\t-12.0
+GAME DAY
+Account Manager
+A to Z Fan Guide
+Know Before You Go
+Mobile Tickets
+Mobile App
+Smoothie King Center
+NEWS
+Latest News
+Videos
+Photos
+Summer League
+Draft
+Pelicans Podcast
+Game Notes
+Live
+COMMUNITY
+Donation Requests
+Pelicans Crib Club
+Entertainment Inquiries
+TEAM
+Broadcasting
+Contact Us
+Standings
+Stats
+Executives
+Team Leaders
+Team Roster
+PelSquad
+TICKETS
+Season Tickets
+Partial Plans
+Premium Experience
+Group Tickets
+Single Tickets
+Ticket Offers and Discounts
+CONNECT
+Copyright © 2025 NBA Media Ventures, LLC. All rights reserved.
+Privacy Policy|
+Terms of Use|
+Customer Support|
+Accessibility and Closed Captions|
+Do Not Sell My Personal Information
+Cookie Policy|
+EEA/UK Privacy Statement|
+Brazil Privacy Statement|
+California Consumer Privacy Statement|
+Colorado Consumer Privacy Statement
+
+If you are having difficulty accessing any content on this website, please visit our Accessibility page.
+
+NBA.com is part of Warner Media, LLC’s Turner Sports & Entertainment Digital Network
+ 
+ 
+ ----- 
+ Source link : https://www.nba.com/pelicans/game/0022400489/box-score 
+ ----- 

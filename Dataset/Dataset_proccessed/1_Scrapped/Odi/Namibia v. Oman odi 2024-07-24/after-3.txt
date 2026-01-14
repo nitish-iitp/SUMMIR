@@ -1,0 +1,339 @@
+USER GROUPS
+DISCUSSIONS
+MORE
+CREATE ACCOUNT
+SIGN IN
+HOME  >  KNOWLEDGE BASE ARTICLES  >  CONNECT TO SNOWFLAKE
+KNOWLEDGE BASE ARTICLES
+
+Can't find what you're looking for? Ask The Community  
+
+Debug ODI and Snowflake connectivity related issues
+
+Debug ODI and Snowflake connectivity related issues
+
+July 24, 2024
+Issue
+The issue was related to discrepancies with the record counts between ODI and Snowflake. Records were getting fetched from ODI (Source) but while loading into Snowflake, there was a mismatch between the number of records fetched from ODI vs the number of records loaded in Snowflake.
+ 
+
+Error Logs
+
+12021-11-26 14:42:37.807 n.s.c.jdbc.SnowflakeSQLException FINE <init>:104 - Snowflake 2exception: JDBC driver encountered IO error. Message: Encountered exception 3during upload: null.
+
+43net.snowflake.client.jdbc.internal.microsoft.azure.storage.StorageException: The 44server encountered an unknown failure: \n\tat 45net.snowflake.client.jdbc.internal.microsoft.azure.storage.StorageException. 46translateException(StorageException.java:101)\n\tat 47net.snowflake.client.jdbc.internal.microsoft.azure.storage.core.ExecutionEngine. 48executeWithRetry(ExecutionEngine.java:199)\n\tat 49net.snowflake.client.jdbc.internal.microsoft.azure.storage.blob.CloudBlockBlob. 50uploadBlockInternal(CloudBlockBlob.java:1072)\n\tat 51net.snowflake.client.jdbc.internal.microsoft.azure.storage.blob.CloudBlockBlob. 52uploadBlock(CloudBlockBlob.java:1044)\n\tat 53net.snowflake.client.jdbc.internal.microsoft.azure.storage.blob. 54BlobOutputStreamInternal.writeBlock(BlobOutputStreamInternal.java:437)\n\t... 9 55more\nCaused by: javax.net.ssl.SSLHandshakeException: No appropriate protocol 56(protocol is disabled or cipher suites are inappropriate)\n\tat 57sun.security.ssl.HandshakeContext.<init>(HandshakeContext.java:171)\n\tat 58sun.security.ssl.ClientHandshakeContext.<init>(ClientHandshakeContext.java:103)\ 59n\tat 60sun.security.ssl.TransportContext.kickstart(TransportContext.java:220)\n\tat 61sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:428)\n\tat 62sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:559)\n\tat 63sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect( 64AbstractDelegateHttpsURLConnection.java:197)\n\tat 65sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection. 66java:1337)\n\tat
+Cause
+The azure server-side was failing on the TLS protocol version/TLS requirements.
+Solution
+Azure stopped supporting the minimum version of TLS 1.1 and that was the primary issue. Upgrading to TLS 1.2 resolved the issue but the key part was locating the file to perform the necessary changes. Please find the ODI manual in the documentation section.
+
+Adding the below 2 parameters in the file manageODIApps.py fixed the issue.
+ 
+-Dhttps.protocols=TLSv1.2
+
+
+Here is the location where the same file can be found:
+ 
+/u01/oracle/mwh/odi/common/scripts/
+
+
+Relevant Documentation
+https://docs.oracle.com/en/middleware/fusion-middleware/data-integrator/12.2.1.4/odi-marketplace/using-oracle-data-integrator-stack-oracle-cloud-marketplace.pdf
+
+Author : Ankur Srivastava
+Additional Information
+This article applies to: Snowflake JDBC driver  ODI
+Was this article helpful?
+YES
+NO
+
+
+
+HELPFUL LINKS
+Support Portal Case Submission Updates
+Snowflake Global Support Phone Numbers
+Snowflake Status Page
+Release Notes
+Behavior Changes
+MOST VIEWED
+5.12 Behavior Change Release Notes - April 12-13, 2021
+5.37 Release Update - October 18-19, 2021: Behavior Change Bundle Statuses and Other Changes
+5.23 Behavior Change Release Notes - June 21-22, 2021
+How to test Azure OAuth connection to Snowflake end to end using Python (Client Credentials Flow)
+ARRAY_CAT Function: Changes to NULL Handling
+RESOURCES
+Documentation
+Educational Services
+Snowflake University
+Get Started in the Snowflake Community
+Knowledge Base
+PRODUCTS
+Overview
+Architecture
+Security
+Pricing
+ABOUT
+About Snowflake
+Team
+Board
+Careers
+Sign Up for snowflake communications
+*
+*
+Country *
+United States
+Canada
+United Kingdom
+Germany
+France
+Australia
+Japan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo The Democratic Republic of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire (Ivory Coast)
+Croatia (Hrvatska)
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea Republic of (South)
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia Federated States of
+Moldova Republic of
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Federation
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and The South Sandwich Island
+Spain
+Sri Lanka
+Suriname
+Svalbard and Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Taiwan
+Tajikistan
+Tanzania United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Wallis and Futuna Islands
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+By submitting this form, I understand Snowflake will process my personal information in accordance with their Privacy Notice. Additionally, I consent to my information being shared with Event Partners in accordance with Snowflake’s Event Privacy Notice. I understand I may withdraw my consent or update my preferences here at any time.
+SUBSCRIBE NOW
+Privacy Notice | Site Terms | Cookies Settings | Do not Share My personal Information
+
+© 2024 Snowflake Inc. All Rights Reserved | If you'd rather not receive future emails from Snowflake,
+unsubscribe here or customize your communication preferences
+
+SNOWFLAKE'S USE OF COOKIES
+We use cookies to enhance your experience and to analyze site traffic as described in our Cookie Statement. By accepting, you consent to our use of cookies.Cookie Statement.
+Cookies Settings
+REJECT ALL
+ACCEPT ALL COOKIES
+ 
+ 
+ ----- 
+ Source link : https://community.snowflake.com/s/article/Debug-ODI-and-Snowflake-connectivity-related-issues 
+ ----- 

@@ -1,0 +1,1284 @@
+Football
+Hockey
+Basketball
+Tennis
+Cricket
+Settings
+Home
+Live
+Favourites
+England
+Champions League
+Champions League 23/24
+Spain
+Italy
+Germany
+France
+Netherlands
+Scotland
+Turkiye
+Europa League
+Europa Conference League 23/24
+Euro 2024 Qualification
+Euro 2024
+UEFA Nations League
+International
+World Cup Qualification
+Africa Cup of Nations 2023
+UEFA Women's CL
+UEFA Nations League Women
+Copa Libertadores
+Copa Sudamericana
+Africa Cup of Nations Qualification
+African Nat. Champ.
+Club Friendlies
+Women's World Cup
+International Friendlies
+Women's World Cup Qualification
+Women's Euro
+Women's World Cup U20
+World Cup U20
+Women's World Youth Cup
+World Youth Cup
+Women's Euro U19
+Women's Euro U17
+Women's World Cup U17
+World Cup U17
+UEFA Youth League
+Euro U21 2025
+Euro U21
+Euro U19
+Euro U19 Qualification
+Euro U17
+CONCACAF Nat. League
+CONCACAF Championship U20
+Copa America
+AFC Asian Cup
+AFC Women's Club Championship
+CONCACAF Gold Cup
+Africa
+Asia
+CONCACAF
+Oceania
+South America
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Mali
+Malta
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Romania
+Rwanda
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+USA
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
+World Cup 2022
+Champions League 22/23
+Champions League 21/22
+Champions League 20/21
+Champions League 19/20
+Europa League 22/23
+Europa League 21/22
+Europa League 20/21
+Europa League 19/20
+Europa Conference League 22/23
+Europa Conference League 21/22
+Africa Cup of Nations 2021
+Euro 2020
+UEFA Women's CL 22/23
+Women's CAF Champions League
+CONCACAF Women Gold Cup
+UEFA Nations League 22/23
+Paris 2024 Women
+Europa League 23/24
+The Games - Men
+The Games - Women
+Conference League
+CONCACAF Women Champions Cup
+World Cup 2026
+DEC 14
+DEC 15
+DEC 16
+TODAY
+DEC 18
+DEC 19
+DEC 20
+UEFA NATIONS LEAGUE - LEAGUE A: GROUP 1
+OCTOBER 15
+FT
+Poland
+3 - 3
+Croatia
+FT
+Scotland
+0 - 0
+Portugal
+UEFA NATIONS LEAGUE - LEAGUE A: GROUP 4
+OCTOBER 15
+FT
+Spain
+3 - 0
+Serbia
+FT
+Switzerland
+2 - 2
+Denmark
+UEFA NATIONS LEAGUE - LEAGUE C: GROUP 2
+OCTOBER 15
+FT
+Kosovo
+3 - 0
+Cyprus
+FT
+Lithuania
+1 - 2
+Romania
+UEFA NATIONS LEAGUE - LEAGUE C: GROUP 3
+OCTOBER 15
+FT
+Belarus
+1 - 1
+Luxembourg
+FT
+Northern Ireland
+5 - 0
+Bulgaria
+WORLD CUP QUALIFICATION - CONMEBOL QUALIFICATION
+OCTOBER 15
+FT
+Colombia
+4 - 0
+Chile
+FT
+Paraguay
+2 - 1
+Venezuela
+FT
+Uruguay
+0 - 0
+Ecuador
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP A
+OCTOBER 15
+FT
+Comoros
+1 - 1
+Tunisia
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP B
+OCTOBER 15
+FT
+Lesotho
+0 - 2
+Gabon
+FT
+Central African Republic
+0 - 4
+Morocco
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP C
+OCTOBER 15
+FT
+Botswana
+1 - 0
+Cape Verde
+FT
+Mauritania
+0 - 1
+Egypt
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP D
+OCTOBER 15
+FT
+Rwanda
+2 - 1
+Benin
+AW
+Libya
+0 - 3
+Nigeria
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP F
+OCTOBER 15
+FT
+Sudan
+2 - 0
+Ghana
+FT
+Niger
+0 - 1
+Angola
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP G
+OCTOBER 15
+FT
+Chad
+0 - 1
+Zambia
+FT
+Sierra Leone
+1 - 0
+Ivory Coast
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP H
+OCTOBER 15
+FT
+Tanzania
+0 - 2
+DR Congo
+FT
+Ethiopia
+0 - 3
+Guinea
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP I
+OCTOBER 15
+FT
+Guinea-Bissau
+0 - 0
+Mali
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP K
+OCTOBER 15
+FT
+South Sudan
+1 - 2
+Uganda
+FT
+Congo
+1 - 1
+South Africa
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP L
+OCTOBER 15
+FT
+Malawi
+0 - 1
+Senegal
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 3RD ROUND: GROUP A
+OCTOBER 15
+FT
+Kyrgyzstan
+1 - 0
+North Korea
+FT
+Uzbekistan
+1 - 0
+UAE
+FT
+Iran
+4 - 1
+Qatar
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 3RD ROUND: GROUP B
+OCTOBER 15
+FT
+South Korea
+3 - 2
+Iraq
+FT
+Jordan
+4 - 0
+Oman
+FT
+Palestine
+2 - 2
+Kuwait
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 3RD ROUND: GROUP C
+OCTOBER 15
+FT
+Japan
+1 - 1
+Australia
+FT
+China
+2 - 1
+Indonesia
+FT
+Saudi Arabia
+0 - 0
+Bahrain
+CONCACAF NATIONS LEAGUE - LEAGUE A: GROUP 2
+OCTOBER 15
+FT
+Jamaica
+0 - 0
+Honduras
+FT
+Nicaragua
+3 - 2
+French Guiana
+FT
+Trinidad and Tobago
+3 - 1
+Cuba
+CONCACAF NATIONS LEAGUE - LEAGUE B: GROUP 3
+OCTOBER 15
+FT
+Haiti
+5 - 3
+Aruba
+CONCACAF NATIONS LEAGUE - LEAGUE B: GROUP 4
+OCTOBER 15
+FT
+Dominican Republic
+5 - 0
+Antigua and Barbuda
+FT
+Bermuda
+3 - 2
+Dominica
+CONCACAF NATIONS LEAGUE - LEAGUE C: GROUP 3
+OCTOBER 15
+FT
+St. Kitts and Nevis
+1 - 1
+Cayman Islands
+INTERNATIONAL FRIENDLIES - FRIENDLIES 2024
+OCTOBER 15
+Canc.
+Vietnam
+-
+Lebanon
+FT
+Hong Kong
+3 - 0
+Cambodia
+FT
+Canada
+2 - 1
+Panama
+EURO U21 2025 - QUALIFICATION: GROUP A
+OCTOBER 15
+FT
+Italy U21
+1 - 1
+Ireland U21
+FT
+Norway U21
+5 - 1
+Turkiye U21
+FT
+San Marino U21
+0 - 3
+Latvia U21
+EURO U21 2025 - QUALIFICATION: GROUP B
+OCTOBER 15
+FT
+Spain U21
+6 - 0
+Malta U21
+FT
+Belgium U21
+0 - 1
+Hungary U21
+FT
+Kazakhstan U21
+3 - 2
+Scotland U21
+EURO U21 2025 - QUALIFICATION: GROUP C
+OCTOBER 15
+FT
+Georgia U21
+2 - 1
+North Macedonia U21
+EURO U21 2025 - QUALIFICATION: GROUP D
+OCTOBER 15
+FT
+Estonia U21
+3 - 1
+Kosovo U21
+FT
+Poland U21
+3 - 3
+Germany U21
+FT
+Israel U21
+0 - 1
+Bulgaria U21
+EURO U21 2025 - QUALIFICATION: GROUP E
+OCTOBER 15
+FT
+Albania U21
+1 - 0
+Armenia U21
+FT
+Finland U21
+2 - 1
+Montenegro U21
+FT
+Romania U21
+3 - 1
+Switzerland U21
+EURO U21 2025 - QUALIFICATION: GROUP F
+OCTOBER 15
+FT
+England U21
+7 - 0
+Azerbaijan U21
+FT
+Luxembourg U21
+0 - 0
+Northern Ireland U21
+FT
+Serbia U21
+1 - 0
+Ukraine U21
+EURO U21 2025 - QUALIFICATION: GROUP G
+OCTOBER 15
+FT
+Andorra U21
+1 - 2
+Portugal U21
+FT
+Croatia U21
+3 - 2
+Greece U21
+FT
+Faroe Islands U21
+1 - 0
+Belarus U21
+EURO U21 2025 - QUALIFICATION: GROUP H
+OCTOBER 15
+FT
+Bosnia and Herzegovina U21
+1 - 3
+Cyprus U21
+FT
+France U21
+1 - 2
+Austria U21
+EURO U21 2025 - QUALIFICATION: GROUP I
+OCTOBER 15
+FT
+Czechia U21
+3 - 0
+Lithuania U21
+FT
+Denmark U21
+2 - 0
+Iceland U21
+INTERNATIONAL FRIENDLIES - FRIENDLIES U21
+OCTOBER 15
+FT
+Slovakia U21
+4 - 2
+Wales U21
+INTERNATIONAL FRIENDLIES - FRIENDLIES U20
+OCTOBER 15
+FT
+Poland U20
+4 - 2
+Turkiye U20
+INTERNATIONAL FRIENDLIES - FRIENDLIES U19
+OCTOBER 15
+FT
+Romania U19
+1 - 1
+Spain U19
+FT
+Croatia U19
+1 - 1
+Greece U19
+FT
+Netherlands U19
+2 - 4
+Portugal U19
+FT
+USA U19
+3 - 2
+Japan U18
+FT
+Norway U19
+0 - 2
+Germany U19
+FT
+Bulgaria U19
+1 - 1
+Moldova U19
+INTERNATIONAL FRIENDLIES - FRIENDLIES U18
+OCTOBER 15
+FT
+Romania U18
+1 - 2
+Turkiye U18
+ARGENTINA - PRIMERA NACIONAL
+OCTOBER 15
+FT
+Atlanta
+1 - 1
+Deportivo Madryn
+ARGENTINA - COPA PROYECCION RESERVES: GROUP A
+OCTOBER 15
+FT
+Instituto Cordoba Reserve
+4 - 0
+Atletico Tucuman Reserve
+ARGENTINA - COPA PROYECCION RESERVES: GROUP B
+OCTOBER 15
+FT
+Sarmiento Reserve
+0 - 1
+Club Atletico Platense Reserve
+FT
+Tigre Reserve
+0 - 3
+Estudiantes de la Plata Reserve
+FT
+Central Cordoba de Santiago Reserve
+1 - 0
+Godoy Cruz Reserve
+ASIA - ASEAN CHAMPIONSHIP: QUALIFICATION
+OCTOBER 15
+FT
+Timor-Leste
+0 - 0
+Brunei
+AUSTRIA - REGIONALLIGA EAST
+OCTOBER 15
+FT
+Kremser SC
+3 - 0
+Sportunion Mauer
+BENIN - LIGUE 1: GROUP B
+OCTOBER 15
+FT
+Etoiles Filantes
+1 - 3
+Sitatunga
+FT
+Ouidah
+2 - 1
+Avrankou Omnisport
+BRAZIL - SERIE B
+OCTOBER 15
+FT
+Guarani
+2 - 1
+CRB
+BRAZIL - BRASILEIRO U23: GROUP A
+OCTOBER 15
+FT
+EC Vitoria U23
+4 - 3
+Vasco Da Gama U23
+FT
+Fortaleza EC CE U23
+1 - 0
+Fluminense U23
+COLOMBIA - PRIMERA A: CLAUSURA
+OCTOBER 15
+FT
+Atletico Nacional
+2 - 1
+Envigado
+FT
+CD Jaguares
+1 - 0
+Chico FC
+COSTA RICA - LIGA DE ASCENSO: APERTURA: GROUP B
+OCTOBER 15
+FT
+Escorpiones
+3 - 2
+Futbol Consultants
+CZECH REPUBLIC - 3RD LEAGUE: MSFL
+OCTOBER 15
+FT
+FC Strani
+0 - 7
+FC Zlinsko
+CZECH REPUBLIC - CFL: GROUP A
+OCTOBER 15
+FT
+SK Petrin Plzen
+3 - 1
+Motorlet Prague
+DENMARK - KVINDE LP
+OCTOBER 15
+FT
+NIF HG W
+0 - 1
+HB Koege W
+FT
+FC Nordsjaelland W
+3 - 0
+B93 W
+ENGLAND - NATIONAL LEAGUE CUP: GROUP A
+OCTOBER 15
+FT
+Aldershot Town
+3 - 0
+Derby County U21
+ENGLAND - NORTHERN PREMIER LEAGUE
+OCTOBER 15
+FT
+Bamber Bridge
+1 - 5
+Stockton Town
+FT
+Lancaster City
+1 - 1
+Guiseley
+FT
+Leek Town
+0 - 1
+Warrington Rylands
+FT
+Macclesfield FC
+4 - 1
+Hebburn Town
+ENGLAND - SOUTHERN LEAGUE PREMIER: CENTRAL
+OCTOBER 15
+FT
+Banbury United
+2 - 0
+Bedford
+FT
+Bromsgrove Sporting
+1 - 2
+Kettering Town
+FT
+Hitchin Town
+1 - 1
+Leiston
+FT
+Lowestoft Town
+2 - 1
+Bishop's Stortford
+FT
+Royston Town
+0 - 3
+Spalding United
+FT
+Stourbridge
+1 - 4
+Harborough Town FC
+FT
+Telford
+1 - 1
+Alvechurch
+ENGLAND - SOUTHERN LEAGUE PREMIER: SOUTH
+OCTOBER 15
+FT
+Wimborne Town
+3 - 0
+Tiverton
+FT
+Gloucester City
+2 - 0
+Frome Town
+FT
+Hanwell Town
+1 - 2
+Basingstoke
+FT
+Hungerford Town
+1 - 2
+Bracknell Town
+FT
+Marlow
+0 - 5
+Chertsey Town
+FT
+Plymouth Parkway
+1 - 2
+AFC Totton
+FT
+Poole Town
+0 - 1
+Havant & Waterlooville
+FT
+Sholing
+1 - 5
+Dorchester Town
+FT
+Swindon Supermarine
+2 - 0
+Winchester City
+FT
+Walton and Hersham
+2 - 2
+Gosport Borough
+ENGLAND - ISTHMIAN LEAGUE PREMIER DIVISION
+OCTOBER 15
+FT
+Cray Wanderers
+1 - 4
+Chatham Town
+FT
+Hastings United
+2 - 3
+Cheshunt
+FT
+Horsham
+5 - 0
+Whitehawk
+FT
+Wingate & Finchley
+3 - 1
+Bowers & Pitsea
+ENGLAND - PREMIER LEAGUE INTERNATIONAL CUP: GROUP A
+OCTOBER 15
+FT
+Nottingham Forest U21
+0 - 1
+Valencia U21
+ENGLAND - PREMIER LEAGUE CUP: GROUP D
+OCTOBER 15
+FT
+Huddersfield Town U21
+2 - 3
+Sunderland U21
+ENGLAND - FA CUP: QUALIFICATION
+OCTOBER 15
+FT
+Boston United
+0 - 4
+Gainsborough
+FT
+Brackley Town
+3 - 1
+Hartlepool United
+FT
+Gateshead FC
+1 - 3
+Hednesford
+FT
+Maidenhead United
+3 - 0
+Taunton Town
+AP
+Peterborough Sports
+0 - 0
+Rushall Olympic
+AP
+Solihull Moors
+2 - 2
+Altrincham
+ENGLAND - PROFESSIONAL DEVELOPMENT LEAGUE: NORTH
+OCTOBER 15
+FT
+Fleetwood Town U21
+2 - 0
+Wigan Athletic U21
+FT
+Burnley U21
+3 - 1
+Barnsley U21
+FT
+Coventry City U21
+8 - 0
+Birmingham City U21
+ENGLAND - PROFESSIONAL DEVELOPMENT LEAGUE: SOUTH
+OCTOBER 15
+FT
+Charlton Athletic U21
+2 - 2
+Ipswich Town U21
+ESTONIA - ESILIIGA
+OCTOBER 15
+FT
+Paide Linnameeskond U21
+1 - 7
+Talinna Kalev U21
+ESTONIA - ESTONIAN CUP
+OCTOBER 15
+FT
+FC Tallinn
+2 - 1
+Tammeka
+EURO U19 QUALIFICATION - QUALIFICATION: GROUP 4
+OCTOBER 15
+FT
+Gibraltar U19
+1 - 2
+Malta U19
+FT
+Poland U19
+3 - 0
+Turkiye U19
+EURO U19 QUALIFICATION - QUALIFICATION: GROUP 6
+OCTOBER 15
+FT
+Finland U19
+2 - 3
+Czechia U19
+FT
+San Marino U19
+0 - 4
+Switzerland U19
+EURO U19 QUALIFICATION - QUALIFICATION: GROUP 12
+OCTOBER 15
+FT
+Latvia U19
+2 - 0
+Slovakia U19
+FT
+Luxembourg U19
+1 - 1
+North Macedonia U19
+EURO U17 - QUALIFICATION: GROUP 2
+OCTOBER 15
+FT
+Armenia U17
+1 - 3
+Georgia U17
+FT
+Slovenia U17
+2 - 2
+Poland U17
+EURO U17 - QUALIFICATION: GROUP 3
+OCTOBER 15
+FT
+Croatia U17
+3 - 1
+Netherlands U17
+FT
+Faroe Islands U17
+0 - 1
+Albania U17
+EURO U17 - QUALIFICATION: GROUP 4
+OCTOBER 15
+FT
+Kazakhstan U17
+4 - 4
+Kosovo U17
+FT
+Ukraine U17
+1 - 2
+Belgium U17
+EURO U17 - QUALIFICATION: GROUP 7
+OCTOBER 15
+FT
+Andorra U17
+1 - 3
+Belarus U17
+FT
+Czechia U17
+3 - 3
+Germany U17
+EURO U17 - QUALIFICATION: GROUP 14
+OCTOBER 15
+FT
+Denmark U17
+0 - 1
+Austria U17
+GERMANY - REGIONALLIGA BAYERN
+OCTOBER 15
+FT
+Burghausen
+0 - 1
+Eintracht Bamberg
+GERMANY - OBERLIGA: BAYERN NORTH
+OCTOBER 15
+FT
+ASV Cham
+3 - 0
+Neudrossenfeld
+GERMANY - OBERLIGA: BAYERN SOUTH
+OCTOBER 15
+FT
+1860 Munich II
+2 - 1
+SV Schalding-Heining
+GERMANY - OBERLIGA: WESTFALEN
+OCTOBER 15
+FT
+Rot Weiss Ahlen
+1 - 0
+Westfalia Rhynern
+ISRAEL - LIGA ALEF: SOUTH
+OCTOBER 15
+FT
+Maccabi Shaaraim
+0 - 0
+FC Jerusalem
+FT
+Maccabi Ironi Ashdod
+0 - 1
+Maccabi Yavne
+FT
+SC Hapoel Lod
+1 - 2
+Agudat Sport Ashdod
+FT
+AS Nordia Jerusalem
+1 - 0
+Shimshon Tel Aviv
+FT
+Hapoel Azor
+1 - 3
+Ironi Modiin
+FT
+Maccabi Ironi Kiryat Malakhi
+2 - 0
+Shimshon Kafr Qasim
+FT
+FC Tzeirey Tira
+1 - 2
+Dimona
+FT
+Hapoel Marmorek
+1 - 1
+FC Holon Yermiyahu
+MEXICO - LIGA PREMIER: SERIE B APERTURA
+OCTOBER 15
+FT
+Club Canoneros Marina
+1 - 0
+Calor de San Pedro
+MEXICO - WOMEN'S LIGA MX: APERTURA
+OCTOBER 15
+FT
+Santos Laguna W
+0 - 0
+Mazatlan FC W
+PANAMA - LPF CLAUSURA: WEST
+OCTOBER 15
+FT
+Club Atletico Independiente
+2 - 4
+Veraguas FC
+PORTUGAL - U23 LIGA REVELACAO: GROUP A
+OCTOBER 15
+FT
+Gil Vicente U23
+1 - 4
+Torreense U23
+SERBIA - PRVA LIGA
+OCTOBER 15
+FT
+FK Mladost Novi Sad
+1 - 0
+FK Smederevo 1924
+SLOVAKIA - 3. LIGA: EAST
+OCTOBER 15
+Canc.
+Slavia Tu Kosice
+-
+MFK Vranov Nad Toplou
+Canc.
+1.FK Svidnik
+-
+Lipany
+Canc.
+FTC Filakovo
+-
+Tatran Oravske Vesele
+Canc.
+MSK Tesla Stropkov
+-
+MSK Rimavska Sobota
+Canc.
+Tj Banik Kalinovo
+-
+Redfox FC Stara Lubovna
+SOUTH AMERICA - WOMEN'S COPA LIBERTADORES: PLAY-OFF
+OCTOBER 15
+FT
+SC Corinthians SP W
+1 - 0
+Boca Juniors W
+SWEDEN - WOMEN'S SVENSKA CUPEN: QUALIFICATION
+OCTOBER 15
+FT
+Jitex BK W
+0 - 9
+BK Haecken W
+URUGUAY - PRIMERA DIVISIÓN: CLAUSURA
+OCTOBER 15
+FT
+Liverpool FC
+1 - 1
+Montevideo Wanderers
+USA - USL LEAGUE ONE
+OCTOBER 15
+FT
+One Knoxville SC
+2 - 1
+Central Valley Fuego
+USA - NCAA: BIG TEN CONFERENCE
+OCTOBER 15
+FT
+Michigan Wolverines
+0 - 5
+Indiana Hoosiers
+USA - NCAA: WESTERN ATHLETIC CONFERENCE
+OCTOBER 15
+FT
+Bellarmine Knights
+1 - 0
+Iupui Jaguars
+FT
+Le Moyne Dolphins
+1 - 2
+Lafayette Leopards
+FT
+Umass Minutemen
+1 - 0
+Holy Cross Crusaders
+FT
+Western Michigan Broncos
+2 - 0
+Green Bay Phoenix
+FT
+Colgate Raiders
+1 - 4
+Cornell Big Red
+FT
+Temple Owls
+2 - 0
+Mercyhurst Lakers
+FT
+East Tennessee State Buccaneers
+3 - 1
+Gardner-Webb Runnin´ Bulldogs
+FT
+Lehigh Mountain Hawks
+0 - 0
+Fairfield Stags
+FT
+New Hampshire Wildcats
+1 - 0
+Yale Bulldogs
+FT
+North Carolina State Wolfpack
+1 - 1
+Hofstra Pride
+FT
+Northeastern Huskies
+4 - 2
+Dartmouth Big Green
+FT
+Saint Bonaventure Bonnies
+4 - 1
+Bucknell Bison
+FT
+Unc Wilmington Seahawks
+1 - 4
+Wake Forest University Demon Deacons
+FT
+William And Mary Tribe
+2 - 5
+North Carolina Tar Heels
+FT
+Clemson Tigers
+4 - 2
+Queens Charlotte Royals
+FT
+Connecticut Huskies
+0 - 0
+Bryant Bulldogs
+FT
+Dayton Flyers
+5 - 1
+West Virginia Mountaineers
+FT
+Delaware Fightin´ Blue Hens
+4 - 1
+George Washington Colonials
+FT
+Florida Gulf Coast Eagles
+0 - 3
+Florida Atlantic Owls
+FT
+Kentucky Wildcats
+2 - 2
+Bradley Braves
+FT
+Maryland Terrapins
+2 - 0
+George Mason Patriots
+FT
+Memphis Tigers
+1 - 3
+Missouri State Bears
+FT
+Monmouth Hawks
+1 - 0
+Penn Quakers
+FT
+Presbyterian Blue Hose
+0 - 2
+Furman Paladins
+FT
+Princeton Tigers
+0 - 1
+Army Black Knights
+FT
+Saint Joseph´s Hawks
+2 - 0
+Mount Saint Mary´s Mountaineers
+FT
+UNC Greensboro Spartans
+4 - 1
+Elon Phoenix
+FT
+Virginia Cavaliers
+4 - 2
+American Eagles
+FT
+Virginia Tech Hokies
+6 - 0
+Winthrop Eagles
+FT
+Wofford Terriers
+0 - 1
+Longwood Lancers
+USA - WOMEN'S NCAA: BIG 12 CONFERENCE
+OCTOBER 15
+FT
+Kansas State Wildcats W
+0 - 1
+BYU Cougars W
+UZBEKISTAN - PRO LEAGUE
+OCTOBER 15
+Postp.
+Olimpik Mobiuz U19
+-
+FC Do Stlik
+WALES - CYMRU PREMIER
+OCTOBER 15
+FT
+Bala Town
+0 - 0
+Connah's Quay
+FT
+Briton Ferry
+1 - 2
+Haverfordwest
+FT
+Caernarfon
+1 - 4
+Aberystwyth
+FT
+Cardiff Met University
+1 - 1
+Penybont
+FT
+Newtown
+2 - 4
+Barry Town
+FT
+TNS
+5 - 0
+Flint Town United
+Live Scores and fixtures for football on 15 October 2024
+Looking for the livescore today? See live scores and fixtures for football on 15 October 2024.
+LiveScore brings you the latest football fixtures, results and live score information for 15 October 2024. Revisit scores and statistics and look ahead for upcoming fixtures for your favourite sport team. Plus, find out the livescore today, 15 October 2024.
+© 1998-2024 LiveScore Limited
+CareersMobileAdvertiseContactPrivacy NoticeCookie PolicyTerms of UseCorporate
+ 
+ 
+ ----- 
+ Source link : https://www.livescore.mobi/football/2024-10-15/ 
+ ----- 

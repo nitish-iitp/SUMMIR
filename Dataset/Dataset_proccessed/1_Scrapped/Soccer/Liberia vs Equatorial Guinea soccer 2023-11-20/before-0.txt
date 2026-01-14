@@ -1,0 +1,1008 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+16” .308 Buffer Assembly Recommendations
+ 
+Thread starter
+Cold_Bore_88  
+Start date
+Nov 19, 2023
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 19, 2023
+#1
+Good evening,
+
+I need some recommendations on a good buffer spring/buffer weight for my 16” .308 AR. I am running a Thunderbeast Dominus and getting a pretty firm recoil impulse. I have adjusted as much out as I could with an SLR gas block but I think a better buffer combo would be ever better
+
+I am running a standard carbine buffer tube. After searching the interwebs I have come down to 2 options.
+
+1. LMT 7-3/4” buffer assembly (longer buffer tube, sprinco orange extra heavy spring and H3 buffer
+
+2. Keep the standard length, 7” tube and swap the buffer and spring / use something like a silent capture spring
+
+Any benefit to running the longer 7-3/4” buffer tubes?
+ 
+Weatherby_Eyebrow
+- -
+Full Member
+Minuteman
+Feb 20, 2019
+180
+105
+Oregon
+Nov 19, 2023
+#2
+Cold_Bore_88 said:
+Good evening,
+
+I need some recommendations on a good buffer spring/buffer weight for my 16” .308 AR. I am running a Thunderbeast Dominus and getting a pretty firm recoil impulse. I have adjusted as much out as I could with an SLR gas block but I think a better buffer combo would be ever better
+
+I am running a standard carbine buffer tube. After searching the interwebs I have come down to 2 options.
+
+1. LMT 7-3/4” buffer assembly (longer buffer tube, sprinco orange extra heavy spring and H3 buffer
+
+2. Keep the standard length, 7” tube and swap the buffer and spring / use something like a silent capture spring
+
+Any benefit to running the longer 7-3/4” buffer tubes?
+Click to expand...
+
+I found the benefit of the longer buffer tube was that i could use standard ar-15 buffers which i have lots of in different weights already for testing. I ended up with a spring co red in one (20”) and an orange in another (16”) both with h3 5.4oz buffers.
+
+I read some place that the a5 length 7-3/4 system was a touch too long(1/8”) or so with an ar-15 buffer and i stuffed a couple of washers before the spring on both of them to make sure the bolt stops before it bottoms out.
+
+I’m no expert but it seems to work.
+ 
+ 
+Reactions:
+mtrmn, LRRPF52, msgriff and 1 other person
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 19, 2023
+#3
+Weatherby_Eyebrow said:
+I found the benefit of the longer buffer tube was that i could use standard ar-15 buffers which i have lots of in different weights already for testing. I ended up with a spring co red in one (20”) and an orange in another (16”) both with h3 5.4oz buffers.
+
+I read some place that the a5 length 7-3/4 system was a touch too long(1/8”) or so with an ar-15 buffer and i stuffed a couple of washers before the spring on both of them to make sure the bolt stops before it bottoms out.
+
+I’m no expert but it seems to work.
+Click to expand...
+Great feedback. I really appreciate the comment!
+ 
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 19, 2023
+#4
+Weatherby_Eyebrow said:
+I found the benefit of the longer buffer tube was that i could use standard ar-15 buffers which i have lots of in different weights already for testing. I ended up with a spring co red in one (20”) and an orange in another (16”) both with h3 5.4oz buffers.
+
+I read some place that the a5 length 7-3/4 system was a touch too long(1/8”) or so with an ar-15 buffer and i stuffed a couple of washers before the spring on both of them to make sure the bolt stops before it bottoms out.
+
+I’m no expert but it seems to work.
+Click to expand...
+I like the idea of sticking with the standard 7” tube/extension in case I ever witch things around. Throwing in a new spring and buffer seems like a good direction to go
+ 
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Nov 19, 2023
+#5
+What buffer weight are you running now?
+The 308 short carbine buffers (2.5") max out at 6.5oz. The AR-15 carbine buffers (3.25") for the intermediate (A5) 7.75" inside depth REs can be had up to 8.5oz. The heaviest weight equivalent of the JP SCS is an H3 (~5.4oz).
+ 
+ 
+Reactions:
+mtrmn
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 19, 2023
+#6
+I am running a standard AR-15 buffer currently.
+ 
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 19, 2023
+#7
+I need to get a measurement and weight on it tomorrow and repost.
+ 
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Nov 19, 2023
+#8
+Cold_Bore_88 said:
+I am running a standard AR-15 buffer currently.
+
+
+Cold_Bore_88 said:
+I need to get a measurement and weight on it tomorrow and repost.
+If you're running a mil-spec AR-15 receiver extension (RE, buffer tube), which has an internal depth of 7", you must use a 308 short carbine buffer (2.5"). Those are typically not marked with an "H" designation, and are classified by their actual weight. The most common budget buffers are ~3.8oz and are known to potentially cause problems. There are also ~4.6oz and ~5.4oz, with the ~5.4oz buffer being preferred for many applications.
+ETA: Beyond those weights above, you're looking at a specialty buffer from someone like Slash's, which run around $125 for a 6.5oz.
+ 
+Last edited: Nov 19, 2023
+ 
+Reactions:
+bfoosh006 and mtrmn
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 19, 2023
+#9
+msgriff said:
+If you're running a mil-spec AR-15 receiver extension (RE, buffer tube), which has an internal depth of 7", you must use a 308 short carbine buffer (2.5"). Those are typically not marked with an "H" designation, and are classified by their actual weight. The most common budget buffers are ~3.8oz and are known to potentially cause problems. There are also ~4.6oz and ~5.4oz, with the ~5.4oz buffer being preferred for many applications.
+Thanks for the feedback. I will see what I can find on the buffer tomorrow. I may have to resort to measuring and weighing it.
+ 
+ 
+Reactions:
+msgriff
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 19, 2023
+#10
+msgriff said:
+If you're running a mil-spec AR-15 receiver extension (RE, buffer tube), which has an internal depth of 7", you must use a 308 short carbine buffer (2.5"). Those are typically not marked with an "H" designation, and are classified by their actual weight. The most common budget buffers are ~3.8oz and are known to potentially cause problems. There are also ~4.6oz and ~5.4oz, with the ~5.4oz buffer being preferred for many applications.
+ETA: Beyond those weights above, you're looking at a specialty buffer from someone like Slash's, which run around $125 for a 6.5oz.
+Click to expand...
+I went ahead and got it out of the safe and broke it down.
+
+The buffer is 2.5” long, the internal length of my extension is 7”. The weight of the buffer is 3.8oz. Sounds like I need to go heavier but stick with the shorter buffers.
+
+Just so I am understanding correctly, on an AR-10 with the 7-3/4” or “A5” extensions I can run standard AR-15 weight buffers. But if I use a standard 7” extension on an AR-10 I need to use the shorter buffers? I am assuming the springs follow suit?
+ 
+ 
+Reactions:
+bfoosh006
+Weatherby_Eyebrow
+- -
+Full Member
+Minuteman
+Feb 20, 2019
+180
+105
+Oregon
+Nov 19, 2023
+#11
+Cold_Bore_88 said:
+But if I use a standard 7” extension on an AR-10 I need to use the shorter buffers? I am assuming the springs follow suit?
+
+Correct you need to use the shorter 2.5" buffers.
+ 
+ 
+Reactions:
+Cold_Bore_88
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Nov 19, 2023
+#12
+Cold_Bore_88 said:
+I went ahead and got it out of the safe and broke it down.
+
+The buffer is 2.5” long, the internal length of my extension is 7”. The weight of the buffer is 3.8oz. Sounds like I need to go heavier but stick with the shorter buffers.
+
+Just so I am understanding correctly, on an AR-10 with the 7-3/4” or “A5” extensions I can run standard AR-15 weight buffers. But if I use a standard 7” extension on an AR-10 I need to use the shorter buffers? I am assuming the springs follow suit?
+Click to expand...
+
+"Just so I am understanding correctly, on an AR-10 with the 7-3/4” or “A5” extensions I can run standard AR-15 weight length buffers. But if I use a standard 7” extension on an AR-10 I need to use the shorter buffers?" YES, with an edit.
+
+" I am assuming the springs follow suit?" They use different springs, with a number of exceptions.
+
+There will be some risk of it not solving your issue, but the most economical solution would be to try a 5.6oz. 308 short carbine buffer. They can be had for around $45.
+ 
+ 
+Reactions:
+mettee
+Weatherby_Eyebrow
+- -
+Full Member
+Minuteman
+Feb 20, 2019
+180
+105
+Oregon
+Nov 19, 2023
+#13
+msgriff said:
+"Just so I am understanding correctly, on an AR-10 with the 7-3/4” or “A5” extensions I can run standard AR-15 weight length buffers. But if I use a standard 7” extension on an AR-10 I need to use the shorter buffers?" YES, with an edit.
+
+" I am assuming the springs follow suit?" They use different springs, with a number of exceptions.
+
+There will be some risk of it not solving your issue, but the most economical solution would be to try a 5.6oz. 308 short carbine buffer. They can be had for around $45.
+Click to expand...
+I would second this, all of my issues revolved around not having a heavy enough buffer and potentially firm enough spring. I also had a unpleasant firm recoil impulse and feed issues. Never could tell if it was just running too fast or what. The extra weight seems to set things right for both of mine. I also have adjustable gas blocks but nothing on that end seemed to help until I had enough mass to slow things down. Just don't use brass you like while testing 
+ 
+ 
+Reactions:
+Cold_Bore_88
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 19, 2023
+#14
+msgriff said:
+"Just so I am understanding correctly, on an AR-10 with the 7-3/4” or “A5” extensions I can run standard AR-15 weight length buffers. But if I use a standard 7” extension on an AR-10 I need to use the shorter buffers?" YES, with an edit.
+
+" I am assuming the springs follow suit?" They use different springs, with a number of exceptions.
+
+There will be some risk of it not solving your issue, but the most economical solution would be to try a 5.6oz. 308 short carbine buffer. They can be had for around $45.
+Click to expand...
+Thanks for helping me through this. I have built so many rifles a never knew this was a thing. 
+
+Granted, all but 1 of the builds were 5.56.
+
+I think you are right. I may start with a new buffer or spring specifically for .308 with a short extension.
+
+If all else fails, I’ll try the longer extensions.
+ 
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Nov 19, 2023
+#15
+Cold_Bore_88 said:
+Thanks for helping me through this. I have built so many rifles a never knew this was a thing. 
+
+Granted, all but 1 of the builds were 5.56.
+
+I think you are right. I may start with a new buffer or spring specifically for .308 with a short extension.
+
+If all else fails, I’ll try the longer extensions.
+Click to expand...
+Joe Bob's has a KVP 5.6oz 308 short carbine buffer and extra power spring combo for $50. You can also get an ArmaLite AR-10 stock completion kit for around $85, which includes an intermediate (A5) RE, H3 buffer, spring, end plate and castle nut.
+ 
+ 
+Reactions:
+Jsp556 and mettee
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 19, 2023
+#16
+msgriff said:
+Joe Bob's has a KVP 5.6oz 308 short carbine buffer and extra power spring combo for $50. You can also get an ArmaLite AR-10 stock completion kit for around $85, which includes an intermediate (A5) RE, H3 buffer, spring, end plate and castle nut.
+Headed over to Joe Bob’s now!
+ 
+ 
+Reactions:
+msgriff
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Nov 19, 2023
+#17
+I am running a dominus as well. I am running a 7-5/8(internal)extension with a rifle spring and the 8.5 oz buffer. It will be the best option.
+
+I don't think 5.6 oz is enough, you are going to need more gas if you are running a full mass carrier.
+
+You may end up where you adjust gas to achieve function and the 5.6 oz will still recoil hard.
+
+
+
+ 
+ 
+Reactions:
+Slash, thedude824, mtrmn and 1 other person
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Nov 19, 2023
+#18
+mettee said:
+I am running a dominus as well. I am running a 7-5/8(internal)extension with a rifle spring and the 8.5 oz buffer. It will be the best option.
+
+I don't think 5.6 oz is enough, you are going to need more gas if you are running a full mass carrier.
+
+You may end up where you adjust gas to achieve function and the 5.6 oz will still recoil hard.
+
+
+View attachment 8276498
+Click to expand...
+This is a valid concern. Risk vs cost.
+There is also an option of adding a carrier weight, but that is semi-advanced gunsmith level of skill. Gets you up to an additional 4.5oz. of mass.
+ 
+ 
+Reactions:
+mettee
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 19, 2023
+#19
+mettee said:
+I am running a dominus as well. I am running a 7-5/8(internal)extension with a rifle spring and the 8.5 oz buffer. It will be the best option.
+
+I don't think 5.6 oz is enough, you are going to need more gas if you are running a full mass carrier.
+
+You may end up where you adjust gas to achieve function and the 5.6 oz will still recoil hard.
+
+
+View attachment 8276498
+Click to expand...
+Interesting. I have no idea where to start with weight so was just going to go 5.6 oz with increased spring.
+
+Part of me thinks just buy the LMT extension kit now. 
+ 
+ 
+Reactions:
+Jsp556 and mettee
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Nov 19, 2023
+#20
+That's a good idea.
+ 
+ 
+Reactions:
+Cold_Bore_88
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Nov 19, 2023
+#21
+Cold_Bore_88 said:
+I am running a standard AR-15 buffer currently.
+This isn’t possible with an AR-10 in an AR-15 carbine RET.
+
+The only buffer that fits and retracts far enough for bolt hold open and function is the tiny little LR-308 carbine buffer.
+
+Best bet is to get the longer ArmaLite A5/Vltor RET, which will allow you to use AR-15 carbine-length buffers, along with a rifle spring.
+
+Use a heavier buffer above 5oz in weight from the AR-15 carbine line-up. I think it’s Odin who sells a buffer and weight kit where you can add in Tungsten and other weights to dial-in your system.
+
+I’ve been leaning more on the spring weight solution though over the past several years. Spring rate does a lot to help dampen an aggressive initial carrier velocity, and also helps with feeding and chambering the heavier .308 class cartridges.
+ 
+ 
+Reactions:
+Cold_Bore_88 and mettee
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 20, 2023
+#22
+mettee said:
+That's a good idea.
+It looks like the Sprinco Red is the best option for this setup. Thanks!
+ 
+M
+mtrmn
+Sergeant
+Full Member
+Minuteman
+Oct 7, 2009
+2,742
+3,853
+63
+Louisiana
+Nov 20, 2023
+#23
+Cold_Bore_88 said:
+I went ahead and got it out of the safe and broke it down.
+
+The buffer is 2.5” long, the internal length of my extension is 7”. The weight of the buffer is 3.8oz. Sounds like I need to go heavier but stick with the shorter buffers.
+
+Just so I am understanding correctly, on an AR-10 with the 7-3/4” or “A5” extensions I can run standard AR-15 weight buffers. But if I use a standard 7” extension on an AR-10 I need to use the shorter buffers? I am assuming the springs follow suit?
+Click to expand...
+I went that route-sticking with the too short tube and went with a 6.5oz buffer and Sprinco orange spring. It didn't work. IMO best to skip the step up method and go straight to the longer tube so you can use the far more common 3.25" buffers. 5.4 oz (H3) is the most common starting point for a 308. If you have to go heavier (and you probably will if suppressed) than that there are several available up to 8.5 oz that I'm aware of.
+I have the 8.5 (heavybuffers.com) in mine, and you can mix/match the 3 tungsten weights inside with steel ones to get at least 3 other weight combinations if the full 8.5 is too much. It would have been much easier on my wallet and less headache if I'd went that route from the get-go.
+ 
+ 
+Reactions:
+Slash, thedude824, mettee and 1 other person
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 20, 2023
+#24
+mtrmn said:
+I went that route-sticking with the too short tube and went with a 6.5oz buffer and Sprinco orange spring. It didn't work. IMO best to skip the step up method and go straight to the longer tube so you can use the far more common 3.25" buffers. 5.4 oz (H3) is the most common starting point for a 308. If you have to go heavier (and you probably will if suppressed) than that there are several available up to 8.5 oz that I'm aware of.
+I have the 8.5 (heavybuffers.com) in mine, and you can mix/match the 3 tungsten weights inside with steel ones to get at least 3 other weight combinations if the full 8.5 is too much. It would have been much easier on my wallet and less headache if I'd went that route from the get-go.
+Click to expand...
+Yes sir. Thats what I have come to. I can’t find the LMT kit in stock so I may need to buy the parts separately. Probably not a bad thing if I plan on get the adjustable weight buffer.
+ 
+M
+mtrmn
+Sergeant
+Full Member
+Minuteman
+Oct 7, 2009
+2,742
+3,853
+63
+Louisiana
+Nov 20, 2023
+#25
+Armalite AR10 7 POS REC Ext kit assy, No Stock AR10REKIT01 ArmaLite Parts | EveryGunPart.com
+AR10 7 POS REC Ext kit assy, No Stock Mil Spec MPN: AR10REKIT01 UPC: 651984020142 ArmaLite AR10 7 Pos Receiver Extention Kit, Ambi Plate, No Stock AR10REKIT01 All the parts need to convert your lower Armalite AR10 Lower receiver t
+ everygunpart.com
+Heavy Buffers | Products | .308 Carbine
+
+I put the wrong link in the first post for the XH buffer. It's fixed now. scroll down on the heavybuffer page to the XH buffer with armalite rifle spring.
+ 
+ 
+Reactions:
+Jsp556 and Cold_Bore_88
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 20, 2023
+#26
+I called LMT and they updated their stock this morning. Purchased the MWS kit with heavy spring and buffer.
+ 
+ 
+Reactions:
+Jsp556, BCP and mtrmn
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Nov 20, 2023
+#27
+Cold_Bore_88 said:
+It looks like the Sprinco Red is the best option for this setup. Thanks!
+
+No go with the rifle spring. I was running a sprinco red and when I swapped to the rifle length I noticed a big difference.
+
+You should have purchased the XH from slash and the rifle spring.
+ 
+BCP
+Lt. Colonel
+Full Member
+Minuteman
+ 
+ 
+Dec 4, 2008
+10,165
+6,194
+123
+AZ: Land of wind, dirt and angry old people
+Nov 20, 2023
+#28
+Cold_Bore_88 said:
+I called LMT and they updated their stock this morning. Purchased the MWS kit with heavy spring and buffer.
+
+That's about as good as you will get it. Ammo and powder type matters too.
+ 
+ 
+Reactions:
+Cold_Bore_88
+T
+thehun
+Major Hide Member
+Full Member
+Minuteman
+Mar 24, 2018
+1,103
+648
+Nov 20, 2023
+#29
+The best thing you can do for your AR10 is adjustable gas …
+
+I run an Aero 308 fixed stock kit … but if you are looking for collapsible kit … they make one too …
+
+I used to run the buffer game with AR10s but nothing makes the biggest difference than a well gassed setup … heavy buffers and springs are really just a band aid …
+ 
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 20, 2023
+#30
+thehun said:
+The best thing you can do for your AR10 is adjustable gas …
+
+I run an Aero 308 fixed stock kit … but if you are looking for collapsible kit … they make one too …
+
+I used to run the buffer game with AR10s but nothing makes the biggest difference than a well gassed setup … heavy buffers and springs are really just a band aid …
+Click to expand...
+Thanks for the feedback. I do use an SLR adjustable gas block on my 16” 308. However, I have read that even with the gas turned down, the carrier velocity needs to be slowed down via a buffer/spring combo.
+
+I think with the LMT kit and the adj gas block I should be good.
+ 
+ 
+Reactions:
+mtrmn and thehun
+T
+thehun
+Major Hide Member
+Full Member
+Minuteman
+Mar 24, 2018
+1,103
+648
+Nov 20, 2023
+#31
+Cold_Bore_88 said:
+Thanks for the feedback. I do use an SLR adjustable gas block on my 16” 308. However, I have read that even with the gas turned down, the carrier velocity needs to be slowed down via a buffer/spring combo.
+
+I think with the LMT kit and the adj gas block I should be good.
+So ... heavy springs and heavy buffers will make you hate how the gun acts when it goes back into battery ... just saying ... I played this game with my LMT MWS 16" and 13.5" pinned setup ... I HATED how the gun felt when it settled ... a properly gassed AR10 will run a standard rifle buffer with standard rifle spring (if going with a fixed stock) ... or AR10/A5 collapsible extension with H2/H3 buffer and standard rifle spring (if going with a regular adjustable stock) without any issue ...
+
+If you are talking bout this kit: https://lmtdefense.com/product/mws-buffer-tube-kit/ then yes ... it will be a great match with an adjustable gas block ...
+ 
+ 
+Reactions:
+mtrmn
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 20, 2023
+#32
+thehun said:
+So ... heavy springs and heavy buffers will make you hate how the gun acts when it goes back into battery ... just saying ... I played this game with my LMT MWS 16" and 13.5" pinned setup ... I HATED how the gun felt when it settled ... a properly gassed AR10 will run a standard rifle buffer with standard rifle spring (if going with a fixed stock) ... or AR10/A5 collapsible extension with H2/H3 buffer and standard rifle spring (if going with a regular adjustable stock) without any issue ...
+
+If you are talking bout this kit: https://lmtdefense.com/product/mws-buffer-tube-kit/ then yes ... it will be a great match with an adjustable gas block ...
+Click to expand...
+Yes. Thats the kit I ordered.
+ 
+T
+thehun
+Major Hide Member
+Full Member
+Minuteman
+Mar 24, 2018
+1,103
+648
+Nov 20, 2023
+#33
+Yep ... you are set ...
+ 
+ 
+Reactions:
+Cold_Bore_88
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Nov 20, 2023
+#34
+Cold_Bore_88 said:
+Yes. Thats the kit I ordered.
+You currently have an H weight buffer. You may want to order a KAK weight kit and try adjusting your buffer weight. You really shouldn't need an H3 weight buffer with adjustable gas. I like how the AR308 feels with more buffer spring rate and less buffer weight. The AR308 has more reciprocating mass than an AR15. If you add more weight with the same spring rate you will get more reciprocating mass hitting the receiver extension. If you lower the buffer weight and increase the spring rate, you will get less reciprocating mass hitting the receiver extension. I'd start with an H AR15 length buffer and red Sprinco spring and work up in weight as needed. H weights are all steel. H2 is two steel and one tungsten. Etc.
+ 
+Last edited: Nov 20, 2023
+ 
+Reactions:
+Cold_Bore_88
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Nov 20, 2023
+#35
+thehun said:
+So ... heavy springs and heavy buffers will make you hate how the gun acts when it goes back into battery ... just saying ... I played this game with my LMT MWS 16" and 13.5" pinned setup ... I HATED how the gun felt when it settled ... a properly gassed AR10 will run a standard rifle buffer with standard rifle spring (if going with a fixed stock) ... or AR10/A5 collapsible extension with H2/H3 buffer and standard rifle spring (if going with a regular adjustable stock) without any issue ...
+
+If you are talking bout this kit: https://lmtdefense.com/product/mws-buffer-tube-kit/ then yes ... it will be a great match with an adjustable gas block ...
+Click to expand...
+
+I run the 8.5 heavy buffer and a standard rifle spring, I don't notice any issues when it returns to battery.
+
+Is what you are suggesting for with a suppressor?
+ 
+ 
+Reactions:
+mtrmn
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Nov 20, 2023
+#36
+mettee said:
+I run the 8.5 heavy buffer and a standard rifle spring, I don't notice any issues when it returns to battery.
+
+Is what you are suggesting for with a suppressor?
+
+I have one of those buffers. I bought it just to try after reading comments like yours. It's terrible and I can only imagine how screwed up your rifle is for you not to notice the negative effect the buffer has.
+ 
+T
+thehun
+Major Hide Member
+Full Member
+Minuteman
+Mar 24, 2018
+1,103
+648
+Nov 20, 2023
+#37
+Without (didn’t get my cans until after I sold my MWS) … you are using 8.5 Oz buffer … daaaaang … you must be so severely overgassed … yikes.
+
+Currently I have a 22” Criterion M118LR barrel … SLR adj gas block … standard weight .308 rifle length buffer setup and a YHM R2 … runs like a .223 once it was adjusted to my can. It is honestly out of this world how smooth that setup runs … but I absolutely hated how the MWS ran with heavy buffer and heavy spring … never again … spend the coin to have true adjustable gas with running a large frame gas gun … but I’ll tell you either tune as a 100% can gun or 100% unsuppressed gun … doing 50/50 just doesn’t really work out too well.
+ 
+ 
+Reactions:
+GhostFace and Cold_Bore_88
+C
+Cold_Bore_88
+Sergeant
+Full Member
+Minuteman
+Jul 13, 2013
+680
+129
+The Woodlands, TX
+Nov 20, 2023
+#38
+thehun said:
+Without (didn’t get my cans until after I sold my MWS) … you are using 8.5 Oz buffer … daaaaang … you must be so severely overgassed … yikes.
+
+Currently I have a 22” Criterion M118LR barrel … SLR adj gas block … standard weight .308 rifle length buffer setup and a YHM R2 … runs like a .223 once it was adjusted to my can. It is honestly out of this world how smooth that setup runs … but I absolutely hated how the MWS ran with heavy buffer and heavy spring … never again … spend the coin to have true adjustable gas with running a large frame gas gun … but I’ll tell you either tune as a 100% can gun or 100% unsuppressed gun … doing 50/50 just doesn’t really work out too well.
+Click to expand...
+Truth!
+ 
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Nov 20, 2023
+#39
+Cascade Hemi said:
+I have one of those buffers. I bought it just to try after reading comments like yours. It's terrible and I can only imagine how screwed up your rifle is for you not to notice the negative effect the buffer has.
+
+My rifle runs great. Maybe yours has a different combination of parts. Did you run your heavy buffer with the correct rifle length spring in the correct extension?
+
+You didn't answer, is what you are suggesting for use with a suppressor?
+ 
+M
+mtrmn
+Sergeant
+Full Member
+Minuteman
+Oct 7, 2009
+2,742
+3,853
+63
+Louisiana
+Nov 20, 2023
+#40
+Cascade Hemi said:
+I have one of those buffers. I bought it just to try after reading comments like yours. It's terrible and I can only imagine how screwed up your rifle is for you not to notice the negative effect the buffer has.
+So if anybody has a AR308 that runs a heavy buffer like a dream, with or without adjustable gas, that gun must be a POS and the owner too stupid to realize that? I ain't trying to start nothin', just trying to clarify here...
+ 
+ 
+Reactions:
+Slash
+T
+thehun
+Major Hide Member
+Full Member
+Minuteman
+Mar 24, 2018
+1,103
+648
+Nov 20, 2023
+#41
+mettee said:
+My rifle runs great. Maybe yours has a different combination of parts. Did you run your heavy buffer with the correct rifle length spring in the correct extension?
+
+You didn't answer, is what you are suggesting for use with a suppressor?
+It doesn't really matter with or without a can ... but getting your gun to run ok with a 8.5 oz buffer is just nuts ... and from experience ... you should never have to use that heavy of a buffer if your AR10 is properly gassed ... 308 Rifle Buffer or H2/H3 is the proper weight of buffer you should use with standard power springs ... if you are gassed properly .... if you are overgassed, using a super heavy buffer is just a band aid and doesn't actually address the underlying problem and having all that extra mass means your rifle will dip down once it goes into battery (like a SCAR17) ... which isn't good for optics ... you are essentially creating a back and forth recoil cycle with going to heavy of a buffer and spring to "cure" overgassing ...
+ 
+ 
+Reactions:
+GhostFace and mettee
+M
+mtrmn
+Sergeant
+Full Member
+Minuteman
+Oct 7, 2009
+2,742
+3,853
+63
+Louisiana
+Nov 20, 2023
+#42
+Cascade Hemi said:
+You currently have an H weight buffer. You may want to order a KAK weight kit and try adjusting your buffer weight. You really shouldn't need an H3 weight buffer with adjustable gas. I like how the AR308 feels with more buffer spring rate and less buffer weight. The AR308 has more reciprocating mass than an AR15. If you add more weight with the same spring rate you will get more reciprocating mass hitting the receiver extension. If you lower the buffer weight and increase the spring rate, you will get less reciprocating mass hitting the receiver extension. I'd start with an H AR15 length buffer and red Sprinco spring and work up in weight as needed. H weights are all steel. H2 is two steel and one tungsten. Etc.
+Click to expand...
+This is exactly backass'ards.
+ 
+M
+mtrmn
+Sergeant
+Full Member
+Minuteman
+Oct 7, 2009
+2,742
+3,853
+63
+Louisiana
+Nov 20, 2023
+#43
+thehun said:
+It doesn't really matter with or without a can ... but getting your gun to run ok with a 8.5 oz buffer is just nuts ... and from experience ... you should never have to use that heavy of a buffer if you are AR10 is properly gassed ... 308 Rifle Buffer or H2/H3 is the proper weight of buffer you should use with standard power springs ... if you are gassed properly .... if you are overgassed, using a super heavy buffer is just a bad aid and doesn't actually address the underlying problem ...
+Click to expand...
+bullshit
+ 
+ 
+Reactions:
+Slash
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Nov 20, 2023
+#44
+The hide is worse than arfcom
+thehun said:
+It doesn't really matter with or without a can ... but getting your gun to run ok with a 8.5 oz buffer is just nuts ... and from experience ... you should never have to use that heavy of a buffer if your AR10 is properly gassed ... 308 Rifle Buffer or H2/H3 is the proper weight of buffer you should use with standard power springs ... if you are gassed properly .... if you are overgassed, using a super heavy buffer is just a band aid and doesn't actually address the underlying problem and having all that extra mass means your rifle will dip down once it goes into battery (like a SCAR17) ... which isn't good for optics ... you are essentially creating a back and forth recoil cycle with going to heavy of a buffer and spring to "cure" overgassing ...
+Click to expand...
+
+
+So it doesn't matter with or without a can, just so I can make sure I'm learning right.
+
+K.E. = 1/2 m v2
+
+P.E. also
+
+P.E. can turn into K.E.
+ 
+Last edited: Nov 20, 2023
+ 
+Reactions:
+thedude824 and mtrmn
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Nov 20, 2023
+#45
+mtrmn said:
+This is exactly backass'ards.
+
+It's not backwards, it's a typo. Carbine = all steel weights, H = 2 steel 1 tungsten, H2 = 1 steel 2 tungsten, etc. You get the idea. You guys can argue about the rest. This is more hassle than it's worth.
+ 
+BAMAboy18
+Major Hide Member
+Full Member
+Minuteman
+Oct 11, 2020
+1,034
+852
+Jan 3, 2024
+#46
+I've just about done away with springs and buffers, opting for these;
+
+Armaspec Stealth Recoil Spring (SRS) for AR-15 and AR-10
+The Armaspec Stealth Recoil Spring offers uncompromising quality and unbeatable value in a captured spring and buffer for your AR-15 or AR-10.
+ www.at3tactical.com
+I've picked most of mine up on different sales, usually paying around $50-60.
+ 
+You must log in or register to reply here.
+Similar threads
+	
+Upgrading AR's to BRT EZ gas tubes & VLTOR A5 at the same time - should I tune the buffer first?
+gigabels Mar 3, 2024 Semi-Automatic Rifles
+10
+Mar 5, 2024
+A
+	
+Buffer weight and spring for suppressed 12.5" AR-10?
+AK4900PA Dec 17, 2023 Semi-Automatic Rifles
+3
+Dec 17, 2023
+	
+LR 308 Malfunction
+d33rhnter Jan 9, 2024 Semi-Automatic Rifles
+16
+Jan 11, 2024
+	
+Firearms .308, .223 Wylde AR barrels and Misc
+KG7YUO Dec 7, 2024 Buy - Sell - Trade
+1
+Dec 13, 2024
+	
+Adam's Arms .308 issues
+starsea Feb 26, 2024 Semi-Automatic Rifles
+8
+May 10, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/16%E2%80%9D-308-buffer-assembly-recommendations.7196217/ 
+ ----- 

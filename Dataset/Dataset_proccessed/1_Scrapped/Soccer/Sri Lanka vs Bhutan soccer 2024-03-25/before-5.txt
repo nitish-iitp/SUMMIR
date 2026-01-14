@@ -1,0 +1,425 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+PRI MK12 Douglas Barrel?
+ 
+Thread starter
+awayteamriker  
+Start date
+Mar 22, 2024  
+Tags
+mk12 mk12 mod h spr
+awayteamriker
+Private
+Minuteman
+Jan 13, 2021
+4
+0
+Missouri
+Mar 22, 2024
+#1
+After much time reading reviews and opinions, I was all set to pull the trigger on a 16" Centurion MK12 Mod H barrel but just last night learned that PRI sells a Douglas MK12 Mod H barrel and I am once again torn between two options. I'm not seeing many reviews or reports on the PRI Douglas barrel. Does anybody here have any experience with them, or opinions on the Centurion vs. PRI Douglas? I'm not worried about clone correct or necessarily even accepting the over the barrel suppressor collar (but having the option someday is a appealing), just trying to put together a very accurate but not too heavy 16" 5.56
+ 
+ut755ln
+Rub some dirt on it
+Supporter
+Full Member
+Minuteman
+Mar 24, 2011
+743
+637
+Houston Texas
+Mar 22, 2024
+#2
+awayteamriker said:
+After much time reading reviews and opinions, I was all set to pull the trigger on a 16" Centurion MK12 Mod H barrel but just last night learned that PRI sells a Douglas MK12 Mod H barrel and I am once again torn between two options. I'm not seeing many reviews or reports on the PRI Douglas barrel. Does anybody here have any experience with them, or opinions on the Centurion vs. PRI Douglas? I'm not worried about clone correct or necessarily even accepting the over the barrel suppressor collar (but having the option someday is a appealing), just trying to put together a very accurate but not too heavy 16" 5.56
+Click to expand...
+I bought the 18" 1-7 upper from PRI a couple of years ago. It shot and still shoots sub MOA and I have taken it out to 800 yards with 77 grain ammo. I do not handload so it is probably better then I am describing, I largely shoot the IMI 77 razorcore. I want to say it took them about a month to deliver the upper. I have the otter creek can and love the combination.
+
+I have no experience with the Centurion version.
+ 
+ 
+Reactions:
+turnandshoot4
+clcustom1911
+Muppet Extraordinaire
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Oct 23, 2017
+9,970
+33,708
+In a van, down by the river.
+Mar 22, 2024
+#3
+ut755ln said:
+I bought the 18" 1-7 upper from PRI a couple of years ago. It shot and still shoots sub MOA and I have taken it out to 800 yards with 77 grain ammo. I do not handload so it is probably better then I am describing, I largely shoot the IMI 77 razorcore. I want to say it took them about a month to deliver the upper. I have the otter creek can and love the combination.
+
+I have no experience with the Centurion version.
+Click to expand...
+Same. I have PRI 18" Douglass barreled Mk12 Mod 0. I shoot IMI 77gr and AAC 77gr varieties. Everything is 1-1.5moa and the limiting factor on 60% IPSC steel at 500-900y is my shitty ability to read wind 
+
+I want to hand load, just haven't made it a priority because AAC keeps having $0.50-55/round sales on their 77gr 5.56 ammo 
+ 
+T
+tekmann2377
+Private
+Full Member
+Minuteman
+Nov 18, 2011
+180
+202
+40
+OH
+Mar 23, 2024
+#4
+Interestingly enough I have been shooting a 18" SPR profile by a different company for awhile now (Nordic components 18", apparently a Wilson blank) and it seems to be shot out for any type of long range work after 7k rounds. I actually purchased a Centurion 18" MK12 to replace it. I looked at both the PRI and Centurion. I will report back when I get it mounted up.
+ 
+WillHugh
+Private
+Full Member
+Minuteman
+Apr 6, 2017
+597
+530
+Mar 23, 2024
+#5
+The PRI barrels are good to go. People also seem to have equivalently good luck with the Bison Armory barrels, for substantially less money. They do a properly cut SPR profile that will take an ops collar etc. Worth a look at least.
+ 
+ 
+Reactions:
+Genesis1984
+awayteamriker
+Private
+Minuteman
+Jan 13, 2021
+4
+0
+Missouri
+Mar 23, 2024
+#6
+tekmann2377 said:
+Interestingly enough I have been shooting a 18" SPR profile by a different company for awhile now (Nordic components 18", apparently a Wilson blank) and it seems to be shot out for any type of long range work after 7k rounds. I actually purchased a Centurion 18" MK12 to replace it. I looked at both the PRI and Centurion. I will report back when I get it mounted up.
+Nice! I'd definitely be interested in hearing what you think of it. I'm thinking about maybe calling both companies next week with a couple questions and getting a feel for their customer service. I've heard that Centurion is great to deal with even if you have a problem but I'm not seeing much about how PRI is to deal with.
+ 
+awayteamriker
+Private
+Minuteman
+Jan 13, 2021
+4
+0
+Missouri
+Mar 23, 2024
+#7
+WillHugh said:
+The PRI barrels are good to go. People also seem to have equivalently good luck with the Bison Armory barrels, for substantially less money. They do a properly cut SPR profile that will take an ops collar etc. Worth a look at least.
+I'll definitely give them a look. Thanks!
+ 
+T
+towerofpower93
+Private
+Full Member
+Minuteman
+Jul 11, 2010
+756
+464
+41
+Mar 25, 2024
+#8
+awayteamriker said:
+Nice! I'd definitely be interested in hearing what you think of it. I'm thinking about maybe calling both companies next week with a couple questions and getting a feel for their customer service. I've heard that Centurion is great to deal with even if you have a problem but I'm not seeing much about how PRI is to deal with.
+I had a great experience with PRI's CS. Long story short, I had a Mk 12 Mod 0 upper that wouldn't chamber my 77gr TMK handloads that fit every other 5.56 rifle upper I own. Turns out their chamber headspace is on the very low end of SAAMI specs, and my TMK load was round about the middle, causing rounds to not go into battery unless I single loaded them and dropped the bolt, basically using the chamber to resize the brass a few thousandths more.
+
+PRI took the upper back, checked the chamber, ran a bunch of ammo through it, and had good comms with me throughout. Turns out I just needed to size my brass for that upper to SAAMI minimum headspace.
+
+As an aside, my Mod H upper also requires the brass be resized to SAAMI minimum. I'm guessing that helps with the accuracy they're known for.
+ 
+ 
+Reactions:
+awayteamriker and ut755ln
+awayteamriker
+Private
+Minuteman
+Jan 13, 2021
+4
+0
+Missouri
+Mar 27, 2024
+#9
+That's good info! Thanks!
+I gave PRI a call the other day and definitely got a good vibe. Person I talked to was helpful and knew details without having to look anything up.
+ 
+MSTN
+Sergeant
+Full Member
+Minuteman
+Jan 31, 2010
+1,335
+2,762
+MIDDLE OF ARIZONA
+mstn.biz
+Mar 28, 2024
+#10
+I bet you spoke with Shawn.
+
+PRI personnel have refurbished over the last 20 years a number of the Army's MK 12's at Ft. Campbell. So, in a sense, a good number of dead terrorists have had experience with them...
+ 
+ 
+Reactions:
+WindstormSCR, DeathBeforeDismount, awayteamriker and 1 other person
+DeathBeforeDismount
+Hey, give your balls a tug.
+Supporter
+Full Member
+Minuteman
+Nov 20, 2021
+5,592
+7,738
+IN YOUR HEAD
+Mar 28, 2024
+#11
+I built alot of Mk12 and MK12 type rifles back in the day. Probably not as many as Wes, actually I don't think anyone has built more than him. Its pretty cool to still see you going at it. Looking back 25 years ago who the players were, almost everyone is either out of the game, retired or dead.
+
+Douglas, Wilson, Lija, Noveske (when Pac Nor was making them), Krieger and a few other small makers that no longer exist. The only bad ones I have seen shoot are from the likes of DD and other people making a regular CL 18" and calling it a MK12 barrel.
+
+If you want the absolute best accuracy potential. A cut rifle from Bartlien or Krieger is the way to go IMO. Unfortunately CLE is no long taking work so a place like craddock may be your best bet.
+ 
+ 
+Reactions:
+Huskydriver, Genesis1984 and MSTN
+RUTGERS95
+Private
+Full Member
+Minuteman
+Nov 2, 2009
+5,454
+6,865
+NJ
+Mar 28, 2024
+#12
+I don't think you can beat the Centurion barrels from my experience
+ 
+Genesis1984
+Private
+Minuteman
+Apr 23, 2023
+43
+20
+Oklahoma
+Apr 6, 2024
+#13
+RUTGERS95 said:
+I don't think you can beat the Centurion barrels from my experience
+Monte is an awesome dude and i have a lot of his stuff, but i have yet to get a single piece from him that wasnt somehow flawed. He always fixes it, if asked, but i think you can definitely beat his fn barrels if you get something that actually, you know.. works out of the box.
+ 
+5
+5thGen
+Private
+Minuteman
+May 13, 2024
+2
+1
+Montana
+May 13, 2024
+#14
+Centurion and the crew there have always been great to work with. From what I understand, Douglas would be clone correct and Centurion has been mentioned as a worthy alternative. But I think they guys above who have built these for a long time have the best input.
+ 
+Last edited: May 13, 2024
+ 
+Reactions:
+RUTGERS95
+dogman
+Sergeant
+Full Member
+Minuteman
+Supporter
+Nov 11, 2007
+673
+615
+AK
+www.instagram.com
+May 13, 2024
+#15
+I have a White Oak Armament 16" SPR barrel with OPS Inc cuts that is sub moa that I was going to recommend but it is no longer on their web site (maybe a special order now?).
+
+My original MK12 from High Caliber Sales had the Douglas barrel and I did a similar build with a Noveske MK12 barrel. The Noveske seemed a tad more accurate but both those barrel were sub moa with Black Hills.
+ 
+ 
+Reactions:
+LRRPF52
+BCP
+Lt. Colonel
+Full Member
+Minuteman
+ 
+ 
+Dec 4, 2008
+10,157
+6,192
+123
+AZ: Land of wind, dirt and angry old people
+May 13, 2024
+#16
+White oak still makes that 16" spr ops barrel it's 295$. I recently bought a green mountain 18" spr barrel off their website and it seems nice. Put it together and shot it the other day to ~700 was 4.5il drops with 69s so faster than my 16" which is 5mil same ammo. This one right here:
+
+
+GM-M49 18" 223 Wylde 1:8 Twist
+
+Finish is a dull phosphate sorta color not black shiny like in that pic, the bore, gas port, crown all looked really good/clean nothing weird like crap in the bore or whatever like you see with some other cheaper companies:
+
+
+
+
+still might need to have it slightly recontoured though won't know for sure for a little while yet
+ 
+Last edited: May 13, 2024
+ 
+Reactions:
+dogman
+joe777
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 7, 2023
+197
+115
+Minnesota
+Jun 4, 2024
+#17
+BCP said:
+White oak still makes that 16" spr ops barrel it's 295$. I recently bought a green mountain 18" spr barrel off their website and it seems nice. Put it together and shot it the other day to ~700 was 4.5il drops with 69s so faster than my 16" which is 5mil same ammo. This one right here:
+
+
+GM-M49 18" 223 Wylde 1:8 Twist
+
+Finish is a dull phosphate sorta color not black shiny like in that pic, the bore, gas port, crown all looked really good/clean nothing weird like crap in the bore or whatever like you see with some other cheaper companies:
+
+
+View attachment 8417388
+
+still might need to have it slightly recontoured though won't know for sure for a little while yet
+Click to expand...
+
+How accurate is it shooting?
+ 
+WindstormSCR
+Gunny Sergeant
+Full Member
+Minuteman
+Jun 28, 2021
+855
+723
+Maryland
+Jun 5, 2024
+#18
+A friend's PRI Mk12 with a Douglas is what ruined all other 5.56 ARs for me forever. The precision it's capable of is pretty astounding even with the mass produced 77gr loads like IMI and AAC.
+
+I got lucky and after some shim work and other mods my CHF FN M4 barrel just starts to enter the same realm on a weaker level.
+ 
+BCP
+Lt. Colonel
+Full Member
+Minuteman
+ 
+ 
+Dec 4, 2008
+10,157
+6,192
+123
+AZ: Land of wind, dirt and angry old people
+Jun 5, 2024
+#19
+joe777 said:
+How accurate is it shooting?
+
+It shoots fine 1-1.5MOA haven't tried any crazy handloads just plinking out to 600-700 on steel etc. My other green mountain was 3/4MOA the first day using varget handloads and 77gr sierras this one seems to shoot similarly. I've had white oaks, douglas, shilen, the green mountains don't give up much vs them tbh.
+ 
+5RWill
+Optics Fiend
+Full Member
+Minuteman
+Supporter
+Oct 15, 2009
+6,427
+2,804
+33
+Mississippi
+Jun 7, 2024
+#20
+I haven't extensively tested cause time is always limited but I've been running AAC stuff it'll group the 77gr SMKs at 3/4-1 MOA 70gr TSX were right under an inch. Took a doe at 400yds this year with it.
+
+ 
+Last edited: Jun 9, 2024
+ 
+Reactions:
+rocjoc70, bfoosh006, LRRPF52 and 2 others
+You must log in or register to reply here.
+Similar threads
+T
+	
+Firearms USMC MK12 Mod 1
+Topgun117 Dec 14, 2024 Buy - Sell - Trade
+7
+Yesterday at 9:03 PM
+R
+	
+Most accurate mk12 barrel?
+Remington92 Jul 30, 2024 Semi-Automatic Rifles
+38
+Oct 31, 2024
+	
+Firearms (SOLD) MK12 Mod H upper (Noveske contract barrel)
+teufelhunden Aug 30, 2024 Buy - Sell - Trade
+0
+Aug 30, 2024
+J
+	
+Firearms WTS: MK12 Mod 1 Upper
+jmanrogers Dec 11, 2024 Buy - Sell - Trade
+1
+Friday at 7:50 PM
+R
+	
+Accessories Ballistic Advantage 16" SPR barrel MOD H
+redx Nov 21, 2024 Buy - Sell - Trade
+2
+Dec 22, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/pri-mk12-douglas-barrel.7212348/ 
+ ----- 

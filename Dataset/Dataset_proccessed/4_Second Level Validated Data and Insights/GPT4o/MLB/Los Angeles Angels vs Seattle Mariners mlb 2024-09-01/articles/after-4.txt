@@ -1,0 +1,619 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Los Angeles Angels Schedule
+Seattle Mariners Schedule
+Seattle Mariners vs Los Angeles Angels Box Score: September 1, 2024
+MLB Scores — September 1, 2024
+MIL\t3\tFinal
+CIN\t4\t(11)
+STL\t14\tFinal
+NYY\t7\t
+CHC\t14\tFinal
+WSN\t1\t
+PIT\t1\tFinal
+CLE\t6\t
+BOS\t1\tFinal
+DET\t4\t
+SDP\t4\tFinal
+TBR\t3\t
+NYM\t2\tFinal
+CHW\t0\t
+KCR\t2\tFinal
+HOU\t7\t
+TOR\t3\tFinal
+MIN\t4\t
+OAK\t4\tFinal
+TEX\t6\t(10)
+BAL\t6\tFinal
+COL\t1\t
+MIA\t7\tFinal
+SFG\t5\t
+SEA\t2\tFinal
+LAA\t3\t
+LAD\t3\tFinal
+ARI\t14\t
+ATL\t2\tFinal
+PHI\t3\t(11)
+MLB Scores & Standings on this Day
+Seattle Mariners
+2
+69-68
+Prev Game Next Game
+ 
+Los Angeles Angels
+3
+57-80
+Prev Game Next Game
+Sunday, September 1, 2024
+Start Time: 1:07 p.m. Local
+Attendance: 39,370
+Venue: Angel Stadium of Anaheim
+Game Duration: 2:36
+Day Game, on grass
+Logos via Sports Logos.net / About logos
+ \t \t1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+
+\tSeattle Mariners\t0\t1\t1\t0\t0\t0\t0\t0\t0\t2\t5\t0
+
+\tLos Angeles Angels\t1\t0\t0\t0\t2\t0\t0\t0\tX\t3\t4\t0
+WP: Caden Dana (1-0) • LP: Bryce Miller (10-8) • SV: Ben Joyce (4)
+Seattle Mariners 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Víctor Robles RF\t3\t0\t0\t1\t0\t1\t4\t.270\t.338\t.389\t.727\t11\t8\t-0.100\t1.59\t0.024\t-0.123\t-0.04%\t1.19\t-0.8\t1\t0\tSF
+Julio Rodríguez CF\t4\t0\t1\t0\t0\t0\t4\t.259\t.318\t.372\t.689\t18\t11\t0.022\t1.22\t0.086\t-0.063\t0.01%\t0.91\t-0.2\t4\t0\tSB
+Cal Raleigh C\t2\t0\t0\t0\t2\t2\t4\t.204\t.298\t.413\t.712\t22\t11\t-0.003\t1.31\t0.077\t-0.080\t-0.00%\t0.98\t0.2\t9\t0\t
+Randy Arozarena LF\t3\t0\t0\t0\t1\t1\t4\t.217\t.332\t.390\t.723\t19\t10\t-0.082\t1.81\t0.023\t-0.105\t-0.04%\t1.35\t-0.8\t3\t0\t
+Jorge Polanco 2B\t4\t0\t0\t0\t0\t0\t4\t.209\t.299\t.350\t.649\t13\t11\t-0.213\t1.82\t0.000\t-0.213\t-0.10%\t1.36\t-1.4\t1\t2\tGDP
+Luke Raley 1B\t4\t1\t2\t1\t0\t1\t4\t.237\t.313\t.440\t.753\t9\t7\t0.153\t1.49\t0.221\t-0.068\t0.07%\t1.11\t0.9\t4\t0\tHR
+Mitch Haniger DH\t3\t0\t0\t0\t0\t1\t3\t.208\t.285\t.343\t.628\t12\t8\t-0.060\t0.79\t0.000\t-0.060\t-0.03%\t0.59\t-0.4\t0\t0\t
+   J.P. Crawford PH-DH\t1\t0\t0\t0\t0\t0\t1\t.197\t.302\t.336\t.638\t1\t1\t-0.242\t4.60\t0.000\t-0.242\t-0.11%\t3.43\t-0.8\t0\t0\tGDP
+Josh Rojas 3B\t3\t1\t2\t0\t1\t1\t4\t.234\t.315\t.351\t.666\t20\t12\t0.088\t1.06\t0.125\t-0.037\t0.04%\t0.79\t0.9\t2\t1\t2B,SB
+Leo Rivas SS\t2\t0\t0\t0\t1\t1\t3\t.262\t.342\t.308\t.650\t19\t10\t-0.059\t1.50\t0.021\t-0.080\t-0.03%\t1.12\t-0.3\t0\t1\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Bryce Miller P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Trent Thornton P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Troy Taylor P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Eduard Bazardo P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t29\t2\t5\t2\t5\t8\t35\t.172\t.286\t.310\t.596\t144\t89\t-0.496\t1.49\t0.577\t-1.071\t-0.22%\t1.11\t-2.6\t24\t4\t
+2B: Josh Rojas (18, off Caden Dana).
+HR: Luke Raley (17, off Caden Dana, 2nd inn, 0 on, 2 outs to Deep CF-RF).
+SF: Víctor Robles (2, off Caden Dana).
+TB: Luke Raley 5; Josh Rojas 3; Julio Rodríguez.
+GIDP: J.P. Crawford (3); Jorge Polanco (12).
+RBI: Víctor Robles (18); Luke Raley (44).
+2-out RBI: Luke Raley.
+Team LOB: 6.
+With RISP: 0 for 4.
+Baserunning
+SB: Josh Rojas (9, 2nd base off Ryan Miller/Matt Thaiss); Julio Rodríguez (19, 2nd base off Brock Burke/Matt Thaiss).
+Los Angeles Angels 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Taylor Ward DH\t4\t2\t2\t1\t0\t2\t4\t.240\t.311\t.415\t.727\t15\t10\t0.106\t1.02\t0.161\t-0.055\t0%\t0.00\t0.8\t0\t0\tHR,2B
+Zach Neto SS\t2\t1\t0\t0\t1\t1\t4\t.250\t.318\t.446\t.763\t15\t7\t0.016\t1.10\t0.060\t-0.043\t0%\t0.00\t0.2\t3\t3\tHBP
+Nolan Schanuel 1B\t3\t0\t0\t0\t1\t0\t4\t.248\t.342\t.366\t.708\t15\t10\t-0.076\t1.35\t0.015\t-0.091\t0%\t0.00\t-0.8\t9\t1\t
+Anthony Rendon 3B\t4\t0\t1\t2\t0\t0\t4\t.228\t.315\t.280\t.595\t15\t10\t0.189\t1.40\t0.254\t-0.066\t0%\t0.00\t0.9\t0\t1\t
+Kevin Pillar LF\t4\t0\t0\t0\t0\t1\t4\t.247\t.301\t.400\t.701\t14\t10\t-0.083\t0.78\t0.000\t-0.083\t0%\t0.00\t-0.9\t1\t0\t
+Mickey Moniak CF\t4\t0\t0\t0\t0\t2\t4\t.233\t.275\t.398\t.673\t17\t10\t-0.074\t0.72\t0.000\t-0.074\t0%\t0.00\t-0.7\t1\t0\t
+Brandon Drury 2B\t2\t0\t1\t0\t1\t1\t3\t.160\t.245\t.218\t.463\t15\t7\t0.027\t0.61\t0.042\t-0.016\t0%\t0.00\t0.2\t0\t2\t
+Matt Thaiss C\t3\t0\t0\t0\t0\t2\t3\t.237\t.355\t.356\t.711\t15\t9\t-0.071\t0.91\t0.000\t-0.071\t0%\t0.00\t-0.6\t8\t0\t
+Jo Adell RF\t2\t0\t0\t0\t1\t0\t3\t.211\t.284\t.412\t.696\t12\t6\t-0.030\t0.99\t0.028\t-0.059\t0%\t0.00\t-0.1\t5\t0\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Caden Dana P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Ryan Miller P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Brock Burke P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t1\t
+   Ben Joyce P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t28\t3\t4\t3\t4\t9\t33\t.143\t.273\t.286\t.558\t133\t79\t0.004\t1.00\t0.560\t-0.558\t0.00%\t0.00\t-1.1\t27\t8\t
+2B: Taylor Ward (25, off Bryce Miller).
+HR: Taylor Ward (19, off Bryce Miller, 1st inn, 0 on, 0 outs to Deep CF).
+HBP: Zach Neto (13, by Bryce Miller).
+TB: Taylor Ward 6; Brandon Drury; Anthony Rendon.
+RBI: Anthony Rendon 2 (11); Taylor Ward (61).
+2-out RBI: Anthony Rendon 2.
+Team LOB: 6.
+With RISP: 1 for 2.
+Fielding
+DP: 2. Nolan Schanuel-Zach Neto; Brandon Drury-Zach Neto-Nolan Schanuel.
+Seattle Mariners 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Bryce Miller, L (10-8)\t4.2\t4\t3\t3\t3\t4\t1\t3.30\t22\t91\t53\t25\t11\t17\t2\t12\t4\t0\t45\t\t\t-0.150\t1.16\t-0.07%\t0.86\t-0.7
+Trent Thornton\t1.1\t0\t0\t0\t0\t2\t0\t4.06\t4\t14\t8\t3\t3\t2\t2\t0\t0\t0\t\t1\t0\t0.071\t0.67\t0.03%\t0.50\t0.7
+Troy Taylor\t1\t0\t0\t0\t1\t1\t0\t1.08\t4\t16\t9\t3\t0\t6\t0\t2\t0\t0\t\t0\t0\t0.044\t0.91\t0.02%\t0.68\t0.5
+Eduard Bazardo\t1\t0\t0\t0\t0\t2\t0\t6.27\t3\t12\t9\t3\t2\t4\t1\t0\t0\t0\t\t0\t0\t0.031\t0.41\t0.01%\t0.31\t0.5
+Team Totals\t8\t4\t3\t3\t4\t9\t1\t3.38\t33\t133\t79\t34\t16\t29\t5\t14\t4\t0\t45\t1\t0\t-0.004\t1.00\t-0.00%\t0.75\t1.1
+
+Los Angeles Angels 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Caden Dana, W (1-0)\t6\t2\t2\t2\t4\t4\t1\t3.00\t23\t95\t54\t27\t12\t15\t6\t9\t1\t0\t60\t\t\t0.115\t0.99\t0.00%\t0.00\t1.0
+Ryan Miller, H (1)\t1\t1\t0\t0\t0\t2\t0\t3.86\t4\t19\t14\t9\t2\t3\t0\t2\t1\t0\t\t0\t0\t0.096\t1.53\t0.00%\t0.00\t0.5
+Brock Burke, H (1)\t1\t1\t0\t0\t1\t1\t0\t6.56\t5\t19\t12\t6\t2\t4\t1\t2\t2\t0\t\t0\t0\t0.121\t2.61\t0.00%\t0.00\t0.5
+Ben Joyce, S (4)\t1\t1\t0\t0\t0\t1\t0\t2.14\t3\t11\t9\t6\t1\t2\t2\t0\t0\t0\t\t0\t0\t0.164\t2.97\t0.00%\t0.00\t0.5
+Team Totals\t9\t5\t2\t2\t5\t8\t1\t2.00\t35\t144\t89\t48\t17\t24\t9\t13\t4\t0\t60\t0\t0\t0.496\t1.49\t0.00%\t0.00\t2.6
+
+Balks: None.
+WP: None.
+HBP: Bryce Miller (3; Zach Neto).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - John Bacon, 1B - Mike Muchlinski, 2B - Andy Fletcher, 3B - Jansen Visconti, LF - (none), RF - (none).
+Time of Game: 2:36.
+Attendance: 39,370.
+Field Condition: Unknown.
+Start Time Weather: 83° F, Wind 5mph out to Leftfield, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Mariners
+1\tVíctor Robles\tRF
+2\tJulio Rodríguez\tCF
+3\tCal Raleigh\tC
+4\tRandy Arozarena\tLF
+5\tJorge Polanco\t2B
+6\tLuke Raley\t1B
+7\tMitch Haniger\tDH
+8\tJosh Rojas\t3B
+9\tLeo Rivas\tSS
+\tBryce Miller\tP
+Angels
+1\tTaylor Ward\tDH
+2\tZach Neto\tSS
+3\tNolan Schanuel\t1B
+4\tAnthony Rendon\t3B
+5\tKevin Pillar\tLF
+6\tMickey Moniak\tCF
+7\tBrandon Drury\t2B
+8\tMatt Thaiss\tC
+9\tJo Adell\tRF
+\tCaden Dana\tP
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Seattle Mariners vs. Los Angeles Angels, September 1 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+LAA
+50%
+SEA
+Inning\tWin Pct
+1\t0.5
+2\t0.48
+3\t0.46
+4\t0.45
+5\t0.35
+6\t0.32
+7\t0.35
+8\t0.38
+9\t0.4
+10\t0.37
+11\t0.35
+12\t0.46
+13\t0.45
+14\t0.47
+15\t0.45
+16\t0.48
+17\t0.5
+18\t0.57
+19\t0.55
+20\t0.58
+21\t0.56
+22\t0.59
+23\t0.61
+24\t0.6
+25\t0.62
+26\t0.66
+27\t0.63
+28\t0.57
+29\t0.6
+30\t0.63
+31\t0.61
+32\t0.64
+33\t0.62
+34\t0.6
+35\t0.61
+36\t0.63
+37\t0.59
+38\t0.62
+39\t0.56
+40\t0.53
+41\t0.57
+42\t0.32
+43\t0.34
+44\t0.3
+45\t0.34
+46\t0.3
+47\t0.26
+48\t0.28
+49\t0.3
+50\t0.31
+51\t0.26
+52\t0.23
+53\t0.26
+54\t0.27
+55\t0.21
+56\t0.18
+57\t0.21
+58\t0.23
+59\t0.25
+60\t0.2
+61\t0.26
+62\t0.19
+63\t0.21
+64\t0.24
+65\t0.13
+66\t0.15
+67\t0.16
+68\t0.16
+69\t0.28
+70\t0.04
+71\t0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+b5\t1-2\t2\t-23\t1,(0-0) \tRR\tLAA\tAnthony Rendon\tBryce Miller\t25%\t68%\tSingle to SS (Line Drive to Deep SS); T. Ward Scores; Z. Neto Scores
+t9\t2-3\t0\t1--\t1,(0-0) \tOO\tSEA\tJ.P. Crawford\tBen Joyce\t24%\t96%\tGround Ball Double Play: 1B-SS
+t9\t2-3\t0\t---\t1,(0-0) \t\tSEA\tLuke Raley\tBen Joyce\t-12%\t72%\tSingle to RF (Ground Ball thru 2B-1B)
+t2\t0-1\t2\t---\t2,(1-0) \tR\tSEA\tLuke Raley\tCaden Dana\t-11%\t54%\tHome Run (Fly Ball to Deep CF-RF)
+t8\t2-3\t2\t12-\t4,(1-2) \tO\tSEA\tJorge Polanco\tBrock Burke\t11%\t87%\tLineout: CF
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+Top of the 1st, Mariners Batting, Tied 0-0, Angels' Caden Dana facing 1-2-3
+t1\t0-0\t0\t---\t2,(1-0) \tO\tSEA\tVíctor Robles\tCaden Dana\t2%\t52%\tFlyball: RF (Short RF Line)
+t1\t0-0\t1\t---\t5,(2-2) \tO\tSEA\tJulio Rodríguez\tCaden Dana\t2%\t54%\tFlyball: RF
+t1\t0-0\t2\t---\t5,(2-2) \tO\tSEA\tCal Raleigh\tCaden Dana\t1%\t55%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Mariners 0, Angels 0.
+Bottom of the 1st, Angels Batting, Tied 0-0, Mariners' Bryce Miller facing 1-2-3
+b1\t0-0\t0\t---\t2,(1-0) \tR\tLAA\tTaylor Ward\tBryce Miller\t10%\t65%\tHome Run (Fly Ball to Deep CF)
+b1\t1-0\t0\t---\t5,(3-1) \t\tLAA\tZach Neto\tBryce Miller\t3%\t68%\tWalk
+b1\t1-0\t0\t1--\t1,(0-0) \tO\tLAA\tNolan Schanuel\tBryce Miller\t-3%\t65%\tFlyball: CF (Deep CF)
+b1\t1-0\t1\t1--\t5,(2-2) \tO\tLAA\tAnthony Rendon\tBryce Miller\t-2%\t62%\tPopfly: 2B (2B-1B)
+b1\t1-0\t2\t1--\t2,(0-1) \tO\tLAA\tKevin Pillar\tBryce Miller\t-2%\t60%\tFlyball: CF (Short CF)
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 1 LOB. Mariners 0, Angels 1.
+Top of the 2nd, Mariners Batting, Behind 0-1, Angels' Caden Dana facing 4-5-6
+t2\t0-1\t0\t---\t1,(0-0) \tO\tSEA\tRandy Arozarena\tCaden Dana\t2%\t63%\tGroundout: 3B-1B (SS-3B Hole)
+t2\t0-1\t1\t---\t6,(1-2) \tO\tSEA\tJorge Polanco\tCaden Dana\t2%\t65%\tGroundout: 2B-1B (Deep 2B-1B)
+t2\t0-1\t2\t---\t2,(1-0) \tR\tSEA\tLuke Raley\tCaden Dana\t-11%\t54%\tHome Run (Fly Ball to Deep CF-RF)
+t2\t1-1\t2\t---\t2,(1-0) \tO\tSEA\tMitch Haniger\tCaden Dana\t1%\t55%\tGroundout: SS-1B
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 0 LOB. Mariners 1, Angels 1.
+Bottom of the 2nd, Angels Batting, Tied 1-1, Mariners' Bryce Miller facing 6-7-8
+b2\t1-1\t0\t---\t5,(2-2) \tO\tLAA\tMickey Moniak\tBryce Miller\t-2%\t53%\tPopfly: 3B (Short LF)
+b2\t1-1\t1\t---\t5,(2-2) \t\tLAA\tBrandon Drury\tBryce Miller\t3%\t55%\tSingle to CF (Ground Ball thru SS-2B)
+b2\t1-1\t1\t1--\t5,(2-2) \tO\tLAA\tMatt Thaiss\tBryce Miller\t-3%\t52%\tStrikeout Looking
+b2\t1-1\t2\t1--\t5,(2-2) \tO\tLAA\tJo Adell\tBryce Miller\t-2%\t50%\tFlyball: LF
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Mariners 1, Angels 1.
+Top of the 3rd, Mariners Batting, Tied 1-1, Angels' Caden Dana facing 8-9-1
+t3\t1-1\t0\t---\t5,(2-2) \t\tSEA\tJosh Rojas\tCaden Dana\t-7%\t43%\tGround-rule Double (Line Drive to Deep LF Line)
+t3\t1-1\t0\t-2-\t3,(2-0) \tO\tSEA\tLeo Rivas\tCaden Dana\t2%\t45%\tGroundout: 1B unassisted; J. Rojas to 3B
+t3\t1-1\t1\t--3\t1,(0-0) \tRO\tSEA\tVíctor Robles\tCaden Dana\t-2%\t42%\tFlyball: RF/Sacrifice Fly (Deep CF-RF); J. Rojas Scores
+t3\t2-1\t2\t---\t5,(2-2) \tO\tSEA\tJulio Rodríguez\tCaden Dana\t1%\t44%\tGroundout: SS-1B
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 0 LOB. Mariners 2, Angels 1.
+Bottom of the 3rd, Angels Batting, Behind 1-2, Mariners' Bryce Miller facing 1-2-3
+b3\t1-2\t0\t---\t3,(0-2) \tO\tLAA\tTaylor Ward\tBryce Miller\t-3%\t41%\tStrikeout Swinging
+b3\t1-2\t1\t---\t4,(1-2) \tO\tLAA\tZach Neto\tBryce Miller\t-2%\t39%\tStrikeout Swinging
+b3\t1-2\t2\t---\t8,(3-2) \t\tLAA\tNolan Schanuel\tBryce Miller\t2%\t40%\tWalk
+b3\t1-2\t2\t1--\t7,(3-2) \tO\tLAA\tAnthony Rendon\tBryce Miller\t-3%\t38%\tLineout: LF (Deep LF Line)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Mariners 2, Angels 1.
+Top of the 4th, Mariners Batting, Ahead 2-1, Angels' Caden Dana facing 3-4-5
+t4\t2-1\t0\t---\t5,(3-1) \t\tSEA\tCal Raleigh\tCaden Dana\t-4%\t34%\tWalk
+t4\t2-1\t0\t1--\t7,(2-2) \tO\tSEA\tRandy Arozarena\tCaden Dana\t3%\t37%\tPopfly: 1B (Short 1B Line)
+t4\t2-1\t1\t1--\t2,(0-1) \tOO\tSEA\tJorge Polanco\tCaden Dana\t5%\t43%\tGround Ball Double Play: 2B-SS-1B (2B-1B)
+\t\t\t\t\t\t\t\t\tForce Play Challenged by LAA manager (Ron Washington): Original call overturned as shown.
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Mariners 2, Angels 1.
+Bottom of the 4th, Angels Batting, Behind 1-2, Mariners' Bryce Miller facing 5-6-7
+b4\t1-2\t0\t---\t5,(2-2) \tO\tLAA\tKevin Pillar\tBryce Miller\t-3%\t40%\tFlyball: RF (Deep CF-RF)
+b4\t1-2\t1\t---\t6,(3-2) \tO\tLAA\tMickey Moniak\tBryce Miller\t-2%\t37%\tStrikeout Swinging
+b4\t1-2\t2\t---\t5,(3-1) \t\tLAA\tBrandon Drury\tBryce Miller\t2%\t39%\tWalk
+b4\t1-2\t2\t1--\t4,(1-2) \tO\tLAA\tMatt Thaiss\tBryce Miller\t-3%\t36%\tGroundout: 2B-1B (2B-1B)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Mariners 2, Angels 1.
+Top of the 5th, Mariners Batting, Ahead 2-1, Angels' Caden Dana facing 6-7-8
+t5\t2-1\t0\t---\t4,(1-2) \tO\tSEA\tLuke Raley\tCaden Dana\t2%\t38%\tStrikeout Swinging
+t5\t2-1\t1\t---\t5,(1-2) \tO\tSEA\tMitch Haniger\tCaden Dana\t2%\t40%\tFlyball: RF (RF Line)
+t5\t2-1\t2\t---\t5,(3-1) \t\tSEA\tJosh Rojas\tCaden Dana\t-1%\t39%\tWalk
+t5\t2-1\t2\t1--\t5,(3-1) \t\tSEA\tLeo Rivas\tCaden Dana\t-2%\t37%\tWalk; J. Rojas to 2B
+t5\t2-1\t2\t12-\t5,(2-2) \tO\tSEA\tVíctor Robles\tCaden Dana\t5%\t41%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 2 LOB. Mariners 2, Angels 1.
+Bottom of the 5th, Angels Batting, Behind 1-2, Mariners' Bryce Miller facing 9-1-2
+b5\t1-2\t0\t---\t1,(0-0) \tO\tLAA\tJo Adell\tBryce Miller\t-3%\t38%\tLineout: 3B (SS-3B Hole)
+b5\t1-2\t1\t---\t6,(3-2) \t\tLAA\tTaylor Ward\tBryce Miller\t6%\t44%\tDouble to LF (Line Drive to Deep LF)
+b5\t1-2\t1\t-2-\t2,(0-1) \t\tLAA\tZach Neto\tBryce Miller\t3%\t47%\tHit By Pitch
+b5\t1-2\t1\t12-\t4,(1-2) \tO\tLAA\tNolan Schanuel\tBryce Miller\t-4%\t43%\tFlyball: CF (Deep CF); T. Ward to 3B; Z. Neto to 2B
+b5\t1-2\t2\t-23\t1,(0-0) \tRR\tLAA\tAnthony Rendon\tBryce Miller\t25%\t68%\tSingle to SS (Line Drive to Deep SS); T. Ward Scores; Z. Neto Scores
+\t\t\t\t\t\t\t\t\t
+Trent Thornton replaces Bryce Miller pitching
+
+b5\t3-2\t2\t1--\t2,(1-0) \tO\tLAA\tKevin Pillar\tTrent Thornton\t-2%\t66%\tGroundout: 2B-1B
+\t\t\t\t\t\t\t\t\t2 runs, 2 hits, 0 errors, 1 LOB. Mariners 2, Angels 3.
+Top of the 6th, Mariners Batting, Behind 2-3, Angels' Caden Dana facing 2-3-4
+t6\t2-3\t0\t---\t5,(2-2) \tO\tSEA\tJulio Rodríguez\tCaden Dana\t4%\t70%\tFlyball: LF (Deep LF Line)
+t6\t2-3\t1\t---\t8,(3-2) \t\tSEA\tCal Raleigh\tCaden Dana\t-4%\t66%\tWalk
+t6\t2-3\t1\t1--\t6,(3-2) \tO\tSEA\tRandy Arozarena\tCaden Dana\t5%\t70%\tStrikeout Looking
+t6\t2-3\t2\t1--\t1,(0-0) \tO\tSEA\tJorge Polanco\tCaden Dana\t4%\t74%\tFlyball: RF (Deep CF-RF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Mariners 2, Angels 3.
+Bottom of the 6th, Angels Batting, Ahead 3-2, Mariners' Trent Thornton facing 6-7-8
+b6\t3-2\t0\t---\t1,(0-0) \tO\tLAA\tMickey Moniak\tTrent Thornton\t-2%\t72%\tGroundout: 3B-1B (Weak SS)
+b6\t3-2\t1\t---\t5,(2-2) \tO\tLAA\tBrandon Drury\tTrent Thornton\t-2%\t70%\tStrikeout Swinging
+b6\t3-2\t2\t---\t6,(3-2) \tO\tLAA\tMatt Thaiss\tTrent Thornton\t-1%\t69%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Mariners 2, Angels 3.
+Top of the 7th, Mariners Batting, Behind 2-3, Angels' Ryan Miller facing 6-7-8
+\t\t\t\t\t\t\t\t\t
+Ryan Miller replaces Caden Dana pitching
+
+t7\t2-3\t0\t---\t2,(0-1) \tO\tSEA\tLuke Raley\tRyan Miller\t4%\t74%\tPopfly: SS (Deep SS)
+t7\t2-3\t1\t---\t5,(2-2) \tO\tSEA\tMitch Haniger\tRyan Miller\t3%\t77%\tStrikeout Swinging
+t7\t2-3\t2\t---\t1,(0-0) \t\tSEA\tJosh Rojas\tRyan Miller\t-2%\t74%\tSingle to RF (Line Drive to Short RF)
+t7\t2-3\t2\t1--\t7,(2-2) \t\tSEA\tLeo Rivas\tRyan Miller\t-2%\t73%\tJ. Rojas Steals 2B
+t7\t2-3\t2\t-2-\t11,(3-2) \tO\tSEA\tLeo Rivas\tRyan Miller\t6%\t79%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Mariners 2, Angels 3.
+Bottom of the 7th, Angels Batting, Ahead 3-2, Mariners' Troy Taylor facing 9-1-2
+\t\t\t\t\t\t\t\t\t
+Troy Taylor replaces Trent Thornton pitching
+
+b7\t3-2\t0\t---\t6,(3-2) \t\tLAA\tJo Adell\tTroy Taylor\t3%\t82%\tWalk
+b7\t3-2\t0\t1--\t4,(1-2) \tO\tLAA\tTaylor Ward\tTroy Taylor\t-3%\t79%\tStrikeout Looking
+b7\t3-2\t1\t1--\t4,(3-1) \tO\tLAA\tZach Neto\tTroy Taylor\t-2%\t77%\tFlyball: LF (LF-CF)
+b7\t3-2\t2\t1--\t2,(0-1) \tO\tLAA\tNolan Schanuel\tTroy Taylor\t-2%\t75%\tFlyball: CF
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Mariners 2, Angels 3.
+Top of the 8th, Mariners Batting, Behind 2-3, Angels' Brock Burke facing 1-2-3
+\t\t\t\t\t\t\t\t\t
+Brock Burke replaces Ryan Miller pitching
+
+t8\t2-3\t0\t---\t3,(0-2) \tO\tSEA\tVíctor Robles\tBrock Burke\t6%\t80%\tGroundout: P-1B (Front of Home)
+t8\t2-3\t1\t---\t3,(1-1) \t\tSEA\tJulio Rodríguez\tBrock Burke\t-6%\t74%\tSingle to CF (Line Drive to Deep CF)
+t8\t2-3\t1\t1--\t4,(1-2) \tO\tSEA\tCal Raleigh\tBrock Burke\t7%\t81%\tStrikeout Swinging
+t8\t2-3\t2\t1--\t2,(1-0) \t\tSEA\tRandy Arozarena\tBrock Burke\t-2%\t79%\tJ. Rodríguez Steals 2B
+\t\t\t\t\t\t\t\t\tTag play Challenged by LAA manager (Ron Washington): Original call upheld upon review.
+t8\t2-3\t2\t-2-\t5,(3-1) \t\tSEA\tRandy Arozarena\tBrock Burke\t-2%\t76%\tWalk
+t8\t2-3\t2\t12-\t4,(1-2) \tO\tSEA\tJorge Polanco\tBrock Burke\t11%\t87%\tLineout: CF
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 2 LOB. Mariners 2, Angels 3.
+Bottom of the 8th, Angels Batting, Ahead 3-2, Mariners' Eduard Bazardo facing 4-5-6
+\t\t\t\t\t\t\t\t\t
+Eduard Bazardo replaces Troy Taylor pitching
+
+b8\t3-2\t0\t---\t2,(0-1) \tO\tLAA\tAnthony Rendon\tEduard Bazardo\t-1%\t85%\tGroundout: SS-1B
+b8\t3-2\t1\t---\t5,(1-2) \tO\tLAA\tKevin Pillar\tEduard Bazardo\t-1%\t84%\tStrikeout Swinging
+b8\t3-2\t2\t---\t5,(2-2) \tO\tLAA\tMickey Moniak\tEduard Bazardo\t-1%\t84%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Mariners 2, Angels 3.
+Top of the 9th, Mariners Batting, Behind 2-3, Angels' Ben Joyce facing 6-7-8
+\t\t\t\t\t\t\t\t\t
+Ben Joyce replaces Brock Burke pitching
+
+t9\t2-3\t0\t---\t1,(0-0) \t\tSEA\tLuke Raley\tBen Joyce\t-12%\t72%\tSingle to RF (Ground Ball thru 2B-1B)
+\t\t\t\t\t\t\t\t\t
+J.P. Crawford pinch hits for Mitch Haniger (DH) batting 7th
+
+t9\t2-3\t0\t1--\t1,(0-0) \tOO\tSEA\tJ.P. Crawford\tBen Joyce\t24%\t96%\tGround Ball Double Play: 1B-SS
+\t\t\t\t\t\t\t\t\tTag play Challenged by SEA manager (Dan Wilson): Original call upheld upon review.
+t9\t2-3\t2\t---\t9,(2-2) \tO\tSEA\tJosh Rojas\tBen Joyce\t4%\t100%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 0 LOB. Mariners 2, Angels 3.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Los Angeles Angels Schedule Seattle Mariners Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Seattle Mariners vs Los Angeles Angels Box Score: September 1, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/ANA/ANA202409010.shtml 
+ ----- 

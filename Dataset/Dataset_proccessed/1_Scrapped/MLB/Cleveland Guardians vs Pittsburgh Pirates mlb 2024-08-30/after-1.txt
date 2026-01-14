@@ -1,0 +1,690 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Cleveland Guardians Schedule
+Pittsburgh Pirates Schedule
+Pittsburgh Pirates vs Cleveland Guardians Box Score: August 30, 2024
+MLB Scores — August 30, 2024
+MIL	5	Final
+CIN	4	(10)
+MIL	14	Final
+CIN	0	
+BOS	7	Final
+DET	5	(10)
+ATL	7	Final
+PHI	2	
+CHC	7	Final
+WSN	6	
+SDP	13	Final
+TBR	5	
+STL	3	Final
+NYY	6	
+PIT	8	Final
+CLE	10	
+OAK	9	Final
+TEX	2	
+NYM	5	Final
+CHW	1	
+KCR	2	Final
+HOU	3	
+TOR	0	Final
+MIN	2	
+BAL	5	Final
+COL	3	
+SEA	9	Final
+LAA	5	
+LAD	10	Final
+ARI	9	
+MIA	1	Final
+SFG	3	
+MLB Scores & Standings on this Day
+Pittsburgh Pirates
+8
+62-72
+Prev Game Next Game
+ 
+Cleveland Guardians
+10
+77-58
+Prev Game Next Game
+Friday, August 30, 2024
+Start Time: 7:10 p.m. Local
+Attendance: 32,132
+Venue: Progressive Field
+Game Duration: 2:46
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Pittsburgh Pirates	0	0	0	0	6	1	0	0	1	8	12	1
+
+	Cleveland Guardians	2	0	0	2	4	0	0	2	X	10	16	0
+WP: Pedro Avila (5-1) • LP: Carmen Mlodzinski (2-5) • SV: Emmanuel Clase (40)
+Pittsburgh Pirates 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Isiah Kiner-Falefa SS	5	2	1	0	0	0	5	.271	.315	.393	.709	21	11	-0.048	1.52	0.076	-0.124	0%	0.00	0.0	1	3	SB
+Bryan Reynolds LF	4	1	2	0	0	1	5	.284	.349	.463	.812	17	12	0.046	1.72	0.119	-0.073	0%	0.01	0.5	2	0	SB,HBP
+Oneil Cruz CF	5	1	2	3	0	1	5	.274	.331	.474	.804	23	16	0.046	2.28	0.243	-0.197	0%	0.01	1.2	2	0	
+Andrew McCutchen DH	5	2	2	3	0	0	5	.238	.337	.415	.752	15	10	0.153	1.26	0.239	-0.086	0%	0.00	1.8	0	0	HR,2B
+Rowdy Tellez 1B	3	1	2	2	0	0	3	.257	.304	.413	.717	9	8	0.220	1.10	0.243	-0.023	0.00%	0.00	1.6	6	0	HR
+   Connor Joe PH-1B	2	0	0	0	0	1	2	.236	.320	.385	.705	6	5	-0.082	1.61	0.000	-0.082	0%	0.01	-0.5	1	0	
+Nick Gonzales 2B	5	0	1	0	0	0	5	.260	.293	.389	.682	20	14	-0.071	0.94	0.033	-0.103	0%	0.00	-0.4	3	1	2B
+Billy McKinney RF	3	0	0	0	0	2	3	.227	.320	.273	.593	15	11	-0.059	0.76	0.000	-0.059	0%	0.00	-0.6	0	0	
+   Bryan De La Cruz PH-RF	2	0	0	0	0	0	2	.242	.283	.398	.681	3	3	-0.032	0.62	0.000	-0.032	0%	0.00	-0.2	0	0	
+Yasmani Grandal C	3	1	1	0	1	1	4	.215	.272	.376	.649	20	12	0.061	1.23	0.117	-0.055	0%	0.00	0.2	7	0	
+   Michael A. Taylor PR	0	0	0	0	0	0	0	.193	.254	.280	.533										0	0	
+   Henry Davis C	0	0	0	0	0	0	0	.154	.262	.231	.492										2	0	
+Jared Triolo 3B	3	0	1	0	1	0	4	.205	.293	.299	.591	10	6	-0.027	1.65	0.081	-0.108	0%	0.00	-0.1	0	2	
+																							
+Bailey Falter P																					0	1	
+   Carmen Mlodzinski P																					0	0	
+   Domingo Germán P																					0	0	
+Team Totals	40	8	12	8	2	6	43	.300	.349	.500	.849	159	108	0.207	1.41	1.151	-0.942	0.00%	0.00	3.5	24	7	
+2B: Andrew McCutchen (15, off Ben Lively); Nick Gonzales (15, off Ben Lively).
+HR: Rowdy Tellez (12, off Ben Lively, 5th inn, 1 on, 1 out to Deep CF-RF); Andrew McCutchen (17, off Emmanuel Clase, 9th inn, 0 on, 0 outs to Deep RF).
+HBP: Bryan Reynolds (7, by Hunter Gaddis).
+TB: Andrew McCutchen 6; Rowdy Tellez 5; Nick Gonzales 2; Bryan Reynolds 2; Oneil Cruz 2; Isiah Kiner-Falefa; Jared Triolo; Yasmani Grandal.
+RBI: Andrew McCutchen 3 (43); Oneil Cruz 3 (68); Rowdy Tellez 2 (48).
+2-out RBI: Oneil Cruz.
+Team LOB: 8.
+With RISP: 5 for 9.
+Fielding
+E: Yasmani Grandal (7).
+Baserunning
+SB: Bryan Reynolds (8, 2nd base off Ben Lively/Austin Hedges); Isiah Kiner-Falefa (7, 2nd base off Cade Smith/Austin Hedges).
+Cleveland Guardians 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Steven Kwan LF	4	1	2	1	1	0	5	.303	.367	.443	.809	22	10	0.112	0.68	0.141	-0.030	0.10%	1.06	1.5	4	0	2B
+Lane Thomas CF-RF	4	2	1	0	1	1	5	.232	.313	.363	.676	15	11	-0.009	0.75	0.043	-0.052	-0.01%	1.18	-0.2	3	0	
+José Ramírez 3B	4	2	2	0	0	0	5	.276	.333	.531	.864	17	13	0.101	1.23	0.163	-0.063	0.10%	1.92	1.1	1	3	2·SB
+David Fry DH	5	0	2	1	0	1	5	.262	.360	.447	.807	16	12	-0.085	1.34	0.056	-0.141	-0.08%	2.10	-0.4	0	0	2B
+Josh Naylor 1B	5	1	3	4	0	0	5	.240	.322	.464	.786	17	13	0.251	1.26	0.315	-0.064	0.24%	1.97	3.0	6	0	2B
+   Tyler Freeman PR-CF	0	0	0	0	0	0	0	.206	.304	.320	.624			0.002	0.24	0.002	0.000	0.00%	0.38	0.2	0	0	SB
+Jhonkensy Noel RF-1B	5	1	1	2	0	2	5	.262	.333	.611	.944	14	12	0.209	0.87	0.276	-0.067	0.20%	1.37	0.2	4	0	HR
+Andrés Giménez 2B	5	2	3	1	0	1	5	.254	.305	.333	.637	14	11	0.142	0.58	0.165	-0.023	0.13%	0.91	0.8	3	1	HR,SB
+Brayan Rocchio SS	4	1	1	0	0	2	4	.206	.294	.309	.603	13	10	-0.006	0.68	0.044	-0.051	-0.01%	1.07	-0.0	0	4	
+Austin Hedges C	3	0	1	1	0	1	4	.165	.210	.217	.427	11	9	-0.007	0.74	0.031	-0.038	-0.01%	1.16	-0.2	6	0	SH
+																							
+Ben Lively P																					0	0	
+   Pedro Avila P																					0	0	
+   Cade Smith P																					0	0	
+   Tim Herrin P																					0	0	
+   Hunter Gaddis P																					0	1	
+   Emmanuel Clase P																					0	0	
+Team Totals	39	10	16	10	2	8	43	.410	.439	.641	1.080	139	101	0.710	0.90	1.236	-0.529	0.67%	1.42	6.0	27	9	
+2B: Steven Kwan (16, off Bailey Falter); Josh Naylor (21, off Bailey Falter); David Fry (16, off Bailey Falter).
+HR: Jhonkensy Noel (13, off Carmen Mlodzinski, 5th inn, 1 on, 1 out to Deep LF-CF); Andrés Giménez (6, off Carmen Mlodzinski, 5th inn, 0 on, 1 out to Deep RF Line).
+SH: Austin Hedges (2, off Bailey Falter).
+TB: Andrés Giménez 6; Jhonkensy Noel 4; Josh Naylor 4; Steven Kwan 3; David Fry 3; José Ramírez 2; Austin Hedges; Brayan Rocchio; Lane Thomas.
+RBI: Josh Naylor 4 (98); Jhonkensy Noel 2 (26); Steven Kwan (41); Andrés Giménez (53); David Fry (47); Austin Hedges (13).
+2-out RBI: Josh Naylor 2; Steven Kwan.
+Team LOB: 9.
+With RISP: 5 for 16.
+Baserunning
+SB: José Ramírez 2 (34, 2nd base off Carmen Mlodzinski/Yasmani Grandal, 2nd base off Domingo Germán/Henry Davis); Andrés Giménez (25, 2nd base off Domingo Germán/Yasmani Grandal); Tyler Freeman (11, 2nd base off Domingo Germán/Henry Davis).
+Pittsburgh Pirates 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Bailey Falter	4	7	4	4	1	2	0	4.41	20	59	41	27	3	11	6	11	7	0	33			-0.197	0.82	-0.00%	0.00	-2.0
+Carmen Mlodzinski, L (2-5)	1	4	4	4	0	2	2	3.89	7	26	22	12	2	8	3	2	0	0		0	0	-0.503	1.26	-0.00%	0.01	-3.5
+Domingo Germán	3	5	2	2	1	4	0	6.11	16	54	38	18	10	9	3	7	2	0		0	0	-0.009	0.84	0.00%	0.00	-0.5
+Team Totals	8	16	10	10	2	8	2	11.25	43	139	101	57	15	28	12	20	9	0	33	0	0	-0.709	0.90	-0.00%	0.00	-6.0
+
+Cleveland Guardians 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Ben Lively	4.1	9	6	6	1	3	1	3.92	24	94	62	32	7	23	8	12	7	0	23			-0.469	1.18	-0.44%	1.85	-4.2
+Pedro Avila, W (5-1)	0.2	0	0	0	0	1	0	3.95	2	8	6	4	1	1	1	0	0	0		1	0	0.054	1.04	0.05%	1.64	0.7
+Cade Smith, H (21)	1	2	1	1	0	1	0	2.11	5	20	15	10	3	2	2	2	1	0		0	0	-0.041	1.47	-0.04%	2.30	-0.5
+Tim Herrin, H (14)	1	0	0	0	0	0	0	2.14	3	6	6	5	0	1	2	1	0	0		0	0	0.095	1.26	0.09%	1.97	0.5
+Hunter Gaddis, H (29)	1	0	0	0	1	0	0	1.60	5	18	10	4	2	4	2	1	0	0		0	0	0.120	3.11	0.11%	4.88	0.5
+Emmanuel Clase, S (40)	1	1	1	1	0	1	1	0.71	4	13	9	7	1	1	1	2	1	0		0	0	0.033	0.90	0.03%	1.42	-0.5
+Team Totals	9	12	8	8	2	6	2	8.00	43	159	108	62	14	32	16	18	9	0	23	1	0	-0.208	1.41	-0.20%	2.21	-3.6
+
+Balks: None.
+WP: None.
+HBP: Hunter Gaddis (3; Bryan Reynolds).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Brian Walsh, 1B - Ryan Wills, 2B - Carlos Torres, 3B - Chad Fairchild, LF - (none), RF - (none).
+Time of Game: 2:46.
+Attendance: 32,132.
+Field Condition: Unknown.
+Start Time Weather: 84° F, Wind 4mph from Left to Right, Cloudy, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Pirates
+1	Isiah Kiner-Falefa	SS
+2	Bryan Reynolds	LF
+3	Oneil Cruz	CF
+4	Andrew McCutchen	DH
+5	Rowdy Tellez	1B
+6	Nick Gonzales	2B
+7	Billy McKinney	RF
+8	Yasmani Grandal	C
+9	Jared Triolo	3B
+	Bailey Falter	P
+Guardians
+1	Steven Kwan	LF
+2	Lane Thomas	CF
+3	José Ramírez	3B
+4	David Fry	DH
+5	Josh Naylor	1B
+6	Jhonkensy Noel	RF
+7	Andrés Giménez	2B
+8	Brayan Rocchio	SS
+9	Austin Hedges	C
+	Ben Lively	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Pittsburgh Pirates vs. Cleveland Guardians, August 30 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+CLE
+50%
+PIT
+Inning	Win Pct
+1	0.5
+2	0.54
+3	0.5
+4	0.47
+5	0.45
+6	0.39
+7	0.36
+8	0.41
+9	0.46
+10	0.27
+11	0.3
+12	0.27
+13	0.26
+14	0.25
+15	0.26
+16	0.28
+17	0.27
+18	0.28
+19	0.26
+20	0.29
+21	0.26
+22	0.28
+23	0.3
+24	0.23
+25	0.25
+26	0.26
+27	0.24
+28	0.27
+29	0.24
+30	0.27
+31	0.24
+32	0.21
+33	0.22
+34	0.21
+35	0.16
+36	0.14
+37	0.09
+38	0.1
+39	0.13
+40	0.1
+41	0.13
+42	0.19
+43	0.33
+44	0.53
+45	0.74
+46	0.77
+47	0.75
+48	0.72
+49	0.67
+50	0.64
+51	0.69
+52	0.59
+53	0.31
+54	0.2
+55	0.21
+56	0.22
+57	0.27
+58	0.22
+59	0.18
+60	0.19
+61	0.29
+62	0.26
+63	0.22
+64	0.25
+65	0.22
+66	0.26
+67	0.3
+68	0.26
+69	0.23
+70	0.21
+71	0.23
+72	0.21
+73	0.19
+74	0.22
+75	0.25
+76	0.34
+77	0.26
+78	0.21
+79	0.24
+80	0.13
+81	0.14
+82	0.13
+83	0.09
+84	0.08
+85	0.04
+86	0.02
+87	0.02
+88	0.03
+89	0.03
+90	0.07
+91	0.03
+92	0.01
+93	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b5	5-6	1	1--	2,(0-1) 	RR	CLE	Jhonkensy Noel	Carmen Mlodzinski	28%	69%	Home Run (Fly Ball to Deep LF-CF); J. Naylor Scores
+t5	4-4	1	-2-	3,(1-1) 	RR	PIT	Rowdy Tellez	Ben Lively	-21%	26%	Home Run (Fly Ball to Deep CF-RF); A. McCutchen Scores
+t5	2-4	1	1-3	3,(1-1) 	RR	PIT	Andrew McCutchen	Ben Lively	-20%	47%	Double to CF (Line Drive to Deep CF); B. Reynolds Scores; O. Cruz Scores
+b1	0-0	2	12-	3,(1-1) 	RR	CLE	Josh Naylor	Bailey Falter	18%	73%	Double to CF (Line Drive to Deep LF-CF); S. Kwan Scores; L. Thomas Scores
+t5	0-4	1	123	5,(1-2) 	RR	PIT	Oneil Cruz	Ben Lively	-14%	67%	Single to RF (Ground Ball thru 2B-1B); Y. Grandal Scores; I. Kiner-Falefa Scores; B. Reynolds to 3B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Pirates Batting, Tied 0-0, Guardians' Ben Lively facing 1-2-3
+t1	0-0	0	---	3,(2-0) 		PIT	Isiah Kiner-Falefa	Ben Lively	-4%	46%	Single to SS (Ground Ball)
+t1	0-0	0	1--	4,(1-2) 	O	PIT	Bryan Reynolds	Ben Lively	3%	50%	Flyball: RF (Deep CF-RF)
+t1	0-0	1	1--	5,(2-2) 	O	PIT	Oneil Cruz	Ben Lively	3%	53%	Flyball: LF (LF Line)
+t1	0-0	2	1--	2,(0-1) 	O	PIT	Andrew McCutchen	Ben Lively	2%	55%	Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); A. McCutchen to 1B
+									0 runs, 1 hit, 0 errors, 1 LOB. Pirates 0, Guardians 0.
+Bottom of the 1st, Guardians Batting, Tied 0-0, Pirates' Bailey Falter facing 1-2-3
+b1	0-0	0	---	2,(1-0) 		CLE	Steven Kwan	Bailey Falter	6%	61%	Double to CF (Line Drive to Deep CF-RF)
+b1	0-0	0	-2-	5,(3-1) 		CLE	Lane Thomas	Bailey Falter	3%	64%	Walk
+b1	0-0	0	12-	1,(0-0) 	O	CLE	José Ramírez	Bailey Falter	-5%	59%	Flyball: LF (Short LF-CF)
+b1	0-0	1	12-	2,(0-1) 	O	CLE	David Fry	Bailey Falter	-4%	54%	Popfly: 2B (Weak 2B)
+b1	0-0	2	12-	3,(1-1) 	RR	CLE	Josh Naylor	Bailey Falter	18%	73%	Double to CF (Line Drive to Deep LF-CF); S. Kwan Scores; L. Thomas Scores
+b1	2-0	2	-2-	2,(1-0) 	O	CLE	Jhonkensy Noel	Bailey Falter	-2%	70%	Flyball: LF (Short LF-CF)
+									2 runs, 2 hits, 0 errors, 1 LOB. Pirates 0, Guardians 2.
+Top of the 2nd, Pirates Batting, Behind 0-2, Guardians' Ben Lively facing 5-6-7
+t2	0-2	0	---	3,(0-2) 	O	PIT	Rowdy Tellez	Ben Lively	2%	73%	Flyball: LF (Short LF)
+t2	0-2	1	---	7,(3-2) 	O	PIT	Nick Gonzales	Ben Lively	2%	74%	Groundout: SS-1B
+t2	0-2	2	---	8,(1-2) 	O	PIT	Billy McKinney	Ben Lively	1%	75%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Pirates 0, Guardians 2.
+Bottom of the 2nd, Guardians Batting, Ahead 2-0, Pirates' Bailey Falter facing 7-8-9
+b2	2-0	0	---	3,(1-1) 	O	CLE	Andrés Giménez	Bailey Falter	-2%	74%	Groundout: P-1B (Front of Home)
+b2	2-0	1	---	4,(1-2) 	O	CLE	Brayan Rocchio	Bailey Falter	-1%	72%	Groundout: SS-1B
+b2	2-0	2	---	2,(1-0) 		CLE	Austin Hedges	Bailey Falter	1%	73%	Single to LF (Line Drive)
+b2	2-0	2	1--	3,(2-0) 	O	CLE	Steven Kwan	Bailey Falter	-2%	72%	Popfly: SS (Deep SS)
+									0 runs, 1 hit, 0 errors, 1 LOB. Pirates 0, Guardians 2.
+Top of the 3rd, Pirates Batting, Behind 0-2, Guardians' Ben Lively facing 8-9-1
+t3	0-2	0	---	2,(0-1) 	O	PIT	Yasmani Grandal	Ben Lively	2%	74%	Lineout: LF (Deep LF)
+t3	0-2	1	---	5,(3-1) 		PIT	Jared Triolo	Ben Lively	-3%	71%	Walk
+t3	0-2	1	1--	6,(3-2) 	O	PIT	Isiah Kiner-Falefa	Ben Lively	3%	74%	Groundout: SS-2B/Forceout at 2B (SS-2B); I. Kiner-Falefa to 1B
+t3	0-2	2	1--	1,(0-0) 		PIT	Bryan Reynolds	Ben Lively	-3%	72%	Single to 1B (Ground Ball to Weak 1B); I. Kiner-Falefa to 3B
+t3	0-2	2	1-3	3,(0-2) 		PIT	Oneil Cruz	Ben Lively	-1%	70%	B. Reynolds Steals 2B
+t3	0-2	2	-23	6,(2-2) 	O	PIT	Oneil Cruz	Ben Lively	6%	77%	Strikeout Looking
+									0 runs, 1 hit, 0 errors, 2 LOB. Pirates 0, Guardians 2.
+Bottom of the 3rd, Guardians Batting, Ahead 2-0, Pirates' Bailey Falter facing 2-3-4
+b3	2-0	0	---	3,(0-2) 	O	CLE	Lane Thomas	Bailey Falter	-2%	75%	Strikeout Looking
+b3	2-0	1	---	4,(1-2) 	O	CLE	José Ramírez	Bailey Falter	-1%	74%	Lineout: CF (Deep LF-CF)
+b3	2-0	2	---	3,(0-2) 		CLE	David Fry	Bailey Falter	2%	76%	Double to LF (Line Drive to LF Line)
+b3	2-0	2	-2-	4,(1-2) 	O	CLE	Josh Naylor	Bailey Falter	-2%	73%	Groundout: 2B-1B (2B-1B)
+									0 runs, 1 hit, 0 errors, 1 LOB. Pirates 0, Guardians 2.
+Top of the 4th, Pirates Batting, Behind 0-2, Guardians' Ben Lively facing 4-5-6
+t4	0-2	0	---	5,(2-2) 	O	PIT	Andrew McCutchen	Ben Lively	3%	76%	Lineout: CF (Deep CF)
+t4	0-2	1	---	3,(0-2) 		PIT	Rowdy Tellez	Ben Lively	-3%	73%	Single to LF (Ground Ball)
+t4	0-2	1	1--	1,(0-0) 	O	PIT	Nick Gonzales	Ben Lively	3%	76%	Lineout: 3B (SS-3B Hole)
+t4	0-2	2	1--	6,(3-2) 	O	PIT	Billy McKinney	Ben Lively	3%	79%	Strikeout Looking
+									0 runs, 1 hit, 0 errors, 1 LOB. Pirates 0, Guardians 2.
+Bottom of the 4th, Guardians Batting, Ahead 2-0, Pirates' Bailey Falter facing 6-7-8
+b4	2-0	0	---	3,(0-2) 	O	CLE	Jhonkensy Noel	Bailey Falter	-2%	78%	Strikeout Swinging
+b4	2-0	1	---	3,(1-1) 		CLE	Andrés Giménez	Bailey Falter	2%	79%	Single to 2B (Ground Ball)
+b4	2-0	1	1--	2,(1-0) 		CLE	Brayan Rocchio	Bailey Falter	4%	84%	Single to CF (Line Drive to Deep CF); A. Giménez to 3B
+b4	2-0	1	1-3	2,(0-1) 	RO	CLE	Austin Hedges	Bailey Falter	2%	86%	Bunt Groundout: 1B unassisted/Sacrifice (Weak 2B-1B); A. Giménez Scores; B. Rocchio to 2B
+b4	3-0	2	-2-	5,(2-2) 	R	CLE	Steven Kwan	Bailey Falter	5%	91%	Single to CF (Line Drive to Deep LF-CF); B. Rocchio Scores
+b4	4-0	2	1--	3,(0-2) 	O	CLE	Lane Thomas	Bailey Falter	-1%	90%	Groundout: 3B-1B (SS-3B Hole)
+									2 runs, 3 hits, 0 errors, 1 LOB. Pirates 0, Guardians 4.
+Top of the 5th, Pirates Batting, Behind 0-4, Guardians' Ben Lively facing 8-9-1
+t5	0-4	0	---	5,(2-2) 		PIT	Yasmani Grandal	Ben Lively	-3%	87%	Single to RF (Line Drive to Deep CF-RF)
+t5	0-4	0	1--	1,(0-0) 	O	PIT	Jared Triolo	Ben Lively	3%	90%	Flyball: CF (Deep CF-RF)
+t5	0-4	1	1--	2,(1-0) 		PIT	Isiah Kiner-Falefa	Ben Lively	-3%	87%	Fielder's Choice SS; Y. Grandal to 2B; I. Kiner-Falefa to 1B
+t5	0-4	1	12-	3,(1-1) 		PIT	Bryan Reynolds	Ben Lively	-6%	81%	Single to RF (Line Drive); Y. Grandal to 3B; I. Kiner-Falefa to 2B
+t5	0-4	1	123	5,(1-2) 	RR	PIT	Oneil Cruz	Ben Lively	-14%	67%	Single to RF (Ground Ball thru 2B-1B); Y. Grandal Scores; I. Kiner-Falefa Scores; B. Reynolds to 3B
+t5	2-4	1	1-3	3,(1-1) 	RR	PIT	Andrew McCutchen	Ben Lively	-20%	47%	Double to CF (Line Drive to Deep CF); B. Reynolds Scores; O. Cruz Scores
+t5	4-4	1	-2-	3,(1-1) 	RR	PIT	Rowdy Tellez	Ben Lively	-21%	26%	Home Run (Fly Ball to Deep CF-RF); A. McCutchen Scores
+t5	6-4	1	---	5,(2-2) 		PIT	Nick Gonzales	Ben Lively	-3%	23%	Double to LF (Line Drive to LF Line)
+									
+Pedro Avila replaces Ben Lively pitching
+
+t5	6-4	1	-2-	1,(0-0) 	O	PIT	Billy McKinney	Pedro Avila	2%	25%	Groundout: 2B-1B; N. Gonzales to 3B
+t5	6-4	2	--3	7,(2-2) 	O	PIT	Yasmani Grandal	Pedro Avila	3%	28%	Strikeout Swinging
+									6 runs, 6 hits, 0 errors, 1 LOB. Pirates 6, Guardians 4.
+Bottom of the 5th, Guardians Batting, Behind 4-6, Pirates' Carmen Mlodzinski facing 3-4-5
+									
+Carmen Mlodzinski replaces Bailey Falter pitching
+
+b5	4-6	0	---	6,(1-2) 		CLE	José Ramírez	Carmen Mlodzinski	5%	33%	Single to RF (Ground Ball thru 2B-1B)
+b5	4-6	0	1--	1,(0-0) 		CLE	David Fry	Carmen Mlodzinski	3%	36%	J. Ramírez Steals 2B
+b5	4-6	0	-2-	6,(2-2) 	O	CLE	David Fry	Carmen Mlodzinski	-6%	31%	Strikeout Looking
+b5	4-6	1	-2-	5,(1-2) 	R	CLE	Josh Naylor	Carmen Mlodzinski	11%	41%	Single to CF (Ground Ball thru SS-2B); J. Ramírez Scores
+b5	5-6	1	1--	2,(0-1) 	RR	CLE	Jhonkensy Noel	Carmen Mlodzinski	28%	69%	Home Run (Fly Ball to Deep LF-CF); J. Naylor Scores
+b5	7-6	1	---	1,(0-0) 	R	CLE	Andrés Giménez	Carmen Mlodzinski	11%	80%	Home Run (Fly Ball to Deep RF Line)
+b5	8-6	1	---	3,(0-2) 	O	CLE	Brayan Rocchio	Carmen Mlodzinski	-1%	79%	Strikeout Swinging
+b5	8-6	2	---	3,(0-2) 	O	CLE	Austin Hedges	Carmen Mlodzinski	-1%	78%	Groundout: SS-1B
+									4 runs, 4 hits, 0 errors, 0 LOB. Pirates 6, Guardians 8.
+Top of the 6th, Pirates Batting, Behind 6-8, Guardians' Cade Smith facing 9-1-2
+									
+Cade Smith replaces Pedro Avila pitching
+
+t6	6-8	0	---	2,(0-1) 		PIT	Jared Triolo	Cade Smith	-5%	73%	Single to 3B (Bunt to Short 3B Line)
+t6	6-8	0	1--	4,(1-2) 	O	PIT	Isiah Kiner-Falefa	Cade Smith	5%	78%	Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); I. Kiner-Falefa to 1B
+									Force Play Challenged by PIT manager (Derek Shelton): Original call overturned as shown.
+t6	6-8	1	1--	6,(2-2) 	O	PIT	Bryan Reynolds	Cade Smith	4%	82%	Strikeout Swinging
+t6	6-8	2	1--	4,(0-2) 		PIT	Oneil Cruz	Cade Smith	-1%	81%	I. Kiner-Falefa Steals 2B
+t6	6-8	2	-2-	6,(2-2) 	R	PIT	Oneil Cruz	Cade Smith	-10%	71%	Single to CF (Line Drive to Deep CF-RF); I. Kiner-Falefa Scores
+t6	7-8	2	1--	2,(0-1) 	O	PIT	Andrew McCutchen	Cade Smith	4%	74%	Flyball: LF (LF-CF)
+									1 run, 2 hits, 0 errors, 1 LOB. Pirates 7, Guardians 8.
+Bottom of the 6th, Guardians Batting, Ahead 8-7, Pirates' Domingo Germán facing 1-2-3
+									
+Domingo Germán replaces Carmen Mlodzinski pitching
+
+b6	8-7	0	---	5,(3-1) 		CLE	Steven Kwan	Domingo Germán	3%	78%	Walk
+b6	8-7	0	1--	1,(0-0) 	O	CLE	Lane Thomas	Domingo Germán	-3%	75%	Popfly: 3B-2B/Forceout at 2B (Short 3B Line); L. Thomas to 1B
+b6	8-7	1	1--	3,(1-1) 		CLE	José Ramírez	Domingo Germán	3%	78%	Reached on Interference on C; L. Thomas to 2B; J. Ramírez to 1B
+b6	8-7	1	12-	3,(1-1) 	O	CLE	David Fry	Domingo Germán	-4%	74%	Foul Popfly: C (Behind Home)
+b6	8-7	2	12-	1,(0-0) 	O	CLE	Josh Naylor	Domingo Germán	-4%	70%	Popfly: 2B (Deep 2B-1B)
+									0 runs, 0 hits, 1 error, 2 LOB. Pirates 7, Guardians 8.
+Top of the 7th, Pirates Batting, Behind 7-8, Guardians' Tim Herrin facing 5-6-7
+									
+Tim Herrin replaces Cade Smith pitching
+Connor Joe pinch hits for Rowdy Tellez (1B) batting 5th
+
+t7	7-8	0	---	2,(0-1) 	O	PIT	Connor Joe	Tim Herrin	4%	74%	Groundout: SS-1B
+t7	7-8	1	---	2,(0-1) 	O	PIT	Nick Gonzales	Tim Herrin	3%	77%	Groundout: SS-1B
+									
+Bryan De La Cruz pinch hits for Billy McKinney (RF) batting 7th
+
+t7	7-8	2	---	2,(0-1) 	O	PIT	Bryan De La Cruz	Tim Herrin	2%	79%	Flyball: CF (CF-RF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Pirates 7, Guardians 8.
+Bottom of the 7th, Guardians Batting, Ahead 8-7, Pirates' Domingo Germán facing 6-7-8
+									
+Connor Joe moves from PH to 1B
+Bryan De La Cruz moves from PH to RF
+
+b7	8-7	0	---	4,(1-2) 	O	CLE	Jhonkensy Noel	Domingo Germán	-2%	77%	Groundout: SS-1B
+b7	8-7	1	---	2,(0-1) 		CLE	Andrés Giménez	Domingo Germán	2%	79%	Single to RF (Line Drive to Short RF Line)
+b7	8-7	1	1--	3,(1-1) 		CLE	Brayan Rocchio	Domingo Germán	2%	81%	A. Giménez Steals 2B
+b7	8-7	1	-2-	4,(1-2) 	O	CLE	Brayan Rocchio	Domingo Germán	-3%	78%	Strikeout Swinging
+b7	8-7	2	-2-	4,(1-2) 	O	CLE	Austin Hedges	Domingo Germán	-3%	75%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Pirates 7, Guardians 8.
+Top of the 8th, Pirates Batting, Behind 7-8, Guardians' Hunter Gaddis facing 8-9-1
+									
+Hunter Gaddis replaces Tim Herrin pitching
+
+t8	7-8	0	---	6,(3-2) 		PIT	Yasmani Grandal	Hunter Gaddis	-9%	66%	Walk
+									
+Michael A. Taylor pinch runs for Yasmani Grandal (C) batting 8th
+
+t8	7-8	0	1--	2,(0-1) 	O	PIT	Jared Triolo	Hunter Gaddis	8%	74%	Flyball: RF (Short CF-RF)
+t8	7-8	1	1--	6,(3-2) 	O	PIT	Isiah Kiner-Falefa	Hunter Gaddis	4%	79%	Groundout: P-1B; M. Taylor to 2B
+t8	7-8	2	-2-	3,(0-2) 		PIT	Bryan Reynolds	Hunter Gaddis	-2%	76%	Hit By Pitch
+t8	7-8	2	12-	1,(0-0) 	O	PIT	Oneil Cruz	Hunter Gaddis	11%	87%	Groundout: 1B unassisted
+									0 runs, 0 hits, 0 errors, 2 LOB. Pirates 7, Guardians 8.
+Bottom of the 8th, Guardians Batting, Ahead 8-7, Pirates' Domingo Germán facing 1-2-3
+									
+Henry Davis replaces Michael A. Taylor (PR) playing C batting 8th
+
+b8	8-7	0	---	7,(3-2) 	O	CLE	Steven Kwan	Domingo Germán	-1%	86%	Flyball: CF (Deep CF)
+b8	8-7	1	---	3,(0-2) 		CLE	Lane Thomas	Domingo Germán	1%	87%	Single to SS (Ground Ball to SS-3B Hole)
+b8	8-7	1	1--	3,(1-1) 		CLE	José Ramírez	Domingo Germán	4%	91%	Single to RF (Line Drive to CF-RF); L. Thomas to 3B
+b8	8-7	1	1-3	1,(0-0) 		CLE	David Fry	Domingo Germán	1%	92%	J. Ramírez Steals 2B
+b8	8-7	1	-23	2,(1-0) 	R	CLE	David Fry	Domingo Germán	4%	96%	Single to RF (Fly Ball to Short RF); L. Thomas Scores; J. Ramírez to 3B
+b8	9-7	1	1-3	4,(1-2) 	R	CLE	Josh Naylor	Domingo Germán	2%	98%	Single to RF (Ground Ball thru 2B-1B); J. Ramírez Scores; D. Fry to 3B
+									
+Tyler Freeman pinch runs for Josh Naylor (1B) batting 5th
+
+b8	10-7	1	1-3	1,(0-0) 		CLE	Jhonkensy Noel	Domingo Germán	0%	98%	T. Freeman Steals 2B
+b8	10-7	1	-23	3,(0-2) 	O	CLE	Jhonkensy Noel	Domingo Germán	-1%	97%	Strikeout Swinging
+b8	10-7	2	-23	5,(1-2) 	O	CLE	Andrés Giménez	Domingo Germán	-1%	97%	Strikeout Swinging
+									2 runs, 4 hits, 0 errors, 2 LOB. Pirates 7, Guardians 10.
+Top of the 9th, Pirates Batting, Behind 7-10, Guardians' Emmanuel Clase facing 4-5-6
+									
+Emmanuel Clase replaces Hunter Gaddis pitching
+Jhonkensy Noel moves from RF to 1B
+Tyler Freeman moves from PR to CF
+Lane Thomas moves from CF to RF
+
+t9	7-10	0	---	3,(2-0) 	R	PIT	Andrew McCutchen	Emmanuel Clase	-4%	93%	Home Run (Fly Ball to Deep RF)
+t9	8-10	0	---	4,(1-2) 	O	PIT	Connor Joe	Emmanuel Clase	4%	97%	Strikeout Swinging
+t9	8-10	1	---	5,(1-2) 	O	PIT	Nick Gonzales	Emmanuel Clase	2%	99%	Groundout: 3B-1B (SS-3B Hole)
+t9	8-10	2	---	1,(0-0) 	O	PIT	Bryan De La Cruz	Emmanuel Clase	1%	100%	Lineout: 1B (2B-1B)
+									1 run, 1 hit, 0 errors, 0 LOB. Pirates 8, Guardians 10.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Cleveland Guardians Schedule Pittsburgh Pirates Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Pittsburgh Pirates vs Cleveland Guardians Box Score: August 30, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/CLE/CLE202408300.shtml 
+ ----- 

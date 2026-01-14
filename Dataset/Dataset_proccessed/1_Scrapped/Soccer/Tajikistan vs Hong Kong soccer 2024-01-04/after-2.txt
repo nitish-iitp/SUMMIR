@@ -1,0 +1,371 @@
+Match Ticker
+Premier League
+Other Competitions
+Opta Football Stats
+Opta Football Predictions
+Newsletter
+American Football
+More
+NBA
+NCAA
+PREMIER LEAGUE
+From Wolves’ Wins to Arsenal’s Stutter: The Premier League Festive Period Winners and Losers
+JAN 4, 2024
+ALI TWEEDALE / AUTHOR, JONATHAN MANUEL / DATA VIZ
+Twitter
+WhatsApp
+Email
+Share
+
+After the festive period ended with West Ham’s goalless draw at home to Brighton, we reflect on the last three rounds of fixtures and look at which teams came off best… and worst.
+
+Ad
+
+The busy festive period always feels like it can make or break a Premier League campaign. The games come thick and fast, so a run of form can drastically change the perception of how any team is doing, while a stumble, stutter, or a full-blown implosion can throw a club into crisis.
+
+This Christmas was no different, with three matchdays (minus the postponed Manchester City versus Brentford match) played across 13 days from 21 December 2023 to 2 January 2024. The outlook for many Premier League teams is now really rather different this side of the new year.
+
+But which teams had the best and worst festive periods, and who has come out of the recent run of games with their season prospects changed the most? We used numbers from the Opta supercomputer – which ran 10,000 season simulations on 20 December and then did so again on 3 January – to compare how each team’s chances of finishing in each position were affected by the seasonal football.
+
+On top of that, who lost key players to injury and suspension? And who is set to be hit the hardest by the absences of the 40 Premier League players heading to the Africa Cup of Nations and the Asian Cup, both of which will be played over five weeks from the end of next week?
+
+Here, we look at the biggest winners and losers from the festive period of Premier League football.
+
+Biggest Winners
+
+The only team to take nine points from a possible nine was one that few would have predicted before the festive football kicked off. With wins over Chelsea, Brentford and Everton, Gary O’Neil’s Wolves topped the festive form books. In doing so, they significantly improved their chances of finishing higher up the table.
+
+Wolves scored more goals (nine) than any other team during this period, having created chances worth 5.65 expected goals. Their overperformance of 3.35 compared to their xG was almost twice as high as any other team over the festive period, showing just how much confidence there is right now in O’Neil’s squad.
+
+According to the Opta supercomputer’s latest round of season simulations, the position in which Wolves are predicted to finish the season is 11th, an improvement of three places from the supercomputer’s predictions before the three most recent games (14th).
+
+One other team saw an improvement of three places in the supercomputer’s predictions, with West Ham going from an expected finish of ninth up to sixth. Having beaten Manchester United and Arsenal, David Moyes’ side then ground out a goalless draw with Brighton.
+
+The way West Ham play inevitably means opponents will have chances, simply because they concede so much territory. Across their three games, Moyes’ side conceded 6.2 xG, the fourth-highest total of all Premier League teams, and conceded 39 more shots than they had – the biggest negative differential in the top flight. And yet, they were the only team that didn’t concede a single goal during the festive period.
+
+Ad
+
+Alphonse Areola was a man mountain in the West Ham goal, facing 19 shots on target worth a total of 3.4 expected goals on target – suggesting at least three goals would have been scored against a perfectly average goalkeeper – but he kept three successive clean sheets.
+
+The concern for West Ham is just how little they offered in attack against Brighton having lost Mohammed Kudus to international duty with Ghana. There may also be a worry at Wolves that the upcoming international tournaments will bring them crashing back down to earth, with forward Hwang Hee-chan heading to the Asian Cup. He scored twice in the win at Brentford to take his total for the season to 10 Premier League goals, making him the top flight’s sixth-highest scorer.
+
+West Ham will also lose Nayef Aguerd, and Wolves will be without Rayan Aït-Nouri and Boubacar Traoré, which will make continuing their recent form a real challenge.
+
+Despite only playing two games having had their match against Brentford postponed due to their involvement in the FIFA Club World Cup, Manchester City were in many ways the biggest winners from the festive period. They won their two domestic games and watched Arsenal tumble down to fourth, while Liverpool and unlikely title challengers Aston Villa also dropped points.
+
+According to the supercomputer’s latest calculations, City’s chances of retaining the Premier League title rose by 18% over the festive period – the second-highest rise in likelihood for any team to finish in any specific position. Oh, and they became world champions in mid-December, and they are also one of only three Premier League teams who will not lose a single player to either the African or Asian international tournaments that will be played over the coming weeks. It was a good December for Pep Guardiola and co.
+
+Fellow title challengers Liverpool won twice and drew to Arsenal, and so saw their chances of winning the league rise from 22.4% to 34.6%. However, any optimism should be tempered by the reality of Mohamed Salah and Wataru Endo heading off for international duty, as well as the serious-looking injuries suffered by Dominik Szoboszlai and Kostas Tsimikas.
+
+Ad
+
+At the other end of the table, Nottingham Forest’s decision to sack Steve Cooper and bring in Nuno Espiríto Santo looks like it might even have paid off already. With back-to-back wins over top-four hopefuls Newcastle and Manchester United, Forest reduced their chances of relegation over the festive period by a bigger margin (15.0%) than any other team. They will, however, lose more players to the Africa Cup of Nations or Asian Cup (six) than any other Premier League team.
+
+Biggest Losers
+
+While two teams improved their expected league finish by three positions, two teams – both of whom lost all of their festive fixtures – saw their expected final position drop by three places. Brentford and Newcastle have both been hit by terrible luck with injuries and look in trouble as a result.
+
+Brentford lost heavily to Wolves and then threw away a lead against Crystal Palace to take their total points lost from winning positions for the season to 20 – at least four more than any other team. The saving grace for Thomas Frank’s out-of-sorts side is that they only played twice and therefore have a game in hand to come. The only problem is that game in hand is away to Manchester City, and given they have lost five games in a row, they may not have too much hope of repeating their 2-1 win at the Etihad last season.
+
+They do have Ivan Toney returning from suspension soon but they are going to lose four players – Saman Ghoddos, Kim Ji-soo, Frank Onyeka, Yoane Wissa – to the AFCON and Asian Cup. The position they are expected to finish dropped from 12th on 20 December to 15th on 3 January and they are facing a real challenge to stop the slide.
+
+Newcastle, meanwhile, lost three games – to Luton, Nottingham Forest and Liverpool – as their top-four hopes as good as evaporated. The supercomputer now predicts their most likely finish as ninth – down from sixth before the festive games – which, if it were to happen, would represent an incredibly disappointing season for Eddie Howe’s side. They now finish in the top four in just 1% of the supercomputer’s season simulations.
+
+Ad
+
+The Christmas/New Year period also included a record for Newcastle that they won’t have wanted to break, as Liverpool racked up a higher expected goals total against them (7.11) than any other team has managed on record (since 2010-11) in a Premier League game.
+
+However, the biggest losers from the festive games were arguably Arsenal, who saw their chances of winning the title drop by 24.2% ­­– a bigger drop than any other team in any specific position in the Premier League. Their title chances are now as low as 4.1% according to the supercomputer after they picked up only one point from their three festive matches. To add to their woes, they also lost Oleksandr Zinchenko to a calf injury and Takehiro Tomiyasu is heading off to the Asian Cup. Mikel Arteta will therefore be short of options at left-back for the coming weeks.
+
+Ad
+
+Sheffield United made relegation even more likely by taking only one point from a possible nine, and are now given a 68.4% chance of finishing bottom of the table – a rise of 21.8%. They are now almost certain to go down, with the supercomputer giving them a 98.4% chance of relegation.
+
+It was an eventful festive period from which we learned a lot about what the end of this season will look like.
+
+But then again, so much changed in the space of these three games that the pendulum could swing back the other way for any number of the teams involved. There’s plenty of time for things to change again dramatically yet again.
+
+Enjoy this? Subscribe to our new football newsletter to receive exclusive weekly content. You should also follow our social accounts over on X, Instagram, TikTok and Facebook.
+
+RELATED ARTICLES
+PREMIER LEAGUE
+Brentford 1-3 Arsenal Stats: Gunners Seal Comeback Victory with Quickfire Second-Half Goals
+7 HOURS AGO MATT FURNISS
+STAT, VIZ, QUIZ
+Stat, Viz, Quiz: 2024 Year in Review
+1 DAY AGO DAVID SEGAR, ALI TWEEDALE
+PREMIER LEAGUE
+The Unwanted Premier League Awards of 2024
+1 DAY AGO OLIVER HOPKINS, RYAN BENSON, DAVID SEGAR
+PREMIER LEAGUE
+Could Man Utd Really Get Relegated? What the Opta Supercomputer Says
+1 DAY AGO RYAN BENSON
+Subscribe
+
+Sign up and be the first to receive exclusive stats, news, and updates from Opta Analyst.
+
+Country*
+Select A Country
+Canada
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Afghanistan
+Åland Islands
+Albania
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia (Plurinational State of)
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+United States Minor Outlying Islands
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (Democratic Republic of the)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran (Islamic Republic of)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia (the former Yugoslav Republic of)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova (Republic of)
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Korea (Democratic People's Republic of)
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Kosovo
+Réunion
+Romania
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Korea (Republic of)
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suricontent
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela (Bolivarian Republic of)
+Viet Nam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I agree to receive emails from Opta Analyst.
+See our Privacy Policy for more details.
+Privacy Policy
+Terms of Use
+Do Not Sell My Information
+Advertising
+Cookie Policy
+© 2025 Opta Analyst. All Rights Reserved.
+Ad
+×
+ 
+ 
+ ----- 
+ Source link : https://theanalyst.com/2024/01/wolves-wins-arsenal-stutter-premier-league-festive-period-winners-losers 
+ ----- 

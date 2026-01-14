@@ -1,0 +1,506 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Reloading Depot
+6.5 Grendel 123g SST hand loads. Questions about velocity vs temp vs powder batch.
+ 
+Thread starter
+Markbsae  
+Start date
+Sep 2, 2024
+M
+Markbsae
+Private
+Minuteman
+Jul 19, 2024
+30
+11
+CA
+Sep 2, 2024
+#1
+I have a load that I've been using for over a year. Hornady 123g SST, Nosler, CCI 400 primers and 28.2g of H335 at 2.255 COAL. Last time I used the chronograph was in January about 50f and they averaged 2455. Primers were flat but no piercing. Ran the chrono again to verify and build data but out of 60 fired cartridges I had 11 pierced primers and an starting to get extractor imprints on the cases. Yesterday was about 87f. Velocities in Jan averaged 2424 and yesterday average was 2510. Disassembled the gun and started checking things. BCG and 20" fluted barrel are Faxon. Found the firing pin stick out was .046" and it seems the spec is .028" to .036". Also, measured the bolt face setback and found its .140" for which the usual measurement is .136". I don't see how wear would change that measurement, probably machined that way. I removed the firing pin, took .011" off and reprofiled the ball end on the lathe. Ended up with .0345" of stick out and fired a primed case with no powder or projectile and it fires no problem. Ordering a new firing pin but need it to work for now. So, a lot going on there but what's the opinion on the change? I know I was up there on pressure but Am I just passing the pressure limit due to the temperature? I have no reference how temperature stable H335 is. Should I just lower the charge to where its back to 2425 or so average? 
+ 
+6
+6.5SH
+Two Star General
+Full Member
+Minuteman
+Jul 24, 2020
+6,121
+10,564
+Sep 2, 2024
+#2
+Markbsae said:
+I have a load that I've been using for over a year. Hornady 123g SST, Nosler, CCI 400 primers and 28.2g of H335 at 2.255 COAL. Last time I used the chronograph was in January about 50f and they averaged 2455. Primers were flat but no piercing. Ran the chrono again to verify and build data but out of 60 fired cartridges I had 11 pierced primers and an starting to get extractor imprints on the cases. Yesterday was about 87f. Velocities in Jan averaged 2424 and yesterday average was 2510. Disassembled the gun and started checking things. BCG and 20" fluted barrel are Faxon. Found the firing pin stick out was .046" and it seems the spec is .028" to .036". Also, measured the bolt face setback and found its .140" for which the usual measurement is .136". I don't see how wear would change that measurement, probably machined that way. I removed the firing pin, took .011" off and reprofiled the ball end on the lathe. Ended up with .0345" of stick out and fired a primed case with no powder or projectile and it fires no problem. Ordering a new firing pin but need it to work for now. So, a lot going on there but what's the opinion on the change? I know I was up there on pressure but Am I just passing the pressure limit due to the temperature? I have no reference how temperature stable H335 is. Should I just lower the charge to where its back to 2425 or so average? View attachment 8493288
+Click to expand...
+H335 is not one of the "Extreme" family of powders and is temperature sensitive. You were already over pressure with flat primers during your colder outing in January.
+
+ETA:
+The H335 book maximum from Hodgdon is 26.9 gr with a 123 gr bullet.
+ 
+ 
+Reactions:
+Modoc, diggler1833 and RegionRat
+R
+RegionRat
+Gunny Sergeant
+Full Member
+Minuteman
+Aug 10, 2019
+740
+839
+Sep 2, 2024
+#3
+Like @6.5SH said, the Hodgdon site with a Sierra 123 grain shows a max of 26.9 grains.
+The Hornady 11th shows the 123 SST at a max of 26.4 and only doing 2300 fps out of an 18" bbl.
+
+By all accounts, I would re-think your 28.2 since you are roughly 2 grains over book max territory.
+
+And as you re-group and rework your load, yes that H335 is going to respond to hot/cold like most older ball powders that are not like a modern temp compensated version. so you will want a summer/winter version going forward.
+
+
+ 
+stello1001
+Professional Newb
+Full Member
+Minuteman
+Feb 20, 2017
+4,648
+3,334
+Corpus Christi TX
+Sep 2, 2024
+#4
+I mean, hate to say it but how did you not see this coming?
+
+You were already showing signs of pressure in January, one of the coolest months. Then you take the same load with temp sensitive powder and fire it during the hotter months...
+
+Luckily nothing worse happened. I do think what you experienced was simply that, an over pressure load reacting to the higher Temps.
+
+Op, now would be the time to back down the charge and have a summer load. This is probably gonna keep you out of trouble during the hot months hehe.
+ 
+M
+Markbsae
+Private
+Minuteman
+Jul 19, 2024
+30
+11
+CA
+Sep 2, 2024
+#5
+To all, good replies, thanks. I'm still working on getting a grasp on everything. One tough thing is that I have many sources for reloading data and for some a consensus can be drawn but not on all. I've found the Hornady data is extremely conservative for the most part but put me out in the weeds for .308 win with W748. Projected was 120 to 130 fps faster than what the chrono displayed. And that was for a bolt gun with nearly identical barrel characteristics to the test gun. As everyone usually says, they're a guide and a place to start. It seems from forum browsing people pass up max loads frequently so its hard to tell when and where to say something is hard and fast. The gun in question here is a gas gun and most reloading data doesn't have gas gun info so that makes it more difficult. I've been working up slowly and have only gotten flatter primers but no other signs. 2300 will add almost 5 moa at 750 which will make it to where I'll have to decrease magnification in order to see the holds in my EBR-2c reticle. I could always go lighter on the projectile but then its worse with wind which isn't favorable. Not to mention I have about 400 123's on hand.  Great info guys, which is why I'm here.
+ 
+M
+Markbsae
+Private
+Minuteman
+Jul 19, 2024
+30
+11
+CA
+Sep 2, 2024
+#6
+stello1001 said:
+I mean, hate to say it but how did you not see this coming?
+
+You were already showing signs of pressure in January, one of the coolest months. Then you take the same load with temp sensitive powder and fire it during the hotter months...
+
+Luckily nothing worse happened. I do think what you experienced was simply that, an over pressure load reacting to the higher Temps.
+
+Op, now would be the time to back down the charge and have a summer load. This is probably gonna keep you out of trouble during the hot months hehe.
+Click to expand...
+I had two different range trips in the warmer months with only flatter primers. This trip was the first with primer piercing.
+ 
+6
+6.5SH
+Two Star General
+Full Member
+Minuteman
+Jul 24, 2020
+6,121
+10,564
+Sep 2, 2024
+#7
+Markbsae said:
+I had two different range trips in the warmer months with only flatter primers. This trip was the first with primer piercing.
+The problem is Grendel is a low pressure cartridge. By the time you start seeing "classic" signs of pressure such as flat primers you are already well outside of being "just a little bit over". When picking load data pay attention to what platform is being used, what can be acceptable in a bolt gun can be instantly dangerous in an AR.
+ 
+ 
+Reactions:
+Pootyng and Markbsae
+Modoc
+Plays in Traffic
+Full Member
+Minuteman
+Jan 25, 2009
+2,587
+14,523
+Northern CA
+Sep 2, 2024
+#8
+I believe that the majority of Published data (not net) for the Grendel has the Gas Gun in mind. I too see H335 giving fluctuations in velocity (read pressure) as the weather changes. Being at the North end of the Sacramento Valley, load development is done in the summer and I re-zero at the start of deer season depending on the weather.
+ 
+ 
+Reactions:
+Markbsae and 6.5SH
+H
+hlee
+Sergeant
+Full Member
+Minuteman
+Jul 14, 2012
+12,529
+19,445
+46
+TX
+Sep 2, 2024
+#9
+If you can find it, xbr8208 will give much better velocities.
+ 
+ 
+Reactions:
+Markbsae
+stello1001
+Professional Newb
+Full Member
+Minuteman
+Feb 20, 2017
+4,648
+3,334
+Corpus Christi TX
+Sep 2, 2024
+#10
+Markbsae said:
+I had two different range trips in the warmer months with only flatter primers. This trip was the first with primer piercing.
+
+Oh gotcha! Do you recall if those other times it was as hot? Or maybe you had some rounds in the sun on this last outing. I know sometimes I'm distracted shooting and I have the rest of the ammo in direct sunlight.
+
+Have you considered tac or winchester staball match?
+
+These are supposed to the some of the more temp stable ball powders.
+
+Obviously stick powders are best, but the ones for grendel are impossible to find. That would be h4895, imr8208xbr, and arcomp.
+
+I suppose VV N133 or VV N135 could work but there's hardly anyone on any board posting success stories about those powders. There's load data for those just about anywhere, but very few people actually backing it up.
+
+I may try sometime VV N135 and just experiment with it.
+ 
+M
+misser
+Sergeant of the Hide
+Full Member
+Minuteman
+Oct 16, 2022
+400
+239
+clare mi
+Sep 3, 2024
+#11
+Markbsae said:
+I have a load that I've been using for over a year. Hornady 123g SST, Nosler, CCI 400 primers and 28.2g of H335 at 2.255 COAL. Last time I used the chronograph was in January about 50f and they averaged 2455. Primers were flat but no piercing. Ran the chrono again to verify and build data but out of 60 fired cartridges I had 11 pierced primers and an starting to get extractor imprints on the cases. Yesterday was about 87f. Velocities in Jan averaged 2424 and yesterday average was 2510. Disassembled the gun and started checking things. BCG and 20" fluted barrel are Faxon. Found the firing pin stick out was .046" and it seems the spec is .028" to .036". Also, measured the bolt face setback and found its .140" for which the usual measurement is .136". I don't see how wear would change that measurement, probably machined that way. I removed the firing pin, took .011" off and reprofiled the ball end on the lathe. Ended up with .0345" of stick out and fired a primed case with no powder or projectile and it fires no problem. Ordering a new firing pin but need it to work for now. So, a lot going on there but what's the opinion on the change? I know I was up there on pressure but Am I just passing the pressure limit due to the temperature? I have no reference how temperature stable H335 is. Should I just lower the charge to where its back to 2425 or so average? View attachment 8493288
+Click to expand...
+did you get them primers out ?
+ 
+M
+Markbsae
+Private
+Minuteman
+Jul 19, 2024
+30
+11
+CA
+Sep 3, 2024
+#12
+stello1001 said:
+Oh gotcha! Do you recall if those other times it was as hot? Or maybe you had some rounds in the sun on this last outing. I know sometimes I'm distracted shooting and I have the rest of the ammo in direct sunlight.
+
+Have you considered tac or winchester staball match?
+
+These are supposed to the some of the more temp stable ball powders.
+
+Obviously stick powders are best, but the ones for grendel are impossible to find. That would be h4895, imr8208xbr, and arcomp.
+
+I suppose VV N133 or VV N135 could work but there's hardly anyone on any board posting success stories about those powders. There's load data for those just about anywhere, but very few people actually backing it up.
+
+I may try sometime VV N135 and just experiment with it.
+Click to expand...
+Temps were similar to this last visit. I'm in the central valley so its regularly 115 in summer but the range I usually go to is typically 15-20 degrees cooler so 80-90f average those last couple of trips. I'm fortunate to have covered benches so no direct sunlight. I started loading this round just before covid and we all know how bad powder availability was and its barely coming back now. The only other cartridges I regularly load are .308 win and 22-250, both for Remington 700's. I had two lbs of H335 so I had to stick with it but it seems I need to explore other powders. TAC and XBR8208 look promising for better velocities without pressure problems. Staball match looks like its good for 2490 and XBR8208 2504. (both longer barrel of course) I'll see what I can source. I appreciate the input.
+ 
+M
+Markbsae
+Private
+Minuteman
+Jul 19, 2024
+30
+11
+CA
+Sep 3, 2024
+#13
+misser said:
+did you get them primers out ?
+haven't decapped yet. If anything I'm hoping they're not loose.
+ 
+M
+misser
+Sergeant of the Hide
+Full Member
+Minuteman
+Oct 16, 2022
+400
+239
+clare mi
+Sep 3, 2024
+#14
+Markbsae said:
+haven't decapped yet. If anything I'm hoping they're not loose.
+ya sometimes the decapping pin passes through the hole ,not pushing the primer out
+ 
+ 
+Reactions:
+Markbsae
+6
+6.5SH
+Two Star General
+Full Member
+Minuteman
+Jul 24, 2020
+6,121
+10,564
+Sep 3, 2024
+#15
+Markbsae said:
+Temps were similar to this last visit. I'm in the central valley so its regularly 115 in summer but the range I usually go to is typically 15-20 degrees cooler so 80-90f average those last couple of trips. I'm fortunate to have covered benches so no direct sunlight. I started loading this round just before covid and we all know how bad powder availability was and its barely coming back now. The only other cartridges I regularly load are .308 win and 22-250, both for Remington 700's. I had two lbs of H335 so I had to stick with it but it seems I need to explore other powders. TAC and XBR8208 look promising for better velocities without pressure problems. Staball match looks like its good for 2490 and XBR8208 2504. (both longer barrel of course) I'll see what I can source. I appreciate the input.
+Click to expand...
+TAC is temp sensitive as well, but a little slower burn rate than H335. XBR isn't temp sensitive but need to be careful with 123's, it is better suited for 120 gr and less.
+
+Given the poor availability of components since 2020 making compromises has been the norm. Just be conservative on where you start and your expectations. You seem to have a chronograph so let that be your guide, velocity isn't "free".
+ 
+ 
+Reactions:
+Markbsae
+stello1001
+Professional Newb
+Full Member
+Minuteman
+Feb 20, 2017
+4,648
+3,334
+Corpus Christi TX
+Sep 3, 2024
+#16
+6.5SH said:
+TAC is temp sensitive as well, but a little slower burn rate than H335. XBR isn't temp sensitive but need to be careful with 123's, it is better suited for 120 gr and less.
+
+Given the poor availability of components since 2020 making compromises has been the norm. Just be conservative on where you start and your expectations. You seem to have a chronograph so let that be your guide, velocity isn't "free".
+Click to expand...
+
+Yes, I should have been more clear. Tac is still going to be temp sensitive. However, my earlier comment was because I keep hearing by many people how Tac is one or the less sensitive ball powders. Nonetheless, it is still a double base ball powder. That said, it's usually pretty available and somewhat fairly priced.
+
+Last time I went out to the range with tac I had some loads that went up to 28.9 and I had no signs. Tomorrow I will continue going higher just so I know where I will find pressure with his particular barrel/rifle. Bear in mind, I'm in south texas with Temps up to the triple digits. Factory ammo was giving me flattened primers and very heavy bolt lift while my tac loads were perfectly fine. We'll see how tomorrow goes.
+
+I also loaded some 120s with varget all the way up to 30.2 grains. I know varget isn't optimal for the grendel but since it's fairly temp stable and I have it, I figured I'd give it a try. Most don't use it because they claim you can't get enough of it in the grendel case to achieve decent velocities but I was able to get it in there. Again, we'll see tomorrow what it shows.
+ 
+ 
+Reactions:
+Markbsae and 6.5SH
+R
+RegionRat
+Gunny Sergeant
+Full Member
+Minuteman
+Aug 10, 2019
+740
+839
+Sep 3, 2024
+#17
+Here is a generic 18in 6.5 Grendel with the Hodgdon web site max load. Estimates about 53.3 ksi going about 2372 fps.
+
+Here is the above but with your 28.2 grains H335. Estimates 62.1 ksi going about 2500 fps.
+
+YMMV
+ 
+ 
+Reactions:
+Markbsae and 6.5SH
+Doom
+Balding Eagle
+Full Member
+Minuteman
+Mar 24, 2013
+1,219
+984
+South of the Mason Dixon Line.
+Sep 3, 2024
+#18
+H335 is not a powder that can be loaded to max in mild weather and then shot in hot weather. You are lucky the primer pierced otherwise you would be looking at beating the bolt open. Not an easy task.
+ 
+ 
+Reactions:
+Markbsae and RegionRat
+krw
+Sergeant
+Full Member
+Minuteman
+Feb 28, 2004
+1,441
+399
+Arkansas
+Sep 3, 2024
+#19
+I have tried 3x to Love a Grendel. I still don’t have a use for them 
+ 
+diggler1833
+World's Okayest Rancher and Hog Hunter
+Full Member
+Minuteman
+Jul 22, 2007
+4,845
+20,918
+Oklahoma
+Sep 3, 2024
+#20
+As said probably several times already, one really has to be careful when doing initial load development in the winter...especially with powders like CFE-223, RL 15, 17, 19, 22, even TAC and AA2520 to an extent. I got into trouble several years ago with a TAC load in .308 that I developed in the winter (no pressure signs), and then ended up raising burrs on with the same load in the summer.
+
+As far as the Grendel, don't be afraid to look at N133/N135 since 8208-XBR has become unobtanium. They aren't any more temp stable than H335 but are still cheaper, and produce accuracy/velocity that are as consistent as anything else out there. As a handy, 250yd and in hunting cartridge for an AR I really like mine (here's where the long-range Grendel guys will pop up and blast me). I've had far better results with it on hogs than I have the 5.56.
+
+The 123gr SST in the Grendel is really a fantastic bullet if you can get it to shoot well.
+ 
+ 
+Reactions:
+Markbsae, RegionRat, stello1001 and 2 others
+spife7980
+Luchador
+Full Member
+Minuteman
+Supporter
+Feb 10, 2017
+13,626
+16,493
+Central TX
+Sep 3, 2024
+#21
+You need to step your primer game up too if you are going to be loading hot, use 450s instead of 400s.
+ 
+ 
+Reactions:
+Doom, Markbsae and RegionRat
+M
+Markbsae
+Private
+Minuteman
+Jul 19, 2024
+30
+11
+CA
+Sep 3, 2024
+#22
+RegionRat said:
+Here is a generic 18in 6.5 Grendel with the Hodgdon web site max load. Estimates about 53.3 ksi going about 2372 fps.
+View attachment 8493425
+Here is the above but with your 28.2 grains H335. Estimates 62.1 ksi going about 2500 fps.
+View attachment 8493427
+YMMV
+That program is amazingly detailed! The velocities are awfully close to what the chrono says for 28.2. My last velocity string showed lower velocities than your program does though. I have a 20" barrel and I was getting 2352 avg for 27.1 of H335. I'm going to have to back it down to safe levels to get me through the next few weeks and hope that will give me decent accuracy and a velocity I can deal with. After that I may consider working up the Sierra 107 MK's as Hornady jumps from 100 grain to 120. Thanks for some great input.
+ 
+ 
+Reactions:
+RegionRat
+M
+Markbsae
+Private
+Minuteman
+Jul 19, 2024
+30
+11
+CA
+Sep 3, 2024
+#23
+spife7980 said:
+You need to step your primer game up too if you are going to be loading hot, use 450s instead of 400s.
+The 400's seem to be the thinnest of the small rifle offerings. Locally I found gold medal match AR primers, at $155/1000! No #41's. I've never used the magnum 450's but will see if they have any. thanks
+ 
+Doom
+Balding Eagle
+Full Member
+Minuteman
+Mar 24, 2013
+1,219
+984
+South of the Mason Dixon Line.
+Sep 4, 2024
+#24
+I don't think anyone mentioned it so I will. The Hodgdon data gave a velocity of 2446 fps out of a 24inch barrel. Your 20" barrel is going to lose somewhere in the neighborhood of 90-100 fps which puts you about 2610 fps (2510+100) over the velocity that Hodgdon quoted (2446).
+
+The usual reason the Hodgdon data appears conservative is the test barrel has a minimum chamber dimension. Most production rifles have more generous chambers so the pressures and velocity run lower for a given powder charge. The maximum velocity though is a good indication of maximum pressure and we normally look at that maximum velocity as one of the guides as to what the max pressure may be.
+ 
+ 
+Reactions:
+RegionRat
+Doom
+Balding Eagle
+Full Member
+Minuteman
+Mar 24, 2013
+1,219
+984
+South of the Mason Dixon Line.
+Sep 4, 2024
+#25
+spife7980 said:
+You need to step your primer game up too if you are going to be loading hot, use 450s instead of 400s.
+Actually since this is a semi automatic rifle that is susceptible to slam fires its a good idea to run the 450's, BR4, Rem 7-1/2, or #41 primers which are more resistant to slam fires from the floating firing pin.
+ 
+ 
+Reactions:
+RegionRat
+M
+Markbsae
+Private
+Minuteman
+Jul 19, 2024
+30
+11
+CA
+Sep 5, 2024
+#26
+Doom said:
+Actually since this is a semi automatic rifle that is susceptible to slam fires its a good idea to run the 450's, BR4, Rem 7-1/2, or #41 primers which are more resistant to slam fires from the floating firing pin.
+Looking back, having a firing pin stick out of .046" you would think it would be more susceptible but I've never had one. My local dealer has Remington 7-1/2 and 450's. The 450 is probably what I'll pick up. thanks.
+ 
+You must log in or register to reply here.
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Reloading Depot
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/6-5-grendel-123g-sst-hand-loads-questions-about-velocity-vs-temp-vs-powder-batch.7230017/ 
+ ----- 

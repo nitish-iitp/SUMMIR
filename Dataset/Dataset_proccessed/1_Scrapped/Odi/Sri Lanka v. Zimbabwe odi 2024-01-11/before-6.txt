@@ -1,0 +1,725 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+The Armory
+Need some guidance on Tripod Heads
+ 
+Thread starter
+Laser1  
+Start date
+Jan 8, 2024
+L
+Laser1
+Sergeant
+Full Member
+Minuteman
+Dec 10, 2009
+362
+152
+67
+The Great State of Texas
+Jan 8, 2024
+#1
+I've got a Lefroto (sp?) on it now and it seems a bit wobbly so I am looking at getting another head. My rifle weights over 20#'s and I am looking for a head that will give me very good stability to shoot out to 300 yards. The rifle rests in a Hog Saddle. Any suggestions are appreciated.
+ 
+M
+Megalodong
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Mar 13, 2022
+147
+163
+Denver
+Jan 8, 2024
+#2
+ARCA
+ 
+ 
+Reactions:
+Jakeweb09 and mrmarklin
+T
+trob
+Sergeant
+Full Member
+Minuteman
+Oct 2, 2007
+569
+548
+Idaho
+Jan 9, 2024
+#3
+Can you post a picture of what your leofoto mount looks like?
+
+in a ball head, bigger is usually better. Leofoto makes good ones, which is why I’m curious what your setup looks like. I generally use a 55mm ball. It should be damn near rock-solid for 300y shots….i would ditch the hog saddle. Arca is easier to use and more stable in my opinion.
+ 
+Punkur67
+Supporter
+Supporter
+Full Member
+Minuteman
+Oct 11, 2019
+1,122
+2,027
+Jan 9, 2024
+#4
+Get an arca rail and an Anvil 30
+ 
+ 
+Reactions:
+Jakeweb09, M8541Reaper and TheOfficeT-Rex
+LuvDog
+Roof Korean
+Full Member
+Minuteman
+Oct 16, 2020
+1,212
+1,214
+Jan 9, 2024
+#5
+RRS Anvil
+ 
+ 
+Reactions:
+TheOfficeT-Rex
+L
+Laser1
+Sergeant
+Full Member
+Minuteman
+Dec 10, 2009
+362
+152
+67
+The Great State of Texas
+Jan 9, 2024
+#6
+Here is my Ball Head setup
+
+ 
+LuvDog
+Roof Korean
+Full Member
+Minuteman
+Oct 16, 2020
+1,212
+1,214
+Jan 9, 2024
+#7
+Do you have an Arca rail on your rifle - either as an attachment or built in to the chassis?
+ 
+L
+Laser1
+Sergeant
+Full Member
+Minuteman
+Dec 10, 2009
+362
+152
+67
+The Great State of Texas
+Jan 9, 2024
+#8
+No Arca rail on the chassis or built in. Its an AI Chassis in 338LM if that helps. Thanks for all the help...it is getting me in the right direction.
+ 
+MarinePMI
+Ban Cat Handler
+Staff member
+Moderator
+Commercial Supporter
+Full Member
+Minuteman
+ 
+Jun 3, 2010
+8,375
+13,432
+San Diego, Ca
+Jan 9, 2024
+#9
+Laser1 said:
+No Arca rail on the chassis or built in. Its an AI Chassis in 338LM if that helps. Thanks for all the help...it is getting me in the right direction.
+I'm pretty sure Sawtooth makes an ARCA rail for AI's. At least they did when I put one on my AI-AT.
+ 
+1911Shootist
+Gunny Sergeant
+Full Member
+Minuteman
+Feb 16, 2020
+512
+698
+MN
+Jan 9, 2024
+#10
+That head does look like it would suck.
+
+I prefer ball heads over leveling heads or Anvil30 style. But, I doubt those would fit on your tripod without some custom machining projects. I’d put a Leofoto LH-55 or LH-40 on there.
+ 
+T
+trob
+Sergeant
+Full Member
+Minuteman
+Oct 2, 2007
+569
+548
+Idaho
+Jan 10, 2024
+#11
+1911Shootist said:
+That head does look like it would suck.
+
+I prefer ball heads over leveling heads or Anvil30 style. But, I doubt those would fit on your tripod without some custom machining projects. I’d put a Leofoto LH-55 or LH-40 on there.
+Agreed. i dont know what brand that ball head is, but it looks…not good. Is it plastic?
+
+What tripod are you using? That’s another area that’s probably causing ‘wobble’
+
+
+Leofoto LH-55
+
+ 
+Last edited: Jan 10, 2024
+L
+Laser1
+Sergeant
+Full Member
+Minuteman
+Dec 10, 2009
+362
+152
+67
+The Great State of Texas
+Jan 10, 2024
+#12
+Fantastic information all. I'll start looking for an Arca rail and at these various ballheads. Thanks again.
+ 
+L
+Laser1
+Sergeant
+Full Member
+Minuteman
+Dec 10, 2009
+362
+152
+67
+The Great State of Texas
+Jan 10, 2024
+#13
+my tripod is a Gizmo aluminum. It seems to be ok and I don't think is the cause of wobble.
+ 
+S
+strikeeagle1
+Private
+Full Member
+Minuteman
+Feb 13, 2017
+1,506
+1,472
+Jan 10, 2024
+#14
+trob said:
+i dont know what brand that ball head is, but it looks…not good. Is it plastic?
+It looks like a knock-off of the Italian mfg. Manfrotto 054 which was light & strong magnesium, as I recall. A tier-1 mount in the day. The problem with combining that style head with the Hog was the threaded mounting points on the underside of the Hog are offset from the midline to make room for the saddle width adjusting screw.
+
+I tapped & threaded central mounting points and eventually used a rail to remove the vertical stem from the ball head and center the weight over the head.
+
+In the OP's photo its evident how the weighted saddle is off-center from the tripod head, which is not good with a 20 lb. rifle.
+
+Get the RRS with Anvil-30 head and their Duo arca-picatinny adapter .
+
+
+ 
+Last edited: Jan 10, 2024
+L
+Laser1
+Sergeant
+Full Member
+Minuteman
+Dec 10, 2009
+362
+152
+67
+The Great State of Texas
+Jan 10, 2024
+#15
+These pictures are super helpful as it give me a good visual of what to expect. I need to check my chassis and see what I have to work with. Thanks again.....
+ 
+1911Shootist
+Gunny Sergeant
+Full Member
+Minuteman
+Feb 16, 2020
+512
+698
+MN
+Jan 10, 2024
+#16
+Laser1 said:
+my tripod is a Gizmo aluminum. It seems to be ok and I don't think is the cause of wobble.
+It very likely is contributing to the wobble. Probably not as much as the plastic ball head though.
+
+If you don’t want to upgrade the whole thing right now, I would buy a ball head that would pair well with a new tripod in the future. The LH-55 mounts to a standard platform with a 3/8 screw, IIRC.
+ 
+atomic
+Private
+Minuteman
+May 18, 2021
+22
+19
+U.K
+Jan 10, 2024
+#17
+What type of shooting are you using it for?
+
+I have both a leveling base RRS SOAR Universal Leveling Base and a ball head from Leofoto with the MH-60. Both are good and easy to use. The RRS locks up with no perceptible shift to your point of aim but there is a very small amount with the Leofoto which is simply down to that type of design. I'm not sure there is a perfect option as both styles have their pros & cons and also keep in mind the MH-60 is a heavy thing at over twice the weight of the RRS Leveling Base so I wouldn't want to hump it around the back country. Over all I would say the win goes to the RRS but you pay for what you get!
+ 
+L
+Laser1
+Sergeant
+Full Member
+Minuteman
+Dec 10, 2009
+362
+152
+67
+The Great State of Texas
+Jan 10, 2024
+#18
+Stationary hog hunting for the most part. I need to get it out of the safe and see if there are any rails on it that I can use. I won't be toting a 20# rifle + thermal very far away from the truck.
+ 
+MarinePMI
+Ban Cat Handler
+Staff member
+Moderator
+Commercial Supporter
+Full Member
+Minuteman
+ 
+Jun 3, 2010
+8,375
+13,432
+San Diego, Ca
+Jan 10, 2024
+#19
+Laser1 said:
+Stationary hog hunting for the most part. I need to get it out of the safe and see if there are any rails on it that I can use. I won't be toting a 20# rifle + thermal very far away from the truck.
+You may be better off just getting a Abel Table or some other tactical table to attach to the tripod, and use a bag. It's usually better for multiple, fleeting targets (like pig hunting), when you need to shift to a new POA quickly.
+ 
+powdahound76
+Old tired dad
+Full Member
+Minuteman
+Sep 7, 2011
+10,320
+27,572
+Denver CO
+Jan 10, 2024
+#20
+I agree with MarinePMI, as a few years back I took his advice.
+Because I am cheap, I will recommend the basic 3d printed tac table and a bag vs the Able.
+I dont need a high dollar tac table.
+
+My buddies bust on me.
+
+I dont miss because of the table.
+
+
+I direct clamp to an Anvil and use the hog saddle too, just All depends on the application.
+ 
+D
+DeadFox
+Private
+Minuteman
+Apr 7, 2022
+12
+9
+Oregon
+Jan 10, 2024
+#21
+Does anyone that has used both an bunch actually prefer the hog saddle to just shooting off a bag on the tripod, or a bag on a Tac table?
+
+Curious, as I haven’t used a hog saddle and have been mostly shooting off a bag rather than anvil/arca for the last year.
+
+If using a bag on the tripod or a Tac table, why even use a tripod head?
+ 
+powdahound76
+Old tired dad
+Full Member
+Minuteman
+Sep 7, 2011
+10,320
+27,572
+Denver CO
+Jan 10, 2024
+#22
+All depends on use…..
+
+If Im hiking a few miles hunting, a light tripod with an arca clamp wins.
+Salmon River Solutions rail weighs .55 oz.
+I can use it for glassing too.
+
+Match? Depends
+
+Coyotes or pigs? Table and bag
+
+I have the Hog saddle for rifles that dont have an Arca rail and dont care to invest in putting one on
+ 
+S
+strikeeagle1
+Private
+Full Member
+Minuteman
+Feb 13, 2017
+1,506
+1,472
+Jan 10, 2024
+#23
+DeadFox said:
+Does anyone that has used both an bunch actually prefer the hog saddle to just shooting off a bag on the tripod, or a bag on a Tac table?
+
+Curious, as I haven’t used a hog saddle and have been mostly shooting off a bag rather than anvil/arca for the last year.
+A proper bag is much preferred to the Hog in my opinion; as mentioned Hog offset centering of mass and not to mention the the relatively
+"slippery" side polymer grips of the Hog vise (their Mod 7) which allow for an unattended heavy rifle to fall out of the mount. Using some Blue-Force Gear hardware, I added the over-the-top clamping paracord 550 to prevent the rifle from pitching out of the mount to the ground (my "Mod 8" !). A rifle never falls out of shooting bag. To date for me, the RRS tripod is the bomb, if the shooting situation allows for a tripod use.
+
+
+ 
+Last edited: Jan 10, 2024
+LuvDog
+Roof Korean
+Full Member
+Minuteman
+Oct 16, 2020
+1,212
+1,214
+Jan 10, 2024
+#24
+Laser1 said:
+my tripod is a Gizmo aluminum. It seems to be ok and I don't think is the cause of wobble.
+
+Gizmo or Gitzo?
+
+Gitzo tripods are great quality and very popular among the photography crowd. I have a few of their CF tripods and they are rock solid
+ 
+secondofangle2
+Online Training Member
+Full Member
+Minuteman
+Jul 3, 2017
+2,855
+3,111
+Jan 10, 2024
+#25
+What is the go-to $$$ doesn’t matter RRS set up (tripod and head) guys recommend?
+ 
+LuvDog
+Roof Korean
+Full Member
+Minuteman
+Oct 16, 2020
+1,212
+1,214
+Jan 11, 2024
+#26
+secondofangle2 said:
+What is the go-to $$$ doesn’t matter RRS set up (tripod and head) guys recommend?
+
+RRS will be the answer
+
+
+RRS SOAR
+Experience the height of precision with RRS SOAR. Discover our robust collection of sport optics equipment and advanced tools designed for outdoor enthusiasts seeking unrivaled quality and confidence.
+ rrssoar.com
+
+
+TVC-22i Mk2 SOAR Series Tripod
+Experience the TVC-22i Tripod by RRS, engineered for remarkable stability and endurance, ensuring optimal performance in all outdoor settings.
+ rrssoar.com
+
+
+Anvil-30 ARC Ball Head
+Discover the Anvil-30 Ball Head by RRS. With enhanced control and adaptability, it revolutionizes your outdoor experiences and equipment mounting.
+ rrssoar.com
+ 
+ 
+Reactions:
+secondofangle2
+L
+Laser1
+Sergeant
+Full Member
+Minuteman
+Dec 10, 2009
+362
+152
+67
+The Great State of Texas
+Jan 11, 2024
+#27
+The tripod is a Gitzo Carbon 6 and seems very stable. The ball head is plastic and seems to be the overall problem along with the Hogg Saddle.
+ 
+ 
+Reactions:
+LuvDog
+dirtytough
+Private
+Full Member
+Minuteman
+Dec 6, 2013
+188
+100
+ND
+Jan 11, 2024
+#28
+I’ve used a Gitzo for backpack hunting 20 years. Mines a little small for shooting off of but I have a few times. I bet if you change the head out it will help tremendously.
+ 
+B y r o n
+Private
+Full Member
+Minuteman
+Nov 8, 2004
+1,033
+691
+Western Kentucky
+Jan 11, 2024
+#29
+Laser1 said:
+The tripod is a Gitzo Carbon 6 and seems very stable. The ball head is plastic and seems to be the overall problem along with the Hogg Saddle.
+
+Here is what I chose for my Leofoto tripod:
+
+
+
+Arca and picatinny.
+ 
+MarinePMI
+Ban Cat Handler
+Staff member
+Moderator
+Commercial Supporter
+Full Member
+Minuteman
+ 
+Jun 3, 2010
+8,375
+13,432
+San Diego, Ca
+Jan 11, 2024
+#30
+DeadFox said:
+Does anyone that has used both an bunch actually prefer the hog saddle to just shooting off a bag on the tripod, or a bag on a Tac table?
+
+Curious, as I haven’t used a hog saddle and have been mostly shooting off a bag rather than anvil/arca for the last year.
+
+If using a bag on the tripod or a Tac table, why even use a tripod head?
+Click to expand...
+JMTCW, so take it for what it's worth...
+
+The HOG saddle is really outdated. It's better than nothing, but I have to say, I have one, and it's been under my bench for at least the last 8-10 years. It's just too clunky compared to everything else these days. Remember, it came out before most people were even trying to use a "cheater" of some sort. Early versions being a bunny eared bag attached to a short piece of wood/metal, with a 1/4-20 hole for the cheap Walmart tripod mounts. LR tactical matches really pushed the community to innovate, and so the HOG saddle came into being. It was (at the time) a great idea, but as tripods got better, more innovation happened, and you ended up with the RRS tripods, the RRS ARCA specification/standard, and a host of other options (like the anvil-30 inverted ballhead, and tac tables of various flavors), the HOG saddle just became outdated.
+
+If you're shooting off a bag, you really don't need a ball head (just place the bag over the apex of the tripod and shoot). That being said, most like the flexibility of having both options. One for direct attach scenarios/engagements, and the other for non-attached engagements (again, usually when dealing with multiple, fleeting targets).
+
+As to why to use a table? It's just a bit more stable for leaving a rifle independently rested on the tripod (when not on glass), as well as most support attaching things to them (like a Kestrel, stopwatch, Xero, etc.).
+
+As to the Anvil-30? It's main benefit is direct attach engagements, where there is a small field of view of the target (think overwatch) for a long period of time, and the desire for a lower, more stable position on the tripod itself. Also, if there is a need to pan to, and then focus on, a secondary TRP (think overwatch on an egress point, with a secondary egress point that may need to be switched to on the fly), the anvil-30 pans very smoothly. The Anvil also allows attachment of either ARCA or Picatinny rails. Since it's inverted, it's closer to the apex of the tripod legs, so is inherently more stable than an older style ballhead (where the ball is in the base, not the head).
+
+Ultimately, your engagement and shooting style should drive your selection of tripod, whether it's attached or not attached, and the degree of stability (practically) needed. There is no absolute right (or wrong) answer. It depends on the shooter, their familiarity (training) with their gear, and the engagement scenario.
+
+Again, JMTCW...
+ 
+MarinePMI
+Ban Cat Handler
+Staff member
+Moderator
+Commercial Supporter
+Full Member
+Minuteman
+ 
+Jun 3, 2010
+8,375
+13,432
+San Diego, Ca
+Jan 11, 2024
+#31
+B y r o n said:
+Here is what I chose for my Leofoto tripod:
+
+View attachment 8320591
+
+Arca and picatinny.
+Which is a Chinese-made knock off of the RRS attachment design. I'm not gonna open that can of worms, but people should know, and make that decision for themselves.
+ 
+B y r o n
+Private
+Full Member
+Minuteman
+Nov 8, 2004
+1,033
+691
+Western Kentucky
+Jan 11, 2024
+#32
+MarinePMI said:
+Which is a Chinese-made knock off of the RRS attachment design. I'm not gonna open that can of worms, but people should know, and make that decision for themselves.
+
+That may be however it also has twice the load capacity and matches the capacity of my Leofoto SO-322C tripod at about 1/3 the cost, tripod and head, of what RRS pieces cost.
+ 
+ 
+Reactions:
+the_assman and MarinePMI
+secondofangle2
+Online Training Member
+Full Member
+Minuteman
+Jul 3, 2017
+2,855
+3,111
+Jan 11, 2024
+#33
+MarinePMI said:
+Which is a Chinese-made knock off of the RRS attachment design. I'm not gonna open that can of worms, but people should know, and make that decision for themselves.
+apophasis​
+noun​
+apoph·a·sis ə-ˈpä-fə-səs
+
+1
+: the raising of an issue by claiming not to mention it (as in "we won't discuss his past crimes")
+… he indulges himself in apophasis about his
+ 
+MarinePMI
+Ban Cat Handler
+Staff member
+Moderator
+Commercial Supporter
+Full Member
+Minuteman
+ 
+Jun 3, 2010
+8,375
+13,432
+San Diego, Ca
+Jan 11, 2024
+#34
+secondofangle2 said:
+apophasis​
+noun​
+apoph·a·sis ə-ˈpä-fə-səs
+
+1
+: the raising of an issue by claiming not to mention it (as in "we won't discuss his past crimes")
+… he indulges himself in apophasis about his
+Click to expand...
+banning
+
+
+verb​
+Present participle of ban.
+noun​
+The act by which someone is banned; a prohibition.
+ 
+ 
+Reactions:
+zeroz and Threadcutter308
+L
+Laser1
+Sergeant
+Full Member
+Minuteman
+Dec 10, 2009
+362
+152
+67
+The Great State of Texas
+Jan 12, 2024
+#35
+Thanks to all who have helped. I need to do some research on what has been discussed, but I'm thinking the Anvil-30 will be the way to go. I will need to get an Arca rail for the AI chassis and will check with Sawtooth on this. Thanks again.
+ 
+ 
+Reactions:
+MarinePMI
+Rangemaster
+Step back behind the LINE, You UnSafe MF’s.
+Full Member
+Minuteman
+Oct 6, 2013
+913
+386
+High Sierra Desert
+Jan 13, 2024
+#36
+trob said:
+Agreed. i dont know what brand that ball head is, but it looks…not good. Is it plastic?
+
+What tripod are you using? That’s another area that’s probably causing ‘wobble’
+
+
+Leofoto LH-55
+View attachment 8319261
+Click to expand...
+^^^^^ this is what I run.
+ 
+You must log in or register to reply here.
+Similar threads
+	
+suggestions for building lightweight hunting tripod
+fastarget Dec 6, 2023 The Armory
+0
+Dec 6, 2023
+D
+	
+RRS Vs Fatboy Vs Two Vets Tripods
+Dan65 Oct 27, 2024 The Armory
+12
+Nov 9, 2024
+D
+	
+Precision Rifle Gear Tripod mounts
+dm250 Sep 4, 2024 The Armory
+8
+Sep 5, 2024
+	
+Issues shooting with a Tripod
+phantasm May 28, 2023 The Armory
+15
+May 28, 2023
+S
+	
+What is the state of LMT MWS-H complete uppers these days?
+Sid Post Sep 23, 2024 Semi-Automatic Rifles
+11
+Oct 11, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+The Armory
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/need-some-guidance-on-tripod-heads.7202754/ 
+ ----- 

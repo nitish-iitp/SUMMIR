@@ -1,0 +1,613 @@
+MENU
+Home Teams Only Have an Advantage in Cold Weather Cities
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Toronto Blue Jays Schedule
+Boston Red Sox Schedule
+Boston Red Sox vs Toronto Blue Jays Box Score: September 25, 2024
+MLB Scores — September 25, 2024
+SEA\t8\tFinal
+HOU\t1\t
+CHC\t6\tFinal
+PHI\t9\t
+CIN\t2\tFinal
+CLE\t5\t
+TBR\t1\tFinal
+DET\t7\t
+MIL\t1\tFinal
+PIT\t2\t
+KCR\t3\tFinal
+WSN\t0\t
+BAL\t9\tFinal
+NYY\t7\t
+BOS\t1\tFinal
+TOR\t6\t
+LAA\t3\tFinal
+CHW\t4\t(10)
+MIA\t3\tFinal
+MIN\t8\t
+STL\t5\tFinal
+COL\t2\t
+SFG\t2\tFinal
+ARI\t8\t
+TEX\t5\tFinal
+OAK\t1\t
+SDP\t3\tFinal
+LAD\t4\t
+MLB Scores & Standings on this Day
+Boston Red Sox
+1
+80-79
+Prev Game Next Game
+ 
+Toronto Blue Jays
+6
+74-85
+Prev Game Next Game
+Wednesday, September 25, 2024
+Start Time: 7:07 p.m. Local
+Attendance: 27,694
+Venue: Rogers Centre
+Game Duration: 2:30
+Night Game, on artificial turf
+Logos via Sports Logos.net / About logos
+ \t \t1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+
+\tBoston Red Sox\t0\t0\t0\t0\t0\t1\t0\t0\t0\t1\t7\t0
+
+\tToronto Blue Jays\t0\t0\t0\t2\t2\t0\t2\t0\tX\t6\t11\t1
+WP: Kevin Gausman (14-11) • LP: Richard Fitts (0-1)
+Boston Red Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Jarren Duran CF\t4\t1\t2\t0\t0\t0\t4\t.286\t.343\t.497\t.840\t11\t7\t0.012\t0.63\t0.052\t-0.039\t0.00%\t0.15\t0.4\t2\t0\t2B
+Wilyer Abreu RF\t2\t0\t0\t0\t1\t0\t3\t.256\t.325\t.467\t.792\t11\t4\t0.011\t0.71\t0.038\t-0.027\t0.00%\t0.17\t0.1\t2\t2\t
+   Romy Gonzalez PH-LF\t1\t0\t0\t0\t0\t1\t1\t.269\t.310\t.425\t.734\t6\t4\t-0.020\t0.69\t0.000\t-0.020\t-0.00%\t0.17\t-0.2\t1\t0\t
+Triston Casas 1B\t4\t0\t1\t1\t0\t1\t4\t.240\t.342\t.455\t.797\t18\t10\t0.041\t0.90\t0.085\t-0.044\t0.01%\t0.22\t0.4\t8\t0\t
+Tyler O'Neill LF-RF\t4\t0\t0\t0\t0\t2\t4\t.240\t.335\t.512\t.847\t20\t14\t-0.181\t1.08\t0.000\t-0.181\t-0.03%\t0.26\t-1.8\t0\t0\tGDP
+Masataka Yoshida DH\t4\t0\t1\t0\t0\t0\t4\t.283\t.350\t.419\t.769\t14\t10\t0.032\t0.48\t0.049\t-0.018\t0.01%\t0.12\t0.2\t0\t0\t2B
+Trevor Story SS\t2\t0\t0\t0\t2\t0\t4\t.253\t.337\t.391\t.728\t19\t10\t0.008\t0.92\t0.052\t-0.044\t0.00%\t0.22\t-0.1\t3\t1\t
+Nick Sogard 3B\t4\t0\t2\t0\t0\t0\t4\t.282\t.333\t.338\t.671\t15\t13\t-0.086\t1.06\t0.024\t-0.110\t-0.01%\t0.25\t-0.4\t0\t3\t
+Connor Wong C\t4\t0\t1\t0\t0\t1\t4\t.282\t.337\t.428\t.765\t15\t10\t-0.026\t0.90\t0.042\t-0.068\t-0.00%\t0.22\t-0.5\t6\t0\t
+Enmanuel Valdez 2B\t2\t0\t0\t0\t0\t0\t2\t.217\t.274\t.369\t.643\t3\t3\t-0.037\t0.72\t0.000\t-0.037\t-0.01%\t0.17\t-0.3\t1\t3\t
+   Vaughn Grissom PH-2B\t2\t0\t0\t0\t0\t1\t2\t.168\t.223\t.189\t.413\t7\t5\t-0.080\t0.86\t0.000\t-0.080\t-0.01%\t0.21\t-1.1\t1\t1\tGDP
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Richard Fitts P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Josh Winckowski P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Greg Weissert P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Chase Shugart P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t33\t1\t7\t1\t3\t6\t36\t.212\t.278\t.273\t.551\t139\t90\t-0.326\t0.83\t0.342\t-0.668\t-0.05%\t0.20\t-3.4\t24\t10\t
+2B: Masataka Yoshida (21, off Kevin Gausman); Jarren Duran (48, off Kevin Gausman).
+TB: Jarren Duran 3; Masataka Yoshida 2; Nick Sogard 2; Connor Wong; Triston Casas.
+GIDP: Tyler O'Neill (13); Vaughn Grissom (3).
+RBI: Triston Casas (30).
+Team LOB: 8.
+With RISP: 1 for 6.
+Fielding
+DP: 1. Nick Sogard-Vaughn Grissom-Triston Casas.
+Outfield Assists: Wilyer Abreu (Ernie Clement at 2nd base); Wilyer Abreu (Alejandro Kirk at 2nd base).
+Toronto Blue Jays 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Jonatan Clase CF\t3\t2\t3\t2\t1\t0\t4\t.264\t.316\t.358\t.674\t23\t14\t0.121\t0.62\t0.121\t0.000\t0%\t0.00\t2.9\t2\t0\tHR
+Nathan Lukes RF\t2\t0\t0\t0\t0\t0\t4\t.294\t.363\t.397\t.760\t7\t5\t-0.042\t0.86\t0.001\t-0.043\t0%\t0.00\t-0.7\t3\t0\t2·SH
+Vladimir Guerrero Jr. 1B\t4\t1\t2\t0\t0\t0\t4\t.325\t.398\t.550\t.947\t14\t11\t-0.003\t0.81\t0.076\t-0.079\t0%\t0.00\t-0.4\t6\t0\t2B
+Alejandro Kirk DH\t4\t1\t3\t3\t0\t0\t4\t.253\t.318\t.361\t.680\t10\t8\t0.179\t1.02\t0.215\t-0.036\t0%\t0.00\t2.3\t0\t0\t2B
+Addison Barger 3B\t4\t0\t0\t0\t0\t1\t4\t.200\t.251\t.360\t.611\t14\t12\t-0.042\t0.61\t0.000\t-0.042\t0%\t0.00\t-1.1\t1\t2\t
+Ernie Clement SS\t4\t0\t2\t1\t0\t1\t4\t.265\t.285\t.407\t.692\t15\t12\t0.034\t0.57\t0.056\t-0.022\t0%\t0.00\t0.7\t3\t3\t
+Leo Jimenez 2B\t4\t0\t0\t0\t0\t0\t4\t.222\t.324\t.352\t.676\t11\t9\t-0.035\t0.36\t0.000\t-0.035\t0%\t0.00\t-1.3\t2\t3\tGDP
+Joey Loperfido LF\t4\t1\t1\t0\t0\t3\t4\t.220\t.272\t.360\t.632\t19\t12\t-0.033\t0.44\t0.008\t-0.041\t0%\t0.00\t-0.2\t4\t0\t
+Tyler Heineman C\t2\t1\t0\t0\t1\t1\t3\t.111\t.385\t.111\t.496\t19\t11\t-0.003\t0.53\t0.022\t-0.025\t0%\t0.00\t-0.1\t6\t0\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Kevin Gausman P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Brendon Little P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t1\t
+   Erik Swanson P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Chad Green P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t31\t6\t11\t6\t2\t6\t35\t.355\t.394\t.516\t.910\t132\t94\t0.176\t0.65\t0.499\t-0.323\t0.00%\t0.00\t2.1\t27\t9\t
+2B: Vladimir Guerrero Jr. (44, off Richard Fitts); Alejandro Kirk (19, off Richard Fitts).
+HR: Jonatan Clase (1, off Josh Winckowski, 7th inn, 1 on, 1 out to Deep RF).
+SH: Nathan Lukes 2 (2, 2 off Richard Fitts).
+TB: Jonatan Clase 6; Alejandro Kirk 4; Vladimir Guerrero Jr. 3; Ernie Clement 2; Joey Loperfido.
+GIDP: Leo Jimenez (6).
+RBI: Alejandro Kirk 3 (54); Jonatan Clase 2 (5); Ernie Clement (50).
+2-out RBI: Alejandro Kirk 2.
+Team LOB: 5.
+With RISP: 3 for 8.
+Fielding
+DP: 2. Brendon Little-Leo Jimenez-Vladimir Guerrero Jr.; Ernie Clement-Leo Jimenez-Addison Barger.
+E: Ernie Clement (13).
+Boston Red Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Richard Fitts, L (0-1)\t5\t6\t4\t4\t2\t2\t0\t1.74\t22\t78\t56\t36\t6\t14\t6\t12\t4\t0\t39\t\t\t-0.154\t0.96\t-0.02%\t0.23\t-1.6
+Josh Winckowski\t1.2\t4\t2\t2\t0\t3\t1\t4.20\t9\t41\t26\t17\t5\t4\t2\t4\t2\t0\t\t0\t0\t-0.026\t0.17\t-0.00%\t0.04\t-1.5
+Greg Weissert\t0.1\t0\t0\t0\t0\t0\t0\t3.21\t1\t2\t2\t1\t0\t1\t0\t1\t0\t0\t\t2\t0\t0.003\t0.11\t0.00%\t0.03\t0.5
+Chase Shugart\t1\t1\t0\t0\t0\t1\t0\t4.70\t3\t11\t10\t6\t1\t3\t1\t1\t1\t0\t\t0\t0\t0.001\t0.03\t0.00%\t0.00\t0.5
+Team Totals\t8\t11\t6\t6\t2\t6\t1\t6.75\t35\t132\t94\t60\t12\t22\t9\t18\t7\t0\t39\t2\t0\t-0.176\t0.65\t-0.03%\t0.16\t-2.1
+
+Toronto Blue Jays 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Kevin Gausman, W (14-11)\t6\t4\t1\t1\t3\t3\t0\t3.83\t25\t93\t59\t43\t5\t11\t8\t11\t3\t0\t60\t\t\t0.263\t1.06\t0.00%\t0.00\t1.9
+Brendon Little, H (7)\t1\t2\t0\t0\t0\t1\t0\t3.38\t4\t14\t9\t4\t3\t2\t3\t0\t0\t0\t\t0\t0\t0.045\t0.89\t0.00%\t0.00\t0.5
+Erik Swanson\t1\t0\t0\t0\t0\t1\t0\t5.26\t3\t16\t12\t7\t4\t1\t0\t2\t0\t0\t\t0\t0\t0.011\t0.15\t0.00%\t0.00\t0.5
+Chad Green\t1\t1\t0\t0\t0\t1\t0\t3.21\t4\t16\t10\t6\t2\t2\t0\t3\t1\t0\t\t0\t0\t0.006\t0.09\t0.00%\t0.00\t0.5
+Team Totals\t9\t7\t1\t1\t3\t6\t0\t1.00\t36\t139\t90\t60\t14\t16\t11\t16\t4\t0\t60\t0\t0\t0.325\t0.83\t0.00%\t0.00\t3.4
+
+Balks: None.
+WP: Chad Green (1).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Tom Hanahan, 1B - Lance Barksdale, 2B - Nic Lentz, 3B - Scott Barry, LF - (none), RF - (none).
+Time of Game: 2:30.
+Attendance: 27,694.
+Field Condition: Unknown.
+Start Time Weather: 72° F, Wind 16mph out to Leftfield, Cloudy, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Red Sox
+1\tJarren Duran\tCF
+2\tWilyer Abreu\tRF
+3\tTriston Casas\t1B
+4\tTyler O'Neill\tLF
+5\tMasataka Yoshida\tDH
+6\tTrevor Story\tSS
+7\tNick Sogard\t3B
+8\tConnor Wong\tC
+9\tEnmanuel Valdez\t2B
+\tRichard Fitts\tP
+Blue Jays
+1\tJonatan Clase\tCF
+2\tNathan Lukes\tRF
+3\tVladimir Guerrero Jr.\t1B
+4\tAlejandro Kirk\tDH
+5\tAddison Barger\t3B
+6\tErnie Clement\tSS
+7\tLeo Jimenez\t2B
+8\tJoey Loperfido\tLF
+9\tTyler Heineman\tC
+\tKevin Gausman\tP
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Boston Red Sox vs. Toronto Blue Jays, September 25 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+TOR
+50%
+BOS
+Inning\tWin Pct
+1\t0.5
+2\t0.48
+3\t0.46
+4\t0.45
+5\t0.42
+6\t0.43
+7\t0.46
+8\t0.5
+9\t0.48
+10\t0.46
+11\t0.47
+12\t0.49
+13\t0.45
+14\t0.47
+15\t0.49
+16\t0.5
+17\t0.47
+18\t0.46
+19\t0.45
+20\t0.47
+21\t0.49
+22\t0.47
+23\t0.5
+24\t0.47
+25\t0.45
+26\t0.48
+27\t0.44
+28\t0.37
+29\t0.25
+30\t0.26
+31\t0.21
+32\t0.22
+33\t0.24
+34\t0.21
+35\t0.19
+36\t0.18
+37\t0.16
+38\t0.13
+39\t0.13
+40\t0.18
+41\t0.08
+42\t0.12
+43\t0.15
+44\t0.24
+45\t0.1
+46\t0.13
+47\t0.16
+48\t0.08
+49\t0.09
+50\t0.1
+51\t0.1
+52\t0.14
+53\t0.06
+54\t0.07
+55\t0.05
+56\t0.05
+57\t0.05
+58\t0.01
+59\t0.02
+60\t0.01
+61\t0.01
+62\t0.02
+63\t0.01
+64\t0.01
+65\t0
+66\t0
+67\t0.01
+68\t0.01
+69\t0
+70\t0.01
+71\t0
+72\t0
+73\t0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+t6\t1-4\t0\t12-\t3,(1-1) \tOO\tBOS\tTyler O'Neill\tKevin Gausman\t14%\t90%\tGround Ball Double Play: SS-2B-3B; T. O'Neill to 1B
+b4\t0-0\t0\t-2-\t3,(1-1) \tR\tTOR\tAlejandro Kirk\tRichard Fitts\t11%\t75%\tDouble to CF (Line Drive to Deep LF-CF); V. Guerrero Scores
+b5\t2-0\t2\t-23\t3,(0-2) \tRRO\tTOR\tAlejandro Kirk\tRichard Fitts\t10%\t92%\tSingle to RF (Fly Ball to Deep RF Line); T. Heineman Scores; J. Clase Scores; A. Kirk out at 2B/RF-SS
+t6\t0-4\t0\t12-\t5,(3-1) \tR\tBOS\tTriston Casas\tKevin Gausman\t-8%\t76%\tSingle to RF (Line Drive to CF-RF); J. Duran Scores; W. Abreu to 2B
+t6\t1-4\t2\t123\t4,(0-2) \tO\tBOS\tNick Sogard\tKevin Gausman\t8%\t92%\tFlyball: RF (RF Line)
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+Top of the 1st, Red Sox Batting, Tied 0-0, Blue Jays' Kevin Gausman facing 1-2-3
+t1\t0-0\t0\t---\t4,(1-2) \tO\tBOS\tJarren Duran\tKevin Gausman\t2%\t52%\tPopfly: SS (Deep SS)
+t1\t0-0\t1\t---\t2,(0-1) \tO\tBOS\tWilyer Abreu\tKevin Gausman\t2%\t54%\tGroundout: 2B-1B
+t1\t0-0\t2\t---\t5,(2-2) \tO\tBOS\tTriston Casas\tKevin Gausman\t1%\t55%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Blue Jays 0.
+Bottom of the 1st, Blue Jays Batting, Tied 0-0, Red Sox' Richard Fitts facing 1-2-3
+b1\t0-0\t0\t---\t5,(1-2) \t\tTOR\tJonatan Clase\tRichard Fitts\t4%\t58%\tSingle to RF (Line Drive to Deep CF-RF)
+b1\t0-0\t0\t1--\t1,(0-0) \tO\tTOR\tNathan Lukes\tRichard Fitts\t-2%\t57%\tBunt Groundout: 3B-1B/Sacrifice (Short 3B Line); J. Clase to 2B
+b1\t0-0\t1\t-2-\t2,(0-1) \tO\tTOR\tVladimir Guerrero Jr.\tRichard Fitts\t-3%\t54%\tGroundout: 2B-1B (SS-2B); J. Clase to 3B
+b1\t0-0\t2\t--3\t3,(1-1) \tO\tTOR\tAlejandro Kirk\tRichard Fitts\t-4%\t50%\tLineout: RF (CF-RF)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Blue Jays 0.
+Top of the 2nd, Red Sox Batting, Tied 0-0, Blue Jays' Kevin Gausman facing 4-5-6
+t2\t0-0\t0\t---\t3,(0-2) \tO\tBOS\tTyler O'Neill\tKevin Gausman\t2%\t52%\tStrikeout Swinging
+t2\t0-0\t1\t---\t3,(1-1) \tO\tBOS\tMasataka Yoshida\tKevin Gausman\t2%\t54%\tGroundout: SS-1B
+t2\t0-0\t2\t---\t7,(3-2) \t\tBOS\tTrevor Story\tKevin Gausman\t-1%\t53%\tWalk
+t2\t0-0\t2\t1--\t6,(1-2) \t\tBOS\tNick Sogard\tKevin Gausman\t-2%\t51%\tSingle to RF (Ground Ball); T. Story to 2B
+t2\t0-0\t2\t12-\t5,(2-2) \tO\tBOS\tConnor Wong\tKevin Gausman\t4%\t55%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 2 LOB. Red Sox 0, Blue Jays 0.
+Bottom of the 2nd, Blue Jays Batting, Tied 0-0, Red Sox' Richard Fitts facing 5-6-7
+b2\t0-0\t0\t---\t3,(0-2) \tO\tTOR\tAddison Barger\tRichard Fitts\t-2%\t53%\tGroundout: 2B-1B
+b2\t0-0\t1\t---\t3,(0-2) \tO\tTOR\tErnie Clement\tRichard Fitts\t-2%\t51%\tFlyball: RF (Deep CF-RF)
+b2\t0-0\t2\t---\t2,(0-1) \tO\tTOR\tLeo Jimenez\tRichard Fitts\t-1%\t50%\tLineout: SS
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Blue Jays 0.
+Top of the 3rd, Red Sox Batting, Tied 0-0, Blue Jays' Kevin Gausman facing 9-1-2
+t3\t0-0\t0\t---\t2,(0-1) \tO\tBOS\tEnmanuel Valdez\tKevin Gausman\t3%\t53%\tFlyball: LF (LF-CF)
+t3\t0-0\t1\t---\t2,(1-0) \tO\tBOS\tJarren Duran\tKevin Gausman\t2%\t54%\tFlyball: RF (Deep RF)
+t3\t0-0\t2\t---\t5,(3-1) \tO\tBOS\tWilyer Abreu\tKevin Gausman\t1%\t55%\tFlyball: LF (Deep LF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Blue Jays 0.
+Bottom of the 3rd, Blue Jays Batting, Tied 0-0, Red Sox' Richard Fitts facing 8-9-1
+b3\t0-0\t0\t---\t6,(2-2) \tO\tTOR\tJoey Loperfido\tRichard Fitts\t-2%\t53%\tStrikeout Swinging
+b3\t0-0\t1\t---\t5,(1-2) \tO\tTOR\tTyler Heineman\tRichard Fitts\t-2%\t51%\tPopfly: 2B (Deep 2B)
+b3\t0-0\t2\t---\t6,(3-2) \t\tTOR\tJonatan Clase\tRichard Fitts\t1%\t53%\tWalk
+b3\t0-0\t2\t1--\t1,(0-0) \tO\tTOR\tNathan Lukes\tRichard Fitts\t-3%\t50%\tFlyball: CF (Short CF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Red Sox 0, Blue Jays 0.
+Top of the 4th, Red Sox Batting, Tied 0-0, Blue Jays' Kevin Gausman facing 3-4-5
+t4\t0-0\t0\t---\t3,(2-0) \tO\tBOS\tTriston Casas\tKevin Gausman\t3%\t53%\tGroundout: 1B unassisted
+t4\t0-0\t1\t---\t7,(3-2) \tO\tBOS\tTyler O'Neill\tKevin Gausman\t2%\t55%\tGroundout: SS-1B
+t4\t0-0\t2\t---\t2,(0-1) \t\tBOS\tMasataka Yoshida\tKevin Gausman\t-3%\t52%\tDouble to LF (Line Drive to Short LF Line)
+t4\t0-0\t2\t-2-\t2,(0-1) \tO\tBOS\tTrevor Story\tKevin Gausman\t4%\t56%\tFoul Popfly: SS (3B into Foul Terr.)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Blue Jays 0.
+Bottom of the 4th, Blue Jays Batting, Tied 0-0, Red Sox' Richard Fitts facing 3-4-5
+b4\t0-0\t0\t---\t4,(1-2) \t\tTOR\tVladimir Guerrero Jr.\tRichard Fitts\t8%\t63%\tDouble to RF (Fly Ball to Deep CF-RF)
+b4\t0-0\t0\t-2-\t3,(1-1) \tR\tTOR\tAlejandro Kirk\tRichard Fitts\t11%\t75%\tDouble to CF (Line Drive to Deep LF-CF); V. Guerrero Scores
+b4\t1-0\t0\t-2-\t4,(0-2) \tO\tTOR\tAddison Barger\tRichard Fitts\t-1%\t74%\tGroundout: 2B-1B (2B-1B); A. Kirk to 3B
+b4\t1-0\t1\t--3\t4,(2-1) \tR\tTOR\tErnie Clement\tRichard Fitts\t6%\t79%\tSingle to LF (Ground Ball thru SS-3B Hole); A. Kirk Scores
+b4\t2-0\t1\t1--\t1,(0-0) \tO\tTOR\tLeo Jimenez\tRichard Fitts\t-2%\t78%\tFlyball: RF-SS/Forceout at 2B (Short CF-RF); L. Jimenez to 1B
+b4\t2-0\t2\t1--\t6,(3-2) \tO\tTOR\tJoey Loperfido\tRichard Fitts\t-2%\t76%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t2 runs, 3 hits, 0 errors, 1 LOB. Red Sox 0, Blue Jays 2.
+Top of the 5th, Red Sox Batting, Behind 0-2, Blue Jays' Kevin Gausman facing 7-8-9
+t5\t0-2\t0\t---\t2,(0-1) \tO\tBOS\tNick Sogard\tKevin Gausman\t3%\t79%\tFlyball: CF (Deep CF)
+t5\t0-2\t1\t---\t3,(0-2) \tO\tBOS\tConnor Wong\tKevin Gausman\t2%\t81%\tGroundout: 3B-1B
+t5\t0-2\t2\t---\t1,(0-0) \tO\tBOS\tEnmanuel Valdez\tKevin Gausman\t1%\t82%\tFlyball: RF (Deep RF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Blue Jays 2.
+Bottom of the 5th, Blue Jays Batting, Ahead 2-0, Red Sox' Richard Fitts facing 9-1-2
+b5\t2-0\t0\t---\t6,(3-2) \t\tTOR\tTyler Heineman\tRichard Fitts\t2%\t84%\tWalk
+b5\t2-0\t0\t1--\t5,(1-2) \t\tTOR\tJonatan Clase\tRichard Fitts\t3%\t87%\tSingle to 3B (Fly Ball to Short LF Line); T. Heineman to 2B
+b5\t2-0\t0\t12-\t3,(1-1) \tO\tTOR\tNathan Lukes\tRichard Fitts\t0%\t87%\tBunt Groundout: 3B-1B/Sacrifice (Weak 3B); T. Heineman to 3B; J. Clase to 2B
+b5\t2-0\t1\t-23\t2,(0-1) \tO\tTOR\tVladimir Guerrero Jr.\tRichard Fitts\t-5%\t82%\tPopfly: 1B (Deep 2B-1B)
+b5\t2-0\t2\t-23\t3,(0-2) \tRRO\tTOR\tAlejandro Kirk\tRichard Fitts\t10%\t92%\tSingle to RF (Fly Ball to Deep RF Line); T. Heineman Scores; J. Clase Scores; A. Kirk out at 2B/RF-SS
+\t\t\t\t\t\t\t\t\t2 runs, 2 hits, 0 errors, 0 LOB. Red Sox 0, Blue Jays 4.
+Top of the 6th, Red Sox Batting, Behind 0-4, Blue Jays' Kevin Gausman facing 1-2-3
+t6\t0-4\t0\t---\t1,(0-0) \t\tBOS\tJarren Duran\tKevin Gausman\t-4%\t88%\tDouble to LF (Line Drive to LF Line)
+t6\t0-4\t0\t-2-\t4,(3-0) \t\tBOS\tWilyer Abreu\tKevin Gausman\t-4%\t85%\tWalk
+t6\t0-4\t0\t12-\t5,(3-1) \tR\tBOS\tTriston Casas\tKevin Gausman\t-8%\t76%\tSingle to RF (Line Drive to CF-RF); J. Duran Scores; W. Abreu to 2B
+t6\t1-4\t0\t12-\t3,(1-1) \tOO\tBOS\tTyler O'Neill\tKevin Gausman\t14%\t90%\tGround Ball Double Play: SS-2B-3B; T. O'Neill to 1B
+t6\t1-4\t2\t1--\t5,(2-2) \t\tBOS\tMasataka Yoshida\tKevin Gausman\t-2%\t87%\tFielder's Choice 3B; T. O'Neill to 2B/Safe on E6 (catch); M. Yoshida to 1B
+\t\t\t\t\t\t\t\t\tForce Play Challenged by BOS manager (Alex Cora): Original call overturned as shown.
+t6\t1-4\t2\t12-\t7,(3-2) \t\tBOS\tTrevor Story\tKevin Gausman\t-4%\t84%\tWalk; T. O'Neill to 3B; M. Yoshida to 2B
+t6\t1-4\t2\t123\t4,(0-2) \tO\tBOS\tNick Sogard\tKevin Gausman\t8%\t92%\tFlyball: RF (RF Line)
+\t\t\t\t\t\t\t\t\t1 run, 2 hits, 1 error, 3 LOB. Red Sox 1, Blue Jays 4.
+Bottom of the 6th, Blue Jays Batting, Ahead 4-1, Red Sox' Josh Winckowski facing 5-6-7
+\t\t\t\t\t\t\t\t\t
+Josh Winckowski replaces Richard Fitts pitching
+
+b6\t4-1\t0\t---\t5,(2-2) \tO\tTOR\tAddison Barger\tJosh Winckowski\t-1%\t91%\tStrikeout Swinging
+b6\t4-1\t1\t---\t4,(1-2) \tO\tTOR\tErnie Clement\tJosh Winckowski\t-1%\t90%\tStrikeout Swinging
+b6\t4-1\t2\t---\t5,(2-2) \tO\tTOR\tLeo Jimenez\tJosh Winckowski\t0%\t90%\tGroundout: SS-1B
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Blue Jays 4.
+Top of the 7th, Red Sox Batting, Behind 1-4, Blue Jays' Brendon Little facing 8-9-1
+\t\t\t\t\t\t\t\t\t
+Brendon Little replaces Kevin Gausman pitching
+
+t7\t1-4\t0\t---\t3,(1-1) \t\tBOS\tConnor Wong\tBrendon Little\t-4%\t86%\tSingle to LF (Ground Ball thru SS-3B Hole)
+\t\t\t\t\t\t\t\t\t
+Vaughn Grissom pinch hits for Enmanuel Valdez (2B) batting 9th
+
+t7\t1-4\t0\t1--\t1,(0-0) \tOO\tBOS\tVaughn Grissom\tBrendon Little\t8%\t94%\tGround Ball Double Play: P-2B-1B (Weak SS-2B)
+t7\t1-4\t2\t---\t4,(2-1) \t\tBOS\tJarren Duran\tBrendon Little\t-1%\t93%\tSingle to 1B (Ground Ball)
+\t\t\t\t\t\t\t\t\t
+Romy Gonzalez pinch hits for Wilyer Abreu (RF) batting 2nd
+
+t7\t1-4\t2\t1--\t6,(2-2) \tO\tBOS\tRomy Gonzalez\tBrendon Little\t2%\t95%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 2 hits, 0 errors, 1 LOB. Red Sox 1, Blue Jays 4.
+Bottom of the 7th, Blue Jays Batting, Ahead 4-1, Red Sox' Josh Winckowski facing 8-9-1
+\t\t\t\t\t\t\t\t\t
+Vaughn Grissom moves from PH to 2B
+Romy Gonzalez moves from PH to LF
+Tyler O'Neill moves from LF to RF
+
+b7\t4-1\t0\t---\t3,(1-1) \t\tTOR\tJoey Loperfido\tJosh Winckowski\t1%\t95%\tSingle to LF (Ground Ball)
+b7\t4-1\t0\t1--\t8,(3-2) \tO\tTOR\tTyler Heineman\tJosh Winckowski\t-1%\t95%\tStrikeout Looking
+b7\t4-1\t1\t1--\t7,(3-2) \tRR\tTOR\tJonatan Clase\tJosh Winckowski\t4%\t99%\tHome Run (Fly Ball to Deep RF); J. Loperfido Scores
+b7\t6-1\t1\t---\t2,(1-0) \tO\tTOR\tNathan Lukes\tJosh Winckowski\t0%\t98%\tLineout: CF (Deep CF)
+b7\t6-1\t2\t---\t6,(2-2) \t\tTOR\tVladimir Guerrero Jr.\tJosh Winckowski\t0%\t99%\tSingle to CF (Fly Ball to Short CF)
+b7\t6-1\t2\t1--\t1,(0-0) \t\tTOR\tAlejandro Kirk\tJosh Winckowski\t0%\t99%\tSingle to RF (Line Drive to Deep CF-RF); V. Guerrero to 3B
+\t\t\t\t\t\t\t\t\t
+Greg Weissert replaces Josh Winckowski pitching
+
+b7\t6-1\t2\t1-3\t2,(0-1) \tO\tTOR\tAddison Barger\tGreg Weissert\t0%\t98%\tFlyball: LF (Deep LF)
+\t\t\t\t\t\t\t\t\t2 runs, 4 hits, 0 errors, 2 LOB. Red Sox 1, Blue Jays 6.
+Top of the 8th, Red Sox Batting, Behind 1-6, Blue Jays' Erik Swanson facing 3-4-5
+\t\t\t\t\t\t\t\t\t
+Erik Swanson replaces Brendon Little pitching
+
+t8\t1-6\t0\t---\t5,(1-2) \tO\tBOS\tTriston Casas\tErik Swanson\t1%\t99%\tFlyball: LF (Deep LF Line)
+t8\t1-6\t1\t---\t7,(2-2) \tO\tBOS\tTyler O'Neill\tErik Swanson\t0%\t99%\tStrikeout Swinging
+t8\t1-6\t2\t---\t4,(1-2) \tO\tBOS\tMasataka Yoshida\tErik Swanson\t0%\t100%\tFlyball: CF (Deep CF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Blue Jays 6.
+Bottom of the 8th, Blue Jays Batting, Ahead 6-1, Red Sox' Chase Shugart facing 6-7-8
+\t\t\t\t\t\t\t\t\t
+Chase Shugart replaces Greg Weissert pitching
+
+b8\t6-1\t0\t---\t4,(0-2) \t\tTOR\tErnie Clement\tChase Shugart\t0%\t100%\tSingle to LF (Line Drive to LF-CF)
+b8\t6-1\t0\t1--\t3,(0-2) \tOO\tTOR\tLeo Jimenez\tChase Shugart\t0%\t99%\tGround Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b8\t6-1\t2\t---\t4,(1-2) \tO\tTOR\tJoey Loperfido\tChase Shugart\t0%\t99%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 0 LOB. Red Sox 1, Blue Jays 6.
+Top of the 9th, Red Sox Batting, Behind 1-6, Blue Jays' Chad Green facing 6-7-8
+\t\t\t\t\t\t\t\t\t
+Chad Green replaces Erik Swanson pitching
+
+t9\t1-6\t0\t---\t3,(1-1) \tO\tBOS\tTrevor Story\tChad Green\t0%\t100%\tFlyball: LF (LF-CF)
+t9\t1-6\t1\t---\t3,(1-1) \t\tBOS\tNick Sogard\tChad Green\t0%\t99%\tSingle to CF (Line Drive to Deep CF)
+t9\t1-6\t1\t1--\t4,(2-1) \tO\tBOS\tConnor Wong\tChad Green\t0%\t100%\tPopfly: SS
+t9\t1-6\t2\t1--\t4,(1-2) \t\tBOS\tVaughn Grissom\tChad Green\t0%\t100%\tWild Pitch; N. Sogard to 2B
+t9\t1-6\t2\t-2-\t6,(2-2) \tO\tBOS\tVaughn Grissom\tChad Green\t0%\t100%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 1, Blue Jays 6.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Toronto Blue Jays Schedule Boston Red Sox Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Boston Red Sox vs Toronto Blue Jays Box Score: September 25, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/TOR/TOR202409250.shtml 
+ ----- 

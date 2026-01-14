@@ -1,0 +1,681 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Arizona Diamondbacks Schedule
+Los Angeles Dodgers Schedule
+Los Angeles Dodgers vs Arizona Diamondbacks Box Score: August 31, 2024
+MLB Scores — August 31, 2024
+STL\t6\tFinal
+NYY\t5\t
+CHC\t5\tFinal
+WSN\t3\t
+SDP\t4\tFinal
+TBR\t11\t
+PIT\t3\tFinal
+CLE\t0\t
+BOS\t1\tFinal
+DET\t2\t
+OAK\t2\tFinal
+TEX\t3\t
+NYM\t5\tFinal
+CHW\t3\t
+KCR\t2\tFinal
+HOU\t5\t
+TOR\t15\tFinal
+MIN\t0\t
+MIL\t5\tFinal
+CIN\t4\t
+ATL\t0\tFinal
+PHI\t3\t
+LAD\t8\tFinal
+ARI\t6\t
+BAL\t5\tFinal
+COL\t7\t
+MIA\t4\tFinal
+SFG\t3\t
+SEA\t4\tFinal
+LAA\t5\t
+MLB Scores & Standings on this Day
+Los Angeles Dodgers
+8
+82-54
+Prev Game Next Game
+ 
+Arizona Diamondbacks
+6
+76-60
+Prev Game Next Game
+Saturday, August 31, 2024
+Start Time: 5:10 p.m. Local
+Attendance: 50,041
+Venue: Chase Field
+Game Duration: 2:50
+Night Game, on artificial turf
+Logos via Sports Logos.net / About logos
+ \t \t1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+
+\tLos Angeles Dodgers\t3\t2\t0\t0\t1\t0\t0\t0\t2\t8\t16\t1
+
+\tArizona Diamondbacks\t4\t0\t1\t0\t0\t0\t1\t0\t0\t6\t5\t1
+WP: Ben Casparius (1-0) • LP: Ryan Thompson (7-4) • SV: Evan Phillips (18)
+Los Angeles Dodgers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Shohei Ohtani DH\t5\t1\t1\t2\t0\t1\t6\t.293\t.377\t.622\t.999\t30\t19\t-0.040\t1.40\t0.096\t-0.136\t-0.03%\t2.04\t-0.3\t0\t0\tHR,SF
+Mookie Betts RF\t5\t1\t1\t1\t0\t2\t5\t.297\t.390\t.490\t.880\t18\t12\t-0.112\t1.31\t0.089\t-0.201\t-0.10%\t1.91\t-0.4\t3\t0\tHR
+Freddie Freeman 1B\t5\t1\t3\t2\t0\t0\t5\t.286\t.382\t.486\t.868\t16\t10\t0.182\t1.17\t0.221\t-0.039\t0.16%\t1.71\t1.9\t9\t2\tHR
+Teoscar Hernández LF\t5\t0\t1\t0\t0\t1\t5\t.263\t.329\t.485\t.815\t17\t14\t-0.135\t1.53\t0.047\t-0.182\t-0.12%\t2.24\t-1.0\t1\t0\t2B
+Will Smith C\t4\t0\t2\t0\t1\t0\t5\t.245\t.328\t.429\t.757\t24\t15\t0.069\t1.17\t0.114\t-0.044\t0.06%\t1.71\t0.5\t6\t0\t
+   Chris Taylor PR-CF\t0\t1\t0\t0\t0\t0\t0\t.170\t.281\t.263\t.545\t\t\t0.000\t\t0.000\t0.000\t0%\t\t0.0\t1\t0\t
+Gavin Lux 2B\t4\t2\t2\t0\t1\t0\t5\t.252\t.313\t.396\t.709\t19\t14\t0.159\t1.48\t0.207\t-0.048\t0.14%\t2.17\t0.8\t1\t1\t2B
+Max Muncy 3B\t2\t1\t2\t1\t1\t0\t3\t.240\t.347\t.509\t.856\t11\t4\t0.182\t0.99\t0.182\t0.000\t0.16%\t1.45\t1.4\t0\t1\t
+   Enrique Hernández PH-3B\t1\t0\t0\t0\t0\t1\t2\t.216\t.274\t.352\t.626\t4\t4\t-0.060\t3.13\t0.019\t-0.078\t-0.05%\t4.59\t-0.9\t0\t1\tSH
+Miguel Rojas SS\t5\t1\t2\t0\t0\t0\t5\t.290\t.327\t.420\t.747\t10\t9\t-0.217\t2.07\t0.095\t-0.313\t-0.19%\t3.02\t-0.8\t1\t6\t2B
+Kevin Kiermaier CF\t2\t0\t0\t0\t0\t0\t2\t.199\t.239\t.320\t.559\t4\t4\t0.023\t2.00\t0.081\t-0.058\t0.02%\t2.93\t0.2\t2\t0\t
+   Tommy Edman PH-CF\t3\t0\t2\t2\t0\t0\t3\t.275\t.286\t.350\t.636\t11\t9\t0.495\t2.12\t0.521\t-0.025\t0.43%\t3.10\t2.0\t1\t0\tSB
+   Austin Barnes C\t0\t0\t0\t0\t0\t0\t0\t.250\t.323\t.300\t.623\t\t\t\t\t\t\t\t\t\t0\t0\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Gavin Stone P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\t1\t
+   Brent Honeywell Jr. P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Ben Casparius P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Evan Phillips P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t41\t8\t16\t8\t3\t5\t46\t.390\t.422\t.683\t1.105\t164\t114\t0.546\t1.58\t1.672\t-1.124\t0.48%\t2.31\t3.3\t27\t12\t
+2B: Miguel Rojas (21, off Merrill Kelly); Gavin Lux (21, off Merrill Kelly); Teoscar Hernández (28, off Kevin Ginkel).
+HR: Shohei Ohtani (44, off Merrill Kelly, 1st inn, 0 on, 0 outs to Deep CF); Mookie Betts (14, off Merrill Kelly, 1st inn, 0 on, 0 outs to Deep LF); Freddie Freeman (19, off Merrill Kelly, 1st inn, 0 on, 0 outs to Deep CF-RF).
+SF: Shohei Ohtani (5, off Merrill Kelly).
+SH: Enrique Hernández (1, off Ryan Thompson).
+TB: Freddie Freeman 6; Shohei Ohtani 4; Mookie Betts 4; Miguel Rojas 3; Gavin Lux 3; Max Muncy 2; Teoscar Hernández 2; Tommy Edman 2; Will Smith 2.
+RBI: Tommy Edman 2 (3); Freddie Freeman 2 (78); Shohei Ohtani 2 (98); Mookie Betts (55); Max Muncy (35).
+2-out RBI: Tommy Edman 2; Freddie Freeman; Max Muncy.
+Team LOB: 11.
+With RISP: 3 for 13.
+Fielding
+E: Max Muncy (5).
+Baserunning
+SB: Tommy Edman (3, 2nd base off Ryan Thompson/Adrian Del Castillo).
+Arizona Diamondbacks 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Corbin Carroll RF\t3\t1\t1\t2\t0\t1\t4\t.228\t.313\t.428\t.741\t16\t9\t0.083\t1.48\t0.135\t-0.053\t0.07%\t2.01\t0.7\t3\t0\tHR,SF
+Jake McCarthy CF\t4\t1\t1\t0\t0\t1\t4\t.299\t.370\t.440\t.810\t11\t8\t-0.020\t0.79\t0.038\t-0.057\t-0.02%\t1.07\t0.0\t3\t0\t
+Joc Pederson DH\t4\t1\t1\t0\t0\t1\t4\t.283\t.403\t.538\t.941\t15\t12\t0.016\t1.26\t0.107\t-0.091\t0.01%\t1.71\t0.5\t0\t0\t
+Lourdes Gurriel Jr. LF\t4\t2\t2\t3\t0\t0\t4\t.275\t.317\t.431\t.747\t10\t7\t0.155\t1.34\t0.231\t-0.076\t0.13%\t1.81\t1.7\t2\t0\tHR,2B
+Pavin Smith 1B\t3\t0\t0\t0\t1\t0\t4\t.253\t.318\t.440\t.758\t21\t13\t0.014\t1.24\t0.073\t-0.059\t0.01%\t1.68\t-0.0\t7\t2\t
+Adrian Del Castillo C\t3\t0\t0\t0\t1\t1\t4\t.321\t.400\t.528\t.928\t22\t12\t-0.103\t1.46\t0.019\t-0.122\t-0.08%\t1.98\t-0.5\t5\t0\t
+Eugenio Suárez 3B\t3\t0\t0\t1\t0\t0\t4\t.236\t.305\t.432\t.737\t15\t10\t-0.107\t1.54\t0.011\t-0.118\t-0.09%\t2.08\t-0.7\t1\t3\tSF
+Luis Guillorme 2B\t2\t1\t0\t0\t1\t0\t3\t.210\t.296\t.280\t.576\t14\t6\t0.100\t1.52\t0.140\t-0.040\t0.08%\t2.05\t0.2\t3\t4\t
+   Josh Bell PH\t1\t0\t0\t0\t0\t0\t1\t.246\t.313\t.407\t.721\t3\t1\t-0.016\t0.58\t0.000\t-0.016\t-0.01%\t0.78\t-0.1\t0\t0\t
+Geraldo Perdomo SS\t2\t0\t0\t0\t0\t2\t3\t.274\t.343\t.387\t.730\t14\t8\t-0.074\t1.52\t0.000\t-0.074\t-0.06%\t2.06\t-0.6\t0\t1\tSH
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Merrill Kelly P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\t0\t
+   Joe Mantiply P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Kevin Ginkel P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   A.J. Puk P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Ryan Thompson P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t2\t
+   Justin Martinez P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t29\t6\t5\t6\t3\t6\t35\t.172\t.235\t.414\t.649\t141\t86\t0.048\t1.32\t0.754\t-0.706\t0.04%\t1.79\t1.3\t27\t12\t
+2B: Lourdes Gurriel Jr. (22, off Gavin Stone).
+HR: Corbin Carroll (19, off Gavin Stone, 1st inn, 0 on, 0 outs to Deep CF); Lourdes Gurriel Jr. (17, off Gavin Stone, 3rd inn, 0 on, 1 out to Deep LF Line).
+SF: Eugenio Suárez (10, off Gavin Stone); Corbin Carroll (7, off Brent Honeywell Jr.).
+SH: Geraldo Perdomo (4, off Brent Honeywell Jr.).
+TB: Lourdes Gurriel Jr. 6; Corbin Carroll 4; Joc Pederson; Jake McCarthy.
+RBI: Lourdes Gurriel Jr. 3 (70); Corbin Carroll 2 (63); Eugenio Suárez (83).
+Team LOB: 2.
+With RISP: 1 for 4.
+Fielding
+DP: 1. Eugenio Suárez-Pavin Smith.
+E: Merrill Kelly (2).
+Los Angeles Dodgers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Gavin Stone\t5\t5\t5\t5\t1\t4\t2\t3.53\t21\t84\t51\t29\t7\t15\t11\t5\t1\t0\t40\t\t\t-0.206\t0.97\t-0.18%\t1.42\t-2.4
+Brent Honeywell Jr., BS (1)\t2\t0\t1\t1\t2\t2\t0\t2.45\t8\t35\t19\t11\t2\t6\t3\t1\t0\t0\t\t0\t0\t-0.045\t2.06\t-0.04%\t3.01\t0.0
+Ben Casparius, W (1-0)\t1\t0\t0\t0\t0\t0\t0\t0.00\t3\t12\t10\t5\t0\t5\t0\t3\t1\t0\t\t0\t0\t0.109\t1.42\t0.10%\t2.08\t0.5
+Evan Phillips, S (18)\t1\t0\t0\t0\t0\t0\t0\t3.22\t3\t10\t6\t5\t0\t1\t1\t2\t0\t0\t\t0\t0\t0.095\t1.23\t0.08%\t1.80\t0.5
+Team Totals\t9\t5\t6\t6\t3\t6\t2\t6.00\t35\t141\t86\t50\t9\t27\t15\t11\t2\t0\t40\t0\t0\t-0.047\t1.32\t-0.04%\t1.93\t-1.3
+
+Arizona Diamondbacks 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Merrill Kelly\t5.1\t10\t6\t4\t1\t1\t3\t4.30\t27\t83\t59\t41\t6\t12\t9\t16\t7\t0\t28\t\t\t-0.340\t1.09\t-0.28%\t1.48\t-3.2
+Joe Mantiply\t1\t0\t0\t0\t0\t1\t0\t3.71\t3\t12\t8\t5\t2\t1\t1\t1\t0\t0\t\t0\t0\t0.057\t0.74\t0.05%\t1.00\t0.5
+Kevin Ginkel\t0\t1\t0\t0\t2\t0\t0\t2.51\t3\t18\t10\t5\t3\t2\t0\t1\t1\t0\t\t0\t0\t-0.124\t1.39\t-0.10%\t1.88\t-1.3
+A.J. Puk\t1\t1\t0\t0\t0\t2\t0\t3.38\t4\t16\t11\t6\t2\t3\t1\t1\t0\t0\t\t3\t0\t0.154\t2.58\t0.12%\t3.49\t1.6
+Ryan Thompson, L (7-4)\t1\t3\t2\t2\t0\t1\t0\t2.72\t6\t22\t17\t11\t3\t3\t3\t2\t2\t0\t\t1\t0\t-0.106\t2.83\t-0.09%\t3.83\t-0.4
+Justin Martinez\t0.2\t1\t0\t0\t0\t0\t0\t2.08\t3\t13\t9\t6\t2\t1\t0\t3\t3\t0\t\t2\t2\t-0.188\t2.45\t-0.15%\t3.31\t-0.6
+Team Totals\t9\t16\t8\t6\t3\t5\t3\t6.00\t46\t164\t114\t74\t18\t22\t14\t24\t13\t0\t28\t6\t2\t-0.547\t1.58\t-0.44%\t2.14\t-3.3
+
+Kevin Ginkel faced 3 batters in the 7th inning.
+
+Balks: None.
+WP: Brent Honeywell Jr. 2 (2); Justin Martinez (6).
+HBP: None.
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Adrian Johnson, 1B - Junior Valentine, 2B - Ramon De Jesus, 3B - Quinn Wolcott, LF - (none), RF - (none).
+Time of Game: 2:50.
+Attendance: 50,041.
+Start Time Weather: 78° F, Wind 0mph, In Dome.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Dodgers
+1\tShohei Ohtani\tDH
+2\tMookie Betts\tRF
+3\tFreddie Freeman\t1B
+4\tTeoscar Hernández\tLF
+5\tWill Smith\tC
+6\tGavin Lux\t2B
+7\tMax Muncy\t3B
+8\tMiguel Rojas\tSS
+9\tKevin Kiermaier\tCF
+\tGavin Stone\tP
+Diamondbacks
+1\tCorbin Carroll\tRF
+2\tJake McCarthy\tCF
+3\tJoc Pederson\tDH
+4\tLourdes Gurriel Jr.\tLF
+5\tPavin Smith\t1B
+6\tAdrian Del Castillo\tC
+7\tEugenio Suárez\t3B
+8\tLuis Guillorme\t2B
+9\tGeraldo Perdomo\tSS
+\tMerrill Kelly\tP
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Los Angeles Dodgers vs. Arizona Diamondbacks, August 31
+2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+ARI
+50%
+LAD
+Inning\tWin Pct
+1\t0.5
+2\t0.6
+3\t0.69
+4\t0.76
+5\t0.75
+6\t0.76
+7\t0.73
+8\t0.65
+9\t0.61
+10\t0.5
+11\t0.39
+12\t0.41
+13\t0.39
+14\t0.38
+15\t0.4
+16\t0.44
+17\t0.5
+18\t0.58
+19\t0.57
+20\t0.5
+21\t0.6
+22\t0.56
+23\t0.58
+24\t0.6
+25\t0.61
+26\t0.59
+27\t0.57
+28\t0.59
+29\t0.62
+30\t0.56
+31\t0.59
+32\t0.47
+33\t0.49
+34\t0.5
+35\t0.47
+36\t0.45
+37\t0.44
+38\t0.47
+39\t0.49
+40\t0.5
+41\t0.47
+42\t0.45
+43\t0.48
+44\t0.61
+45\t0.58
+46\t0.62
+47\t0.64
+48\t0.66
+49\t0.63
+50\t0.62
+51\t0.6
+52\t0.64
+53\t0.6
+54\t0.57
+55\t0.63
+56\t0.69
+57\t0.67
+58\t0.71
+59\t0.73
+60\t0.79
+61\t0.71
+62\t0.63
+63\t0.56
+64\t0.59
+65\t0.53
+66\t0.48
+67\t0.5
+68\t0.57
+69\t0.5
+70\t0.54
+71\t0.44
+72\t0.48
+73\t0.39
+74\t0.44
+75\t0.47
+76\t0.5
+77\t0.58
+78\t0.7
+79\t0.72
+80\t0.51
+81\t0.91
+82\t0.92
+83\t0.91
+84\t0.95
+85\t0.98
+86\t1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+t9\t6-6\t2\t-23\t5,(1-2) \tRR\tLAD\tTommy Edman\tJustin Martinez\t41%\t91%\tSingle to RF (Line Drive to Short CF-RF); C. Taylor Scores; G. Lux Scores
+t9\t6-6\t1\t-23\t2,(0-1) \tO\tLAD\tMiguel Rojas\tJustin Martinez\t-21%\t51%\tLineout: 2B
+t5\t5-5\t2\t-2-\t2,(1-0) \tR\tLAD\tMax Muncy\tMerrill Kelly\t13%\t61%\tSingle to RF (Line Drive); G. Lux Scores
+b3\t4-5\t1\t---\t3,(2-0) \tR\tARI\tLourdes Gurriel Jr.\tGavin Stone\t-12%\t47%\tHome Run (Fly Ball to Deep LF Line)
+t9\t6-6\t0\t1--\t3,(0-2) \t\tLAD\tGavin Lux\tRyan Thompson\t12%\t70%\tSingle to CF (Ground Ball thru SS-2B); C. Taylor to 2B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+Top of the 1st, Dodgers Batting, Tied 0-0, Diamondbacks' Merrill Kelly facing 1-2-3
+t1\t0-0\t0\t---\t8,(3-2) \tR\tLAD\tShohei Ohtani\tMerrill Kelly\t10%\t60%\tHome Run (Fly Ball to Deep CF)
+t1\t1-0\t0\t---\t2,(0-1) \tR\tLAD\tMookie Betts\tMerrill Kelly\t9%\t69%\tHome Run (Fly Ball to Deep LF)
+t1\t2-0\t0\t---\t1,(0-0) \tR\tLAD\tFreddie Freeman\tMerrill Kelly\t8%\t76%\tHome Run (Fly Ball to Deep CF-RF)
+t1\t3-0\t0\t---\t1,(0-0) \tO\tLAD\tTeoscar Hernández\tMerrill Kelly\t-1%\t75%\tFoul Popfly: 1B (1B into Foul Terr.)
+t1\t3-0\t1\t---\t1,(0-0) \t\tLAD\tWill Smith\tMerrill Kelly\t2%\t76%\tSingle to LF (Line Drive to Short LF)
+t1\t3-0\t1\t1--\t1,(0-0) \tOO\tLAD\tGavin Lux\tMerrill Kelly\t-3%\t73%\tDouble Play: Lineout: 3B; W. Smith out at 1B/3B-1B
+\t\t\t\t\t\t\t\t\t3 runs, 4 hits, 0 errors, 0 LOB. Dodgers 3, Diamondbacks 0.
+Bottom of the 1st, Diamondbacks Batting, Behind 0-3, Dodgers' Gavin Stone facing 1-2-3
+b1\t0-3\t0\t---\t3,(1-1) \tR\tARI\tCorbin Carroll\tGavin Stone\t-8%\t65%\tInside-the-park Home Run to CF (Fly Ball to Deep CF)
+b1\t1-3\t0\t---\t2,(1-0) \t\tARI\tJake McCarthy\tGavin Stone\t-4%\t61%\tSingle to SS (Ground Ball)
+b1\t1-3\t0\t1--\t3,(1-2) \t\tARI\tJoc Pederson\tGavin Stone\t-11%\t50%\tSingle to CF (Ground Ball); J. McCarthy to 3B; J. Pederson to 2B/Adv on E5
+b1\t1-3\t0\t-23\t1,(0-0) \tRR\tARI\tLourdes Gurriel Jr.\tGavin Stone\t-11%\t39%\tDouble to LF (Line Drive); J. McCarthy Scores; J. Pederson Scores
+b1\t3-3\t0\t-2-\t1,(0-0) \tO\tARI\tPavin Smith\tGavin Stone\t1%\t41%\tGroundout: 1B-P; L. Gurriel to 3B
+b1\t3-3\t1\t--3\t5,(3-1) \t\tARI\tAdrian Del Castillo\tGavin Stone\t-2%\t39%\tWalk
+b1\t3-3\t1\t1-3\t1,(0-0) \tRO\tARI\tEugenio Suárez\tGavin Stone\t-1%\t38%\tFlyball: CF/Sacrifice Fly (Deep CF-RF); L. Gurriel Scores
+b1\t4-3\t2\t1--\t3,(1-1) \tO\tARI\tLuis Guillorme\tGavin Stone\t2%\t40%\tGroundout: SS unassisted/Forceout at 2B (SS-2B); L. Guillorme to 1B
+\t\t\t\t\t\t\t\t\t4 runs, 4 hits, 1 error, 1 LOB. Dodgers 3, Diamondbacks 4.
+Top of the 2nd, Dodgers Batting, Behind 3-4, Diamondbacks' Merrill Kelly facing 7-8-9
+t2\t3-4\t0\t---\t4,(2-1) \t\tLAD\tMax Muncy\tMerrill Kelly\t4%\t44%\tSingle to RF (Line Drive to Deep RF)
+t2\t3-4\t0\t1--\t1,(0-0) \t\tLAD\tMiguel Rojas\tMerrill Kelly\t6%\t50%\tSingle to RF (Line Drive to CF-RF); M. Muncy to 2B
+t2\t3-4\t0\t12-\t2,(0-1) \t\tLAD\tKevin Kiermaier\tMerrill Kelly\t8%\t58%\tFielder's Choice P; M. Muncy to 3B/Adv on E1 (throw); M. Rojas to 2B; K. Kiermaier to 1B
+t2\t3-4\t0\t123\t2,(0-1) \tRO\tLAD\tShohei Ohtani\tMerrill Kelly\t-1%\t57%\tFlyball: CF/Sacrifice Fly (Deep CF); M. Muncy Scores/unER; M. Rojas to 3B
+t2\t4-4\t1\t1-3\t4,(1-2) \tO\tLAD\tMookie Betts\tMerrill Kelly\t-7%\t50%\tStrikeout Swinging
+t2\t4-4\t2\t1-3\t6,(2-2) \tR\tLAD\tFreddie Freeman\tMerrill Kelly\t10%\t60%\tSingle to CF (Line Drive); M. Rojas Scores/unER; K. Kiermaier to 3B
+t2\t5-4\t2\t1-3\t3,(1-1) \tO\tLAD\tTeoscar Hernández\tMerrill Kelly\t-5%\t56%\tGroundout: 3B-1B (SS-3B Hole)
+\t\t\t\t\t\t\t\t\t2 runs, 3 hits, 1 error, 2 LOB. Dodgers 5, Diamondbacks 4.
+Bottom of the 2nd, Diamondbacks Batting, Behind 4-5, Dodgers' Gavin Stone facing 9-1-2
+b2\t4-5\t0\t---\t5,(2-2) \tO\tARI\tGeraldo Perdomo\tGavin Stone\t3%\t58%\tStrikeout Swinging
+b2\t4-5\t1\t---\t5,(2-2) \tO\tARI\tCorbin Carroll\tGavin Stone\t2%\t60%\tStrikeout Swinging
+b2\t4-5\t2\t---\t2,(0-1) \tO\tARI\tJake McCarthy\tGavin Stone\t1%\t61%\tGroundout: 1B-P (2B-1B)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 5, Diamondbacks 4.
+Top of the 3rd, Dodgers Batting, Ahead 5-4, Diamondbacks' Merrill Kelly facing 5-6-7
+t3\t5-4\t0\t---\t2,(0-1) \tO\tLAD\tWill Smith\tMerrill Kelly\t-2%\t59%\tGroundout: SS-1B
+t3\t5-4\t1\t---\t3,(0-2) \tO\tLAD\tGavin Lux\tMerrill Kelly\t-2%\t57%\tFlyball: CF (Deep CF)
+t3\t5-4\t2\t---\t5,(3-1) \t\tLAD\tMax Muncy\tMerrill Kelly\t1%\t59%\tWalk
+t3\t5-4\t2\t1--\t2,(0-1) \t\tLAD\tMiguel Rojas\tMerrill Kelly\t3%\t62%\tDouble to LF (Ground Ball); M. Muncy to 3B
+t3\t5-4\t2\t-23\t2,(0-1) \tO\tLAD\tKevin Kiermaier\tMerrill Kelly\t-6%\t56%\tGroundout: 2B-1B (2B-1B)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 2 LOB. Dodgers 5, Diamondbacks 4.
+Bottom of the 3rd, Diamondbacks Batting, Behind 4-5, Dodgers' Gavin Stone facing 3-4-5
+b3\t4-5\t0\t---\t3,(0-2) \tO\tARI\tJoc Pederson\tGavin Stone\t3%\t59%\tGroundout: SS-1B (Front of Home)
+b3\t4-5\t1\t---\t3,(2-0) \tR\tARI\tLourdes Gurriel Jr.\tGavin Stone\t-12%\t47%\tHome Run (Fly Ball to Deep LF Line)
+b3\t5-5\t1\t---\t5,(2-2) \tO\tARI\tPavin Smith\tGavin Stone\t2%\t49%\tGroundout: SS-1B (Deep SS)
+b3\t5-5\t2\t---\t8,(3-2) \tO\tARI\tAdrian Del Castillo\tGavin Stone\t1%\t50%\tGroundout: SS-1B (Deep SS-2B)
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 0 LOB. Dodgers 5, Diamondbacks 5.
+Top of the 4th, Dodgers Batting, Tied 5-5, Diamondbacks' Merrill Kelly facing 1-2-3
+t4\t5-5\t0\t---\t5,(2-2) \tO\tLAD\tShohei Ohtani\tMerrill Kelly\t-3%\t47%\tGroundout: 1B-P
+t4\t5-5\t1\t---\t4,(2-1) \tO\tLAD\tMookie Betts\tMerrill Kelly\t-2%\t45%\tFlyball: CF (Deep CF)
+t4\t5-5\t2\t---\t3,(1-1) \tO\tLAD\tFreddie Freeman\tMerrill Kelly\t-1%\t44%\tFlyball: RF (Deep RF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 5, Diamondbacks 5.
+Bottom of the 4th, Diamondbacks Batting, Tied 5-5, Dodgers' Gavin Stone facing 7-8-9
+b4\t5-5\t0\t---\t9,(3-2) \tO\tARI\tEugenio Suárez\tGavin Stone\t3%\t47%\tFlyball: CF (Deep CF)
+b4\t5-5\t1\t---\t6,(3-2) \tO\tARI\tLuis Guillorme\tGavin Stone\t2%\t49%\tGroundout: SS-1B (SS-2B)
+b4\t5-5\t2\t---\t6,(3-2) \tO\tARI\tGeraldo Perdomo\tGavin Stone\t1%\t50%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 5, Diamondbacks 5.
+Top of the 5th, Dodgers Batting, Tied 5-5, Diamondbacks' Merrill Kelly facing 4-5-6
+t5\t5-5\t0\t---\t8,(2-2) \tO\tLAD\tTeoscar Hernández\tMerrill Kelly\t-3%\t47%\tGroundout: 1B-P (2B-1B)
+t5\t5-5\t1\t---\t5,(2-2) \tO\tLAD\tWill Smith\tMerrill Kelly\t-2%\t45%\tFlyball: RF (Short RF)
+t5\t5-5\t2\t---\t2,(1-0) \t\tLAD\tGavin Lux\tMerrill Kelly\t3%\t48%\tDouble to RF (Line Drive to Deep RF Line)
+t5\t5-5\t2\t-2-\t2,(1-0) \tR\tLAD\tMax Muncy\tMerrill Kelly\t13%\t61%\tSingle to RF (Line Drive); G. Lux Scores
+t5\t6-5\t2\t1--\t2,(0-1) \tO\tLAD\tMiguel Rojas\tMerrill Kelly\t-3%\t58%\tGroundout: 2B-P (2B-1B)
+\t\t\t\t\t\t\t\t\t1 run, 2 hits, 0 errors, 1 LOB. Dodgers 6, Diamondbacks 5.
+Bottom of the 5th, Diamondbacks Batting, Behind 5-6, Dodgers' Gavin Stone facing 1-2-3
+b5\t5-6\t0\t---\t4,(2-1) \tO\tARI\tCorbin Carroll\tGavin Stone\t3%\t62%\tGroundout: 2B-1B (2B-1B)
+b5\t5-6\t1\t---\t2,(1-0) \tO\tARI\tJake McCarthy\tGavin Stone\t2%\t64%\tGroundout: P-1B (Weak SS-2B)
+b5\t5-6\t2\t---\t7,(3-2) \tO\tARI\tJoc Pederson\tGavin Stone\t2%\t66%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 6, Diamondbacks 5.
+Top of the 6th, Dodgers Batting, Ahead 6-5, Diamondbacks' Merrill Kelly facing 9-1-2
+\t\t\t\t\t\t\t\t\t
+Tommy Edman pinch hits for Kevin Kiermaier (CF) batting 9th
+
+t6\t6-5\t0\t---\t2,(0-1) \tO\tLAD\tTommy Edman\tMerrill Kelly\t-3%\t63%\tGroundout: 2B-1B (2B-1B)
+\t\t\t\t\t\t\t\t\t
+Joe Mantiply replaces Merrill Kelly pitching
+
+t6\t6-5\t1\t---\t3,(0-2) \tO\tLAD\tShohei Ohtani\tJoe Mantiply\t-2%\t62%\tGroundout: 2B-1B (2B-1B)
+t6\t6-5\t2\t---\t5,(2-2) \tO\tLAD\tMookie Betts\tJoe Mantiply\t-1%\t60%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 6, Diamondbacks 5.
+Bottom of the 6th, Diamondbacks Batting, Behind 5-6, Dodgers' Brent Honeywell Jr. facing 4-5-6
+\t\t\t\t\t\t\t\t\t
+Brent Honeywell Jr. replaces Gavin Stone pitching
+Tommy Edman moves from PH to CF
+
+b6\t5-6\t0\t---\t3,(1-1) \tO\tARI\tLourdes Gurriel Jr.\tBrent Honeywell Jr.\t4%\t64%\tGroundout: SS-1B (Deep SS)
+b6\t5-6\t1\t---\t8,(3-2) \t\tARI\tPavin Smith\tBrent Honeywell Jr.\t-4%\t60%\tWalk
+b6\t5-6\t1\t1--\t2,(0-1) \t\tARI\tAdrian Del Castillo\tBrent Honeywell Jr.\t-3%\t57%\tWild Pitch; P. Smith to 2B
+b6\t5-6\t1\t-2-\t5,(2-2) \tO\tARI\tAdrian Del Castillo\tBrent Honeywell Jr.\t6%\t63%\tStrikeout Swinging
+b6\t5-6\t2\t-2-\t2,(1-0) \tO\tARI\tEugenio Suárez\tBrent Honeywell Jr.\t6%\t69%\tGroundout: 3B-1B
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Dodgers 6, Diamondbacks 5.
+Top of the 7th, Dodgers Batting, Ahead 6-5, Diamondbacks' Joe Mantiply facing 3-4-5
+t7\t6-5\t0\t---\t4,(2-1) \tO\tLAD\tFreddie Freeman\tJoe Mantiply\t-3%\t67%\tFlyball: LF (Deep LF)
+\t\t\t\t\t\t\t\t\t
+Kevin Ginkel replaces Joe Mantiply pitching
+
+t7\t6-5\t1\t---\t2,(0-1) \t\tLAD\tTeoscar Hernández\tKevin Ginkel\t5%\t71%\tDouble to CF (Line Drive to Deep CF-RF)
+t7\t6-5\t1\t-2-\t6,(3-2) \t\tLAD\tWill Smith\tKevin Ginkel\t2%\t73%\tWalk
+t7\t6-5\t1\t12-\t10,(3-2) \t\tLAD\tGavin Lux\tKevin Ginkel\t6%\t79%\tWalk; T. Hernández to 3B; W. Smith to 2B
+\t\t\t\t\t\t\t\t\t
+A.J. Puk replaces Kevin Ginkel pitching
+Enrique Hernández pinch hits for Max Muncy (3B) batting 7th
+
+t7\t6-5\t1\t123\t3,(0-2) \tO\tLAD\tEnrique Hernández\tA.J. Puk\t-8%\t71%\tStrikeout Swinging
+t7\t6-5\t2\t123\t3,(1-1) \tO\tLAD\tMiguel Rojas\tA.J. Puk\t-8%\t63%\tFlyball: LF
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 3 LOB. Dodgers 6, Diamondbacks 5.
+Bottom of the 7th, Diamondbacks Batting, Behind 5-6, Dodgers' Brent Honeywell Jr. facing 8-9-1
+\t\t\t\t\t\t\t\t\t
+Enrique Hernández moves from PH to 3B
+
+b7\t5-6\t0\t---\t5,(3-1) \t\tARI\tLuis Guillorme\tBrent Honeywell Jr.\t-8%\t56%\tWalk
+b7\t5-6\t0\t1--\t3,(1-1) \tO\tARI\tGeraldo Perdomo\tBrent Honeywell Jr.\t4%\t59%\tBunt Groundout: 3B-2B/Sacrifice; L. Guillorme to 2B
+b7\t5-6\t1\t-2-\t1,(0-0) \t\tARI\tCorbin Carroll\tBrent Honeywell Jr.\t-6%\t53%\tWild Pitch; L. Guillorme to 3B
+b7\t5-6\t1\t--3\t4,(2-1) \tRO\tARI\tCorbin Carroll\tBrent Honeywell Jr.\t-5%\t48%\tFlyball: RF/Sacrifice Fly (Deep RF Line); L. Guillorme Scores
+b7\t6-6\t2\t---\t5,(1-2) \tO\tARI\tJake McCarthy\tBrent Honeywell Jr.\t2%\t50%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t1 run, 0 hits, 0 errors, 0 LOB. Dodgers 6, Diamondbacks 6.
+Top of the 8th, Dodgers Batting, Tied 6-6, Diamondbacks' A.J. Puk facing 9-1-2
+t8\t6-6\t0\t---\t4,(1-2) \t\tLAD\tTommy Edman\tA.J. Puk\t7%\t57%\tSingle to LF (Ground Ball thru SS-3B Hole)
+t8\t6-6\t0\t1--\t6,(3-2) \tO\tLAD\tShohei Ohtani\tA.J. Puk\t-7%\t50%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t
+Ryan Thompson replaces A.J. Puk pitching
+
+t8\t6-6\t1\t1--\t1,(0-0) \t\tLAD\tMookie Betts\tRyan Thompson\t4%\t54%\tT. Edman Steals 2B
+t8\t6-6\t1\t-2-\t3,(1-1) \tO\tLAD\tMookie Betts\tRyan Thompson\t-10%\t44%\tFielder's Choice ; T. Edman out at 3B/P-3B-2B; M. Betts to 1B
+t8\t6-6\t2\t1--\t2,(1-0) \t\tLAD\tFreddie Freeman\tRyan Thompson\t4%\t48%\tSingle to CF (Line Drive); M. Betts to 2B
+t8\t6-6\t2\t12-\t3,(0-2) \tO\tLAD\tTeoscar Hernández\tRyan Thompson\t-9%\t39%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 2 hits, 0 errors, 2 LOB. Dodgers 6, Diamondbacks 6.
+Bottom of the 8th, Diamondbacks Batting, Tied 6-6, Dodgers' Ben Casparius facing 3-4-5
+\t\t\t\t\t\t\t\t\t
+Ben Casparius replaces Brent Honeywell Jr. pitching
+
+b8\t6-6\t0\t---\t2,(0-1) \tO\tARI\tJoc Pederson\tBen Casparius\t5%\t44%\tFlyball: RF (RF Line)
+b8\t6-6\t1\t---\t3,(0-2) \tO\tARI\tLourdes Gurriel Jr.\tBen Casparius\t4%\t47%\tLineout: CF
+b8\t6-6\t2\t---\t7,(2-2) \tO\tARI\tPavin Smith\tBen Casparius\t3%\t50%\tFlyball: RF (Deep CF-RF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 6, Diamondbacks 6.
+Top of the 9th, Dodgers Batting, Tied 6-6, Diamondbacks' Ryan Thompson facing 5-6-7
+t9\t6-6\t0\t---\t10,(3-2) \t\tLAD\tWill Smith\tRyan Thompson\t8%\t58%\tSingle to RF (Line Drive)
+\t\t\t\t\t\t\t\t\t
+Chris Taylor pinch runs for Will Smith (C) batting 5th
+
+t9\t6-6\t0\t1--\t3,(0-2) \t\tLAD\tGavin Lux\tRyan Thompson\t12%\t70%\tSingle to CF (Ground Ball thru SS-2B); C. Taylor to 2B
+t9\t6-6\t0\t12-\t1,(0-0) \tO\tLAD\tEnrique Hernández\tRyan Thompson\t2%\t72%\tBunt Groundout: P-2B/Sacrifice (Short 3B Line); C. Taylor to 3B; G. Lux to 2B
+\t\t\t\t\t\t\t\t\t
+Justin Martinez replaces Ryan Thompson pitching
+
+t9\t6-6\t1\t-23\t2,(0-1) \tO\tLAD\tMiguel Rojas\tJustin Martinez\t-21%\t51%\tLineout: 2B
+t9\t6-6\t2\t-23\t5,(1-2) \tRR\tLAD\tTommy Edman\tJustin Martinez\t41%\t91%\tSingle to RF (Line Drive to Short CF-RF); C. Taylor Scores; G. Lux Scores
+t9\t8-6\t2\t1--\t4,(1-2) \t\tLAD\tShohei Ohtani\tJustin Martinez\t0%\t92%\tWild Pitch; T. Edman to 2B
+t9\t8-6\t2\t-2-\t6,(3-2) \tO\tLAD\tShohei Ohtani\tJustin Martinez\t-1%\t91%\tLineout: RF
+\t\t\t\t\t\t\t\t\t2 runs, 3 hits, 0 errors, 1 LOB. Dodgers 8, Diamondbacks 6.
+Bottom of the 9th, Diamondbacks Batting, Behind 6-8, Dodgers' Evan Phillips facing 6-7-8
+\t\t\t\t\t\t\t\t\t
+Evan Phillips replaces Ben Casparius pitching
+Austin Barnes replaces Tommy Edman (CF) playing C batting 9th
+Chris Taylor moves from PR to CF
+
+b9\t6-8\t0\t---\t4,(1-2) \tO\tARI\tAdrian Del Castillo\tEvan Phillips\t5%\t95%\tFoul Popfly: LF (Short LF into Foul Terr.)
+b9\t6-8\t1\t---\t3,(1-1) \tO\tARI\tEugenio Suárez\tEvan Phillips\t3%\t98%\tGroundout: SS-1B (Deep SS)
+\t\t\t\t\t\t\t\t\t
+Josh Bell pinch hits for Luis Guillorme (2B) batting 8th
+
+b9\t6-8\t2\t---\t3,(2-0) \tO\tARI\tJosh Bell\tEvan Phillips\t2%\t100%\tFlyball: CF (Deep CF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Dodgers 8, Diamondbacks 6.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Arizona Diamondbacks Schedule Los Angeles Dodgers Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Los Angeles Dodgers vs Arizona Diamondbacks Box Score: August 31, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/ARI/ARI202408310.shtml 
+ ----- 

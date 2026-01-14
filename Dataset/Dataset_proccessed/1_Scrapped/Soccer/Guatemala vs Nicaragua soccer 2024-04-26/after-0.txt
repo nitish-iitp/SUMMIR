@@ -1,0 +1,365 @@
+Match Ticker
+Premier League
+Other Competitions
+Opta Football Stats
+Opta Football Predictions
+Newsletter
+American Football
+More
+NBA
+NCAA
+PREMIER LEAGUE
+Are Premier League Changes Killing Off the ‘Bore Draw’?
+APR 26, 2024
+RYAN BENSON / AUTHOR, MATT SISNEROS / DESIGN, PETER MCKEEVER / DATA VIZ, JONATHAN MANUEL / DATA VIZ
+Twitter
+WhatsApp
+Email
+Share
+
+Alterations to how Premier League matches are officiated appear to have enhanced the entertainment on offer. As such, 0-0 draws are rarer than ever.
+
+To many around the world, the idea of drawing in sport goes against the very nature of competitiveness, so the thought of a 0-0 draw will be confronting to some. In a variety of sports, it’s simply impossible to end a match, game or race dead-level because the rules prevent it, such as in tennis with tie-breakers or basketball with overtime.
+
+In other instances, it might be technically possible to draw but you’ll find complete disdain for the thought of not winning or losing. That attitude is particularly relevant in North America, and more specifically in the sphere of American football.
+
+It’s not impossible to draw – or tie – in American football, but such occasions are rare. The scarcity of them doesn’t appear to do much in favour of a tie, though, to a degree that you’ll find people who’d genuinely prefer to lose than not win. In terms of the win-at-all-costs mentality that envelopes elite-level sport, that might seem a bit backwards, though those people would likely suggest it comes from a school of thought that if it’s not a win then it’s not worth having.
+
+Dan Marino, widely regarded as one of the greatest quarterbacks of all time, insisted in January 1982 while playing at college level that he “would rather lose than tie”. After playing in the Sugar Bowl, an annual American football college game, he said: “I’m that type of person. I’d rather win or lose. I don’t want to tie any type of ball game, especially a game like this.”
+
+In soccer – football from here on in – draws have been allowed to stay; not that there haven’t been hints of disregard for them littered throughout the history of the sport. In the 1860s and 70s, for instance, Sheffield Rules was a code of football played in parts of England that adopted “rouges”. A rouge was given when an attacking team’s player kicked the ball between red flags positioned on the goalline either side of each post and a teammate managed to touch it down.
+
+According to a snippet from the Sheffield Daily Telegraph in January 1862, rouges were introduced with the intended purpose of “preventing matches to result in ‘draws’.” An amendment in 1867 no longer required the ball to be touched down, and then rouges were abolished entirely the following year.
+
+The introduction of three points for a win – which didn’t hit most of the sport until the mid-1990s – was another example of a change that could be perceived to discourage settling for a draw. To be honest, you could argue that any rule change over the years that has prioritised an improvement in entertainment (i.e. more goals) has been an indirect snub of draws.
+
+But there’s one particular result that surely even the most draw-ambivalent football fan can’t abide: nil-nil; goalless; the bore draw. The latter widely used term (in the English language, anyway) might be an imperfect descriptor, because a 0-0 can still bring entertainment, but it’s a largely fitting summary and has fallen into regular use for good reason.
+
+Scoring goals is the aim of football (breaking news!) and to have none in a single match… Well, you might say that brings a pang of pointlessness to the whole endeavour; we dread to think what an NFL fan thinks of a 0-0 draw, not that they’re the keepers of all things righteous in sport or anything.
+
+Still, if you’re a fan of a Premier League club or just simply a regular neutral viewer, you’ll not have had to endure many 0-0 draws at all this season. We’re not quite at a stage where we’re looking directly into a future without goalless matches, but they’re at least rarer than ever before in England’s top tier.
+
+There have been only 10 0-0 draws in the Premier League in 2023-24, which accounts for just 2.98% of matches played. This means we’re on track to see not only the fewest goalless stalemates in a Premier League season, but also the smallest proportion of them over a single campaign.
+
+Jonathan Manuel / Data Analyst
+
+Before this term, the 21 0-0 draws seen in 2019-20 and 2002-03 equated to 5.53% of all fixtures in those respective seasons; both the total and the percentage were record lows, though 2002-03 stood out as something of an anomaly considering the season before had 34 and the one after had 41.
+
+Only four Premier League seasons have ever had more 0-0 draws than the 41 in 2003-04. The record high of 51 came in 1994-95, though that was when the competition was made up of 22 teams. So, in terms of a proportion of all games ending 0-0, the 12.89% in 1998-99 (49) was the nil-niliest we’ve experienced.
+
+The knock-on effects in 2023-24 are that the overall proportion of draws is also fairly low (although it’s been lower) at 22.02%, and away wins are high at 31.85%; if the latter continues on that path, there’s a chance 2023-24 will enter the top four for the most away victories in a single season. The record is out of reach, because even if every remaining match this season ended in a home defeat, we’d still fall just short of the 153 (40.26%) from 2020-21 – let’s not forget, though, that season was impacted by the COVID-19 pandemic and thus massively reduced crowds on average, almost certainly dulling the effects of ‘home advantage’.
+
+It took until 17 September for the first 0-0 draw of the 2023-24 Premier League season. Bournemouth vs Chelsea was the 47th match of the campaign, equalling the record for the furthest into a season that the first goalless draw has occurred. It drew level with 2020-21, which had also seen 46 completed matches prior to the first 0-0 between West Brom and Burnley.
+
+Some might have expected goalless draws to be particularly prevalent in fixtures between the biggest clubs, and that would make sense given how much is at stake in those matches potentially leading to cagey affairs. There have definitely been some seasons where such results were commonplace; the 2020-21 campaign for instance, when there were six 0-0 draws between members of the so-called ‘big six’ – that accounted for 20% of all goalless games that year. In fact, since the establishment of the big six in 2010, that’s the most goalless games between those clubs in a single season.
+
+In 2023-24, we’ve had just two, the game between Liverpool and Manchester United at Anfield in December, and Manchester City vs Arsenal in March. Nevertheless, matches between teams who both finished in the top four the season prior do produce more 0-0 draws than average, with 10.21% of them since the competition’s foundation in 1992 ending tied at noughts; the Premier League average for goalless matches is 8.0%.
+
+Data Viz by Peter McKeever
+
+But, as we can see in the graph from earlier, that average is coming down. Over the first four seasons of the Premier League, 0-0 draws accounted for 8.92% of results on average; the next four years brought an increase to 9.54%, and then for a long time the four-season average hovered between 8.0% and 8.3%.
+
+Across 2016-17 to the end of 2019-20, though, it came down again to 6.71%, and over the nearly four full seasons since then, it’s down to 5.68%. Now, there’s obviously a chance that will rise slightly because 2023-24 isn’t finished yet, but it looks very likely the four-season average will drop again in relation to the previous instance.
+
+Nil-nil draws drying up isn’t a phenomenon that’s stretching across Europe, though. The 28 seen in La Liga this season account for 8.75% of all matches, which has only been higher in eight seasons since 1992, whereas both Serie A (7.93%) and Ligue 1 (9.63%) are only slightly below the average going back to 1992.
+
+Jonathan Manuel / Data Analyst
+
+The Bundesliga is the only other competition among the top five leagues where 0-0 draws have been anywhere close to a new low since 1992. If Germany’s top division doesn’t see another goalless game in the final 36 matches, it will break the previous record low of 12 (2019-20) by one; either way, the 4.07% proportion of all games ending 0-0 is the second lowest over the period in question after 2019-20, and clearly the lowest of any season that wasn’t impacted by the COVID-19 pandemic.
+
+As for why we’ve seen so few 0-0 draws in the Premier League, well that’s a little more difficult to boil down to one specific factor. However, in many respects, this has been one of the most exciting seasons we’ve ever seen, and that has to be considered a factor.
+
+The title race has really captured the imagination and could yet go to the wire, even with Liverpool potentially now out of the picture after their defeat in Wednesday’s Merseyside derby; points deductions for Everton and Nottingham Forest have made things tighter at the bottom of the table than would have otherwise been the case; and changes to refereeing directives appear to have had a positive impact on the level of entertainment.
+
+For instance, referees have looked to clamp down on offences such as time-wasting, and stoppage time added on in games has been more accurate in relation to time lost during matches. As such, games are lasting longer than ever and the ball is spending more time actually in play.
+
+With 3.26 goals per game, we’re seeing more goals than ever before in the Premier League, and that’s also reflected by expected goals (3.12 xG per game) and non-penalty xG (2.9 per game). In fact, all three metrics are comfortably higher on a per-game basis than any prior season (xG available since 2010-11). Considering those refereeing directives were introduced in time for 2023-24, it’s difficult not to attribute the improvement at least in part to those changes.
+
+But it’s not just down to that. It’s fair to say the standard quality of the Premier League is probably improving every season, teams have been allowed up to five substitutes over the past couple of years, and manager playing styles undoubtedly impact trends such as more goals/xG directly; these days, even teams that come up from the Championship are intent on playing ‘the right way’, with forward-thinking pressing tactics and ball dominance so in vogue, while pragmatists seem to be disappearing before our very eyes.
+
+It all feels linked, right the way through to the sharp decline in 0-0 draws. Could this be the dawn of a new era of entertainment in the Premier League? Or will the results level out over the coming weeks when certain teams have little to play for? Only time will tell, but the early indications are the bore draw is closer than ever to extinction in England’s top flight.
+
+Don’t expect to see any deliberate conservation efforts.
+
+Enjoy this? Subscribe to our football newsletter to receive exclusive weekly content. You should also follow our social accounts over on X, Instagram, TikTok and Facebook.
+
+RELATED ARTICLES
+STAT, VIZ, QUIZ
+Mohamed Salah at It Again for Liverpool, and Boxing Day Bonanzas
+7 HOURS AGO DAVID SEGAR
+PREMIER LEAGUE
+Premier League Match Predictions
+1 DAY AGO CHRIS MYSON
+PREMIER LEAGUE
+Arsenal vs Ipswich Prediction
+1 DAY AGO MATT FURNISS
+PREMIER LEAGUE
+Bottom of the Premier League at Christmas: What Does It Mean?
+1 DAY AGO RYAN BENSON
+Subscribe
+
+Sign up and be the first to receive exclusive stats, news, and updates from Opta Analyst.
+
+Country*
+Select A Country
+Canada
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Afghanistan
+Åland Islands
+Albania
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia (Plurinational State of)
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+United States Minor Outlying Islands
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (Democratic Republic of the)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran (Islamic Republic of)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia (the former Yugoslav Republic of)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova (Republic of)
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Korea (Democratic People's Republic of)
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Kosovo
+Réunion
+Romania
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Korea (Republic of)
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suricontent
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela (Bolivarian Republic of)
+Viet Nam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I agree to receive emails from Opta Analyst.
+See our Privacy Policy for more details.
+Privacy Policy
+Terms of Use
+Do Not Sell My Information
+Advertising
+Cookie Policy
+© 2024 Opta Analyst. All Rights Reserved.
+ 
+ 
+ ----- 
+ Source link : https://theanalyst.com/2024/04/premier-league-changes-killing-off-0-0-draws 
+ ----- 

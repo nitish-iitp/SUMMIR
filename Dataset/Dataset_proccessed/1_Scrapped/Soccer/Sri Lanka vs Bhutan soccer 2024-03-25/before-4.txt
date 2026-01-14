@@ -1,0 +1,1047 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Geissele GFR Maritime Reconnaissance 6mm arc write up and review
+ 
+Thread starter
+JohnDeereGuy1996  
+Start date
+Mar 24, 2024
+1
+	
+2
+	
+3
+Next
+JohnDeereGuy1996
+Full Member
+Supporter
+Full Member
+Minuteman
+Feb 13, 2017
+873
+288
+Mar 24, 2024
+#1
+Seems to be very little info out on these so I thought I’d give my impressions on the rifle and do a small review. Until recently I had avoided the 6 arc as it never really gathered my attention. Also hearing of multiple issues with bolt breakage and reliability issues I stayed clear.
+Then comes me scouring the internet for something to spend money on. I came across the gfr and was intrigued. I’m admittedly a Kac fanboy and part of that reason is because they keep trying to push the stoner platform further. In my opinion they’ve been extremely successful in doing so. Reading the details on the gfr it seems Geissele really designed the rifle from the ground up to run 6 arc reliably. This caught my attention and wanted to see and try some of these advancements my self. Here’s what geissele has to say about the gfr and what makes it different.
+
+https://geissele.com/18-6arc-gfr-maritime-recce-rifleddc.html
+
+
+
+I’ll go from the back of the rifle to the front offering my thoughts.
+
+STOCK-I was a fan of this stock handling it in the house. It’s a very sleek design and contours the face well. I like the adjustment lever placement and the qd points. With that said I really struggled to use this stock with a rear bag. So much so I ended up shooting all groups from a lead sled because I just couldn’t get comfortable. Will probably be swapping it for something else.
+
+
+RECEIVER EXTENSION- seems to be quality 6 pos extension. Solid rich anodizing and good machining.
+
+CASTLE NUT AND END PLATE- Both the end plate and castle nut are made by Geissele. The castle nut was staked twice. I’d like to see a little more material displaced here as it was a little weak for my taste in the staking. The end plate comes with a qd point in the very rear and seems to be well made.
+
+
+
+
+RECEIVERS- Both the upper and lower receiver are standard forged receivers. With that said the upper has a riveted steel insert inside for the cam pin travel. Also the forward assist has been moved forward to allow clearance for charging the rifle when using bigger optics. I really like this change and can tell it’s easier to get my fingers around the charging handle with a bigger optic on top.
+The lower in my opinion should have some type of ambi controls built in. I personally don’t use them but it’s 2024 and most manufacturers are incorporating this in to their rifles. Especially something of this cost.
+There is also a built in plunger to keep the slop to a minimum. In my opinion this makes them a little too tight to where it can be difficult to remove the takedown pins.
+
+
+BOLT CATCH/RELEASE- I believe this is what Geissele calls their maritime catch. I have no complaints and it’s nice and big with good checkering. As said on the receiver section I would have liked to have seen an ambi catch/release on the right side of the rifle.
+
+PISTOL GRIP- I like this pistol grip a lot. Has a very good feel to it and very little angle which I prefer. It reminds of the b5 grip which I put on most everything.
+
+
+MAG RELEASE- The mag release is the same texture as the bolt catch which I like. No complaints other then wishing their was two.
+
+SAFETY- They did make the safety ambi which is my main preference on a safety. The left side is like a standard lever. With the right side being shortened so it doesn’t interfere with your grip. Works great.
+
+TRIGGER- Geissele states this is a version of their ssae trigger. It’s a very nice 2 stage trigger with a good break and reset. No complaints
+
+TRIGGER GAURD- Big oversized trigger gaurd perfect for gloves etc.
+
+CHARGING HANDLE- The charging handle is marked “super charging handle” I assume this is the same one used in their super duty line. I REALLY like this charging handle. Allows plenty of leverage and good texturing for grip.
+
+HANDGAURD- If it’s one thing Geissele is known for it’s for their handgaurds. Some people love them some hate them. I’m a fan of this one and the profile of it. It fits my little girl hands really well. It has two steel qd inserts and a notch that goes in to the receiver to prevent rotation.
+
+
+BARREL- The model I chose came with an 18 inch chrome lined barrel. The barrel has a nice contour to it. It’s thick where you want it and lighter to the end.
+
+MUZZLE DEVISE- It came with a Hux flash hider. I feel this is probably going to be the main thing replaced by everyone due to the variety of suppressor models everyone owns. I went ahead and ordered the hux 6k to try it and have a complete system.
+
+BUFFER AND SPRING- Comes with the super 42 braided spring and an h2 buffer. It’s a nice addition.
+
+BOLT CARRIER GROUP- The bolt itself is supposed to be made of some special sauce carpenter 158. This is one of the features that interested me. Has a one directional cam pin which is nice. Staking on the key is fine but could be considered on the light side. Also coated in something Geissele calls nano weapon coating. Seems pretty slick .
+
+
+MAGAZINE- These rifles come with Geissele branded 6 arc mags. These were developed specifically for the cartridge and the GFR. I had no feeding issues and it loaded easily. The bummer though? It ships with just one 8 rounder. At the very minimum I’d like a 15 round mag and maybe include several of them. These mags seem nice but they’re also pretty dang expensive.
+
+
+ANODIZING- I’m a big fan of the ddc color and anodizing. I like the 50 shades of fde look while I can see where some people would not. This goes to say that everyone knows ODG is the one true color and I would love to have this rifle in 50 shades of odg.
+
+
+ACCURACY PORTION
+I initially bought 3 factory loads to try. All three loads were chronoed using my Garmen xero.
+
+1. Hornady black 105 grn bthp. I only was able to shoot 2 5 shot groups with this load due to using it for my sight in. All 20 rounds were chronoed though.
+
+Avg moa- 1.18 moa
+Avg velocity-2493 fps
+Std deviation-14.5 fps
+Extreme spread-65.9 fps
+
+
+
+
+2.Hornady match 108 grn eld. 4 5 shot groups
+
+Avg moa- 0.959 moa
+Avg velocity-2546 fps
+Standard deviation-13.3 fps
+Extreme spread- 42.5 fps
+
+
+3. Hornady eld v match 80 grn. I only shot 10 round total of this with 2 5 shot groups. Not sure what the deal is but the groups were terrible. I expected to go down range and see keyholes from what I was witnessing through my scope. The only thing I can chalk it up to is the twist rate is to fast. Can’t for the life of me find what twist Geissele is using (would be nice info to know Bill)
+
+Avg moa- 4.53 moa
+Avg velocity- 2757 fps
+Standard deviation-10.7
+Extreme spread- 36.7
+
+
+All groups were shot using a lead sled. A Zeiss s3 4-25 mounted in a reptillia mount was used for all shooting.
+
+
+That’s my write up. Going through my head and doing the math I really didn’t pay much more then I would have on a full build to my liking. I also wouldn’t have been able to get some the features that the GFR offers which is why I went this route. I think I’m really going to like the rifle and am pretty happy with the accuracy for a chrome lined barrel. With reloads I expect those groups to shrink to close 3/4 moa. Let’s be honest hornady factory ammo isn’t what it used to be. Or at least in my experience. As far as the v match goes I’m going to have to revisit that. I was hoping to use that round for thermal yote killing.If you have any particular questions feel free to ask and I’ll try to answer them!
+
+Disclaimer*** I typed this all out on my iPhone so there may be mistakes. My computer crapped out on me so this was challenging !
+ 
+Attachments
+IMG_9955.jpeg
+948.2 KB · Views: 861
+Last edited: Mar 24, 2024
+ 
+Reactions:
+reedhmiller, Devildog0848, DeathBeforeDismount and 24 others
+Ledzep
+Bullet Engineer
+Full Member
+Minuteman
+Jun 9, 2009
+4,441
+5,846
+Hornady
+Mar 24, 2024
+#2
+3-groove barrel?
+ 
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,337
+2,170
+Midwest
+Mar 24, 2024
+#3
+Thanks for the write up! Agreed on the magazines, wish they weren't so expensive! Velocity seems about right (I've shot mostly 108's and have yet to shoot the 105's).
+
+You've got me feeling good that my Proof shoots the 80's at 2 MOA!
+
+If the Form 4's keep coming back this fast, I will probably own a Flow 6k down the road, curious how you like that if you pick one up
+ 
+T
+Tex68w
+Mister Bevilaqua
+Full Member
+Minuteman
+Supporter
+Mar 10, 2017
+1,765
+1,483
+Mar 24, 2024
+#4
+Great initial review, thanks for sharing. Their mags are probably the cats meow but dammit if they aren't wildly over priced. I'd like a few straight 20 rounders so I'll likely break down and buy some but I am having great results with the Duramag 10's for now. It's wild to see how awful those groups were with the 80's, that wasn't my experience at all with my 18" Proof Carbon 7.5 twist.
+
+@rlsmith1, which barrel are you running in yours, because those are still wildly large groups as well?
+ 
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,337
+2,170
+Midwest
+Mar 24, 2024
+#5
+tex68w said:
+Great initial review, thanks for sharing. Their mags are probably the cats meow but dammit if they aren't wildly over priced. I'd like a few straight 20 rounders so I'll likely break down and buy some but I am having great results with the Duramag 10's for now. It's wild to see how awful those groups were with the 80's, that wasn't my experience at all with my 18" Proof Carbon 7.5 twist.
+
+@rlsmith1, which barrel are you running in yours, because those are still wildly large groups as well?
+Click to expand...
+18” proof ss suppressed
+ 
+ 
+Reactions:
+Tex68w
+346ci
+FJB
+Full Member
+Minuteman
+Supporter
+ 
+Mar 26, 2010
+1,961
+1,069
+NC
+Mar 24, 2024
+#6
+Nice detailed write up. Sure hope you didn't pay $3650 for it.
+ 
+ 
+Reactions:
+NarMan
+357Max
+Supporter
+Supporter
+Full Member
+Minuteman
+Sep 11, 2019
+2,544
+3,611
+Marylandistan
+Mar 24, 2024
+#7
+My mind is blown that on a $3650 they don't give you twist rate of the barrel. It's got to be at least 8T I'd hope. Also guessing the free bore & neck clearance is on the loose side you know for "duty". Those 80 VT's must be jumping a mile and apparently aren't happy about it.
+
+The 80 VT's state 8T min, but 2750 isn't all that fast.
+
+I'll be trying some hand loaded 80 VT's in a 22" 7T here shortly. The 62's shot great in a 7T Valkyrie.
+ 
+ 
+Reactions:
+camocorvette
+T
+Tex68w
+Mister Bevilaqua
+Full Member
+Minuteman
+Supporter
+Mar 10, 2017
+1,765
+1,483
+Mar 24, 2024
+#8
+Those speeds are kind of slow. The video below shows 80 VT factory loads through a 18" 7.5 twist suppressed, the same setup myself and @rlsmith1 are running and he was averaging 2865 with a few rounds just breaking 2900 and he even had a few groups .750 moa or slightly better. Do y'all think that the suppressor would add 100 fps to the Geissele?
+
+
+ 
+cas6969
+Keeps Mr. Dead in his pocket
+Full Member
+Minuteman
+Nov 16, 2021
+6,007
+44,351
+Texas Tower #3
+Mar 25, 2024
+#9
+What makes it a "Maritime Reconnaissance" rifle? And what exactly does "Maritime Reconnaissance" mean? 
+
+Then I thought... "then why is it brown?" Oh, maybe for going ashore? (then it's not really maritime is it?)
+
+Oh it's a nice looking rifle for sure. But whenever I see something marketed with some kind of name hung on it I think "It looks just like every other one out there, what makes it a ______?" 
+ 
+ 
+Reactions:
+camocorvette, JohnDeereGuy1996 and Charmingmander
+S
+stickyheat
+Private
+Minuteman
+Dec 11, 2023
+20
+13
+USA
+Mar 25, 2024
+#10
+I have the same rifle and am seeing a little over 1 MOA with 108 gr Hornady ELDM and 105 gr Hornady Black. 2543 FPS with Hornady Black and 2547 FPS with ELDM.
+
+Geissele informed me this rifle has a 1/7.5 twist rate.
+
+So far I only have 180 rounds down range but it’s been consistent and no issues even without cleaning thus far.
+ 
+ 
+Reactions:
+camocorvette, Daddy_G and Tex68w
+S
+sparky702
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2020
+319
+446
+Missouri
+Mar 25, 2024
+#11
+Thanks for sharing . thats a nice looking rifle .
+ 
+JohnDeereGuy1996
+Full Member
+Supporter
+Full Member
+Minuteman
+Feb 13, 2017
+873
+288
+Mar 27, 2024
+#12
+346ci said:
+Nice detailed write up. Sure hope you didn't pay $3650 for it.
+Fortunately I did not
+ 
+ 
+Reactions:
+346ci
+JohnDeereGuy1996
+Full Member
+Supporter
+Full Member
+Minuteman
+Feb 13, 2017
+873
+288
+Mar 27, 2024
+#13
+stickyheat said:
+I have the same rifle and am seeing a little over 1 MOA with 108 gr Hornady ELDM and 105 gr Hornady Black. 2543 FPS with Hornady Black and 2547 FPS with ELDM.
+
+Geissele informed me this rifle has a 1/7.5 twist rate.
+
+So far I only have 180 rounds down range but it’s been consistent and no issues even without cleaning thus far.
+Click to expand...
+If you end up trying the 80 grn eldvt I’d like to hear your results!
+ 
+ 
+Reactions:
+stickyheat
+JohnDeereGuy1996
+Full Member
+Supporter
+Full Member
+Minuteman
+Feb 13, 2017
+873
+288
+Mar 27, 2024
+#14
+tex68w said:
+Those speeds are kind of slow. The video below shows 80 VT factory loads through a 18" 7.5 twist suppressed, the same setup myself and @rlsmith1 are running and he was averaging 2865 with a few rounds just breaking 2900 and he even had a few groups .750 moa or slightly better. Do y'all think that the suppressor would add 100 fps to the Geissele?
+
+
+Click to expand...
+
+I’ve seen a suppressor add a little velocity but nothing even remotely close to 100 fps. I find it very strange that the groups were that bad. Not only were the groups terrible but what would cause them to be that much slower?
+ 
+ 
+Reactions:
+Tex68w
+T
+Tex68w
+Mister Bevilaqua
+Full Member
+Minuteman
+Supporter
+Mar 10, 2017
+1,765
+1,483
+Mar 27, 2024
+#15
+JohnDeereGuy1996 said:
+I’ve seen a suppressor add a little velocity but nothing even remotely close to 100 fps. I find it very strange that the groups were that bad. Not only were the groups terrible but what would cause them to be that much slower?
+
+Yea I don't know. Definitely not what I am seeing but then again what I have seen differs from the guy to the right of me and to the left of you so there's no telling. I haven't seen a can add more than 15-20 fps to a rifle.
+ 
+ 
+Reactions:
+LRRPF52
+S
+stickyheat
+Private
+Minuteman
+Dec 11, 2023
+20
+13
+USA
+Mar 27, 2024
+#16
+JohnDeereGuy1996 said:
+If you end up trying the 80 grn eldvt I’d like to hear your results!
+Will do no doubt. If you figure out how to get the butt stock off this gun let me know. I’d like to put a different one on but I can’t see how to remove this one.
+ 
+JohnDeereGuy1996
+Full Member
+Supporter
+Full Member
+Minuteman
+Feb 13, 2017
+873
+288
+Mar 27, 2024
+#17
+stickyheat said:
+Will do no doubt. If you figure out how to get the butt stock off this gun let me know. I’d like to put a different one on but I can’t see how to remove this one.
+I looked at mine about removing it briefly when I was doing the write up. I didn’t see how to do it either. I’ll check it out tonight and try again.
+ 
+MSTN
+Sergeant
+Full Member
+Minuteman
+Jan 31, 2010
+1,335
+2,762
+MIDDLE OF ARIZONA
+mstn.biz
+Mar 27, 2024
+#18
+Thank you for the time and trouble you devoted to this very interesting review.
+
+My guess is Geissele is going with a longer throat to enhance reliability in their C/L barrels. One unintended side effect of a longer throat is a slightly lower velocity.
+
+Hornady 6mm ARC ammo velocity tends to vary lot to lot by quite a bit more than I would have imagined. My previous lot of factory Hornady 108 ELD-M gave me the same velocity you got - but out of a 14.5" barrel. The current lot I'm shooting is a full 65 fps slower.
+ 
+ 
+Reactions:
+Bigjake83, stickyheat, Tex68w and 1 other person
+A
+AleksanderSuave
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Jul 26, 2020
+821
+677
+Detroit, MI
+Mar 28, 2024
+#19
+One thing that seems odd to me overall, is the wild inconsistency on accuracy, between 6 arc barrels. Even with higher end brands.
+
+The amount of guys claiming "half moa or better" even for proof seems to stick out a bunch, yet talking to guys who shoot more seriously, or even higher volume, they say you should expect sub moa accuracy at best....and then Ive seen an alarmingly large handful of rifles where they just wont group for shit, like the example presented here.
+ 
+ 
+Reactions:
+BurtG, Jsp556 and Tex68w
+T
+Tex68w
+Mister Bevilaqua
+Full Member
+Minuteman
+Supporter
+Mar 10, 2017
+1,765
+1,483
+Mar 28, 2024
+#20
+It's definitely all over the board.
+ 
+MSTN
+Sergeant
+Full Member
+Minuteman
+Jan 31, 2010
+1,335
+2,762
+MIDDLE OF ARIZONA
+mstn.biz
+Mar 28, 2024
+#21
+A good friend built a high end bolt gun with Proof barrel that would not group better than 1.5 MOA. Disappointed, he contacted Proof Research - and was told to try a different lot of ammo. That solved the problem.
+
+I've been through multiple lots of Hornady factory ammo. I've personally not had any accuracy issues, but I've noticed a larger spread in velocity than I would have expected.
+ 
+ 
+Reactions:
+AleksanderSuave, Tx_Aggie and Tex68w
+A
+AleksanderSuave
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Jul 26, 2020
+821
+677
+Detroit, MI
+Mar 28, 2024
+#22
+MSTN said:
+A good friend built a high end bolt gun with Proof barrel that would not group better than 1.5 MOA. Disappointed, he contacted Proof Research - and was told to try a different lot of ammo. That solved the problem.
+
+I've been through multiple lots of Hornady factory ammo. I've personally not had any accuracy issues, but I've noticed a larger spread in velocity than I would have expected.
+Click to expand...
+The problem is that 6 arc is pretty limited in factory ammo selection currently, and with proof having worked with Hornady in development of this round (from what the internet says at least), the hornady ammo should work for their barrels.
+ 
+S
+striped1
+Private
+Supporter
+Full Member
+Minuteman
+Dec 30, 2010
+545
+530
+55
+Howard Lake, MN
+Mar 29, 2024
+#23
+MSTN said:
+A good friend built a high end bolt gun with Proof barrel that would not group better than 1.5 MOA. Disappointed, he contacted Proof Research - and was told to try a different lot of ammo. That solved the problem.
+
+I've been through multiple lots of Hornady factory ammo. I've personally not had any accuracy issues, but I've noticed a larger spread in velocity than I would have expected.
+Click to expand...
+Especially since the pandemic shortage the ES and SD on their ELD M has been terrible for something they consider "match" ammo.
+ 
+ 
+Reactions:
+TheOE800
+TheOE800
+Argumentative
+Full Member
+Minuteman
+Supporter
+Feb 14, 2017
+5,708
+5,603
+USA
+Mar 29, 2024
+#24
+striped1 said:
+Especially since the pandemic shortage the ES and SD on their ELD M has been terrible for something they consider "match" ammo.
+I can't say it was great before that, but it's certainly not better now.
+ 
+ 
+Reactions:
+striped1, kthomas and Obi-WanKannoli
+S
+staticTango
+Private
+Full Member
+Minuteman
+Supporter
+Apr 9, 2010
+179
+19
+Blacksburg, VA
+Mar 31, 2024
+#25
+Has anyone tried Geissele’s non-chrome lined cut rifle barreled Stratomatch version in 18” and 20”? In considering purchase, but hope it performs a little better for the price.
+ 
+ 
+Reactions:
+BurtG and jh2785
+BulletWithBirdWings
+Supporter
+Supporter
+Minuteman
+Aug 22, 2022
+44
+33
+Florida
+Mar 31, 2024
+#26
+To add a little further data out there, I chronographed my Geissele 14.5” and 18” 6arc rifles (18” chrome-lined) this weekend.
+
+Factory Hornady 6arc ELD-M 108gr
+
+14.5” - at 50 rounds total through it - 2415fps
+
+18” - at 35 rounds total through it - 2519fps
+ 
+ 
+Reactions:
+-H- and Tex68w
+T
+Tex68w
+Mister Bevilaqua
+Full Member
+Minuteman
+Supporter
+Mar 10, 2017
+1,765
+1,483
+Mar 31, 2024
+#27
+I bet the 18" hits 2560-2600 by 100 rounds or so.
+ 
+ 
+Reactions:
+YotaEer
+BulletWithBirdWings
+Supporter
+Supporter
+Minuteman
+Aug 22, 2022
+44
+33
+Florida
+Mar 31, 2024
+#28
+tex68w said:
+I bet the 18" hits 2560-2600 by 100 rounds or so.
+I’m hoping so 
+ 
+MSTN
+Sergeant
+Full Member
+Minuteman
+Jan 31, 2010
+1,335
+2,762
+MIDDLE OF ARIZONA
+mstn.biz
+Mar 31, 2024
+#29
+I'm betting Geissele went with longer "NATO" type throats for reliability.
+
+With Proof CF barrels and an older lot of Hornady 108 ELD-M:
+
+14.5" 2560 FPS
+
+18" 2660 FPS
+
+Current batch is a lot slower in 18". Haven't tried it in the 14.5".
+
+The older lot was also noticeably temperature sensitive. One degree F gave a 2 FPS difference. Have not had the chance to try warmer temps with the new lot.
+
+Here are some recent velocity/SD numbers (10 plus round sample size) with brand new Proof CF barrels shooting Hornady 103 ELD-X:
+
+18" 2627 FPS / SD 12.2 FPS
+
+18" 2629 FPS / SD 10.6 FPS
+
+16" 2568 FPS / SD 13.4 FPS
+
+All were sub-MOA, with one 18" breaking half-MOA in the last of three groups and the 16" going half-MOA on the second group. That's with a 75 year old wearing trifocals shooting off a bipod. 
+ 
+ 
+Reactions:
+Happiness Is A Warm Gun, -H-, Tex68w and 1 other person
+Bigjake83
+Golden Shellback
+Full Member
+Minuteman
+Supporter
+May 19, 2013
+5,000
+4,011
+Southern Idaho
+Apr 1, 2024
+#30
+Great write-up and review brother.
+
+My 14.5" 6mm ARC Craddock RTR barrel is coming today so I'll be able to add some data to your thread once I get her assembled.
+ 
+ 
+Reactions:
+carabina3030 and rlsmith1
+Happiness Is A Warm Gun
+Supporter
+Supporter
+Full Member
+Minuteman
+Oct 2, 2019
+464
+292
+NC
+Apr 1, 2024
+#31
+Geissele is making some interesting stuff these days.
+ 
+JohnDeereGuy1996
+Full Member
+Supporter
+Full Member
+Minuteman
+Feb 13, 2017
+873
+288
+Apr 1, 2024
+#32
+staticTango said:
+Has anyone tried Geissele’s non-chrome lined cut rifle barreled Stratomatch version in 18” and 20”? In considering purchase, but hope it performs a little better for the price.
+I feel like under moa for a chrome barrel that’s not broke in yet is pretty dang good.
+ 
+ 
+Reactions:
+Jsp556, -H-, MSTN and 2 others
+kthomas
+Sergeant
+Full Member
+Minuteman
+Jun 17, 2009
+8,419
+11,751
+37
+Tucson, AZ
+Apr 2, 2024
+#33
+striped1 said:
+Especially since the pandemic shortage the ES and SD on their ELD M has been terrible for something they consider "match" ammo.
+
+Hornady ES and SD has never been great, even well before COVID.
+
+Their AMAX line, while it would shoot good, was always very inconsistent velocity wise. And that's continued on through their ELD-M and ELD-X lines.
+ 
+P
+putput30
+Private
+Full Member
+Minuteman
+Dec 23, 2013
+47
+56
+Apr 9, 2024
+#34
+Do the GFR uppers fit on any ole ar15 lower or do they have to go on a specific geissele lower?
+ 
+JohnDeereGuy1996
+Full Member
+Supporter
+Full Member
+Minuteman
+Feb 13, 2017
+873
+288
+Apr 9, 2024
+#35
+putput30 said:
+Do the GFR uppers fit on any ole ar15 lower or do they have to go on a specific geissele lower?
+Should fit on any lower.
+ 
+ 
+Reactions:
+putput30
+P
+physhphude
+Private
+Full Member
+Minuteman
+Jul 27, 2011
+122
+56
+35
+FL
+Apr 9, 2024
+#36
+cas6969 said:
+What makes it a "Maritime Reconnaissance" rifle? And what exactly does "Maritime Reconnaissance" mean? 
+
+Then I thought... "then why is it brown?" Oh, maybe for going ashore? (then it's not really maritime is it?)
+
+Oh it's a nice looking rifle for sure. But whenever I see something marketed with some kind of name hung on it I think "It looks just like every other one out there, what makes it a ______?" 
+Click to expand...
+The difference is this is the rifle that Seal Devgru teams are issued as their Recce rifle, thus "maritime reconnaissance". They are currently using the 14.5 and 18" variants with Hux or AAC suppressors.
+ 
+ 
+Reactions:
+BurtG
+bribri
+Always Smooth
+Full Member
+Minuteman
+Supporter
+Sep 21, 2009
+1,156
+128
+Nebraska
+Apr 11, 2024
+#37
+Any improvements in accuracy and velocity with the 108s after getting it broke in more?
+ 
+JohnDeereGuy1996
+Full Member
+Supporter
+Full Member
+Minuteman
+Feb 13, 2017
+873
+288
+Apr 11, 2024
+#38
+bribri said:
+Any improvements in accuracy and velocity with the 108s after getting it broke in more?
+Unfortunately haven’t got to shoot it yet again. My hux 6k got approved though.
+ 
+ 
+Reactions:
+MSTN and bribri
+bribri
+Always Smooth
+Full Member
+Minuteman
+Supporter
+Sep 21, 2009
+1,156
+128
+Nebraska
+Apr 11, 2024
+#39
+If you have time, keep us updated after you get some more time on it. I'm considering one.
+ 
+carabina3030
+Supporter
+Supporter
+Minuteman
+Supporter
+Oct 5, 2020
+80
+24
+Apr 11, 2024
+#40
+bigjake83 said:
+Great write-up and review brother.
+
+My 14.5" 6mm ARC Craddock RTR barrel is coming today so I'll be able to add some data to your thread once I get her assembled.
+
+
+Had a chance to shoot her yet? I’m looking at getting the same barrel, been looking around to see if I can find anyone who’s had hands on with one
+ 
+carabina3030
+Supporter
+Supporter
+Minuteman
+Supporter
+Oct 5, 2020
+80
+24
+Apr 12, 2024
+#41
+bigjake83 said:
+Great write-up and review brother.
+
+My 14.5" 6mm ARC Craddock RTR barrel is coming today so I'll be able to add some data to your thread once I get her assembled.
+
+
+Nevermind just saw your comments in the Craddock RTR thread. Will be following over there
+ 
+JohnDeereGuy1996
+Full Member
+Supporter
+Full Member
+Minuteman
+Feb 13, 2017
+873
+288
+Apr 12, 2024
+#42
+bribri said:
+If you have time, keep us updated after you get some more time on it. I'm considering one.
+Will do for sure
+ 
+Bigjake83
+Golden Shellback
+Full Member
+Minuteman
+Supporter
+May 19, 2013
+5,000
+4,011
+Southern Idaho
+Apr 12, 2024
+#43
+DeathBeforeDismount said:
+And not be stuck with shitty hornady components.
+
+Truest statement ever, that Hornady brass is way too soft and very inconsistent.
+ 
+B
+Biggy
+Full Member
+Full Member
+Minuteman
+Jul 25, 2005
+501
+62
+New Knoxville ,Ohio
+Apr 12, 2024
+#44
+The G rifle is nice but for the money I think I would much rather have a Ridgeline Defense rifle in 6Mmm Max when they become available.
+
+*** RD15-LPR | Get on the list ***
+ 
+JohnDeereGuy1996
+Full Member
+Supporter
+Full Member
+Minuteman
+Feb 13, 2017
+873
+288
+Apr 13, 2024
+#45
+Biggy said:
+The G rifle is nice but for the money I think I would much rather have a Ridgeline Defense rifle in 6Mmm Max when they become available.
+
+*** RD15-LPR | Get on the list ***
+While I’m sure they make good stuff they seem to be right around 3k which is what I paid for the G. Don’t really see much that’s innovative. Partial mono receiver has been done by several companies like lwrc and seekins. The gas system seems to be a copy of the Kac e3 system. As well as the model name.
+ 
+ 
+Reactions:
+Milf Dots
+Raptorman2014
+Private
+Full Member
+Minuteman
+Supporter
+Oct 29, 2017
+784
+249
+May 7, 2024
+#46
+Here is my velocity from my 18" GFR Recce.
+ 
+Attachments
+20240507_110322.jpg
+790.9 KB · Views: 222
+ 
+Reactions:
+matt33
+BulletWithBirdWings
+Supporter
+Supporter
+Minuteman
+Aug 22, 2022
+44
+33
+Florida
+May 7, 2024
+#47
+Raptorman2014 said:
+Here is my velocity from my 18" GFR Recce.
+How many rounds do you have through it so far?
+ 
+Raptorman2014
+Private
+Full Member
+Minuteman
+Supporter
+Oct 29, 2017
+784
+249
+May 7, 2024
+#48
+BulletWithBirdWings said:
+How many rounds do you have through it so far?
+~250
+ 
+TonyTheTiger
+Like a Boss
+Full Member
+Minuteman
+Feb 14, 2017
+5,118
+8,451
+May 7, 2024
+#49
+Raptorman2014 said:
+Here is my velocity from my 18" GFR Recce.
+So 33fps per inch average lost from the box velocity/barrel length. Not terrible.
+ 
+P
+physhphude
+Private
+Full Member
+Minuteman
+Jul 27, 2011
+122
+56
+35
+FL
+May 7, 2024
+#50
+Raptorman2014 said:
+Here is my velocity from my 18" GFR Recce.
+Im getting 2475 with my 14.5” GFR with hornady black at 50 rounds in. Not a huge difference in velocity.
+ 
+1
+	
+2
+	
+3
+Next
+You must log in or register to reply here.
+Similar threads
+	
+Firearms Proof/Geissele 22" Arc Upper
+Patty Nov 5, 2024 Buy - Sell - Trade
+12
+Nov 18, 2024
+Z
+	
+SOLD Geissele GFR 16" 6mm ARC w/B5 Furniture DDC
+zekers7 Jul 5, 2024 Buy - Sell - Trade
+6
+Jul 14, 2024
+	
+Geissele URG-I complete near clone
+ut755ln May 30, 2024 Semi-Automatic Rifles
+3
+Jun 1, 2024
+	
+Geissele's New Heavy Barrel and SOLGW Broadsword project. (Up Date, 1st Load development session 18DEC24))
+Bigjake83 Nov 8, 2024 Semi-Automatic Rifles
+94
+Dec 19, 2024
+T
+	
+SOLD Hand built 6mm ARC
+Tobbes Nov 11, 2024 Buy - Sell - Trade
+0
+Nov 11, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/geissele-gfr-maritime-reconnaissance-6mm-arc-write-up-and-review.7212636/ 
+ ----- 

@@ -1,0 +1,205 @@
+We and our 4 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+Mitch Keller vs. Washington Nationals
+Compare players and teams or see head to head results between teams, players, player vs. team, or batter vs. pitcher. • Tutorial Video • Sample Searches • Data Coverage
+THIS QUESTION WAS ANSWERED USING
+POWERED BY
+YOUR ALL ACCESS PASS TO THE
+BASEBALL DATABASE
+GO BEYOND THE BASICS. BECOME A STATHEAD
+Start Your FREE Trial
+ Show Criteria ➦ Share Results
+Mitch Keller vs. Washington Nationals
+
+Regular Season: 5 GP, 27.0 IP, 1-2 W-L, 0 SV, 5.00 ERA, 28 SO, 10 BB
+
+Playoffs: 0 GP
+
+Mitch Keller vs. Washington Nationals: Pitching
+Mitch Keller vs. Washington Nationals: Current Batters 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Rk	Player	B	PA	AB	H	2B	3B	HR	RBI	BB	SO	BA	OBP	SLG	OPS	SH	SF	IBB	HBP	GIDP
+1	Josh Bell	B	13	9	6	1	0	1	3	4	0	.667	.769	1.111	1.880	0	0	0	0	0
+2	Keibert Ruiz	B	13	12	4	1	0	0	1	1	1	.333	.385	.417	.801	0	0	0	0	0
+3	CJ Abrams	L	11	11	4	0	0	0	2	0	2	.364	.364	.364	.727	0	0	0	0	0
+4	Luis García Jr.	L	11	11	4	3	0	0	1	0	3	.364	.364	.636	1.000	0	0	0	0	0
+5	Juan Yepez	R	5	5	1	0	0	0	0	0	1	.200	.200	.200	.400	0	0	0	0	0
+6	Amed Rosario	R	4	3	1	0	0	0	1	1	0	.333	.500	.333	.833	0	0	0	0	0
+7	Andrés Chaparro	R	3	3	1	0	0	0	1	0	2	.333	.333	.333	.667	0	0	0	0	0
+8	Dylan Crews	R	3	2	0	0	0	0	1	0	0	.000	.000	.000	.000	0	1	0	0	0
+9	Trey Lipscomb	R	3	2	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0
+10	Nathaniel Lowe	L	3	3	0	0	0	0	0	0	0	.000	.000	.000	.000	0	0	0	0	0
+11	José Tena	L	3	3	1	0	0	0	0	0	1	.333	.333	.333	.667	0	0	0	0	0
+12	James Wood	L	3	3	1	0	0	0	0	0	1	.333	.333	.333	.667	0	0	0	0	0
+13	Jacob Young	R	3	2	0	0	0	0	0	0	1	.000	.000	.000	.000	1	0	0	0	0
+14	Drew Millas	B	2	2	1	0	0	0	0	0	0	.500	.500	.500	1.000	0	0	0	0	0
+15	Michael Soroka	R	2	2	1	0	0	0	2	0	0	.500	.500	.500	1.000	0	0	0	0	0
+Mitch Keller vs. Washington Nationals: Totals 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Regular Season
+Rk	Season	Team	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	UER	HR	BB	IBB	SO	HBP	BK	WP	BF	BR
+1	2022	PIT	0	1	.000	10.57	2	2	0	0	0	0	7.2	16	9	9	0	0	7	0	8	0	0	1	43	23
+2	2023	PIT	1	0	1.000	0.00	1	1	0	0	0	0	8.0	2	0	0	0	0	1	0	7	0	0	0	27	3
+3	2024	PIT	0	1	.000	4.76	2	2	0	0	0	0	11.1	15	7	6	1	1	2	0	13	1	0	0	53	18
+	Totals		1	2	.333	5.00	5	5	0	0	0	0	27.0	33	16	15	1	1	10	0	28	1	0	1	123	44
+Mitch Keller vs. Washington Nationals: Game Logs 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Regular Season
+Subscribe to Stathead Baseball for full results.
+
+Go inside the Baseball Reference database and access the sports search engine that was made for fans like you. Subscriptions start at just $9/month. Learn More.
+
+Get your first month FREE
+
+Already a paid subscriber? Log in for full results.
+
+Rk	Date	Age	Team		Opp	Result	App,Dec	IP	H	R	ER	UER	HR	BB	IBB	SO	HBP	BK	WP	BF	BR	AB	1B	2B	3B	SB	CS	PO	TB	GIDP	SH	SF	XBH	GmSc	Pit	Str	WPA	RE24	IR	IS	aLI	DFS(DK)	DFS(FD)	Pos
+1	2024-09-07 (2)	28-156	PIT		WSN	L 6-8	GS-6	6.0	7	2	2	0	0	0	0	8	1	0	0	26	8	24	6	1	0	1	0	0	8	0	0	1	1	58	91	61	0.2	1.07			1.28	20.70	40.00	P
+2	2024-04-03	27-365	PIT	@	WSN	L 3-5	GS-6, L	5.1	8	5	4	1	1	2	0	5	0	0	0	27	10	24	2	5	0	1	0	0	16	0	0	0	6	37	84	54	-0.4	-2.77			1.00	8.00	19.00	P
+3	2023-09-14	27-163	PIT		WSN	W 2-0	GS-8, W	8.0	2	0	0	0	0	1	0	7	0	0	0	27	3	25	2	0	0	0	1	1	2	0	1	0	0	84	92	65	0.5	4.20			1.08	34.20	55.00	P
+4	2022-06-29	26-086	PIT	@	WSN	W 8-7	GS-5	4.0	9	5	5	0	0	4	0	4	0	0	1	22	13	18	7	2	0	1	0	0	11	3	0	0	2	24	93	53	-0.3	-2.10			1.32			P
+5	2022-04-15	26-011	PIT		WSN	L 2-7	GS-4, L	3.2	7	4	4	0	0	3	0	4	0	0	0	21	10	18	7	0	0	1	0	0	7	0	0	0	0	32	84	50	-0.3	-2.36			1.14			P
+Batting
+
+Data coverage:
+
+Game data: Game data is only available for the American League, National League, and Federal League. Since 1901 for regular season data, since 1933 for the All-Star Game, and since 1903 for the Postseason.
+
+Season data: Since 1871. Stats relying on play-by-play data are complete back to 1969, nearly complete back to 1950, and mostly complete back to 1912. Postseason data since 1903.
+
+Please see our data coverage page for details.
+
+If you utilize material unique to a Sports Reference site for a tweet, an article, or for research for a broadcast or podcast, please strongly consider citing this site as the source for the material. It would be greatly appreciated and would help us continue to produce this material.
+Stathead Login Create Account
+You are here: Baseball Stathead > Versus Finder | Player and Team Comparison and Head-to-Head Stats > Query Results
+Full Site Menu 
+Return to Top
+Stathead Baseball
+Season and Career Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Game Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Split Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Streak Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Span Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Event Tools: Batting, Pitching
+Other Tools: Versus Finder
+All Tools
+Stathead Basketball
+Season and Career Tools: Player, Team
+Game Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Event Tools: Quarter, Event, Shot
+College Tools: Player Game, Player Season, Team Game, Team Season
+Other Tools: Versus Finder
+All Tools
+Stathead Football
+Season and Career Tools: Player, Team
+Game Tools: Player, Team
+Split Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Event Tools: Play, Drive, Touchdown, Field Goal
+College Tools (NEW): Player Game, Player Season, Team Game, Team Season
+Other Tools: Versus Finder
+All Tools
+Stathead Hockey
+Season and Career Tools: Player, Team, Goal Finder
+Game Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Other Tools: Versus Finder
+All Tools
+Stathead FBref
+Season and Career Tools: Player, Team
+Match Tools: Player, Team
+All Tools
+Stathead is for...
+Sports Fans, Content Creators, Betting & Fantasy, Media & Journalists, Team Professionals
+Billing Policies
+Terms of Service
+We're Social...for Statheads
+           
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Saturday, January 11, 11:12PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2025 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith of Baseballprojection.com and author of WAR in Pieces.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2025.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Fútbol Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Stathead.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://stathead.com/baseball/versus-finder.cgi?request=1&match=versus_playervteam&player_id1=keller000mit&team_id1=WSN 
+ ----- 

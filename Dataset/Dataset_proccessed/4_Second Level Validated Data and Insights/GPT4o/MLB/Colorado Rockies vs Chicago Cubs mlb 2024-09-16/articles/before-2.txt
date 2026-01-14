@@ -1,0 +1,342 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Cubs
+75-73, 37-40 Away
+5
+Final/10
+Rockies
+57-92, 34-37 Home
+6
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Hilliard ties it with pinch-hit HR in 9th and Doyle's single in 10th lifts Rockies over Cubs 6-5
+— Pinch-hitter Sam Hilliard tied the score with a two-run homer in the ninth inning and Brenton Doyle delivered a game-winning single in the 10th as the Colorado Rockies rallied to beat the Chicago Cubs 6-5 on Saturday night.
+Sep 15, 2024, 04:16 am - AP
+
+
+CHC
+
+
+COL
+1\t2\t3\t4\t5\t6\t7\t8\t9\t10\tR\tH\tE
+1\t0\t0\t1\t0\t0\t1\t1\t1\t0\t5\t11\t0
+0\t0\t0\t0\t0\t1\t1\t1\t2\t1\t6\t8\t1
+WIN
+T. Kinley
+6-1
+1.0 IP, 0 H, 0 ER, 2 K, 0 BB
+LOSS
+D. Smyly
+3-8
+0.1 IP, 1 H, 0 ER, 0 K, 1 BB
+Scoring Summary
+INNING
+\tCHC\tCOL
+\t\t1st\tSuzuki doubled to center, Swanson scored.\t1\t0
+\t\t4th\tBellinger homered to right (397 feet).\t2\t0
+\t\t6th\tDoyle hit sacrifice fly to center, Schunk scored.\t2\t1
+\t\t7th\tCrow-Armstrong homered to center (438 feet).\t3\t1
+\t\t7th\tToglia homered to left center (426 feet).\t3\t2
+\t\t8th\tBusch hit sacrifice fly to center, Bellinger scored.\t4\t2
+\t\t8th\tDoyle hit sacrifice fly to center, Blackmon scored.\t4\t3
+\t\t9th\tHapp singled to center, Crow-Armstrong scored.\t5\t3
+\t\t9th\tHilliard homered to right center (411 feet), Goodman scored.\t5\t5
+\t\t10th\tDoyle singled to left, Schunk scored, Tovar to second.\t5\t6
+Full Play-By-Play
+Cubs
+Rockies
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+I. Happ
+LF
+\t2-5\t0\t0\t1\t.244
+
+D. Swanson
+SS
+\t1-4\t1\t0\t0\t.236
+
+S. Suzuki
+DH
+\t2-5\t0\t0\t1\t.274
+
+C. Bellinger
+RF
+\t2-5\t2\t1\t1\t.269
+
+I. Paredes
+3B
+\t2-5\t0\t0\t0\t.216
+
+P. Wisdom
+1B
+\t0-3\t0\t0\t0\t.191
+
+M. Busch
+PH-1B
+\t0-1\t0\t0\t1\t.253
+
+N. Hoerner
+2B
+\t1-5\t0\t0\t0\t.261
+
+P. Crow-Armstrong
+CF
+\t1-3\t2\t1\t1\t.238
+
+C. Bethancourt
+C
+\t0-3\t0\t0\t0\t.302
+
+M. Tauchman
+PH
+\t0-1\t0\t0\t0\t.243
+
+M. Amaya
+C
+\t0-0\t0\t0\t0\t.226
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+J. Taillon
+\t6.0\t5\t2\t1\t6\t85-57\t3.54
+
+T. Miller
+\t1.0\t0\t0\t0\t0\t11-7\t2.41
+
+N. Pearson
+\t1.0\t1\t1\t0\t1\t11-8\t4.57
+
+P. Hodge
+\t1.0\t1\t2\t1\t2\t20-13\t2.08
+
+D. Smyly
+\t0.1\t1\t0\t1\t0\t8-5\t3.54
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+C. Blackmon
+DH
+\t3-5\t1\t0\t0\t.251
+
+E. Tovar
+SS
+\t0-4\t0\t0\t0\t.265
+
+B. Doyle
+CF
+\t1-3\t0\t0\t3\t.266
+
+TODAY'S AT BATS
+Full Player Profile
+1st: Doyle flied out to left.
+4th: Doyle struck out looking.
+6th: Doyle hit sacrifice fly to center, Schunk scored.
+8th: Doyle hit sacrifice fly to center, Blackmon scored.
+10th: Doyle singled to left, Schunk scored, Tovar to second.
+
+
+R. McMahon
+3B
+\t0-4\t0\t0\t0\t.247
+
+B. Rodgers
+2B
+\t0-0\t0\t0\t0\t.271
+
+M. Toglia
+1B
+\t1-4\t1\t1\t1\t.221
+
+J. Cave
+RF
+\t1-4\t0\t0\t0\t.259
+
+H. Goodman
+C
+\t0-3\t1\t0\t0\t.188
+
+J. Beck
+LF
+\t0-2\t0\t0\t0\t.200
+
+S. Hilliard
+PH
+\t1-1\t1\t1\t2\t.248
+
+N. Jones
+LF
+\t0-0\t0\t0\t0\t.210
+
+A. Schunk
+2B
+\t1-4\t2\t0\t0\t.186
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+K. Freeland
+\t7.0\t7\t3\t1\t3\t95-68\t4.89
+
+J. Bird
+\t0.1\t2\t1\t0\t1\t11-8\t4.93
+
+L. Peralta
+\t0.2\t0\t0\t0\t0\t4-2\t0.00
+
+J. Hill
+\t1.0\t2\t1\t0\t1\t22-16\t2.25
+
+T. Kinley
+\t1.0\t0\t0\t0\t2\t11-8\t5.80
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Chicago Cubs (75-73, 37-40 Away)
+Jameson Taillon (12-8, 3.27)
+-160
+ML
+-145
+o10.5
+-120
+-1.5
++105
+Colorado Rockies (57-92, 34-37 Home)
+Kyle Freeland (5-8, 5.24)
+u12.5
+-210
++120
+u10.5
+EVEN
++1.5
+-125
+See All on ESPN BET
+Win Probability
+100
+%
+2nd
+4th
+6th
+8th
+10th
+100
+50
+100
+CUBS
+ROCKIES
+COL 100
+%
+CHC 5COL 6
+
+Bottom 10th
+COL - Doyle singled to left, Schunk scored, Tovar to second.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+CHC
+COL
+Hits
+11
+8
+Home Runs
+2
+2
+Total Bases
+18
+16
+Runners LOB
+9
+6
+Full Team Stats
+Regular Season Series
+Current Series
+COL wins 2-1
+Cubs
+5
+Rockies
+9
+Game 1
+9/14
+Final
+Cubs
+5
+Rockies
+6
+Game 2
+9/15
+Final/10
+Cubs
+6
+Rockies
+2
+Game 3
+9/15
+Final
+Game Information
+Coors Field
+12:10 AM, September 15, 2024
+Denver, Colorado
+Attendance: 47,493
+Game Time:
+2:44
+Umpires:
+Home Plate Umpire - Chris Segal
+First Base Umpire - David Rackley
+Second Base Umpire - Larry Vanover
+Third Base Umpire - Nate Tomlinson
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570686/cubs-rockies 
+ ----- 

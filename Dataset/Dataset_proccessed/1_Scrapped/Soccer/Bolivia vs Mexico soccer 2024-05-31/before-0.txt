@@ -1,0 +1,123 @@
+Close
+Menu
+Language
+My cart
+Home
+DLP products
+Display & projection products
+≥ 0.47-in array products
+DLP471TE
+0.47-inch 4K UHD HSSI DLP® digital micromirror device (DMD)
+Notifications
+Order now
+DATA SHEET
+DLP471TE 0.47 4K UHD DMD datasheet (Rev. B)
+PDF
+|
+HTML
+A newer version of this product is available
+ Compare alternates
+Same functionality with different pin-out to the compared device
+NEW
+DLP472TE
+0.47-inch 4K UHD HSSI DLP(R) digital micromirror device (DMD)
+Alternate DMD with better contrast and higher reliability.
+Product details
+Component type	DMD
+Display resolution (max)	4K UHD (3840x2160)
+System brightness (max) (lm)	5500
+Chipset family	DLPC7540
+Array diagonal (in)	0.47
+Input frame rate (max) (Hz)	60
+Rating	Catalog
+Micromirror array size	1920x1080
+Micromirror pitch (mm)	0.0054
+Operating temperature range (°C)	0 to 70
+Find other ≥ 0.47-in array products
+Similar products you might be interested in
+ Compare alternates
+Similar functionality to the compared device
+DLPC7540
+DLP® display controller for 4K UHD and 1080p DMD
+Companion controller for use with DLP471TE
+Technical documentation
+=Top documentation for this product selected by TI
+Design & development
+
+For additional terms or required resources, click any title below to view the detail page where available.
+
+EVALUATION BOARD
+DLP471TEEVM — DLP471TE evaluation module for 4K UHD digital micromirror device (DMD)
+
+The DLP® products DLP471TEEVM, when combined with the DLPC7540EVM, can accelerate the prototyping time of a DLP 0.47-inch 4K UHD system. The DLP471TEEVM provides a solution for evaluating the 0.47-inch 4K UHD DMD, which is designed to pair with the DLPC7540EVM and can display SPLASH, test patterns (...)
+
+User guide:
+PDF
+|
+HTML
+Log in to order
+$999.00 (USD)
+Log in to view inventory
+Buy from a distributor
+EVALUATION BOARD
+DLPC7540EVM — DLPC7540 evaluation module for high-resolution display controllers
+
+The DLP® products DLPC7540EVM, when combined with the DLP471TEEVM or DLP650TEEVM, can accelerate the prototyping time of a DLP 4K UHD system. The DLPC7540EVM provides a solution for driving either the 0.47-inch 4K UHD or 0.65-inch 4K UHD standard digital micromirror devices (DMDs), while allowing (...)
+
+User guide:
+PDF
+|
+HTML
+View Options
+OPTICAL MODULE
+DLP-OMM-SEARCH — DLP® Products third-party search tools
+
+To best meet your design needs and accelerate your time-to-market, DLP® Products works with a variety of third parties to help with everything from optical modules and hardware design to specialty software and other production services. Download one or both search tools listed below to quickly (...)
+
+View Options
+3D DMD MECHANICAL GEOMETRY
+DLPR056 — DLP471TE DMD with package FYN (Series 451) 3D-CAD Geometry
+Supported products & hardware
+Download
+CALCULATION TOOL
+DMD-DIFFRACTION-EFFICIENCY-CALCULATOR — Calculator helps model DMD diffraction patterns and diffraction efficiency
+This calculator will be used to help customers understand how to model DMD diffraction patterns and efficiency with their specific DMD input parameters and is modeled to the customer’s specific design. Optical modules can also be used with the calculator.
+Supported products & hardware
+Download
+DMD MOUNTING DESIGN
+DLPC130 — Series 451 DMD Mounting and Electrical Interconnect Information
+Supported products & hardware
+Download
+DESIGN TOOL
+DLP-OPTICAL-DESIGN — DLP-OPTICAL-DESIGN-GUIDELINES
+The DLP optical design guidelines presentation provides a comprehensive overview of the guidelines specific to designing an optical system with DLP Products and will help enable customers in their design process.
+Supported products & hardware
+Download
+DESIGN TOOL
+DLPR113 — DLP47X and DLP48X Optical Design Files
+Optical design files include reference designs and guidelines for DLP47X and DLP48X family products
+Supported products & hardware
+Download
+PCB LAYOUT
+DLP471TEEVM and DLP650TEEVM Board Design Files
+DLPR093.ZIP (6371 KB)
+Download
+Package	Pins	CAD symbols, footprints & 3D models
+DLP-S451 (FYN)	149	Ultra Librarian
+TI's Standard Terms and Conditions for Evaluation Items apply.
+Ordering & quality
+
+Recommended products may have parameters, evaluation modules or reference designs related to this TI product.
+
+Support & training
+TI E2E™ forums with technical support from TI engineers
+View all forum topics
+
+Content is provided "as is" by TI and community contributors and does not constitute TI specifications. See terms of use.
+
+If you have questions about quality, packaging or ordering TI products, see TI support. ​​​​​​​​​​​​​​
+ 
+ 
+ ----- 
+ Source link : https://www.ti.com/product/DLP471TE 
+ ----- 

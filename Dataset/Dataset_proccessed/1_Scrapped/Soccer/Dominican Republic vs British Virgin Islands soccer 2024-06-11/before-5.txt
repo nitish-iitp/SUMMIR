@@ -1,0 +1,915 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Envision MARS-M and M/C
+ 
+Thread starter
+dgheriani  
+Start date
+Jun 6, 2024
+D
+dgheriani
+Private
+Full Member
+Minuteman
+Feb 10, 2017
+880
+603
+Jun 6, 2024
+#1
+Just saw this on SSD, anyone have any experience with them?
+
+
+Announcing: Envision Technology MARS-M and MARS-Mc Mid-Range 905 nm Laser Range Finger, Available Now at TNVC! | Soldier Systems Daily
+Redlands, California— The Little Laser Making a Big Splash: Despite only being founded in 2019, Envision Technology is making huge waves among its end users ...
+soldiersystems.net
+ 
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,676
+1,435
+North Central FL
+Jun 6, 2024
+#2
+There’s a huge thread on the mars family here already.
+
+Edit to add: $7k for a 905nm laser is pants-on-head retarded.
+ 
+ 
+Reactions:
+TheHorta and plong
+D
+dgheriani
+Private
+Full Member
+Minuteman
+Feb 10, 2017
+880
+603
+Jun 7, 2024
+#3
+Conqueror said:
+There’s a huge thread on the mars family here already.
+
+Edit to add: $7k for a 905nm laser is pants-on-head retarded.
+
+Yeah, I've read through the Mars thread, hadn't seen anything about the 905nm version. Don't disagree that $7k for a 905nm laser is pretty ridiculous, all things considered, haha.
+ 
+Last edited: Jun 7, 2024
+MinistryOfTruth
+Sergeant of the Hide
+Full Member
+Minuteman
+May 7, 2022
+159
+290
+Maryland
+Jun 7, 2024
+#4
+Bulk of the cost of a 1535 laser is the laser. Exotic metals and all.
+
+Still, the mars is a cool laser.
+ 
+ 
+Reactions:
+BipThatInstance
+TheHorta
+Nest-stirring pot-poker.
+Supporter
+Full Member
+Minuteman
+ 
+Jan 17, 2014
+5,304
+15,643
+NO AL
+Jun 7, 2024
+#5
+Only reason it exists is to avoid ITAR. You can leave the country with it.
+ 
+ 
+Reactions:
+msgriff
+CR2 Dude
+CR2 Shooting Solutions
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Supporter+
+Nov 19, 2017
+594
+451
+GA
+www.cr2shootingsolutions.com
+Jun 10, 2024
+#6
+I think there is a lot of confusion that people have about what LRF wavelength actually means.
+
+The wavelength being 1550 vs 905 is in no indication of the quality of laser, power, or the capability.
+
+But because people see a $2k Vortex 905 they think a $6800 Envision 905 they immediately think they’re the same. You can go on YouTube right now and watch dozens of videos of people putting WMLRF’s of all prices against each other. In almost every circumstance, minus perfect weather, large targets, and target backstops. The higher dollar LRF’s outperform.
+
+Bottom line every model of the the Envison Mars WMLRF has a VCSEL and that is what you’re paying for. Same goes for a Wilcox
+ 
+CR2 Dude
+CR2 Shooting Solutions
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Supporter+
+Nov 19, 2017
+594
+451
+GA
+www.cr2shootingsolutions.com
+Jun 10, 2024
+#7
+dgheriani said:
+Just saw this on SSD, anyone have any experience with them?
+
+
+Announcing: Envision Technology MARS-M and MARS-Mc Mid-Range 905 nm Laser Range Finger, Available Now at TNVC! | Soldier Systems Daily
+Redlands, California— The Little Laser Making a Big Splash: Despite only being founded in 2019, Envision Technology is making huge waves among its end users ...
+soldiersystems.net
+Click to expand...
+I have got to use this for the past year off and on. We actually did beta testing for it. I have personally used it to range the back of speed limit signs at 1750yards on 90 degree (high mirage) days.
+ 
+ 
+Reactions:
+Ncloud, SkyScrapin and dgheriani
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,183
+4,871
+CONUS
+Jun 10, 2024
+#8
+I’ve been shooting a MARS-c for a little while now. The LRF speed/performance is very close to the Wilcox MRF Xe, but the size of the display on the MARS is a nice advantage (thought I don't like how shiny the display is). The IR laser/illum isn't quite as strong as other VCSEL LAMs like the MAWL & RaidXE, but it still makes for a nice combo unit if you don't need strong illum past 300 yards. And it plays well with a Voodoo-S/M as it has the comms software pre-installed, if you like to party.
+
+The MARS-mc is a nice option at basically $3k less than the 1550nm Mars-lc, but as mentioned above - that night vision visible LRF is likely not going to be as high performance as the more expensive model. But maybe that's ok for a lot of people? The Vortex Impact is still a really good option for far less, but it's big time chonky, has trouble with cold, and the display is really not good for night shooting, so apples to oranges I guess.
+ 
+ 
+Reactions:
+xxflyingturtlexx, rlsmith1 and CR2 Dude
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,676
+1,435
+North Central FL
+Jun 10, 2024
+#9
+CR2 Dude said:
+The wavelength being 1550 vs 905 is in no indication of the quality of laser, power, or the capability.
+Uh yes it is. Like, sure, you could theoretically make a 905nm LRF with the same power as a 1550nm LRF, but no one does that because it would be illegal to sell to civilians, dangerous to troops, and visible to near-peer adversaries. The whole reason 1550nm LRFs exist is that the wavelength doesn’t penetrate the human cornea, so you can make way more powerful laser pulses without risking eye damage. So maybe you’re theoretically correct, but in the real world you can absolutely make immediate inferences about the relative power and capability between a 905 vs a 1550 unit.
+
+I agree that better software and processing will help a higher-end 905 outperform a lower-end 905. But that doesn’t mean the 905s come close to the 1550s. And if you’re paying 7k for a 905 you should objectively just pay the extra 2k for a 1550 unit. The only exception is, as Horta said, if you need to avoid ITAR or something.
+ 
+Last edited: Jun 10, 2024
+CR2 Dude
+CR2 Shooting Solutions
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Supporter+
+Nov 19, 2017
+594
+451
+GA
+www.cr2shootingsolutions.com
+Jun 10, 2024
+#10
+Conqueror said:
+Uh yes it is. Like, sure, you could theoretically make a 905nm LRF with the same power as a 1550nm LRF, but no one does that because it would be illegal to sell to civilians, dangerous to troops, and visible to near-peer adversaries. The whole reason 1550nm LRFs exist is that the wavelength doesn’t penetrate the human cornea, so you can make way more powerful laser pulses without risking eye damage. So maybe you’re theoretically correct, but in the real world you can absolutely make immediate inferences about the relative power and capability between a 905 vs a 1550 unit.
+
+I agree that better software and processing will help a higher-end 905 outperform a lower-end 905. But that doesn’t mean the 905s come close to the 1550s. And if you’re paying 7k for a 905 you should objectively just pay the extra 2k for a 1550 unit. The only exception is, as Horta said, if you need to avoid ITAR or something.
+Click to expand...
+You just conflated a bunch of things that aren’t inherently tied together. Wavelength and power, legality, safety and you rolled in near peer conflict.
+
+And that is the exact problem I was getting at. But I’m glad you went down this road.
+
+1. Nobody who make a a WMLRF, makes them in 1550nm because it’s eye safe. They do it so it’s not visible by night vision. Plain and simple. Hence why all the 1550nm lasers are coming out of the .GOV market. They are actually worried about near-peer, unlike most of the people who like to use that as a talking point on the internet.
+
+2. Wavelength and power output are not inherently tied together. Like you confirmed. I could make a supercharged 905nm if a wanted to. So we need to stop confusing people by saying they are.
+
+3. Legality: well this is a fun one and I don’t write laws. But what I can say, the reason the Sig laser is so much more effective than almost any other rangefinder on the market is because they read the law and understood that they could simulate a higher power laser (I.e. illegal for civilian ownership) by maintaining power output, but increasing pulse rate. Effectively solving multiple problems at the same time. The made a 905 laser that is affordable, the made a really effective laser because it “act” like it’s a lot higher wattage and by increasing the amount of laser pulses increased the probability of a good return in austere atmospheric conditions.
+
+4. I’ll agree with you on software and processing but it’s not just that. There is an actuall disparity in the quality of laser. It’s like shining an incandescent light on the wall vs a LED. The LED is going to give you a much cleaner beam
+ 
+Last edited: Jun 11, 2024
+ 
+Reactions:
+BipThatInstance and SkyScrapin
+TheHorta
+Nest-stirring pot-poker.
+Supporter
+Full Member
+Minuteman
+ 
+Jan 17, 2014
+5,304
+15,643
+NO AL
+Jun 10, 2024
+#11
+Also, oft forgotten… 1550nm is SWIR, which penetrates atmospheric obscurants much better than NIR 840-950nm — on top of the other benefits inherent in the SWIR band.
+
+It won’t matter much, if at all, to most civilian users, and saving $3K for an otherwise similarly performing LRF is a non-trivial advantage. But, the apparent orverarching reason for Envision to make an NIR MARS was for easier access to the export market.
+
+I’m sure someone with closer ties to Envision can confirm or dispell this as the primary motivator.
+ 
+ 
+Reactions:
+jwramp
+CR2 Dude
+CR2 Shooting Solutions
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Supporter+
+Nov 19, 2017
+594
+451
+GA
+www.cr2shootingsolutions.com
+Jun 10, 2024
+#12
+TheHorta said:
+Also, oft forgotten… 1550nm is SWIR, which penetrates atmospheric obscurants much better than NIR 840-950nm — on top of the other benefits inherent in the SWIR band.
+
+It won’t matter much, if at all, to most civilian users, and saving $3K for an otherwise similarly performing LRF is a non-trivial advantage. But, the apparent orverarching reason for Envision to make an NIR MARS was for easier access to the export market.
+
+I’m sure someone with closer ties to Envision can confirm or dispell this as the primary motivator.
+Click to expand...
+I can agree with everything you just said
+ 
+ 
+Reactions:
+TheHorta
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,676
+1,435
+North Central FL
+Jun 10, 2024
+#13
+You just conflated a bunch of things that aren’t inherently tied together.
+
+No, I didn’t conflate them. I acknowledged that you were technically correct. But then I pointed out that that doesn’t matter. The fact is every 1550nm laser on the market significantly outperforms every 900nm laser on the market for reasons of power, beam divergence, superior processing software, etc all combined. So it is 100% fair and accurate for anyone looking at buying a WMLRF to assume that a 1550nm system is MUCH more capable, because no one makes your theoretical just-as-good 900nm system.
+
+What you’re basically saying is “no one should look at a Ferrari and a Honda and assume the Ferrari is faster, because Honda could make a V12 hypercar.” Yeah, sure, that’s technically accurate to say, but also incredibly pointless because Honda doesn’t make a V12 hypercar, so the assumption is completely reasonable to make in the real world if you’re shopping for cars in 2024.
+
+We can both be right here. You’re talking about theoretical physics and I’m talking about what actual systems are on the market today. No matter how good Sig’s high-frequency 905 system is I bet you’d take a 1550nm system over it if they were both on the Free Prizes table.
+ 
+Last edited: Jun 10, 2024
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Jun 11, 2024
+#14
+The full power Mars if definitely a all around performer and with the built in illuminator and ease of use is game changer.
+
+The Vortex impacts poor performance in the cold can be fixed by using rechargeable 123 batteries because of the voltage.
+ 
+ 
+Reactions:
+CR2 Dude
+SkyScrapin
+Strictly Offensive Kit
+Commercial Supporter
+Full Member
+Minuteman
+Jan 31, 2010
+3,594
+4,403
+Dallas, TX
+strictlyoffensivekit.com
+Jun 11, 2024
+#15
+@dgheriani my thoughts:
+
+My experience with MARS-Mc v. Impact 4000 has been apples to oranges.
+
+Mc is better in every way (my humble opinion) thus inherently more money, tho at a lower price point than the Lc or c. For guys shooting ELR, the Lc or c are the top choices; Mc is great for everything else in my testing.
+
+So as to not be totally bias, the Impact 4000 out of the box bluetooth controller is quite nice. I wish all WMLRFs had them, but I understand why they all don't. I4000 price point is great, and there's a tremendous value there for folks just getting into the WMLRF game. Like most lower cost items, it's a stepping stone to something that is inevitably more reliable and all around better.
+
+Preston
+ 
+ 
+Reactions:
+NHPiper, dgheriani, TheHorta and 3 others
+MinistryOfTruth
+Sergeant of the Hide
+Full Member
+Minuteman
+May 7, 2022
+159
+290
+Maryland
+Jun 11, 2024
+#16
+CR2 Dude said:
+I think there is a lot of confusion that people have about what LRF wavelength actually means.
+
+The wavelength being 1550 vs 905 is in no indication of the quality of laser, power, or the capability.
+
+But because people see a $2k Vortex 905 they think a $6800 Envision 905 they immediately think they’re the same. You can go on YouTube right now and watch dozens of videos of people putting WMLRF’s of all prices against each other. In almost every circumstance, minus perfect weather, large targets, and target backstops. The higher dollar LRF’s outperform.
+
+Bottom line every model of the the Envison Mars WMLRF has a VCSEL and that is what you’re paying for. Same goes for a Wilcox
+Click to expand...
+The $800 BE Meyers Kiji is a VCSEL. From what used to be the most overpriced laser company in the business.
+
+Do you have a link to the video where the 905nm MARS is stomping other 905nm lasers?
+
+Or is it videos where the 15xx MARS is stomping 905nm lasers? The 15xx modules are expensive. Even a cheap one is about a $3000 part by itself.
+
+905nm laser/detector packages with excellent range are now a $200 part.
+ 
+CR2 Dude
+CR2 Shooting Solutions
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Supporter+
+Nov 19, 2017
+594
+451
+GA
+www.cr2shootingsolutions.com
+Jun 11, 2024
+#17
+MinistryOfTruth said:
+The $800 BE Meyers Kiji is a VCSEL. From what used to be the most overpriced laser company in the business.
+
+Do you have a link to the video where the 905nm MARS is stomping other 905nm lasers?
+
+Or is it videos where the 15xx MARS is stomping 905nm lasers? The 15xx modules are expensive. Even a cheap one is about a $3000 part by itself.
+
+905nm laser/detector packages with excellent range are now a $200 part.
+Click to expand...
+We will have one for you shortly. We’ve been running laser rangefinder evals for a while, but the 905 just hit the market last week so everything up until now has just been testing with it
+ 
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Jun 11, 2024
+#18
+I got to test what I believe was the Mars MC before it was called that over a year ago with the 905 laser.
+I was not impressed sense past 700m it was hard to even get a range back.
+Thats due to the objective being so small.
+The impact absolutely out ranged it.
+But if long range past 700 is not your thing, then it’s perfect.
+Is $6800 worth it over a impact 4000 with a lifetime warranty? I think not.
+ 
+ 
+Reactions:
+jwramp
+TheHorta
+Nest-stirring pot-poker.
+Supporter
+Full Member
+Minuteman
+ 
+Jan 17, 2014
+5,304
+15,643
+NO AL
+Jun 11, 2024
+#19
+I have to assume Sig is working hard on Gen2 of the 4000.
+
+IMO, the Achilles Heel is the form factor. The price is spectacular, for what you get, but it just looks even worse than the original Raptar, but at least the Raptar could be recessed on a dive board or a Stanag hole, where the 4000 just looks like a tri-level doghouse.
+ 
+ 
+Reactions:
+BipThatInstance and Conqueror
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Jun 11, 2024
+#20
+I’ve heard Gen two in the works
+ 
+ 
+Reactions:
+TheHorta
+MinistryOfTruth
+Sergeant of the Hide
+Full Member
+Minuteman
+May 7, 2022
+159
+290
+Maryland
+Jun 11, 2024
+#21
+JackOfAllTrades said:
+I’ve heard Gen two in the works
+I for sure will pick up a gen2 that does all this shit and is little.
+ 
+ 
+Reactions:
+TheHorta
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,336
+2,169
+Midwest
+Jun 11, 2024
+#22
+I hope they make a gen2 because I’d stick my gen1 on a spotter.
+
+Someday I’ll have the cool kid toys that are 1550nm and talk to each other 
+ 
+ 
+Reactions:
+TheHorta and JackOfAllTrades
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Jun 11, 2024
+#23
+I always point people to the impact over the Mars for most purposes.
+Unless you are a extreme end user or just have the cash get the Mars.
+Want the small footprint but don’t want to shovel out the full price, get the 905nm but understand the limitations.
+Need to just range and engage anything you can shoot at, get the vortex.
+Much easier to stomach if it broke
+ 
+ 
+Reactions:
+TheHorta
+D
+dgheriani
+Private
+Full Member
+Minuteman
+Feb 10, 2017
+880
+603
+Jun 17, 2024
+#24
+Does anyone know who makes the mount that the Mars-M is shown on? The one that attaches to the 12:00 rail on the upper/handguard so you don't need a diving board? I've got diving boards on lotsa my optics (for my Impact 4k) but that design seems like an easy solution for a few gas guns that don't have diving boards or that diving boards don't exist for the optic mounts that I have on them.
+ 
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,676
+1,435
+North Central FL
+Jun 17, 2024
+#25
+Geissele makes it but I don’t know if they sell it to the public. I think it’s made on the Geissele Defense side.
+
+Edit: honestly it’s probably easier to just mount it on a side rail and turn the display than to use that chonky thing.
+ 
+ 
+Reactions:
+dgheriani
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Jun 17, 2024
+#26
+It’s a big bulky mount, it works but another option is just getting a 30mm ring with pic rail.
+Another solution if you have Geissele rings is to get the reptilia diving board
+ 
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,183
+4,871
+CONUS
+Jun 17, 2024
+#27
+JackOfAllTrades said:
+get the reptilia diving board
+Unless you’re running an S&B Ultra Short…
+ 
+D
+dgheriani
+Private
+Full Member
+Minuteman
+Feb 10, 2017
+880
+603
+Jun 17, 2024
+#28
+Conqueror said:
+Geissele makes it but I don’t know if they sell it to the public. I think it’s made on the Geissele Defense side.
+
+Edit: honestly it’s probably easier to just mount it on a side rail and turn the display than to use that chonky thing.
+
+Yeah, it does look chonky... I've yet to try it but mounting the Impact on a side rail just looks like it would really suck when the rifle is slung.
+ 
+D
+dgheriani
+Private
+Full Member
+Minuteman
+Feb 10, 2017
+880
+603
+Jun 17, 2024
+#29
+JackOfAllTrades said:
+It’s a big bulky mount, it works but another option is just getting a 30mm ring with pic rail.
+Another solution if you have Geissele rings is to get the reptilia diving board
+I've got diving boards on most of my mounts now but still have a few gas guns with mounts that don't take diving boards and I'm honestly kinda sick of selling perfectly good mounts to get new ones that take more accessories, haha. A 30mm ring with a pic rail might work on some of them , I'll have to check the clearance between ring caps and turrets and objective bell. I just like the idea of this mount so that I can just leave a bunch of rifles as is and be able to occasionally use the Impact if I feel so inclined.
+ 
+ 
+Reactions:
+JackOfAllTrades
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Jun 17, 2024
+#30
+It’s the cheapest alternative for your use I suppose.
+Would work just fine
+ 
+D
+dgheriani
+Private
+Full Member
+Minuteman
+Feb 10, 2017
+880
+603
+Jun 18, 2024
+#31
+JackOfAllTrades said:
+It’s the cheapest alternative for your use I suppose.
+Would work just fine
+
+That is if I can find a price for it, haha. Couldn't find it on Geissele's website...
+ 
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,183
+4,871
+CONUS
+Jun 22, 2024
+#32
+I just did a preliminary test with a Mars-mc head to head with Mars-c. Performance out to 1225 yards was nearly identical on steel. I also tried lasing a grassy hill at 1843 yards - Mars-c was slightly more successful. Again, just preliminary, but in the coming weeks I’ll do more practical testing.
+ 
+ 
+Reactions:
+Ncloud, rlsmith1, JackOfAllTrades and 1 other person
+CR2 Dude
+CR2 Shooting Solutions
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Supporter+
+Nov 19, 2017
+594
+451
+GA
+www.cr2shootingsolutions.com
+Jun 22, 2024
+#33
+Dogtown said:
+I just did a preliminary test with a Mars-mc head to head with Mars-c. Performance out to 1225 yards was nearly identical on steel. I also tried lasing a grassy hill at 1843 yards - Mars-c was slightly more successful. Again, just preliminary, but in the coming weeks I’ll do more practical testing.
+We’ve been testing them all week. I’m sorting through nearly 60gb of video right now. We put it up against the Vortex, L3, a Prototype and a few handhelds. Pretty interesting.
+ 
+ 
+Reactions:
+rlsmith1, Ncloud, Milf Dots and 1 other person
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,183
+4,871
+CONUS
+Jun 22, 2024
+#34
+What a
+
+CR2 Dude said:
+We’ve been testing them all week.
+What are your initial impressions?
+ 
+CR2 Dude
+CR2 Shooting Solutions
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Supporter+
+Nov 19, 2017
+594
+451
+GA
+www.cr2shootingsolutions.com
+Jun 22, 2024
+#35
+There was a lot of surprises. I’m gonna do my best to present the facts as raw as I can, let people draw their own conclussions.
+ 
+CR2 Dude
+CR2 Shooting Solutions
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Supporter+
+Nov 19, 2017
+594
+451
+GA
+www.cr2shootingsolutions.com
+Jun 22, 2024
+#36
+Dogtown said:
+What a
+
+What are your initial impressions?
+I like the Mars-Mc. But I understand people having a hard time getting over the price tag.
+ 
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,183
+4,871
+CONUS
+Jun 22, 2024
+#37
+Agreed; it’s definitely a niche product. I think the Vortex is a good value, especially where the street price has fallen to, but its limitations pushed me towards the Mars-series. It will be interesting to see how the low-power RAPTAR Xe will compare to the Mars-c IR laser/illum. In the meantime, the Mars-mc looks to be a good option for use with a Voodoo-M: no need for IR stuff, and talks to thermal.
+ 
+ 
+Reactions:
+rlsmith1 and CR2 Dude
+Lowlight
+HMFIC of this Shit
+Staff member
+Moderator
+Supporter
+Minuteman
+Apr 12, 2001
+36,089
+43,013
+Base of the Rockies
+www.snipershide.com
+Jul 3, 2024
+#38
+I grabbed one to use, as I don't have a mounted laser
+
+
+If you look at the new Vector X laser which is also 905, I was consistently hitting 4000 yards with it,
+
+They changed a lot in terms of tech to make these 905 lasers work better, the size is really the key for me, it's 1/2 the size of the cheaper units so I wanted small more than anything
+ 
+ 
+Reactions:
+xxflyingturtlexx and Terry Cross
+MSTN
+Sergeant
+Full Member
+Minuteman
+Jan 31, 2010
+1,334
+2,759
+MIDDLE OF ARIZONA
+mstn.biz
+Jul 21, 2024
+#39
+So does this device generate its own environmentals, or do you need to input them?
+ 
+CR2 Dude
+CR2 Shooting Solutions
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Supporter+
+Nov 19, 2017
+594
+451
+GA
+www.cr2shootingsolutions.com
+Jul 21, 2024
+#40
+MSTN said:
+So does this device generate its own environmentals, or do you need to input them?
+You can pull environmental right on the device
+ 
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,183
+4,871
+CONUS
+Jul 21, 2024
+#41
+You can also hookup a Kestrel, but there really isn’t a need to. Think of the MARS-series the way you think about the RAPTAR S or MRF.
+ 
+MSTN
+Sergeant
+Full Member
+Minuteman
+Jan 31, 2010
+1,334
+2,759
+MIDDLE OF ARIZONA
+mstn.biz
+Jul 22, 2024
+#42
+Thanks for the input. The software in my Kestrel is too old to work with the MARS-Mc, unfortunately. Had to enter environmentals manually. Gotta pick a home for the pressure pad.
+
+
+ 
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,183
+4,871
+CONUS
+Jul 22, 2024
+#43
+So…when you go to settings > Environment, the values aren’t automatically populated? Both of mine do that every time - the only reason I’ve ever connected the Kestrel is for moving gun data or live wind vectors (which I've stopped doing anyway).
+ 
+MSTN
+Sergeant
+Full Member
+Minuteman
+Jan 31, 2010
+1,334
+2,759
+MIDDLE OF ARIZONA
+mstn.biz
+Jul 22, 2024
+#44
+No - But I "envisioned" that they would be - All environmentals are frozen to Standard Day conditions. They can be overwritten manually, of course.
+ 
+Last edited: Jul 22, 2024
+Ncloud
+Minister of Propaganda- Eliteiron
+Full Member
+Minuteman
+Apr 16, 2017
+241
+108
+Jul 23, 2024
+#45
+I cut the rubber coating on a magpul grip I had laying around to see if I could recess the remote into the grip. It worked pretty well, not perfect. Easy to operate without breaking grip and doesn’t interfere.
+ 
+Attachments
+IMG_1078.jpeg
+141.6 KB · Views: 86
+ 
+Reactions:
+MSTN and Dogtown
+You must log in or register to reply here.
+Similar threads
+	
+TNVC Partners With Envision Technology - MARS Rangefinder & RAIL Family, MARS-Lc
+Victor-TNVC Apr 25, 2024 Observation & Sighting Devices
+0
+Apr 25, 2024
+	
+Rifle Scopes 💥2024 Just Announced💥 MARSc - Onboard VCSEL NIR Illum & Laser
+SkyScrapin Jan 18, 2024 Observation & Sighting Devices
+69
+Today at 5:12 PM
+	
+MARS-Lc Review & Order Link
+SkyScrapin Dec 29, 2022 Observation & Sighting Devices
+190
+Nov 13, 2024
+	
+Envision MARS-L Announced - Wilcox RAPTAR Killer?
+NGCSUGrad09 Jan 5, 2022 Observation & Sighting Devices
+214
+Oct 20, 2023
+	
+Maggie’s New Winners - Next Drawing is Oct 2nd
+gr8fuldoug Sep 4, 2024 The Bear Pit
+0
+Sep 4, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/envision-mars-m-and-m-c.7220888/ 
+ ----- 

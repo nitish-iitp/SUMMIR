@@ -1,0 +1,330 @@
+CAN vs IRE
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+13th Match, Group A, New York, June 07, 2024, ICC Men's T20 World Cup
+CAN
+137/7
+IRE
+(20 ov, T:138) 125/7
+
+Canada won by 12 runs
+
+Powered by Smart Stats
+Win Probability
+CAN 100%
+IRE 0.00%
+CAN
+IRE
+100%
+50%
+100%
+CAN Innings
+IRE Innings
+
+Over 20 • IRE 125/7
+
+Mark Adair c & b Gordon 34 (24b 3x4 1x6 33m) SR: 141.66
+W
+Canada won by 12 runs
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Nicholas Kirton
+, CAN
+49 (35)
+CRICINFO'S MVP
+Mark Adair
+, IRE
+83.8 pts
+Impact List
+Canada
+Ireland
+Match Flow
+Info
+Canada  (20 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+Aaron Johnson 
+\t14\t13\t3\t0\t107.69
+
+c Campher b Young
+
+
+Navneet Dhaliwal 
+\t6\t10\t1\t0\t60.00
+
+c Dockrell b Adair
+
+
+Pargat Singh 
+\t18\t14\t2\t0\t128.57
+
+c Little b Young
+
+
+Dilpreet Bajwa 
+\t7\t9\t1\t0\t77.77
+
+c & b Delany
+
+
+Nicholas Kirton 
+\t49\t35\t3\t2\t140.00
+
+c Balbirnie b McCarthy
+
+
+Shreyas Movva †
+\t37\t36\t3\t0\t102.77
+
+run out (McCarthy/†Tucker)
+
+
+Dilon Heyliger 
+\t0\t2\t0\t0\t0.00
+
+c Little b McCarthy
+
+
+Saad Bin Zafar (c)
+\t1\t1\t0\t0\t100.00
+
+not out
+
+Extras\t5\t(w 5)
+Total\t137/7\t
+20 Ov (RR: 6.85)
+
+
+Did not bat: 
+Kaleem Sana, 
+Junaid Siddiqui, 
+Jeremy Gordon 
+
+
+Fall of wickets: 1-12 (Navneet Dhaliwal, 2.2 ov), 2-28 (Aaron Johnson, 4.6 ov), 3-42 (Pargat Singh, 6.5 ov), 4-53 (Dilpreet Bajwa, 8.1 ov), 5-128 (Nicholas Kirton, 18.4 ov), 6-128 (Dilon Heyliger, 18.6 ov), 7-137 (Shreyas Movva, 19.6 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Mark Adair
+\t4\t0\t23\t
+1
+\t5.75\t1\t0
+
+Josh Little
+\t4\t0\t37\t0\t9.25\t2\t0
+
+Craig Young
+\t4\t0\t32\t
+2
+\t8.00\t1\t0
+
+Barry McCarthy
+\t4\t0\t24\t
+2
+\t6.00\t0\t0
+
+Gareth Delany
+\t2\t0\t10\t
+1
+\t5.00\t0\t0
+
+Curtis Campher
+\t2\t0\t11\t0\t5.50\t1\t0
+Ireland  (T: 138 runs from 20 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+Andy Balbirnie 
+\t17\t19\t1\t0\t89.47
+
+c & b Junaid Siddiqui
+
+
+Paul Stirling (c)
+\t9\t17\t1\t0\t52.94
+
+c †Movva b Gordon
+
+
+Lorcan Tucker †
+\t10\t15\t0\t0\t66.66
+
+run out (Kirton/Saad Bin Zafar)
+
+
+Harry Tector 
+\t7\t5\t0\t0\t140.00
+
+b Saad Bin Zafar
+
+
+Curtis Campher 
+\t4\t7\t0\t0\t57.14
+
+c Johnson b Heyliger
+
+
+George Dockrell 
+\t30\t23\t2\t1\t130.43
+
+not out
+
+
+Gareth Delany 
+\t3\t7\t0\t0\t42.85
+
+c †Movva b Heyliger
+
+
+Mark Adair 
+\t34\t24\t3\t1\t141.66
+
+c & b Gordon
+
+
+Barry McCarthy 
+\t2\t3\t0\t0\t66.66
+
+not out
+
+Extras\t9\t(b 3, lb 1, w 5)
+Total\t125/7\t
+20 Ov (RR: 6.25)
+
+
+Did not bat: 
+Josh Little, 
+Craig Young 
+
+
+Fall of wickets: 1-26 (Paul Stirling, 5.4 ov), 2-32 (Andy Balbirnie, 6.2 ov), 3-41 (Harry Tector, 7.4 ov), 4-50 (Lorcan Tucker, 9.6 ov), 5-53 (Curtis Campher, 10.5 ov), 6-59 (Gareth Delany, 12.3 ov), 7-121 (Mark Adair, 19.2 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Kaleem Sana
+\t4\t0\t38\t0\t9.50\t3\t0
+
+Jeremy Gordon
+\t4\t0\t16\t
+2
+\t4.00\t1\t0
+
+Junaid Siddiqui
+\t4\t0\t27\t
+1
+\t6.75\t0\t0
+
+Saad Bin Zafar
+\t4\t0\t22\t
+1
+\t5.50\t0\t0
+
+Dilon Heyliger
+\t4\t0\t18\t
+2
+\t4.50\t1\t0
+Unlocking the magic of Statsguru
+Match Flow
+Canada innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 37 runs, 2 wickets)
+Canada: 50 runs in 7.6 overs (48 balls), Extras 3
+Drinks: Canada - 63/4 in 10.0 overs (NR Kirton 11, S Movva 4)
+Canada: 100 runs in 15.2 overs (92 balls), Extras 4
+5th Wicket: 50 runs in 44 balls (NR Kirton 28, S Movva 21, Ex 1)
+Innings Break: Canada - 137/7 in 20.0 overs (Saad Bin Zafar 1)
+Ireland innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 31 runs, 1 wicket)
+Over 9.1: Review by Canada (Bowling), Decision Challenged - Wicket, Umpire - SJ Nogajski, Batter - LJ Tucker (Struck down)
+Ireland: 50 runs in 9.5 overs (59 balls), Extras 4
+Drinks: Ireland - 50/4 in 10.0 overs (C Campher 3)
+Ireland: 100 runs in 16.5 overs (101 balls), Extras 8
+7th Wicket: 50 runs in 32 balls (GH Dockrell 24, MR Adair 24, Ex 3)
+Match Details
+Nassau County International Cricket Stadium, New York
+
+Toss\tIreland, elected to field first
+Series\t
+ICC Men's T20 World Cup
+
+Season\t
+2024
+
+Player Of The Match\t
+Nicholas Kirton
+
+Match number\t
+T20I no. 2644
+
+Match days\t7 June 2024 - day (20-over match)
+Umpires\t
+Richard Kettleborough
+DRS
+Sam Nogajski
+DRS
+
+TV Umpire\t
+Chris Brown
+
+Reserve Umpire\t
+Chris Gaffaney
+
+Match Referee\t
+Richie Richardson
+
+Points\tCanada 2, Ireland 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 873 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/canada-vs-ireland-13th-match-group-a-1415713/full-scorecard 
+ ----- 

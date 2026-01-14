@@ -1,0 +1,590 @@
+MY FAVS
+Access and manage your favorites here
+DISMISS
+DOUBLEHEADER - GAME 1
+Brewers
+5
+Reds
+4
+FINAL (10)
+AUGUST 30
+Great American Ball Park, Cincinnati, OH
+MLB
+>
+SCORES
+>
+MILWAUKEE BREWERS VS. CINCINNATI REDS - BOXSCORE: AUG 30, 2024
+RECAP
+BOX SCORE
+PLAY-BY-PLAY
+ODDS
+NEWS
+BREWERS
+REDS
+BATTERS
+	
+AB
+	
+R
+	
+H
+	
+RBI
+	
+BB
+	
+SO
+	
+LOB
+	
+AVG
+
+
+J. Chourio
+LF
+	
+5
+	
+0
+	
+2
+	
+0
+	
+0
+	
+1
+	
+1
+	
+.273
+
+
+R. Hoskins
+1B
+	
+3
+	
+0
+	
+0
+	
+0
+	
+0
+	
+1
+	
+1
+	
+.211
+
+
+J. Bauers
+PH-1B
+	
+1
+	
+0
+	
+0
+	
+0
+	
+0
+	
+0
+	
+1
+	
+.202
+
+
+W. Contreras
+C
+	
+4
+	
+1
+	
+1
+	
+1
+	
+0
+	
+1
+	
+0
+	
+.285
+
+
+W. Adames
+SS
+	
+4
+	
+2
+	
+2
+	
+1
+	
+0
+	
+0
+	
+0
+	
+.254
+
+
+G. Mitchell
+CF
+	
+3
+	
+1
+	
+2
+	
+0
+	
+0
+	
+0
+	
+0
+	
+.262
+
+
+B. Perkins
+PH-CF
+	
+1
+	
+0
+	
+1
+	
+0
+	
+0
+	
+0
+	
+0
+	
+.261
+
+
+G. Sánchez
+DH
+	
+3
+	
+0
+	
+0
+	
+0
+	
+1
+	
+1
+	
+3
+	
+.235
+
+
+E. Haase
+PR-DH
+	
+0
+	
+1
+	
+0
+	
+0
+	
+0
+	
+0
+	
+0
+	
+.308
+
+
+J. Ortiz
+3B
+	
+3
+	
+0
+	
+0
+	
+0
+	
+0
+	
+1
+	
+3
+	
+.239
+
+
+B. Turang
+PH-2B
+	
+1
+	
+0
+	
+1
+	
+0
+	
+0
+	
+0
+	
+0
+	
+.255
+
+
+S. Frelick
+RF
+	
+4
+	
+0
+	
+1
+	
+2
+	
+0
+	
+0
+	
+1
+	
+.264
+
+
+A. Monasterio
+2B-3B
+	
+4
+	
+0
+	
+1
+	
+0
+	
+0
+	
+1
+	
+1
+	
+.210
+
+
+TOTALS
+	
+36
+	
+5
+	
+11
+	
+4
+	
+1
+	
+6
+	
+11
+	
+-
+BATTING
+2B:
+Chourio (21, Martinez); Mitchell (9, Martinez)
+HR:
+Adames (25, 2nd inning off Martinez, 0 on, 0 out); Contreras (19, 4th inning off Martinez, 0 on, 0 out)
+TB:
+Adames 5; Contreras 4; Mitchell 3; Chourio 3; Turang; Monasterio; Perkins; Frelick
+RBI:
+Frelick 2 (26); Adames (89); Contreras (78)
+2-Out RBI:
+Frelick 2
+GIDP:
+Sánchez; Ortiz; Frelick
+Team LOB:
+3
+BASERUNNING
+CS:
+Contreras (2, 2nd base by Pagán/Maile); Sánchez (2nd base by Wilson/Maile)
+PO:
+Perkins
+FIELDING
+Outfield Assists:
+Mitchell
+Errors:
+Rea (5); Frelick (3)
+PITCHERS
+	
+IP
+	
+H
+	
+R
+	
+ER
+	
+BB
+	
+SO
+	
+HR
+	
+ERA
+
+
+C. Rea
+	
+4.0
+	
+6
+	
+4
+	
+3
+	
+0
+	
+5
+	
+2
+	
+3.70
+
+
+B. Hudson
+	
+2.0
+	
+0
+	
+0
+	
+0
+	
+1
+	
+0
+	
+0
+	
+1.78
+
+
+J. Payamps
+	
+1.0
+	
+1
+	
+0
+	
+0
+	
+0
+	
+2
+	
+0
+	
+3.55
+
+
+J. Koenig
+	
+1.0
+	
+1
+	
+0
+	
+0
+	
+1
+	
+0
+	
+0
+	
+2.29
+
+
+T. Megill
+W (1-3)
+	
+1.0
+	
+1
+	
+0
+	
+0
+	
+0
+	
+1
+	
+0
+	
+3.13
+
+
+D. Williams
+S (7)
+	
+1.0
+	
+0
+	
+0
+	
+0
+	
+1
+	
+1
+	
+0
+	
+2.53
+
+
+TOTALS
+	
+10.0
+	
+9
+	
+4
+	
+3
+	
+3
+	
+9
+	
+2
+	
+-
+PITCHING
+WP:
+Williams (1)
+HBP:
+India (by Rea)
+Pitches-Strikes:
+Rea 92-59; Hudson 19-11; Payamps 21-15; Koenig 13-7; Megill 14-8; Williams 25-14
+Ground Balls-Fly Balls:
+Rea 5-5; Hudson 3-2; Payamps 0-0; Koenig 0-1; Megill 1-1; Williams 0-2
+Batters Faced:
+Rea 19; Hudson 7; Payamps 4; Koenig 3; Megill 4; Williams 4
+SPONSORED CONTENT
+Nieuwe prachtige appartementen voor senioren (ontdek nu meer)
+Seniorenappartementen | Zoek Advertenties
+|
+Sponsored
+Heeft u moeite met lange stukken wandelen?
+Een scootmobiel is dé ideale oplossing !
+Scootmobiel kopen | Zoek Advertenties
+|
+Sponsored
+Klik hier
+Zie wie er aan je deur staat met dit alarm
+Beveilig jouw huis vandaag nog: Alarm met beveiligingscamera's....
+Verisure®
+|
+Sponsored
+Ontvang bod
+Groningen: Nieuwe betaalbare seniorenflats (bekijk prijzen)
+Seniorenappartementen | Zoek Advertenties
+|
+Sponsored
+Scootmobiel kopen?
+Bespaar geld en tijd door offertes te vergelijken!
+Scootmobiel kopen | Zoek Advertenties
+|
+Sponsored
+Klik hier
+Deze videodeurbel is dе hit vаn 2024 en kost bijnа niets
+Doe de gratis beveiligingscheck en weet direct of jouw huis veilig is.
+Verisure®
+|
+Sponsored
+Ontvang bod
+Groningen: Onverkochte relaxsto elen worden bijna weggegeven!
+Local Plan
+|
+Sponsored
+Meer lezen
+Windenergie vs. Elektrische Energie
+Windenergie is schoon, onuitputtelijk en stoot geen schadelijke broeikasg...
+Energieleverancier | Zoek Advertenties
+|
+Sponsored
+Meer informatie
+Windenergie besser als Elektrische Energie? 
+Door samenwerkingen en CO₂-reductie-initiatieven speelt Eneco een leidende rol in de energietransit...
+Energieleverancier | Zoek Advertenties
+|
+Sponsored
+Meer informatie
+Bloedsuiker uit balans? Probeer deze truc van 5 seconden vandaag nog!
+GlucoSerenity
+|
+Sponsored
+TOP LEAGUES
+NFL
+College Football
+NBA
+MLB
+College Basketball
+UFL
+TOP SHOWS
+The Herd with Colin Cowherd
+First Things First
+Speak
+Breakfast Ball
+The Facility
+AFFILIATED APPS
+FOX Sports
+QUICK LINKS
+Soccer Leagues and Tournaments
+NFL Power Rankings
+NFL Scores
+Super Bowl 2025
+2025 NFL Playoff Bracket
+FOX SPORTS™, SPEED™, SPEED.COM™ & © 2025 Fox Media LLC and Fox Sports Interactive Media, LLC. All rights reserved. Use of this website (including any and all parts and components) constitutes your acceptance of these Updated Terms of Use and Privacy Policy | Advertising Choices | Your Privacy Choices | Closed Captioning
+HelpPressAdvertise with UsJobsFOX CincyRSSSitemap
+FS1FOXFOX NewsFox CorporationFOX Sports SupportsFOX Deportes
+ 
+ 
+ ----- 
+ Source link : https://www.foxsports.com/mlb/milwaukee-brewers-vs-cincinnati-reds-doubleheader-game-1-aug-30-2024-game-boxscore-91155?tab=boxscore 
+ ----- 

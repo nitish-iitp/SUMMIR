@@ -1,0 +1,657 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Washington Nationals Schedule
+Chicago Cubs Schedule
+Chicago Cubs vs Washington Nationals Box Score: August 30, 2024
+MLB Scores — August 30, 2024
+MIL	5	Final
+CIN	4	(10)
+MIL	14	Final
+CIN	0	
+BOS	7	Final
+DET	5	(10)
+ATL	7	Final
+PHI	2	
+CHC	7	Final
+WSN	6	
+SDP	13	Final
+TBR	5	
+STL	3	Final
+NYY	6	
+PIT	8	Final
+CLE	10	
+OAK	9	Final
+TEX	2	
+NYM	5	Final
+CHW	1	
+KCR	2	Final
+HOU	3	
+TOR	0	Final
+MIN	2	
+BAL	5	Final
+COL	3	
+SEA	9	Final
+LAA	5	
+LAD	10	Final
+ARI	9	
+MIA	1	Final
+SFG	3	
+MLB Scores & Standings on this Day
+Chicago Cubs
+7
+69-66
+Prev Game Next Game
+ 
+Washington Nationals
+6
+61-74
+Prev Game Next Game
+Friday, August 30, 2024
+Start Time: 6:45 p.m. Local
+Attendance: 28,792
+Venue: Nationals Park
+Game Duration: 2:39
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Chicago Cubs	0	7	0	0	0	0	0	0	0	7	9	0
+
+	Washington Nationals	2	0	1	0	0	0	0	0	3	6	8	0
+WP: Shota Imanaga (11-3) • LP: Jake Irvin (9-11) • SV: Keegan Thompson (2)
+Chicago Cubs 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Ian Happ LF	5	1	2	1	0	2	5	.243	.347	.467	.814	20	12	0.102	0.55	0.115	-0.013	0.02%	0.18	1.1	3	0	2B
+Michael Busch 1B	5	1	2	1	0	1	5	.253	.338	.437	.774	19	13	0.081	0.51	0.101	-0.019	0.02%	0.17	0.8	9	0	2B
+Seiya Suzuki DH	5	0	0	0	0	3	5	.274	.347	.487	.834	20	14	-0.118	0.56	0.000	-0.118	-0.02%	0.19	-2.0	0	0	GDP
+Cody Bellinger RF	3	1	1	2	1	1	4	.268	.328	.426	.753	14	9	0.112	0.51	0.138	-0.026	0.02%	0.17	2.3	1	0	HR
+Isaac Paredes 3B	2	1	1	0	1	1	4	.228	.338	.407	.745	18	9	0.057	0.40	0.059	-0.003	0.01%	0.14	1.0	0	2	HBP
+Nico Hoerner 2B	3	1	1	0	1	1	4	.256	.327	.348	.676	20	11	0.124	0.85	0.154	-0.030	0.03%	0.29	0.6	0	3	CS
+Dansby Swanson SS	4	1	1	1	0	2	4	.227	.301	.364	.666	20	14	0.028	0.78	0.065	-0.037	0.01%	0.26	-0.7	1	2	
+Pete Crow-Armstrong CF	4	1	1	2	0	1	4	.233	.286	.391	.676	12	9	0.090	0.65	0.116	-0.026	0.02%	0.22	0.3	1	0	2B
+Miguel Amaya C	4	0	0	0	0	1	4	.240	.295	.365	.660	15	11	-0.022	0.39	0.000	-0.022	-0.01%	0.13	-0.7	12	0	
+																							
+Shota Imanaga P																					0	0	
+   Nate Pearson P																					0	0	
+   Tyson Miller P																					0	1	
+   Drew Smyly P																					0	0	
+   Keegan Thompson P																					0	0	
+Team Totals	35	7	9	7	3	13	39	.257	.333	.429	.762	158	102	0.454	0.59	0.748	-0.294	0.09%	0.20	2.6	27	8	
+2B: Ian Happ (33, off Jake Irvin); Pete Crow-Armstrong (11, off Jake Irvin); Michael Busch (25, off Jake Irvin).
+HR: Cody Bellinger (14, off Jake Irvin, 2nd inn, 1 on, 2 outs to Deep CF-RF).
+HBP: Isaac Paredes (15, by Jake Irvin).
+TB: Cody Bellinger 4; Ian Happ 3; Michael Busch 3; Pete Crow-Armstrong 2; Nico Hoerner; Dansby Swanson; Isaac Paredes.
+GIDP: Seiya Suzuki (4).
+RBI: Pete Crow-Armstrong 2 (36); Cody Bellinger 2 (57); Michael Busch (51); Dansby Swanson (52); Ian Happ (75).
+2-out RBI: Cody Bellinger 2.
+Team LOB: 5.
+With RISP: 3 for 11.
+Fielding
+DP: 1. Nico Hoerner-Dansby Swanson-Michael Busch.
+Baserunning
+CS: Nico Hoerner (4, 2nd base by Eduardo Salazar/Keibert Ruiz).
+Washington Nationals 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Dylan Crews RF	5	1	1	1	0	2	5	.313	.353	.813	1.165	18	13	-0.153	1.73	0.053	-0.205	0%	0.00	0.1	2	0	HR
+James Wood LF	4	1	1	0	0	1	4	.279	.374	.426	.801	17	13	-0.016	0.56	0.024	-0.041	0%	0.00	-0.3	1	0	
+Juan Yepez DH	3	0	0	0	0	1	3	.280	.330	.440	.770	8	7	-0.051	0.71	0.000	-0.051	0%	0.00	-0.6	0	0	
+   Luis García Jr. PH-DH	1	1	1	0	0	0	1	.292	.327	.456	.784	9	7	0.025	0.42	0.025	0.000	0%	0.00	0.6	0	0	2B
+Andrés Chaparro 1B	2	1	1	0	1	0	3	.264	.328	.453	.780	14	8	0.021	0.44	0.029	-0.007	0%	0.00	0.2	6	0	
+   Joey Gallo PH	0	1	0	0	1	0	1	.168	.293	.317	.610	7	3	0.042	0.90	0.042	0.000	0%	0.00	0.4	0	0	
+José Tena 3B	4	0	1	2	0	1	4	.305	.328	.441	.769	20	14	0.126	1.20	0.186	-0.060	0%	0.00	1.3	0	2	2B
+Ildemaro Vargas 2B	4	1	2	1	0	1	4	.259	.308	.333	.642	9	8	0.046	0.83	0.082	-0.036	0%	0.00	0.7	2	4	
+CJ Abrams SS	3	0	0	0	1	2	4	.243	.316	.431	.747	17	10	0.009	1.20	0.089	-0.080	0%	0.00	-0.7	1	0	GDP
+Keibert Ruiz C	4	0	0	0	0	2	4	.218	.250	.351	.601	14	11	-0.137	1.56	0.000	-0.137	0%	0.00	-1.3	14	1	
+Jacob Young CF	4	0	1	2	0	2	4	.258	.316	.339	.655	17	11	0.042	1.25	0.074	-0.032	0%	0.00	1.2	1	0	
+																							
+Jake Irvin P																					0	1	
+   Robert Garcia P																					0	0	
+   Joe La Sorsa P																					0	0	
+   Tanner Rainey P																					0	0	
+   Eduardo Salazar P																					0	0	
+   Orlando Ribalta P																					0	0	
+Team Totals	34	6	8	6	3	12	37	.235	.297	.382	.680	150	105	-0.046	1.08	0.604	-0.649	0.00%	0.00	1.6	27	8	
+2B: José Tena (2, off Shota Imanaga); Luis García Jr. (23, off Tyson Miller).
+HR: Dylan Crews (2, off Shota Imanaga, 3rd inn, 0 on, 0 outs to Deep LF).
+TB: Dylan Crews 4; José Tena 2; Luis García Jr. 2; Ildemaro Vargas 2; Andrés Chaparro; Jacob Young; James Wood.
+GIDP: CJ Abrams (4).
+RBI: José Tena 2 (9); Jacob Young 2 (32); Dylan Crews (3); Ildemaro Vargas (27).
+2-out RBI: José Tena 2; Jacob Young 2.
+Team LOB: 4.
+With RISP: 3 for 7.
+Fielding
+DP: 2. José Tena-Ildemaro Vargas-Andrés Chaparro; Keibert Ruiz-Ildemaro Vargas.
+Chicago Cubs 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Shota Imanaga, W (11-3)	6	4	3	3	1	8	1	3.14	23	96	68	36	14	18	4	10	3	0	59			-0.030	0.61	-0.01%	0.20	-0.1
+Nate Pearson	2	1	0	0	0	2	0	4.72	6	17	14	9	2	3	4	0	0	0		0	0	0.059	0.54	0.01%	0.18	1.0
+Tyson Miller	0.1	2	3	3	1	0	0	2.17	4	21	14	10	3	1	1	2	2	0		0	0	-0.091	1.13	-0.02%	0.38	-1.7
+Drew Smyly, H (9)	0.1	1	0	0	1	1	0	2.89	3	11	6	4	1	1	1	0	0	0		2	2	-0.060	3.79	-0.01%	1.27	-1.3
+Keegan Thompson, S (2)	0.1	0	0	0	0	1	0	3.26	1	5	3	1	1	1	0	0	0	0		2	0	0.168	6.61	0.03%	2.21	0.4
+Team Totals	9	8	6	6	3	12	1	6.00	37	150	105	60	21	24	10	12	5	0	59	4	2	0.046	1.08	0.01%	0.36	-1.6
+
+Washington Nationals 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Jake Irvin, L (9-11)	4.2	8	7	7	2	6	1	4.08	25	103	66	39	12	15	6	10	6	0	24			-0.509	0.81	0.00%	0.00	-5.2
+Robert Garcia	0.1	0	0	0	0	1	0	4.69	1	4	3	0	2	1	0	0	0	0		2	0	0.020	0.67	0.00%	0.00	0.6
+Joe La Sorsa	1	0	0	0	0	2	0	2.70	3	11	9	5	1	3	1	0	0	0		0	0	0.014	0.19	0.00%	0.00	0.5
+Tanner Rainey	1	0	0	0	0	2	0	5.49	3	11	7	3	2	2	0	1	0	0		0	0	0.011	0.14	0.00%	0.00	0.5
+Eduardo Salazar	1	0	0	0	1	1	0	1.23	3	11	5	3	0	2	0	1	0	0		0	0	0.007	0.21	0.00%	0.00	0.5
+Orlando Ribalta	1	1	0	0	0	1	0	9.00	4	18	12	9	1	2	0	3	1	0		0	0	0.003	0.06	0.00%	0.00	0.5
+Team Totals	9	9	7	7	3	13	1	7.00	39	158	102	59	18	25	7	15	7	0	24	2	0	-0.454	0.59	0.00%	0.00	-2.6
+
+Balks: None.
+WP: Jake Irvin 2 (5).
+HBP: Jake Irvin (4; Isaac Paredes).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Mike Estabrook, 1B - Laz Diaz, 2B - Edwin Jimenez, 3B - Erich Bacchus, LF - (none), RF - (none).
+Time of Game: 2:39.
+Attendance: 28,792.
+Field Condition: Unknown.
+Start Time Weather: 73° F, Wind 2mph from Right to Left, Overcast, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Cubs
+1	Ian Happ	LF
+2	Michael Busch	1B
+3	Seiya Suzuki	DH
+4	Cody Bellinger	RF
+5	Isaac Paredes	3B
+6	Nico Hoerner	2B
+7	Dansby Swanson	SS
+8	Pete Crow-Armstrong	CF
+9	Miguel Amaya	C
+	Shota Imanaga	P
+Nationals
+1	Dylan Crews	RF
+2	James Wood	LF
+3	Juan Yepez	DH
+4	Andrés Chaparro	1B
+5	José Tena	3B
+6	Ildemaro Vargas	2B
+7	CJ Abrams	SS
+8	Keibert Ruiz	C
+9	Jacob Young	CF
+	Jake Irvin	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Chicago Cubs vs. Washington Nationals, August 30 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+WSN
+50%
+CHC
+Inning	Win Pct
+1	0.5
+2	0.56
+3	0.55
+4	0.47
+5	0.45
+6	0.47
+7	0.45
+8	0.48
+9	0.46
+10	0.27
+11	0.3
+12	0.33
+13	0.43
+14	0.5
+15	0.55
+16	0.66
+17	0.65
+18	0.71
+19	0.8
+20	0.78
+21	0.89
+22	0.89
+23	0.88
+24	0.9
+25	0.91
+26	0.91
+27	0.91
+28	0.9
+29	0.9
+30	0.85
+31	0.86
+32	0.88
+33	0.88
+34	0.87
+35	0.88
+36	0.86
+37	0.88
+38	0.9
+39	0.9
+40	0.91
+41	0.93
+42	0.91
+43	0.93
+44	0.91
+45	0.89
+46	0.9
+47	0.92
+48	0.92
+49	0.92
+50	0.91
+51	0.91
+52	0.93
+53	0.94
+54	0.93
+55	0.95
+56	0.94
+57	0.94
+58	0.93
+59	0.9
+60	0.96
+61	0.97
+62	0.97
+63	0.96
+64	0.96
+65	0.97
+66	0.98
+67	0.99
+68	0.98
+69	0.99
+70	0.98
+71	0.98
+72	0.96
+73	0.92
+74	0.94
+75	0.89
+76	0.8
+77	0.91
+78	0.83
+79	1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b1	0-0	2	12-	5,(2-2) 	RR	WSN	José Tena	Shota Imanaga	-19%	27%	Double to CF (Line Drive to Deep CF-RF); J. Wood Scores; A. Chaparro Scores
+b9	6-7	2	12-	5,(2-2) 	O	WSN	Dylan Crews	Keegan Thompson	17%	100%	Strikeout Swinging
+t2	1-2	0	-23	4,(1-2) 	RR	CHC	Pete Crow-Armstrong	Jake Irvin	12%	66%	Double to CF (Fly Ball to Deep CF); N. Hoerner Scores; D. Swanson Scores
+t2	5-2	2	-2-	5,(1-2) 	RR	CHC	Cody Bellinger	Jake Irvin	11%	89%	Home Run (Fly Ball to Deep CF-RF); M. Busch Scores
+b9	4-7	1	123	4,(1-2) 	O	WSN	Keibert Ruiz	Drew Smyly	10%	91%	Strikeout Swinging
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Cubs Batting, Tied 0-0, Nationals' Jake Irvin facing 1-2-3
+t1	0-0	0	---	1,(0-0) 		CHC	Ian Happ	Jake Irvin	6%	56%	Double to CF (Line Drive to Deep LF-CF)
+t1	0-0	0	-2-	3,(1-1) 	O	CHC	Michael Busch	Jake Irvin	-1%	55%	Groundout: 2B-1B (2B-1B); I. Happ to 3B
+t1	0-0	1	--3	4,(2-1) 	O	CHC	Seiya Suzuki	Jake Irvin	-7%	47%	Fielder's Choice ; I. Happ out at Hm/P-C; S. Suzuki to 1B
+t1	0-0	2	1--	3,(0-2) 	O	CHC	Cody Bellinger	Jake Irvin	-2%	45%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Cubs 0, Nationals 0.
+Bottom of the 1st, Nationals Batting, Tied 0-0, Cubs' Shota Imanaga facing 1-2-3
+b1	0-0	0	---	4,(2-1) 	O	WSN	Dylan Crews	Shota Imanaga	2%	47%	Foul Popfly: 1B (1B into Foul Terr.)
+b1	0-0	1	---	3,(0-2) 		WSN	James Wood	Shota Imanaga	-2%	45%	Single to LF (Line Drive to LF Line)
+b1	0-0	1	1--	4,(0-2) 	O	WSN	Juan Yepez	Shota Imanaga	3%	48%	Strikeout Swinging
+b1	0-0	2	1--	6,(3-2) 		WSN	Andrés Chaparro	Shota Imanaga	-2%	46%	Walk; J. Wood to 2B
+b1	0-0	2	12-	5,(2-2) 	RR	WSN	José Tena	Shota Imanaga	-19%	27%	Double to CF (Line Drive to Deep CF-RF); J. Wood Scores; A. Chaparro Scores
+b1	2-0	2	-2-	3,(1-1) 	O	WSN	Ildemaro Vargas	Shota Imanaga	2%	30%	Flyball: RF (RF Line)
+									2 runs, 2 hits, 0 errors, 1 LOB. Cubs 0, Nationals 2.
+Top of the 2nd, Cubs Batting, Behind 0-2, Nationals' Jake Irvin facing 5-6-7
+t2	0-2	0	---	2,(1-0) 		CHC	Isaac Paredes	Jake Irvin	4%	33%	Single to LF (Line Drive to LF Line)
+t2	0-2	0	1--	3,(0-2) 		CHC	Nico Hoerner	Jake Irvin	10%	43%	Single to RF (Line Drive to Deep 1B); I. Paredes to 3B
+t2	0-2	0	1-3	3,(0-2) 	R	CHC	Dansby Swanson	Jake Irvin	6%	50%	Single to CF (Line Drive); I. Paredes Scores; N. Hoerner to 2B
+t2	1-2	0	12-	3,(0-2) 		CHC	Pete Crow-Armstrong	Jake Irvin	5%	55%	Wild Pitch; N. Hoerner to 3B; D. Swanson to 2B
+t2	1-2	0	-23	4,(1-2) 	RR	CHC	Pete Crow-Armstrong	Jake Irvin	12%	66%	Double to CF (Fly Ball to Deep CF); N. Hoerner Scores; D. Swanson Scores
+t2	3-2	0	-2-	2,(0-1) 	O	CHC	Miguel Amaya	Jake Irvin	-1%	65%	Groundout: 3B-1B (Weak 3B); P. Crow-Armstrong to 3B
+t2	3-2	1	--3	5,(3-1) 	R	CHC	Ian Happ	Jake Irvin	5%	71%	Fielder's Choice 1B; P. Crow-Armstrong Scores; I. Happ to 1B
+t2	4-2	1	1--	1,(0-0) 	R	CHC	Michael Busch	Jake Irvin	9%	80%	Double to RF (Line Drive to Deep CF-RF); I. Happ Scores
+t2	5-2	1	-2-	3,(0-2) 	O	CHC	Seiya Suzuki	Jake Irvin	-2%	78%	Strikeout Swinging
+t2	5-2	2	-2-	5,(1-2) 	RR	CHC	Cody Bellinger	Jake Irvin	11%	89%	Home Run (Fly Ball to Deep CF-RF); M. Busch Scores
+t2	7-2	2	---	2,(1-0) 		CHC	Isaac Paredes	Jake Irvin	0%	89%	Hit By Pitch
+t2	7-2	2	1--	6,(2-2) 	O	CHC	Nico Hoerner	Jake Irvin	-1%	88%	Groundout: 2B-1B
+									7 runs, 6 hits, 0 errors, 1 LOB. Cubs 7, Nationals 2.
+Bottom of the 2nd, Nationals Batting, Behind 2-7, Cubs' Shota Imanaga facing 7-8-9
+b2	2-7	0	---	4,(1-2) 	O	WSN	CJ Abrams	Shota Imanaga	1%	90%	Strikeout Swinging
+b2	2-7	1	---	3,(1-1) 	O	WSN	Keibert Ruiz	Shota Imanaga	1%	91%	Flyball: LF (Deep LF)
+b2	2-7	2	---	8,(3-2) 	O	WSN	Jacob Young	Shota Imanaga	1%	91%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Nationals 2.
+Top of the 3rd, Cubs Batting, Ahead 7-2, Nationals' Jake Irvin facing 7-8-9
+t3	7-2	0	---	4,(2-1) 	O	CHC	Dansby Swanson	Jake Irvin	-1%	91%	Flyball: CF (Deep CF)
+t3	7-2	1	---	2,(0-1) 	O	CHC	Pete Crow-Armstrong	Jake Irvin	0%	90%	Flyball: RF (Deep RF)
+t3	7-2	2	---	6,(2-2) 	O	CHC	Miguel Amaya	Jake Irvin	0%	90%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Nationals 2.
+Bottom of the 3rd, Nationals Batting, Behind 2-7, Cubs' Shota Imanaga facing 1-2-3
+b3	2-7	0	---	1,(0-0) 	R	WSN	Dylan Crews	Shota Imanaga	-5%	85%	Home Run (Fly Ball to Deep LF)
+b3	3-7	0	---	9,(3-2) 	O	WSN	James Wood	Shota Imanaga	2%	86%	Strikeout Swinging
+b3	3-7	1	---	3,(1-1) 	O	WSN	Juan Yepez	Shota Imanaga	1%	88%	Flyball: LF (Short LF-CF)
+b3	3-7	2	---	3,(1-1) 	O	WSN	Andrés Chaparro	Shota Imanaga	1%	88%	Flyball: LF (Deep LF)
+									1 run, 1 hit, 0 errors, 0 LOB. Cubs 7, Nationals 3.
+Top of the 4th, Cubs Batting, Ahead 7-3, Nationals' Jake Irvin facing 1-2-3
+t4	7-3	0	---	5,(2-2) 	O	CHC	Ian Happ	Jake Irvin	-1%	88%	Strikeout Swinging
+t4	7-3	1	---	6,(3-2) 		CHC	Michael Busch	Jake Irvin	1%	88%	Single to LF (Line Drive to Short LF)
+t4	7-3	1	1--	4,(1-2) 	OO	CHC	Seiya Suzuki	Jake Irvin	-2%	86%	Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+									0 runs, 1 hit, 0 errors, 0 LOB. Cubs 7, Nationals 3.
+Bottom of the 4th, Nationals Batting, Behind 3-7, Cubs' Shota Imanaga facing 5-6-7
+b4	3-7	0	---	5,(0-2) 	O	WSN	José Tena	Shota Imanaga	2%	88%	Strikeout Swinging
+b4	3-7	1	---	3,(0-2) 	O	WSN	Ildemaro Vargas	Shota Imanaga	1%	90%	Strikeout Swinging
+b4	3-7	2	---	6,(2-2) 	O	WSN	CJ Abrams	Shota Imanaga	1%	90%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Nationals 3.
+Top of the 5th, Cubs Batting, Ahead 7-3, Nationals' Jake Irvin facing 4-5-6
+t5	7-3	0	---	5,(3-1) 		CHC	Cody Bellinger	Jake Irvin	1%	91%	Walk
+t5	7-3	0	1--	9,(3-2) 		CHC	Isaac Paredes	Jake Irvin	2%	93%	Walk; C. Bellinger to 2B
+t5	7-3	0	12-	6,(3-2) 	O	CHC	Nico Hoerner	Jake Irvin	-2%	91%	Strikeout Looking
+t5	7-3	1	12-	4,(2-1) 		CHC	Dansby Swanson	Jake Irvin	2%	93%	Wild Pitch; C. Bellinger to 3B; I. Paredes to 2B
+t5	7-3	1	-23	9,(3-2) 	O	CHC	Dansby Swanson	Jake Irvin	-3%	91%	Strikeout Swinging
+									
+Robert Garcia replaces Jake Irvin pitching
+
+t5	7-3	2	-23	4,(1-2) 	O	CHC	Pete Crow-Armstrong	Robert Garcia	-2%	89%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 2 LOB. Cubs 7, Nationals 3.
+Bottom of the 5th, Nationals Batting, Behind 3-7, Cubs' Shota Imanaga facing 8-9-1
+b5	3-7	0	---	4,(1-2) 	O	WSN	Keibert Ruiz	Shota Imanaga	2%	90%	Groundout: SS-1B
+b5	3-7	1	---	3,(1-1) 	O	WSN	Jacob Young	Shota Imanaga	1%	92%	Groundout: 3B-1B (Weak 3B)
+									Force Play Challenged by CHC manager (Craig Counsell): Original call overturned as shown.
+b5	3-7	2	---	4,(1-2) 	O	WSN	Dylan Crews	Shota Imanaga	1%	92%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Nationals 3.
+Top of the 6th, Cubs Batting, Ahead 7-3, Nationals' Joe La Sorsa facing 9-1-2
+									
+Joe La Sorsa replaces Robert Garcia pitching
+
+t6	7-3	0	---	1,(0-0) 	O	CHC	Miguel Amaya	Joe La Sorsa	-1%	92%	Groundout: 2B-1B
+t6	7-3	1	---	3,(0-2) 	O	CHC	Ian Happ	Joe La Sorsa	0%	91%	Strikeout Swinging
+t6	7-3	2	---	7,(2-2) 	O	CHC	Michael Busch	Joe La Sorsa	0%	91%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Nationals 3.
+Bottom of the 6th, Nationals Batting, Behind 3-7, Cubs' Shota Imanaga facing 2-3-4
+b6	3-7	0	---	2,(0-1) 	O	WSN	James Wood	Shota Imanaga	2%	93%	Groundout: 1B unassisted (Weak 1B)
+b6	3-7	1	---	1,(0-0) 	O	WSN	Juan Yepez	Shota Imanaga	1%	94%	Groundout: 3B-1B (SS-3B Hole)
+b6	3-7	2	---	5,(1-2) 		WSN	Andrés Chaparro	Shota Imanaga	-1%	93%	Single to LF (Line Drive to LF-CF)
+b6	3-7	2	1--	7,(3-2) 	O	WSN	José Tena	Shota Imanaga	2%	95%	Flyball: CF (Deep CF)
+									0 runs, 1 hit, 0 errors, 1 LOB. Cubs 7, Nationals 3.
+Top of the 7th, Cubs Batting, Ahead 7-3, Nationals' Tanner Rainey facing 3-4-5
+									
+Tanner Rainey replaces Joe La Sorsa pitching
+
+t7	7-3	0	---	5,(2-2) 	O	CHC	Seiya Suzuki	Tanner Rainey	-1%	94%	Strikeout Swinging
+t7	7-3	1	---	1,(0-0) 	O	CHC	Cody Bellinger	Tanner Rainey	0%	94%	Flyball: RF (Short RF)
+t7	7-3	2	---	5,(2-2) 	O	CHC	Isaac Paredes	Tanner Rainey	0%	93%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Nationals 3.
+Bottom of the 7th, Nationals Batting, Behind 3-7, Cubs' Nate Pearson facing 6-7-8
+									
+Nate Pearson replaces Shota Imanaga pitching
+
+b7	3-7	0	---	1,(0-0) 		WSN	Ildemaro Vargas	Nate Pearson	-3%	90%	Single to RF (Ground Ball thru 2B-1B)
+b7	3-7	0	1--	1,(0-0) 	OO	WSN	CJ Abrams	Nate Pearson	6%	96%	Ground Ball Double Play: 2B-SS-1B
+b7	3-7	2	---	3,(0-2) 	O	WSN	Keibert Ruiz	Nate Pearson	1%	97%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 0 LOB. Cubs 7, Nationals 3.
+Top of the 8th, Cubs Batting, Ahead 7-3, Nationals' Eduardo Salazar facing 6-7-8
+									
+Eduardo Salazar replaces Tanner Rainey pitching
+
+t8	7-3	0	---	5,(3-1) 		CHC	Nico Hoerner	Eduardo Salazar	0%	97%	Walk
+t8	7-3	0	1--	4,(1-2) 	OO	CHC	Dansby Swanson	Eduardo Salazar	-1%	96%	Double Play: Strikeout Swinging, N. Hoerner Caught Stealing 2B (C-2B)
+t8	7-3	2	---	2,(1-0) 	O	CHC	Pete Crow-Armstrong	Eduardo Salazar	0%	96%	Popfly: SS (Deep SS)
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Nationals 3.
+Bottom of the 8th, Nationals Batting, Behind 3-7, Cubs' Nate Pearson facing 9-1-2
+b8	3-7	0	---	5,(2-2) 	O	WSN	Jacob Young	Nate Pearson	1%	97%	Strikeout Swinging
+b8	3-7	1	---	4,(0-2) 	O	WSN	Dylan Crews	Nate Pearson	1%	98%	Groundout: 2B-1B
+b8	3-7	2	---	3,(1-1) 	O	WSN	James Wood	Nate Pearson	0%	99%	Groundout: 2B-1B (2B-1B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Nationals 3.
+Top of the 9th, Cubs Batting, Ahead 7-3, Nationals' Orlando Ribalta facing 9-1-2
+									
+Orlando Ribalta replaces Eduardo Salazar pitching
+
+t9	7-3	0	---	6,(2-2) 	O	CHC	Miguel Amaya	Orlando Ribalta	0%	98%	Foul Popfly: 1B (1B into Foul Terr.)
+t9	7-3	1	---	6,(3-2) 		CHC	Ian Happ	Orlando Ribalta	0%	99%	Single to CF (Line Drive to Short CF-RF)
+t9	7-3	1	1--	2,(0-1) 	O	CHC	Michael Busch	Orlando Ribalta	0%	98%	Foul Popfly: LF (Short LF into Foul Terr.)
+t9	7-3	2	1--	4,(1-2) 	O	CHC	Seiya Suzuki	Orlando Ribalta	0%	98%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Cubs 7, Nationals 3.
+Bottom of the 9th, Nationals Batting, Behind 3-7, Cubs' Tyson Miller facing 3-4-5
+									
+Tyson Miller replaces Nate Pearson pitching
+Luis García Jr. pinch hits for Juan Yepez (DH) batting 3rd
+
+b9	3-7	0	---	9,(2-2) 		WSN	Luis García Jr.	Tyson Miller	-2%	96%	Double to CF (Line Drive to Deep CF)
+									
+Joey Gallo pinch hits for Andrés Chaparro (1B) batting 4th
+
+b9	3-7	0	-2-	7,(3-2) 		WSN	Joey Gallo	Tyson Miller	-4%	92%	Walk
+b9	3-7	0	12-	3,(1-1) 	O	WSN	José Tena	Tyson Miller	3%	94%	Groundout: P-1B (Front of Home); L. García to 3B; J. Gallo to 2B
+b9	3-7	1	-23	2,(0-1) 	R	WSN	Ildemaro Vargas	Tyson Miller	-5%	89%	Single to RF (Line Drive); L. García Scores; J. Gallo to 3B
+									
+Drew Smyly replaces Tyson Miller pitching
+
+b9	4-7	1	1-3	6,(3-2) 		WSN	CJ Abrams	Drew Smyly	-9%	80%	Walk; I. Vargas to 2B
+b9	4-7	1	123	4,(1-2) 	O	WSN	Keibert Ruiz	Drew Smyly	10%	91%	Strikeout Swinging
+b9	4-7	2	123	1,(0-0) 	RR	WSN	Jacob Young	Drew Smyly	-7%	83%	Single to CF (Ground Ball thru SS-2B); J. Gallo Scores; I. Vargas Scores; C. Abrams to 2B
+									
+Keegan Thompson replaces Drew Smyly pitching
+
+b9	6-7	2	12-	5,(2-2) 	O	WSN	Dylan Crews	Keegan Thompson	17%	100%	Strikeout Swinging
+									3 runs, 3 hits, 0 errors, 2 LOB. Cubs 7, Nationals 6.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Washington Nationals Schedule Chicago Cubs Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Chicago Cubs vs Washington Nationals Box Score: August 30, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/WAS/WAS202408300.shtml 
+ ----- 

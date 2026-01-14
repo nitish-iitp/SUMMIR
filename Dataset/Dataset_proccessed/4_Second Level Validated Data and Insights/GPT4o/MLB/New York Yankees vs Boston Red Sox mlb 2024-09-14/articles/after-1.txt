@@ -1,0 +1,288 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Red Sox
+75-74, 40-34 Away
+7
+Final
+Yankees
+86-63, 41-33 Home
+1
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+BOS
+
+
+NYY
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t0\t0\t3\t4\t0\t0\t0\t0\t7\t9\t2
+0\t0\t1\t0\t0\t0\t0\t0\t0\t1\t5\t0
+WIN
+B. Bello
+14-7
+5.1 IP, 4 H, 1 ER, 2 K, 2 BB
+LOSS
+G. Cole
+6-5
+4.1 IP, 5 H, 7 ER, 2 K, 3 BB
+BOS
+Overview
+NYY
+Red Sox Hitting
+HITTERS
+
+J. Duran
+CF
+
+
+R. Devers
+3B
+
+
+T. O'Neill
+LF
+
+
+M. Yoshida
+DH
+
+
+W. Abreu
+RF
+
+
+T. Casas
+1B
+
+
+T. Story
+SS
+
+
+D. Jansen
+C
+
+
+E. Valdez
+2B
+
+
+a
+R. Gonzalez
+PH-2B
+
+TEAM
+AB\tR\tH\tRBI\tHR\tBB\tAVG
+4\t1\t1\t0\t0\t0\t.288
+2\t2\t1\t2\t0\t2\t.278
+3\t1\t0\t0\t0\t1\t.254
+4\t1\t2\t3\t0\t0\t.291
+4\t0\t1\t2\t0\t0\t.262
+4\t0\t1\t0\t0\t0\t.241
+4\t1\t3\t0\t0\t0\t.263
+3\t1\t0\t0\t0\t1\t.197
+3\t0\t0\t0\t0\t0\t.218
+1\t0\t0\t0\t0\t0\t.275
+32\t7\t9\t7\t0\t4\t
+a-struck out swinging for Valdez in the 9th
+BATTING
+2BYoshida (20, Cole)
+RBIDevers 2 (83), Yoshida 3 (54), Abreu 2 (57)
+GIDPO'Neill; Casas; Abreu
+Team LOB5
+Team RISP4-7 (Devers 1-1, D. Jansen 0-1, Valdez 0-1, Yoshida 2-2, Abreu 1-2)
+BASERUNNING
+CSDuran (7, 3rd base by Mayza/Wells)
+SBStory (3, 2nd base off Cole/Wells); Devers (3, 2nd base off Cole/Wells)
+FIELDING
+EDevers (12, fielding); Valdez (6, fielding)
+AssistsAbreu (Verdugo at 2nd base)
+Yankees Hitting
+HITTERS
+
+G. Torres
+2B
+
+
+J. Soto
+RF
+
+
+A. Judge
+DH
+
+
+A. Wells
+C
+
+
+J. Chisholm Jr.
+3B
+
+
+J. Dominguez
+CF
+
+
+A. Rizzo
+1B
+
+
+A. Volpe
+SS
+
+
+A. Verdugo
+LF
+
+TEAM
+AB\tR\tH\tRBI\tHR\tBB\tAVG
+4\t0\t1\t1\t0\t1\t.250
+4\t0\t0\t0\t0\t0\t.285
+4\t0\t1\t0\t0\t0\t.321
+4\t0\t0\t0\t0\t0\t.247
+2\t0\t1\t0\t0\t2\t.301
+3\t0\t0\t0\t0\t1\t.118
+4\t0\t0\t0\t0\t0\t.219
+4\t1\t1\t0\t0\t0\t.248
+3\t0\t1\t0\t0\t1\t.236
+32\t1\t5\t1\t0\t5\t
+BATTING
+2BJudge (34, Winckowski)
+RBITorres (58)
+Team LOB9
+Team RISP1-8 (Rizzo 0-2, Judge 0-1, Torres 1-1, Chisholm Jr. 0-1, Domínguez 0-1, Wells 0-2)
+BASERUNNING
+Picked OffChisholm Jr. (1st base, Bello)
+FIELDING
+DP3 (Chisholm Jr.-Torres-Rizzo , Rizzo-Volpe-Rizzo , Mayza-Volpe-Rizzo)
+Red Sox Pitching
+PITCHERS
+
+B. Bello
+(W, 14-7)
+
+
+B. Horn
+
+
+J. Winckowski
+
+
+Z. Penrod
+
+
+G. Weissert
+
+TEAM
+IP\tH\tER\tK\tPC-ST\tERA
+5.1\t4\t1\t2\t98-54\t4.60
+0.2\t0\t0\t0\t12-5\t6.11
+1.0\t1\t0\t1\t30-18\t3.99
+1.0\t0\t0\t2\t26-15\t0.00
+1.0\t0\t0\t1\t9-7\t3.54
+9.0\t5\t1\t6\t175-99\t
+PITCHING
+First-pitch strikes/Batters FacedWeissert 3/3; Horn 2/4; Winckowski 1/5; Bello 13/21; Penrod 3/4
+Called strikes-Swinging strikes-Foul balls-In play strikesWeissert-4-0-1-1; Horn-2-0-0-3; Winckowski-6-1-8-3; Bello-17-5-15-16; Penrod-1-6-7-1
+Ground Balls-Fly BallsWeissert 1-1; Horn 3-0; Winckowski 2-0; Bello 5-8; Penrod 0-1
+Game ScoresB Bello 56
+Yankees Pitching
+PITCHERS
+
+G. Cole
+(L, 6-5)
+
+
+T. Mayza
+
+
+T. Hill
+
+TEAM
+IP\tH\tER\tK\tPC-ST\tERA
+4.1\t5\t7\t2\t68-38\t3.97
+3.2\t4\t0\t2\t41-31\t6.75
+1.0\t0\t0\t1\t12-8\t3.54
+9.0\t9\t7\t5\t121-77\t
+PITCHING
+IBBDevers (by Cole).
+HBPDevers (by Cole); O'Neill (by Cole); Duran (by Cole)
+First-pitch strikes/Batters FacedCole 13/22; Mayza 9/13; Hill 2/4
+Called strikes-Swinging strikes-Foul balls-In play strikesCole-11-5-8-14; Mayza-8-5-7-11; Hill-0-3-3-2
+Ground Balls-Fly BallsCole 2-7; Mayza 4-3; Hill 2-0
+Game ScoresG Cole 24
+Scoring Summary
+INNING
+\tBOS\tNYY
+\t\t3rd\tTorres singled to right, Volpe scored.\t0\t1
+\t\t4th\tYoshida hit a ground rule double, Devers scored, O'Neill to third.\t1\t1
+\t\t4th\tAbreu singled to right, O'Neill scored and Yoshida scored.\t3\t1
+\t\t5th\tDevers singled to right, D. Jansen scored and Story scored, Duran to third.\t5\t1
+\t\t5th\tYoshida singled to center, Devers scored and Duran scored, O'Neill to third.\t7\t1
+Full Play-By-Play
+Game Information
+Yankee Stadium
+5:05 PM, September 14, 2024
+Bronx, New York
+Attendance: 46,378
+Game Time:
+2:51
+Umpires:
+Home Plate Umpire - Marvin Hudson
+First Base Umpire - Hunter Wendelstedt
+Second Base Umpire - Charlie Ramos
+Third Base Umpire - John Tumpane
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570685 
+ ----- 

@@ -1,0 +1,332 @@
+   
+Home
+Blogs
+Forums
+Quizzes!
+Courses
+Tutorials
+Books
+Free PDFs
+Webinars
+Code Snippets
+    Blogs    George Emad  
+How Embedded Linux is used in Spacecrafts !
+George Emad●February 1, 2024●6 comments
+ 
+Software Development
+Linux
+System Design
+ HOW EMBEDDED LINUX IS USED IN OUTER SPACE ! EP1: SPACECRAFTS
+SERIES INTRODUCTION :
+
+We will take a technical dive with Tux around the galaxy to see how Embedded Linux is used in outer space, fasten your seat belt and let the journey begin.
+
+Ten years ago, the mainstream embedded systems consisted of just a Microcontroller with a few kilobytes of memory and either a bare-metal applications or small RTOS underneath, However, this is no longer the case.
+
+Modern Embedded systems have increased in complexity. in addition to that, the space field has a lot of safety and reliability requirements as they operate in a different environment compared to Earth ( extremely cold, cosmic rays, and other factors. ) and of course; very remote, so the cost of one misbehave or an error could cost lives, millions of dollars or even the whole mission, all those factors made the space field careful in terms of hardware and software. An old tested platforms with limited functionality is usually preferred over modern platform with latest specs to make sure it will act in a deterministic way.
+
+ This article is available in PDF format for easy printing
+
+Linux OS started to gain some popularity in the space domain by exploring three space applications.
+
+Spacecrafts.
+Nano satellites.
+Astro-photography.
+
+I hope you will enjoy the journey with me and TUX :D
+
+Episode 1: Spacecrafts.
+What challenges spacecrafts electronics face in space?
+What is spacecraft on-board computer (OBC)?
+What is a flight string ?
+What safety through redundancy (Actor-Judge system) ?
+SpaceX.
+NASA flying Linux on Mars !
+Boeing radiation-hardened space processor based on the ARM architecture.
+There's always a catch, so what is it ?
+Conclusion.
+References.
+EPISODE 1: SPACECRAFTS
+
+The field of space is fascinating to many, but unfortunately; it’s also very confidential and restricted so it’s not so easy to find information about it available for the public consumption.[2]
+
+I will begin by explaining some fundamental principles of embedded systems utilized in spacecrafts.
+
+WHAT CHALLENGES SPACECRAFTS ELECTRONICS FACE IN SPACE?
+Vacuum: In the vacuum of space, there is no air to dissipate heat.
+Radiation: electronics must be designed to withstand high levels of radiation, which can cause data corruption and permanent damage to electronics.
+Extreme temperatures: Intense heat when facing the sun, intense cold when sun is blocked by earth, or even much more aggressive ranges in deep space missions.(-229 °C to 175°C) [4]
+Vibration and shock: During launch and landing, spacecraft electronics must be able to withstand intense vibration and shock.
+Limited power and resources: Spacecraft electronics must be designed to operate efficiently, as they often have limited power and resources available.
+Limited communication: Communications with spacecraft can be delayed or disrupted due to the distance from Earth.
+Long duration missions: Some spacecraft are designed to operate for many years, so electronics must be able to withstand the wear and tear of long-term use.
+
+Overall, spacecraft electronics must be reliable, robust, and able to withstand a wide range of challenging conditions in order to function properly and complete their mission.
+
+Before diving into the usage of Linux in the spacecraft domain, lets first establish some ground definitions int the field, which shall help us understand. 
+OBC, flight string and safety through redundancy.
+
+WHAT IS SPACECRAFT ON-BOARD COMPUTER (OBC)?
+
+The on-board computer (OBC) is a crucial component of a spacecraft, responsible for controlling propulsion, navigation, guidance, and communication functions. It also processes scientific data and transmits it back to Earth. Like any embedded system, the OBC includes a central processing unit (CPU), memory, and input/output (I/O) devices such as sensors and actuators. It must be built with ruggedized hardware and software and operate independently for extended periods with minimal maintenance.
+
+WHAT IS A FLIGHT STRING ?
+
+A “flight string” means an element of a redundant flight control system consisting of a flight computer and a data bus to a set of sensors and effectors. [6]
+
+WHAT SAFETY THROUGH REDUNDANCY (ACTOR-JUDGE SYSTEM) ?
+
+Safety through redundancy is a principle that involves using multiple redundant components (flight strings) or systems doing the same thing, to increase the overall reliability and safety of a larger system.
+
+In an Actor-Judge system, two — or more — separate components work together to ensure safety and accuracy. The “Actor” component is responsible for taking actions and making decisions based on the input it receives. The “Judge” component then evaluates the decisions made by many Actors and provides feedback if the all agree or not, which the Actor can use to adjust its actions in the future, we shall talk more later on how SpaceX using this principle in their falcon
+
+The other option is to use special hardened HW which is developed for the outer space usage, with special protections against the cosmic rays and the bit-flip and so on.
+
+This first one is called radiation tolerant design vs the second one which is called radiation hardened design.
+
+Now Let’s discuss how Linux is used in SpaceX
+
+SPACEX
+SpaceX Dragon ship : https://www.spacex.com/vehicles/dragon/
+source : https://twitter.com/elonmusk/status/198579161382649857?lang=en
+
+OS:
+ 
+SpaceX uses Linux on their primary flight computers for Dragon spacecraft and Falcon 9 launch vehicle, and also for their test vehicles, such as Grasshopper. Their version of Linux is based on the 3.2 kernel with real-time patches. SpaceX has also made their own mission-specific modifications to the kernel, and custom drivers have also been added. The kernel has been carefully evaluated, especially focusing on scheduler performance.
+
+Hardware :
+
+SpaceX uses an Actor-Judge system to provide triple redundancy to its rockets and spacecraft. what the heck is that ?
+
+Actor-Judge system in falcon:
+
+The Falcon 9 is equipped with 3 dual-core x86 processors running an instance of Linux on each core. The flight software is written in C/C++ and runs in the x86 environment. For each calculation/decision, the “flight string” compares the results of the two cores. If there is an inconsistency, the command is bad and sends no command. If both cores return the same answer, the string sends the command to the different microcontrollers on the rocket that control things like the engines and the grid fins.
+
+
+
+NASA FLYING LINUX ON MARS !
+Ingenuity by: NASA
+
+NASA’s Ingenuity Mars Helicopter, is a technology demonstration to test the first powered flight on Mars, and it’s the first of it’s kind to fly on a world beyond our earth !
+
+Ingenuity will face a pretty harsh environment on Mars,
+
+Mars has beyond bone-chilling temperatures, with nights as cold as minus 90 degrees Celsius at Jezero Crater (the landing site)[10]. One of Ingenuity’s first objectives when it gets to the Red Planet is just to survive the frigid Martian night for the first time.
+
+Mars has a rarefied atmosphere — just about 1% of the density of our atmosphere on Earth. Because the Mars atmosphere is so much less dense, Ingenuity is designed to be light, with rotor blades that are much larger and spin much faster than what would be required for a helicopter of Ingenuity’s mass on Earth. Mars does give the helicopter a little help: The gravity there is only about one-third that of Earth’s. That means slightly more mass can be lifted at a given spin rate.[9]
+
+According to NASA GitHub for the F´ project [8] , this Airborne is equipped with Qualcomm’s Snapdragon 801 and running Linux on board !
+
+And to be subjective, this just a technology demonstration vehicle, and as per Tim Canham, Mars Helicopter Operations Lead at NASA’s (JPL).[7]
+
+It’s important to keep the Mars Helicopter mission in context, because this is a technology demonstration. The primary goal here is to fly on Mars, full stop.
+
+But still this is a very important step in using Linux beyond earth !
+
+BOEING RADIATION-HARDENED SPACE PROCESSOR BASED ON THE ARM ARCHITECTURE
+
+After we discussed Actor-Judge system method used by SpaceX to make use of off the shelf hardware components, we can consider another approach to designing mission-critical hardware for use in space:
+
+radiation hardening, or radiation hardening by design. This design method requires custom design of hardware that can withstand the harsh conditions of space, such as radiation.
+
+Boeing has announced plans to develop a next-generation radiation-hardened space processor using the ARM architecture, which offers improved performance and efficiency, while providing enhanced radiation tolerance. The processor will be built with radiation-hardened-by-design (RHBD) features. The use of the ARM architecture provides optimal power-to-performance for upgradeability, software availability, ease of use, and cost.
+
+The project also will use Radiation Hard By Design (RHBD) standard cell libraries, as well as the ARM A53 processor with its internal NEON single instruction, multiple data (SIMD) design.
+
+System software infrastructure will support real-time operating systems and Unix/Linux parallel processing to support hierarchical fault tolerance ranging from single Chiplet deep-space robotic missions to multi-Chiplet -redundant human spaceflight missions.[11]
+
+THERE’S ALWAYS A CATCH, SO WHAT IS IT ?
+Choosing Linux as an operating system may limit the choice of hardware: The processor must have a memory management unit, and 8-bit and 16-bit processors are mostly ruled out. However, low-power 32-bit processors can be used in place of 8-bit and 16-bit ones (μClinux is an exception).
+Linux is not a RTOS by design: also you can use the Linux RT patch to make it more real-time friendly, but sometimes it’s not enough for hard Real-time systems, one solution to this problem is; to use Linux alongside other RTOS and run the hard real-time functionality on the RTOS, while making use of all the Linux of the shelf components for the rest of the project, you can run both of them on the same processor at the same time, utilizing technologies like hypervisors and time-space partitioning (This concept is used heavily in modern automotive, a topic for another article).
+You use much more code than you need (code bloat): It has been observed that many Linux programs, which were being considered for porting to certain systems, had issues with their package dependencies. These programs relied on underlying packages that contained an excessive amount of features and code that the programs did not actually require, resulting in unnecessary code bloat. The main problem with this, besides storage, is that in this kind of project, you normally run a lot of quality assurance steps, and having a lot of code makes this process much more expensive and time-consuming.[4]
+CONCLUSION
+
+To summarize, Linux has proven to be a reliable, flexible, and open-source operating system that has played an important role in various space missions. It is expected to continue to be a part of future space missions. However, using Linux also comes with some challenges, such as hardware requirements, Despite these challenges, Linux is expected to be a significant player in space technology.
+
+REFERENCES
+References 
+
+
+[1]  https://events.static.linuxfound.org/images/stories/pdf/lcna_co2012_gruen.pdf
+[2]  Read about ITAR regulations as an example in USA.
+[3]  https://ntrs.nasa.gov/api/citations/20090004677/downloads/20090004677.pdf
+[3]  https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/
+[4]  https://www.researchgate.net/publication/321788741
+[5]  https://www.nasa.gov/centers/johnson/pdf/390651main_shuttle_crew_operations_manual.pdf
+[6]  https://space.stackexchange.com/questions/45076/what-is-a-flight-string#:~:text=No%20specific%20knowledge%20of%20Falcon,set%20of%20sensors%20and%20effectors.
+[7]  https://spectrum.ieee.org/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars
+[8]  https://nasa.github.io/fprime/projects.html
+[9]  https://www.jpl.nasa.gov/news/press_kits/ingenuity/landing/
+[10] https://mars.nasa.gov/mars2020/mission/science/landing-site/
+[11] https://www.militaryaerospace.com/computers/article/16726308/boeing-to-develop-nextgeneration-radiationhardened-space-processor-based-on-the-arm-architecture
+You might also like... (promoted content)
+The 2025 Embedded Online Conference - Early Bird Registrations NOW!
+Comments
+Comments
+ Write a Comment
+  Select to add a comment
+[ - ]
+Comment by acassis●February 3, 2024
+ 0
+
+Hi George, really nice article!
+As a Linux developer and user since 1999 I appreciate it a lot! I worked with uClinux from 2001 and later on with Linux for embedded system until 2010, when I discovered about NuttX in short article in the now defunct Linux Maganize. Very soon I realized it was a better POSIX/Linux/Unix-like alternative to use on small microcontrollers.
+
+I have a suggest about that part:
+"Choosing Linux as an operating system may limit the choice of hardware: The processor must have a memory management unit, and 8-bit and 16-bit processors are mostly ruled out. However, low-power 32-bit processors can be used in place of 8-bit and 16-bit ones (μClinux is an exception)."
+
+It was a little bit confuse or not clear, maybe you could say:
+
+"The processor must have a memory management unit, and 8-bit and 16-bit processors are mostly ruled out (except for ELKS experiment). However, low-power 32-bit processors can be used in place of 8-bit and 16-bit ones, even some processors without MMU can use used thank the work of μClinux that added non-mmu support on Linux kernel."
+
+uClinux project doesn't exist anymore, but they proved it was possible to run Linux on small microcontrollers. Around 2003 I was able to fine tune a uClinux kernel+userland to fit inside a Netburner MOD5282 that had only 512KB of flash, but I remember I disabled almost everything in the kernel to make it possible, so I was able to get the sh prompt, but almost anything else.
+
+So I think in the hardware choice you could comment that it will require at minimum a certain amount of Flash (more than 2MB currently) and RAM (more than 8MB, I think for current kernel for ARM, x64 it is more than 16MB).
+
+Just my 2 cents!
+
+
+Reply 
+[ - ]
+Comment by gemad●February 4, 2024
+ 0
+
+Hi Alan, Thank you for your comment and feedback ! 
+
+There are a lot of projects and attempts to reduce Linux to run it on small target one of the coolest projects I read about was this business card
+Business card runs Linux,
+
+
+8MB flash chip
+The bootloader fits in 256KB
+the kernel is 1.6MB
+the whole root filesystem is 2.4MB
+Allwinner F1C100s SoC
+With 32MB embedded DDR
+
+So I agree with you there are attempts, but as you said; it's about how much you can do with what is left of the Linux after stripping it down to the minimum to run it on a small target not if you can run it or not !
+
+looking forward to have a look on your articles about NuttX !   
+
+
+
+
+ 
+
+
+
+Reply 
+[ - ]
+Comment by acassis●February 6, 2024
+ 0
+
+Hi George,
+
+Exactly! I think for Linux the main bottleneck is the RAM memory not Flash. Some OpenWRT
+
+I think an experiment few years ago and was able to put NuttX inside LPC1114FN28 a DIP ARM Cortex-M0 with only 8KB RAM: https://flickr.com/photos/79703543@N00/18013069041...
+
+As you can see in the screen it is using less than 2KB (1816 bytes) and still having some useful available commands.
+
+
+
+Reply 
+[ - ]
+Comment by gemad●February 29, 2024
+ 0
+
+Interestingly low footprint! 
+Thanks Alan for sharing !
+
+Reply 
+[ - ]
+Comment by Malmir●February 16, 2024
+ 0
+
+In many missions, memory usage space does not permit an OS, and from mission to mission, things demands real time solutions in such as the OS might violate reaction times. So Yes Linux like RTOS systems is seen, but I have never been on a mission project where it was permitted, due to different reasons, all the missions space craft controls I have seen and worked with are in bare metal programming. But I have seen a lot of missions where the Science part is on some kind of OS.
+
+BRGDs
+
+  Klavs.
+
+Reply 
+[ - ]
+Comment by gemad●February 29, 2024
+ 0
+
+Thanks Malmir for your comment !
+ 
+Yes, it's not widely adapted in mission space crafts control, but don't you think it might gain some momentum after SpaceX ? like for sure some parts of the mission control will still be using bare metal or certified RTOS and Linux being the C2 (Command and Control), providing the tasking to the RTOS used on time critical like the engines and the grid fins.
+
+but it's fair to say; falcon 9 has the most consecutive launch count without failure of any rocket ever ! 
+
+BR
+George.
+
+Reply 
+
+To post reply to a comment, click on the 'reply' button attached to each comment. To post a new comment (not a reply to a comment) check out the 'Write a Comment' tab at the top of the comments.
+
+Sign in
+  Sign in
+ Remember me
+Forgot username or password?  |  Create account
+You might also like...
+The 2025 Embedded Online Conference - Early Bird Registrations NOW!
+Popular Posts by George Emad
+BusyBox; The Swiss Army Knife of Embedded Linux
+Five Embedded Linux Topics for Newbies !
+Open-Source Licenses Made Easy with Buildroot and Yocto for Embedded Linux
+Popular Blogs Series
+
+LINEAR FEEDBACK SHIFT REGISTERS FOR THE UNINITIATED
+Jason Sachs
+
+YOU DON'T NEED AN RTOS
+Nathan Jones
+
+GETTING STARTED WITH ZEPHYR
+Mohammed Billoo
+
+HOW TO TRANSITION FROM C TO C++
+Jacob Beningo
+
+GETTING STARTED WITH (APACHE) NUTTX RTOS
+Alan C. Assis
+
+IMPORTANT PROGRAMMING CONCEPTS (EVEN ON EMBEDDED SYSTEMS)
+Jason Sachs
+
+FINITE STATE MACHINES (FSM) IN EMBEDDED SYSTEMS
+Massimiliano Pagani
+
+Free PDF Downloads
+ Real-time Image Processing on Low Cost Embedded Computers
+ C++ Tutorial
+ Embedded Systems – Theory and Design Methodology
+All FREE PDF Downloads 
+Quick Links
+Home
+Blogs
+Forums
+Quizzes!
+Courses
+Tutorials
+Books
+Free PDFs
+Webinars
+Code Snippets
+comp.arch.embedded
+About EmbeddedRelated.com
+Advertise
+Contact
+Privacy Policy
+Terms of Service
+Cookies Policy
+The Related Sites
+    
+ 
+ 
+ ----- 
+ Source link : https://www.embeddedrelated.com/showarticle/1614.php 
+ ----- 

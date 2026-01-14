@@ -1,0 +1,608 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Chicago White Sox Schedule
+Texas Rangers Schedule
+Texas Rangers vs Chicago White Sox Box Score: August 29, 2024
+MLB Scores — August 29, 2024
+LAA\t3\tFinal
+DET\t0\t
+TEX\t2\tFinal
+CHW\t1\t
+SFG\t0\tFinal
+MIL\t6\t
+SDP\t1\tFinal
+STL\t4\t
+MIA\t12\tFinal
+COL\t8\t
+NYM\t3\tFinal
+ARI\t2\t
+OAK\t9\tFinal
+CIN\t10\t
+ATL\t4\tFinal
+PHI\t5\t
+TOR\t2\tFinal
+BOS\t0\t
+KCR\t3\tFinal
+HOU\t6\t
+BAL\t3\tFinal
+LAD\t6\t
+MLB Scores & Standings on this Day
+Texas Rangers
+2
+63-71
+Prev Game Next Game
+ 
+Chicago White Sox
+1
+31-104
+Prev Game Next Game
+Thursday, August 29, 2024
+Start Time: 1:10 p.m. Local
+Attendance: 10,402
+Venue: Guaranteed Rate Field
+Game Duration: 2:33
+Day Game, on grass
+Logos via Sports Logos.net / About logos
+ \t \t1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+
+\tTexas Rangers\t0\t0\t0\t1\t0\t0\t1\t0\t0\t2\t7\t0
+
+\tChicago White Sox\t0\t0\t0\t0\t0\t0\t0\t0\t1\t1\t3\t0
+WP: Nathan Eovaldi (10-7) • LP: Nick Nastrini (0-6) • SV: Kirby Yates (25)
+Texas Rangers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Marcus Semien 2B\t5\t0\t0\t0\t0\t3\t5\t.240\t.311\t.394\t.705\t18\t14\t-0.120\t0.92\t0.000\t-0.120\t-0.00%\t0.03\t-1.5\t1\t2\t
+Corey Seager SS\t4\t1\t1\t1\t0\t0\t4\t.277\t.354\t.513\t.867\t13\t7\t0.090\t0.64\t0.134\t-0.044\t0.00%\t0.02\t0.5\t0\t4\tHR
+Josh Smith RF\t3\t0\t2\t0\t1\t0\t4\t.267\t.354\t.414\t.768\t13\t7\t0.053\t0.47\t0.063\t-0.010\t0.00%\t0.01\t0.6\t0\t0\t2B
+   Travis Jankowski PR-RF\t0\t0\t0\t0\t0\t0\t0\t.195\t.257\t.234\t.491\t\t\t\t\t\t\t\t\t\t1\t0\t
+Adolis García DH\t4\t0\t0\t0\t0\t1\t4\t.222\t.284\t.397\t.681\t18\t12\t-0.104\t1.02\t0.000\t-0.104\t-0.00%\t0.04\t-1.1\t0\t0\t
+Nathaniel Lowe 1B\t4\t1\t2\t0\t0\t0\t4\t.253\t.347\t.367\t.714\t21\t12\t0.039\t0.72\t0.078\t-0.039\t0.00%\t0.03\t0.4\t9\t0\t2B
+Josh Jung 3B\t4\t0\t2\t0\t0\t0\t4\t.254\t.270\t.407\t.677\t12\t7\t0.110\t0.99\t0.143\t-0.034\t0.00%\t0.03\t1.0\t1\t3\t2·SB
+Wyatt Langford LF\t3\t0\t0\t1\t0\t0\t4\t.243\t.312\t.370\t.682\t13\t8\t-0.044\t1.03\t0.016\t-0.059\t-0.00%\t0.03\t-0.4\t1\t0\tHBP
+Jonah Heim C\t3\t0\t0\t0\t1\t0\t4\t.227\t.275\t.341\t.616\t23\t13\t-0.043\t0.82\t0.009\t-0.052\t-0.00%\t0.03\t-0.4\t11\t0\t
+Leody Taveras CF\t4\t0\t0\t0\t0\t3\t4\t.227\t.282\t.345\t.627\t21\t16\t-0.107\t0.91\t0.000\t-0.107\t-0.00%\t0.03\t-1.4\t3\t0\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Nathan Eovaldi P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   David Robertson P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Kirby Yates P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t34\t2\t7\t2\t2\t7\t37\t.206\t.270\t.353\t.623\t152\t96\t-0.126\t0.85\t0.443\t-0.569\t-0.00%\t0.03\t-2.3\t27\t9\t
+2B: Josh Smith (24, off Nick Nastrini); Nathaniel Lowe (13, off Prelander Berroa).
+HR: Corey Seager (30, off Nick Nastrini, 4th inn, 0 on, 1 out to Deep RF Line).
+HBP: Wyatt Langford (3, by Enyel De Los Santos).
+TB: Corey Seager 4; Nathaniel Lowe 3; Josh Smith 3; Josh Jung 2.
+RBI: Wyatt Langford (54); Corey Seager (74).
+Team LOB: 8.
+With RISP: 1 for 10.
+Fielding
+DP: 1. Josh Jung-Marcus Semien-Nathaniel Lowe.
+Baserunning
+SB: Josh Jung 2 (3, 3rd base off Prelander Berroa/Korey Lee, 2nd base off Nick Nastrini/Korey Lee).
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Nicky Lopez SS\t4\t0\t0\t0\t0\t3\t4\t.235\t.306\t.287\t.593\t14\t11\t-0.142\t1.34\t0.000\t-0.142\t0%\t0.00\t-0.9\t0\t1\t
+Luis Robert Jr. CF\t4\t0\t0\t0\t0\t0\t4\t.221\t.276\t.405\t.681\t12\t9\t-0.128\t1.27\t0.000\t-0.128\t0%\t0.00\t-0.8\t2\t0\t
+Andrew Benintendi LF\t3\t1\t1\t1\t1\t2\t4\t.214\t.278\t.375\t.653\t19\t13\t0.079\t0.85\t0.111\t-0.031\t0%\t0.00\t1.0\t5\t0\tHR
+Andrew Vaughn 1B\t4\t0\t0\t0\t0\t2\t4\t.239\t.292\t.394\t.686\t21\t13\t-0.148\t1.52\t0.000\t-0.148\t0%\t0.00\t-0.8\t6\t0\t
+Gavin Sheets DH\t4\t0\t1\t0\t0\t1\t4\t.240\t.313\t.370\t.683\t17\t13\t-0.043\t1.28\t0.055\t-0.098\t0%\t0.00\t-0.1\t0\t0\t
+Korey Lee C\t2\t0\t0\t0\t1\t0\t3\t.214\t.246\t.353\t.599\t12\t7\t-0.142\t1.45\t0.013\t-0.155\t0%\t0.00\t-0.9\t7\t0\tGDP
+Lenyn Sosa 2B\t3\t0\t0\t0\t0\t0\t3\t.216\t.247\t.295\t.543\t8\t7\t-0.067\t0.86\t0.000\t-0.067\t0%\t0.00\t-0.5\t0\t1\t
+Dominic Fletcher RF\t3\t0\t1\t0\t0\t1\t3\t.231\t.280\t.279\t.559\t10\t8\t-0.026\t1.28\t0.038\t-0.064\t0%\t0.00\t-0.2\t4\t0\t
+Miguel Vargas 3B\t2\t0\t0\t0\t1\t2\t3\t.169\t.264\t.296\t.560\t24\t16\t-0.010\t1.27\t0.036\t-0.045\t0%\t0.00\t-0.2\t3\t4\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Nick Nastrini P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t1\t
+   Prelander Berroa P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Fraser Ellard P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Enyel De Los Santos P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t29\t1\t3\t1\t3\t11\t32\t.103\t.188\t.207\t.394\t137\t97\t-0.627\t1.24\t0.253\t-0.878\t0.00%\t0.00\t-3.3\t27\t7\t
+HR: Andrew Benintendi (15, off Kirby Yates, 9th inn, 0 on, 1 out to Deep RF Line).
+TB: Andrew Benintendi 4; Dominic Fletcher; Gavin Sheets.
+GIDP: Korey Lee (9).
+RBI: Andrew Benintendi (47).
+Team LOB: 4.
+With RISP: 0 for 1.
+Texas Rangers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Nathan Eovaldi, W (10-7)\t7\t1\t0\t0\t2\t10\t0\t3.60\t23\t96\t69\t39\t14\t16\t5\t6\t2\t0\t83\t\t\t0.455\t1.00\t0.01%\t0.03\t3.4
+David Robertson, H (27)\t1\t1\t0\t0\t1\t0\t0\t2.95\t5\t20\t15\t12\t0\t3\t2\t2\t2\t0\t\t0\t0\t0.085\t1.70\t0.00%\t0.06\t0.5
+Kirby Yates, S (25)\t1\t1\t1\t1\t0\t1\t1\t1.40\t4\t21\t13\t8\t4\t1\t1\t2\t0\t0\t\t0\t0\t0.087\t1.81\t0.00%\t0.06\t-0.5
+Team Totals\t9\t3\t1\t1\t3\t11\t1\t1.00\t32\t137\t97\t59\t18\t20\t8\t10\t4\t0\t83\t0\t0\t0.627\t1.24\t0.01%\t0.04\t3.3
+
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Nick Nastrini, L (0-6)\t6\t3\t1\t1\t1\t3\t1\t7.04\t22\t98\t62\t37\t14\t11\t5\t13\t1\t0\t64\t\t\t0.175\t0.89\t0.00%\t0.00\t1.9
+Prelander Berroa\t1\t2\t1\t1\t1\t2\t0\t9.00\t6\t21\t12\t8\t4\t0\t3\t0\t0\t0\t\t0\t0\t-0.092\t1.15\t0.00%\t0.00\t-0.5
+Fraser Ellard\t0.2\t2\t0\t0\t0\t1\t0\t4.66\t4\t15\t8\t3\t2\t3\t0\t3\t2\t0\t\t0\t0\t0.004\t0.47\t0.00%\t0.00\t0.1
+Enyel De Los Santos\t1.1\t0\t0\t0\t0\t1\t0\t5.80\t5\t18\t14\t10\t2\t2\t1\t2\t1\t0\t\t2\t0\t0.039\t0.50\t0.00%\t0.00\t0.9
+Team Totals\t9\t7\t2\t2\t2\t7\t1\t2.00\t37\t152\t96\t58\t22\t16\t9\t18\t4\t0\t64\t2\t0\t0.126\t0.85\t0.00%\t0.00\t2.3
+
+Balks: None.
+WP: David Robertson 2 (7).
+HBP: Enyel De Los Santos (5; Wyatt Langford).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Dan Iassogna, 1B - CB Bucknor, 2B - Chad Whitson, 3B - Adam Beck, LF - (none), RF - (none).
+Time of Game: 2:33.
+Attendance: 10,402.
+Field Condition: Unknown.
+Start Time Weather: 81° F, Wind 6mph out to Rightfield, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Rangers
+1\tMarcus Semien\t2B
+2\tCorey Seager\tSS
+3\tJosh Smith\tRF
+4\tAdolis García\tDH
+5\tNathaniel Lowe\t1B
+6\tJosh Jung\t3B
+7\tWyatt Langford\tLF
+8\tJonah Heim\tC
+9\tLeody Taveras\tCF
+\tNathan Eovaldi\tP
+White Sox
+1\tNicky Lopez\tSS
+2\tLuis Robert Jr.\tCF
+3\tAndrew Benintendi\tLF
+4\tAndrew Vaughn\t1B
+5\tGavin Sheets\tDH
+6\tKorey Lee\tC
+7\tLenyn Sosa\t2B
+8\tDominic Fletcher\tRF
+9\tMiguel Vargas\t3B
+\tNick Nastrini\tP
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Texas Rangers vs. Chicago White Sox, August 29 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+CHW
+50%
+TEX
+Inning\tWin Pct
+1\t0.5
+2\t0.48
+3\t0.46
+4\t0.45
+5\t0.47
+6\t0.49
+7\t0.5
+8\t0.48
+9\t0.46
+10\t0.45
+11\t0.47
+12\t0.49
+13\t0.48
+14\t0.5
+15\t0.47
+16\t0.46
+17\t0.45
+18\t0.47
+19\t0.49
+20\t0.5
+21\t0.47
+22\t0.61
+23\t0.63
+24\t0.6
+25\t0.58
+26\t0.61
+27\t0.63
+28\t0.64
+29\t0.68
+30\t0.65
+31\t0.67
+32\t0.63
+33\t0.59
+34\t0.54
+35\t0.65
+36\t0.67
+37\t0.64
+38\t0.63
+39\t0.65
+40\t0.61
+41\t0.65
+42\t0.68
+43\t0.7
+44\t0.77
+45\t0.83
+46\t0.84
+47\t0.85
+48\t0.87
+49\t0.83
+50\t0.79
+51\t0.83
+52\t0.79
+53\t0.83
+54\t0.87
+55\t0.86
+56\t0.87
+57\t0.86
+58\t0.87
+59\t0.84
+60\t0.89
+61\t0.91
+62\t0.89
+63\t0.88
+64\t0.88
+65\t0.84
+66\t0.93
+67\t0.94
+68\t0.94
+69\t0.93
+70\t0.91
+71\t0.96
+72\t0.89
+73\t0.96
+74\t1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+t4\t0-0\t1\t---\t3,(2-0) \tR\tTEX\tCorey Seager\tNick Nastrini\t13%\t61%\tHome Run (Fly Ball to Deep RF Line)
+b5\t0-1\t0\t1--\t3,(1-1) \tOO\tCHW\tKorey Lee\tNathan Eovaldi\t11%\t65%\tGround Ball Double Play: 3B-2B-1B
+b8\t0-2\t2\t1-3\t1,(0-0) \tO\tCHW\tNicky Lopez\tDavid Robertson\t9%\t93%\tGroundout: SS-1B
+t7\t1-0\t0\t---\t5,(3-1) \t\tTEX\tNathaniel Lowe\tPrelander Berroa\t7%\t77%\tDouble to RF (Ground Ball)
+b9\t0-2\t1\t---\t7,(2-2) \tR\tCHW\tAndrew Benintendi\tKirby Yates\t-7%\t89%\tHome Run (Fly Ball to Deep RF Line)
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+Top of the 1st, Rangers Batting, Tied 0-0, White Sox' Nick Nastrini facing 1-2-3
+t1\t0-0\t0\t---\t4,(1-2) \tO\tTEX\tMarcus Semien\tNick Nastrini\t-2%\t48%\tStrikeout Swinging
+t1\t0-0\t1\t---\t4,(2-1) \tO\tTEX\tCorey Seager\tNick Nastrini\t-2%\t46%\tPopfly: 3B (SS-3B Hole)
+t1\t0-0\t2\t---\t1,(0-0) \tO\tTEX\tJosh Smith\tNick Nastrini\t-1%\t45%\tFlyball: LF
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, White Sox 0.
+Bottom of the 1st, White Sox Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 1-2-3
+b1\t0-0\t0\t---\t5,(2-2) \tO\tCHW\tNicky Lopez\tNathan Eovaldi\t2%\t47%\tStrikeout Swinging
+b1\t0-0\t1\t---\t1,(0-0) \tO\tCHW\tLuis Robert Jr.\tNathan Eovaldi\t2%\t49%\tFlyball: CF (Deep CF-RF)
+b1\t0-0\t2\t---\t3,(0-2) \tO\tCHW\tAndrew Benintendi\tNathan Eovaldi\t1%\t50%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, White Sox 0.
+Top of the 2nd, Rangers Batting, Tied 0-0, White Sox' Nick Nastrini facing 4-5-6
+t2\t0-0\t0\t---\t5,(2-2) \tO\tTEX\tAdolis García\tNick Nastrini\t-2%\t48%\tGroundout: 3B-1B (Weak 3B)
+t2\t0-0\t1\t---\t2,(0-1) \tO\tTEX\tNathaniel Lowe\tNick Nastrini\t-2%\t46%\tPopfly: 3B (Weak SS-2B)
+t2\t0-0\t2\t---\t6,(3-2) \tO\tTEX\tJosh Jung\tNick Nastrini\t-1%\t45%\tGroundout: 3B-1B
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, White Sox 0.
+Bottom of the 2nd, White Sox Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 4-5-6
+b2\t0-0\t0\t---\t4,(2-1) \tO\tCHW\tAndrew Vaughn\tNathan Eovaldi\t2%\t47%\tGroundout: 3B-1B (Deep 3B)
+b2\t0-0\t1\t---\t5,(1-2) \tO\tCHW\tGavin Sheets\tNathan Eovaldi\t2%\t49%\tGroundout: SS-1B (SS-2B)
+b2\t0-0\t2\t---\t6,(3-2) \t\tCHW\tKorey Lee\tNathan Eovaldi\t-1%\t48%\tWalk
+b2\t0-0\t2\t1--\t1,(0-0) \tO\tCHW\tLenyn Sosa\tNathan Eovaldi\t2%\t50%\tFlyball: CF
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Rangers 0, White Sox 0.
+Top of the 3rd, Rangers Batting, Tied 0-0, White Sox' Nick Nastrini facing 7-8-9
+t3\t0-0\t0\t---\t5,(3-1) \tO\tTEX\tWyatt Langford\tNick Nastrini\t-3%\t48%\tFlyball: LF (Short LF Line)
+t3\t0-0\t1\t---\t7,(3-2) \tO\tTEX\tJonah Heim\tNick Nastrini\t-2%\t46%\tFoul Popfly: 3B (3B into Foul Terr.)
+t3\t0-0\t2\t---\t3,(0-2) \tO\tTEX\tLeody Taveras\tNick Nastrini\t-1%\t45%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, White Sox 0.
+Bottom of the 3rd, White Sox Batting, Tied 0-0, Rangers' Nathan Eovaldi facing 8-9-1
+b3\t0-0\t0\t---\t3,(0-2) \tO\tCHW\tDominic Fletcher\tNathan Eovaldi\t2%\t47%\tPopfly: 3B (Weak 3B)
+b3\t0-0\t1\t---\t4,(1-2) \tO\tCHW\tMiguel Vargas\tNathan Eovaldi\t2%\t49%\tStrikeout Looking
+b3\t0-0\t2\t---\t5,(1-2) \tO\tCHW\tNicky Lopez\tNathan Eovaldi\t1%\t50%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Rangers 0, White Sox 0.
+Top of the 4th, Rangers Batting, Tied 0-0, White Sox' Nick Nastrini facing 1-2-3
+t4\t0-0\t0\t---\t2,(1-0) \tO\tTEX\tMarcus Semien\tNick Nastrini\t-3%\t47%\tFlyball: RF (Short RF)
+t4\t0-0\t1\t---\t3,(2-0) \tR\tTEX\tCorey Seager\tNick Nastrini\t13%\t61%\tHome Run (Fly Ball to Deep RF Line)
+t4\t1-0\t1\t---\t6,(3-2) \t\tTEX\tJosh Smith\tNick Nastrini\t2%\t63%\tWalk
+t4\t1-0\t1\t1--\t4,(1-2) \tO\tTEX\tAdolis García\tNick Nastrini\t-3%\t60%\tLineout: CF (Deep CF)
+t4\t1-0\t2\t1--\t8,(3-2) \tO\tTEX\tNathaniel Lowe\tNick Nastrini\t-2%\t58%\tGroundout: P-SS-1B (SS-2B)
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 1 LOB. Rangers 1, White Sox 0.
+Bottom of the 4th, White Sox Batting, Behind 0-1, Rangers' Nathan Eovaldi facing 2-3-4
+b4\t0-1\t0\t---\t5,(1-2) \tO\tCHW\tLuis Robert Jr.\tNathan Eovaldi\t3%\t61%\tGroundout: SS-1B (SS-3B Hole)
+b4\t0-1\t1\t---\t3,(0-2) \tO\tCHW\tAndrew Benintendi\tNathan Eovaldi\t2%\t63%\tStrikeout Swinging
+b4\t0-1\t2\t---\t6,(2-2) \tO\tCHW\tAndrew Vaughn\tNathan Eovaldi\t1%\t64%\tLineout: CF (Deep CF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, White Sox 0.
+Top of the 5th, Rangers Batting, Ahead 1-0, White Sox' Nick Nastrini facing 6-7-8
+t5\t1-0\t0\t---\t3,(1-1) \t\tTEX\tJosh Jung\tNick Nastrini\t4%\t68%\tSingle to 3B (Ground Ball to Weak 3B)
+t5\t1-0\t0\t1--\t4,(1-2) \tO\tTEX\tWyatt Langford\tNick Nastrini\t-3%\t65%\tFlyball: LF (LF Line)
+t5\t1-0\t1\t1--\t4,(2-1) \t\tTEX\tJonah Heim\tNick Nastrini\t2%\t67%\tJ. Jung Steals 2B
+t5\t1-0\t1\t-2-\t6,(3-2) \tO\tTEX\tJonah Heim\tNick Nastrini\t-3%\t63%\tFlyball: RF (Deep RF); J. Jung to 3B
+t5\t1-0\t2\t--3\t7,(1-2) \tO\tTEX\tLeody Taveras\tNick Nastrini\t-4%\t59%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Rangers 1, White Sox 0.
+Bottom of the 5th, White Sox Batting, Behind 0-1, Rangers' Nathan Eovaldi facing 5-6-7
+b5\t0-1\t0\t---\t2,(0-1) \t\tCHW\tGavin Sheets\tNathan Eovaldi\t-6%\t54%\tSingle to CF (Line Drive)
+b5\t0-1\t0\t1--\t3,(1-1) \tOO\tCHW\tKorey Lee\tNathan Eovaldi\t11%\t65%\tGround Ball Double Play: 3B-2B-1B
+b5\t0-1\t2\t---\t6,(1-2) \tO\tCHW\tLenyn Sosa\tNathan Eovaldi\t2%\t67%\tGroundout: 3B-1B
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 0 LOB. Rangers 1, White Sox 0.
+Top of the 6th, Rangers Batting, Ahead 1-0, White Sox' Nick Nastrini facing 1-2-3
+t6\t1-0\t0\t---\t6,(2-2) \tO\tTEX\tMarcus Semien\tNick Nastrini\t-2%\t64%\tFlyball: RF (CF-RF)
+t6\t1-0\t1\t---\t4,(1-2) \tO\tTEX\tCorey Seager\tNick Nastrini\t-2%\t63%\tFlyball: LF (Deep LF)
+t6\t1-0\t2\t---\t4,(1-2) \t\tTEX\tJosh Smith\tNick Nastrini\t3%\t65%\tDouble to RF (Fly Ball to Deep RF)
+t6\t1-0\t2\t-2-\t4,(1-2) \tO\tTEX\tAdolis García\tNick Nastrini\t-4%\t61%\tGroundout: 3B-1B (SS-3B Hole)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Rangers 1, White Sox 0.
+Bottom of the 6th, White Sox Batting, Behind 0-1, Rangers' Nathan Eovaldi facing 8-9-1
+b6\t0-1\t0\t---\t4,(1-2) \tO\tCHW\tDominic Fletcher\tNathan Eovaldi\t4%\t65%\tStrikeout Swinging
+b6\t0-1\t1\t---\t8,(3-2) \tO\tCHW\tMiguel Vargas\tNathan Eovaldi\t3%\t68%\tStrikeout Swinging
+b6\t0-1\t2\t---\t3,(0-2) \tO\tCHW\tNicky Lopez\tNathan Eovaldi\t2%\t70%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Rangers 1, White Sox 0.
+Top of the 7th, Rangers Batting, Ahead 1-0, White Sox' Prelander Berroa facing 5-6-7
+\t\t\t\t\t\t\t\t\t
+Prelander Berroa replaces Nick Nastrini pitching
+
+t7\t1-0\t0\t---\t5,(3-1) \t\tTEX\tNathaniel Lowe\tPrelander Berroa\t7%\t77%\tDouble to RF (Ground Ball)
+t7\t1-0\t0\t-2-\t1,(0-0) \t\tTEX\tJosh Jung\tPrelander Berroa\t6%\t83%\tSingle to 2B (Ground Ball to SS-2B); N. Lowe to 3B
+t7\t1-0\t0\t1-3\t1,(0-0) \tRO\tTEX\tWyatt Langford\tPrelander Berroa\t1%\t84%\tGroundout: 3B-1B (Short 3B Line); N. Lowe Scores; J. Jung to 2B
+t7\t2-0\t1\t-2-\t6,(3-2) \t\tTEX\tJonah Heim\tPrelander Berroa\t1%\t85%\tWalk
+t7\t2-0\t1\t12-\t3,(0-2) \t\tTEX\tLeody Taveras\tPrelander Berroa\t2%\t87%\tJ. Jung Steals 3B
+t7\t2-0\t1\t1-3\t5,(2-2) \tO\tTEX\tLeody Taveras\tPrelander Berroa\t-4%\t83%\tStrikeout Swinging
+t7\t2-0\t2\t1-3\t3,(0-2) \tO\tTEX\tMarcus Semien\tPrelander Berroa\t-3%\t79%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t1 run, 2 hits, 0 errors, 2 LOB. Rangers 2, White Sox 0.
+Bottom of the 7th, White Sox Batting, Behind 0-2, Rangers' Nathan Eovaldi facing 2-3-4
+b7\t0-2\t0\t---\t1,(0-0) \tO\tCHW\tLuis Robert Jr.\tNathan Eovaldi\t4%\t83%\tFoul Popfly: 1B (1B into Foul Terr.)
+b7\t0-2\t1\t---\t6,(3-2) \t\tCHW\tAndrew Benintendi\tNathan Eovaldi\t-5%\t79%\tWalk
+b7\t0-2\t1\t1--\t4,(1-2) \tO\tCHW\tAndrew Vaughn\tNathan Eovaldi\t5%\t83%\tStrikeout Looking
+b7\t0-2\t2\t1--\t8,(2-2) \tO\tCHW\tGavin Sheets\tNathan Eovaldi\t4%\t87%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Rangers 2, White Sox 0.
+Top of the 8th, Rangers Batting, Ahead 2-0, White Sox' Fraser Ellard facing 2-3-4
+\t\t\t\t\t\t\t\t\t
+Fraser Ellard replaces Prelander Berroa pitching
+
+t8\t2-0\t0\t---\t2,(1-0) \tO\tTEX\tCorey Seager\tFraser Ellard\t-1%\t86%\tFlyball: CF (Deep CF)
+t8\t2-0\t1\t---\t2,(1-0) \t\tTEX\tJosh Smith\tFraser Ellard\t1%\t87%\tSingle to LF (Line Drive to LF-CF)
+\t\t\t\t\t\t\t\t\t
+Travis Jankowski pinch runs for Josh Smith (RF) batting 3rd
+
+t8\t2-0\t1\t1--\t5,(2-2) \tO\tTEX\tAdolis García\tFraser Ellard\t-1%\t86%\tStrikeout Swinging
+t8\t2-0\t2\t1--\t6,(3-2) \t\tTEX\tNathaniel Lowe\tFraser Ellard\t1%\t87%\tSingle to LF (Line Drive); T. Jankowski to 2B
+\t\t\t\t\t\t\t\t\t
+Enyel De Los Santos replaces Fraser Ellard pitching
+
+t8\t2-0\t2\t12-\t2,(1-0) \tO\tTEX\tJosh Jung\tEnyel De Los Santos\t-2%\t84%\tLineout: RF (Deep CF-RF)
+\t\t\t\t\t\t\t\t\t0 runs, 2 hits, 0 errors, 2 LOB. Rangers 2, White Sox 0.
+Bottom of the 8th, White Sox Batting, Behind 0-2, Rangers' David Robertson facing 6-7-8
+\t\t\t\t\t\t\t\t\t
+David Robertson replaces Nathan Eovaldi pitching
+Travis Jankowski moves from PR to RF
+
+b8\t0-2\t0\t---\t3,(0-2) \tO\tCHW\tKorey Lee\tDavid Robertson\t4%\t89%\tLineout: RF (Deep RF)
+b8\t0-2\t1\t---\t1,(0-0) \tO\tCHW\tLenyn Sosa\tDavid Robertson\t3%\t91%\tGroundout: SS-1B
+b8\t0-2\t2\t---\t3,(1-1) \t\tCHW\tDominic Fletcher\tDavid Robertson\t-3%\t89%\tSingle to LF (Line Drive to LF-CF)
+b8\t0-2\t2\t1--\t2,(0-1) \t\tCHW\tMiguel Vargas\tDavid Robertson\t-1%\t88%\tWild Pitch; D. Fletcher to 2B
+b8\t0-2\t2\t-2-\t5,(2-2) \t\tCHW\tMiguel Vargas\tDavid Robertson\t0%\t88%\tWild Pitch; D. Fletcher to 3B
+b8\t0-2\t2\t--3\t12,(3-2) \t\tCHW\tMiguel Vargas\tDavid Robertson\t-4%\t84%\tWalk
+b8\t0-2\t2\t1-3\t1,(0-0) \tO\tCHW\tNicky Lopez\tDavid Robertson\t9%\t93%\tGroundout: SS-1B
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 2 LOB. Rangers 2, White Sox 0.
+Top of the 9th, Rangers Batting, Ahead 2-0, White Sox' Enyel De Los Santos facing 7-8-9
+t9\t2-0\t0\t---\t3,(0-2) \t\tTEX\tWyatt Langford\tEnyel De Los Santos\t1%\t94%\tHit By Pitch
+t9\t2-0\t0\t1--\t4,(0-2) \tO\tTEX\tJonah Heim\tEnyel De Los Santos\t0%\t94%\tFlyball: LF (Deep LF); W. Langford to 2B
+t9\t2-0\t1\t-2-\t6,(2-2) \tO\tTEX\tLeody Taveras\tEnyel De Los Santos\t-1%\t93%\tGroundout: 2B-1B (2B-1B); W. Langford to 3B
+t9\t2-0\t2\t--3\t3,(1-2) \tO\tTEX\tMarcus Semien\tEnyel De Los Santos\t-1%\t91%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Rangers 2, White Sox 0.
+Bottom of the 9th, White Sox Batting, Behind 0-2, Rangers' Kirby Yates facing 2-3-4
+\t\t\t\t\t\t\t\t\t
+Kirby Yates replaces David Robertson pitching
+
+b9\t0-2\t0\t---\t5,(2-2) \tO\tCHW\tLuis Robert Jr.\tKirby Yates\t4%\t96%\tFlyball: LF (LF-CF)
+b9\t0-2\t1\t---\t7,(2-2) \tR\tCHW\tAndrew Benintendi\tKirby Yates\t-7%\t89%\tHome Run (Fly Ball to Deep RF Line)
+b9\t1-2\t1\t---\t7,(3-2) \tO\tCHW\tAndrew Vaughn\tKirby Yates\t6%\t96%\tStrikeout Swinging
+b9\t1-2\t2\t---\t2,(1-0) \tO\tCHW\tGavin Sheets\tKirby Yates\t4%\t100%\tGroundout: 2B-1B
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 0 LOB. Rangers 2, White Sox 1.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Chicago White Sox Schedule Texas Rangers Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Texas Rangers vs Chicago White Sox Box Score: August 29, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/CHA/CHA202408290.shtml 
+ ----- 

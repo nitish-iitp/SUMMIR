@@ -1,0 +1,442 @@
+NFL
+NBA
+MLB
+NCAAF
+NHL
+• • •
+Log In
+Subscribe
+Commanders vs. Bucs
+Eagles Advance
+Bills Advance
+Transfer News
+Connections: Sports Edition
+Newsletters
+Fantasy baseball waiver wire: Jhonkensy Noel, Rhett Lowder and more adds; plus, two-start pitchers and stashes
+By John Laghezza
+Sep 6, 2024
+
+3
+
+If your current fantasy roster still even partially resembles the team you drafted, you’re surely in the minority. For the rest of us normal people, I’ll be using a data-backed, formulaic approach to discover next week’s MLB waiver wire headliners… today. Going position by position, I mine my favorite obscure fantasy baseball statistics in regard to control, batted ball quality, and swing-and-miss ability. Then I mash them all together, hopefully identifying some cheap gems to grab now before the squares figure it out next week. At the very bottom, I rank my favorite available players around the diamond, as well as two-start pitchers and speculative adds.
+
+(Stats courtesy of Trumedia)
+
+Starting Pitchers
+
+As far as pitching goes, the thesis couldn’t be simpler — do our best to avoid any bias attached to surface stats (outputs) by instead focusing on underlying metrics (inputs). The most important SP skills are the ability to generate whiffs (first list below) and limit hard contact (second list below). While showing up on one of these two lists may be noise, I’m generally treating an appearance on both as a signal to immediately pull the trigger.
+
+Available Starters: Multiple >30% Whiff Offerings
+
+*(min. 15 pitches, since August 1st)*
+
+David Peterson, NYM — 4-Seam Fastball 35.2%, Slider 32.6%, Changeup 31.7%
+Osvaldo Bido, OAK — Changeup 35.8%, Slider 32.1%, 4-Seamer 32.0%
+Andrew Heaney, TEX — Changeup 47.2%, Slider 47.1%
+Mitchell Parker, WAS — Slider 43.6%, Split-Finger 41.8%
+Griffin Canning, LAA — Slider 39.0%, Changeup 38.4%
+Kyle Gibson, STL — Sweeper 35.7%, Changeup 32.0%
+Valente Bellozo, MIA — Sweeper 34.6%, Curveball 32.0%
+Bradley Blalock, COL — Split-Finger 34.4%, Slider 29.8%
+Roddery Munoz, MIA — Cutter 33.3%, Slider 29.8%
+Andre Pallante, STL — Curveball 32.4%, Slider 29.6%
+Available Starters: ≤.340 Expected Weighted On-Base Average, Contact-Only
+
+*(since August 1st)*
+
+Steven Matz, STL — 0.224 xwOBAcon
+Caden Dana, LAA — 0.250 xwOBAcon
+Rhett Lowder, CIN — 0.269 xwOBAcon
+JP Sears, OAK — 0.315 xwOBAcon
+Jack Kochanowicz, LAA — 0.318 xwOBAcon
+Samuel Aldegheri, LAA — 0.320 xwOBAcon
+Adam Oller, MIA — 0.324 xwOBAcon
+Dean Kremer, BAL — 0.328 xwOBAcon
+Nick Nastrini, CHW — 0.330 xwOBAcon
+DJ Herz, WAS — 0.336 xwOBAcon
+Casey Mize, DET — 0.339 xwOBAcon
+
+Hidden Gems By Category: The waiver wire actually blessed us with a few final opportunities at SP but, even in many shallow leagues, supply’s scarce. I’d prioritize Rhett Lowder purely for the upside despite the home park, except he’s rostered in half my 12-teamers already — refer to the SP rankings below and work down the list. Do not be afraid to stream a reliever on a team playing seven games with a chance to win the majority of them — there’s no time to work off starter blowups.
+
+Available Hitters: >107.0 mph 90th Percentile Exit Velocity
+
+*(min. 75 PA since the All-Star Break)*
+
+Jhonkensy Noel, OF, CLE — 108.9 m.p.h. EV
+Matt Wallner, OF, MIN — 108.8 m.p.h. EV
+Michael Conforto, OF, SF — 108.4 m.p.h. EV
+Jo Adell, OF, LAA — 107.7 m.p.h. EV
+Trevor Larnach, OF, MIN — 107.4 m.p.h. EV
+Shea Langeliers, C, OAK — 107.0 m.p.h. EV
+Paul DeJong, SS, KC — 106.8 m.p.h. EV
+Mickey Moniak, OF, LAA — 106.7 m.p.h. EV
+Available Hitters: <25% Chase Rate And >.380 Expected Weighted On-Base Average, Contact-Only
+
+*(min. 75 PA since the All-Star Break)*
+
+Michael Conforto, OF, SF — 21.4% Chase, 0.512 xwOBAcon
+Santiago Espinal, 3B, CIN — 24.8% Chase, 0.429 xwOBAcon
+Carlos Santana, 1B, MIN — 20.6% Chase, 0.400 xwOBAcon
+Brandon Marsh, OF, PHI — 22.8% Chase, 0.393 xwOBAcon
+Jesse Winker, OF, NYM — 18.1% Chase, 0.389 xwOBAcon
+Lars Nootbaar, OF, STL — 14.8% Chase, 0.385 xwOBAcon
+Andrew Benintendi, OF, CWS — 23.9% Chase, 0.375 xwOBAcon
+Dylan Carlson, OF, TB — 19.7% Chase, 0.369 xwOBAcon
+Spencer Horwitz, 2B, TOR — 23.4% Chase, 0.369 xwOBAcon
+Garrett Mitchell, OF, MIL — 17.8% Chase, 0.366 xwOBAcon
+Available Hitters: ≥18% Pulled Fly Ball/Line Drive Per Plate Appearance
+
+*(min. 75 PA since the All-Star Break)*
+
+Rowdy Tellez, 1B, PIT — 22.6% Pulled FBLD
+Mickey Moniak, OF, LAA — 20.8% Pulled FBLD
+Michael Massey, 2B, KC — 20.7% Pulled FBLD
+José Caballero, SS, TB — 20.5% Pulled FBLD
+Andrew Benintendi, OF, CWS — 20.0% Pulled FBLD
+Jonny DeLuca, OF, TB — 19.8% Pulled FBLD
+Paul DeJong, SS, KC — 17.6% Pulled FBLD
+Jo Adell, OF, LAA — 17.3% Pulled FBLD
+Shea Langeliers, C, OAK — 17.2% Pulled FBLD
+
+Hidden Gem: We’ve reached the wholly pragmatic part of the fantasy season. No time for speculating too far ahead as we’re rounding third and almost home — it’s down to the brass tacks of winning categories…
+
+Top Overall Add — Jhonkensy Noel, OF, CLE
+Batting Average — Brendan Donovan, 2B/3B/OF, STL
+Runs — Mickey Moniak, OF,LAA
+RBI — Randal Grichuk, OF, ARI
+HR — Taylor Ward, OF, LAA
+SB — Josh Lowe, TB
+Relief Pitchers
+
+Slight pivot on relievers the last month to focus more on targeting roles over skills. If you want to go deeper into all things relievers, I strongly suggest Greg Jewett’s weekly column — nobody does RPs better.
+
+Relievers: Saves + Holds
+
+*(min. 9 SOLDs since the All-Star break)*
+
+Aroldis Chapman, PIT — 8 SOLDs
+Chad Green, TOR — 8 SOLDs
+Tyler Kinley, COL — 9 SOLDs
+Tanner Scott, SD — 8 SOLDs
+Griffin Jax, MIN — 8 SOLDs
+Bryan Abreu, HOU — 8 SOLDs
+Lucas Erceg, KC — 11 SOLDs
+Yennier Cano, BAL — 8 SOLDs
+Tyler Holton, DET — 8 SOLDs
+Top waiver wire adds by position
+Catcher
+Shea Langeliers, OAK — +10 teams
+Miguel Amaya, CHC — 10/12 teams
+Alejandro Kirk, TOR — +12 teams
+Ivan Herrera, STL— 12/15 teams
+Mitch Garver, SEA— +15 teams
+First Base
+Ty France, CIN — +10 teams
+Carlos Santana, MIN — 10/12 teams
+Nate Lowe, TEX — +12 teams
+Andres Chaparro, WAS — 12/15 teams
+Anthony Rizzo, NYY — +15 teams
+Second Base
+Jorge Polanco, SEA — +10 teams
+Connor Norby, MIA — 10/12 teams
+Nick Gonzales, PIT — 12/15 teams
+Brendan Rodgers, COL — 12/15 teams
+Brandon Drury, LAA — +15 teams
+Shortstop
+
+**MAKE SURE TREVOR STORY IS ROSTERED**
+
+Tommy Edman , LAD — +10 teams
+Geraldo Perdomo, ARI — 10/12 teams
+Bryson Stott, PHI — +12 teams
+Paul DeJong, KC — 12/15 teams
+Trey Sweeney, DET — +15 teams
+Third Base
+Addison Barger, TOR — +10 teams
+Mark Vientos, NYM — 10/12 teams
+Otto Lopez, MIA — +12 teams
+Justin Turner, SEA — 12/15 teams
+Jared Triolo, PIT — +15 teams
+Outfield, +10/12 Team
+Jhonkensy Noel, CLE
+Pete Crow-Armstrong, CHC
+Matt Wallner, MIN
+Colton Cowser, BAL
+Kerry Carpenter, DET
+Heliot Ramos, SF
+Taylor Ward, LAA
+Jordan Walker, STL
+Victor Scott II, STL
+Parker Meadows, DET
+Outfield, +12/15 Team
+Josh Lowe, TB
+Randal Grichuk, ARI
+Alec Burleson, STL
+Mickey Moniak, LAA
+Lars Nootbar, STL
+Grant McCray, SF
+JJ Bleday, OAK
+Brandon Marsh, PHI
+Jesse Winker, NYM
+Seth Brown, OAK
+Outfield, +15 Team/Only
+Michael Conforto, SF
+Matt Vierling, DET
+Jake McCarthy, ARI
+Jo Adell, LAA
+David Peralta, SD
+Mike Yastrzemski, SF
+Ramon Laureano, ATL
+Jacob Young, WAS
+Brent Rooker, OAK
+Jose Siri, TB
+Luke Raley, SEA
+Joey Loperfido, TOR
+Masataka Yoshida, BOS
+Trevor Larnach, MIN
+Garrett Mitchell, MIL
+Joc Pederson, ARI
+MJ Melendez, KC
+Leody Tavares, TEX
+Jonny DeLuca, TB
+Eloy Jiménez, BAL
+Bryan De La Cruz, PIT
+Austin Martin, MIN
+Jake Meyers, HOU
+Alex Verdugo, NYY
+Derek Hill, MIA
+Kyle Stowers, MIA
+Sal Frelick, MIL
+Johan Rojas, PHI
+Kyle Isbel, KC
+Starters
+
+** MAKE SURE JACOB DEGROM AND YOSHINOBU YAMAMOTO ARE ROSTERED **
+
+Bowden Francis, TOR
+Rhett Lowder, CIN
+Reid Detmers, LAA
+Caden Dana, LAA
+Zebby Matthews, MIN
+Spencer Arrighetti, HOU
+Cody Bradford, TEX
+David Peterson, NYM
+Osvaldo Bido, OAK
+David Festa, MIN
+Simeon Woods Richardson, MIN
+Adam Oller, MIA
+Cade Povich, BAL
+Jack Kochanowicz, LAA
+Samuel Aldegheri, LAA
+Luis L. Ortiz, PIT
+*GAP* — Think about streaming a RP
+Max Meyer, MIA
+Griffin Canning, LAA
+Colin Rea, MIL
+Matthew Boyd, CLE
+Julian Aguiar, CIN
+Joe Boyle, OAK
+Valente Bellozo, MIA
+Cooper Criswell, BOS
+Yariel Rodriguez, TOR
+Mason Black, SF
+DJ Herz, WAS
+Hayden Birdsong, SF
+Frankie Montas, MIL
+Mitchell Parker, WAS
+Dean Kremer, BAL
+Brant Hurter, DET
+Joey Estes, OAK
+Kyle Harrison, SF
+Jonathan Cannon, CHW
+Michael Lorenzen, KC
+J.T. Ginn, OAK
+Ben Lively, CLE
+Davis Martin, CHW
+Relievers
+Porter Hodge, CHC
+Lucas Erceg, KC
+Aroldis Chapman, PIT
+Ryan Walker, SF
+Jason Foley, DET
+Calvin Faucher, MIA
+Jake Cousins, NYY
+Ben Joyce, LAA
+Edwin Uceta, TB
+Tyler Kinley, COL
+Jake Cousins, NYY
+Gus Varland, CHW
+Yennier Cano, BAL
+Andrew Kittredge, STL
+Chris Martin, BOS
+Griffin Jax, MIN
+Dennis Santana, PIT
+Ranking Next Week’s Two-Start Pitchers
+David Festa, MIN — vs LAA (Reid Detmers) vs. CIN (Rhett Lowder)
+Rhett Lowder, CIN — @ STL (Andre Pallante) @ MIN (David Festa)
+Cade Povich, BAL — @ BOS (Kutter Crawford) @ DET (Keider Montero)
+Adam Oller, MIA — @ PIT (Domingo German) @ WAS (MacKenzie Gore)
+Hayden Birdsong, SF — vs MIL (Aaron Civale) vs. SD (Randy Vasquez)
+Valente Bellozo, MIA — @ PIT (Paul Skenes) @ WAS (Patrick Corbin
+Keider Montero, DET — vs COL (Bradley Blalock) vs. BAL (Cade Povich)
+Kyle Hendricks, CHC — @ LAD (Yoshinobu Yamamoto) @ COL (Bradley Blalock)
+Bradley Blalock, COL — @ DET (Keider Montero) vs. CHC (Kyle Hendricks)
+Nick Nastrini, CHW — vs CLE (Tanner Bibee) vs. OAK (JP Sears)
+
+Thanks so much for reading — the comments, feedback and overall response to the article have bordered on overwhelming. Please feel free to let my bosses know how I’m doing below with any comments or questions. Make sure to follow me on X @JohnLaghezza for a link to my brand new best-selling Substack page for all the fantasy, betting, and DFS data you can stomach.
+
+(Top photo of Rhett Lowder: Katie Stratman-Imagn Images)
+
+John is a lifetime fan and longtime analyst who crossed into content creation with his integration of technical analysis in the MLB space. He’s the man behind the @MLBMovingAvg handle on Twitter, launching the MLBMA algorithm in 2018 after having written several successful models, focused on creating the preeminent handicapping tool for fantasy baseball and sports betting. He's also the Director of MLB content at windailysports.com and will not rest until the Quality Start is fixed. Follow John on Twitter @MLBMovingAvg
+
+National
+Boxing
+Bundesliga
+Champions League
+Championship
+College Football
+College Sports
+Copa America
+Copa del Rey
+Culture
+Europa League
+European Championship
+FA Cup
+Fantasy Baseball
+Fantasy Basketball
+Fantasy Football
+Fantasy Hockey
+Fantasy Premier League
+Formula 1
+Gaming
+Golf
+International Football
+La Liga
+League Cup
+League One
+League Two
+LNH
+Memorabilia & Collectibles
+Men's College Basketball
+Men's World Cup
+Mixed Martial Arts
+MLB
+MLS
+Motorsports
+NASCAR
+NBA
+NFL
+NHL
+NWSL
+Olympics
+Opinion
+Premier League
+Scottish Premiership
+Serie A
+Soccer
+Sports Betting
+Sports Business
+Tennis
+Top Sports News
+UK Women's Football
+WNBA
+Women's College Basketball
+Women's Euros
+Women's Hockey
+Women's World Cup
+The Athletic Ink
+Podcasts
+Headlines
+US
+Arizona
+Atlanta
+Baltimore
+Bay Area
+Boston
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Columbus
+Dallas
+Denver
+Detroit
+Houston
+Indiana
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles
+Memphis
+Miami
+Minnesota
+Nashville
+New Orleans
+New York
+Oklahoma
+Oregon
+Orlando
+Philadelphia
+Pittsburgh
+Sacramento
+San Antonio
+San Diego
+Seattle
+St. Louis
+Tampa Bay
+Utah
+Washington DC
+Wisconsin
+Canada
+Calgary
+Edmonton
+Montreal
+Montréal (français)
+Ottawa
+Toronto
+Vancouver
+Winnipeg
+Partners
+Collectibles by eBay
+Odds by BetMGM
+Streaming by Fubo
+Tickets by StubHub
+Subscribe
+Start Subscription
+Buy a Gift
+Student Discount
+Group Subscriptions
+HQ
+About Us
+Careers
+Code of Conduct
+Editorial Guidelines
+Business Inquiries
+Press Inquiries
+Support
+FAQ
+Forgot Password?
+Redeem Gift
+Contact Us
+Terms of Service
+Newsletters
+The Pulse
+The Bounce
+The Windup
+Prime Tire
+Full Time
+Until Saturday
+Scoop City
+The Athletic FC
+MoneyCall
+©2025 The Athletic Media Company, A New York Times Company
+Privacy Policy
+Your Ad Choices
+Support
+Sitemap
+ 
+ 
+ ----- 
+ Source link : https://www.nytimes.com/athletic/5747450/2024/09/06/fantasy-baseball-waiver-wire-johnkensy-noel-rhett-lowder-adds-two-start-pitchers/ 
+ ----- 

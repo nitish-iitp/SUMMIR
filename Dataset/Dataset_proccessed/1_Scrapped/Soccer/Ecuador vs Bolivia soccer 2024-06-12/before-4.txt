@@ -1,0 +1,288 @@
+Skip to content
+
+Free lower 48 U.S. Shipping on orders over $60
+
+Log in
+0
+0 items
+Home
+Blog
+Top 10 OSHA Violations and How To Avoid Them (2023 Update)
+Top 10 OSHA Violations and How To Avoid Them (2023 Update)
+June 11, 2024
+Share this article
+Contents
+Comparing the Top OSHA Violations List
+1. Fall Protection, Construction
+2. Hazard Communication, General Industry
+3. Ladders, Construction
+4. Scaffolding, Construction
+5. Powered Industrial Trucks, General Industry
+6. Control of Hazardous Energy (Lockout/Tagout), General Industry
+7. Respiratory Protection, General Industry
+8. Fall Protection Training, Construction
+9. Eye and Face Protection, Construction
+10. Machinery and Machine Guarding, General Industry
+What Employers Can Do After Receiving OSHA Citations
+Post the Citation
+Correct the Violations
+Pay Penalties
+Submit Abatement Certification
+Request an Informal Conference
+File a Notice of Contest
+Reasons OSHA May Consider Reducing Citations
+FAQs About OSHA Violations
+
+OSHA sets safety standards and regulations that are mandatory for employers to follow in order to protect their employees at work. Unfortunately, many employers violate these regulations, putting their workers at risk. Just last fiscal year, OSHA recorded thousands of violations, which shows that there is still a long way to go in terms of creating a safe working environment.
+
+Every year, reports of the OSHA most frequently cited standards are published to help employers understand the most common hazards in the workplace. This article will provide an overview of the top 10 OSHA violations list and offer practical tips on how to avoid them. Additionally, we will discuss the different options employers can use to respond to OSHA citations effectively.
+
+Comparing the Top OSHA Violations List
+
+In 2022, OSHA recorded a total of 21,123 citations among the Top 10, which is a 5% increase from 2021 and the first year-over-year increase in OSHA citations in several years. The 10 items remained the same as the previous year, but their ranking changed. See below:
+
+Fall Protection General Requirements, Construction - 7,271 violations (+38.23% vs. 2022)
+Hazard Communication, General Industry - 3,213 violations (+32.55% vs. 2022)
+Ladders, Construction - 2,978 violations (+38.96% vs. 2022)
+Scaffolding, Construction - 2,859 violations (+38.92% vs. 2022)
+Powered Industrial Trucks, General Industry - 2,561 violations (+46.43% vs. 2022)
+Control of Hazardous Energy (Lockout/Tagout), General Industry - 2,554 violations (+29.19% vs. 2022)
+Respiratory Protection, General Industry - 2,481 violations (+13.55% vs. 2022)
+Fall Protection Training, Construction - 2,112 violations (+35.73% vs. 2022)
+Eye and Face Protection, Construction - 2,074 violations (+50.94% vs. 2022)
+Machinery and Machine Guarding, General Industry - 1,644 violations (+20% vs. 2022)
+
+ 
+
+1. Fall Protection, Construction
+
+This year, OSHA cited 7,271 fall protection violations, which include scaffolds, ladders, and roofs. Fall protection not only had the highest number of serious violations but also the most willful violations during this period. Fall protection is required when employees are working at a height of six feet or more. Employers can prevent fall-related injuries by:
+
+Ensuring workers have proper fall protection gear.
+Inspecting and replacing worn or damaged equipment regularly.
+Training workers on how to use and inspect fall protection equipment.
+Analyzing job sites for potential fall hazards and taking steps to eliminate or reduce risks.
+Implementing a comprehensive fall protection program, including hazard identification, training, and regular program reviews.
+2. Hazard Communication, General Industry
+
+OSHA's Hazard Communication Standard (HCS) requires employers to inform workers about hazardous chemicals in the workplace. This includes labeling, safety data sheets, and employee training. Below are 5 tips employers can use to prevent Hazard Communication Standard violations:
+
+Develop and implement a written hazard communication program that includes a list of hazardous chemicals present in the workplace and procedures for communicating chemical hazards to workers
+Label all containers of hazardous chemicals, including secondary containers, with appropriate warning labels
+Provide workers with access to safety data sheets (SDS) for all hazardous chemicals they may come into contact with
+Train workers on the hazards associated with the chemicals they work with, including the proper use of personal protective equipment (PPE). Use training materials such as a HazCom poster for daily refresher of crucial HazCom symbols and their meaning.
+Regularly review and update the hazard communication program to ensure it remains current and effective
+3. Ladders, Construction
+
+Ladder violations occur when ladders are not properly secured, placed, or used. According to OSHA, roofing contractors were the top industry cited for these violations. Employers can prevent ladder violations by providing appropriate ladders for the job, ensuring ladders are inspected before use, and training workers on how to use ladders safely.
+
+Ensure that all ladders are in good condition, with no missing or broken rungs, rails, or feet
+Train workers on the proper use of ladders, including how to inspect them for defects and how to set them up safely
+Use ladders only for their intended purpose and never as a substitute for scaffolding or other types of work platforms
+Conduct regular inspections of ladders to identify and address any defects or hazards.
+Implement a ladder safety program that includes procedures for identifying and addressing ladder hazards, training workers, and regularly reviewing and updating the program
+4. Scaffolding, Construction
+
+Scaffolding safety violations are common in the construction industry, with masonry contractors being the most cited this year for this type of OSHA violation. To promote safety, employers must ensure that scaffolding is properly constructed and that workers are trained to use it safely. Employers can prevent scaffolding violations by:
+
+Ensuring all scaffolds are erected, dismantled, and maintained by qualified and competent workers
+Conducting regular inspections of scaffolding to identify and address any defects or hazards. Inspection tags may be used to record and track this safety information
+Training workers on the proper use of scaffolding and ensuring they understand how to inspect it for defects
+Implementing a scaffold safety program that includes procedures for identifying and addressing scaffold hazards, training workers, and regularly reviewing and updating the program
+Using only high-quality materials and components in the construction of the scaffolding
+5. Powered Industrial Trucks, General Industry
+
+Powered industrial trucks such as forklifts and pallet jacks are commonly used in warehouses and manufacturing facilities. OSHA requires employers to provide training for workers who operate powered industrial trucks. Employers can prevent powered industrial truck violations by using OSHA standards for workplace safety and ensuring:
+
+All workers operating industrial trucks are properly trained and authorized to do so.
+Trucks are regularly inspected
+Trucks are used only by trained operators
+6. Control of Hazardous Energy (Lockout/Tagout), General Industry
+
+Lockout/tagout violations were the second most willful violations on this list. It occurs when machines or equipment are not properly shut down before maintenance or repair. This can lead to serious physical harm or fatalities if the machine or equipment is accidentally turned on.
+
+Every year, far too many work accidents occur as a result of unintentional machine startups. This preventable tragedy resulted in 50,000 reported incidents and 120 tragic fatalities. These tips could save your employees from improper control of hazardous energy:
+
+Create a lockout tagout safety program
+Make sure that all moving parts of the machine have stopped before conducting any repairs
+Remove any electrical connection from the machine
+Lock and tag each machinery
+Use high-quality locks and readable tags for the machines and equipment
+7. Respiratory Protection, General Industry
+
+Despite dropping from number 3 to number 7, Respiratory Protection saw an increase in violations in FY 2023. This rise highlights the need for employers to provide proper respiratory protection to workers who are exposed to harmful dust, fumes, or other airborne contaminants. Respiratory protection includes respirators, air-purifying devices, and air-supplying devices. Some tips to alert employers and prevent respiratory protection violations are as follows:
+
+Assess the workplace for potential respiratory hazards
+Provide appropriate respiratory protection equipment
+Train employees on the proper use and maintenance of equipment
+Establish a written respiratory protection program
+Regularly monitor workplace conditions for harmful airborne contaminants
+8. Fall Protection Training, Construction
+
+Fall protection training violations occur when employers fail to keep fall protection training requirements for workers in the construction industry. Employers can prevent such training violations by:
+
+Conducting a hazard assessment to identify any potential fall hazards in the workplace
+Providing appropriate personal protective equipment to employees based on the results of the hazard assessment
+Training employees on the proper use, maintenance, and care of fall protection equipment
+Establishing written fall protection systems that outline the procedures for selecting and using fall protection equipment, hazard identification, and training
+Regularly inspecting fall protection equipment to ensure that it is in good condition and functioning properly
+9. Eye and Face Protection, Construction
+
+Every year, 800,000 eye injuries occur in the workplace. Eye and face protection violations occur when employers fail to provide appropriate eye and face protection equipment for workers who are exposed to flying debris, chemicals, or other hazards. Employers can prevent eye and face protection violations by following these tips:
+
+Make sure to have high-grade eye and face protection
+Put precautionary and reminder signages on the workplace
+Ensure that there is no shortage of eye and face protection for the workers
+Create awareness for this particular risk
+Engage in educating employees the importance of having eye and face protection
+10. Machinery and Machine Guarding, General Industry
+
+Machine guarding violations occur when machines are not properly guarded to prevent worker contact with hazardous parts. According to OSHA, approximately 800 people die and 18,000 workers suffer amputation, laceration, crushing, and abrasion injuries due to a lack of machine guards each year.
+
+When operating machinery, machine guards are the first line of defense against potential accidents caused by machine malfunctions. Here are some tips to prevent these machine guarding violations:
+
+Make sure that machine guards are not faulty
+Do not forget to put on guards after machine maintenance
+Do a check-up on machine guards from time to time
+If necessary, change guards after a period of time
+Rely on heavy-duty guard locks for the machines
+
+ 
+
+What Employers Can Do After Receiving OSHA Citations
+
+When an employer receives OSHA citations from OSHA, there are several proactive steps they can take to address the citation and ensure compliance with OSHA regulations. According to OSHA, employers have the following options:
+
+Post the Citation
+
+Upon receiving an OSHA citation, employers must post a copy of the citation at or near the place where each violation occurred. This is a critical step in ensuring transparency and in informing employees about the specific hazards identified by OSHA. The citation must remain posted for at least three working days or until the violation is corrected, whichever period is longer.
+
+Correct the Violations
+
+Employers must take immediate steps to address and rectify the cited hazards by the abatement date specified in the OSHA citations. This process involves implementing necessary changes or repairs to eliminate the identified safety or health risks. Employers might need to update safety procedures, repair or replace faulty equipment, provide additional training to employees, or make structural changes to the workplace. This demonstrates compliance and commitment to workplace safety.
+
+Pay Penalties
+
+Employers are required to pay the fines associated with the OSHA citations within 15 working days of receipt. OSHA fines are set within a minimum and maximum range, reflecting the severity and nature of the violation, from serious to willful or repeated violations. Timely payment helps avoid additional fines or legal actions and resolves the financial aspect of the citation.
+
+Submit Abatement Certification
+
+After correcting the violations, employers must submit an abatement certification letter to OSHA. This letter should detail the specific actions taken to correct each violation, along with supporting evidence such as photographs, receipts, or inspection reports. Providing thorough documentation assures OSHA that the recognized hazards have been effectively mitigated. Failure to abate also result to an OSHA fine of $16,131 per day unabated beyond the abatement date (generally limited to 30 days maximum).
+
+Request an Informal Conference
+
+Employers have the right to request an informal conference with OSHA’s Area Director within 15 working days of receiving the OSHA citations. During this conference, employers can:
+
+Seek detailed explanations for the cited violations
+Clarify the specific OSHA standards that apply to the violations
+Discuss corrective actions and methods to address the violations
+Address any concerns related to the proposed abatement dates
+Review and improve employee safety practices
+Resolve any disputed violations
+Ask additional questions to ensure all concerns are addressed
+File a Notice of Contest
+
+If the employer disagrees with the OSHA citations, the proposed penalties, or the abatement dates, they can file a notice of contest within 15 working days of receiving the citation. This formal contest will be reviewed by the Occupational Safety and Health Review Commission (OSHRC), where both OSHA and the employer will present their cases.
+
+Contesting a citation can be beneficial if the employer believes the citation is unjust, the penalties are excessive, or the abatement period is unreasonable. It allows the employer to challenge OSHA's findings and potentially reduce or eliminate penalties. This process, however, can be time-consuming and may require significant resources, so employers should weigh the potential benefits against the costs.
+
+ 
+
+Reasons OSHA May Consider Reducing Citations
+
+OSHA may consider reducing citations and associated penalties based on several mitigating factors, including:
+
+Good Faith Efforts: Employers who show a proactive approach to compliance and safety can indicate to OSHA that the violations were not due to negligence but rather isolated incidents. This includes having a robust safety and health program in place, regular training for employees, and a documented history of safety practices.
+History of Compliance: Employers with a clean track record or minimal previous OSHA citations are more likely to receive leniency. A history of compliance shows that the employer generally follows OSHA regulations and that the current citation is an anomaly.
+Size of Business: Penalties can be adjusted based on the size of the business, typically measured by the number of employees. This consideration helps ensure that penalties are fair and proportionate, not unduly burdening small businesses.
+Immediate Correction: Employers who take swift action to correct recognized hazards immediately upon identification can be viewed favorably by OSHA. This responsiveness can lead to reduced penalties as it shows that the employer is actively working to prevent OSHA violations in the workplace.
+Abatement Actions: Employers who show substantial efforts to implement long-term solutions to prevent future occurrences can receive consideration for penalty reductions. This includes investing in new safety equipment, redesigning processes to enhance safety, and continuous improvement initiatives.
+
+ 
+
+FAQs About OSHA Violations
+What are the most common OSHA violations?
+
+The most common OSHA violations are lack of fall protection, hazard communication standard violations, scaffolding violations, and respiratory protection standard violations, lockout/tagout violations, ladder violations, machine guarding violations, electrical violations, and powered industrial truck violations.
+
+How can employers prevent OSHA violations?
+
+Employers can prevent OSHA violations by training requirements, providing appropriate training, identifying workplace hazards, and following OSHA regulations.
+
+What are the consequences of OSHA violations?
+
+OSHA violations can result in serious injuries or fatalities, as well as hefty fines and legal liabilities for employers.
+
+Why is it important for employers to prioritize workplace safety now?
+
+Prioritizing occupational safety is important for employers to create a safe and healthy work environment for their workers and to prevent OSHA violations.
+
+Tags:
+Herbert Post
+Industry News
+Workplace Safety
+Share this article
+June 11, 2024
+What Is OEE? Overall Equipment Effectiveness in Manufacturing
+June 12, 2024
+Understanding Cobots (Collaborative Robots) and Their Impact in Manufacturing
+Herbert Post
+Born in the Philadelphia area and raised in Houston by a family who was predominately employed in heavy manufacturing. Herb took a liking to factory processes and later safety compliance where he has spent the last 13 years facilitating best practices and teaching updated regulations. He is married with two children and a St Bernard named Jose. Herb is a self-described compliance geek. When he isn’t studying safety reports and regulatory interpretations he enjoys racquetball and watching his favorite football team, the Dallas Cowboys.
+Contact Us
+Reno, Nevada 89502
+(316) 247-1270
+hello@trdsf.com
+Absorbent Supplies
+Oil Only
+Pads
+Pillows
+Socks
+Spill Kits
+Sweep Off
+Universal
+Eyewash Stations
+Pedestal Mount
+Portable
+Wall Mount
+Lockout Tagout
+Breaker Locks
+Electrical Lockout
+Hasps
+Kits
+Lock Boxes
+LOTO Devices
+Padlocks
+Plug & Socket Lockout
+Push Button Lockout
+Spigot Lockout
+Stations
+Supplies
+Tags
+Valve Lockout
+Workplace Signs
+Floor Signs
+Safety Scoreboards
+Spanish Signs
+Wall Signs
+More
+About
+Blog
+Privacy
+Terms of Use
+Contact Us
+FAQ
+Shipping
+Warranty
+Warranty Registration
+Where to Buy
+Facebook
+Instagram
+YouTube
+Linkedin
+Payment methods
+© 2024, TRADESAFE Powered by Shopify
+ 
+ 
+ ----- 
+ Source link : https://trdsf.com/blogs/news/top-10-most-common-osha-violations?srsltid=AfmBOooSt41zjl-S4GsjEyGcKeuQLUcyR-iUC2rxYi-Wxe-Agx8EyDS- 
+ ----- 

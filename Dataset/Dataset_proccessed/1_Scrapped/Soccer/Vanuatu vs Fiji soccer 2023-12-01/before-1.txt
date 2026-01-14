@@ -1,0 +1,128 @@
+Search
+Topics
+Research and Media Mentions
+About
+Go
+Exact search
+
+Close
+
+The information on this page represents either a request to remove material from an online site or a DMCA (copyright) "counternotice," asking that material already removed be replaced.
+
+Lumen maintains an independent database of these notices and counternotices - we are not their senders or recipients. All of the notices and requests in the Lumen database have been shared with Lumen voluntarily by the companies or individuals responsible for either originally sending or receiving the notices. Lumen is not responsible in any way for either removing or restoring on-line content from the web or search engine listings, or for "blocking" or restoring access to websites or URLs.
+
+Other information in the notice or counternotice depends on what details were included when a copy of the notice was shared with Lumen. Lumen does not have any more information about a particular notice than what is present within it.
+
+The "Recipient" of the notice is the person or organization, most often an OSP, controlling access to the material or search results that are the subject of the request, and is therefore in a position to remove or restore access to it.
+The "Principal" is the person or organization whose rights have allegedly been violated and on whose behalf the request is being made.
+The "Sender" is the same as the Principal, the person or entity who is requesting that the material be removed, unless a third party has sent the notice on the Principal's behalf, in which case both are listed, with the agent sending "on behalf of" the original complainant.
+The "Submitter" is the person or organization that shared a copy of the notice or counternotice with Lumen
+
+Other important fields on each notice include the following, although not every notice will have information in all of these fields.
+
+The URL(s) for the material that the complainant wants taken down
+A brief description of the issue leading to the complaint; and whether the recipient acted on the complaint or not.
+In the case of a copyright complaint, the notice will also include a description of the original copyrighted material, and its URL if one exists.
+DMCA (Copyright) Complaint to Google
+SENDER
+Athletia Sports GmbH
+on behalf of atp media
+[Private]
+DE
+Sent on June 12, 2024
+COUNTRY: DE 🇩🇪
+RECIPIENT
+Google LLC 
+[Private]
+Mountain View, CA, 94043, US
+SUBMITTER
+Google LLC 
+OTHER ENTITIES:
+PRINCIPAL
+Re: Unknown
+NOTICE TYPE:
+DMCA
+Copyright claim 1
+KIND OF WORK:
+Unspecified
+DESCRIPTION
+2024 ATP [REDACTED] Tournaments | Broadcast signal of 2024 ATP [REDACTED] Tournaments
+ORIGINAL URLS:
+www.atptour.com - 1 URL
+ALLEGEDLY INFRINGING URLS:
+tennisonline.me - 102 URLs
+elsec.somehowrockyng.shop - 100 URLs
+livetv788.me - 100 URLs
+axscore.com - 99 URLs
+livetv787.me - 99 URLs
+tennis.stream - 80 URLs
+365livesport.life - 77 URLs
+tennis-open.ru - 66 URLs
+sport3.tv - 54 URLs
+strims.in - 46 URLs
+freestreams-live1.watch - 38 URLs
+rob51gg.nervousdoctor9bx.shop - 22 URLs
+4stream.watch - 13 URLs
+shoot-yalla.pro - 12 URLs
+w5.thethao60s.com - 10 URLs
+shoote-yalla.com - 9 URLs
+live.shoot-yalla.io - 6 URLs
+bingsport.watch - 6 URLs
+thehomesport.com - 5 URLs
+megamais.online - 5 URLs
+dlhd.life - 5 URLs
+tennistream.net - 4 URLs
+tennistream.com - 4 URLs
+tv.thethao60s.com - 4 URLs
+pt.vipbox.lc - 3 URLs
+player.sport3.tv - 3 URLs
+fr.vipbox.lc - 3 URLs
+bingsport.co - 3 URLs
+watchsportnow.com - 2 URLs
+streamed.su - 2 URLs
+roan53gg.ironwinter6m.shop - 2 URLs
+premiertv.watch - 2 URLs
+nl.vipbox.lc - 2 URLs
+bingsportlive.com - 2 URLs
+topliga.net - 1 URL
+stream2watch.vip - 1 URL
+ja.vipbox.lc - 1 URL
+hes-goals.tv - 1 URL
+fbstreams.pm - 1 URL
+es.vipbox.lc - 1 URL
+de.vipbox.lc - 1 URL
+cr7stream.tv - 1 URL
+www.sportp2p.com - 1 URL
+m.livetv787.me - 1 URL
+
+Click here to request access and see full URLs.
+
+Copyright claim 2
+KIND OF WORK:
+Unspecified
+DESCRIPTION
+2024 ATP [REDACTED] Tournaments | Broadcast signal of 2024 ATP [REDACTED] Tournaments
+ORIGINAL URLS:
+www.atptour.com - 1 URL
+ALLEGEDLY INFRINGING URLS:
+www.rbtv77.pics - 100 URLs
+www.vipboxtv.sk - 33 URLs
+www.vipbox.lc - 11 URLs
+www.futbollibre.run - 1 URL
+www.batstream.cc - 1 URL
+widget.lshunter.cc - 1 URL
+
+Click here to request access and see full URLs.
+
+JURISDICTIONS
+DE
+TOPICS
+DMCA Notices, Copyright
+TAGS
+ 2017 Lumen
+Legal Licenses Privacy Researchers Blog Archive Spring '22 Research Sprint Sign In
+ 
+ 
+ ----- 
+ Source link : https://lumendatabase.org/notices/42227237 
+ ----- 

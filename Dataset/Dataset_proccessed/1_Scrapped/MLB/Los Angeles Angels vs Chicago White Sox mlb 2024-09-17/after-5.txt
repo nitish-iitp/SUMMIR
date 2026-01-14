@@ -1,0 +1,598 @@
+MENU
+Home Teams Only Have an Advantage in Cold Weather Cities
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Los Angeles Angels Schedule
+Chicago White Sox Schedule
+Chicago White Sox vs Los Angeles Angels Box Score: September 17, 2024
+MLB Scores — September 17, 2024
+SFG	10	Final
+BAL	0	
+ATL	5	Final
+CIN	6	
+MIN	4	Final
+CLE	1	
+LAD	9	Final
+MIA	11	
+BOS	3	Final
+TBR	8	
+WSN	1	Final
+NYM	10	
+OAK	4	Final
+CHC	3	
+DET	3	Final
+KCR	1	(10)
+PHI	5	Final
+MIL	1	
+PIT	1	Final
+STL	3	
+TOR	8	Final
+TEX	13	
+ARI	2	Final
+COL	8	
+CHW	0	Final
+LAA	5	
+HOU	4	Final
+SDP	3	(10)
+NYY	11	Final
+SEA	2	
+MLB Scores & Standings on this Day
+Chicago White Sox
+0
+36-116
+Prev Game Next Game
+ 
+Los Angeles Angels
+5
+61-90
+Prev Game Next Game
+Tuesday, September 17, 2024
+Start Time: 6:38 p.m. Local
+Attendance: 36,254
+Venue: Angel Stadium of Anaheim
+Game Duration: 2:31
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Chicago White Sox	0	0	0	0	0	0	0	0	0	0	6	0
+
+	Los Angeles Angels	0	0	1	1	1	1	1	0	X	5	10	0
+WP: Griffin Canning (6-13) • LP: Davis Martin (0-5)
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Nicky Lopez SS	3	0	2	0	1	0	4	.249	.318	.304	.622	17	8	0.002	0.73	0.068	-0.066	0%	0.00	0.2	1	5	CS
+Luis Robert Jr. CF	4	0	0	0	0	3	4	.225	.278	.385	.663	15	11	-0.101	1.04	0.000	-0.101	0%	0.00	-1.3	2	0	
+Andrew Benintendi LF	4	0	0	0	0	1	4	.226	.289	.396	.685	17	8	-0.055	0.52	0.000	-0.055	0%	0.00	-0.7	3	0	
+Andrew Vaughn DH	4	0	1	0	0	1	4	.248	.300	.408	.709	16	10	-0.048	0.53	0.004	-0.051	0%	0.00	-0.3	0	0	
+Gavin Sheets 1B	3	0	0	0	1	0	4	.241	.312	.370	.682	25	15	0.017	0.59	0.048	-0.031	0%	0.00	-0.5	7	0	GDP
+Lenyn Sosa 2B	3	0	0	0	0	1	3	.240	.267	.322	.588	11	8	-0.060	0.85	0.000	-0.060	0%	0.00	-0.6	2	3	
+Dominic Fletcher RF	3	0	2	0	0	0	3	.216	.262	.274	.536	11	6	0.036	0.92	0.061	-0.025	0%	0.00	0.5	2	1	
+Korey Lee C	3	0	0	0	0	2	3	.203	.235	.329	.564	12	11	-0.142	1.29	0.000	-0.142	0%	0.00	-1.4	6	0	GDP
+Miguel Vargas 3B	3	0	1	0	0	1	3	.165	.255	.273	.528	17	11	-0.018	0.56	0.014	-0.031	0%	0.00	-0.4	1	0	
+																							
+Davis Martin P																					0	0	
+   Enyel De Los Santos P																					0	0	
+   Jake Eder P																					0	0	
+Team Totals	30	0	6	0	2	9	32	.200	.250	.200	.450	141	88	-0.369	0.77	0.195	-0.562	0.00%	0.00	-4.4	24	9	
+TB: Dominic Fletcher 2; Nicky Lopez 2; Andrew Vaughn; Miguel Vargas.
+GIDP: Gavin Sheets (5); Korey Lee (12).
+Team LOB: 5.
+With RISP: 0 for 2.
+Fielding
+DP: 2. Nicky Lopez-Lenyn Sosa-Gavin Sheets; Lenyn Sosa-Nicky Lopez-Gavin Sheets.
+Outfield Assists: Dominic Fletcher (Gustavo Campero at 2nd base).
+Baserunning
+CS: Nicky Lopez (7, 2nd base by Griffin Canning/Logan O'Hoppe).
+Los Angeles Angels 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Taylor Ward LF	4	1	3	1	0	1	4	.248	.324	.437	.761	23	15	0.156	0.67	0.176	-0.021	0%	0.00	2.4	4	0	SB
+Zach Neto SS	4	0	0	0	0	0	4	.248	.318	.436	.754	19	11	-0.091	0.89	0.000	-0.091	0%	0.00	-1.5	2	2	
+Nolan Schanuel 1B	3	1	1	1	1	0	4	.252	.345	.367	.712	15	7	0.054	0.73	0.108	-0.054	0%	0.00	0.5	5	1	2B,GDP
+Niko Kavadas DH	3	0	1	0	1	2	4	.183	.284	.324	.608	18	10	0.011	0.69	0.049	-0.038	0%	0.00	0.2	0	0	
+Logan O'Hoppe C	4	0	0	0	0	2	4	.236	.294	.399	.692	20	14	-0.072	0.66	0.000	-0.072	0%	0.00	-1.2	9	1	
+Eric Wagaman 3B	4	1	3	2	0	0	4	.292	.292	.667	.958	15	11	0.124	0.61	0.135	-0.011	0%	0.00	2.3	1	1	HR
+Charles Leblanc 2B	1	1	0	0	2	0	3	.190	.370	.476	.847	11	3	0.015	0.80	0.044	-0.029	0%	0.00	0.2	1	1	
+   Jack López 2B	0	0	0	0	0	0	1	.065	.121	.065	.186	5	2	0.001	0.03	0.001	0.000	0%	0.00	0.6	0	1	HBP
+Jordyn Adams CF	4	0	0	0	0	1	4	.231	.286	.346	.632	13	11	-0.073	0.76	0.000	-0.073	0%	0.00	-2.2	1	0	GDP
+Gustavo Campero RF	4	1	2	0	0	0	4	.333	.333	.333	.667	11	8	0.008	0.60	0.034	-0.025	0%	0.00	-0.2	3	0	SB
+																							
+Griffin Canning P																					0	0	
+   Brock Burke P																					1	0	
+   Hunter Strickland P																					0	0	
+   Ryan Miller P																					0	0	
+Team Totals	31	5	10	4	4	6	36	.323	.417	.452	.868	150	92	0.133	0.68	0.547	-0.414	0.00%	0.00	1.0	27	7	
+2B: Nolan Schanuel (18, off Davis Martin).
+HR: Eric Wagaman (2, off Enyel De Los Santos, 6th inn, 0 on, 1 out to Deep LF-CF).
+HBP: Jack López (1, by Jake Eder).
+TB: Eric Wagaman 6; Taylor Ward 3; Gustavo Campero 2; Nolan Schanuel 2; Niko Kavadas.
+GIDP: Jordyn Adams (1); Nolan Schanuel (14).
+RBI: Eric Wagaman 2 (4); Taylor Ward (69); Nolan Schanuel (52).
+2-out RBI: Taylor Ward; Nolan Schanuel.
+Team LOB: 7.
+With RISP: 3 for 13.
+Fielding
+DP: 2. Jack López-Zach Neto-Nolan Schanuel; Eric Wagaman-Charles Leblanc-Nolan Schanuel.
+Baserunning
+SB: Gustavo Campero (1, 2nd base off Davis Martin/Korey Lee); Taylor Ward (5, 2nd base off Jake Eder/Korey Lee).
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Davis Martin, L (0-5)	5	7	3	3	2	4	0	4.27	22	87	56	35	12	9	7	9	4	0	43			-0.093	1.06	0.00%	0.00	-0.5
+Enyel De Los Santos	1	1	1	1	1	1	1	5.37	5	18	10	6	2	2	1	2	0	0		0	0	-0.029	0.21	0.00%	0.00	-0.5
+Jake Eder	2	2	1	1	1	1	0	4.50	9	45	26	14	6	6	5	1	0	0		0	0	-0.010	0.14	0.00%	0.00	-0.0
+Team Totals	8	10	5	5	4	6	1	5.62	36	150	92	55	20	17	13	12	4	0	43	0	0	-0.132	0.68	0.00%	0.00	-1.0
+
+Los Angeles Angels 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Griffin Canning, W (6-13)	6	3	0	0	2	6	0	5.16	21	88	50	26	14	10	6	7	0	0	70			0.322	1.00	0.00%	0.00	3.0
+Brock Burke	1	0	0	0	0	1	0	6.28	3	12	9	5	2	2	1	1	1	0		0	0	0.028	0.37	0.00%	0.00	0.5
+Hunter Strickland	1	2	0	0	0	2	0	3.23	5	28	20	13	3	4	0	3	2	0		0	0	0.012	0.32	0.00%	0.00	0.5
+Ryan Miller	1	1	0	0	0	0	0	2.16	3	13	9	7	0	2	3	0	0	0		0	0	0.006	0.16	0.00%	0.00	0.5
+Team Totals	9	6	0	0	2	9	0	0.00	32	141	88	51	19	18	10	11	3	0	70	0	0	0.368	0.77	0.00%	0.00	4.4
+
+Balks: None.
+WP: Jake Eder (1).
+HBP: Jake Eder (1; Jack López).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - David Arrieta, 1B - Ramon De Jesus, 2B - Alex MacKay, 3B - Adrian Johnson, LF - (none), RF - (none).
+Time of Game: 2:31.
+Attendance: 36,254.
+Field Condition: Unknown.
+Start Time Weather: 71° F, Wind 7mph out to Centerfield, Cloudy, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+White Sox
+1	Nicky Lopez	SS
+2	Luis Robert Jr.	CF
+3	Andrew Benintendi	LF
+4	Andrew Vaughn	DH
+5	Gavin Sheets	1B
+6	Lenyn Sosa	2B
+7	Dominic Fletcher	RF
+8	Korey Lee	C
+9	Miguel Vargas	3B
+	Davis Martin	P
+Angels
+1	Taylor Ward	LF
+2	Zach Neto	SS
+3	Nolan Schanuel	1B
+4	Niko Kavadas	DH
+5	Logan O'Hoppe	C
+6	Eric Wagaman	3B
+7	Charles Leblanc	2B
+8	Jordyn Adams	CF
+9	Gustavo Campero	RF
+	Griffin Canning	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Chicago White Sox vs. Los Angeles Angels, September 17
+2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+LAA
+50%
+CHW
+Inning	Win Pct
+1	0.5
+2	0.54
+3	0.5
+4	0.46
+5	0.45
+6	0.42
+7	0.45
+8	0.5
+9	0.48
+10	0.46
+11	0.45
+12	0.47
+13	0.49
+14	0.5
+15	0.47
+16	0.46
+17	0.47
+18	0.45
+19	0.41
+20	0.44
+21	0.46
+22	0.34
+23	0.37
+24	0.34
+25	0.32
+26	0.31
+27	0.28
+28	0.23
+29	0.28
+30	0.19
+31	0.21
+32	0.24
+33	0.29
+34	0.25
+35	0.3
+36	0.18
+37	0.16
+38	0.17
+39	0.19
+40	0.12
+41	0.13
+42	0.11
+43	0.14
+44	0.11
+45	0.09
+46	0.09
+47	0.05
+48	0.05
+49	0.05
+50	0.06
+51	0.04
+52	0.03
+53	0.03
+54	0.02
+55	0.02
+56	0.03
+57	0.03
+58	0.02
+59	0.01
+60	0.02
+61	0.03
+62	0.02
+63	0.01
+64	0.01
+65	0
+66	0
+67	0
+68	0
+69	0.01
+70	0
+71	0.01
+72	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b3	0-0	2	-2-	7,(3-2) 	R	LAA	Taylor Ward	Davis Martin	12%	66%	Single to LF (Ground Ball thru SS-3B Hole); C. Leblanc Scores; T. Ward to 2B
+t5	0-2	1	12-	3,(1-1) 	OO	CHW	Korey Lee	Griffin Canning	11%	82%	Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+b4	1-0	1	12-	2,(1-0) 	R	LAA	Eric Wagaman	Davis Martin	9%	81%	Single to LF (Ground Ball thru SS-3B Hole); N. Schanuel Scores; N. Kavadas to 2B
+b5	2-0	2	-2-	2,(0-1) 	R	LAA	Nolan Schanuel	Davis Martin	8%	88%	Double to RF (Line Drive to Deep RF Line); G. Campero Scores
+b1	0-0	1	1--	4,(2-1) 	OO	LAA	Nolan Schanuel	Davis Martin	-5%	50%	Ground Ball Double Play: 2B-SS-1B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Angels' Griffin Canning facing 1-2-3
+t1	0-0	0	---	4,(2-1) 		CHW	Nicky Lopez	Griffin Canning	-4%	46%	Single to RF (Ground Ball thru 2B-1B)
+t1	0-0	0	1--	3,(0-2) 	O	CHW	Luis Robert Jr.	Griffin Canning	3%	50%	Strikeout Looking
+t1	0-0	1	1--	3,(2-0) 	O	CHW	Andrew Benintendi	Griffin Canning	4%	54%	N. Lopez Caught Stealing 2B (C-SS)
+t1	0-0	2	---	4,(2-1) 	O	CHW	Andrew Benintendi	Griffin Canning	1%	55%	Flyball: RF (Deep RF)
+									0 runs, 1 hit, 0 errors, 0 LOB. White Sox 0, Angels 0.
+Bottom of the 1st, Angels Batting, Tied 0-0, White Sox' Davis Martin facing 1-2-3
+b1	0-0	0	---	4,(2-1) 		LAA	Taylor Ward	Davis Martin	4%	58%	Single to 2B (Ground Ball)
+b1	0-0	0	1--	4,(2-1) 	O	LAA	Zach Neto	Davis Martin	-3%	55%	Flyball: LF
+b1	0-0	1	1--	4,(2-1) 	OO	LAA	Nolan Schanuel	Davis Martin	-5%	50%	Ground Ball Double Play: 2B-SS-1B
+									0 runs, 1 hit, 0 errors, 0 LOB. White Sox 0, Angels 0.
+Top of the 2nd, White Sox Batting, Tied 0-0, Angels' Griffin Canning facing 4-5-6
+t2	0-0	0	---	5,(3-1) 	O	CHW	Andrew Vaughn	Griffin Canning	2%	52%	Groundout: 1B unassisted
+t2	0-0	1	---	8,(3-2) 	O	CHW	Gavin Sheets	Griffin Canning	2%	54%	Flyball: CF (Deep CF)
+t2	0-0	2	---	4,(1-2) 	O	CHW	Lenyn Sosa	Griffin Canning	1%	55%	Groundout: SS-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Angels 0.
+Bottom of the 2nd, Angels Batting, Tied 0-0, White Sox' Davis Martin facing 4-5-6
+b2	0-0	0	---	7,(3-2) 	O	LAA	Niko Kavadas	Davis Martin	-2%	53%	Strikeout Swinging
+b2	0-0	1	---	2,(0-1) 	O	LAA	Logan O'Hoppe	Davis Martin	-2%	51%	Groundout: SS-1B
+b2	0-0	2	---	3,(0-2) 	O	LAA	Eric Wagaman	Davis Martin	-1%	50%	Flyball: LF (Deep LF)
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Angels 0.
+Top of the 3rd, White Sox Batting, Tied 0-0, Angels' Griffin Canning facing 7-8-9
+t3	0-0	0	---	6,(3-2) 	O	CHW	Dominic Fletcher	Griffin Canning	3%	53%	Foul Popfly: 3B (3B into Foul Terr.)
+t3	0-0	1	---	3,(0-2) 	O	CHW	Korey Lee	Griffin Canning	2%	54%	Strikeout Swinging
+t3	0-0	2	---	5,(2-2) 		CHW	Miguel Vargas	Griffin Canning	-1%	53%	Single to CF (Ground Ball thru SS-2B)
+t3	0-0	2	1--	2,(1-0) 	O	CHW	Nicky Lopez	Griffin Canning	3%	55%	Flyball: LF (Deep LF Line)
+									0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Angels 0.
+Bottom of the 3rd, Angels Batting, Tied 0-0, White Sox' Davis Martin facing 7-8-9
+b3	0-0	0	---	6,(3-2) 		LAA	Charles Leblanc	Davis Martin	4%	59%	Walk
+b3	0-0	0	1--	3,(0-2) 	O	LAA	Jordyn Adams	Davis Martin	-4%	56%	Popfly: 2B (Deep 2B-1B)
+b3	0-0	1	1--	4,(1-2) 	O	LAA	Gustavo Campero	Davis Martin	-2%	54%	Single to RF (Line Drive to RF Line); C. Leblanc to 2B; G. Campero out at 2B/RF-SS-1B
+b3	0-0	2	-2-	7,(3-2) 	R	LAA	Taylor Ward	Davis Martin	12%	66%	Single to LF (Ground Ball thru SS-3B Hole); C. Leblanc Scores; T. Ward to 2B
+b3	1-0	2	-2-	2,(0-1) 	O	LAA	Zach Neto	Davis Martin	-3%	63%	Fielder's Choice unassisted; T. Ward out at 3B/3B; Z. Neto to 1B
+									1 run, 2 hits, 0 errors, 1 LOB. White Sox 0, Angels 1.
+Top of the 4th, White Sox Batting, Behind 0-1, Angels' Griffin Canning facing 2-3-4
+t4	0-1	0	---	7,(3-2) 	O	CHW	Luis Robert Jr.	Griffin Canning	3%	66%	Strikeout Swinging
+t4	0-1	1	---	6,(3-2) 	O	CHW	Andrew Benintendi	Griffin Canning	2%	68%	Strikeout Swinging
+t4	0-1	2	---	3,(1-1) 	O	CHW	Andrew Vaughn	Griffin Canning	1%	69%	Flyball: LF (Short LF-CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Angels 1.
+Bottom of the 4th, Angels Batting, Ahead 1-0, White Sox' Davis Martin facing 3-4-5
+b4	1-0	0	---	4,(3-0) 		LAA	Nolan Schanuel	Davis Martin	3%	72%	Walk
+b4	1-0	0	1--	3,(1-1) 		LAA	Niko Kavadas	Davis Martin	5%	77%	Single to RF (Line Drive); N. Schanuel to 2B
+b4	1-0	0	12-	5,(1-2) 	O	LAA	Logan O'Hoppe	Davis Martin	-5%	72%	Strikeout Swinging
+b4	1-0	1	12-	2,(1-0) 	R	LAA	Eric Wagaman	Davis Martin	9%	81%	Single to LF (Ground Ball thru SS-3B Hole); N. Schanuel Scores; N. Kavadas to 2B
+b4	2-0	1	12-	1,(0-0) 	O	LAA	Charles Leblanc	Davis Martin	-3%	79%	Flyball: RF
+b4	2-0	2	12-	1,(0-0) 	O	LAA	Jordyn Adams	Davis Martin	-3%	76%	Lineout: RF (Deep RF)
+									1 run, 2 hits, 0 errors, 2 LOB. White Sox 0, Angels 2.
+Top of the 5th, White Sox Batting, Behind 0-2, Angels' Griffin Canning facing 5-6-7
+t5	0-2	0	---	6,(3-2) 		CHW	Gavin Sheets	Griffin Canning	-5%	71%	Walk
+t5	0-2	0	1--	4,(1-2) 	O	CHW	Lenyn Sosa	Griffin Canning	4%	75%	Strikeout Swinging
+t5	0-2	1	1--	1,(0-0) 		CHW	Dominic Fletcher	Griffin Canning	-5%	70%	Single to RF (Ground Ball thru 2B-1B); G. Sheets to 2B
+t5	0-2	1	12-	3,(1-1) 	OO	CHW	Korey Lee	Griffin Canning	11%	82%	Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+									0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Angels 2.
+Bottom of the 5th, Angels Batting, Ahead 2-0, White Sox' Davis Martin facing 9-1-2
+b5	2-0	0	---	4,(2-1) 		LAA	Gustavo Campero	Davis Martin	2%	84%	Single to CF (Ground Ball)
+b5	2-0	0	1--	10,(2-2) 	O	LAA	Taylor Ward	Davis Martin	-1%	83%	Strikeout Swinging, G. Campero Steals 2B
+b5	2-0	1	-2-	6,(3-2) 	O	LAA	Zach Neto	Davis Martin	-2%	81%	Flyball: LF (Deep LF)
+b5	2-0	2	-2-	2,(0-1) 	R	LAA	Nolan Schanuel	Davis Martin	8%	88%	Double to RF (Line Drive to Deep RF Line); G. Campero Scores
+b5	3-0	2	-2-	3,(0-2) 	O	LAA	Niko Kavadas	Davis Martin	-1%	87%	Strikeout Swinging
+									1 run, 2 hits, 0 errors, 1 LOB. White Sox 0, Angels 3.
+Top of the 6th, White Sox Batting, Behind 0-3, Angels' Griffin Canning facing 9-1-2
+t6	0-3	0	---	4,(1-2) 	O	CHW	Miguel Vargas	Griffin Canning	2%	89%	Strikeout Looking
+t6	0-3	1	---	5,(3-1) 		CHW	Nicky Lopez	Griffin Canning	-3%	86%	Walk
+t6	0-3	1	1--	1,(0-0) 	O	CHW	Luis Robert Jr.	Griffin Canning	3%	89%	Flyball: RF (Deep RF)
+t6	0-3	2	1--	4,(3-0) 	O	CHW	Andrew Benintendi	Griffin Canning	2%	91%	Flyball: LF (Short LF Line)
+									0 runs, 0 hits, 0 errors, 1 LOB. White Sox 0, Angels 3.
+Bottom of the 6th, Angels Batting, Ahead 3-0, White Sox' Enyel De Los Santos facing 5-6-7
+									
+Enyel De Los Santos replaces Davis Martin pitching
+
+b6	3-0	0	---	4,(2-1) 	O	LAA	Logan O'Hoppe	Enyel De Los Santos	-1%	91%	Flyball: CF (Deep CF-RF)
+b6	3-0	1	---	5,(1-2) 	R	LAA	Eric Wagaman	Enyel De Los Santos	4%	95%	Home Run (Fly Ball to Deep LF-CF)
+b6	4-0	1	---	4,(3-0) 		LAA	Charles Leblanc	Enyel De Los Santos	0%	95%	Walk
+b6	4-0	1	1--	4,(1-2) 	O	LAA	Jordyn Adams	Enyel De Los Santos	-1%	95%	Strikeout Swinging
+b6	4-0	2	1--	1,(0-0) 	O	LAA	Gustavo Campero	Enyel De Los Santos	0%	94%	Groundout: 1B unassisted (Weak 1B)
+									1 run, 1 hit, 0 errors, 1 LOB. White Sox 0, Angels 4.
+Top of the 7th, White Sox Batting, Behind 0-4, Angels' Brock Burke facing 4-5-6
+									
+Brock Burke replaces Griffin Canning pitching
+Jack López replaces Charles Leblanc playing 2B batting 7th
+
+t7	0-4	0	---	5,(1-2) 	O	CHW	Andrew Vaughn	Brock Burke	1%	96%	Strikeout Swinging
+t7	0-4	1	---	4,(1-2) 	O	CHW	Gavin Sheets	Brock Burke	1%	97%	Groundout: 1B-P
+t7	0-4	2	---	3,(1-1) 	O	CHW	Lenyn Sosa	Brock Burke	0%	97%	Lineout: RF
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Angels 4.
+Bottom of the 7th, Angels Batting, Ahead 4-0, White Sox' Jake Eder facing 1-2-3
+									
+Jake Eder replaces Enyel De Los Santos pitching
+
+b7	4-0	0	---	2,(1-0) 		LAA	Taylor Ward	Jake Eder	0%	98%	Single to SS (Ground Ball to SS-3B Hole)
+b7	4-0	0	1--	4,(2-1) 		LAA	Zach Neto	Jake Eder	0%	98%	T. Ward Steals 2B
+b7	4-0	0	-2-	7,(3-2) 	O	LAA	Zach Neto	Jake Eder	-1%	97%	Flyball: CF (Short CF)
+b7	4-0	1	-2-	5,(2-2) 	O	LAA	Nolan Schanuel	Jake Eder	0%	97%	Groundout: SS-1B; T. Ward to 3B
+b7	4-0	2	--3	1,(0-0) 	R	LAA	Niko Kavadas	Jake Eder	1%	98%	Wild Pitch; T. Ward Scores/No RBI
+b7	5-0	2	---	5,(3-1) 		LAA	Niko Kavadas	Jake Eder	0%	99%	Walk
+b7	5-0	2	1--	9,(3-2) 	O	LAA	Logan O'Hoppe	Jake Eder	0%	98%	Strikeout Looking
+									1 run, 1 hit, 0 errors, 1 LOB. White Sox 0, Angels 5.
+Top of the 8th, White Sox Batting, Behind 0-5, Angels' Hunter Strickland facing 7-8-9
+									
+Hunter Strickland replaces Brock Burke pitching
+
+t8	0-5	0	---	4,(2-1) 		CHW	Dominic Fletcher	Hunter Strickland	-1%	97%	Single to RF (Line Drive to RF Line)
+t8	0-5	0	1--	6,(0-2) 	O	CHW	Korey Lee	Hunter Strickland	1%	98%	Strikeout Swinging
+t8	0-5	1	1--	8,(3-2) 	O	CHW	Miguel Vargas	Hunter Strickland	1%	99%	Flyball: LF (Deep LF)
+t8	0-5	2	1--	6,(2-2) 		CHW	Nicky Lopez	Hunter Strickland	-1%	99%	Single to CF (Line Drive); D. Fletcher to 2B
+t8	0-5	2	12-	4,(1-2) 	O	CHW	Luis Robert Jr.	Hunter Strickland	1%	100%	Strikeout Swinging
+									0 runs, 2 hits, 0 errors, 2 LOB. White Sox 0, Angels 5.
+Bottom of the 8th, Angels Batting, Ahead 5-0, White Sox' Jake Eder facing 6-7-8
+b8	5-0	0	---	5,(2-2) 		LAA	Eric Wagaman	Jake Eder	0%	100%	Single to RF (Ground Ball)
+b8	5-0	0	1--	5,(2-2) 		LAA	Jack López	Jake Eder	0%	100%	Hit By Pitch; E. Wagaman to 2B
+b8	5-0	0	12-	5,(1-2) 	OO	LAA	Jordyn Adams	Jake Eder	0%	100%	Ground Ball Double Play: SS-2B-1B; E. Wagaman to 3B
+b8	5-0	2	--3	2,(0-1) 	O	LAA	Gustavo Campero	Jake Eder	0%	99%	Groundout: 2B-1B
+									0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Angels 5.
+Top of the 9th, White Sox Batting, Behind 0-5, Angels' Ryan Miller facing 3-4-5
+									
+Ryan Miller replaces Hunter Strickland pitching
+
+t9	0-5	0	---	3,(1-1) 	O	CHW	Andrew Benintendi	Ryan Miller	0%	100%	Groundout: 1B unassisted
+t9	0-5	1	---	3,(1-1) 		CHW	Andrew Vaughn	Ryan Miller	0%	99%	Single to RF (Ground Ball)
+t9	0-5	1	1--	7,(2-2) 	OO	CHW	Gavin Sheets	Ryan Miller	1%	100%	Ground Ball Double Play: 2B-SS-1B (2B-1B)
+									0 runs, 1 hit, 0 errors, 0 LOB. White Sox 0, Angels 5.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Los Angeles Angels Schedule Chicago White Sox Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Chicago White Sox vs Los Angeles Angels Box Score: September 17, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/ANA/ANA202409170.shtml 
+ ----- 

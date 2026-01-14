@@ -1,0 +1,176 @@
+Register
+Help
+  
+ Remember Me?
+JOIN THE TEAM TODAY
+
+
+The world's #1 resource for everything Cummins Turbo Diesel, with a core focus on supporting every individual in a positive environment, regardless of experience and technical ability.
+
+Please take a second to click here to register, and in a few simple steps you will be able to enjoy a "NO DRAMA" community. Once registered, please introduce yourself.
+
+Thank You.
+
+
+
+Menu
+Forum
+Technical
+How To Section
+Technical Details Of A Newer 4th Gen G56 Swap
+IGOTACUMMINS is an I.G.O.T.A.® online community for all Cummins Turbo Diesel enthusiasts. You'll find an informative tech area, a place for Member’s Journals, Vendors with Special Members Pricing, Plus More! If this is your first visit, click the FAQ regarding our (FREE MEMBER ACCOUNT PRIVILEGES), FAQ and also click REGISTER to sign up.
+
+
+
+SECURITY SPAM FEATURE:
+
+Our system prevents potential spam from registering and ruining your experience in our community. Sometimes it may prevent a true user from registering. If this happens to you please contact us at info@igotacummins.com with your preferred user name & email address and we will create your account for you. We will send you a welcome letter with your user confirmation to the email you provide us; if you don't receive it, please check your spam folder in your email account. Thank you.
+
+ Thanks:
+ 16
+ Likes:
+ 22
+Results 1 to 5 of 5
+Thread: Technical Details Of A Newer 4th Gen G56 Swap
+Thread Tools
+Display
+04-07-2024
+Top Of Page | #1
+M4tch3d playa 
+
+User Info Menu
+ Technical Details Of A Newer 4th Gen G56 Swap
+i just completed the hardware install of my first G56 swap on my 2016 ram 2500 crew cab short bed, figured i could do a write up of all the little itty bitty crap the popular swaps dont mention.
+For clarification purposes, here are my specs: 2016 2500 ccsb laramie with 225,000 on my 3rd 68RFE.
+tuned, not fully deleted because i live in nys. Truck is actually totally deleted but left all under hood components there, just pulled plugs and snipped the connectors in the plugs, hollowed out DPF filter and same thing with all exhaust plugs and sensors
+I used a raceme ultra for this swap
+
+started the swap, i will clear up the rumors that i can while using a full 3rd gen G56 4wd swap and pull out
+1. both factory driveshafts worked when i used my electronic transfer case behind the G56, yes you probably should shorten the front and lengthen the rear BUT I WAS ABLE TO INSTALL AND RUN BOTH, doesnt look pretty but is functional
+2. yes your factory 68RFE crossmember will work, i however used the original 3rd gen trans support which bolts to original crossmember, the original 68RFE support may work as well with slight modification but i didnt try.
+3. There is like 3 ish write ups on G56 swaps in high optioned newer trucks,none of them mention the absolute PITA it is if you have the push button start option. doesnt matter what you ground in the trans plug or how you do it, the truck .will.not.start. and good luck getting alfa obd to bypass that shitshow. still havent figured a work around but my push button start will turn the ignition on but wont engage the starter. once i found out i can jump the solenoid, i grabbed my Auxillary button upfitter kit, turned aux button 6 to a KEY ON MOMENTARY SWITCH and literally ran it to the starter solenoid. use the PBS to turn the ignition on and i use aux button 6 as my actual starter button.
+4. the 3rd gen pedal box assembly is the exact same as the 4th gen so a 3rd gen clutch setup will plug and play in a 4th gen
+5. the pedal assembly swap was my hardest part of this whole swap and fyi, i did this all without a car lift or tranny jack.
+6. cutting the trans hole, i just winged it with a 4 inch grinder and a cutoff wheel being careful to barely let the blade go thru, if you cut out the heatshield pushout template thats already in the trans tunnel, its a little too big for a factory 4th or 3rd gen shift boot to cover, i kept my hole with about a 1" border from the heatshield under the truck. fwiw i didnt even pull my carpet or even center business console before i started cutting. would not recommend because i got lucky with the inside vent work and insulation
+7.i didnt have to cut any hole for the clutch pedal hydros, my truck had an actual cover that was bolted to the outside of the firewall of the stock pedal assembly
+8. the pedal bracket firewall bolts are actually studs that HOLD YOUR WHOLE BRAKE BOOSTER IN AS WELL, was a shock when i heard that drop in my engine bay and i didnt even have my hood opened for the swap yet....
+9. dont try to stab the G56 with your transfer case on, the G56 is the most user unfriendly trans ive ever worked with in terms of its design to be held in any way, shape or form. id even one up that and say to pressure wash and degrease it prior to install just so you can hang onto it a little better whilte trying to stab it
+10. uninstalling and installing both transmissions, i used 1 tiny ratchet strap around the ends of the transfer case and both trans along with a combo of a jack on the harmonic balancer to tilt that whole poopshow downwards in the back, and the G56 wouldnt actually even go in without doing that.
+11. if i did it again, id leave the G56 in like 6th gear and/or ramrod the driveshaft into the back of it without the transfer case attached to help turn it to seat it into the clutch easier
+12. a stock 3rd gen shifter will hit your center uconnect screen while attempting 1st, 3rd and 5th gears
+13.it is quite possible to use a business console, alli i did was cut the bottom out of my center trash can thing, cut both ends of the G56 shifter lever (solely out of lasiness) grabbed 1/8" 2' steel rod, bent it by hand, duplicated it in a 5/8 steel rod and welded the original factory threaded end and mounting point holes on
+14. when pulling your steering column apart, the 3 bolts holding the shield around the column shifter and tilt wheel lever are t20's. took me 20 minutes to figure that one out because the holes are so small. the middle bolt requires an extremely deep and skinny t20. i ripped mine off, bought a used one on ebay for $15 and put it back together with only the 2 outside easy screws... its a plastic cover...
+15. get ahold of your planned tuner prior to the swap and make sure you can get the manual trans calibration prior to even starting, i tuned my truck 5 years ago and havent payed attention to how many of these tuning companies straight up closed up shop or just dont tell any deleted tunes anymore
+
+if anyone has a surefire solution that gets my factory push button start to work that hopefully doesnt require a new rf module, i will literally venmo you a damn good reward. dodge dealer wont even look at my truck after attempting that new "emissions" recall without them knowing it was tuned.
+
+
+ 0 Comment(s)
+Last edited by IGOTACUMMINS; 09-30-2024 at 02:13 PM.
+Register To Reply
+Post Thanks / Like
+ AK Bob, watersupply189, Corkey, B69NoDEF, diesel_dawg, IGOTACUMMINS thanked for this post
+ AK Bob, watersupply189, Corkey, N/A, B69NoDEF, diesel_dawg, IGOTACUMMINS liked this post
+04-07-2024
+Top Of Page | #2
+AK Bob 
+I WILL STAND!
+
+User Info Menu
+Re: Technical Details Of A Newer 4th Gen G56 Swap
+Thanks for the great write up, this information will be very helpful to anyone considering the G56 swap.
+
+
+ 0 Comment(s)
+2014 RAM 3500 (Aisin) 3.73 4X4 Limited Crew Cab Long Bed DRW. Oil Bypass Filter, Fuel Filtration Kit, Cold Air Intake, City Diesel Actuator and 50 Gallon Aux Fuel Tank.
+Register To Reply
+Post Thanks / Like
+ diesel_dawg, IGOTACUMMINS thanked for this post
+ watersupply189, Corkey, diesel_dawg, IGOTACUMMINS liked this post
+04-07-2024
+Top Of Page | #3
+Corkey 
+Watch Dog!
+
+User Info Menu
+Re: Technical Details Of A Newer 4th Gen G56 Swap
+This will certainly help answer questions down the road for members.
+
+Thanks for the write-up, bud!
+
+
+ 0 Comment(s)
+II 60HP STICKS, II 33% CP3, II S464 2ND GEN SWAP, FASS 165 TITANIUM SIGNATURE SERIES, AFE INTAKE HORN, S&B FILTER, 5" TURBO BACK, ALPHAREX HEAD LIGHTS, 38X13.5X20 RAZOR M/T, MOTO METAL RIMS, 6" LA LIFT KIT, COMPLET MM3 KIT, BUILT TRANSMISSION, 6 BOLT REDHEAD STEERING BOX, YUKON 4.56 GEARS W/ COVERS
+Register To Reply
+Post Thanks / Like
+ diesel_dawg, IGOTACUMMINS thanked for this post
+ AK Bob, watersupply189, N/A, diesel_dawg, IGOTACUMMINS liked this post
+09-29-2024
+Top Of Page | #4
+B69NoDEF 
+
+User Info Menu
+Re: Technical Details Of A Newer 4th Gen G56 Swap
+Thank you for putting this up. I have been trying to get a G56 swap in my truck but keep missing out on deals. I am relieved I can avoid the RF hub issues by creating a remote start button. So now your key Fob is only ignition on and off correct? It does not send any power to starter even for a split second click till computer senses an error with a manual file? My truck is a work truck and have no problem with a starter button to save cost and headache on RF issues. Thanks for the write up.
+
+
+ 0 Comment(s)
+Register To Reply
+Post Thanks / Like
+ Corkey, AK Bob, diesel_dawg, IGOTACUMMINS, watersupply189 thanked for this post
+ Corkey, AK Bob, diesel_dawg, IGOTACUMMINS, watersupply189 liked this post
+09-29-2024
+Top Of Page | #5
+diesel_dawg 
+
+User Info Menu
+Re: Technical Details Of A Newer 4th Gen G56 Swap
+Thank you!!!
+
+
+Sent from my iPhone using Tapatalk
+
+
+ 0 Comment(s)
+Register To Reply
+Post Thanks / Like
+ IGOTACUMMINS thanked for this post
+ AK Bob, IGOTACUMMINS, watersupply189 liked this post
+Quick Navigation How To Section Top
+« Axel Removal?
+Tags for this Thread
+G56, swa
+
+View Tag Cloud
+
+Bookmarks
+ Digg
+ del.icio.us
+ StumbleUpon
+ Google
+ Facebook
+ Twitter
+Posting Permissions
+You may not post new threads
+You may not post replies
+You may not post attachments
+You may not edit your posts
+ 
+BB code is On
+Smilies are On
+[IMG] code is On
+[VIDEO] code is On
+HTML code is Off
+
+Forum Rules
+
+Contact Us IGOTACUMMINS Privacy Statement Terms of Service Top
+All times are GMT -4. The time now is 11:37 AM.
+2025 IGOTACUMMINS.COM
+Part Of The I.G.O.T.A.® Network
+Network Sites: I.G.O.T.A.® | IGOTADURAMAX.COM | IGOTAJEEP.COM | IGOTASAVIOR.COM | IGOTASLINGSHOT.COM | IGOTASTi.COM | IGOTASUBARU.COM
+ 
+ 
+ ----- 
+ Source link : https://www.igotacummins.com/threads/25151-Technical-Details-Of-A-Newer-4th-Gen-G56-Swap 
+ ----- 

@@ -1,0 +1,149 @@
++
+Fantasy Baseball Daily Hitting Recap: 9/5/24
+
+Breaking down notable hitting performances from yesterday's games.
+
+ MARK STEUBINGER 
+HITTER RECAP
+9/6/2024
+
+ 
+
+The Last March of the Brents
+
+ 
+
+Brent Rooker may not be in the running for the American League MVP award, but he’s certainly a strong candidate for the fantasy MVP. Oakland’s breakout DH has improved in pretty much every possible statistical category in his second season in the Bay Area.
+
+ 
+
+	PA	AVG	OBP	SLG	HR	R	RBI	SB	K%	BB%	Barrel%	wRC+
+2023	526	.246	.329	.488	30	61	69	4	32.7%	9.3%	15.6%	126
+2024	519	.297	.372	.576	35	73	97	8	29.3%	10%	17.2%	170
+
+ 
+
+Rooker continued his massive campaign yesterday, going 2-5, 2 HR, 2 R, 3 RBI against the Mariners. The first of his two crush jobs came against Bryan Woo. Rooker got a 1-0 sinker at the knees and sent it 385 feet over the left field wall. He left the park for the second time in the ninth inning, catching up to a first-pitch 98 mph four-seamer from Andrés Muñoz and blasting it 412 feet to straightaway center field.
+
+If you drafted Rooker, there’s a good chance your fantasy team is playing for a championship over the season’s final weeks. Rooker’s heating up at just the right time for his fantasy managers – he’s riding a nine-game hitting streak that includes five home runs.
+
+At 29 years old, Rooker is a rare late-career breakout story. He’ll celebrate his 30th birthday this fall, and it seems likely that his age combined with a 29.3% strikeout rate may temper his draft stock entering the 2025 season. Players with Rooker’s level of swing-and-miss can crater quickly, so while there is outsized risk, his batted ball metrics (98th percentile barrel rate and 95th percentile hard-hit rate) are some of the best around. He looks an awful lot like a Giancarlo Stanton Jr., but one that stays on the field much more often.
+
+Let’s see how the other hitters did Thursday:
+
+ 
+
+Luke Raley (SEA): 3-5, 2 2B, HR, R, 2 RBI. 
+
+ 
+
+I don’t need to tell you it’s been a dismal season for Seattle bats. Raley’s actually been the best of the bunch–his 121 wRC+ is tops among any Mariner with at least 200 plate appearances. Raley’s eight total bases yesterday were his most in a game this season. His 18 home runs and nine stolen bases make him a dual-threat fantasy option in deep formats, but he’s still only starting against right-handers so be sure to check the Mariners’ upcoming schedule before locking him into your lineups.
+
+Cal Raleigh (SEA): 2-4, HR, R, 3 RBI, SB. 
+
+ 
+
+A simple mispronunciation could make you think Raley and Raleigh are brothers, and appropriately during yesterday’s game in Oakland, they gave us their best Bash Brothers impression. Joey Estes left a four-seamer over the heart of the plate and Raleigh got all of it, blistering the pitch 112 mph for a two-run homer. He’s up to 29 big flies and will set a new career high when he reaches 31. FanGraphs’ Player Rater grades him as the fourth most valuable catcher this season.
+
+Parker Meadows (DET): 2-4, HR, R, 4 RBI. 
+
+ 
+
+Ninth inning. Down by three. Bases loaded. Two outs. Full count. That is the most drama you’ll find in a baseball game, and Meadows was unfazed. On the sixth pitch of the at-bat (all four-seamers) from Robert Suarez, Meadows punched a 101 mph fastball the opposite way barely over the left-field wall to give the Tigers the 4-3 lead. That’s the dream that every kid plays out in the backyard, and Meadows just got to live it. It was his sixth home run of the season. He’s hitting .225/.293/.417 with a .307 wOBA.
+
+Michael Toglia (COL): 1-3, HR, 2 R, RBI, BB, SB. 
+
+ 
+
+Toglia swings and misses much too often, but when he makes contact, look out. His home run off of Reynaldo López was the furthest hit ball of the day, traveling an impressive 451 feet and well over the center field wall in Colorado. Toglia has some of the best raw power in baseball with 22 home runs in 371 plate appearances, but it comes with a damaging .215 batting average and 31% punch-out rate. Interestingly, while his home and away numbers are nearly identical– a .765 OPS in Coors and a .764 OPS on the road–14 of his homers have come away from Coors.
+
+Andrés Chaparro (WSN): 1-4, HR, R, 3 RBI. 
+
+ 
+
+Since being called up on August 13th, Chaparro has started all but one game for the Nationals and has taken over the third or fourth spot in the batting order. He got going early yesterday, tagging Bailey Falter for a first-inning two-run homer. It was the third blast of Chaparro’s young career. He’s slashing .233/.291/.466 which is good for a 108 wRC+. It’s not fantasy-relevant in most formats, but with consistent playing time in a prime lineup spot, he’s worth a roster spot in 15-team and deeper leagues.
+
+Bryson Stott (PHI): 2-4, HR, R, 2 RBI. 
+
+ 
+
+Stott hasn’t been able to match his strong 2023 showing this year. After posting 4.2 fWAR with a .280/.329/.419 slash line a year ago, Stott’s slipped to 1.8 fWAR while slashing just .243/.319/.367. He was able to get the better of Adam Oller yesterday, giving the Phillies the lead with an opposite-field RBI single in the first inning and tacking on a run with a solo shot in the sixth. It’s not just the batting line that’s tumbled. Each of his Batting, Baserunning, and Fielding Run Value have slipped. Stott is still a speed threat, though. His 29 stolen bases are the 10th most in the bigs.
+
+Edouard Julien (MIN): 1-4, HR, R, 3 RBI. 
+
+ 
+
+Julien was a popular breakout pick in fantasy drafts this spring, but his inability to curb his strikeout rate (34.8%) has resulted in mediocre production and two demotions to Triple-A St. Paul. He’s back with the big league club and made a huge impact yesterday, launching a three-run bomb to give the Twins a lead they wouldn’t relinquish. Julien’s playing the strong side of Minnesota’s second base platoon. He hasn’t made a big stride in his strikeout rate–he’s still punching out 31.9% of the time since his promotion on August 15th–and until he does, he’s better left on your waiver wire.
+
+Ezequiel Tovar (COL): 2-4, HR, R, RBI, SB. 
+
+ 
+
+From one strikeout-prone middle infielder to another. Tovar’s combo meal pushed his season totals to 22 home runs and six stolen bases which are nice on the surface, but his underlying numbers paint an uglier picture. Surprisingly his strikeout and walk rates have gotten worse in each of his three seasons, the exact opposite progression you hope to see from a young player. To be fair, Tovar has raised both his barrel and hard-hit rates this season, but they’re both still middle of the pack. Until he raises his chase and whiff rates–they both sit in the bottom five percent of hitters–he’s going to struggle to produce at the plate.
+
+Ty France (CIN): 2-3, HR, R, RBI. 
+
+ 
+
+France getting DFA’d by the Mariners was not on anyone’s 2024 Bingo card, but a change of scenery has worked wonders for the veteran first baseman. He had just a .662 OPS in Seattle this season but has raised that number to .825 in Cincinnati, and that was before he hit his 12th homer of the season yesterday. It was the lone run in the Reds’ 1-0 win over Houston.
+
+Patrick Bailey (SFG): 2-4, 2B, 3 RBI. 
+
+ 
+
+No one’s been able to fill the gigantic shoes that Buster Posey left behind the plate in San Francisco, but Bailey’s doing an admirable job. He’s a phenomenal defending catcher and grades out as the best fielder in the sport. His 20 Fielding Run Value is four runs better than any other player in baseball. On the offensive side, Bailey doesn’t leave as big of an impression. His .233/.295/.339 line is good for just an 80 wRC+, but when you combine that with his elite fielding prowess, he’s been worth 3.8 fWAR. That’s the 28th most of any player with at least 350 plate appearances and the third most among catchers. If Posey’s shoes were size 15, Bailey must wear a 14. He’s making it work.
+
+SUBMIT
+Mark Steubinger
+
+Mark loves everything talking and writing about baseball - from every fantasy league format you can imagine to the unending greatness of Mike Trout. Mark has a degree in Sports Communication from Bradley University and works in radio production. He lives in central Illinois where his TV is permanently tuned to Chicago Cubs games.
+
+2 responses to “Fantasy Baseball Daily Hitting Recap: 9/5/24”
+Sea Pilot
+September 6, 2024 at 9:17 AM
+
+Bailey is a sleeper pick of mine for 2025. In both of his seasons, he’s been awesome the first half, then tires from the strains and bruises of catching, as well as the Giants woeful O desperately needing a spark, where he tries to do too much. Solid player.
+
+Reply
+Brian
+September 6, 2024 at 2:24 PM
+
+Little help please. Which of these guys for this coming week. Crews, carpenter, Ramos, Thomas, moniak, friedl, laureano.
+
+Also how about pena, Winn, or story to replace Rafaela?
+
+Thanks!
+
+Reply
+Leave a Reply
+
+Your email address will not be published.
+
+Comment
+
+Name
+
+Email
+
+Website
+
+ Save my name, email, and website in this browser for the next time I comment.
+
+Copyright © 2025 Pitcher GIFS Inc. All Rights Reserved.
+
+Privacy Policy
+Terms of Service
+Contact
+Glossary
+
+Stats powered by  
+
+Information from your device can be used to personalize your ad experience.
+
+Do not sell or share my personal information.
+A RAPTIVE PARTNER SITE
+ 
+ 
+ ----- 
+ Source link : https://pitcherlist.com/fantasy-baseball-daily-hitting-recap-9-5-24/ 
+ ----- 

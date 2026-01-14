@@ -1,0 +1,387 @@
+ENG vs BAN
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+7th Match, Dharamsala, October 10, 2023, ICC Cricket World Cup
+ENG
+364/9
+BAN
+(48.2/50 ov, T:365) 227
+
+England won by 137 runs
+
+Powered by Smart Stats
+Win Probability
+ENG 100%
+BAN 0.00%
+ENG
+BAN
+100%
+50%
+100%
+ENG Innings
+BAN Innings
+
+Over 49 • BAN 227/10
+
+Taskin Ahmed b Curran 15 (25b 0x4 1x6 35m) SR: 60
+W
+England won by 137 runs
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Dawid Malan
+, ENG
+140 (107)
+CRICINFO'S MVP
+Dawid Malan
+, ENG
+166.01 pts
+Impact List
+England
+Bangladesh
+Match Flow
+Info
+England  (50 ovs maximum)
+Batting	R	B	4s	6s	SR
+
+Jonny Bairstow 
+	52	59	8	0	88.13
+
+b Shakib Al Hasan
+
+
+Dawid Malan 
+	140	107	16	5	130.84
+
+b Mahedi Hasan
+
+
+Joe Root 
+	82	68	8	1	120.58
+
+c †Mushfiqur Rahim b Shoriful Islam
+
+
+Jos Buttler (c)†
+	20	10	1	1	200.00
+
+b Shoriful Islam
+
+
+Harry Brook 
+	20	15	3	0	133.33
+
+c Litton Das b Mahedi Hasan
+
+
+Liam Livingstone 
+	0	1	0	0	0.00
+
+b Shoriful Islam
+
+
+Sam Curran 
+	11	15	1	0	73.33
+
+c Najmul Hossain Shanto b Mahedi Hasan
+
+
+Chris Woakes 
+	14	11	2	0	127.27
+
+c Mahedi Hasan b Taskin Ahmed
+
+
+Adil Rashid 
+	11	7	1	0	157.14
+
+c Najmul Hossain Shanto b Mahedi Hasan
+
+
+Mark Wood 
+	6	5	1	0	120.00
+
+not out
+
+
+Reece Topley 
+	1	2	0	0	50.00
+
+not out
+
+Extras	7	(b 1, lb 2, w 4)
+Total	364/9	
+50 Ov (RR: 7.28)
+
+
+Fall of wickets: 1-115 (Jonny Bairstow, 17.5 ov), 2-266 (Dawid Malan, 37.2 ov), 3-296 (Jos Buttler, 39.4 ov), 4-307 (Joe Root, 41.5 ov), 5-307 (Liam Livingstone, 41.6 ov), 6-327 (Harry Brook, 44.3 ov), 7-334 (Sam Curran, 46.4 ov), 8-352 (Adil Rashid, 48.3 ov), 9-362 (Chris Woakes, 49.2 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Mustafizur Rahman
+	10	0	70	0	7.00	0	0
+
+Taskin Ahmed
+	6	0	38	
+1
+	6.33	2	0
+
+Shoriful Islam
+	10	0	75	
+3
+	7.50	1	0
+
+Mahedi Hasan
+	8	0	71	
+4
+	8.87	0	0
+
+Shakib Al Hasan
+	10	0	52	
+1
+	5.20	1	0
+
+Mehidy Hasan Miraz
+	6	0	55	0	9.16	0	0
+Bangladesh  (T: 365 runs from 50 ovs)
+Batting	R	B	4s	6s	SR
+
+Litton Das 
+	76	66	7	2	115.15
+
+c †Buttler b Woakes
+
+
+Tanzid Hasan 
+	1	2	0	0	50.00
+
+c Bairstow b Topley
+
+
+Najmul Hossain Shanto 
+	0	1	0	0	0.00
+
+c Livingstone b Topley
+
+
+Shakib Al Hasan (c)
+	1	9	0	0	11.11
+
+b Topley
+
+
+Mehidy Hasan Miraz 
+	8	7	1	0	114.28
+
+c †Buttler b Woakes
+
+
+Mushfiqur Rahim †
+	51	64	4	0	79.68
+
+c Rashid b Topley
+
+
+Towhid Hridoy 
+	39	61	2	0	63.93
+
+c †Buttler b Livingstone
+
+
+Mahedi Hasan 
+	14	32	1	0	43.75
+
+b Rashid
+
+
+Taskin Ahmed 
+	15	25	0	1	60.00
+
+b Curran
+
+
+Shoriful Islam 
+	12	14	2	0	85.71
+
+b Wood
+
+
+Mustafizur Rahman 
+	3	9	0	0	33.33
+
+not out
+
+Extras	7	(lb 4, w 3)
+Total	227	
+48.2 Ov (RR: 4.69)
+
+
+Fall of wickets: 1-14 (Tanzid Hasan, 1.4 ov), 2-14 (Najmul Hossain Shanto, 1.5 ov), 3-26 (Shakib Al Hasan, 5.4 ov), 4-49 (Mehidy Hasan Miraz, 8.3 ov), 5-121 (Litton Das, 20.6 ov), 6-164 (Mushfiqur Rahim, 30.6 ov), 7-189 (Towhid Hridoy, 39.1 ov), 8-195 (Mahedi Hasan, 40.5 ov), 9-221 (Shoriful Islam, 45.4 ov), 10-227 (Taskin Ahmed, 48.2 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Chris Woakes
+	8	0	49	
+2
+	6.12	0	0
+
+Reece Topley
+	10	1	43	
+4
+	4.30	0	0
+
+Sam Curran
+	7.2	0	47	
+1
+	6.40	2	0
+
+Mark Wood
+	10	0	29	
+1
+	2.90	1	0
+
+Adil Rashid
+	10	0	42	
+1
+	4.20	0	0
+
+Liam Livingstone
+	3	0	13	
+1
+	4.33	0	0
+Unlocking the magic of Statsguru
+Match Flow
+England innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 61 runs, 0 wicket)
+Over 4.1: Review by Bangladesh (Bowling), Decision Challenged - Wicket, Umpire - Ahsan Raza, Batter - DJ Malan (Struck down)
+England: 50 runs in 8.1 overs (49 balls), Extras 0
+1st Wicket: 50 runs in 49 balls (JM Bairstow 23, DJ Malan 27, Ex 0)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 237 runs, 3 wickets)
+DJ Malan: 50 off 39 balls (7 x 4, 2 x 6)
+Drinks: England - 98/0 in 15.0 overs (JM Bairstow 47, DJ Malan 50)
+England: 100 runs in 15.3 overs (93 balls), Extras 1
+1st Wicket: 100 runs in 93 balls (JM Bairstow 48, DJ Malan 51, Ex 1)
+JM Bairstow: 50 off 54 balls (8 x 4)
+England: 150 runs in 25.2 overs (152 balls), Extras 2
+2nd Wicket: 50 runs in 54 balls (DJ Malan 23, JE Root 27, Ex 0)
+Drinks: England - 193/1 in 31.0 overs (DJ Malan 99, JE Root 40)
+DJ Malan: 100 off 91 balls (12 x 4, 2 x 6)
+England: 200 runs in 32.1 overs (193 balls), Extras 2
+2nd Wicket: 100 runs in 90 balls (DJ Malan 57, JE Root 45, Ex 0)
+JE Root: 50 off 44 balls (4 x 4, 1 x 6)
+England: 250 runs in 35.6 overs (216 balls), Extras 4
+2nd Wicket: 150 runs in 116 balls (DJ Malan 79, JE Root 69, Ex 3)
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 66 runs, 6 wickets)
+England: 300 runs in 40.2 overs (242 balls), Extras 5
+Slow over-rate Penalty: Overs 48.1 - 50.0 (extra fielder inside the circle)
+England: 350 runs in 48.2 overs (290 balls), Extras 6
+Relay Catch: Batter - Adil Rashid, Catcher - Najuml Hossain Shanto, Relay Fielder - Towhid Hridoy
+Innings Break: England - 364/9 in 50.0 overs (MA Wood 6, RJW Topley 1)
+Bangladesh innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 57 runs, 4 wickets)
+Over 3.5: Review by England (Bowling), Decision Challenged - Wicket, Umpire - Ahsan Raza, Batter - Litton Das (Struck down)
+Bangladesh: 50 runs in 9.1 overs (55 balls), Extras 2
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 134 runs, 3 wickets)
+Litton Das: 50 off 38 balls (7 x 4, 1 x 6)
+Drinks: Bangladesh - 81/4 in 15.0 overs (Litton Das 59, Mushfiqur Rahim 9)
+Bangladesh: 100 runs in 18.1 overs (109 balls), Extras 3
+5th Wicket: 50 runs in 58 balls (Litton Das 28, Mushfiqur Rahim 22, Ex 1)
+Over 27.2: Review by Bangladesh (Batting), Decision Challenged - Wicket, Umpire - Ahsan Raza, Batter - Towhid Hridoy (Upheld)
+Bangladesh: 150 runs in 28.2 overs (170 balls), Extras 3
+Mushfiqur Rahim: 50 off 61 balls (4 x 4)
+Drinks: Bangladesh - 164/6 in 31.0 overs (Towhid Hridoy 24)
+Total attendance: 12,478
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 36 runs, 3 wickets)
+Bangladesh: 200 runs in 42.5 overs (257 balls), Extras 4
+Match Details
+Himachal Pradesh Cricket Association Stadium, Dharamsala
+
+Toss	Bangladesh, elected to field first
+Series	
+ICC Cricket World Cup
+
+Season	
+2023/24
+
+Player Of The Match	
+Dawid Malan
+
+Match number	
+ODI no. 4664
+
+Hours of play (local time)	10.30 start, First Session 10.30-14.00, Interval 14.00-14.30, Second Session 14.30-18.00
+Match days	10 October 2023 - day (50-over match)
+Umpires	
+Ahsan Raza
+DRS
+Paul Wilson
+DRS
+
+TV Umpire	
+Adrian Holdstock
+
+Reserve Umpire	
+Kumar Dharmasena
+
+Match Referee	
+Javagal Srinath
+
+Points	England 2, Bangladesh 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 874 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/bangladesh-vs-england-7th-match-1384398/full-scorecard 
+ ----- 

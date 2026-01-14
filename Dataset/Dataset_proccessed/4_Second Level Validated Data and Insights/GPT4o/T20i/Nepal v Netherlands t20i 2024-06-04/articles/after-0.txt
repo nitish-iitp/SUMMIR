@@ -1,0 +1,324 @@
+NEP vs NED
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+7th Match, Group D, Dallas, June 04, 2024, ICC Men's T20 World Cup
+NEP
+106
+NED
+(18.4/20 ov, T:107) 109/4
+
+Netherlands won by 6 wickets (with 8 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+NEP 0.00%
+NED 100%
+NEP
+NED
+100%
+50%
+100%
+NEP Innings
+NED Innings
+
+Over 19 • NED 109/4
+
+Netherlands won by 6 wickets (with 8 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Tim Pringle
+, NED
+3/20
+CRICINFO'S MVP
+Tim Pringle
+, NED
+58.32 pts
+Impact List
+Nepal
+Netherlands
+Match Flow
+Info
+Nepal  (20 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+Kushal Bhurtel 
+\t7\t10\t1\t0\t70.00
+
+lbw b van Beek
+
+
+Aasif Sheikh †
+\t4\t8\t1\t0\t50.00
+
+c Kingma b Pringle
+
+
+Anil Sah 
+\t11\t12\t2\t0\t91.66
+
+c van Beek b Pringle
+
+
+Rohit Paudel (c)
+\t35\t37\t5\t0\t94.59
+
+c O'Dowd b Pringle
+
+
+Kushal Malla 
+\t9\t9\t1\t0\t100.00
+
+c O'Dowd b van Meekeren
+
+
+Dipendra Singh Airee 
+\t1\t6\t0\t0\t16.66
+
+c van Beek b de Leede
+
+
+Sompal Kami 
+\t0\t5\t0\t0\t0.00
+
+b van Meekeren
+
+
+Gulsan Jha 
+\t14\t15\t0\t1\t93.33
+
+b van Beek
+
+
+Karan KC 
+\t17\t12\t0\t2\t141.66
+
+c Kingma b de Leede
+
+
+Sagar Dhakal 
+\t0\t1\t0\t0\t0.00
+
+not out
+
+
+Abinash Bohara 
+\t0\t1\t0\t0\t0.00
+
+c & b van Beek
+
+Extras\t8\t(lb 4, w 4)
+Total\t106\t
+19.2 Ov (RR: 5.48)
+
+
+Fall of wickets: 1-10 (Aasif Sheikh, 1.6 ov), 2-15 (Kushal Bhurtel, 3.1 ov), 3-40 (Anil Sah, 7.4 ov), 4-52 (Kushal Malla, 9.4 ov), 5-53 (Dipendra Singh Airee, 10.4 ov), 6-66 (Sompal Kami, 13.2 ov), 7-84 (Rohit Paudel, 15.6 ov), 8-106 (Karan KC, 18.5 ov), 9-106 (Gulsan Jha, 19.1 ov), 10-106 (Abinash Bohara, 19.2 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Vivian Kingma
+\t4\t0\t23\t0\t5.75\t2\t0
+
+Tim Pringle
+\t4\t0\t20\t
+3
+\t5.00\t0\t0
+
+Logan van Beek
+\t3.2\t0\t18\t
+3
+\t5.40\t0\t0
+
+Paul van Meekeren
+\t4\t0\t19\t
+2
+\t4.75\t1\t0
+
+Bas de Leede
+\t4\t1\t22\t
+2
+\t5.50\t1\t0
+Netherlands  (T: 107 runs from 20 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+Michael Levitt 
+\t1\t3\t0\t0\t33.33
+
+c Airee b Sompal Kami
+
+
+Max O'Dowd 
+\t54\t48\t4\t1\t112.50
+
+not out
+
+
+Vikramjit Singh 
+\t22\t28\t4\t0\t78.57
+
+lbw b Airee
+
+
+Sybrand Engelbrecht 
+\t14\t16\t1\t0\t87.50
+
+run out (Sompal Kami)
+
+
+Scott Edwards (c)†
+\t5\t8\t0\t0\t62.50
+
+b Bohara
+
+
+Bas de Leede 
+\t11\t10\t1\t0\t110.00
+
+not out
+
+Extras\t2\t(lb 1, nb 1)
+Total\t109/4\t
+18.4 Ov (RR: 5.83)
+
+
+Did not bat: 
+Teja Nidamanuru, 
+Logan van Beek, 
+Tim Pringle, 
+Paul van Meekeren, 
+Vivian Kingma 
+
+
+Fall of wickets: 1-3 (Michael Levitt, 1.2 ov), 2-43 (Vikramjit Singh, 8.2 ov), 3-71 (Sybrand Engelbrecht, 13.1 ov), 4-80 (Scott Edwards, 15.2 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Karan KC
+\t3\t0\t17\t0\t5.66\t0\t0
+
+Sompal Kami
+\t4\t0\t18\t
+1
+\t4.50\t0\t0
+
+Gulsan Jha
+\t2\t0\t17\t0\t8.50\t0\t1
+
+Dipendra Singh Airee
+\t2\t0\t6\t
+1
+\t3.00\t0\t0
+
+Abinash Bohara
+\t3.4\t0\t29\t
+1
+\t7.90\t0\t0
+
+Sagar Dhakal
+\t4\t0\t21\t0\t5.25\t0\t0
+Unlocking the magic of Statsguru
+Match Flow
+Nepal innings
+Wet Ground: Nepal - 0/0
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 29 runs, 2 wickets)
+Over 3.5: Review by Nepal (Batting), Decision Challenged - Wicket, Umpire - L Rusere, Batter - RK Paudel (Upheld)
+Nepal: 50 runs in 9.1 overs (55 balls), Extras 6
+Drinks: Nepal - 53/4 in 10.0 overs (RK Paudel 15, DS Airee 1)
+Nepal: 100 runs in 18.3 overs (111 balls), Extras 8
+Innings Break: Nepal - 106/10 in 19.2 overs (S Dhakal 0)
+Netherlands innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 36 runs, 1 wicket)
+Netherlands: 50 runs in 9.3 overs (58 balls), Extras 2
+Drinks: Netherlands - 52/2 in 10.0 overs (MP O'Dowd 23, SA Engelbrecht 4)
+Over 13.4: Review by Netherlands (Batting), Decision Challenged - Wicket, Umpire - L Rusere, Batter - SA Edwards (Upheld)
+Netherlands: 100 runs in 18.2 overs (111 balls), Extras 2
+MP O'Dowd: 50 off 47 balls (4 x 4, 1 x 6)
+Match Details
+Grand Prairie Stadium, Dallas
+
+Toss\tNetherlands, elected to field first
+Series\t
+ICC Men's T20 World Cup
+
+Season\t
+2024
+
+Player Of The Match\t
+Tim Pringle
+
+Match number\t
+T20I no. 2638
+
+Match days\t4 June 2024 - day (20-over match)
+Umpires\t
+Langton Rusere
+DRS
+Rod Tucker
+DRS
+
+TV Umpire\t
+Sharfuddoula
+
+Reserve Umpire\t
+Richard Illingworth
+
+Match Referee\t
+Richie Richardson
+
+Points\tNetherlands 2, Nepal 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 873 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/nepal-vs-netherlands-7th-match-group-d-1415707/full-scorecard 
+ ----- 

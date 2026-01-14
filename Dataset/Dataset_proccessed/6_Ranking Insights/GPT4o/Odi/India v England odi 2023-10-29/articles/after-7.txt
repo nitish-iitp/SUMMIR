@@ -1,0 +1,360 @@
+IND vs ENG
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+29th Match (D/N), Lucknow, October 29, 2023, ICC Cricket World Cup
+IND
+229/9
+ENG
+(34.5/50 ov, T:230) 129
+
+India won by 100 runs
+
+Powered by Smart Stats
+Win Probability
+IND 100%
+ENG 0.00%
+IND
+ENG
+100%
+50%
+100%
+IND Innings
+ENG Innings
+
+Over 35 • ENG 129/10
+
+Mark Wood b Bumrah 0 (1b 0x4 0x6 3m) SR: 0
+W
+India won by 100 runs
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Rohit Sharma
+, IND
+87 (101)
+CRICINFO'S MVP
+Rohit Sharma
+, IND
+151.01 pts
+Impact List
+India
+England
+Match Flow
+Info
+India  (50 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+Rohit Sharma (c)
+\t87\t101\t10\t3\t86.13
+
+c Livingstone b Rashid
+
+
+Shubman Gill 
+\t9\t13\t1\t0\t69.23
+
+b Woakes
+
+
+Virat Kohli 
+\t0\t9\t0\t0\t0.00
+
+c Stokes b Willey
+
+
+Shreyas Iyer 
+\t4\t16\t0\t0\t25.00
+
+c Wood b Woakes
+
+
+KL Rahul †
+\t39\t58\t3\t0\t67.24
+
+c Bairstow b Willey
+
+
+Suryakumar Yadav 
+\t49\t47\t4\t1\t104.25
+
+c Woakes b Willey
+
+
+Ravindra Jadeja 
+\t8\t13\t0\t0\t61.53
+
+lbw b Rashid
+
+
+Mohammed Shami 
+\t1\t5\t0\t0\t20.00
+
+c †Buttler b Wood
+
+
+Jasprit Bumrah 
+\t16\t25\t1\t0\t64.00
+
+run out (†Buttler)
+
+
+Kuldeep Yadav 
+\t9\t13\t1\t0\t69.23
+
+not out
+
+Extras\t7\t(b 4, w 3)
+Total\t229/9\t
+50 Ov (RR: 4.58)
+
+
+Did not bat: 
+Mohammed Siraj 
+
+
+Fall of wickets: 1-26 (Shubman Gill, 3.6 ov), 2-27 (Virat Kohli, 6.5 ov), 3-40 (Shreyas Iyer, 11.5 ov), 4-131 (KL Rahul, 30.2 ov), 5-164 (Rohit Sharma, 36.5 ov), 6-182 (Ravindra Jadeja, 40.3 ov), 7-183 (Mohammed Shami, 41.2 ov), 8-208 (Suryakumar Yadav, 46.2 ov), 9-229 (Jasprit Bumrah, 49.6 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+David Willey
+\t10\t2\t45\t
+3
+\t4.50\t0\t0
+
+Chris Woakes
+\t9\t1\t33\t
+2
+\t3.66\t1\t0
+
+Adil Rashid
+\t10\t0\t35\t
+2
+\t3.50\t0\t0
+
+Mark Wood
+\t9\t1\t46\t
+1
+\t5.11\t2\t0
+
+Liam Livingstone
+\t4\t1\t29\t0\t7.25\t0\t0
+
+Moeen Ali
+\t8\t0\t37\t0\t4.62\t0\t0
+England  (T: 230 runs from 50 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+Jonny Bairstow 
+\t14\t23\t2\t0\t60.86
+
+b Mohammed Shami
+
+
+Dawid Malan 
+\t16\t17\t2\t1\t94.11
+
+b Bumrah
+
+
+Joe Root 
+\t0\t1\t0\t0\t0.00
+
+lbw b Bumrah
+
+
+Ben Stokes 
+\t0\t10\t0\t0\t0.00
+
+b Mohammed Shami
+
+
+Jos Buttler (c)†
+\t10\t23\t1\t0\t43.47
+
+b Kuldeep Yadav
+
+
+Moeen Ali 
+\t15\t31\t0\t0\t48.38
+
+c †Rahul b Mohammed Shami
+
+
+Liam Livingstone 
+\t27\t46\t2\t0\t58.69
+
+lbw b Kuldeep Yadav
+
+
+Chris Woakes 
+\t10\t20\t1\t0\t50.00
+
+st †Rahul b Jadeja
+
+
+David Willey 
+\t16\t17\t0\t2\t94.11
+
+not out
+
+
+Adil Rashid 
+\t13\t20\t2\t0\t65.00
+
+b Mohammed Shami
+
+
+Mark Wood 
+\t0\t1\t0\t0\t0.00
+
+b Bumrah
+
+Extras\t8\t(lb 2, w 6)
+Total\t129\t
+34.5 Ov (RR: 3.70)
+
+
+Fall of wickets: 1-30 (Dawid Malan, 4.5 ov), 2-30 (Joe Root, 4.6 ov), 3-33 (Ben Stokes, 7.6 ov), 4-39 (Jonny Bairstow, 9.1 ov), 5-52 (Jos Buttler, 15.1 ov), 6-81 (Moeen Ali, 23.1 ov), 7-98 (Chris Woakes, 28.1 ov), 8-98 (Liam Livingstone, 29.2 ov), 9-122 (Adil Rashid, 33.6 ov), 10-129 (Mark Wood, 34.5 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Jasprit Bumrah
+\t6.5\t1\t32\t
+3
+\t4.68\t2\t0
+
+Mohammed Siraj
+\t6\t0\t33\t0\t5.50\t2\t0
+
+Mohammed Shami
+\t7\t2\t22\t
+4
+\t3.14\t2\t0
+
+Kuldeep Yadav
+\t8\t0\t24\t
+2
+\t3.00\t0\t0
+
+Ravindra Jadeja
+\t7\t1\t16\t
+1
+\t2.28\t0\t0
+Unlocking the magic of Statsguru
+Match Flow
+India innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 35 runs, 2 wickets)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 145 runs, 3 wickets)
+India: 50 runs in 14.2 overs (86 balls), Extras 0
+Over 15.5: Review by India (Batting), Decision Challenged - Wicket, Umpire - AT Holdstock, Batter - RG Sharma (Upheld)
+Drinks: India - 55/3 in 16.0 overs (RG Sharma 37, KL Rahul 5)
+RG Sharma: 50 off 66 balls (6 x 4, 2 x 6)
+4th Wicket: 50 runs in 75 balls (RG Sharma 30, KL Rahul 23, Ex 0)
+India: 100 runs in 24.6 overs (150 balls), Extras 0
+Drinks: India - 131/4 in 30.2 overs (RG Sharma 79)
+India: 150 runs in 34.1 overs (205 balls), Extras 0
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 49 runs, 4 wickets)
+Over 40.3: Review by India (Batting), Decision Challenged - Wicket, Umpire - RJ Tucker, Batter - RA Jadeja (Struck down - Umpires Call)
+India: 200 runs in 45.1 overs (271 balls), Extras 5
+Innings Break: India - 229/9 in 50.0 overs (Kuldeep Yadav 9)
+England innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 40 runs, 4 wickets)
+Over 4.6: Review by England (Batting), Decision Challenged - Wicket, Umpire - RJ Tucker, Batter - JE Root (Struck down)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 89 runs, 6 wickets)
+Drinks: England - 45/4 in 13.0 overs (JC Buttler 5, MM Ali 4)
+England: 50 runs in 14.2 overs (86 balls), Extras 6
+Drinks: England - 98/7 in 28.1 overs (LS Livingstone 27)
+Over 29.2: Review by England (Batting), Decision Challenged - Wicket, Umpire - AT Holdstock, Batter - LS Livingstone (Struck down)
+England: 100 runs in 29.4 overs (178 balls), Extras 6
+Match Details
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow
+
+Toss\tEngland, elected to field first
+Series\t
+ICC Cricket World Cup
+
+Season\t
+2023/24
+
+Player Of The Match\t
+Rohit Sharma
+
+Match number\t
+ODI no. 4686
+
+Hours of play (local time)\t14.00 start, First Session 14.00-17.30, Interval 17.30-18.00, Second Session 18.00-21.30
+Match days\t29 October 2023 - daynight (50-over match)
+Umpires\t
+Adrian Holdstock
+DRS
+Rod Tucker
+DRS
+
+TV Umpire\t
+Ahsan Raza
+
+Reserve Umpire\t
+Chris Brown
+
+Match Referee\t
+Richie Richardson
+
+Points\tIndia 2, England 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 874 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/india-vs-england-29th-match-1384420/full-scorecard 
+ ----- 

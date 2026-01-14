@@ -1,0 +1,323 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Bolt Action Rifles
+338 Lapua Ackley Improved questions and request for load data
+ 
+Thread starter
+Airwolf...  
+Start date
+Apr 3, 2024
+A
+Airwolf...
+Private
+Minuteman
+Jun 21, 2022
+22
+10
+Denver, CO
+discord.gg
+Apr 3, 2024
+#1
+Hi all,
+
+I am looking to build a custom bolt action with a 338 Lapua Magnum Ackley Improved chamber. I was curious if you might be able to share some wisdom with regard to magazines and if there is a particular version I should be using. Also, I was just hoping to find out about any gotcha's from your own experiences that I might be overlooking.
+
+I called Redding to figure out what the sizing die situation was and they said they offer them with 35, 37, and 40 degree shoulders. They also said that there are 2 versions of the 40 degree shoulder and that the 40 degree is the most popular. I was curious if there is a particular chamber I should be using between the two 40 degree ones or whether it really matters.
+
+I was planning on using an American Rifle Company Coup de Grace action with the understanding that it will need to be the pivoting bolt handle and will need to feed like a push action. I am curious if I am overlooking anything with this action and whether or not it is well suited to this application. I spoke to them and they said it would be fine, but I am always wanting to hear opinions.
+
+My hope is to be able to feed from a magazine and I was told that the shoulder may cause issues in unmodified magazines. I was told that it may be necessary to mill out the sides of the magazines to allow the rounds to feed and stack correctly. Has anybody had this experience? Is there a magazine that you have found that works well with this cartridge? I understand that with a custom gun, i am probably going to be limited to 5 round magazines. I was also curious if there is a larger magazine that could be used.
+
+What length barrel and contour would you recommend? I typically prefer a more "tactical" style rifle but I would like to be able to spot my shots. I am not planning on doing any hiking with this thing, but I would also prefer not to have to carry a truck axle around. I was told a heavy varmint or MTU profile might be a good compromise with a length of somewhere between 27 to 29". What do you think?
+
+Last, can anybody share their load data including the COAL and barrel length? I have not been able to find a good source of load data. I am pretty adept with GRT and was hoping to simulate some other people's loads so I can get an idea of what to expect from various barrel lengths, bullets, and powders.
+
+Thanks in advance!
+ 
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,182
+4,867
+CONUS
+Apr 3, 2024
+#2
+Yep, 40 degree is the most common. Here's a copy of the reamer print I've used (JGS reamer) over the past 12 years.
+
+As for magazines, I've only had experience with the DT SRS magazines, and they can fit a COAL of 4.00" Most of my jacketed loads have been around 3.880" COAL and some solids have been single feed because they were >4.10"
+
+I've used mostly 36" heavy contour barrels - weight is good in this case. Though I think 30-32" is a better choice in a non-bullpup rifle.
+
+You'll probably want to shoot 300gr bullets and slow powders like RL33 and LRT are very well optimized for that cartridge. N170 and N570 work well too, but I find they are better suited to 285gr solids.
+ 
+Attachments
+338 Lapua 40 JGS.gif
+318.7 KB · Views: 111
+surgeon260
+Sergeant
+Full Member
+Minuteman
+Jan 26, 2014
+686
+610
+Colorado
+Apr 3, 2024
+#3
+To clarify, this will be a super heavy bench only rifle, yes?
+
+I shoot both 338 Lapua Improved and 338 Norma Improved quite a bit. If you are going the Lapua Improved route, you are clearly chasing maximum performance. In my opinion, I would consider a beefier action with 1-1/8 tenon threads for any Lapua bolt face cartridge, but especially if you want to chase max pressure and velocity. My 338s are on the Surgeon XL action, and I am currently building another Lapua on the Borden Bigfoot. After shooting lots of 300 Norma Improved out of a standard Rem footprint action with 1-1/16 threads, I won't do that again. Be prepared for early pressure signs and sticky cases out of that ARC action.
+
+Also, why the need for a repeater? Single shot makes life much simpler in the Lapua Improved, and gives you maximum action rigidity. In my opinion 338 Norma (standard or improved) is the way to go if you need a repeater.
+
+As far as barrel length, I think 30" is the best compromise of performance and convenience. Contour should be the heaviest one you can get. I use extra heavy MTU in my Lapua with a 1.400 breech tapering down to 1.000.
+
+With 300 Bergers, my COAL is around 3.9. My max loads are using around 100 grains of N570 or 105 grains of RL33 (those are pretty close to max in a long throated custom chamber, so work up). N570 gives me right at 3000fps; RL33 is around 3050.
+
+18 posts in - you are definitely diving into the deep end!
+ 
+A
+Airwolf...
+Private
+Minuteman
+Jun 21, 2022
+22
+10
+Denver, CO
+discord.gg
+Apr 4, 2024
+#4
+Dogtown said:
+Yep, 40 degree is the most common. Here's a copy of the reamer print I've used (JGS reamer) over the past 12 years.
+
+As for magazines, I've only had experience with the DT SRS magazines, and they can fit a COAL of 4.00" Most of my jacketed loads have been around 3.880" COAL and some solids have been single feed because they were >4.10"
+
+I've used mostly 36" heavy contour barrels - weight is good in this case. Though I think 30-32" is a better choice in a non-bullpup rifle.
+
+You'll probably want to shoot 300gr bullets and slow powders like RL33 and LRT are very well optimized for that cartridge. N170 and N570 work well too, but I find they are better suited to 285gr solids.
+Click to expand...
+I really appreciate the reply. I will probably go with a 30" as this seems like a good compromise. I was planning on using N570 but it sounds like I should take a look at RL33 and LRT as well. Do you know if LRT is fairly temp stable?
+ 
+A
+Airwolf...
+Private
+Minuteman
+Jun 21, 2022
+22
+10
+Denver, CO
+discord.gg
+Apr 4, 2024
+#5
+surgeon260 said:
+To clarify, this will be a super heavy bench only rifle, yes?
+
+I shoot both 338 Lapua Improved and 338 Norma Improved quite a bit. If you are going the Lapua Improved route, you are clearly chasing maximum performance. In my opinion, I would consider a beefier action with 1-1/8 tenon threads for any Lapua bolt face cartridge, but especially if you want to chase max pressure and velocity. My 338s are on the Surgeon XL action, and I am currently building another Lapua on the Borden Bigfoot. After shooting lots of 300 Norma Improved out of a standard Rem footprint action with 1-1/16 threads, I won't do that again. Be prepared for early pressure signs and sticky cases out of that ARC action.
+
+Also, why the need for a repeater? Single shot makes life much simpler in the Lapua Improved, and gives you maximum action rigidity. In my opinion 338 Norma (standard or improved) is the way to go if you need a repeater.
+
+As far as barrel length, I think 30" is the best compromise of performance and convenience. Contour should be the heaviest one you can get. I use extra heavy MTU in my Lapua with a 1.400 breech tapering down to 1.000.
+
+With 300 Bergers, my COAL is around 3.9. My max loads are using around 100 grains of N570 or 105 grains of RL33 (those are pretty close to max in a long throated custom chamber, so work up). N570 gives me right at 3000fps; RL33 is around 3050.
+
+18 posts in - you are definitely diving into the deep end!
+Click to expand...
+Yeah I like to go hard haha. I have been shooting pretty regularly (every weekend) for the past several years and do a lot of reloading, so this isn't a big deal to me. I just shoot AR-15 and AR-10 platform rifles almost exclusively, but wanted to get an ELR-ish setup that uses the same bullets I have stockpiled for my 8.6 Blackout AR-10 and Q Fix rifles. So my knowledge of bolt actions is quite lacking and I am relying on others to hopefully get it *mostly* right the first time. I am almost certain I want to do a 338 Lapua Improved, but my knowledge is lacking when it comes to action choices, barrel contours appropriate for the job, and bolt action magazines (and probably a lot of other things where I don't know what I don't know).
+
+After doing some research, I think I understand what you mean about getting a beefier action. Is it because with 1-1/8x16TPI tenon threads, the chamber will have more meat around it, thus allowing less deformation or stretching when fired? Does the outside diameter of the action around the tenon also contribute to this? I don't understand how this would prevent pressure signs and sticky brass and if you are able to elaborate at all, it would be greatly appreciated.
+
+Based on what you said, I looked around and found a couple actions that are a little easier on the wallet than the Surgeon XL. I am not against getting that or the Borden if it is justifiable, but I was hoping I could get one for a bit less. One of the primary reasons I was looking at the Coup de Grace was the fact that it is $900. With that said, do you have any opinions on the following actions? Would they be a good alternative to the Surgeon XL or Borden Bigfoot? Are there features than the Surgeon or Borden offer that justify the higher price in your opinion?
+
+Stiller Tac Driver 1.60 - $1300 - This seems like the beefiest action I can find. From what I understand, the outside diameter is 1.6" and it has 1-3/16 x 16TPI threads, which is slightly larger than the Surgeon XL. (https://shop.stilleractions.com/big-bore-actions/tac-driver-160)
+
+Bat Machine Ingniter LA - $1130 - This has 1-1/8 x 16 TPI threads and appears to be pretty beefy as well. (https://www.batmachine.com/actions/igniter-la/)
+
+With regard to the question about why I want a repeater, I don't really have a good reason to give you other than I usually build my rifles to fill somewhat of a "tactical" role and I would like to be able to make quick follow up shots if I want to. Also just because I don't particularly want a single feed. With that said, why do you think 338 Norma/Improved is the way to go for a repeater? Does the geometry lend itself better to feeding from a magazine?
+
+Thank you very much for all of your help and wisdom!
+ 
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,182
+4,867
+CONUS
+Apr 4, 2024
+#6
+Airwolf... said:
+I really appreciate the reply. I will probably go with a 30" as this seems like a good compromise. I was planning on using N570 but it sounds like I should take a look at RL33 and LRT as well. Do you know if LRT is fairly temp stable?
+I only recently worked up a load with LRT only because RL33 has been unobtainable for the past two years; rarely popping up even for a fleeting second. Others have figured this out and now LRT is a bit harder to find, but it seems to be a very good powder for the .338LM Improved. But is it temp stable? I can’t say specifically.
+
+I would use N570 for now (I used it for many years with this cartridge), but just keep an eye out for RL33 and LRT.
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,236
+10,707
+Your Wife's Pussy
+Apr 4, 2024
+#7
+Airwolf... said:
+Hi all,
+
+I am looking to build a custom bolt action with a 338 Lapua Magnum Ackley Improved chamber. I was curious if you might be able to share some wisdom with regard to magazines and if there is a particular version I should be using. Also, I was just hoping to find out about any gotcha's from your own experiences that I might be overlooking.
+
+I called Redding to figure out what the sizing die situation was and they said they offer them with 35, 37, and 40 degree shoulders. They also said that there are 2 versions of the 40 degree shoulder and that the 40 degree is the most popular. I was curious if there is a particular chamber I should be using between the two 40 degree ones or whether it really matters.
+
+I was planning on using an American Rifle Company Coup de Grace action with the understanding that it will need to be the pivoting bolt handle and will need to feed like a push action. I am curious if I am overlooking anything with this action and whether or not it is well suited to this application. I spoke to them and they said it would be fine, but I am always wanting to hear opinions.
+
+My hope is to be able to feed from a magazine and I was told that the shoulder may cause issues in unmodified magazines. I was told that it may be necessary to mill out the sides of the magazines to allow the rounds to feed and stack correctly. Has anybody had this experience? Is there a magazine that you have found that works well with this cartridge? I understand that with a custom gun, i am probably going to be limited to 5 round magazines. I was also curious if there is a larger magazine that could be used.
+
+What length barrel and contour would you recommend? I typically prefer a more "tactical" style rifle but I would like to be able to spot my shots. I am not planning on doing any hiking with this thing, but I would also prefer not to have to carry a truck axle around. I was told a heavy varmint or MTU profile might be a good compromise with a length of somewhere between 27 to 29". What do you think?
+
+Last, can anybody share their load data including the COAL and barrel length? I have not been able to find a good source of load data. I am pretty adept with GRT and was hoping to simulate some other people's loads so I can get an idea of what to expect from various barrel lengths, bullets, and powders.
+
+Thanks in advance!
+Click to expand...
+Well, first off, P.O. Ackley was dead long before the .338 Lapua ever was invented, so it wouldn’t be an “ACKLEY Improved”, it would just be a “.338 Lapua Improved”. Secondly, try searching for that, and you will probably have more luck than you did with the word Ackley in there. 
+ 
+surgeon260
+Sergeant
+Full Member
+Minuteman
+Jan 26, 2014
+686
+610
+Colorado
+Apr 4, 2024
+#8
+Airwolf... said:
+After doing some research, I think I understand what you mean about getting a beefier action. Is it because with 1-1/8x16TPI tenon threads, the chamber will have more meat around it, thus allowing less deformation or stretching when fired? Does the outside diameter of the action around the tenon also contribute to this? I don't understand how this would prevent pressure signs and sticky brass and if you are able to elaborate at all, it would be greatly appreciated.
+Click to expand...
+
+It has less to do with more meat around the chamber (although the increased hoop strength doesn't hurt) and more to do with the ability to fit larger bolt lugs. The tenon diameter limits the size of the bolt lugs. Most companies that build a .590 Lapua bolt face action also increase the bolt diameter slightly over a standard Rem 700 to accommodate that massive bolt face, but the 1-1/16 tenon is still the limiting factor for the outside diameter of the lugs. So effectively the bolt body gets fatter, the lug outside diameter stays the same, resulting in smaller lugs. This is the source of the pressure issues, and lug setback in the long term, when running at max pressures.
+
+Don't get me wrong - you can 100% safely build a Lapua on a Rem 700 footprint, 1-1/16 action. There are many of them in existence, and many top builders still use 1-1/16 actions for Lapua/Norma builds (e.g. anyone building on a Defiance action). But if you are starting from scratch building a custom rifle that is purpose built to chase top velocity with handloads in a Lapua-based cartridge, there are better actions available for that task.
+
+I hear you on the affordability of the ARC action. If that is what is in your budget then go for it, but understand the limitations described above.
+
+Of the Stiller actions, the Tac 338 would be the best suited to a Lapua. The Tac Driver 1.6 is much bigger and heavier, designed for the Cheytac family. BAT actions are outstanding, pretty much top of the line. The Igniter/Vesper/HR should be on your short list for sure. Most gunsmiths prefer BAT over Stiller from a straightness/consistency standpoint.
+
+As far as single shot vs. repeater, I prefer the Norma strictly from a case length standpoint. I have never had the need to rapid fire a Lapua, but YMMV. The Norma case is shorter and lends itself better to common magazine systems, such as the AICS CIP magazines. The 338 Norma shares the same bolt face as the Lapua but in a shorter package. It's still a beast, no question.
+
+Lapua improved on the left, Norma improved on the right.
+
+
+ 
+ 
+Reactions:
+CaseFinder and Ridge_Walker
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,182
+4,867
+CONUS
+Apr 4, 2024
+#9
+@Airwolf... (I get teenage flashbacks writing that)
+
+Something else to be aware of is that obviously no one makes .338LM Improved cases anymore (RIP RCC Brass), so you're going to have to fireform it first. If you've already got some .338LM loaded in virgin Lapua brass, I highly suggest you just shoot that first as a fun session with friends. You'll be fireforming virgin brass, it'll still work just fine in the new chamber, and you'll get some initial rounds down the barrel. I still use my original barrel that's shot-out to hell for any fireforming, but have also in the past made fireforming loads with cheap bullets and faster powders. .338LM Improved for me has developed case web rings faster than any other cartridge I've used. When pushed hard, I sometimes get 5-6 loads out of virgin Lapua brass, with the failure point always at the case web (no neck splitting). If you dial it back a bit you can stretch the case life a bit, but then again why are you shooting an Improved in the first place?
+
+Also with dies, yes you can get Redding to do a FL sizer based on their spec. I initially had CH4D make a simple FL die for me based off of my reamer print, but the best die I've used so far for it is a custom bushing die from Whidden. During the fireforming process I just sent them three once-fired cases and a few weeks later got a die back specific to my chamber.
+ 
+ 
+Reactions:
+Evlshnngns and Ridge_Walker
+CaseFinder
+Sergeant of the Hide
+Full Member
+Minuteman
+Jul 8, 2022
+285
+235
+the Land of Az
+Aug 4, 2024
+#10
+As the OP asked about magazines, if one is considering any AI chassis made for non-AI actions, see here for some considerations:
+
+
+AI 338 CIP Magazine Differences
+I searched through as many threads as possible before posting this question, but could not find a definitive answer: Could someone tell me what the forward tab difference on the single stack 338-CIP 5 round magazine (see below) is for, which I believe, presumably, is for a newer AI AX 338...
+ www.snipershide.com
+ 
+You must log in or register to reply here.
+Similar threads
+A
+	
+510 Whisper Build Advice (Stock/Bottom Metal/Magazines/Twist/Barrel Length)
+Airwolf... Nov 28, 2024 Bolt Action Rifles
+1
+Nov 29, 2024
+	
+Firearms Seekins Precision Havak PH2 in 7 PRC...SPF
+Maggot Dec 14, 2024 Buy - Sell - Trade
+2
+Dec 14, 2024
+	
+Firearms Custom 338 Lapua Improved Full Rifle Build / Extra Barrel / Brass / Dies / Scope
+EXSOCAL Aug 27, 2024 Buy - Sell - Trade
+6
+Sep 23, 2024
+C
+	
+Newbie trying to find a good load and need some help.
+champ198 Aug 22, 2024 Reloading Depot
+39
+Aug 24, 2024
+C
+	
+How to wildcat/shorten parent case?
+clyancey Dec 12, 2023 Reloading Depot
+8
+Jun 7, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Bolt Action Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/338-lapua-ackley-improved-questions-and-request-for-load-data.7213874/ 
+ ----- 

@@ -1,0 +1,632 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+Manage Preferences
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Los Angeles Dodgers Schedule
+Chicago Cubs Schedule
+Chicago Cubs vs Los Angeles Dodgers Box Score: September 10, 2024
+MLB Scores — September 10, 2024
+COL\t0\tFinal
+DET\t11\t
+TBR\t4\tFinal
+PHI\t9\t
+MIA\t4\tFinal
+PIT\t6\t
+ATL\t12\tFinal
+WSN\t0\t
+KCR\t5\tFinal
+NYY\t0\t
+NYM\t2\tFinal
+TOR\t6\t
+BAL\t5\tFinal
+BOS\t3\t
+CLE\t5\tFinal
+CHW\t0\t
+LAA\t5\tFinal
+MIN\t10\t
+CIN\t3\tFinal
+STL\t0\t
+OAK\t4\tFinal
+HOU\t3\t(12)
+TEX\t0\tFinal
+ARI\t6\t
+SDP\t7\tFinal
+SEA\t3\t
+MIL\t3\tFinal
+SFG\t2\t
+CHC\t6\tFinal
+LAD\t3\t
+MLB Scores & Standings on this Day
+Chicago Cubs
+6
+75-70
+Prev Game Next Game
+ 
+Los Angeles Dodgers
+3
+86-59
+Prev Game Next Game
+Tuesday, September 10, 2024
+Start Time: 7:10 p.m. Local
+Attendance: 51,923
+Venue: Dodger Stadium
+Game Duration: 2:36
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ \t \t1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+
+\tChicago Cubs\t0\t1\t0\t0\t0\t0\t0\t5\t0\t6\t10\t0
+
+\tLos Angeles Dodgers\t0\t1\t0\t1\t1\t0\t0\t0\t0\t3\t8\t4
+WP: Shota Imanaga (13-3) • LP: Evan Phillips (3-1) • SV: Porter Hodge (5)
+Chicago Cubs 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Ian Happ LF\t4\t1\t0\t0\t1\t2\t5\t.243\t.342\t.455\t.796\t19\t9\t-0.030\t1.01\t0.067\t-0.096\t-0.00%\t0.17\t-0.6\t2\t0\t
+Dansby Swanson SS\t5\t1\t0\t0\t0\t2\t5\t.235\t.305\t.379\t.685\t19\t12\t0.041\t1.05\t0.107\t-0.066\t0.00%\t0.18\t-0.1\t3\t3\t
+Seiya Suzuki DH\t5\t1\t3\t1\t0\t2\t5\t.273\t.349\t.475\t.824\t25\t16\t0.363\t1.12\t0.385\t-0.022\t0.04%\t0.20\t2.0\t0\t0\t2B
+Cody Bellinger RF\t4\t1\t1\t0\t1\t1\t5\t.265\t.327\t.425\t.753\t20\t13\t-0.061\t1.21\t0.037\t-0.098\t-0.01%\t0.21\t-0.2\t2\t0\tIW
+Isaac Paredes 3B\t5\t1\t2\t0\t0\t1\t5\t.230\t.340\t.398\t.738\t26\t20\t-0.089\t1.27\t0.056\t-0.145\t-0.01%\t0.22\t-0.8\t0\t3\t
+Michael Busch 1B\t4\t1\t0\t0\t0\t1\t4\t.249\t.335\t.430\t.764\t9\t8\t0.091\t1.95\t0.216\t-0.125\t0.01%\t0.34\t-0.0\t8\t1\tGDP
+Nico Hoerner 2B\t4\t0\t3\t1\t0\t1\t4\t.263\t.330\t.356\t.686\t15\t10\t0.158\t1.21\t0.190\t-0.032\t0.02%\t0.21\t1.7\t1\t2\t2B
+Pete Crow-Armstrong CF\t4\t0\t1\t1\t0\t0\t4\t.240\t.287\t.393\t.680\t9\t6\t0.116\t1.32\t0.159\t-0.043\t0.01%\t0.23\t0.9\t6\t0\t
+Miguel Amaya C\t3\t0\t0\t0\t0\t0\t4\t.228\t.282\t.347\t.629\t6\t4\t-0.111\t1.21\t0.000\t-0.111\t-0.01%\t0.21\t-1.2\t4\t0\tSH
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Shota Imanaga P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1\t1\t
+   Nate Pearson P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Porter Hodge P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t38\t6\t10\t3\t2\t10\t41\t.263\t.300\t.316\t.616\t148\t98\t0.478\t1.25\t1.217\t-0.738\t0.05%\t0.22\t1.6\t27\t10\t
+2B: Seiya Suzuki (24, off Blake Treinen); Nico Hoerner (31, off Evan Phillips).
+SH: Miguel Amaya (5, off Ryan Brasier).
+IBB: Cody Bellinger (7, by Evan Phillips).
+TB: Nico Hoerner 4; Seiya Suzuki 4; Isaac Paredes 2; Pete Crow-Armstrong; Cody Bellinger.
+GIDP: Michael Busch (8).
+RBI: Pete Crow-Armstrong (42); Nico Hoerner (42); Seiya Suzuki (65).
+Team LOB: 8.
+With RISP: 2 for 12.
+Fielding
+DP: 1. Michael Busch-Dansby Swanson-Shota Imanaga.
+Los Angeles Dodgers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Shohei Ohtani DH\t4\t0\t0\t0\t0\t0\t4\t.290\t.373\t.612\t.986\t8\t6\t-0.157\t0.96\t0.000\t-0.157\t-0.09%\t0.91\t-1.6\t0\t0\tGDP
+Mookie Betts RF\t4\t0\t1\t0\t0\t0\t4\t.306\t.397\t.519\t.916\t11\t8\t-0.057\t0.74\t0.013\t-0.070\t-0.03%\t0.70\t-0.6\t4\t0\t
+Freddie Freeman 1B\t4\t0\t0\t0\t0\t1\t4\t.285\t.383\t.486\t.869\t15\t10\t-0.067\t0.64\t0.000\t-0.067\t-0.04%\t0.60\t-0.7\t8\t2\t
+Tommy Edman CF\t4\t2\t2\t2\t0\t0\t4\t.293\t.316\t.427\t.743\t10\t7\t0.220\t0.73\t0.249\t-0.029\t0.12%\t0.69\t1.7\t2\t0\t2·HR
+Andy Pages LF\t3\t0\t1\t0\t0\t0\t3\t.243\t.300\t.388\t.688\t6\t5\t-0.048\t0.63\t0.015\t-0.063\t-0.03%\t0.60\t-0.6\t1\t0\t
+   Will Smith C\t1\t0\t0\t0\t0\t0\t1\t.244\t.323\t.420\t.743\t3\t2\t-0.012\t0.48\t0.000\t-0.012\t-0.01%\t0.45\t-0.2\t0\t0\t
+Miguel Rojas SS\t3\t0\t1\t0\t1\t1\t4\t.286\t.327\t.404\t.730\t21\t12\t-0.004\t0.46\t0.023\t-0.027\t-0.00%\t0.43\t0.3\t2\t4\t
+Max Muncy 3B\t4\t1\t1\t1\t0\t1\t4\t.228\t.339\t.497\t.836\t17\t9\t0.066\t0.59\t0.106\t-0.040\t0.04%\t0.56\t0.3\t0\t1\tHR
+Enrique Hernández 2B-LF\t3\t0\t1\t0\t0\t1\t3\t.216\t.272\t.346\t.618\t14\t8\t0.015\t0.64\t0.040\t-0.025\t0.01%\t0.61\t-0.1\t0\t1\t
+Austin Barnes C\t2\t0\t1\t0\t0\t0\t2\t.265\t.331\t.311\t.642\t11\t7\t0.050\t1.01\t0.060\t-0.010\t0.03%\t0.96\t0.5\t9\t1\t
+   Gavin Lux PH-2B\t1\t0\t0\t0\t0\t0\t1\t.249\t.310\t.389\t.699\t5\t3\t-0.026\t1.03\t0.000\t-0.026\t-0.01%\t0.97\t-0.2\t0\t0\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Yoshinobu Yamamoto P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Ryan Brasier P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1\t1\t
+   Blake Treinen P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Alex Vesia P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Evan Phillips P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Brusdar Graterol P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t33\t3\t8\t3\t1\t4\t34\t.242\t.265\t.515\t.780\t121\t77\t-0.020\t0.69\t0.506\t-0.526\t-0.01%\t0.65\t-1.4\t27\t10\t
+HR: Tommy Edman 2 (2, 2 off Shota Imanaga, 2nd inn, 0 on, 0 outs to Deep LF Line; 4th inn, 0 on, 1 out to Deep LF-CF); Max Muncy (13, off Shota Imanaga, 5th inn, 0 on, 0 outs to Deep RF).
+TB: Tommy Edman 8; Max Muncy 4; Enrique Hernández; Austin Barnes; Andy Pages; Miguel Rojas; Mookie Betts.
+GIDP: Shohei Ohtani (7).
+RBI: Tommy Edman 2 (9); Max Muncy (38).
+Team LOB: 4.
+With RISP: 0 for 3.
+Fielding
+DP: 1. Freddie Freeman-Miguel Rojas-Freddie Freeman.
+E: Tommy Edman (2); Enrique Hernández (8); Freddie Freeman (4); Austin Barnes (4).
+Baserunning
+Pickoffs: Andy Pages (1st base by Shota Imanaga).
+Chicago Cubs 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Shota Imanaga, W (13-3)\t7\t7\t3\t3\t0\t4\t3\t3.03\t26\t89\t58\t35\t14\t9\t8\t14\t3\t0\t55\t\t\t-0.068\t0.72\t-0.01%\t0.12\t0.4
+Nate Pearson, H (9)\t1\t1\t0\t0\t0\t0\t0\t4.40\t4\t14\t9\t5\t1\t3\t1\t3\t2\t0\t\t0\t0\t0.049\t0.67\t0.01%\t0.12\t0.5
+Porter Hodge, S (5)\t1\t0\t0\t0\t1\t0\t0\t1.66\t4\t18\t10\t4\t1\t5\t1\t2\t1\t0\t\t0\t0\t0.039\t0.55\t0.00%\t0.09\t0.5
+Team Totals\t9\t8\t3\t3\t1\t4\t3\t3.00\t34\t121\t77\t44\t16\t17\t10\t19\t6\t0\t55\t0\t0\t0.020\t0.69\t0.00%\t0.12\t1.4
+
+Los Angeles Dodgers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Yoshinobu Yamamoto\t4\t3\t1\t0\t0\t8\t0\t2.77\t15\t59\t42\t18\t11\t13\t3\t4\t4\t0\t62\t\t\t0.099\t0.95\t0.06%\t0.90\t1.0
+Ryan Brasier\t1\t1\t0\t0\t0\t1\t0\t3.09\t4\t9\t8\t5\t2\t1\t3\t0\t0\t0\t\t0\t0\t0.069\t1.38\t0.04%\t1.30\t0.5
+Blake Treinen, H (12)\t1\t1\t0\t0\t0\t0\t0\t2.33\t4\t21\t12\t9\t1\t2\t1\t3\t1\t0\t\t0\t0\t0.064\t1.29\t0.04%\t1.22\t0.5
+Alex Vesia, H (13)\t1\t1\t1\t1\t1\t0\t0\t1.85\t5\t13\t5\t4\t1\t0\t1\t3\t0\t0\t\t0\t0\t0.003\t1.32\t0.00%\t1.25\t0.1
+Evan Phillips, BS (4), L (3-1)\t1\t2\t4\t0\t1\t1\t0\t3.02\t8\t25\t18\t12\t2\t4\t4\t2\t1\t0\t\t1\t1\t-0.721\t2.36\t-0.41%\t2.23\t-4.1
+Brusdar Graterol\t1\t2\t0\t0\t0\t0\t0\t13.50\t5\t21\t13\t7\t1\t5\t2\t3\t2\t0\t\t0\t0\t0.008\t0.12\t0.00%\t0.11\t0.5
+Team Totals\t9\t10\t6\t1\t2\t10\t0\t1.00\t41\t148\t98\t55\t18\t25\t14\t15\t8\t0\t62\t1\t1\t-0.478\t1.25\t-0.27%\t1.18\t-1.6
+
+Alex Vesia faced 1 batter in the 8th inning.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: Evan Phillips (1; Cody Bellinger).
+Pickoffs: Shota Imanaga (3; Andy Pages, 1st base).
+Other Info 
+Umpires: HP - Cory Blaser, 1B - Manny Gonzalez, 2B - Rob Drake, 3B - Todd Tichenor, LF - (none), RF - (none).
+Time of Game: 2:36.
+Attendance: 51,923.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 6mph out to Centerfield, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Cubs
+1\tIan Happ\tLF
+2\tDansby Swanson\tSS
+3\tSeiya Suzuki\tDH
+4\tCody Bellinger\tRF
+5\tIsaac Paredes\t3B
+6\tMichael Busch\t1B
+7\tNico Hoerner\t2B
+8\tPete Crow-Armstrong\tCF
+9\tMiguel Amaya\tC
+\tShota Imanaga\tP
+Dodgers
+1\tShohei Ohtani\tDH
+2\tMookie Betts\tRF
+3\tFreddie Freeman\t1B
+4\tTommy Edman\tCF
+5\tAndy Pages\tLF
+6\tMiguel Rojas\tSS
+7\tMax Muncy\t3B
+8\tEnrique Hernández\t2B
+9\tAustin Barnes\tC
+\tYoshinobu Yamamoto\tP
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Chicago Cubs vs. Los Angeles Dodgers, September 10 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+LAD
+50%
+CHC
+Inning\tWin Pct
+1\t0.5
+2\t0.48
+3\t0.46
+4\t0.45
+5\t0.47
+6\t0.49
+7\t0.5
+8\t0.48
+9\t0.5
+10\t0.47
+11\t0.49
+12\t0.6
+13\t0.56
+14\t0.45
+15\t0.47
+16\t0.49
+17\t0.5
+18\t0.47
+19\t0.46
+20\t0.45
+21\t0.41
+22\t0.35
+23\t0.46
+24\t0.5
+25\t0.47
+26\t0.5
+27\t0.44
+28\t0.47
+29\t0.33
+30\t0.35
+31\t0.36
+32\t0.32
+33\t0.36
+34\t0.33
+35\t0.29
+36\t0.18
+37\t0.2
+38\t0.21
+39\t0.21
+40\t0.18
+41\t0.24
+42\t0.19
+43\t0.15
+44\t0.16
+45\t0.17
+46\t0.18
+47\t0.14
+48\t0.18
+49\t0.14
+50\t0.11
+51\t0.09
+52\t0.12
+53\t0.11
+54\t0.12
+55\t0.13
+56\t0.2
+57\t0.3
+58\t0.63
+59\t0.67
+60\t0.57
+61\t0.79
+62\t0.92
+63\t0.93
+64\t0.92
+65\t0.94
+66\t0.96
+67\t0.95
+68\t0.97
+69\t0.96
+70\t0.96
+71\t0.96
+72\t0.97
+73\t0.96
+74\t0.98
+75\t1
+76\t0.99
+77\t0.98
+78\t0.98
+79\t1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+t8\t1-3\t0\t12-\t7,(2-2) \tRR\tCHC\tSeiya Suzuki\tEvan Phillips\t33%\t63%\tSingle to CF (Ground Ball thru SS-2B); I. Happ Scores; D. Swanson Scores/Adv on E8 (throw)/No RBI/unER; S. Suzuki to 2B
+t8\t3-3\t1\t12-\t1,(0-0) \tR\tCHC\tMichael Busch\tEvan Phillips\t22%\t79%\tFielder's Choice 2B; S. Suzuki Scores/No RBI/unER; C. Bellinger to 2B/Adv on E4; M. Busch to 1B
+b4\t1-1\t1\t---\t1,(0-0) \tR\tLAD\tTommy Edman\tShota Imanaga\t-14%\t33%\tHome Run (Fly Ball to Deep LF-CF)
+t8\t4-3\t1\t12-\t8,(3-2) \tR\tCHC\tNico Hoerner\tEvan Phillips\t13%\t92%\tDouble to LF (Line Drive to Deep LF Line); C. Bellinger Scores/unER; M. Busch to 3B
+b2\t0-1\t0\t---\t1,(0-0) \tR\tLAD\tTommy Edman\tShota Imanaga\t-11%\t45%\tHome Run (Fly Ball to Deep LF Line)
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+Top of the 1st, Cubs Batting, Tied 0-0, Dodgers' Yoshinobu Yamamoto facing 1-2-3
+t1\t0-0\t0\t---\t4,(1-2) \tO\tCHC\tIan Happ\tYoshinobu Yamamoto\t-2%\t48%\tStrikeout Swinging; I. Happ out at 1B/C-1B
+t1\t0-0\t1\t---\t4,(1-2) \tO\tCHC\tDansby Swanson\tYoshinobu Yamamoto\t-2%\t46%\tStrikeout Swinging
+t1\t0-0\t2\t---\t7,(3-2) \tO\tCHC\tSeiya Suzuki\tYoshinobu Yamamoto\t-1%\t45%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Cubs 0, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Tied 0-0, Cubs' Shota Imanaga facing 1-2-3
+b1\t0-0\t0\t---\t1,(0-0) \tO\tLAD\tShohei Ohtani\tShota Imanaga\t2%\t47%\tPopfly: SS (Deep SS-2B)
+b1\t0-0\t1\t---\t2,(0-1) \tO\tLAD\tMookie Betts\tShota Imanaga\t2%\t49%\tFlyball: CF (Deep LF-CF)
+b1\t0-0\t2\t---\t1,(0-0) \tO\tLAD\tFreddie Freeman\tShota Imanaga\t1%\t50%\tFlyball: LF
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Cubs 0, Dodgers 0.
+Top of the 2nd, Cubs Batting, Tied 0-0, Dodgers' Yoshinobu Yamamoto facing 4-5-6
+t2\t0-0\t0\t---\t5,(2-2) \tO\tCHC\tCody Bellinger\tYoshinobu Yamamoto\t-2%\t48%\tStrikeout Swinging
+t2\t0-0\t1\t---\t8,(1-2) \t\tCHC\tIsaac Paredes\tYoshinobu Yamamoto\t3%\t50%\tSingle to LF (Line Drive)
+t2\t0-0\t1\t1--\t3,(0-2) \tO\tCHC\tMichael Busch\tYoshinobu Yamamoto\t-3%\t47%\tStrikeout Swinging
+t2\t0-0\t2\t1--\t1,(0-0) \t\tCHC\tNico Hoerner\tYoshinobu Yamamoto\t2%\t49%\tSingle to CF (Line Drive); I. Paredes to 2B
+t2\t0-0\t2\t12-\t2,(1-0) \tR\tCHC\tPete Crow-Armstrong\tYoshinobu Yamamoto\t11%\t60%\tReached on E3 (Ground Ball); I. Paredes Scores/No RBI/unER; N. Hoerner to 2B; P. Crow-Armstrong to 1B
+t2\t1-0\t2\t12-\t3,(2-0) \tO\tCHC\tMiguel Amaya\tYoshinobu Yamamoto\t-4%\t56%\tLineout: RF (Deep RF)
+\t\t\t\t\t\t\t\t\t1 run, 2 hits, 1 error, 2 LOB. Cubs 1, Dodgers 0.
+Bottom of the 2nd, Dodgers Batting, Behind 0-1, Cubs' Shota Imanaga facing 4-5-6
+b2\t0-1\t0\t---\t1,(0-0) \tR\tLAD\tTommy Edman\tShota Imanaga\t-11%\t45%\tHome Run (Fly Ball to Deep LF Line)
+b2\t1-1\t0\t---\t3,(0-2) \tO\tLAD\tAndy Pages\tShota Imanaga\t2%\t47%\tGroundout: 3B-1B (SS-3B Hole)
+b2\t1-1\t1\t---\t4,(2-1) \tO\tLAD\tMiguel Rojas\tShota Imanaga\t2%\t49%\tGroundout: 2B-1B (SS-2B)
+b2\t1-1\t2\t---\t5,(2-2) \tO\tLAD\tMax Muncy\tShota Imanaga\t1%\t50%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 0 LOB. Cubs 1, Dodgers 1.
+Top of the 3rd, Cubs Batting, Tied 1-1, Dodgers' Yoshinobu Yamamoto facing 1-2-3
+t3\t1-1\t0\t---\t4,(1-2) \tO\tCHC\tIan Happ\tYoshinobu Yamamoto\t-3%\t47%\tStrikeout Swinging
+t3\t1-1\t1\t---\t5,(2-2) \tO\tCHC\tDansby Swanson\tYoshinobu Yamamoto\t-2%\t46%\tStrikeout Looking
+t3\t1-1\t2\t---\t5,(2-2) \tO\tCHC\tSeiya Suzuki\tYoshinobu Yamamoto\t-1%\t45%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Cubs 1, Dodgers 1.
+Bottom of the 3rd, Dodgers Batting, Tied 1-1, Cubs' Shota Imanaga facing 8-9-1
+b3\t1-1\t0\t---\t6,(3-2) \t\tLAD\tEnrique Hernández\tShota Imanaga\t-4%\t41%\tSingle to RF (Ground Ball)
+b3\t1-1\t0\t1--\t4,(1-2) \t\tLAD\tAustin Barnes\tShota Imanaga\t-6%\t35%\tSingle to LF (Line Drive); E. Hernández to 2B
+b3\t1-1\t0\t12-\t4,(2-1) \tOO\tLAD\tShohei Ohtani\tShota Imanaga\t11%\t46%\tGround Ball Double Play: 1B-SS-P; E. Hernández to 3B
+b3\t1-1\t2\t--3\t4,(2-1) \tO\tLAD\tMookie Betts\tShota Imanaga\t4%\t50%\tGroundout: 3B-1B
+\t\t\t\t\t\t\t\t\t0 runs, 2 hits, 0 errors, 1 LOB. Cubs 1, Dodgers 1.
+Top of the 4th, Cubs Batting, Tied 1-1, Dodgers' Yoshinobu Yamamoto facing 4-5-6
+t4\t1-1\t0\t---\t3,(0-2) \tO\tCHC\tCody Bellinger\tYoshinobu Yamamoto\t-3%\t47%\tGroundout: SS-1B (SS-2B)
+t4\t1-1\t1\t---\t3,(1-1) \t\tCHC\tIsaac Paredes\tYoshinobu Yamamoto\t3%\t50%\tSingle to CF (Line Drive to Deep LF-CF)
+t4\t1-1\t1\t1--\t2,(0-1) \tOO\tCHC\tMichael Busch\tYoshinobu Yamamoto\t-6%\t44%\tGround Ball Double Play: 1B-SS-1B (Weak 1B)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 0 LOB. Cubs 1, Dodgers 1.
+Bottom of the 4th, Dodgers Batting, Tied 1-1, Cubs' Shota Imanaga facing 3-4-5
+b4\t1-1\t0\t---\t4,(1-2) \tO\tLAD\tFreddie Freeman\tShota Imanaga\t3%\t47%\tGroundout: SS-1B (Deep SS-2B)
+b4\t1-1\t1\t---\t1,(0-0) \tR\tLAD\tTommy Edman\tShota Imanaga\t-14%\t33%\tHome Run (Fly Ball to Deep LF-CF)
+b4\t2-1\t1\t---\t2,(1-0) \tO\tLAD\tAndy Pages\tShota Imanaga\t1%\t35%\tFlyball: RF (Deep CF-RF)
+b4\t2-1\t2\t---\t8,(3-2) \tO\tLAD\tMiguel Rojas\tShota Imanaga\t1%\t36%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 0 LOB. Cubs 1, Dodgers 2.
+Top of the 5th, Cubs Batting, Behind 1-2, Dodgers' Ryan Brasier facing 7-8-9
+\t\t\t\t\t\t\t\t\t
+Ryan Brasier replaces Yoshinobu Yamamoto pitching
+
+t5\t1-2\t0\t---\t3,(0-2) \tO\tCHC\tNico Hoerner\tRyan Brasier\t-3%\t32%\tStrikeout Swinging
+t5\t1-2\t1\t---\t3,(0-2) \t\tCHC\tPete Crow-Armstrong\tRyan Brasier\t4%\t36%\tSingle to RF (Ground Ball thru 2B-1B)
+t5\t1-2\t1\t1--\t1,(0-0) \tO\tCHC\tMiguel Amaya\tRyan Brasier\t-3%\t33%\tBunt Groundout: P-1B/Sacrifice; P. Crow-Armstrong to 2B
+t5\t1-2\t2\t-2-\t2,(1-0) \tO\tCHC\tIan Happ\tRyan Brasier\t-5%\t29%\tGroundout: 1B-P (2B-1B)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Cubs 1, Dodgers 2.
+Bottom of the 5th, Dodgers Batting, Ahead 2-1, Cubs' Shota Imanaga facing 7-8-9
+b5\t2-1\t0\t---\t3,(2-0) \tR\tLAD\tMax Muncy\tShota Imanaga\t-11%\t18%\tHome Run (Fly Ball to Deep RF)
+b5\t3-1\t0\t---\t6,(3-2) \tO\tLAD\tEnrique Hernández\tShota Imanaga\t1%\t20%\tStrikeout Swinging
+b5\t3-1\t1\t---\t7,(3-2) \tO\tLAD\tAustin Barnes\tShota Imanaga\t1%\t21%\tPopfly: 2B (Deep 2B-1B)
+b5\t3-1\t2\t---\t2,(0-1) \tO\tLAD\tShohei Ohtani\tShota Imanaga\t1%\t21%\tFlyball: RF (Deep CF-RF)
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 0 LOB. Cubs 1, Dodgers 3.
+Top of the 6th, Cubs Batting, Behind 1-3, Dodgers' Blake Treinen facing 2-3-4
+\t\t\t\t\t\t\t\t\t
+Blake Treinen replaces Ryan Brasier pitching
+
+t6\t1-3\t0\t---\t4,(2-1) \tO\tCHC\tDansby Swanson\tBlake Treinen\t-3%\t18%\tFlyball: RF (Deep CF-RF)
+t6\t1-3\t1\t---\t2,(1-0) \t\tCHC\tSeiya Suzuki\tBlake Treinen\t5%\t24%\tDouble to CF (Line Drive to Deep CF)
+t6\t1-3\t1\t-2-\t8,(3-2) \tO\tCHC\tCody Bellinger\tBlake Treinen\t-5%\t19%\tFlyball: LF (Short LF)
+t6\t1-3\t2\t-2-\t7,(3-2) \tO\tCHC\tIsaac Paredes\tBlake Treinen\t-4%\t15%\tGroundout: 3B-1B
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Cubs 1, Dodgers 3.
+Bottom of the 6th, Dodgers Batting, Ahead 3-1, Cubs' Shota Imanaga facing 2-3-4
+b6\t3-1\t0\t---\t2,(1-0) \tO\tLAD\tMookie Betts\tShota Imanaga\t1%\t16%\tLineout: CF (Deep CF)
+b6\t3-1\t1\t---\t5,(1-2) \tO\tLAD\tFreddie Freeman\tShota Imanaga\t1%\t17%\tStrikeout Swinging
+b6\t3-1\t2\t---\t6,(3-2) \tO\tLAD\tTommy Edman\tShota Imanaga\t1%\t18%\tGroundout: SS-1B (SS-3B Hole)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Cubs 1, Dodgers 3.
+Top of the 7th, Cubs Batting, Behind 1-3, Dodgers' Alex Vesia facing 6-7-8
+\t\t\t\t\t\t\t\t\t
+Alex Vesia replaces Blake Treinen pitching
+
+t7\t1-3\t0\t---\t3,(1-1) \tO\tCHC\tMichael Busch\tAlex Vesia\t-3%\t14%\tPopfly: SS (Weak SS)
+t7\t1-3\t1\t---\t3,(2-0) \t\tCHC\tNico Hoerner\tAlex Vesia\t4%\t18%\tSingle to CF (Ground Ball thru SS-2B)
+t7\t1-3\t1\t1--\t2,(1-0) \tO\tCHC\tPete Crow-Armstrong\tAlex Vesia\t-4%\t14%\tFlyball: RF (RF Line)
+t7\t1-3\t2\t1--\t1,(0-0) \tO\tCHC\tMiguel Amaya\tAlex Vesia\t-3%\t11%\tFlyball: CF (Deep CF-RF)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Cubs 1, Dodgers 3.
+Bottom of the 7th, Dodgers Batting, Ahead 3-1, Cubs' Shota Imanaga facing 5-6-7
+b7\t3-1\t0\t---\t1,(0-0) \t\tLAD\tAndy Pages\tShota Imanaga\t-1%\t9%\tSingle to SS (Ground Ball to SS-3B Hole)
+b7\t3-1\t0\t1--\t1,(0-1) \tO\tLAD\tMiguel Rojas\tShota Imanaga\t2%\t12%\tA. Pages Picked off 1B (P-1B)
+\t\t\t\t\t\t\t\t\tTag play Challenged by CHC manager (Craig Counsell): Original call overturned as shown.
+b7\t3-1\t1\t---\t2,(0-1) \t\tLAD\tMiguel Rojas\tShota Imanaga\t-1%\t11%\tSingle to CF (Line Drive to Short CF)
+b7\t3-1\t1\t1--\t3,(1-1) \tO\tLAD\tMax Muncy\tShota Imanaga\t1%\t12%\tFlyball: CF (Deep CF)
+b7\t3-1\t2\t1--\t2,(0-1) \tO\tLAD\tEnrique Hernández\tShota Imanaga\t1%\t13%\tFlyball: CF (Deep CF-RF)
+\t\t\t\t\t\t\t\t\t0 runs, 2 hits, 0 errors, 1 LOB. Cubs 1, Dodgers 3.
+Top of the 8th, Cubs Batting, Behind 1-3, Dodgers' Alex Vesia facing 1-2-3
+t8\t1-3\t0\t---\t4,(3-0) \t\tCHC\tIan Happ\tAlex Vesia\t7%\t20%\tWalk
+\t\t\t\t\t\t\t\t\t
+Evan Phillips replaces Alex Vesia pitching
+
+t8\t1-3\t0\t1--\t1,(0-0) \t\tCHC\tDansby Swanson\tEvan Phillips\t11%\t30%\tReached on E2 (throw) (Ground Ball); I. Happ to 2B; D. Swanson to 1B
+t8\t1-3\t0\t12-\t7,(2-2) \tRR\tCHC\tSeiya Suzuki\tEvan Phillips\t33%\t63%\tSingle to CF (Ground Ball thru SS-2B); I. Happ Scores; D. Swanson Scores/Adv on E8 (throw)/No RBI/unER; S. Suzuki to 2B
+\t\t\t\t\t\t\t\t\tStadium Boundary Call Challenged by CHC manager (Craig Counsell): Original call upheld upon review.
+t8\t3-3\t0\t-2-\t,(3-0) \t\tCHC\tCody Bellinger\tEvan Phillips\t3%\t67%\tIntentional Walk
+t8\t3-3\t0\t12-\t5,(1-2) \tO\tCHC\tIsaac Paredes\tEvan Phillips\t-10%\t57%\tStrikeout Looking
+t8\t3-3\t1\t12-\t1,(0-0) \tR\tCHC\tMichael Busch\tEvan Phillips\t22%\t79%\tFielder's Choice 2B; S. Suzuki Scores/No RBI/unER; C. Bellinger to 2B/Adv on E4; M. Busch to 1B
+t8\t4-3\t1\t12-\t8,(3-2) \tR\tCHC\tNico Hoerner\tEvan Phillips\t13%\t92%\tDouble to LF (Line Drive to Deep LF Line); C. Bellinger Scores/unER; M. Busch to 3B
+t8\t5-3\t1\t-23\t2,(1-0) \tRO\tCHC\tPete Crow-Armstrong\tEvan Phillips\t2%\t93%\tGroundout: 2B-1B (2B-1B); M. Busch Scores/unER; N. Hoerner to 3B
+t8\t6-3\t2\t--3\t1,(0-0) \tO\tCHC\tMiguel Amaya\tEvan Phillips\t-1%\t92%\tFlyball: RF (Short RF Line)
+\t\t\t\t\t\t\t\t\t5 runs, 2 hits, 3 errors, 1 LOB. Cubs 6, Dodgers 3.
+Bottom of the 8th, Dodgers Batting, Behind 3-6, Cubs' Nate Pearson facing 9-1-2
+\t\t\t\t\t\t\t\t\t
+Nate Pearson replaces Shota Imanaga pitching
+Gavin Lux pinch hits for Austin Barnes (C) batting 9th
+
+b8\t3-6\t0\t---\t5,(2-2) \tO\tLAD\tGavin Lux\tNate Pearson\t3%\t94%\tLineout: LF (Deep LF-CF)
+b8\t3-6\t1\t---\t1,(0-0) \tO\tLAD\tShohei Ohtani\tNate Pearson\t2%\t96%\tFlyball: CF (Deep CF-RF)
+b8\t3-6\t2\t---\t3,(0-2) \t\tLAD\tMookie Betts\tNate Pearson\t-1%\t95%\tSingle to CF (Line Drive to Deep CF)
+b8\t3-6\t2\t1--\t5,(3-1) \tO\tLAD\tFreddie Freeman\tNate Pearson\t2%\t97%\tGroundout: 3B-1B
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Cubs 6, Dodgers 3.
+Top of the 9th, Cubs Batting, Ahead 6-3, Dodgers' Brusdar Graterol facing 1-2-3
+\t\t\t\t\t\t\t\t\t
+Brusdar Graterol replaces Evan Phillips pitching
+Will Smith replaces Andy Pages (LF) playing C batting 5th
+Gavin Lux moves from PH to 2B
+Enrique Hernández moves from 2B to LF
+
+t9\t6-3\t0\t---\t5,(3-1) \tO\tCHC\tIan Happ\tBrusdar Graterol\t0%\t96%\tGroundout: SS-1B (SS-2B)
+t9\t6-3\t1\t---\t5,(2-2) \tO\tCHC\tDansby Swanson\tBrusdar Graterol\t0%\t96%\tGroundout: SS-1B
+t9\t6-3\t2\t---\t4,(1-2) \t\tCHC\tSeiya Suzuki\tBrusdar Graterol\t0%\t96%\tSingle to CF (Line Drive to CF-RF)
+t9\t6-3\t2\t1--\t4,(2-1) \t\tCHC\tCody Bellinger\tBrusdar Graterol\t0%\t97%\tSingle to LF (Line Drive); S. Suzuki to 2B
+t9\t6-3\t2\t12-\t3,(0-2) \tO\tCHC\tIsaac Paredes\tBrusdar Graterol\t-1%\t96%\tFlyball: CF (Deep CF)
+\t\t\t\t\t\t\t\t\t0 runs, 2 hits, 0 errors, 2 LOB. Cubs 6, Dodgers 3.
+Bottom of the 9th, Dodgers Batting, Behind 3-6, Cubs' Porter Hodge facing 4-5-6
+\t\t\t\t\t\t\t\t\t
+Porter Hodge replaces Nate Pearson pitching
+
+b9\t3-6\t0\t---\t2,(0-1) \tO\tLAD\tTommy Edman\tPorter Hodge\t2%\t98%\tGroundout: 2B-1B (Deep 2B-1B)
+b9\t3-6\t1\t---\t3,(1-1) \tO\tLAD\tWill Smith\tPorter Hodge\t1%\t100%\tLineout: SS (SS-3B Hole)
+b9\t3-6\t2\t---\t7,(3-2) \t\tLAD\tMiguel Rojas\tPorter Hodge\t-1%\t99%\tWalk
+b9\t3-6\t2\t1--\t1,(0-0) \t\tLAD\tMax Muncy\tPorter Hodge\t0%\t98%\tDefensive Indifference; M. Rojas to 2B
+b9\t3-6\t2\t-2-\t3,(1-1) \t\tLAD\tMax Muncy\tPorter Hodge\t0%\t98%\tDefensive Indifference; M. Rojas to 3B
+b9\t3-6\t2\t--3\t6,(3-2) \tO\tLAD\tMax Muncy\tPorter Hodge\t2%\t100%\tFlyball: CF (Deep CF-RF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Cubs 6, Dodgers 3.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Los Angeles Dodgers Schedule Chicago Cubs Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Chicago Cubs vs Los Angeles Dodgers Box Score: September 10, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/LAN/LAN202409100.shtml 
+ ----- 

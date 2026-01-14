@@ -1,0 +1,321 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Cubs
+75-70, 37-37 Away
+6
+Final
+Dodgers
+86-59, 47-27 Home
+3
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Cubs beat Dodgers 6-3 in Yamamoto-Imanaga matchup as LA makes 3 errors in 5-run 8th inning
+— The Cubs rallied for the tying and go-ahead runs in a five-run eighth inning, when the Los Angeles Dodgers committed three errors in a 6-3 loss to Chicago on Tuesday night that featured a matchup of Japanese star pitchers <a...
+Sep 11, 2024, 06:17 am - AP
+
+
+CHC
+
+
+LAD
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t1\t0\t0\t0\t0\t0\t5\t0\t6\t10\t0
+0\t1\t0\t1\t1\t0\t0\t0\t0\t3\t8\t4
+WIN
+S. Imanaga
+13-3
+7.0 IP, 7 H, 3 ER, 4 K, 0 BB
+LOSS
+E. Phillips
+3-1
+1.0 IP, 2 H, 0 ER, 1 K, 1 BB
+SAVE
+P. Hodge
+5
+1.0 IP, 0 H, 0 ER, 0 K, 1 BB
+Scoring Summary
+INNING
+\tCHC\tLAD
+\t\t2nd\tParedes scored on error, Crow-Armstrong safe at first on fielding error by first baseman Freeman, Hoerner to second.\t1\t0
+\t\t2nd\tEdman homered to left (357 feet).\t1\t1
+\t\t4th\tEdman homered to center (388 feet).\t1\t2
+\t\t5th\tMuncy homered to right center (402 feet).\t1\t3
+\t\t8th\tSuzuki singled to center, Happ scored and Swanson scored on throwing error by center fielder Edman, Suzuki to second.\t3\t3
+\t\t8th\tBusch grounded into fielder's choice to second, Suzuki scored on error, Bellinger safe at second on fielding error by second baseman E. Hernández.\t4\t3
+\t\t8th\tHoerner doubled to left, Bellinger scored, Busch to third.\t5\t3
+\t\t8th\tCrow-Armstrong grounded out to second, Busch scored, Hoerner to third.\t6\t3
+Full Play-By-Play
+Cubs
+Dodgers
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+I. Happ
+LF
+\t0-4\t1\t0\t0\t.243
+
+D. Swanson
+SS
+\t0-5\t1\t0\t0\t.235
+
+S. Suzuki
+DH
+\t3-5\t1\t0\t1\t.273
+
+C. Bellinger
+RF
+\t1-4\t1\t0\t0\t.265
+
+I. Paredes
+3B
+\t2-5\t1\t0\t0\t.186
+
+M. Busch
+1B
+\t0-4\t1\t0\t0\t.249
+
+N. Hoerner
+2B
+\t3-4\t0\t0\t1\t.263
+
+P. Crow-Armstrong
+CF
+\t1-4\t0\t0\t1\t.240
+
+M. Amaya
+C
+\t0-3\t0\t0\t0\t.228
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+S. Imanaga
+\t7.0\t7\t3\t0\t4\t89-58\t3.03
+
+N. Pearson
+\t1.0\t1\t0\t0\t0\t14-9\t4.40
+
+P. Hodge
+\t1.0\t0\t0\t1\t0\t18-10\t1.66
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+S. Ohtani
+DH
+\t0-4\t0\t0\t0\t.290
+
+M. Betts
+RF
+\t1-4\t0\t0\t0\t.306
+
+F. Freeman
+1B
+\t0-4\t0\t0\t0\t.285
+
+T. Edman
+CF
+\t2-4\t2\t2\t2\t.293
+
+A. Pages
+LF
+\t1-3\t0\t0\t0\t.243
+
+W. Smith
+C
+\t0-1\t0\t0\t0\t.244
+
+M. Rojas
+SS
+\t1-3\t0\t0\t0\t.286
+
+M. Muncy
+3B
+\t1-4\t1\t1\t1\t.228
+
+E. Hernández
+2B-LF
+\t1-3\t0\t0\t0\t.216
+
+A. Barnes
+C
+\t1-2\t0\t0\t0\t.265
+
+G. Lux
+PH-2B
+\t0-1\t0\t0\t0\t.249
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+Y. Yamamoto
+\t4.0\t3\t0\t0\t8\t59-42\t2.77
+
+R. Brasier
+\t1.0\t1\t0\t0\t1\t9-8\t3.09
+
+B. Treinen
+\t1.0\t1\t0\t0\t0\t21-12\t2.33
+
+A. Vesia
+\t1.0\t1\t1\t1\t0\t13-5\t1.85
+
+E. Phillips
+\t1.0\t2\t0\t1\t1\t25-18\t3.02
+
+B. Graterol
+\t1.0\t2\t0\t0\t0\t21-13\t13.50
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Chicago Cubs (75-70, 37-37 Away)
+Shota Imanaga (15-3, 2.91)
+o8.5
++105
++130
+o7.5
+-120
++1.5
+-165
+Los Angeles Dodgers (86-59, 47-27 Home)
+Yoshinobu Yamamoto (7-2, 3.00)
+-160
+ML
+-155
+u7.5
+EVEN
+-1.5
++140
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+CUBS
+DODGERS
+CHC 100
+%
+CHC 6LAD 3
+
+Bottom 9th
+Muncy flied out to center.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+CHC
+LAD
+Hits
+10
+8
+Home Runs
+0
+3
+Total Bases
+12
+17
+Runners LOB
+8
+4
+Full Team Stats
+Regular Season Series
+Current Series
+CHC win 2-1
+Cubs
+10
+Dodgers
+4
+Game 1
+9/10
+Final
+Cubs
+6
+Dodgers
+3
+Game 2
+9/11
+Final
+Cubs
+8
+Dodgers
+10
+Game 3
+9/12
+Final
+Game Information
+Dodger Stadium
+2:10 AM, September 11, 2024
+Coverage: TBS
+Los Angeles, California
+Attendance: 51,923
+Game Time:
+2:36
+Umpires:
+Home Plate Umpire - Cory Blaser
+First Base Umpire - Manny Gonzalez
+Second Base Umpire - Rob Drake
+Third Base Umpire - Todd Tichenor
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570634/cubs-dodgers 
+ ----- 

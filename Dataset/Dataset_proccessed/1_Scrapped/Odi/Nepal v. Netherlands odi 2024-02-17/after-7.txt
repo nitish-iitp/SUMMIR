@@ -1,0 +1,377 @@
+Match Ticker
+Premier League
+Other Competitions
+Opta Football Stats
+Opta Football Predictions
+Newsletter
+American Football
+More
+NBA
+NCAA
+PREMIER LEAGUE
+Steele or Verbruggen: It’s Time for De Zerbi To Choose
+FEB 17, 2024
+OLIVER HOPKINS / AUTHOR, MATT SISNEROS / DESIGN, JONATHAN MANUEL / DATA VIZ
+Twitter
+WhatsApp
+Email
+Share
+
+Brighton are about to break an obscure Premier League record. Roberto De Zerbi is on the cusp of changing his starting goalkeeper on 15 different occasions, which would be the most by any Premier League side in a single season. But why? And is it even working?
+
+Chopping and changing his starting XI is nothing new for Roberto De Zerbi. The Brighton manager has made a startling 91 changes to his starting lineups this season, 23 more than any other team in the top flight (Nottingham Forest, 68). Brighton’s figure is also almost three times as many as Unai Emery at Aston Villa, who’s made a league-low 32 tweaks.
+
+In fairness, Brighton have been unluckier than most in terms of losing players to long-term injuries. Solly March, Julio Enciso, Pervis Estupiñán, Joël Veltman and Ansu Fati have all had lengthy spells on the sidelines and that has forced De Zerbi into necessary changes.
+
+One position he has had full control over has been in goal. But even then, neither Jason Steele nor Bart Verbruggen have been spared.
+
+De Zerbi has rotated his goalkeepers 14 times in the league, which is a joint record for the number of different goalkeeper rotations for a single team in a season in Premier League history. With 14 games left to go, it seems fairly likely Brighton are going to break this record.
+
+Rotation hasn’t just been limited to the league, either. Verbruggen started in each of Brighton’s domestic cup matches – twice in the FA Cup and once in the League Cup – but Steele was favoured in the Europa League, starting in four of Brighton’s group games.
+
+The fact De Zerbi has been so liberal with rotating his goalkeepers shouldn’t come as a surprise. After all, he warned us ahead of the season that Steele and Verbruggen would receive a 50-50 split of minutes across all competitions.
+
+Unlike Mikel Arteta, whose announcement that he’d be rotating his two No. 1 goalkeepers Aaron Ramsdale and David Raya was met with heavy scepticism, De Zerbi’s didn’t ruffle any feathers. What’s more, De Zerbi has actually followed through on his promise, while Arteta has mainly reneged on his: Raya is now the clear No. 1 having started 19 of Arsenal’s 24 league matches.
+
+It remains exceptionally rare for teams to rotate their goalkeepers with anywhere near the same frequency as outfielders.
+
+Across the last five Premier League seasons, there have been 20 instances of a Premier League team having two of its goalkeepers make 10+ starts in a single season. And of that total, Brighton’s current Steele-Verbruggen roulette is the only example that can be considered a genuine rotation. The other instances can be attributed to one goalkeeper suffering injury or a genuine change in who is the preferred first-choice.
+
+The prevailing wisdom is that goalkeeper is too specialised a position for rotation; that goalkeepers benefit from the confidence and rhythm that come with playing consecutive games. That defences also benefit from having the same keeper behind them.
+
+So, why is De Zerbi bucking this trend?
+
+The simplest assumption is that his two keepers excel in different areas of the game. Much of the discourse between Ramsdale and Raya was centred on the assumption that the former was the better shot-stopper, and the latter was better with the ball at his feet.
+
+That parallel has been applied by some to Brighton’s goalkeeping duo, with Steele praised for his ball-playing abilities – not least by De Zerbi himself – and Verbruggen considered the superior shot-stopper.
+
+But a deeper look into the data suggests that Verbruggen can match Steele in the ball-playing department, while also bettering him with his saves.
+
+“I have one core quality and that is my feet,” Verbruggen told Belgian outlet HLN in February last year while at Anderlecht. “I feel very comfortable on the ball, I excel at that.”
+
+That’s not just talk. Making the considerable step up to the Premier League this term, the Dutch goalkeeper has completed 34.9 passes per game in the top flight this season, doing so at an 89.5% pass success rate. Both are highs for any goalkeeper in the entire division.
+
+And De Zerbi does not change his approach in any way when Verbruggen is in goal, encouraging his side to play out from the back just as often.
+
+Jonathan Manuel / Data Analyst
+
+Overall, a staggering 87.8% of Brighton’s goal-kicks this season end in their own box, by far the largest proportion of any team, and Steele and Verbruggen’s kicking style remains very similar in how they distribute from the back.
+
+Jonathan Manuel / Data Analyst
+
+We can use sequences to get more insight into what happens after Steele or Verbruggen are involved in Brighton’s passing moves. Looking at how many of those passing moves actually end in a shot reveals that Verbruggen is slightly more effective when it comes to helping his side generate chances. The Dutchman is involved in more shot-ending open-play sequences than his counterpart, and at a rate of 1.6 involvements per 90 minutes, he trails only Ederson (2.3) and Alisson (2.0) in this regard, both of whom play for extremely dominant teams.
+
+Now, playing out from the back with this regularity comes with its risks.
+
+And that’s perhaps where the more inexperienced Verbruggen has fallen short this year. He’s made two errors directly leading to opposition goals this season – one against Bournemouth in September where he dallied on the ball, got robbed and Dominic Solanke had an open goal to finish into, and a second against Crystal Palace where his attempted clearance was intercepted by Michael Olise and eventually led to Jordan Ayew’s opener. Interestingly, after both those errors, De Zerbi dropped Verbruggen for the next league fixture, perhaps as a way of taking him out of the limelight.
+
+Steele, in contrast, hasn’t made a single error that’s even led to a shot this year. He’s cleaner with the ball at his feet and also plainly very capable of playing the way De Zerbi wants to. In high-profile, high-leverage situations, maybe that trust is something De Zerbi is calling upon.
+
+If the two profile similarly in possession, then it’s in their shot-stopping where Verbruggen has upside.
+
+Both keepers are having an underwhelming season in terms of their goals prevented metrics, with both conceding more goals than their expected goals on target figures suggest they ‘should have’.
+
+Steele has conceded 23 goals from 21.5 xGOT, letting in 1.5 more goals than the average goalkeeper would have done, while Verbruggen is down at -2 goals prevented. Those figures put both Brighton goalkeepers in the bottom seven for all Premier League stoppers this season.
+
+It’s worth pointing out that both goalkeepers are part of a porous Brighton defence that has been very open at times this term. Each shot the Seagulls have conceded has been worth 0.12 xG on average – the sixth-worst rate in the league – so it’s not surprising to see both struggle to save high-value chances. Verbruggen’s save percentage of 65.9% is roughly league average, while Steele’s (59.0%) is the second-worst of any keeper in the top flight.  
+
+Looking back to last season paints a similar picture for Steele, who conceded 20 goals from 18.7 on target (-1.3 goals prevented), which was better than his teammate Robert Sánchez (-2.5) but still nothing to write home about. Verbruggen, albeit in the inferior Belgian Pro League, had a far better 2022-23 campaign with his hands, preventing 3.4 goals for Anderlecht (the third-highest for any goalkeeper) as well as boasting the best save percentage of any keeper in the league (75.3%).
+
+Verbruggen’s shown the potential to pair excellent distribution skills with above-average shot-stopping and at the tender age of 21 there’s plenty of reason to suggest he can combine those in the cauldron of the Premier League. The fact he made his first international senior appearances under Ronald Koeman for the Netherlands in Euro 2024 qualifiers in October shows how highly thought of he is. In making his debut against France, Verbruggen became the youngest Dutch goalkeeper to start a game since Jan van Beveren in 1967.
+
+With Steele aged 33, Verbruggen appears to be the future No. 1 at Brighton. Given his youth, there might need to be a bedding in process. De Zerbi even hinted to this in some interviews last year. Speaking in November 2023 after Steele had signed a new contract, his manager said: “Jason is playing well. I think he knows very well my idea. Verbruggen is not the same level but is very important for us now and the future.”
+
+But that was three months ago, and with Brighton on a torrid run of just four Premier League wins in their last 18 games, their season is in real danger of completely fizzling out.
+
+Perhaps it is time to start trusting Verbruggen. It’s not as if Brighton are any worse off with him in goal anyway, with their win percentage slightly higher in games when he’s started (40%) compared to when Steele’s started (35.7%).
+
+That doesn’t appear to have anything to do with the quality of opposition they’ve faced, either, with Steele playing against opponents with an average league position of 10th in the league when they’ve played Brighton, compared to 12th for Verbruggen.
+
+Verbruggen told reporters after Brighton’s 4-1 over Crystal Palace that he has mixed feelings about the rotation situation.
+
+“It’s the first time I have experienced [this rotation],” he said. “It has its challenges but there are good sides about it. The most important thing is I can genuinely say Jason is a brilliant person.”
+
+Steele may well be a great presence next to Verbruggen, but maybe it is finally time for De Zerbi to see if Brighton have found their long-term heir.
+
+Enjoy this? Subscribe to our new football newsletter to receive exclusive weekly content. You should also follow our social accounts over on X, Instagram, TikTok and Facebook.
+
+RELATED ARTICLES
+PREMIER LEAGUE
+Most Goal Involvements in a Premier League Season
+7 HOURS AGO MATT FURNISS
+PREMIER LEAGUE
+Mohamed Salah’s Remarkable Record Against Man Utd
+12 HOURS AGO RYAN BENSON
+PREMIER LEAGUE
+Could Man Utd Really Get Relegated? What the Opta Supercomputer Says
+12 HOURS AGO RYAN BENSON
+PREMIER LEAGUE
+Is Mohamed Salah on Track for the Best Individual Season in Premier League History?
+13 HOURS AGO RYAN BENSON
+Subscribe
+
+Sign up and be the first to receive exclusive stats, news, and updates from Opta Analyst.
+
+Country*
+Select A Country
+Canada
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Afghanistan
+Åland Islands
+Albania
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia (Plurinational State of)
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+United States Minor Outlying Islands
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (Democratic Republic of the)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran (Islamic Republic of)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia (the former Yugoslav Republic of)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova (Republic of)
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Korea (Democratic People's Republic of)
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Kosovo
+Réunion
+Romania
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Korea (Republic of)
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suricontent
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela (Bolivarian Republic of)
+Viet Nam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I agree to receive emails from Opta Analyst.
+See our Privacy Policy for more details.
+Privacy Policy
+Terms of Use
+Do Not Sell My Information
+Advertising
+Cookie Policy
+© 2025 Opta Analyst. All Rights Reserved.
+ 
+ 
+ ----- 
+ Source link : https://theanalyst.com/2024/02/steele-or-verbruggen-its-time-for-de-zerbi-to-choose 
+ ----- 

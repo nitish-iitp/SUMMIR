@@ -1,0 +1,248 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+AR10 mag extensions....Any out there?
+ 
+Thread starter
+grovermn5  
+Start date
+Jun 6, 2024
+grovermn5
+dumpster fire
+Full Member
+Minuteman
+Supporter
+Feb 6, 2012
+334
+68
+llinois
+Jun 6, 2024
+#1
+Does anyone know of magazine extension for ar10 mags that will ad 2-4 rounds?
+Maybe even the possibility of a 3d printed extension.....I don't believe there are any 15 rounds mags other than Armalite stuff?
+
+Interested in adding a little capacity to 10 round mags for PRS or field match stuff as 20 round mags can be too long.
+ 
+H
+hlee
+Sergeant
+Full Member
+Minuteman
+Jul 14, 2012
+12,531
+19,453
+46
+TX
+Jun 6, 2024
+#2
+Taran tactical makes a 5 round extender for pmags. You might need to do a bit of sculpting on the inner ribs to get reliable feeding. The extender allows the follower to move further down the mag than it is designed for. It moves below the guide ribs and can get stuck coming back up. I’ve had good success by making the “ramp” of the rib a more acute angle.
+
+I’m working from memory, but it should make sense if you open up a 10 rounder…
+ 
+ 
+Reactions:
+grovermn5
+bfoosh006
+Sergeant
+Full Member
+Minuteman
+Jun 13, 2007
+2,098
+1,308
+PNW
+Jun 7, 2024
+#3
+Warne makes a 5rd extension as well.
+https://www.midwestgunworks.com/page/mgwi/prod/5006
+
+SLR makes a 5rd
+https://slrrifleworks.com/pmag-25-lr-sr-gen-m3-extension/
+ 
+ 
+Reactions:
+grovermn5 and Redlion
+R
+Redlion
+Gunny Sergeant
+Full Member
+Minuteman
+Aug 21, 2022
+829
+1,805
+Midwest
+Jun 7, 2024
+#4
+bfoosh006 said:
+Warne makes a 5rd extension as well.
+https://www.midwestgunworks.com/page/mgwi/prod/5006
+
+SLR makes a 5rd
+https://slrrifleworks.com/pmag-25-lr-sr-gen-m3-extension/
+I presume that the stock springs will work fine?
+ 
+grovermn5
+dumpster fire
+Full Member
+Minuteman
+Supporter
+Feb 6, 2012
+334
+68
+llinois
+Jun 7, 2024
+#5
+hlee said:
+Taran tactical makes a 5 round extender for pmags. You might need to do a bit of sculpting on the inner ribs to get reliable feeding. The extender allows the follower to move further down the mag than it is designed for. It moves below the guide ribs and can get stuck coming back up. I’ve had good success by making the “ramp” of the rib a more acute angle.
+
+I’m working from memory, but it should make sense if you open up a 10 rounder…
+Click to expand...
+Thank you sir,
+I've tried one in the past so I understand what you're referring to.
+The rib does creat issues once you load the mag up past where the rib ends and will lock up the follower.
+ 
+bfoosh006
+Sergeant
+Full Member
+Minuteman
+Jun 13, 2007
+2,098
+1,308
+PNW
+Jun 8, 2024
+#6
+Redlion said:
+I presume that the stock springs will work fine?
+Honestly , I also would presume that... but there is a part of me that wonders if it would, in any given given application.
+I mean... would a cut down 20rd spring be better ? .. in your 10rd plus 5 extension ? Or, or for that matter, even a stock spring in a +5 with a 25rd mag ?
+
+I would certainly contact the manufacturers and ask.
+Tarten says...... No specialty tools, devices, or additional springs required for assembly/disassembly, simply pop off the insert at the bottom of the spring and slide on the extension.
+But that is for the 25rd / 20rd Magpuls.
+ 
+ 
+Reactions:
+Redlion
+H
+hlee
+Sergeant
+Full Member
+Minuteman
+Jul 14, 2012
+12,531
+19,453
+46
+TX
+Jun 8, 2024
+#7
+10 round pmags with 5 round extensions, using the stock 10 round spring, run fine in the 2 rifles I have used them in (1 bolt, one LR308). But, I used a thin chisel to reduce the sharpness of the transition of the guide ribs. It’s really just a few minutes of work. I would expect to need to do something similar for any mag/extension that uses a similar guide rib for the follower, where the follower is allowed to traverse below said rib.
+ 
+ 
+Reactions:
+bfoosh006 and Redlion
+702lineman
+Private
+Supporter
+Full Member
+Minuteman
+Feb 19, 2017
+872
+449
+southern IL
+Jun 8, 2024
+#8
+Your boss is watching you Grover!!!!!
+ 
+grovermn5
+dumpster fire
+Full Member
+Minuteman
+Supporter
+Feb 6, 2012
+334
+68
+llinois
+Jun 8, 2024
+#9
+As
+
+702lineman said:
+Your boss is watching you Grover!!!!!
+Well, a certain person said he had a couple for me but he couldn't find em. Now I gotta look for other sources
+ 
+WindstormSCR
+Gunny Sergeant
+Full Member
+Minuteman
+Jun 28, 2021
+853
+722
+Maryland
+Jun 10, 2024
+#10
+Personally I'd go a different way, and carefully cut down a 20/25 pmag to your desired length, and then clip the spring incrementally until it works as desired. cut just above the baseplate locking elements, cut at desired point, carefully rejoin and then wrap with fiber tape. maximizes your capacity while giving you as much length as you can work with, and probably for a lot less cost aside from time.
+ 
+You must log in or register to reply here.
+Similar threads
+	
+Accessories *New Product* Dasher Decks for MDT BR/Dasher mag with Area 419 Mag Extension
+GT_Actual Oct 20, 2024 Buy - Sell - Trade
+12
+Thursday at 10:46 AM
+S
+	
+First AR10/LR308 build.. Barrel questions
+slythy Nov 11, 2024 Semi-Automatic Rifles
+14
+Nov 13, 2024
+	
+AR10 short mag cartridges
+Top O' Texas Nov 22, 2023 Semi-Automatic Rifles
+3
+Nov 22, 2023
+	
+KRG Mag Guard - stop your mags from binding up!
+LRshooter6mm Aug 29, 2024 All Things Rimfire
+0
+Aug 29, 2024
+	
+Accessories MDT BR 3D Printed Mag Extensions
+Jo3tek Mar 3, 2024 Buy - Sell - Trade
+0
+Mar 3, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/ar10-mag-extensions-any-out-there.7220903/ 
+ ----- 

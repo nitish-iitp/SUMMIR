@@ -1,0 +1,603 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+Manage Preferences
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Toronto Blue Jays Schedule
+Miami Marlins Schedule
+Miami Marlins vs Toronto Blue Jays Box Score: September 28, 2024
+MLB Scores — September 28, 2024
+PIT	9	Final
+NYY	4	
+CHW	4	Final
+DET	0	
+CIN	0	Final
+CHC	3	
+MIA	8	Final
+TOR	1	
+STL	5	Final
+SFG	6	
+PHI	3	Final
+WSN	6	
+TBR	7	Final
+BOS	2	
+HOU	4	Final
+CLE	3	
+NYM	0	Final
+MIL	6	
+BAL	9	Final
+MIN	2	
+KCR	1	Final
+ATL	2	
+SDP	5	Final
+ARI	0	
+LAD	13	Final
+COL	2	
+TEX	9	Final
+LAA	8	
+OAK	6	Final
+SEA	7	(10)
+MLB Scores & Standings on this Day
+Miami Marlins
+8
+61-100
+Prev Game Next Game
+ 
+Toronto Blue Jays
+1
+74-87
+Prev Game Next Game
+Saturday, September 28, 2024
+Start Time: 3:07 p.m. Local
+Attendance: 35,733
+Venue: Rogers Centre
+Game Duration: 2:33
+Day Game, on artificial turf
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Miami Marlins	2	0	0	0	0	3	0	3	0	8	11	0
+
+	Toronto Blue Jays	1	0	0	0	0	0	0	0	0	1	4	0
+WP: Xzavion Curry (2-2) • LP: Yariel Rodríguez (1-8) • SV: Darren McCaughan (2)
+Miami Marlins 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Xavier Edwards SS	4	1	1	0	1	1	5	.326	.396	.421	.817	23	13	0.046	0.38	0.061	-0.015	0%	0.00	0.0	1	2	2B
+Connor Norby 3B	5	0	0	0	0	2	5	.241	.300	.448	.748	20	16	-0.095	0.75	0.000	-0.095	0%	0.00	-1.2	1	3	
+Jake Burger 1B	5	1	1	0	0	0	5	.250	.301	.461	.762	13	9	-0.008	0.57	0.037	-0.046	0%	0.00	-0.3	11	0	
+Jesús Sánchez RF	3	3	2	0	1	0	4	.254	.316	.421	.736	18	12	0.073	0.60	0.083	-0.010	0%	0.00	1.2	1	0	SB
+Jonah Bride DH	4	0	1	1	0	1	4	.271	.351	.459	.809	18	10	0.026	1.14	0.107	-0.081	0%	0.00	-0.1	0	0	
+Griffin Conine LF	4	2	3	1	0	0	4	.282	.341	.474	.816	13	8	0.151	1.12	0.167	-0.016	0%	0.00	2.1	1	0	2B
+Dane Myers CF	4	1	2	5	0	2	4	.264	.337	.451	.787	19	12	0.109	1.20	0.164	-0.055	0%	0.00	3.2	4	0	HR,2B
+Javier Sanoja 2B	4	0	0	0	0	1	4	.229	.250	.286	.536	11	9	-0.081	0.62	0.000	-0.081	0%	0.00	-1.4	2	3	
+Jhonny Pereda C	4	0	1	1	0	1	4	.231	.250	.231	.481	10	7	0.004	0.55	0.036	-0.031	0%	0.00	-0.0	5	1	
+																							
+Xzavion Curry P																					1	0	
+   Darren McCaughan P																					0	0	
+Team Totals	37	8	11	8	2	8	39	.297	.333	.459	.793	145	96	0.225	0.75	0.655	-0.430	0.00%	0.00	3.6	27	9	
+2B: Griffin Conine (4, off Yariel Rodríguez); Xavier Edwards (12, off Yariel Rodríguez); Dane Myers (6, off Brendon Little).
+HR: Dane Myers (3, off Génesis Cabrera, 8th inn, 2 on, 1 out to Deep LF-CF).
+TB: Dane Myers 6; Griffin Conine 4; Jesús Sánchez 2; Xavier Edwards 2; Jonah Bride; Jake Burger; Jhonny Pereda.
+RBI: Dane Myers 5 (19); Jonah Bride (37); Jhonny Pereda (4); Griffin Conine (12).
+2-out RBI: Griffin Conine; Jonah Bride; Jhonny Pereda.
+Team LOB: 4.
+With RISP: 7 for 11.
+Fielding
+DP: 1. Connor Norby-Javier Sanoja-Jake Burger.
+Baserunning
+SB: Jesús Sánchez (16, 2nd base off Génesis Cabrera/Alejandro Kirk).
+Toronto Blue Jays 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+George Springer RF	3	0	1	0	1	0	4	.220	.303	.371	.674	22	13	-0.006	0.57	0.029	-0.034	0%	0.00	0.2	3	0	SB
+Nathan Lukes LF	4	1	1	1	0	1	4	.303	.371	.447	.818	16	10	0.051	0.58	0.099	-0.048	0%	0.00	0.2	0	1	HR
+Vladimir Guerrero Jr. DH	4	0	0	0	0	1	4	.324	.395	.546	.941	15	11	-0.064	0.64	0.000	-0.064	0%	0.00	-0.9	0	0	
+Spencer Horwitz 1B	4	0	1	0	0	0	4	.268	.358	.437	.795	15	10	-0.041	0.42	0.000	-0.042	0%	0.00	-0.2	7	0	
+Alejandro Kirk C	3	0	0	0	1	0	4	.253	.319	.359	.677	13	9	0.021	0.44	0.041	-0.020	0%	0.00	-0.2	9	0	
+Ernie Clement SS	3	0	1	0	0	0	3	.265	.287	.412	.699	6	5	-0.114	1.04	0.004	-0.118	0%	0.00	-0.6	0	1	GDP
+Addison Barger 3B	3	0	0	0	0	0	3	.198	.251	.353	.604	8	6	-0.039	0.52	0.000	-0.039	0%	0.00	-0.6	1	1	
+Davis Schneider 2B	3	0	0	0	0	1	3	.193	.282	.345	.627	13	8	-0.045	0.60	0.000	-0.045	0%	0.00	-0.6	2	3	
+Joey Loperfido CF	3	0	0	0	0	2	3	.218	.268	.356	.624	11	7	-0.038	0.51	0.000	-0.038	0%	0.00	-0.6	4	0	
+																							
+Yariel Rodríguez P																					1	0	
+   Brendon Little P																					0	0	
+   Erik Swanson P																					0	0	
+   Génesis Cabrera P																					0	0	
+   Nick Robertson P																					0	1	
+Team Totals	30	1	4	1	2	5	32	.133	.188	.233	.421	119	79	-0.275	0.58	0.173	-0.448	0.00%	0.00	-3.4	27	7	
+HR: Nathan Lukes (1, off Xzavion Curry, 1st inn, 0 on, 1 out to Deep RF Line).
+TB: Nathan Lukes 4; Spencer Horwitz; George Springer; Ernie Clement.
+GIDP: Ernie Clement (11).
+RBI: Nathan Lukes (10).
+Team LOB: 4.
+With RISP: 0 for 2.
+Fielding
+Outfield Assists: Nathan Lukes (Dane Myers at home plate).
+Baserunning
+SB: George Springer (16, 2nd base off Xzavion Curry/Jhonny Pereda).
+Miami Marlins 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Xzavion Curry, W (2-2)	5	2	1	1	1	1	1	4.64	17	65	42	25	2	15	5	10	3	0	59			0.202	0.89	0.00%	0.00	1.4
+Darren McCaughan, S (2)	4	2	0	0	1	4	0	6.21	15	54	37	19	2	16	5	5	1	0		0	0	0.073	0.21	0.00%	0.00	1.9
+Team Totals	9	4	1	1	2	5	1	1.00	32	119	79	44	4	31	10	15	4	0	59	0	0	0.275	0.58	0.00%	0.00	3.4
+
+Toronto Blue Jays 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Yariel Rodríguez, L (1-8)	5	4	3	3	2	5	0	4.47	21	82	54	31	9	14	6	8	2	0	50			-0.001	0.90	0.00%	0.00	0.0
+Brendon Little	0.1	3	2	2	0	1	0	3.74	4	18	12	7	4	1	1	2	1	0		1	1	-0.207	2.02	0.00%	0.00	-2.5
+Erik Swanson	1.2	1	0	0	0	2	0	5.03	5	14	11	9	2	0	1	2	1	0		2	1	0.012	0.41	0.00%	0.00	0.9
+Génesis Cabrera	1	3	3	3	0	0	1	3.59	6	19	12	11	0	1	1	5	2	0		0	0	-0.029	0.13	0.00%	0.00	-2.5
+Nick Robertson	1	0	0	0	0	0	0	4.05	3	12	7	5	0	2	1	2	1	0		0	0	0.000	0.00	0.00%	0.00	0.5
+Team Totals	9	11	8	8	2	8	1	8.00	39	145	96	63	15	18	10	19	7	0	50	3	2	-0.225	0.75	0.00%	0.00	-3.6
+
+Yariel Rodríguez faced 1 batter in the 6th inning.
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - David Arrieta, 1B - Gabe Morales, 2B - Chris Guccione, 3B - Ryan Additon, LF - (none), RF - (none).
+Time of Game: 2:33.
+Attendance: 35,733.
+Start Time Weather: 68° F, Wind 0mph, In Dome.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Marlins
+1	Xavier Edwards	SS
+2	Connor Norby	3B
+3	Jake Burger	1B
+4	Jesús Sánchez	RF
+5	Jonah Bride	DH
+6	Griffin Conine	LF
+7	Dane Myers	CF
+8	Javier Sanoja	2B
+9	Jhonny Pereda	C
+	Xzavion Curry	P
+Blue Jays
+1	George Springer	RF
+2	Nathan Lukes	LF
+3	Vladimir Guerrero Jr.	DH
+4	Spencer Horwitz	1B
+5	Alejandro Kirk	C
+6	Ernie Clement	SS
+7	Addison Barger	3B
+8	Davis Schneider	2B
+9	Joey Loperfido	CF
+	Yariel Rodríguez	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Miami Marlins vs. Toronto Blue Jays, September 28 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+TOR
+50%
+MIA
+Inning	Win Pct
+1	0.5
+2	0.54
+3	0.5
+4	0.47
+5	0.49
+6	0.6
+7	0.7
+8	0.66
+9	0.68
+10	0.58
+11	0.6
+12	0.61
+13	0.59
+14	0.57
+15	0.56
+16	0.52
+17	0.61
+18	0.62
+19	0.6
+20	0.58
+21	0.57
+22	0.6
+23	0.62
+24	0.6
+25	0.59
+26	0.63
+27	0.61
+28	0.59
+29	0.58
+30	0.61
+31	0.63
+32	0.64
+33	0.62
+34	0.6
+35	0.63
+36	0.59
+37	0.63
+38	0.65
+39	0.67
+40	0.7
+41	0.76
+42	0.71
+43	0.77
+44	0.91
+45	0.87
+46	0.91
+47	0.93
+48	0.94
+49	0.95
+50	0.94
+51	0.94
+52	0.93
+53	0.95
+54	0.96
+55	0.97
+56	0.97
+57	0.97
+58	0.97
+59	0.98
+60	1
+61	1
+62	1
+63	0.99
+64	1
+65	1
+66	1
+67	1
+68	1
+69	1
+70	1
+71	1
+72	1
+73	1
+74	1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+t6	2-1	1	123	7,(3-2) 	RR	MIA	Dane Myers	Brendon Little	14%	91%	Double to RF (Fly Ball to Deep RF); J. Burger Scores; J. Sánchez Scores; G. Conine to 3B
+t1	0-0	2	12-	4,(1-2) 	R	MIA	Jonah Bride	Yariel Rodríguez	11%	60%	Single to RF (Ground Ball); X. Edwards Scores; J. Sánchez to 3B
+t1	1-0	2	1-3	3,(1-1) 	R	MIA	Griffin Conine	Yariel Rodríguez	10%	70%	Double to RF (Ground Ball); J. Sánchez Scores; J. Bride to 3B
+b1	0-2	1	---	4,(2-1) 	R	TOR	Nathan Lukes	Xzavion Curry	-10%	58%	Home Run (Fly Ball to Deep RF Line)
+b2	1-2	0	1--	2,(0-1) 	OO	TOR	Ernie Clement	Xzavion Curry	8%	61%	Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Marlins Batting, Tied 0-0, Blue Jays' Yariel Rodríguez facing 1-2-3
+t1	0-0	0	---	6,(3-2) 		MIA	Xavier Edwards	Yariel Rodríguez	4%	54%	Walk
+t1	0-0	0	1--	5,(1-2) 	O	MIA	Connor Norby	Yariel Rodríguez	-3%	50%	Strikeout Looking
+t1	0-0	1	1--	2,(0-1) 	O	MIA	Jake Burger	Yariel Rodríguez	-3%	47%	Flyball: RF (RF Line)
+t1	0-0	2	1--	5,(3-1) 		MIA	Jesús Sánchez	Yariel Rodríguez	2%	49%	Walk; X. Edwards to 2B
+t1	0-0	2	12-	4,(1-2) 	R	MIA	Jonah Bride	Yariel Rodríguez	11%	60%	Single to RF (Ground Ball); X. Edwards Scores; J. Sánchez to 3B
+t1	1-0	2	1-3	3,(1-1) 	R	MIA	Griffin Conine	Yariel Rodríguez	10%	70%	Double to RF (Ground Ball); J. Sánchez Scores; J. Bride to 3B
+t1	2-0	2	-23	5,(1-2) 	O	MIA	Dane Myers	Yariel Rodríguez	-4%	66%	Strikeout Swinging
+									2 runs, 2 hits, 0 errors, 2 LOB. Marlins 2, Blue Jays 0.
+Bottom of the 1st, Blue Jays Batting, Behind 0-2, Marlins' Xzavion Curry facing 1-2-3
+b1	0-2	0	---	5,(2-2) 	O	TOR	George Springer	Xzavion Curry	2%	68%	Flyball: 2B (Short CF-RF)
+b1	0-2	1	---	4,(2-1) 	R	TOR	Nathan Lukes	Xzavion Curry	-10%	58%	Home Run (Fly Ball to Deep RF Line)
+b1	1-2	1	---	4,(1-2) 	O	TOR	Vladimir Guerrero Jr.	Xzavion Curry	2%	60%	Lineout: CF (Deep CF)
+b1	1-2	2	---	6,(3-2) 	O	TOR	Spencer Horwitz	Xzavion Curry	1%	61%	Popfly: 3B (Deep SS-3B Hole)
+									1 run, 1 hit, 0 errors, 0 LOB. Marlins 2, Blue Jays 1.
+Top of the 2nd, Marlins Batting, Ahead 2-1, Blue Jays' Yariel Rodríguez facing 8-9-1
+t2	2-1	0	---	3,(1-1) 	O	MIA	Javier Sanoja	Yariel Rodríguez	-2%	59%	Popfly: 1B
+t2	2-1	1	---	4,(2-1) 	O	MIA	Jhonny Pereda	Yariel Rodríguez	-1%	57%	Groundout: 2B-1B
+t2	2-1	2	---	6,(2-2) 	O	MIA	Xavier Edwards	Yariel Rodríguez	-1%	56%	Groundout: 2B-1B (2B-1B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Marlins 2, Blue Jays 1.
+Bottom of the 2nd, Blue Jays Batting, Behind 1-2, Marlins' Xzavion Curry facing 5-6-7
+b2	1-2	0	---	7,(3-2) 		TOR	Alejandro Kirk	Xzavion Curry	-4%	52%	Walk
+b2	1-2	0	1--	2,(0-1) 	OO	TOR	Ernie Clement	Xzavion Curry	8%	61%	Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+b2	1-2	2	---	1,(0-0) 	O	TOR	Addison Barger	Xzavion Curry	1%	62%	Flyball: CF (Short CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Marlins 2, Blue Jays 1.
+Top of the 3rd, Marlins Batting, Ahead 2-1, Blue Jays' Yariel Rodríguez facing 2-3-4
+t3	2-1	0	---	1,(0-0) 	O	MIA	Connor Norby	Yariel Rodríguez	-2%	60%	Groundout: SS-1B
+t3	2-1	1	---	6,(3-2) 	O	MIA	Jake Burger	Yariel Rodríguez	-2%	58%	Popfly: P (P's Right)
+t3	2-1	2	---	6,(1-2) 	O	MIA	Jesús Sánchez	Yariel Rodríguez	-1%	57%	Popfly: 3B
+									0 runs, 0 hits, 0 errors, 0 LOB. Marlins 2, Blue Jays 1.
+Bottom of the 3rd, Blue Jays Batting, Behind 1-2, Marlins' Xzavion Curry facing 8-9-1
+b3	1-2	0	---	5,(2-2) 	O	TOR	Davis Schneider	Xzavion Curry	3%	60%	Groundout: 3B-1B
+b3	1-2	1	---	4,(1-2) 	O	TOR	Joey Loperfido	Xzavion Curry	2%	62%	Strikeout Looking
+b3	1-2	2	---	5,(2-2) 		TOR	George Springer	Xzavion Curry	-2%	60%	Single to LF (Ground Ball thru SS-3B Hole)
+b3	1-2	2	1--	3,(0-2) 		TOR	Nathan Lukes	Xzavion Curry	-1%	59%	G. Springer Steals 2B
+b3	1-2	2	-2-	4,(1-2) 	O	TOR	Nathan Lukes	Xzavion Curry	4%	63%	Flyball: LF (Deep LF Line)
+									0 runs, 1 hit, 0 errors, 1 LOB. Marlins 2, Blue Jays 1.
+Top of the 4th, Marlins Batting, Ahead 2-1, Blue Jays' Yariel Rodríguez facing 5-6-7
+t4	2-1	0	---	3,(2-0) 	O	MIA	Jonah Bride	Yariel Rodríguez	-2%	61%	Groundout: 2B-1B (SS-2B)
+t4	2-1	1	---	4,(2-1) 	O	MIA	Griffin Conine	Yariel Rodríguez	-2%	59%	Flyball: CF (Deep CF)
+t4	2-1	2	---	4,(1-2) 	O	MIA	Dane Myers	Yariel Rodríguez	-1%	58%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Marlins 2, Blue Jays 1.
+Bottom of the 4th, Blue Jays Batting, Behind 1-2, Marlins' Xzavion Curry facing 3-4-5
+b4	1-2	0	---	5,(2-2) 	O	TOR	Vladimir Guerrero Jr.	Xzavion Curry	3%	61%	Popfly: 1B (Deep 1B)
+b4	1-2	1	---	3,(1-1) 	O	TOR	Spencer Horwitz	Xzavion Curry	2%	63%	Flyball: CF (Deep LF-CF)
+b4	1-2	2	---	2,(0-1) 	O	TOR	Alejandro Kirk	Xzavion Curry	1%	64%	Lineout: 1B
+									0 runs, 0 hits, 0 errors, 0 LOB. Marlins 2, Blue Jays 1.
+Top of the 5th, Marlins Batting, Ahead 2-1, Blue Jays' Yariel Rodríguez facing 8-9-1
+t5	2-1	0	---	4,(0-2) 	O	MIA	Javier Sanoja	Yariel Rodríguez	-2%	62%	Strikeout Swinging
+t5	2-1	1	---	4,(1-2) 	O	MIA	Jhonny Pereda	Yariel Rodríguez	-2%	60%	Strikeout Looking
+t5	2-1	2	---	2,(1-0) 		MIA	Xavier Edwards	Yariel Rodríguez	2%	63%	Double to LF (Line Drive to Deep LF-CF)
+t5	2-1	2	-2-	4,(0-2) 	O	MIA	Connor Norby	Yariel Rodríguez	-4%	59%	Flyball: CF (Deep CF-RF)
+									0 runs, 1 hit, 0 errors, 1 LOB. Marlins 2, Blue Jays 1.
+Bottom of the 5th, Blue Jays Batting, Behind 1-2, Marlins' Xzavion Curry facing 6-7-8
+b5	1-2	0	---	1,(0-0) 	O	TOR	Ernie Clement	Xzavion Curry	3%	63%	Lineout: P (Weak SS-2B)
+b5	1-2	1	---	4,(1-2) 	O	TOR	Addison Barger	Xzavion Curry	2%	65%	Groundout: SS-1B
+b5	1-2	2	---	3,(1-1) 	O	TOR	Davis Schneider	Xzavion Curry	2%	67%	Groundout: SS-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. Marlins 2, Blue Jays 1.
+Top of the 6th, Marlins Batting, Ahead 2-1, Blue Jays' Yariel Rodríguez facing 3-4-5
+t6	2-1	0	---	1,(0-0) 		MIA	Jake Burger	Yariel Rodríguez	4%	70%	Single to RF (Line Drive)
+									
+Brendon Little replaces Yariel Rodríguez pitching
+
+t6	2-1	0	1--	3,(0-2) 		MIA	Jesús Sánchez	Brendon Little	6%	76%	Single to SS (Ground Ball to SS-2B); J. Burger to 2B
+t6	2-1	0	12-	5,(2-2) 	O	MIA	Jonah Bride	Brendon Little	-5%	71%	Strikeout Swinging
+t6	2-1	1	12-	3,(1-1) 		MIA	Griffin Conine	Brendon Little	6%	77%	Single to LF (Line Drive to LF Line); J. Burger to 3B; J. Sánchez to 2B
+t6	2-1	1	123	7,(3-2) 	RR	MIA	Dane Myers	Brendon Little	14%	91%	Double to RF (Fly Ball to Deep RF); J. Burger Scores; J. Sánchez Scores; G. Conine to 3B
+									
+Erik Swanson replaces Brendon Little pitching
+
+t6	4-1	1	-23	2,(1-0) 	O	MIA	Javier Sanoja	Erik Swanson	-4%	87%	Flyball: CF
+t6	4-1	2	-23	1,(0-0) 	RO	MIA	Jhonny Pereda	Erik Swanson	4%	91%	Single to LF (Line Drive to LF-CF); G. Conine Scores; D. Myers out at Hm/LF-C
+									3 runs, 5 hits, 0 errors, 1 LOB. Marlins 5, Blue Jays 1.
+Bottom of the 6th, Blue Jays Batting, Behind 1-5, Marlins' Darren McCaughan facing 9-1-2
+									
+Darren McCaughan replaces Xzavion Curry pitching
+
+b6	1-5	0	---	5,(2-2) 	O	TOR	Joey Loperfido	Darren McCaughan	2%	93%	Strikeout Swinging
+b6	1-5	1	---	4,(1-2) 	O	TOR	George Springer	Darren McCaughan	1%	94%	Groundout: 3B-1B (SS-3B Hole)
+b6	1-5	2	---	7,(3-2) 	O	TOR	Nathan Lukes	Darren McCaughan	1%	95%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Marlins 5, Blue Jays 1.
+Top of the 7th, Marlins Batting, Ahead 5-1, Blue Jays' Erik Swanson facing 1-2-3
+t7	5-1	0	---	5,(1-2) 	O	MIA	Xavier Edwards	Erik Swanson	0%	94%	Strikeout Swinging
+t7	5-1	1	---	5,(1-2) 	O	MIA	Connor Norby	Erik Swanson	0%	94%	Strikeout Swinging
+t7	5-1	2	---	1,(0-0) 	O	MIA	Jake Burger	Erik Swanson	0%	93%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Marlins 5, Blue Jays 1.
+Bottom of the 7th, Blue Jays Batting, Behind 1-5, Marlins' Darren McCaughan facing 3-4-5
+b7	1-5	0	---	1,(0-0) 	O	TOR	Vladimir Guerrero Jr.	Darren McCaughan	2%	95%	Groundout: C-1B
+b7	1-5	1	---	2,(0-1) 	O	TOR	Spencer Horwitz	Darren McCaughan	1%	96%	Groundout: 2B-1B (2B-1B)
+b7	1-5	2	---	2,(0-1) 	O	TOR	Alejandro Kirk	Darren McCaughan	1%	97%	Lineout: SS (Deep SS)
+									0 runs, 0 hits, 0 errors, 0 LOB. Marlins 5, Blue Jays 1.
+Top of the 8th, Marlins Batting, Ahead 5-1, Blue Jays' Génesis Cabrera facing 4-5-6
+									
+Génesis Cabrera replaces Erik Swanson pitching
+
+t8	5-1	0	---	4,(1-2) 		MIA	Jesús Sánchez	Génesis Cabrera	0%	97%	Single to LF (Line Drive to LF-CF)
+t8	5-1	0	1--	6,(3-2) 	O	MIA	Jonah Bride	Génesis Cabrera	0%	97%	Flyball: RF (Deep 2B)
+t8	5-1	1	1--	1,(0-0) 		MIA	Griffin Conine	Génesis Cabrera	0%	97%	J. Sánchez Steals 2B
+t8	5-1	1	-2-	3,(1-1) 		MIA	Griffin Conine	Génesis Cabrera	1%	98%	Single to 2B (Ground Ball to 2B-1B); J. Sánchez to 3B
+t8	5-1	1	1-3	3,(2-0) 	RRR	MIA	Dane Myers	Génesis Cabrera	2%	100%	Home Run (Fly Ball to Deep LF-CF); J. Sánchez Scores; G. Conine Scores
+t8	8-1	1	---	2,(0-1) 	O	MIA	Javier Sanoja	Génesis Cabrera	0%	100%	Popfly: 2B (2B-1B)
+t8	8-1	2	---	1,(0-0) 	O	MIA	Jhonny Pereda	Génesis Cabrera	0%	100%	Lineout: CF (Deep CF)
+									3 runs, 3 hits, 0 errors, 0 LOB. Marlins 8, Blue Jays 1.
+Bottom of the 8th, Blue Jays Batting, Behind 1-8, Marlins' Darren McCaughan facing 6-7-8
+b8	1-8	0	---	3,(1-1) 		TOR	Ernie Clement	Darren McCaughan	0%	99%	Single to SS (Ground Ball)
+b8	1-8	0	1--	3,(1-1) 	O	TOR	Addison Barger	Darren McCaughan	0%	100%	Flyball: RF (Deep RF Line)
+b8	1-8	1	1--	5,(2-2) 	O	TOR	Davis Schneider	Darren McCaughan	0%	100%	Strikeout Swinging
+b8	1-8	2	1--	2,(1-0) 	O	TOR	Joey Loperfido	Darren McCaughan	0%	100%	Groundout: 2B-1B (2B-1B)
+									0 runs, 1 hit, 0 errors, 1 LOB. Marlins 8, Blue Jays 1.
+Top of the 9th, Marlins Batting, Ahead 8-1, Blue Jays' Nick Robertson facing 1-2-3
+									
+Nick Robertson replaces Génesis Cabrera pitching
+
+t9	8-1	0	---	4,(2-1) 	O	MIA	Xavier Edwards	Nick Robertson	0%	100%	Groundout: P-1B (Front of Home)
+t9	8-1	1	---	5,(2-2) 	O	MIA	Connor Norby	Nick Robertson	0%	100%	Lineout: 2B (Deep SS-2B)
+t9	8-1	2	---	3,(1-1) 	O	MIA	Jake Burger	Nick Robertson	0%	100%	Flyball: RF (Deep RF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Marlins 8, Blue Jays 1.
+Bottom of the 9th, Blue Jays Batting, Behind 1-8, Marlins' Darren McCaughan facing 1-2-3
+b9	1-8	0	---	8,(3-2) 		TOR	George Springer	Darren McCaughan	0%	100%	Walk
+b9	1-8	0	1--	1,(0-0) 	O	TOR	Nathan Lukes	Darren McCaughan	0%	100%	Flyball: CF (Deep CF)
+b9	1-8	1	1--	5,(1-2) 	O	TOR	Vladimir Guerrero Jr.	Darren McCaughan	0%	100%	Strikeout Swinging
+b9	1-8	2	1--	4,(1-2) 		TOR	Spencer Horwitz	Darren McCaughan	0%	100%	Single to LF (Fly Ball to Short LF); G. Springer to 2B
+b9	1-8	2	12-	2,(0-1) 	O	TOR	Alejandro Kirk	Darren McCaughan	0%	100%	Foul Popfly: 1B (1B into Foul Terr.)
+									0 runs, 1 hit, 0 errors, 2 LOB. Marlins 8, Blue Jays 1.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Toronto Blue Jays Schedule Miami Marlins Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Miami Marlins vs Toronto Blue Jays Box Score: September 28, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/TOR/TOR202409280.shtml 
+ ----- 

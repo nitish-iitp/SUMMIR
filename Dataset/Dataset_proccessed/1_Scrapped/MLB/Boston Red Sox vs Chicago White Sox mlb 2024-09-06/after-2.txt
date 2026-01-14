@@ -1,0 +1,593 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+Manage Preferences
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Boston Red Sox Schedule
+Chicago White Sox Schedule
+Chicago White Sox vs Boston Red Sox Box Score: September 6, 2024
+MLB Scores — September 6, 2024
+NYY	3	Final
+CHC	0	
+COL	3	Final
+MIL	2	
+TBR	0	Final
+BAL	2	
+CHW	1	Final
+BOS	3	
+PHI	16	Final
+MIA	2	
+CIN	4	Final
+NYM	6	(10)
+TOR	1	Final
+ATL	3	
+LAA	5	Final
+TEX	1	
+ARI	0	Final
+HOU	8	
+MIN	0	Final
+KCR	5	
+SEA	6	Final
+STL	1	
+DET	6	Final
+OAK	7	(13)
+SFG	1	Final
+SDP	5	
+CLE	3	Final
+LAD	1	
+MLB Scores & Standings on this Day
+Chicago White Sox
+1
+32-110
+Prev Game Next Game
+ 
+Boston Red Sox
+3
+71-70
+Prev Game Next Game
+Friday, September 6, 2024
+Start Time: 7:10 p.m. Local
+Attendance: 32,625
+Venue: Fenway Park
+Game Duration: 2:23
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Chicago White Sox	0	1	0	0	0	0	0	0	0	1	6	0
+
+	Boston Red Sox	0	0	0	1	0	0	2	0	X	3	5	0
+WP: Zack Kelly (6-2) • LP: Matt Foster (0-1) • SV: Josh Winckowski (1)
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Nicky Lopez 2B	4	0	1	0	0	0	4	.241	.313	.299	.611	12	8	-0.053	0.90	0.022	-0.075	0%	0.00	-0.6	0	4	
+Luis Robert Jr. CF	4	0	1	0	0	1	4	.220	.274	.396	.670	9	7	-0.047	0.96	0.033	-0.080	0%	0.00	-0.4	6	0	
+Andrew Benintendi LF	3	0	1	0	1	1	4	.218	.282	.374	.656	17	9	-0.030	1.04	0.046	-0.076	0%	0.00	-0.1	0	0	
+Andrew Vaughn DH	3	0	0	0	1	1	4	.236	.292	.390	.682	14	10	-0.065	1.01	0.019	-0.084	0%	0.00	-0.5	0	0	
+Gavin Sheets 1B	3	0	0	0	1	1	4	.242	.314	.363	.677	30	21	-0.037	1.16	0.052	-0.089	0%	0.00	-0.5	8	2	
+Lenyn Sosa 3B	4	1	1	0	0	1	4	.223	.253	.300	.554	16	9	-0.112	1.37	0.062	-0.174	0%	0.00	-0.7	1	0	2B,GDP
+Dominic Fletcher RF	4	0	0	0	0	1	4	.212	.261	.273	.534	14	10	-0.075	0.90	0.000	-0.075	0%	0.00	-0.6	0	0	
+Chuckie Robinson C	4	0	1	0	0	0	4	.163	.182	.163	.345	18	13	-0.099	0.96	0.013	-0.112	0%	0.00	-0.8	5	0	
+Jacob Amaya SS	3	0	1	1	0	1	3	.273	.304	.318	.623	12	8	0.038	1.13	0.091	-0.053	0%	0.00	0.5	2	1	
+																							
+Davis Martin P																					1	4	
+   Matt Foster P																					0	0	
+   Fraser Ellard P																					0	0	
+   Prelander Berroa P																					1	0	
+Team Totals	32	1	6	1	3	7	35	.188	.257	.219	.476	142	95	-0.480	1.04	0.338	-0.818	0.00%	0.00	-3.7	24	11	
+2B: Lenyn Sosa (10, off Nick Pivetta).
+TB: Lenyn Sosa 2; Chuckie Robinson; Andrew Benintendi; Luis Robert Jr.; Jacob Amaya; Nicky Lopez.
+GIDP: Lenyn Sosa (5).
+RBI: Jacob Amaya (1).
+2-out RBI: Jacob Amaya.
+Team LOB: 7.
+With RISP: 1 for 5.
+Fielding
+DP: 1. Nicky Lopez-Jacob Amaya-Gavin Sheets.
+Boston Red Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Jarren Duran CF	4	0	0	0	0	1	4	.292	.351	.521	.871	11	8	-0.080	0.79	0.000	-0.080	-0.02%	0.33	-0.8	1	0	
+Rafael Devers 3B	4	0	2	0	0	0	4	.279	.355	.544	.899	12	7	0.010	0.67	0.045	-0.035	0.00%	0.28	0.3	0	1	
+Tyler O'Neill LF	3	0	0	0	1	1	4	.253	.346	.511	.857	20	11	-0.039	0.85	0.019	-0.059	-0.01%	0.35	-0.4	1	0	
+Wilyer Abreu RF	3	1	0	0	0	1	4	.265	.331	.488	.819	14	9	-0.027	1.08	0.048	-0.075	-0.01%	0.44	-0.5	3	0	HBP
+Masataka Yoshida DH	2	0	0	0	0	0	4	.284	.355	.417	.772	12	8	0.044	1.10	0.091	-0.047	0.01%	0.46	0.1	0	0	2·HBP
+Triston Casas 1B	4	0	1	1	0	1	4	.247	.347	.440	.787	16	10	0.050	1.22	0.115	-0.065	0.01%	0.50	0.4	8	2	
+Connor Wong C	3	0	0	0	0	0	3	.281	.335	.422	.757	8	5	-0.118	1.44	0.000	-0.118	-0.03%	0.59	-1.0	7	1	
+Enmanuel Valdez 2B	2	1	1	0	1	0	3	.228	.285	.394	.679	21	13	-0.050	1.30	0.054	-0.105	-0.01%	0.54	-0.5	4	1	GDP
+   Nick Sogard 2B	0	0	0	0	0	0	0	.250	.306	.268	.574										0	1	
+Ceddanne Rafaela SS	3	1	1	2	0	1	3	.253	.282	.407	.690	10	6	0.229	1.36	0.284	-0.056	0.06%	0.56	1.3	1	3	HR
+																							
+Nick Pivetta P																					2	2	
+   Zack Kelly P																					0	1	
+   Brennan Bernardino P																					0	0	
+   Josh Winckowski P																					0	0	
+Team Totals	28	3	5	3	2	5	33	.179	.303	.286	.589	124	77	0.019	1.05	0.656	-0.640	0.00%	0.43	-1.2	27	12	
+HR: Ceddanne Rafaela (15, off Matt Foster, 7th inn, 1 on, 1 out to Deep LF).
+HBP: Wilyer Abreu (2, by Davis Martin); Masataka Yoshida 2 (12, 2 by Davis Martin).
+TB: Ceddanne Rafaela 4; Rafael Devers 2; Triston Casas; Enmanuel Valdez.
+GIDP: Enmanuel Valdez (4).
+RBI: Ceddanne Rafaela 2 (65); Triston Casas (19).
+Team LOB: 6.
+With RISP: 1 for 5.
+Fielding
+DP: 1. Enmanuel Valdez-Triston Casas.
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Davis Martin	6	3	1	1	1	3	0	3.29	24	86	51	27	11	13	9	8	4	0	64			0.237	1.18	0.00%	0.00	2.1
+Matt Foster, L (0-1)	0.1	1	2	2	1	0	1	3.38	3	16	10	9	0	1	0	2	0	0		0	0	-0.286	1.56	0.00%	0.00	-1.8
+Fraser Ellard	0.2	1	0	0	0	1	0	3.46	3	10	8	6	1	1	1	1	1	0		0	0	0.014	0.32	0.00%	0.00	0.3
+Prelander Berroa	1	0	0	0	0	1	0	5.14	3	12	8	5	1	2	1	1	0	0		0	0	0.015	0.19	0.00%	0.00	0.5
+Team Totals	8	5	3	3	2	5	1	3.38	33	124	77	47	13	17	11	12	5	0	64	0	0	-0.020	1.05	0.00%	0.00	1.2
+
+Boston Red Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Nick Pivetta	6	5	1	1	3	6	0	4.38	25	97	63	42	8	13	7	9	6	0	61			0.237	1.02	0.06%	0.42	2.1
+Zack Kelly, W (6-2)	1	1	0	0	0	0	0	2.78	4	17	11	7	2	2	4	0	0	0		0	0	0.089	1.24	0.02%	0.51	0.5
+Brennan Bernardino, H (12)	1	0	0	0	0	1	0	3.83	3	17	13	8	3	2	1	1	1	0		0	0	0.077	1.00	0.02%	0.41	0.5
+Josh Winckowski, S (1)	1	0	0	0	0	0	0	4.10	3	11	8	5	1	2	2	1	1	0		0	0	0.077	0.99	0.02%	0.41	0.5
+Team Totals	9	6	1	1	3	7	0	1.00	35	142	95	62	14	19	14	11	8	0	61	0	0	0.480	1.04	0.12%	0.43	3.7
+
+Balks: None.
+WP: Davis Martin (2); Nick Pivetta (3).
+HBP: Davis Martin 3 (4; Wilyer Abreu, Masataka Yoshida, Masataka Yoshida).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - John Bacon, 1B - Mike Muchlinski, 2B - Andy Fletcher, 3B - Jansen Visconti, LF - (none), RF - (none).
+Time of Game: 2:23.
+Attendance: 32,625.
+Field Condition: Unknown.
+Start Time Weather: 71° F, Wind 4mph out to Leftfield, Cloudy, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+White Sox
+1	Nicky Lopez	2B
+2	Luis Robert Jr.	CF
+3	Andrew Benintendi	LF
+4	Andrew Vaughn	DH
+5	Gavin Sheets	1B
+6	Lenyn Sosa	3B
+7	Dominic Fletcher	RF
+8	Chuckie Robinson	C
+9	Jacob Amaya	SS
+	Davis Martin	P
+Red Sox
+1	Jarren Duran	CF
+2	Rafael Devers	3B
+3	Tyler O'Neill	LF
+4	Wilyer Abreu	RF
+5	Masataka Yoshida	DH
+6	Triston Casas	1B
+7	Connor Wong	C
+8	Enmanuel Valdez	2B
+9	Ceddanne Rafaela	SS
+	Nick Pivetta	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Chicago White Sox vs. Boston Red Sox, September 6 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+BOS
+50%
+CHW
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.47
+5	0.49
+6	0.45
+7	0.47
+8	0.45
+9	0.43
+10	0.41
+11	0.46
+12	0.5
+13	0.56
+14	0.55
+15	0.49
+16	0.58
+17	0.56
+18	0.58
+19	0.6
+20	0.59
+21	0.61
+22	0.59
+23	0.61
+24	0.59
+25	0.56
+26	0.59
+27	0.61
+28	0.62
+29	0.6
+30	0.58
+31	0.59
+32	0.57
+33	0.52
+34	0.45
+35	0.33
+36	0.4
+37	0.5
+38	0.47
+39	0.5
+40	0.46
+41	0.43
+42	0.46
+43	0.48
+44	0.5
+45	0.55
+46	0.44
+47	0.42
+48	0.46
+49	0.48
+50	0.46
+51	0.5
+52	0.46
+53	0.43
+54	0.45
+55	0.41
+56	0.45
+57	0.41
+58	0.12
+59	0.13
+60	0.13
+61	0.14
+62	0.1
+63	0.08
+64	0.06
+65	0.07
+66	0.07
+67	0.08
+68	0.04
+69	0.01
+70	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b7	1-1	1	1--	1,(0-0) 	RR	BOS	Ceddanne Rafaela	Matt Foster	28%	88%	Home Run (Fly Ball to Deep LF); E. Valdez Scores
+b4	0-1	0	12-	2,(1-0) 	R	BOS	Triston Casas	Davis Martin	12%	67%	Single to LF (Ground Ball); W. Abreu Scores; M. Yoshida to 2B
+t6	1-1	0	1--	4,(2-1) 	OO	CHW	Lenyn Sosa	Nick Pivetta	11%	56%	Ground Ball Double Play: 2B-1B (SS-2B)
+b4	1-1	1	12-	5,(2-2) 	OO	BOS	Enmanuel Valdez	Davis Martin	-10%	50%	Ground Ball Double Play: 2B-SS-1B (2B-1B)
+t2	0-0	2	--3	5,(2-2) 	R	CHW	Jacob Amaya	Nick Pivetta	-9%	42%	Single to LF (Line Drive to Deep LF-CF); L. Sosa Scores
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Red Sox' Nick Pivetta facing 1-2-3
+t1	0-0	0	---	6,(2-2) 	O	CHW	Nicky Lopez	Nick Pivetta	2%	52%	Lineout: SS
+t1	0-0	1	---	5,(2-2) 	O	CHW	Luis Robert Jr.	Nick Pivetta	2%	54%	Strikeout Swinging
+t1	0-0	2	---	7,(3-2) 		CHW	Andrew Benintendi	Nick Pivetta	-1%	53%	Walk
+t1	0-0	2	1--	5,(3-1) 		CHW	Andrew Vaughn	Nick Pivetta	-2%	51%	Walk; A. Benintendi to 2B
+t1	0-0	2	12-	5,(1-2) 	O	CHW	Gavin Sheets	Nick Pivetta	4%	55%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 2 LOB. White Sox 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, White Sox' Davis Martin facing 1-2-3
+b1	0-0	0	---	1,(0-0) 	O	BOS	Jarren Duran	Davis Martin	-2%	53%	Groundout: 2B-1B (2B-1B)
+b1	0-0	1	---	2,(0-1) 		BOS	Rafael Devers	Davis Martin	2%	55%	Single to RF (Line Drive to CF-RF)
+b1	0-0	1	1--	3,(1-1) 		BOS	Tyler O'Neill	Davis Martin	2%	57%	Wild Pitch; R. Devers to 2B
+b1	0-0	1	-2-	7,(3-2) 		BOS	Tyler O'Neill	Davis Martin	2%	59%	Walk
+b1	0-0	1	12-	5,(2-2) 	O	BOS	Wilyer Abreu	Davis Martin	-4%	54%	Strikeout Swinging
+b1	0-0	2	12-	1,(0-0) 	O	BOS	Masataka Yoshida	Davis Martin	-4%	50%	Lineout: CF (Deep CF)
+									0 runs, 1 hit, 0 errors, 2 LOB. White Sox 0, Red Sox 0.
+Top of the 2nd, White Sox Batting, Tied 0-0, Red Sox' Nick Pivetta facing 6-7-8
+t2	0-0	0	---	1,(0-0) 		CHW	Lenyn Sosa	Nick Pivetta	-6%	44%	Double to CF (Line Drive to Deep LF-CF)
+t2	0-0	0	-2-	3,(0-2) 	O	CHW	Dominic Fletcher	Nick Pivetta	2%	45%	Groundout: 1B-P (Weak 2B-1B); L. Sosa to 3B
+t2	0-0	1	--3	1,(0-0) 	O	CHW	Chuckie Robinson	Nick Pivetta	6%	51%	Groundout: P-1B (P's Left)
+t2	0-0	2	--3	5,(2-2) 	R	CHW	Jacob Amaya	Nick Pivetta	-9%	42%	Single to LF (Line Drive to Deep LF-CF); L. Sosa Scores
+t2	1-0	2	1--	1,(0-0) 	O	CHW	Nicky Lopez	Nick Pivetta	2%	44%	Groundout: P-1B (Front of Home)
+									1 run, 2 hits, 0 errors, 1 LOB. White Sox 1, Red Sox 0.
+Bottom of the 2nd, Red Sox Batting, Behind 0-1, White Sox' Davis Martin facing 6-7-8
+b2	0-1	0	---	5,(1-2) 	O	BOS	Triston Casas	Davis Martin	-3%	42%	Groundout: P-1B (Short 1B Line)
+b2	0-1	1	---	1,(0-0) 	O	BOS	Connor Wong	Davis Martin	-2%	40%	Flyball: CF
+b2	0-1	2	---	4,(2-1) 		BOS	Enmanuel Valdez	Davis Martin	1%	41%	Single to RF (Line Drive to Deep RF Line)
+b2	0-1	2	1--	4,(1-2) 	O	BOS	Ceddanne Rafaela	Davis Martin	-3%	39%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. White Sox 1, Red Sox 0.
+Top of the 3rd, White Sox Batting, Ahead 1-0, Red Sox' Nick Pivetta facing 2-3-4
+t3	1-0	0	---	1,(0-0) 	O	CHW	Luis Robert Jr.	Nick Pivetta	2%	41%	Flyball: RF (Deep CF-RF)
+t3	1-0	1	---	3,(1-1) 		CHW	Andrew Benintendi	Nick Pivetta	-2%	39%	Single to RF (Line Drive to RF Line)
+t3	1-0	1	1--	3,(0-2) 	O	CHW	Andrew Vaughn	Nick Pivetta	2%	41%	Strikeout Swinging, Wild Pitch; A. Benintendi to 2B
+t3	1-0	2	-2-	5,(2-2) 	O	CHW	Gavin Sheets	Nick Pivetta	3%	44%	Lineout: CF (Deep LF-CF)
+									0 runs, 1 hit, 0 errors, 1 LOB. White Sox 1, Red Sox 0.
+Bottom of the 3rd, Red Sox Batting, Behind 0-1, White Sox' Davis Martin facing 1-2-3
+b3	0-1	0	---	3,(1-1) 	O	BOS	Jarren Duran	Davis Martin	-3%	41%	Groundout: P-1B (Short 1B Line)
+b3	0-1	1	---	5,(3-1) 	O	BOS	Rafael Devers	Davis Martin	-2%	39%	Groundout: P-1B (Front of Home)
+b3	0-1	2	---	5,(2-2) 	O	BOS	Tyler O'Neill	Davis Martin	-1%	38%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Red Sox 0.
+Top of the 4th, White Sox Batting, Ahead 1-0, Red Sox' Nick Pivetta facing 6-7-8
+t4	1-0	0	---	6,(3-2) 	O	CHW	Lenyn Sosa	Nick Pivetta	2%	40%	Strikeout Swinging
+t4	1-0	1	---	7,(3-2) 	O	CHW	Dominic Fletcher	Nick Pivetta	2%	42%	Strikeout Looking
+t4	1-0	2	---	5,(2-2) 		CHW	Chuckie Robinson	Nick Pivetta	-1%	41%	Single to RF (Ground Ball)
+t4	1-0	2	1--	4,(1-2) 	O	CHW	Jacob Amaya	Nick Pivetta	2%	43%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. White Sox 1, Red Sox 0.
+Bottom of the 4th, Red Sox Batting, Behind 0-1, White Sox' Davis Martin facing 4-5-6
+b4	0-1	0	---	3,(1-1) 		BOS	Wilyer Abreu	Davis Martin	5%	48%	Hit By Pitch
+b4	0-1	0	1--	4,(1-2) 		BOS	Masataka Yoshida	Davis Martin	7%	55%	Hit By Pitch; W. Abreu to 2B
+b4	0-1	0	12-	2,(1-0) 	R	BOS	Triston Casas	Davis Martin	12%	67%	Single to LF (Ground Ball); W. Abreu Scores; M. Yoshida to 2B
+b4	1-1	0	12-	4,(1-2) 	O	BOS	Connor Wong	Davis Martin	-6%	60%	Lineout: CF (Deep CF)
+b4	1-1	1	12-	5,(2-2) 	OO	BOS	Enmanuel Valdez	Davis Martin	-10%	50%	Ground Ball Double Play: 2B-SS-1B (2B-1B)
+									1 run, 1 hit, 0 errors, 1 LOB. White Sox 1, Red Sox 1.
+Top of the 5th, White Sox Batting, Tied 1-1, Red Sox' Nick Pivetta facing 1-2-3
+t5	1-1	0	---	2,(0-1) 	O	CHW	Nicky Lopez	Nick Pivetta	3%	53%	Groundout: 1B-P
+t5	1-1	1	---	1,(0-0) 		CHW	Luis Robert Jr.	Nick Pivetta	-3%	50%	Single to CF (Line Drive to Deep CF-RF)
+t5	1-1	1	1--	2,(1-0) 	O	CHW	Andrew Benintendi	Nick Pivetta	4%	54%	Flyball: LF (Short LF)
+t5	1-1	2	1--	3,(0-2) 	O	CHW	Andrew Vaughn	Nick Pivetta	3%	57%	Groundout: SS-2B/Forceout at 2B; A. Vaughn to 1B
+									0 runs, 1 hit, 0 errors, 1 LOB. White Sox 1, Red Sox 1.
+Bottom of the 5th, Red Sox Batting, Tied 1-1, White Sox' Davis Martin facing 9-1-2
+b5	1-1	0	---	5,(3-1) 	O	BOS	Ceddanne Rafaela	Davis Martin	-3%	54%	Flyball: CF (Deep CF-RF)
+b5	1-1	1	---	1,(0-0) 	O	BOS	Jarren Duran	Davis Martin	-2%	52%	Groundout: 2B-1B
+b5	1-1	2	---	3,(2-0) 	O	BOS	Rafael Devers	Davis Martin	-2%	50%	Groundout: P-1B (Weak SS-2B)
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Red Sox 1.
+Top of the 6th, White Sox Batting, Tied 1-1, Red Sox' Nick Pivetta facing 5-6-7
+t6	1-1	0	---	11,(3-2) 		CHW	Gavin Sheets	Nick Pivetta	-5%	45%	Walk
+t6	1-1	0	1--	4,(2-1) 	OO	CHW	Lenyn Sosa	Nick Pivetta	11%	56%	Ground Ball Double Play: 2B-1B (SS-2B)
+t6	1-1	2	---	1,(0-0) 	O	CHW	Dominic Fletcher	Nick Pivetta	2%	58%	Flyball: RF (Deep CF-RF)
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Red Sox 1.
+Bottom of the 6th, Red Sox Batting, Tied 1-1, White Sox' Davis Martin facing 3-4-5
+b6	1-1	0	---	6,(3-2) 	O	BOS	Tyler O'Neill	Davis Martin	-3%	54%	Flyball: CF (LF-CF)
+b6	1-1	1	---	2,(0-1) 	O	BOS	Wilyer Abreu	Davis Martin	-2%	52%	Groundout: 1B-P
+b6	1-1	2	---	4,(0-2) 		BOS	Masataka Yoshida	Davis Martin	2%	54%	Hit By Pitch
+b6	1-1	2	1--	4,(2-1) 	O	BOS	Triston Casas	Davis Martin	-4%	50%	Flyball: CF (Deep CF)
+									0 runs, 0 hits, 0 errors, 1 LOB. White Sox 1, Red Sox 1.
+Top of the 7th, White Sox Batting, Tied 1-1, Red Sox' Zack Kelly facing 8-9-1
+									
+Zack Kelly replaces Nick Pivetta pitching
+
+t7	1-1	0	---	9,(3-2) 	O	CHW	Chuckie Robinson	Zack Kelly	4%	54%	Groundout: SS-1B
+t7	1-1	1	---	3,(1-1) 	O	CHW	Jacob Amaya	Zack Kelly	3%	57%	Groundout: P-1B
+t7	1-1	2	---	3,(2-0) 		CHW	Nicky Lopez	Zack Kelly	-2%	55%	Single to CF (Ground Ball)
+t7	1-1	2	1--	2,(0-1) 	O	CHW	Luis Robert Jr.	Zack Kelly	4%	59%	Groundout: SS-2B/Forceout at 2B; L. Robert to 1B
+									0 runs, 1 hit, 0 errors, 1 LOB. White Sox 1, Red Sox 1.
+Bottom of the 7th, Red Sox Batting, Tied 1-1, White Sox' Matt Foster facing 7-8-9
+									
+Matt Foster replaces Davis Martin pitching
+
+b7	1-1	0	---	3,(2-0) 	O	BOS	Connor Wong	Matt Foster	-4%	55%	Foul Popfly: 1B
+b7	1-1	1	---	12,(3-2) 		BOS	Enmanuel Valdez	Matt Foster	4%	59%	Walk
+b7	1-1	1	1--	1,(0-0) 	RR	BOS	Ceddanne Rafaela	Matt Foster	28%	88%	Home Run (Fly Ball to Deep LF); E. Valdez Scores
+									
+Fraser Ellard replaces Matt Foster pitching
+
+b7	3-1	1	---	6,(2-2) 	O	BOS	Jarren Duran	Fraser Ellard	-1%	87%	Strikeout Swinging
+b7	3-1	2	---	2,(0-1) 		BOS	Rafael Devers	Fraser Ellard	1%	87%	Single to RF (Line Drive to Deep RF)
+b7	3-1	2	1--	2,(0-1) 	O	BOS	Tyler O'Neill	Fraser Ellard	-1%	86%	Groundout: 2B-SS/Forceout at 2B; T. O'Neill to 1B
+									2 runs, 2 hits, 0 errors, 1 LOB. White Sox 1, Red Sox 3.
+Top of the 8th, White Sox Batting, Behind 1-3, Red Sox' Brennan Bernardino facing 3-4-5
+									
+Brennan Bernardino replaces Zack Kelly pitching
+
+t8	1-3	0	---	5,(2-2) 	O	CHW	Andrew Benintendi	Brennan Bernardino	4%	90%	Strikeout Swinging
+t8	1-3	1	---	3,(0-2) 	O	CHW	Andrew Vaughn	Brennan Bernardino	2%	92%	Lineout: 2B (Deep SS-2B)
+t8	1-3	2	---	9,(2-2) 	O	CHW	Gavin Sheets	Brennan Bernardino	1%	94%	Groundout: C-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Red Sox 3.
+Bottom of the 8th, Red Sox Batting, Ahead 3-1, White Sox' Prelander Berroa facing 4-5-6
+									
+Prelander Berroa replaces Fraser Ellard pitching
+
+b8	3-1	0	---	4,(1-2) 	O	BOS	Wilyer Abreu	Prelander Berroa	-1%	93%	Popfly: 3B (Deep SS-3B Hole)
+b8	3-1	1	---	3,(1-1) 	O	BOS	Masataka Yoshida	Prelander Berroa	0%	93%	Groundout: 1B-P
+b8	3-1	2	---	5,(2-2) 	O	BOS	Triston Casas	Prelander Berroa	0%	92%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Red Sox 3.
+Top of the 9th, White Sox Batting, Behind 1-3, Red Sox' Josh Winckowski facing 6-7-8
+									
+Josh Winckowski replaces Brennan Bernardino pitching
+Nick Sogard replaces Enmanuel Valdez playing 2B batting 8th
+
+t9	1-3	0	---	5,(2-2) 	O	CHW	Lenyn Sosa	Josh Winckowski	4%	96%	Groundout: 3B-1B (SS-3B Hole)
+t9	1-3	1	---	3,(1-1) 	O	CHW	Dominic Fletcher	Josh Winckowski	2%	99%	Groundout: 2B-1B (Deep 2B)
+t9	1-3	2	---	3,(0-2) 	O	CHW	Chuckie Robinson	Josh Winckowski	1%	100%	Lineout: RF (Deep RF Line)
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Red Sox 3.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Boston Red Sox Schedule Chicago White Sox Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Chicago White Sox vs Boston Red Sox Box Score: September 6, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/BOS/BOS202409060.shtml 
+ ----- 

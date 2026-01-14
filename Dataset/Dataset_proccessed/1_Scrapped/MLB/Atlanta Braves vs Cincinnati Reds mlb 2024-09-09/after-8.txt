@@ -1,0 +1,575 @@
+MENU
+Pete Alonso's Unique Free Agency Deal Offer to the Mets
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Atlanta Braves Schedule
+Cincinnati Reds Schedule
+Cincinnati Reds vs Atlanta Braves Box Score: September 9, 2024
+MLB Scores — September 9, 2024
+CIN	1	Final
+ATL	0	
+TBR	1	Final
+PHI	2	
+MIA	2	Final
+PIT	3	
+KCR	4	Final
+NYY	10	
+NYM	3	Final
+TOR	2	
+BAL	3	Final
+BOS	12	
+CLE	5	Final
+CHW	3	
+LAA	6	Final
+MIN	2	
+CHC	10	Final
+LAD	4	
+MLB Scores & Standings on this Day
+Cincinnati Reds
+1
+70-75
+Prev Game Next Game
+ 
+Atlanta Braves
+0
+78-66
+Prev Game Next Game
+Monday, September 9, 2024
+Start Time: 6:40 p.m. Local
+Attendance: 34,883
+Venue: Truist Park
+Game Duration: 2:20
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Cincinnati Reds	0	1	0	0	0	0	0	0	0	1	8	0
+
+	Atlanta Braves	0	0	0	0	0	0	0	0	0	0	2	1
+WP: Nick Martinez (8-6) • LP: Charlie Morton (8-8) • SV: Alexis Díaz (27)
+Cincinnati Reds 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Spencer Steer LF	4	0	1	0	1	0	5	.232	.326	.408	.734	19	10	-0.054	1.08	0.031	-0.084	0%	0.00	-0.7	3	0	
+Elly De La Cruz SS	3	0	0	0	1	3	4	.260	.342	.475	.816	20	11	-0.026	0.99	0.030	-0.055	0%	0.00	-0.2	3	0	
+Tyler Stephenson C	4	0	0	0	0	2	4	.261	.338	.460	.799	16	10	-0.072	1.13	0.025	-0.097	0%	0.00	-0.7	7	0	
+TJ Friedl CF	3	1	0	0	0	2	4	.215	.300	.380	.680	13	9	-0.041	1.01	0.037	-0.078	0%	0.00	-0.4	2	0	HBP
+Ty France 1B	4	0	2	1	0	1	4	.249	.326	.388	.713	10	7	0.106	0.95	0.149	-0.042	0%	0.00	1.1	4	2	2B
+Santiago Espinal 2B	4	0	0	0	0	1	4	.265	.310	.392	.702	15	10	-0.126	0.89	0.000	-0.126	0%	0.00	-1.3	0	0	GDP
+Jake Fraley RF	4	0	2	0	0	1	4	.276	.327	.382	.709	12	9	0.009	0.90	0.067	-0.058	0%	0.00	0.1	5	0	SB
+Amed Rosario DH	4	0	2	0	0	0	4	.292	.318	.395	.713	15	10	0.021	1.17	0.075	-0.054	0%	0.00	0.4	0	0	SB
+Noelvi Marte 3B	4	0	1	0	0	2	4	.200	.232	.303	.535	16	9	-0.172	1.38	0.014	-0.186	0%	0.00	-1.9	1	4	CS
+																							
+Nick Martinez P																					2	0	
+   Fernando Cruz P																					0	0	
+   Alexis Díaz P																					0	0	
+Team Totals	34	1	8	1	2	12	37	.235	.297	.265	.562	136	85	-0.355	1.06	0.428	-0.780	0.00%	0.00	-3.7	27	6	
+2B: Ty France (22, off Charlie Morton).
+HBP: TJ Friedl (11, by Charlie Morton).
+TB: Ty France 3; Amed Rosario 2; Jake Fraley 2; Spencer Steer; Noelvi Marte.
+GIDP: Santiago Espinal (7).
+RBI: Ty France (44).
+Team LOB: 9.
+With RISP: 1 for 7.
+Baserunning
+SB: Amed Rosario (13, 2nd base off Charlie Morton/Sean Murphy); Jake Fraley (20, 2nd base off Charlie Morton/Sean Murphy).
+CS: Noelvi Marte (2, 3rd base by Aaron Bummer/Sean Murphy).
+Atlanta Braves 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Michael Harris II CF	4	0	0	0	0	1	4	.241	.281	.357	.639	17	12	-0.161	1.57	0.000	-0.161	-0.14%	2.22	-0.8	1	0	
+Jorge Soler RF	4	0	0	0	0	1	4	.229	.327	.410	.736	10	7	-0.115	1.14	0.000	-0.115	-0.10%	1.60	-0.5	0	0	
+Marcell Ozuna DH	3	0	0	0	1	0	4	.304	.377	.561	.938	16	9	-0.116	1.34	0.012	-0.128	-0.10%	1.89	-0.5	0	0	
+Matt Olson 1B	3	0	2	0	0	0	3	.233	.314	.437	.750	9	7	0.052	1.02	0.073	-0.022	0.04%	1.44	0.3	9	0	
+Sean Murphy C	3	0	0	0	0	1	3	.203	.284	.351	.636	16	10	-0.118	1.58	0.000	-0.118	-0.10%	2.22	-0.9	12	1	
+Jarred Kelenic LF	3	0	0	0	0	0	3	.233	.285	.399	.684	12	9	-0.112	1.39	0.000	-0.112	-0.10%	1.96	-0.7	0	0	
+Gio Urshela 3B	3	0	0	0	0	2	3	.247	.286	.332	.619	17	11	-0.107	1.39	0.000	-0.107	-0.09%	1.96	-0.6	2	4	
+Orlando Arcia SS	3	0	0	0	0	1	3	.222	.274	.359	.634	14	9	-0.075	0.99	0.000	-0.075	-0.06%	1.40	-0.4	0	2	
+Luke Williams 2B	3	0	0	0	0	1	3	.195	.283	.268	.551	9	6	-0.101	1.31	0.000	-0.101	-0.08%	1.84	-0.6	3	2	
+																							
+Charlie Morton P																					0	1	
+   Aaron Bummer P																					0	0	
+   Grant Holmes P																					0	0	
+Team Totals	29	0	2	0	1	7	30	.069	.100	.069	.169	120	80	-0.853	1.31	0.085	-0.939	-0.72%	1.84	-4.7	27	10	
+TB: Matt Olson 2.
+Team LOB: 3.
+With RISP: 0 for 1.
+Fielding
+DP: 1. Gio Urshela-Luke Williams-Matt Olson.
+E: Orlando Arcia (9).
+Cincinnati Reds 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Nick Martinez, W (8-6)	7	2	0	0	1	5	0	3.46	24	97	64	35	10	19	6	12	4	0	77			0.504	1.06	0.00%	0.00	3.6
+Fernando Cruz, H (23)	1	0	0	0	0	2	0	5.13	3	11	9	4	2	3	0	1	0	0		0	0	0.144	1.88	0.00%	0.00	0.5
+Alexis Díaz, S (27)	1	0	0	0	0	0	0	4.30	3	12	7	4	2	1	1	2	1	0		0	0	0.206	2.68	0.00%	0.00	0.5
+Team Totals	9	2	0	0	1	7	0	0.00	30	120	80	43	14	23	7	15	5	0	77	0	0	0.854	1.31	0.00%	0.00	4.7
+
+Atlanta Braves 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Charlie Morton, L (8-8)	6.2	6	1	1	2	7	0	4.11	28	100	61	31	12	18	11	7	4	0	63			0.212	1.07	0.18%	1.50	2.2
+Aaron Bummer	1	0	0	0	0	2	0	3.33	3	12	8	1	3	4	1	0	0	0		2	0	0.077	1.18	0.07%	1.66	0.7
+Grant Holmes	1.1	2	0	0	0	3	0	3.86	6	24	17	7	8	2	2	1	1	0		1	0	0.065	0.97	0.06%	1.37	0.8
+Team Totals	9	8	1	1	2	12	0	1.00	37	136	86	39	23	24	14	8	5	0	63	3	0	0.354	1.06	0.30%	1.50	3.7
+
+Balks: None.
+WP: None.
+HBP: Charlie Morton (18; TJ Friedl).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - David Rackley, 1B - Larry Vanover, 2B - Chris Segal, 3B - Nate Tomlinson, LF - (none), RF - (none).
+Time of Game: 2:20.
+Attendance: 34,883.
+Field Condition: Unknown.
+Start Time Weather: 83° F, Wind 8mph out to Rightfield, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Reds
+1	Spencer Steer	LF
+2	Elly De La Cruz	SS
+3	Tyler Stephenson	C
+4	TJ Friedl	CF
+5	Ty France	1B
+6	Santiago Espinal	2B
+7	Jake Fraley	RF
+8	Amed Rosario	DH
+9	Noelvi Marte	3B
+	Nick Martinez	P
+Braves
+1	Michael Harris II	CF
+2	Jorge Soler	RF
+3	Marcell Ozuna	DH
+4	Matt Olson	1B
+5	Sean Murphy	C
+6	Jarred Kelenic	LF
+7	Gio Urshela	3B
+8	Orlando Arcia	SS
+9	Luke Williams	2B
+	Charlie Morton	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Cincinnati Reds vs. Atlanta Braves, September 9 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+ATL
+50%
+CIN
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.47
+6	0.49
+7	0.48
+8	0.46
+9	0.5
+10	0.54
+11	0.66
+12	0.62
+13	0.59
+14	0.6
+15	0.61
+16	0.56
+17	0.58
+18	0.6
+19	0.61
+20	0.59
+21	0.57
+22	0.56
+23	0.59
+24	0.61
+25	0.62
+26	0.6
+27	0.58
+28	0.57
+29	0.6
+30	0.62
+31	0.64
+32	0.67
+33	0.64
+34	0.61
+35	0.62
+36	0.63
+37	0.66
+38	0.58
+39	0.62
+40	0.64
+41	0.66
+42	0.63
+43	0.66
+44	0.6
+45	0.64
+46	0.67
+47	0.69
+48	0.67
+49	0.65
+50	0.66
+51	0.68
+52	0.63
+53	0.68
+54	0.63
+55	0.69
+56	0.74
+57	0.72
+58	0.74
+59	0.72
+60	0.69
+61	0.75
+62	0.8
+63	0.83
+64	0.82
+65	0.83
+66	0.89
+67	0.83
+68	0.79
+69	0.88
+70	0.95
+71	1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+t2	0-0	0	1--	1,(0-0) 	R	CIN	Ty France	Charlie Morton	12%	66%	Double to RF (Line Drive to Short RF Line); T. Friedl Scores
+b9	0-1	0	---	5,(2-2) 	O	ATL	Michael Harris II	Alexis Díaz	9%	88%	Flyball: LF (Deep LF Line)
+t5	1-0	2	123	6,(2-2) 	O	CIN	Tyler Stephenson	Charlie Morton	-8%	58%	Strikeout Swinging
+b9	0-1	1	---	2,(1-0) 	O	ATL	Jorge Soler	Alexis Díaz	7%	95%	Groundout: 3B-1B (SS-3B Hole)
+b8	0-1	0	---	7,(2-2) 	O	ATL	Gio Urshela	Fernando Cruz	6%	75%	Strikeout Swinging
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Reds Batting, Tied 0-0, Braves' Charlie Morton facing 1-2-3
+t1	0-0	0	---	3,(1-1) 	O	CIN	Spencer Steer	Charlie Morton	-2%	48%	Popfly: 1B (Deep 1B)
+t1	0-0	1	---	5,(2-2) 	O	CIN	Elly De La Cruz	Charlie Morton	-2%	46%	Strikeout Looking
+t1	0-0	2	---	1,(0-0) 	O	CIN	Tyler Stephenson	Charlie Morton	-1%	45%	Flyball: 2B (Short RF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Reds 0, Braves 0.
+Bottom of the 1st, Braves Batting, Tied 0-0, Reds' Nick Martinez facing 1-2-3
+b1	0-0	0	---	5,(2-2) 	O	ATL	Michael Harris II	Nick Martinez	2%	47%	Strikeout Swinging
+b1	0-0	1	---	1,(0-0) 	O	ATL	Jorge Soler	Nick Martinez	2%	49%	Popfly: SS (SS-2B)
+b1	0-0	2	---	7,(3-2) 		ATL	Marcell Ozuna	Nick Martinez	-1%	48%	Walk
+b1	0-0	2	1--	2,(0-1) 		ATL	Matt Olson	Nick Martinez	-2%	46%	Single to CF (Line Drive); M. Ozuna to 2B
+b1	0-0	2	12-	6,(2-2) 	O	ATL	Sean Murphy	Nick Martinez	4%	50%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 1 hit, 0 errors, 2 LOB. Reds 0, Braves 0.
+Top of the 2nd, Reds Batting, Tied 0-0, Braves' Charlie Morton facing 4-5-6
+t2	0-0	0	---	3,(0-2) 		CIN	TJ Friedl	Charlie Morton	4%	54%	Hit By Pitch
+t2	0-0	0	1--	1,(0-0) 	R	CIN	Ty France	Charlie Morton	12%	66%	Double to RF (Line Drive to Short RF Line); T. Friedl Scores
+t2	1-0	0	-2-	5,(2-2) 	O	CIN	Santiago Espinal	Charlie Morton	-4%	62%	Lineout: 3B (SS-3B Hole)
+t2	1-0	1	-2-	4,(1-2) 	O	CIN	Jake Fraley	Charlie Morton	-3%	59%	Strikeout Swinging
+t2	1-0	2	-2-	6,(3-2) 		CIN	Amed Rosario	Charlie Morton	2%	60%	Single to 3B (Ground Ball to SS-3B Hole); T. France to 3B
+t2	1-0	2	1-3	4,(1-2) 		CIN	Noelvi Marte	Charlie Morton	1%	61%	A. Rosario Steals 2B
+t2	1-0	2	-23	5,(2-2) 	O	CIN	Noelvi Marte	Charlie Morton	-5%	56%	Strikeout Swinging
+									1 run, 2 hits, 0 errors, 2 LOB. Reds 1, Braves 0.
+Bottom of the 2nd, Braves Batting, Behind 0-1, Reds' Nick Martinez facing 6-7-8
+b2	0-1	0	---	3,(0-2) 	O	ATL	Jarred Kelenic	Nick Martinez	3%	58%	Flyball: LF (Short LF)
+b2	0-1	1	---	3,(1-1) 	O	ATL	Gio Urshela	Nick Martinez	2%	60%	Flyball: RF (Deep RF)
+b2	0-1	2	---	5,(2-2) 	O	ATL	Orlando Arcia	Nick Martinez	1%	61%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Reds 1, Braves 0.
+Top of the 3rd, Reds Batting, Ahead 1-0, Braves' Charlie Morton facing 1-2-3
+t3	1-0	0	---	4,(2-1) 	O	CIN	Spencer Steer	Charlie Morton	-2%	59%	Groundout: SS-1B
+t3	1-0	1	---	4,(1-2) 	O	CIN	Elly De La Cruz	Charlie Morton	-2%	57%	Strikeout Looking
+t3	1-0	2	---	7,(3-2) 	O	CIN	Tyler Stephenson	Charlie Morton	-1%	56%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Reds 1, Braves 0.
+Bottom of the 3rd, Braves Batting, Behind 0-1, Reds' Nick Martinez facing 9-1-2
+b3	0-1	0	---	4,(2-1) 	O	ATL	Luke Williams	Nick Martinez	3%	59%	Flyball: RF (Short RF Line)
+b3	0-1	1	---	1,(0-0) 	O	ATL	Michael Harris II	Nick Martinez	2%	61%	Popfly: SS (Deep SS-3B Hole)
+b3	0-1	2	---	5,(2-2) 	O	ATL	Jorge Soler	Nick Martinez	1%	62%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Reds 1, Braves 0.
+Top of the 4th, Reds Batting, Ahead 1-0, Braves' Charlie Morton facing 4-5-6
+t4	1-0	0	---	4,(1-2) 	O	CIN	TJ Friedl	Charlie Morton	-2%	60%	Strikeout Swinging
+t4	1-0	1	---	2,(1-0) 	O	CIN	Ty France	Charlie Morton	-2%	58%	Groundout: SS-1B (SS-2B)
+t4	1-0	2	---	3,(0-2) 	O	CIN	Santiago Espinal	Charlie Morton	-1%	57%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Reds 1, Braves 0.
+Bottom of the 4th, Braves Batting, Behind 0-1, Reds' Nick Martinez facing 3-4-5
+b4	0-1	0	---	3,(1-1) 	O	ATL	Marcell Ozuna	Nick Martinez	3%	60%	Flyball: CF (Deep CF)
+b4	0-1	1	---	4,(1-2) 	O	ATL	Matt Olson	Nick Martinez	2%	62%	Groundout: 1B-P
+b4	0-1	2	---	5,(2-2) 	O	ATL	Sean Murphy	Nick Martinez	1%	64%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Reds 1, Braves 0.
+Top of the 5th, Reds Batting, Ahead 1-0, Braves' Charlie Morton facing 7-8-9
+t5	1-0	0	---	3,(0-2) 		CIN	Jake Fraley	Charlie Morton	4%	67%	Single to SS (Ground Ball)
+t5	1-0	0	1--	4,(1-2) 	O	CIN	Amed Rosario	Charlie Morton	-4%	64%	Flyball: CF (CF-RF)
+t5	1-0	1	1--	3,(2-0) 	O	CIN	Noelvi Marte	Charlie Morton	-3%	61%	Lineout: 2B
+t5	1-0	2	1--	4,(2-1) 		CIN	Spencer Steer	Charlie Morton	1%	62%	J. Fraley Steals 2B
+t5	1-0	2	-2-	5,(3-1) 		CIN	Spencer Steer	Charlie Morton	1%	63%	Walk
+t5	1-0	2	12-	6,(3-2) 		CIN	Elly De La Cruz	Charlie Morton	3%	66%	Walk; J. Fraley to 3B; S. Steer to 2B
+t5	1-0	2	123	6,(2-2) 	O	CIN	Tyler Stephenson	Charlie Morton	-8%	58%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 3 LOB. Reds 1, Braves 0.
+Bottom of the 5th, Braves Batting, Behind 0-1, Reds' Nick Martinez facing 6-7-8
+b5	0-1	0	---	3,(0-2) 	O	ATL	Jarred Kelenic	Nick Martinez	3%	62%	Flyball: RF (Short RF)
+b5	0-1	1	---	7,(3-2) 	O	ATL	Gio Urshela	Nick Martinez	2%	64%	Strikeout Swinging
+b5	0-1	2	---	6,(3-2) 	O	ATL	Orlando Arcia	Nick Martinez	2%	66%	Lineout: RF
+									0 runs, 0 hits, 0 errors, 0 LOB. Reds 1, Braves 0.
+Top of the 6th, Reds Batting, Ahead 1-0, Braves' Charlie Morton facing 4-5-6
+t6	1-0	0	---	1,(0-0) 	O	CIN	TJ Friedl	Charlie Morton	-3%	63%	Bunt Groundout: P-1B (Front of Home)
+t6	1-0	1	---	3,(1-1) 		CIN	Ty France	Charlie Morton	3%	66%	Single to LF (Ground Ball thru SS-2B)
+t6	1-0	1	1--	2,(1-0) 	OO	CIN	Santiago Espinal	Charlie Morton	-6%	60%	Ground Ball Double Play: 3B-2B-1B
+									0 runs, 1 hit, 0 errors, 0 LOB. Reds 1, Braves 0.
+Bottom of the 6th, Braves Batting, Behind 0-1, Reds' Nick Martinez facing 9-1-2
+b6	0-1	0	---	4,(1-2) 	O	ATL	Luke Williams	Nick Martinez	4%	64%	Strikeout Swinging
+b6	0-1	1	---	6,(1-2) 	O	ATL	Michael Harris II	Nick Martinez	3%	67%	Groundout: 1B-P
+b6	0-1	2	---	2,(0-1) 	O	ATL	Jorge Soler	Nick Martinez	2%	69%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Reds 1, Braves 0.
+Top of the 7th, Reds Batting, Ahead 1-0, Braves' Charlie Morton facing 7-8-9
+t7	1-0	0	---	1,(0-0) 	O	CIN	Jake Fraley	Charlie Morton	-3%	67%	Groundout: 2B-1B (Deep 2B)
+t7	1-0	1	---	2,(1-0) 	O	CIN	Amed Rosario	Charlie Morton	-2%	65%	Groundout: 3B-1B (SS-3B Hole)
+t7	1-0	2	---	4,(2-1) 		CIN	Noelvi Marte	Charlie Morton	1%	66%	Single to LF (Ground Ball thru SS-3B Hole)
+t7	1-0	2	1--	3,(1-1) 		CIN	Spencer Steer	Charlie Morton	2%	68%	Single to LF (Line Drive to Deep LF); N. Marte to 2B
+									
+Aaron Bummer replaces Charlie Morton pitching
+
+t7	1-0	2	12-	1,(0-0) 	O	CIN	Elly De La Cruz	Aaron Bummer	-5%	63%	N. Marte Caught Stealing 3B (C-3B)
+									Tag play Challenged by CIN manager (David Bell): Original call upheld upon review.
+									0 runs, 2 hits, 0 errors, 1 LOB. Reds 1, Braves 0.
+Bottom of the 7th, Braves Batting, Behind 0-1, Reds' Nick Martinez facing 3-4-5
+b7	0-1	0	---	1,(0-0) 	O	ATL	Marcell Ozuna	Nick Martinez	5%	68%	Lineout: LF
+b7	0-1	1	---	3,(1-1) 		ATL	Matt Olson	Nick Martinez	-5%	63%	Single to 3B (Ground Ball to Weak 3B)
+b7	0-1	1	1--	5,(2-2) 	O	ATL	Sean Murphy	Nick Martinez	6%	69%	Lineout: 3B
+b7	0-1	2	1--	6,(3-2) 	O	ATL	Jarred Kelenic	Nick Martinez	5%	74%	Flyball: SS (Deep SS-3B Hole)
+									0 runs, 1 hit, 0 errors, 1 LOB. Reds 1, Braves 0.
+Top of the 8th, Reds Batting, Ahead 1-0, Braves' Aaron Bummer facing 2-3-4
+t8	1-0	0	---	4,(1-2) 	O	CIN	Elly De La Cruz	Aaron Bummer	-2%	72%	Strikeout Swinging
+t8	1-0	1	---	2,(1-0) 		CIN	Tyler Stephenson	Aaron Bummer	2%	74%	Reached on E6 (throw) (Ground Ball); T. Stephenson to 1B
+t8	1-0	1	1--	5,(2-2) 	O	CIN	TJ Friedl	Aaron Bummer	-3%	72%	Strikeout Looking
+									
+Grant Holmes replaces Aaron Bummer pitching
+
+t8	1-0	2	1--	4,(1-2) 	O	CIN	Ty France	Grant Holmes	-3%	69%	Strikeout Swinging
+									0 runs, 0 hits, 1 error, 1 LOB. Reds 1, Braves 0.
+Bottom of the 8th, Braves Batting, Behind 0-1, Reds' Fernando Cruz facing 7-8-9
+									
+Fernando Cruz replaces Nick Martinez pitching
+
+b8	0-1	0	---	7,(2-2) 	O	ATL	Gio Urshela	Fernando Cruz	6%	75%	Strikeout Swinging
+b8	0-1	1	---	3,(0-2) 	O	ATL	Orlando Arcia	Fernando Cruz	5%	80%	Strikeout Swinging
+b8	0-1	2	---	1,(0-0) 	O	ATL	Luke Williams	Fernando Cruz	3%	83%	Flyball: CF (Deep CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Reds 1, Braves 0.
+Top of the 9th, Reds Batting, Ahead 1-0, Braves' Grant Holmes facing 6-7-8
+t9	1-0	0	---	5,(2-2) 	O	CIN	Santiago Espinal	Grant Holmes	-2%	82%	Strikeout Swinging
+t9	1-0	1	---	4,(2-1) 		CIN	Jake Fraley	Grant Holmes	2%	83%	Single to RF (Ground Ball thru 2B-1B)
+t9	1-0	1	1--	3,(0-2) 		CIN	Amed Rosario	Grant Holmes	5%	89%	Single to RF (Line Drive to Short RF Line); J. Fraley to 3B
+t9	1-0	1	1-3	4,(1-2) 	O	CIN	Noelvi Marte	Grant Holmes	-5%	83%	Strikeout Swinging
+t9	1-0	2	1-3	4,(1-2) 	O	CIN	Spencer Steer	Grant Holmes	-4%	79%	Groundout: 3B-1B (Weak 3B)
+									Force Play Challenged by ATL manager (Brian Snitker): Original call overturned as shown.
+									0 runs, 2 hits, 0 errors, 2 LOB. Reds 1, Braves 0.
+Bottom of the 9th, Braves Batting, Behind 0-1, Reds' Alexis Díaz facing 1-2-3
+									
+Alexis Díaz replaces Fernando Cruz pitching
+
+b9	0-1	0	---	5,(2-2) 	O	ATL	Michael Harris II	Alexis Díaz	9%	88%	Flyball: LF (Deep LF Line)
+b9	0-1	1	---	2,(1-0) 	O	ATL	Jorge Soler	Alexis Díaz	7%	95%	Groundout: 3B-1B (SS-3B Hole)
+b9	0-1	2	---	5,(2-2) 	O	ATL	Marcell Ozuna	Alexis Díaz	5%	100%	Lineout: RF (CF-RF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Reds 1, Braves 0.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Atlanta Braves Schedule Cincinnati Reds Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Cincinnati Reds vs Atlanta Braves Box Score: September 9, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/ATL/ATL202409090.shtml 
+ ----- 

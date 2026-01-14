@@ -1,0 +1,668 @@
+MENU
+Minnesota Twins Face Crucial Home Game Against Marlins
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Cleveland Guardians Schedule
+Minnesota Twins Schedule
+Minnesota Twins vs Cleveland Guardians Box Score: September 19, 2024
+MLB Scores — September 19, 2024
+SFG\t3\tFinal
+BAL\t5\t
+ATL\t15\tFinal
+CIN\t3\t
+MIN\t2\tFinal
+CLE\t3\t(10)
+TOR\t4\tFinal
+TEX\t0\t
+NYY\t2\tFinal
+SEA\t3\t
+LAD\t20\tFinal
+MIA\t4\t
+BOS\t0\tFinal
+TBR\t2\t
+ARI\t5\tFinal
+MIL\t1\t
+PHI\t6\tFinal
+NYM\t10\t
+PIT\t3\tFinal
+STL\t2\t
+WSN\t6\tFinal
+CHC\t7\t
+LAA\t1\tFinal
+HOU\t3\t
+MLB Scores & Standings on this Day
+Minnesota Twins
+2
+80-73
+Prev Game Next Game
+ 
+Cleveland Guardians
+3
+89-65
+Prev Game Next Game
+Thursday, September 19, 2024
+Start Time: 1:10 p.m. Local
+Attendance: 21,707
+Venue: Progressive Field
+Game Duration: 3:04
+Day Game, on grass
+Logos via Sports Logos.net / About logos
+ \t \t1\t2\t3\t4\t5\t6\t7\t8\t9\t10\tR\tH\tE
+
+\tMinnesota Twins\t0\t0\t0\t0\t2\t0\t0\t0\t0\t0\t2\t3\t0
+
+\tCleveland Guardians\t1\t0\t0\t0\t0\t1\t0\t0\t0\t1\t3\t11\t2
+WP: Eli Morgan (3-0) • LP: Caleb Thielbar (2-4)
+Winning Run scored with 1 out
+Minnesota Twins 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Manuel Margot LF\t4\t0\t1\t1\t1\t1\t5\t.241\t.294\t.341\t.636\t26\t17\t0.132\t2.71\t0.262\t-0.129\t0.13%\t4.49\t0.8\t4\t0\t2B,GDP
+Carlos Correa DH\t3\t0\t0\t0\t2\t1\t5\t.312\t.384\t.521\t.905\t21\t11\t-0.196\t2.18\t0.042\t-0.238\t-0.19%\t3.62\t-0.6\t0\t0\t
+Byron Buxton CF\t5\t0\t0\t0\t0\t3\t5\t.272\t.332\t.523\t.856\t20\t13\t-0.332\t2.61\t0.000\t-0.332\t-0.33%\t4.33\t-1.9\t1\t0\t
+Carlos Santana 1B\t4\t0\t0\t0\t0\t2\t4\t.238\t.324\t.424\t.747\t17\t13\t-0.112\t1.09\t0.000\t-0.112\t-0.11%\t1.80\t-0.9\t6\t1\t
+Royce Lewis 3B\t3\t0\t1\t0\t1\t1\t4\t.250\t.311\t.496\t.807\t19\t11\t-0.027\t1.19\t0.056\t-0.083\t-0.03%\t1.97\t0.0\t0\t1\t
+Ryan Jeffers C\t4\t0\t0\t0\t0\t2\t4\t.228\t.304\t.438\t.742\t20\t15\t-0.127\t1.28\t0.000\t-0.127\t-0.13%\t2.13\t-0.9\t13\t0\t
+Kyle Farmer 2B\t4\t1\t1\t0\t0\t1\t4\t.226\t.305\t.379\t.684\t20\t14\t0.011\t1.08\t0.087\t-0.076\t0.01%\t1.79\t0.1\t0\t1\t2B
+Matt Wallner RF\t3\t0\t0\t0\t0\t3\t4\t.256\t.370\t.536\t.906\t13\t11\t-0.072\t2.04\t0.051\t-0.123\t-0.07%\t3.39\t-0.5\t1\t0\tHBP
+Willi Castro SS\t2\t1\t0\t0\t1\t0\t4\t.250\t.337\t.394\t.731\t14\t8\t0.050\t2.12\t0.078\t-0.028\t0.05%\t3.52\t0.4\t2\t1\tSH
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Simeon Woods Richardson P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1\t0\t
+   Cole Irvin P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t1\t
+   Cole Sands P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Louie Varland P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Griffin Jax P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Caleb Thielbar P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t32\t2\t3\t1\t5\t14\t39\t.094\t.237\t.156\t.393\t170\t113\t-0.673\t1.86\t0.576\t-1.248\t-0.67%\t3.09\t-3.5\t28\t5\t
+2B: Kyle Farmer (13, off Joey Cantillo); Manuel Margot (16, off Joey Cantillo).
+SH: Willi Castro (1, off Eli Morgan).
+HBP: Matt Wallner (15, by Eli Morgan).
+TB: Kyle Farmer 2; Manuel Margot 2; Royce Lewis.
+GIDP: Manuel Margot (9).
+RBI: Manuel Margot (31).
+Team LOB: 8.
+With RISP: 1 for 6.
+Fielding
+DP: 1. Carlos Santana-Willi Castro-Simeon Woods Richardson.
+Cleveland Guardians 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Angel Martínez LF\t5\t0\t0\t0\t0\t3\t5\t.248\t.315\t.368\t.684\t19\t16\t-0.180\t1.45\t0.000\t-0.180\t-0.04%\t0.55\t-1.2\t1\t0\t
+Kyle Manzardo DH\t3\t1\t3\t1\t0\t0\t3\t.258\t.301\t.452\t.752\t10\t7\t0.156\t0.82\t0.156\t0.000\t0.04%\t0.31\t1.5\t0\t0\tHR
+   David Fry PH-DH\t1\t0\t1\t0\t0\t0\t1\t.261\t.356\t.445\t.801\t1\t1\t0.040\t1.14\t0.040\t0.000\t0.01%\t0.43\t0.3\t0\t0\t
+   Daniel Schneemann PR-DH-DH\t1\t0\t0\t0\t0\t1\t1\t.222\t.300\t.378\t.678\t6\t3\t-0.044\t1.78\t0.000\t-0.044\t-0.01%\t0.67\t-0.2\t0\t0\t
+José Ramírez 3B\t4\t1\t0\t0\t1\t0\t5\t.271\t.329\t.510\t.839\t30\t20\t-0.104\t1.51\t0.056\t-0.160\t-0.02%\t0.57\t-0.8\t1\t2\tGDP
+Josh Naylor 1B\t5\t1\t1\t0\t0\t2\t5\t.244\t.321\t.465\t.785\t24\t13\t-0.149\t1.70\t0.064\t-0.213\t-0.03%\t0.64\t-0.9\t4\t1\t
+Lane Thomas CF-RF\t4\t0\t1\t0\t1\t2\t5\t.241\t.313\t.399\t.712\t15\t12\t-0.107\t2.01\t0.041\t-0.148\t-0.02%\t0.76\t-0.3\t4\t0\tIW
+Andrés Giménez 2B\t5\t0\t3\t1\t0\t1\t5\t.253\t.301\t.337\t.638\t17\t12\t0.304\t1.98\t0.379\t-0.075\t0.07%\t0.75\t1.0\t2\t2\t2B
+Jhonkensy Noel RF\t3\t0\t1\t0\t1\t1\t4\t.229\t.303\t.518\t.821\t15\t9\t0.092\t1.76\t0.149\t-0.057\t0.02%\t0.67\t0.3\t1\t0\t
+   Myles Straw PR-CF\t0\t0\t0\t0\t0\t0\t0\t\t\t\t\t\t\t\t\t\t\t\t\t\t1\t0\t
+Brayan Rocchio SS\t2\t0\t1\t1\t1\t0\t4\t.210\t.302\t.320\t.621\t15\t8\t0.032\t2.22\t0.089\t-0.057\t0.01%\t0.84\t0.2\t2\t0\tSF
+Austin Hedges C\t3\t0\t0\t0\t0\t1\t3\t.153\t.204\t.221\t.426\t6\t6\t-0.164\t2.15\t0.000\t-0.164\t-0.04%\t0.81\t-1.3\t14\t0\t
+   Bo Naylor PH-C\t1\t0\t0\t0\t0\t1\t1\t.201\t.266\t.351\t.617\t4\t3\t-0.050\t1.79\t0.000\t-0.050\t-0.01%\t0.68\t-0.2\t0\t0\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Joey Cantillo P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Nick Sandlin P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Tim Herrin P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Andrew Walters P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Hunter Gaddis P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Emmanuel Clase P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Eli Morgan P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t37\t3\t11\t3\t4\t12\t42\t.297\t.357\t.405\t.763\t162\t110\t-0.174\t1.73\t0.974\t-1.148\t-0.04%\t0.66\t-1.6\t30\t5\t
+2B: Andrés Giménez (21, off Simeon Woods Richardson).
+HR: Kyle Manzardo (4, off Simeon Woods Richardson, 1st inn, 0 on, 1 out to Deep RF Line).
+SF: Brayan Rocchio (5, off Cole Irvin).
+IBB: Lane Thomas (1, by Caleb Thielbar).
+TB: Kyle Manzardo 6; Andrés Giménez 4; Brayan Rocchio; Jhonkensy Noel; Lane Thomas; Josh Naylor; David Fry.
+GIDP: José Ramírez (9).
+RBI: Brayan Rocchio (36); Andrés Giménez (61); Kyle Manzardo (14).
+Team LOB: 12.
+With RISP: 2 for 9.
+Fielding
+DP: 1. José Ramírez-Andrés Giménez-Josh Naylor.
+E: Brayan Rocchio (11); Lane Thomas (6).
+Minnesota Twins 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Simeon Woods Richardson\t4.2\t5\t1\t1\t1\t6\t1\t4.00\t19\t72\t51\t28\t8\t15\t4\t8\t3\t0\t55\t\t\t0.113\t0.97\t0.11%\t1.62\t1.2
+Cole Irvin\t1.2\t4\t1\t1\t0\t2\t0\t4.86\t9\t30\t22\t14\t2\t6\t5\t2\t1\t0\t\t1\t0\t-0.038\t2.47\t-0.04%\t4.10\t-0.1
+Cole Sands\t0.2\t1\t0\t0\t1\t0\t0\t2.79\t4\t17\t11\t9\t1\t1\t0\t3\t1\t0\t\t0\t0\t0.049\t2.30\t0.05%\t3.81\t0.3
+Louie Varland\t1\t0\t0\t0\t1\t1\t0\t8.18\t4\t16\t9\t6\t1\t2\t1\t1\t0\t0\t\t0\t0\t0.105\t1.83\t0.10%\t3.04\t0.5
+Griffin Jax\t1\t0\t0\t0\t0\t2\t0\t2.13\t3\t15\t11\t5\t4\t2\t1\t0\t0\t0\t\t0\t0\t0.135\t1.80\t0.14%\t2.98\t0.5
+Caleb Thielbar, L (2-4)\t0.1\t1\t1\t0\t1\t1\t0\t5.61\t3\t12\t6\t5\t1\t0\t1\t0\t0\t0\t\t0\t0\t-0.191\t3.36\t-0.19%\t5.58\t-0.8
+Team Totals\t9.1\t11\t3\t2\t4\t12\t1\t1.93\t42\t162\t110\t67\t17\t26\t12\t14\t5\t0\t55\t1\t0\t0.173\t1.73\t0.17%\t2.88\t1.6
+
+Cleveland Guardians 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Joey Cantillo\t4.1\t3\t2\t1\t3\t6\t0\t4.63\t19\t86\t57\t27\t12\t18\t4\t6\t2\t0\t54\t\t\t-0.090\t1.19\t-0.02%\t0.45\t-0.2
+Nick Sandlin\t0.2\t0\t0\t0\t1\t2\t0\t3.93\t3\t19\t10\t5\t5\t0\t0\t0\t0\t0\t\t1\t0\t0.073\t1.71\t0.02%\t0.64\t0.7
+Tim Herrin\t1.1\t0\t0\t0\t0\t4\t0\t1.90\t4\t17\t14\t5\t5\t4\t0\t0\t0\t0\t\t0\t0\t0.093\t0.92\t0.02%\t0.35\t0.7
+Andrew Walters\t0.2\t0\t0\t0\t0\t1\t0\t0.00\t2\t9\t6\t3\t3\t0\t0\t1\t1\t0\t\t0\t0\t0.048\t0.95\t0.01%\t0.36\t0.3
+Hunter Gaddis\t1\t0\t0\t0\t0\t1\t0\t1.53\t3\t10\t7\t4\t1\t2\t1\t1\t0\t0\t\t0\t0\t0.105\t1.40\t0.02%\t0.53\t0.5
+Emmanuel Clase\t1\t0\t0\t0\t0\t0\t0\t0.63\t3\t14\t11\t8\t1\t2\t0\t3\t1\t0\t\t0\t0\t0.135\t1.79\t0.03%\t0.68\t0.5
+Eli Morgan, W (3-0)\t1\t0\t0\t0\t1\t0\t0\t1.64\t5\t15\t8\t6\t1\t1\t1\t2\t1\t0\t\t0\t0\t0.309\t5.96\t0.07%\t2.25\t1.1
+Team Totals\t10\t3\t2\t1\t5\t14\t0\t0.90\t39\t170\t113\t58\t28\t27\t6\t13\t5\t0\t54\t1\t0\t0.673\t1.86\t0.15%\t0.70\t3.5
+
+Balks: None.
+WP: None.
+HBP: Eli Morgan (1; Matt Wallner).
+IBB: Caleb Thielbar (2; Lane Thomas).
+Pickoffs: None.
+Other Info 
+Umpires: HP - Ryan Wills, 1B - Carlos Torres, 2B - Junior Valentine, 3B - Chad Fairchild, LF - (none), RF - (none).
+Time of Game: 3:04.
+Attendance: 21,707.
+Field Condition: Unknown.
+Start Time Weather: 76° F, Wind 4mph from Left to Right, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Twins
+1\tManuel Margot\tLF
+2\tCarlos Correa\tDH
+3\tByron Buxton\tCF
+4\tCarlos Santana\t1B
+5\tRoyce Lewis\t3B
+6\tRyan Jeffers\tC
+7\tKyle Farmer\t2B
+8\tMatt Wallner\tRF
+9\tWilli Castro\tSS
+\tSimeon Woods Richardson\tP
+Guardians
+1\tAngel Martínez\tLF
+2\tKyle Manzardo\tDH
+3\tJosé Ramírez\t3B
+4\tJosh Naylor\t1B
+5\tLane Thomas\tCF
+6\tAndrés Giménez\t2B
+7\tJhonkensy Noel\tRF
+8\tBrayan Rocchio\tSS
+9\tAustin Hedges\tC
+\tJoey Cantillo\tP
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Minnesota Twins vs. Cleveland Guardians, September 19
+2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+b10
+CLE
+50%
+MIN
+Inning\tWin Pct
+1\t0.5
+2\t0.48
+3\t0.5
+4\t0.47
+5\t0.45
+6\t0.47
+7\t0.37
+8\t0.38
+9\t0.39
+10\t0.43
+11\t0.4
+12\t0.37
+13\t0.34
+14\t0.31
+15\t0.34
+16\t0.36
+17\t0.35
+18\t0.38
+19\t0.43
+20\t0.34
+21\t0.33
+22\t0.35
+23\t0.33
+24\t0.37
+25\t0.34
+26\t0.32
+27\t0.34
+28\t0.31
+29\t0.33
+30\t0.35
+31\t0.32
+32\t0.36
+33\t0.44
+34\t0.38
+35\t0.41
+36\t0.66
+37\t0.68
+38\t0.64
+39\t0.59
+40\t0.54
+41\t0.59
+42\t0.63
+43\t0.6
+44\t0.67
+45\t0.64
+46\t0.62
+47\t0.61
+48\t0.55
+49\t0.61
+50\t0.54
+51\t0.44
+52\t0.42
+53\t0.5
+54\t0.46
+55\t0.43
+56\t0.41
+57\t0.45
+58\t0.41
+59\t0.36
+60\t0.43
+61\t0.5
+62\t0.45
+63\t0.42
+64\t0.39
+65\t0.44
+66\t0.39
+67\t0.45
+68\t0.5
+69\t0.44
+70\t0.4
+71\t0.36
+72\t0.42
+73\t0.47
+74\t0.5
+75\t0.55
+76\t0.56
+77\t0.57
+78\t0.39
+79\t0.19
+80\t0.3
+81\t0.29
+82\t0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+b10\t2-2\t1\t12-\t6,(3-2) \tR\tCLE\tAndrés Giménez\tCaleb Thielbar\t29%\t100%\tSingle to RF (Ground Ball); J. Ramírez Scores/unER; L. Thomas to 2B
+t5\t0-1\t1\t12-\t6,(1-2) \tRR\tMIN\tManuel Margot\tJoey Cantillo\t-25%\t34%\tDouble to CF (Line Drive); K. Farmer Scores; W. Castro Scores/Adv on E8/No RBI/unER
+t10\t2-2\t2\t123\t4,(1-2) \tO\tMIN\tByron Buxton\tEli Morgan\t20%\t81%\tLineout: RF
+t10\t2-2\t1\t123\t2,(1-0) \tO\tMIN\tCarlos Correa\tEli Morgan\t18%\t61%\tFoul Popfly: 1B (1B into Foul Terr.)
+b10\t2-2\t0\t-2-\t6,(3-2) \tO\tCLE\tJosh Naylor\tCaleb Thielbar\t-11%\t70%\tStrikeout Swinging
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+Top of the 1st, Twins Batting, Tied 0-0, Guardians' Joey Cantillo facing 1-2-3
+t1\t0-0\t0\t---\t5,(1-2) \tO\tMIN\tManuel Margot\tJoey Cantillo\t2%\t52%\tPopfly: SS (Short LF-CF)
+t1\t0-0\t1\t---\t7,(3-2) \t\tMIN\tCarlos Correa\tJoey Cantillo\t-2%\t50%\tWalk
+t1\t0-0\t1\t1--\t1,(0-0) \tO\tMIN\tByron Buxton\tJoey Cantillo\t3%\t53%\tFlyball: CF (Deep CF)
+t1\t0-0\t2\t1--\t5,(1-2) \tO\tMIN\tCarlos Santana\tJoey Cantillo\t2%\t55%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Twins 0, Guardians 0.
+Bottom of the 1st, Guardians Batting, Tied 0-0, Twins' Simeon Woods Richardson facing 1-2-3
+b1\t0-0\t0\t---\t4,(0-2) \tO\tCLE\tAngel Martínez\tSimeon Woods Richardson\t-2%\t53%\tPopfly: 1B (Weak 2B-1B)
+b1\t0-0\t1\t---\t2,(0-1) \tR\tCLE\tKyle Manzardo\tSimeon Woods Richardson\t10%\t63%\tHome Run (Fly Ball to Deep RF Line)
+b1\t1-0\t1\t---\t9,(3-2) \tO\tCLE\tJosé Ramírez\tSimeon Woods Richardson\t-1%\t62%\tPopfly: SS (Short LF-CF)
+b1\t1-0\t2\t---\t6,(3-2) \tO\tCLE\tJosh Naylor\tSimeon Woods Richardson\t-1%\t61%\tGroundout: 1B unassisted
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 0 LOB. Twins 0, Guardians 1.
+Top of the 2nd, Twins Batting, Behind 0-1, Guardians' Joey Cantillo facing 5-6-7
+t2\t0-1\t0\t---\t5,(2-2) \t\tMIN\tRoyce Lewis\tJoey Cantillo\t-4%\t57%\tSingle to SS (Ground Ball to SS-3B Hole)
+t2\t0-1\t0\t1--\t5,(2-2) \tO\tMIN\tRyan Jeffers\tJoey Cantillo\t4%\t60%\tStrikeout Looking
+t2\t0-1\t1\t1--\t6,(1-2) \tO\tMIN\tKyle Farmer\tJoey Cantillo\t3%\t63%\tFlyball: RF (Deep CF-RF)
+t2\t0-1\t2\t1--\t4,(1-2) \tO\tMIN\tMatt Wallner\tJoey Cantillo\t2%\t66%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Twins 0, Guardians 1.
+Bottom of the 2nd, Guardians Batting, Ahead 1-0, Twins' Simeon Woods Richardson facing 5-6-7
+b2\t1-0\t0\t---\t4,(1-2) \t\tCLE\tLane Thomas\tSimeon Woods Richardson\t3%\t69%\tSingle to SS (Ground Ball to SS-3B Hole)
+b2\t1-0\t0\t1--\t3,(0-2) \tO\tCLE\tAndrés Giménez\tSimeon Woods Richardson\t-3%\t66%\tStrikeout Swinging
+b2\t1-0\t1\t1--\t3,(0-2) \tO\tCLE\tJhonkensy Noel\tSimeon Woods Richardson\t-2%\t64%\tStrikeout Swinging
+b2\t1-0\t2\t1--\t2,(1-0) \t\tCLE\tBrayan Rocchio\tSimeon Woods Richardson\t2%\t65%\tSingle to LF (Line Drive to Short LF); L. Thomas to 2B
+b2\t1-0\t2\t12-\t2,(0-1) \tO\tCLE\tAustin Hedges\tSimeon Woods Richardson\t-4%\t62%\tLineout: LF
+\t\t\t\t\t\t\t\t\t0 runs, 2 hits, 0 errors, 2 LOB. Twins 0, Guardians 1.
+Top of the 3rd, Twins Batting, Behind 0-1, Guardians' Joey Cantillo facing 9-1-2
+t3\t0-1\t0\t---\t4,(1-2) \t\tMIN\tWilli Castro\tJoey Cantillo\t-4%\t57%\tReached on E6 (Ground Ball to Short LF); W. Castro to 1B
+t3\t0-1\t0\t1--\t2,(1-0) \tOO\tMIN\tManuel Margot\tJoey Cantillo\t9%\t66%\tGround Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t3\t0-1\t2\t---\t4,(1-2) \tO\tMIN\tCarlos Correa\tJoey Cantillo\t1%\t67%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 1 error, 0 LOB. Twins 0, Guardians 1.
+Bottom of the 3rd, Guardians Batting, Ahead 1-0, Twins' Simeon Woods Richardson facing 1-2-3
+b3\t1-0\t0\t---\t3,(0-2) \tO\tCLE\tAngel Martínez\tSimeon Woods Richardson\t-2%\t65%\tStrikeout Swinging
+b3\t1-0\t1\t---\t6,(3-2) \t\tCLE\tKyle Manzardo\tSimeon Woods Richardson\t2%\t67%\tSingle to RF (Line Drive to Deep RF Line)
+b3\t1-0\t1\t1--\t3,(2-0) \tOO\tCLE\tJosé Ramírez\tSimeon Woods Richardson\t-5%\t63%\tGround Ball Double Play: 1B-SS-P (Weak 1B)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 0 LOB. Twins 0, Guardians 1.
+Top of the 4th, Twins Batting, Behind 0-1, Guardians' Joey Cantillo facing 3-4-5
+t4\t0-1\t0\t---\t4,(1-2) \tO\tMIN\tByron Buxton\tJoey Cantillo\t3%\t66%\tStrikeout Swinging
+t4\t0-1\t1\t---\t2,(0-1) \tO\tMIN\tCarlos Santana\tJoey Cantillo\t2%\t68%\tGroundout: 3B-1B (SS-3B Hole)
+t4\t0-1\t2\t---\t4,(3-0) \t\tMIN\tRoyce Lewis\tJoey Cantillo\t-2%\t66%\tWalk
+t4\t0-1\t2\t1--\t4,(1-2) \tO\tMIN\tRyan Jeffers\tJoey Cantillo\t3%\t69%\tPopfly: 3B (Weak SS)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Twins 0, Guardians 1.
+Bottom of the 4th, Guardians Batting, Ahead 1-0, Twins' Simeon Woods Richardson facing 4-5-6
+b4\t1-0\t0\t---\t3,(0-2) \tO\tCLE\tJosh Naylor\tSimeon Woods Richardson\t-2%\t67%\tStrikeout Swinging
+b4\t1-0\t1\t---\t4,(0-2) \tO\tCLE\tLane Thomas\tSimeon Woods Richardson\t-1%\t65%\tStrikeout Looking
+b4\t1-0\t2\t---\t4,(2-1) \t\tCLE\tAndrés Giménez\tSimeon Woods Richardson\t2%\t68%\tDouble to CF (Ground Ball thru SS-2B)
+b4\t1-0\t2\t-2-\t4,(1-2) \tO\tCLE\tJhonkensy Noel\tSimeon Woods Richardson\t-3%\t64%\tFlyball: RF (Deep RF Line)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Twins 0, Guardians 1.
+Top of the 5th, Twins Batting, Behind 0-1, Guardians' Joey Cantillo facing 7-8-9
+t5\t0-1\t0\t---\t7,(3-2) \t\tMIN\tKyle Farmer\tJoey Cantillo\t-9%\t56%\tDouble to RF (Line Drive to Deep CF-RF)
+t5\t0-1\t0\t-2-\t5,(0-2) \tO\tMIN\tMatt Wallner\tJoey Cantillo\t6%\t62%\tStrikeout Swinging
+t5\t0-1\t1\t-2-\t6,(3-2) \t\tMIN\tWilli Castro\tJoey Cantillo\t-3%\t59%\tWalk
+t5\t0-1\t1\t12-\t6,(1-2) \tRR\tMIN\tManuel Margot\tJoey Cantillo\t-25%\t34%\tDouble to CF (Line Drive); K. Farmer Scores; W. Castro Scores/Adv on E8/No RBI/unER
+\t\t\t\t\t\t\t\t\t
+Nick Sandlin replaces Joey Cantillo pitching
+
+t5\t2-1\t1\t-2-\t6,(3-2) \t\tMIN\tCarlos Correa\tNick Sandlin\t-2%\t32%\tWalk
+t5\t2-1\t1\t12-\t6,(3-2) \tO\tMIN\tByron Buxton\tNick Sandlin\t5%\t36%\tStrikeout Swinging
+t5\t2-1\t2\t12-\t7,(2-2) \tO\tMIN\tCarlos Santana\tNick Sandlin\t5%\t41%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t2 runs, 2 hits, 1 error, 2 LOB. Twins 2, Guardians 1.
+Bottom of the 5th, Guardians Batting, Behind 1-2, Twins' Simeon Woods Richardson facing 8-9-1
+b5\t1-2\t0\t---\t5,(3-1) \t\tCLE\tBrayan Rocchio\tSimeon Woods Richardson\t6%\t46%\tWalk
+b5\t1-2\t0\t1--\t1,(0-0) \tO\tCLE\tAustin Hedges\tSimeon Woods Richardson\t-5%\t41%\tFlyball: LF (Deep LF)
+b5\t1-2\t1\t1--\t4,(1-2) \tO\tCLE\tAngel Martínez\tSimeon Woods Richardson\t-4%\t37%\tStrikeout Looking
+\t\t\t\t\t\t\t\t\t
+Cole Irvin replaces Simeon Woods Richardson pitching
+
+b5\t1-2\t2\t1--\t2,(0-1) \t\tCLE\tKyle Manzardo\tCole Irvin\t3%\t40%\tSingle to 3B (Ground Ball to Weak 3B); B. Rocchio to 2B
+b5\t1-2\t2\t12-\t3,(0-2) \tO\tCLE\tJosé Ramírez\tCole Irvin\t-7%\t33%\tGroundout: P-1B
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 2 LOB. Twins 2, Guardians 1.
+Top of the 6th, Twins Batting, Ahead 2-1, Guardians' Tim Herrin facing 5-6-7
+\t\t\t\t\t\t\t\t\t
+Tim Herrin replaces Nick Sandlin pitching
+
+t6\t2-1\t0\t---\t6,(1-2) \tO\tMIN\tRoyce Lewis\tTim Herrin\t2%\t36%\tStrikeout Swinging
+t6\t2-1\t1\t---\t4,(1-2) \tO\tMIN\tRyan Jeffers\tTim Herrin\t2%\t38%\tStrikeout Swinging
+t6\t2-1\t2\t---\t4,(1-2) \tO\tMIN\tKyle Farmer\tTim Herrin\t1%\t39%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Guardians 1.
+Bottom of the 6th, Guardians Batting, Behind 1-2, Twins' Cole Irvin facing 4-5-6
+b6\t1-2\t0\t---\t5,(3-1) \t\tCLE\tJosh Naylor\tCole Irvin\t6%\t45%\tSingle to RF (Ground Ball)
+b6\t1-2\t0\t1--\t5,(2-2) \tO\tCLE\tLane Thomas\tCole Irvin\t-6%\t39%\tStrikeout Looking
+b6\t1-2\t1\t1--\t1,(0-0) \t\tCLE\tAndrés Giménez\tCole Irvin\t6%\t46%\tSingle to SS (Ground Ball); J. Naylor to 2B
+b6\t1-2\t1\t12-\t3,(1-1) \t\tCLE\tJhonkensy Noel\tCole Irvin\t10%\t56%\tSingle to LF (Line Drive to LF-CF); J. Naylor to 3B; A. Giménez to 2B
+b6\t1-2\t1\t123\t4,(0-2) \tRO\tCLE\tBrayan Rocchio\tCole Irvin\t2%\t58%\tFlyball: CF/Sacrifice Fly (Deep CF); J. Naylor Scores; A. Giménez to 3B
+b6\t2-2\t2\t1-3\t3,(0-2) \tO\tCLE\tAustin Hedges\tCole Irvin\t-8%\t50%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t1 run, 3 hits, 0 errors, 2 LOB. Twins 2, Guardians 2.
+Top of the 7th, Twins Batting, Tied 2-2, Guardians' Tim Herrin facing 8-9-1
+t7\t2-2\t0\t---\t3,(0-2) \tO\tMIN\tMatt Wallner\tTim Herrin\t4%\t54%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t
+Andrew Walters replaces Tim Herrin pitching
+
+t7\t2-2\t1\t---\t3,(1-1) \tO\tMIN\tWilli Castro\tAndrew Walters\t3%\t57%\tLineout: CF (Deep CF)
+t7\t2-2\t2\t---\t6,(2-2) \tO\tMIN\tManuel Margot\tAndrew Walters\t2%\t59%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Guardians 2.
+Bottom of the 7th, Guardians Batting, Tied 2-2, Twins' Cole Irvin facing 1-2-3
+b7\t2-2\t0\t---\t4,(2-1) \tO\tCLE\tAngel Martínez\tCole Irvin\t-4%\t55%\tGroundout: 2B-1B
+\t\t\t\t\t\t\t\t\t
+Cole Sands replaces Cole Irvin pitching
+David Fry pinch hits for Kyle Manzardo (DH) batting 2nd
+
+b7\t2-2\t1\t---\t1,(0-0) \t\tCLE\tDavid Fry\tCole Sands\t4%\t59%\tSingle to RF (Line Drive to RF Line)
+b7\t2-2\t1\t1--\t10,(3-2) \t\tCLE\tJosé Ramírez\tCole Sands\t6%\t64%\tWalk; D. Fry to 2B
+\t\t\t\t\t\t\t\t\t
+Daniel Schneemann pinch runs for David Fry (PH) batting 2nd
+
+b7\t2-2\t1\t12-\t4,(2-1) \tO\tCLE\tJosh Naylor\tCole Sands\t-7%\t57%\tFlyball: LF (Short LF)
+b7\t2-2\t2\t12-\t2,(0-1) \tO\tCLE\tLane Thomas\tCole Sands\t-7%\t50%\tFoul Popfly: C (Behind Home)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 2 LOB. Twins 2, Guardians 2.
+Top of the 8th, Twins Batting, Tied 2-2, Guardians' Hunter Gaddis facing 2-3-4
+\t\t\t\t\t\t\t\t\t
+Hunter Gaddis replaces Andrew Walters pitching
+
+t8\t2-2\t0\t---\t2,(0-1) \tO\tMIN\tCarlos Correa\tHunter Gaddis\t5%\t55%\tGroundout: 2B-1B
+t8\t2-2\t1\t---\t5,(2-2) \tO\tMIN\tByron Buxton\tHunter Gaddis\t3%\t58%\tStrikeout Looking
+t8\t2-2\t2\t---\t3,(1-1) \tO\tMIN\tCarlos Santana\tHunter Gaddis\t2%\t61%\tFlyball: LF (LF-CF)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Guardians 2.
+Bottom of the 8th, Guardians Batting, Tied 2-2, Twins' Louie Varland facing 6-7-8
+\t\t\t\t\t\t\t\t\t
+Louie Varland replaces Cole Sands pitching
+
+b8\t2-2\t0\t---\t3,(0-2) \tO\tCLE\tAndrés Giménez\tLouie Varland\t-5%\t56%\tGroundout: 3B-1B (SS-3B Hole)
+b8\t2-2\t1\t---\t5,(3-1) \t\tCLE\tJhonkensy Noel\tLouie Varland\t5%\t61%\tWalk
+\t\t\t\t\t\t\t\t\t
+Myles Straw pinch runs for Jhonkensy Noel (RF) batting 7th
+
+b8\t2-2\t1\t1--\t4,(2-1) \tO\tCLE\tBrayan Rocchio\tLouie Varland\t-6%\t55%\tFoul Popfly: LF (3B into Foul Terr.)
+\t\t\t\t\t\t\t\t\t
+Bo Naylor pinch hits for Austin Hedges (C) batting 9th
+
+b8\t2-2\t2\t1--\t4,(1-2) \tO\tCLE\tBo Naylor\tLouie Varland\t-5%\t50%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Twins 2, Guardians 2.
+Top of the 9th, Twins Batting, Tied 2-2, Guardians' Emmanuel Clase facing 5-6-7
+\t\t\t\t\t\t\t\t\t
+Emmanuel Clase replaces Hunter Gaddis pitching
+Bo Naylor moves from PH to C
+Myles Straw moves from PR to CF
+Lane Thomas moves from CF to RF
+
+t9\t2-2\t0\t---\t4,(1-2) \tO\tMIN\tRoyce Lewis\tEmmanuel Clase\t6%\t56%\tPopfly: SS (Short CF)
+t9\t2-2\t1\t---\t7,(1-2) \tO\tMIN\tRyan Jeffers\tEmmanuel Clase\t4%\t60%\tFlyball: RF
+t9\t2-2\t2\t---\t3,(1-1) \tO\tMIN\tKyle Farmer\tEmmanuel Clase\t3%\t64%\tLineout: CF
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Guardians 2.
+Bottom of the 9th, Guardians Batting, Tied 2-2, Twins' Griffin Jax facing 1-2-3
+\t\t\t\t\t\t\t\t\t
+Griffin Jax replaces Louie Varland pitching
+
+b9\t2-2\t0\t---\t4,(0-2) \tO\tCLE\tAngel Martínez\tGriffin Jax\t-6%\t58%\tStrikeout Swinging
+b9\t2-2\t1\t---\t6,(3-2) \tO\tCLE\tDaniel Schneemann\tGriffin Jax\t-4%\t53%\tStrikeout Looking
+b9\t2-2\t2\t---\t5,(1-2) \tO\tCLE\tJosé Ramírez\tGriffin Jax\t-3%\t50%\tGroundout: 1B unassisted
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Twins 2, Guardians 2.
+Top of the 10th, Twins Batting, Tied 2-2, Guardians' Eli Morgan facing 8-9-1
+\t\t\t\t\t\t\t\t\t
+Eli Morgan replaces Emmanuel Clase pitching
+Kyle Farmer running at second base to start the extra inning
+
+t10\t2-2\t0\t-2-\t1,(0-0) \t\tMIN\tMatt Wallner\tEli Morgan\t-5%\t45%\tHit By Pitch
+t10\t2-2\t0\t12-\t1,(0-0) \tO\tMIN\tWilli Castro\tEli Morgan\t-1%\t44%\tBunt Groundout: 1B-2B/Sacrifice (Short 1B Line); K. Farmer to 3B; M. Wallner to 2B
+t10\t2-2\t1\t-23\t7,(3-2) \t\tMIN\tManuel Margot\tEli Morgan\t-1%\t43%\tWalk
+t10\t2-2\t1\t123\t2,(1-0) \tO\tMIN\tCarlos Correa\tEli Morgan\t18%\t61%\tFoul Popfly: 1B (1B into Foul Terr.)
+t10\t2-2\t2\t123\t4,(1-2) \tO\tMIN\tByron Buxton\tEli Morgan\t20%\t81%\tLineout: RF
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 3 LOB. Twins 2, Guardians 2.
+Bottom of the 10th, Guardians Batting, Tied 2-2, Twins' Caleb Thielbar facing 4-5-6
+\t\t\t\t\t\t\t\t\t
+Caleb Thielbar replaces Griffin Jax pitching
+José Ramírez running at second base to start the extra inning
+
+b10\t2-2\t0\t-2-\t6,(3-2) \tO\tCLE\tJosh Naylor\tCaleb Thielbar\t-11%\t70%\tStrikeout Swinging
+b10\t2-2\t1\t-2-\t,(3-0) \t\tCLE\tLane Thomas\tCaleb Thielbar\t1%\t71%\tIntentional Walk
+b10\t2-2\t1\t12-\t6,(3-2) \tR\tCLE\tAndrés Giménez\tCaleb Thielbar\t29%\t100%\tSingle to RF (Ground Ball); J. Ramírez Scores/unER; L. Thomas to 2B
+\t\t\t\t\t\t\t\t\t1 run, 1 hit, 0 errors, 2 LOB. Twins 2, Guardians 3.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Cleveland Guardians Schedule Minnesota Twins Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Minnesota Twins vs Cleveland Guardians Box Score: September 19, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/CLE/CLE202409190.shtml 
+ ----- 

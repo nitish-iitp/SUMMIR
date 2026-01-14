@@ -1,0 +1,389 @@
+AUS vs PAK
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+18th Match (D/N), Bengaluru, October 20, 2023, ICC Cricket World Cup
+AUS
+367/9
+PAK
+(45.3/50 ov, T:368) 305
+
+Australia won by 62 runs
+
+Powered by Smart Stats
+Win Probability
+AUS 100%
+PAK 0.00%
+AUS
+PAK
+100%
+50%
+100%
+AUS Innings
+PAK Innings
+
+Over 46 • PAK 305/10
+
+Shaheen Shah Afridi c Labuschagne b Cummins 10 (8b 2x4 0x6 17m) SR: 125
+W
+Australia won by 62 runs
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+David Warner
+, AUS
+163 (124)
+CRICINFO'S MVP
+David Warner
+, AUS
+243.94 pts
+Impact List
+Australia
+Pakistan
+Match Flow
+Info
+Australia  (50 ovs maximum)
+Batting	R	B	4s	6s	SR
+
+David Warner 
+	163	124	14	9	131.45
+
+c sub (Shadab Khan) b Haris Rauf
+
+
+Mitchell Marsh 
+	121	108	10	9	112.03
+
+c Usama Mir b Shaheen Shah Afridi
+
+
+Glenn Maxwell 
+	0	1	0	0	0.00
+
+c Babar Azam b Shaheen Shah Afridi
+
+
+Steven Smith 
+	7	9	0	0	77.77
+
+c & b Usama Mir
+
+
+Marcus Stoinis 
+	21	24	1	1	87.50
+
+lbw b Shaheen Shah Afridi
+
+
+Josh Inglis †
+	13	9	3	0	144.44
+
+c †Mohammad Rizwan b Haris Rauf
+
+
+Marnus Labuschagne 
+	8	12	1	0	66.66
+
+c sub (Shadab Khan) b Haris Rauf
+
+
+Pat Cummins (c)
+	6	8	0	0	75.00
+
+not out
+
+
+Mitchell Starc 
+	2	3	0	0	66.66
+
+c Saud Shakeel b Shaheen Shah Afridi
+
+
+Josh Hazlewood 
+	0	1	0	0	0.00
+
+c †Mohammad Rizwan b Shaheen Shah Afridi
+
+
+Adam Zampa 
+	1	1	0	0	100.00
+
+not out
+
+Extras	25	(b 1, lb 10, w 14)
+Total	367/9	
+50 Ov (RR: 7.34)
+
+
+Fall of wickets: 1-259 (Mitchell Marsh, 33.5 ov), 2-259 (Glenn Maxwell, 33.6 ov), 3-284 (Steven Smith, 38.1 ov), 4-325 (David Warner, 42.2 ov), 5-339 (Josh Inglis, 44.2 ov), 6-354 (Marcus Stoinis, 47.1 ov), 7-360 (Marnus Labuschagne, 48.3 ov), 8-363 (Mitchell Starc, 49.1 ov), 9-363 (Josh Hazlewood, 49.2 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Shaheen Shah Afridi
+	10	1	54	
+5
+	5.40	3	0
+
+Hasan Ali
+	8	0	57	0	7.12	3	0
+
+Iftikhar Ahmed
+	8	0	37	0	4.62	2	0
+
+Haris Rauf
+	8	0	83	
+3
+	10.37	3	0
+
+Usama Mir
+	9	0	82	
+1
+	9.11	2	0
+
+Mohammad Nawaz
+	7	0	43	0	6.14	0	0
+Pakistan  (T: 368 runs from 50 ovs)
+Batting	R	B	4s	6s	SR
+
+Abdullah Shafique 
+	64	61	7	2	104.91
+
+c Maxwell b Stoinis
+
+
+Imam-ul-Haq 
+	70	71	10	0	98.59
+
+c Starc b Stoinis
+
+
+Babar Azam (c)
+	18	14	3	0	128.57
+
+c Cummins b Zampa
+
+
+Mohammad Rizwan †
+	46	40	5	0	115.00
+
+lbw b Zampa
+
+
+Saud Shakeel 
+	30	31	5	0	96.77
+
+c Stoinis b Cummins
+
+
+Iftikhar Ahmed 
+	26	20	0	3	130.00
+
+lbw b Zampa
+
+
+Mohammad Nawaz 
+	14	16	0	1	87.50
+
+st †Inglis b Zampa
+
+
+Usama Mir 
+	0	3	0	0	0.00
+
+c Starc b Hazlewood
+
+
+Shaheen Shah Afridi 
+	10	8	2	0	125.00
+
+c Labuschagne b Cummins
+
+
+Hasan Ali 
+	8	8	2	0	100.00
+
+c †Inglis b Starc
+
+
+Haris Rauf 
+	0	1	0	0	0.00
+
+not out
+
+Extras	19	(b 1, lb 7, w 11)
+Total	305	
+45.3 Ov (RR: 6.70)
+
+
+Fall of wickets: 1-134 (Abdullah Shafique, 21.1 ov), 2-154 (Imam-ul-Haq, 23.4 ov), 3-175 (Babar Azam, 26.2 ov), 4-232 (Saud Shakeel, 34.2 ov), 5-269 (Iftikhar Ahmed, 38.5 ov), 6-274 (Mohammad Rizwan, 40.5 ov), 7-277 (Usama Mir, 41.5 ov), 8-287 (Mohammad Nawaz, 42.6 ov), 9-301 (Hasan Ali, 44.5 ov), 10-305 (Shaheen Shah Afridi, 45.3 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Mitchell Starc
+	8	0	65	
+1
+	8.12	6	0
+
+Josh Hazlewood
+	10	1	37	
+1
+	3.70	1	0
+
+Pat Cummins
+	7.3	0	62	
+2
+	8.26	0	0
+
+Adam Zampa
+	10	0	53	
+4
+	5.30	1	0
+
+Glenn Maxwell
+	5	0	40	0	8.00	0	0
+
+Marcus Stoinis
+	5	0	40	
+2
+	8.00	3	0
+Unlocking the magic of Statsguru
+Match Flow
+Australia innings
+Over 0.1: Review by Pakistan (Bowling), Decision Challenged - Wicket, Umpire - CM Brown, Batter - DA Warner (Struck down)
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 82 runs, 0 wicket)
+Australia: 50 runs in 8.2 overs (50 balls), Extras 6
+1st Wicket: 50 runs in 50 balls (DA Warner 32, MR Marsh 15, Ex 6)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 215 runs, 3 wickets)
+Australia: 100 runs in 12.3 overs (75 balls), Extras 7
+DA Warner: 50 off 39 balls (5 x 4, 3 x 6)
+1st Wicket: 100 runs in 75 balls (DA Warner 52, MR Marsh 41, Ex 7)
+MR Marsh: 50 off 40 balls (8 x 4, 2 x 6)
+Drinks: Australia - 128/0 in 15.0 overs (DA Warner 63, MR Marsh 56)
+Australia: 150 runs in 20.2 overs (122 balls), Extras 11
+1st Wicket: 150 runs in 122 balls (DA Warner 75, MR Marsh 64, Ex 11)
+Australia: 200 runs in 29.2 overs (176 balls), Extras 13
+1st Wicket: 200 runs in 176 balls (DA Warner 98, MR Marsh 94, Ex 13)
+DA Warner: 100 off 85 balls (7 x 4, 6 x 6)
+MR Marsh: 100 off 100 balls (10 x 4, 6 x 6)
+Drinks: Australia - 231/0 in 32.2 overs (DA Warner 109, MR Marsh 109)
+Australia: 250 runs in 33.1 overs (199 balls), Extras 13
+1st Wicket: 250 runs in 199 balls (DA Warner 123, MR Marsh 115, Ex 13)
+Australia: 300 runs in 40.1 overs (241 balls), Extras 20
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 70 runs, 6 wickets)
+DA Warner: 150 off 116 balls (14 x 4, 8 x 6)
+Over 44.2: Review by Pakistan (Bowling), Decision Challenged - Wicket, Umpire - CM Brown, Batter - JP Inglis (Upheld)
+Australia: 350 runs in 46.2 overs (278 balls), Extras 20
+Over 47.1: Review by Australia (Batting), Decision Challenged - Wicket, Umpire - RK Illingworth, Batter - MP Stoinis (Struck down)
+Innings Break: Australia - 367/9 in 50.0 overs (PJ Cummins 6, A Zampa 1)
+Pakistan innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 59 runs, 0 wicket)
+Pakistan: 50 runs in 8.2 overs (50 balls), Extras 6
+1st Wicket: 50 runs in 50 balls (Abdullah Shafique 16, Imam-ul-Haq 28, Ex 6)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 213 runs, 5 wickets)
+Drinks: Pakistan - 94/0 in 15.0 overs (Abdullah Shafique 45, Imam-ul-Haq 42)
+Pakistan: 100 runs in 16.4 overs (100 balls), Extras 7
+1st Wicket: 100 runs in 100 balls (Abdullah Shafique 49, Imam-ul-Haq 44, Ex 7)
+Abdullah Shafique: 50 off 52 balls (5 x 4, 2 x 6)
+Imam-ul-Haq: 50 off 54 balls (8 x 4)
+No ball tracking or ultra-edge for reviews from 16.1 to 17.6 overs
+Pakistan: 150 runs in 22.6 overs (138 balls), Extras 8
+Drinks: Pakistan - 196/3 in 29.4 overs (Mohammad Rizwan 19, Saud Shakeel 10)
+Pakistan: 200 runs in 29.6 overs (180 balls), Extras 15
+4th Wicket: 50 runs in 43 balls (Mohammad Rizwan 18, Saud Shakeel 25, Ex 7)
+Pakistan: 250 runs in 36.5 overs (221 balls), Extras 18
+Over 38.5: Review by Australia (Bowling), Decision Challenged - Wicket, Umpire - CM Brown, Batter - Iftikhar Ahmed (Upheld)
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 33 runs, 5 wickets)
+Over 40.5: Review by Pakistan (Batting), Decision Challenged - Wicket, Umpire - CM Brown, Batter - Mohammad Rizwan (Struck down - Umpires Call)
+Pakistan: 300 runs in 44.4 overs (268 balls), Extras 19
+Match Details
+M Chinnaswamy Stadium, Bengaluru
+
+Toss	Pakistan, elected to field first
+Series	
+ICC Cricket World Cup
+Australia tour of India
+
+Season	
+2023/24
+
+Player Of The Match	
+David Warner
+
+Match number	
+ODI no. 4675
+
+Hours of play (local time)	14.00 start, First Session 14.00-17.30, Interval 17.30-18.00, Second Session 18.00-21.30
+Match days	20 October 2023 - daynight (50-over match)
+Umpires	
+Chris Brown
+DRS
+Richard Illingworth
+DRS
+
+TV Umpire	
+Michael Gough
+
+Reserve Umpire	
+Jayaraman Madanagopal
+
+Match Referee	
+Richie Richardson
+
+Points	Australia 2, Pakistan 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 874 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/australia-vs-pakistan-18th-match-1384409/full-scorecard 
+ ----- 

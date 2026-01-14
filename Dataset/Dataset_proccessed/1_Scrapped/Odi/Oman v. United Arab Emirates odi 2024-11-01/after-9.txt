@@ -1,0 +1,245 @@
+×
+MENU
+Economy & Trade
+Industries
+Tax & Accounting
+Legal & Regulatory
+HR & Payroll
+Technology
+Events
+Publications
+Media
+Doing Business
+ Other Briefings
+Subscribe
+Economy & Trade
+Industries
+Tax & Accounting
+Legal & Regulatory
+HR & Payroll
+Technology
+Events
+Publications
+Media
+Doing Business
+China’s Enhanced Beneficiary Owner Filing System: Key Points of New Measures
+November 2, 2024
+Posted by China Briefing
+Written by Qian Zhou
+Reading Time:  5 minutes
+
+China’s new beneficiary owner filing measures require business entities, except individually owned businesses, to submit their beneficiary owner information starting November 1, 2024. A one-year grace period is available for entities registered before that date. Although this information won’t be publicly accessible, relevant agencies and institutions can query it for anti-money laundering and counter-terrorism financing checks. Foreign investors should closely monitor regulatory developments and prepare for the filing requirements.
+
+On April 29, 2024, the People’s Bank of China (PBOC) and the State Administration for Market Regulation (SAMR) jointly issued the Administrative Measures on Beneficial Owner Information (referred to as the “2024 BOI Measures”). The new measures took effect from November 1, 2024.
+
+The 2024 BOI Measures add another layer to China’s beneficiary owner filing system. They are designed to enhance market transparency, maintain financial order, and prevent money laundering and terrorist financing activities.
+
+According to the 2024 BOI Measures, market entities—including companies, partnerships, and branches of foreign companies in China—are mandated to file their beneficiary owner information through the relevant registration system. Failure to comply may result in a penalty of up to RMB 50,000 (approximately US$6,900).
+
+In this article, we explore the essential aspects of China’s beneficial owner filing system, delving into the definition and determination of the beneficial owner, the filing requirements, and upcoming developments that businesses should be aware of.
+
+What is a beneficiary owner?
+
+According to the Measures, a beneficial owner refers to a natural person who ultimately owns or controls the registered entity or enjoys the ultimate benefits of the registered entity.
+
+Beneficiary owner vs. actual controller
+
+While the concept of the “beneficial owner” may appear similar to that of the “actual controller” under the Company Law, there are distinct differences between the two:
+
+First of all, the beneficial owner encompasses three aspects: ownership, control, and income. The beneficial owner can be either the owner of the company (partnership), the controller, or the beneficiary.
+Second, beneficial owners need to penetrate to natural persons. The “actual controller” can be either a legal person or a natural person, while the beneficial owner is always a natural person. In identifying the beneficial owner, it is necessary to “penetrate through layers” to find the individual who ultimately owns and actually controls the filing entity or enjoys its final income.
+How to determine the beneficiary owner of your business?
+
+A natural person meeting any of the following criteria is considered a beneficial owner:
+
+Ultimately holds 25 percent or more of the equity, shares, or partnership interests of the filing entity directly or indirectly;
+Although not meeting the first criterion, holds 25 percent or more of the income rights or voting rights of the registered entity; or
+Although not meeting the first criterion, individually or jointly exercises actual control over the registered entity.
+FIND BUSINESS SUPPORT
+Expanding your business in Asia? We can help you find the optimal location for your next investment.
+
+The term ‘actual control’ encompasses various forms of influence, including but not limited to control exercised through agreements, close relationships, and other means. This includes determining appointments and dismissals of legal representatives, directors, supervisors, senior officers, or executive partners, as well as shaping major business operations, management decisions, financial matters, and long-term control over significant assets or funds.
+
+In the absence of the three circumstances specified above, the person in charge of the daily operation and management of the filing entity shall be deemed as the beneficial owner for filing purposes.
+
+Wholly state-owned companies and State-controlled companies shall file the legal representative as the beneficial owner.
+
+The beneficial owner of a branch of a foreign company is the beneficial owner determined by the foreign company according to the above criteria, who also needs to be a senior management personnel of the branch.
+
+It’s important to note that the exemption standard for declaring beneficial ownership, which foreign companies may enjoy in their home country, does not apply in China.
+
+It’s important to note that there may be more than one natural person considered a beneficial owner and any natural person meeting the criteria should be filed as a beneficial owner.
+
+Which entities need to file beneficial ownership information?
+
+Companies, partnerships, and branches of foreign companies are currently the “filing entities” stipulated by the 2024 BOI Measures. Individually owned businesses do not need to file beneficial ownership information.
+
+Non-corporate legal persons, sole proprietorships, farmer cooperatives (and their federations) and their branches, as well as branches of domestic companies and partnerships, are temporarily exempt from filing beneficial ownership information
+
+What are the beneficiary owner filing requirements in China?
+New entities
+
+For new entities established after November 1, 2024, they must file beneficial owner information through the relevant registration system during establishment registration.
+
+If establishment registration cannot be done via the registration system, it can be completed on-site. Beneficial owner information should still be filed within 30 days from the establishment registration date.
+
+Existing entities
+
+For filing entities that have completed registration prior to the effectiveness of the 2024 BOI Measures, i.e., before November 1, 2024, they will be given a 1-year grace period. They must file the beneficial owner information before November 1, 2025.
+
+Exemption for small entities
+
+For registered entities with a registered capital not exceeding RMB 10 million (or its equivalent in foreign currency) and where all shareholders or partners are natural persons, there is an exemption.
+
+If there are no natural persons other than shareholders or partners exercising actual control over the entity or benefiting from it through means other than equity or partnership interests, these eligible entities can read and confirm a commitment letter in the system to be exempted from further reporting of beneficial ownership information.
+
+Change of BOI filing
+
+If there’s any change to beneficial owner information or if the entity no longer qualifies for exemption, the updated information must be filed within 30 days through the relevant registration system.
+
+What information needs to be filed for beneficiary owner filing?
+
+When filing the information of the beneficial owner, a filing entity is required to fill in the following information:
+
+name;
+gender;
+nationality;
+date of birth;
+address of habitual residence or workplace;
+contact details;
+type, number, and period of validity of the identity certificate or other identity documents; and
+type of the beneficial ownership relationship, date of formation, and termination (if any).
+
+The following information may also need to be filed depending on the specific situation of the beneficiary owner:
+
+the ratio of equity, shares, or partnership interests held by the beneficiary owner;
+the ratio of income rights or voting rights; or
+the method of actual control.
+How will the beneficiary owner filing system be managed?
+
+The SAMR will coordinate and guide the development of the relevant registration system. They will also guide local registration authorities in carrying out the filing of beneficial owner information in accordance with the law. Additionally, the SAMR will promptly push the collected beneficial owner information to the PBOC.
+
+FIND BUSINESS SUPPORT
+Our team integrates local legal and financial expertise to help you minimize risks and realize opportunities in Asia.
+
+Local market regulatory authorities at the county level or above will supervise filing entities to ensure they promptly file beneficial owner information.
+
+The PBOC will establish an information management system for the prompt receipt, retention, and processing of beneficial owner information. The PBOC and its branches will also supervise filing entities to ensure accurate filing of beneficial owner information.
+
+Is the beneficiary owner information filed open to the public?
+
+No. In consideration of the security and privacy of beneficial ownership information, the recorded data will not be publicly disclosed but will be accessible only to government departments and anti-money laundering obligated institutions for fulfilling their legal duties.
+
+The relevant state agencies, financial institutions, and specific non-financial institutions are required to keep the confidentiality of lawfully obtained beneficial owner information.
+
+What future development should I pay attention to?
+
+For most filing entities, the beneficial owner is the individual who ultimately holds more than 25 percent of the shares. Only filing entities with complex ownership arrangements need to identify beneficial owners according to the standards specified in the 2024 BOI Measures.
+
+For filing entities with complex equity (or partnership interest) structures, the PBOC will issue a “Beneficial Ownership Information Filing Guide” to provide guidance for their filing work.
+
+Subsequently, the PBOC will timely provide online service guides to help the public and enterprises understand relevant policies. It will also announce local consultation phone numbers to address any difficult issues filing entities encounter during the filing process.
+
+(This article was first published on June 5, 2024 and was last updated on November 2, 2024.)
+
+Disclaimer
+The information provided is for general purposes only and may not account for local variations. No liability is assumed for the completeness or accuracy of the information. For personalized advice on specific business queries, consult our experts at Dezan Shira & Associates by emailing China@dezshira.com.
+DOING BUSINESS IN CHINA
+EXPLORE IN-DEPTH INVESTMENT AND BUSINESS GUIDES.
+Explore vital economic, geographic, and regulatory insights for business investors, managers, or expats to navigate China’s business landscape. Our Online Business Guides offer explainer articles, news, useful tools, and videos from on-the-ground advisors who contribute to the Doing Business in China knowledge.
+Start exploring
+
+About Us
+
+China Briefing is one of five regional Asia Briefing publications, supported by Dezan Shira & Associates. For a complimentary subscription to China Briefing’s content products, please click here.
+
+Dezan Shira & Associates assists foreign investors into China and has done so since 1992 through offices in Beijing, Tianjin, Dalian, Qingdao, Shanghai, Hangzhou, Ningbo, Suzhou, Guangzhou, Haikou, Zhongshan, Shenzhen, and Hong Kong. We also have offices in Vietnam, Indonesia, Singapore, United States, Germany, Italy, India, and Dubai (UAE) and partner firms assisting foreign investors in The Philippines, Malaysia, Thailand, Bangladesh, and Australia. For assistance in China, please contact the firm at china@dezshira.com or visit our website at www.dezshira.com.
+
+Previous Article
+China-Singapore Economic Ties: Trade, Investment, and Opportunities
+Next Article
+E-Commerce in China as Part of a Digital Revolution
+
+ 
+
+In this article
+What is a beneficiary owner?
+Beneficiary owner vs. actual controller
+How to determine the beneficiary owner of your business?
+Which entities need to file beneficial ownership information?
+What are the beneficiary owner filing requirements in China?
+New entities
+Existing entities
+Exemption for small entities
+Change of BOI filing
+What information needs to be filed for beneficiary owner filing?
+How will the beneficiary owner filing system be managed?
+Is the beneficiary owner information filed open to the public?
+What future development should I pay attention to?
+Events in China
+ALL EVENTS
+
+Our free webinars are packed full of useful information for doing business in China.
+
+9
+JAN
+Why China in 2025: Your Ultimate Guide to Doing Business in China
+Webinar | Thursday, January 9, 2025 | 4:00 PM China / 9:00 AM CET / 8:00 AM UK
+Viktor Rojkov
+Manager
+Radomir Tomovic
+Manager
+JOIN EVENT
+22
+JAN
+Cost Control Series: Boosting HR Effectiveness in China with Innovative Compensation, PEO and Flexible Workforce in 2025
+Webinar | Wednesday, January 22, 2025 | 4:00 PM China / 3:00 PM Vietnam / 1:30 PM India / 9:00 AM CET
+Donfil Huang
+Manager
+Sandy Zhang
+Senior Manager
+JOIN EVENT
+Related reading
+DEZAN SHIRA & ASSOCIATES
+
+Meet the firm behind our content. Visit their website to see how their services can help your business succeed.
+
+About Us Find an Advisor
+Want the Latest Sent to Your Inbox?
+
+Subscribing grants you this, plus free access to our articles and magazines.
+
+SUBSCRIBE
+Get free access to our subscriptions and publications
+
+Subscribe to receive weekly China Briefing news updates,
+our latest doing business publications, and access to our Asia archives.
+
+Sign Up Now
+About Us
+Overview
+Personnel
+News
+Events
+Subscribe
+Topics
+Economy & Trade
+Tax & Accounting
+Legal & Regulatory
+Industries
+HR & Payroll
+Bookstore
+Visit Publication
+My Account
+My Order History
+Products
+Media Partners
+Partner
+©1992-2023 Dezan Shira & Associates All Rights Reserved.
+Terms of Use
+Privacy Policy
+ 
+ 
+ ----- 
+ Source link : https://www.china-briefing.com/news/chinas-enhanced-beneficiary-owner-filing-system-key-points-foreign-investors/ 
+ ----- 

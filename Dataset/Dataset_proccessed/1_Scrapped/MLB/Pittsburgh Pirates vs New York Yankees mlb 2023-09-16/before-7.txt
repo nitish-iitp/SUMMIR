@@ -1,0 +1,206 @@
+We and our 4 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+Aaron Judge vs. Pittsburgh Pirates
+Compare players and teams or see head to head results between teams, players, player vs. team, or batter vs. pitcher. • Tutorial Video • Sample Searches • Data Coverage
+THIS QUESTION WAS ANSWERED USING
+POWERED BY
+YOUR ALL ACCESS PASS TO THE
+BASEBALL DATABASE
+GO BEYOND THE BASICS. BECOME A STATHEAD
+Start Your FREE Trial
+ Show Criteria ➦ Share Results
+Aaron Judge vs. Pittsburgh Pirates
+
+Regular Season: 11 GP, 3 HR, 8 RBI, 4 2B, 1 SB
+
+Playoffs: 0 GP
+
+Aaron Judge vs. Pittsburgh Pirates: Batting
+Aaron Judge vs. Pittsburgh Pirates: Current Pitchers 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Rk	Player	T	PA	AB	H	2B	3B	HR	RBI	BB	SO	BA	OBP	SLG	OPS	SH	SF	IBB	HBP	GIDP
+1	Joey Wentz	L	4	2	0	0	0	0	0	2	1	.000	.500	.000	.500	0	0	0	0	0
+2	Dennis Santana	R	3	3	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0
+3	Mitch Keller	R	3	3	2	1	0	0	0	0	1	.667	.667	1.000	1.667	0	0	0	0	0
+4	Johan Oviedo	R	3	3	1	0	0	0	0	0	2	.333	.333	.333	.667	0	0	0	0	0
+5	David Bednar	R	2	2	0	0	0	0	0	0	2	.000	.000	.000	.000	0	0	0	0	0
+6	Colin Holderman	R	1	1	1	0	0	0	0	0	0	1.000	1.000	1.000	2.000	0	0	0	0	0
+7	Carmen Mlodzinski	R	1	1	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0
+8	Peter Strzelecki	R	1	1	0	0	0	0	0	0	0	.000	.000	.000	.000	0	0	0	0	0
+9	Paul Skenes	R	1	1	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0
+10	Mike Burrows	R	1	1	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0
+Aaron Judge vs. Pittsburgh Pirates: Totals 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Regular Season
+Rk	Season	Team	GP	PA	AB	R	H	1B	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	TB	GIDP	HBP	SH	SF	IBB
+1	2017	NYY	3	14	14	3	4	2	1	0	1	1	0	0	0	2	.286	.286	.571	.857	8	2	0	0	0	0
+2	2022	NYY	4	20	17	4	7	2	3	0	2	6	1	0	3	4	.412	.500	.941	1.441	16	1	0	0	0	0
+3	2023	NYY	3	14	11	2	3	3	0	0	0	1	0	0	3	4	.273	.429	.273	.701	3	0	0	0	0	0
+4	2024	NYY	1	5	5	0	0	0	0	0	0	0	0	0	0	5	.000	.000	.000	.000	0	0	0	0	0	0
+	Totals		11	53	47	9	14	7	4	0	3	8	1	0	6	15	.298	.377	.574	.952	27	3	0	0	0	0
+Aaron Judge vs. Pittsburgh Pirates: Game Logs 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Regular Season
+Subscribe to Stathead Baseball for full results.
+
+Go inside the Baseball Reference database and access the sports search engine that was made for fans like you. Subscriptions start at just $9/month. Learn More.
+
+Get your first month FREE
+
+Already a paid subscriber? Log in for full results.
+
+Rk	Date	Age	Team		Opp	Result	GS	InnPl	BOP	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	TB	GIDP	HBP	SH	SF	IBB	aLI	WPA	acLI	cWPA	RE24	DFS(DK)	DFS(FD)	Pos
+1	2024-09-28	32-155	NYY		PIT	L 4-9	*	9	3	5	5	0	0	0	0	0	0	0	0	0	5	.000	.000	.000	.000	0	0	0	0	0	0	1.09	-0.127	0.19	-0.01%	-1.90	0.00	0.00	CF
+2	2023-09-17	31-144	NYY	@	PIT	L 2-3	*	9	2	4	4	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0	0	1.34	-0.153	0.13	-0.01%	-1.04	0.00	0.00	RF
+3	2023-09-16	31-143	NYY	@	PIT	W 6-3	*	9	2	5	2	1	0	0	0	0	0	0	0	3	1	.000	.600	.000	.600	0	0	0	0	0	0	0.96	0.112	0.05	0.00%	0.92	8.00	12.20	RF
+4	2023-09-15	31-142	NYY	@	PIT	W 7-5	*	9	2	5	5	1	3	0	0	0	1	0	0	0	2	.600	.600	.600	1.200	3	0	0	0	0	0	1.65	0.268	0.05	0.01%	1.53	13.00	15.70	RF
+5	2022-09-21	30-148	NYY		PIT	W 14-2	*	8	1	5	4	2	2	2	0	0	0	0	0	1	1	.500	.600	1.000	1.600	4	0	0	0	0	0	0.48	0.097	0.13	0.02%	1.09			RF
+6	2022-09-20	30-147	NYY		PIT	W 9-8	*	9	1	5	4	1	1	0	0	1	1	0	0	1	1	.250	.400	1.000	1.400	4	0	0	0	0	0	1.02	-0.046	0.32	-0.01%	0.26			RF
+7	2022-07-06	30-071	NYY	@	PIT	W 16-0	*	8	2	5	4	1	3	1	0	1	4	1	0	1	1	.750	.800	1.750	2.550	7	0	0	0	0	0	0.62	0.027	0.18	0.01%	3.34			CF
+8	2022-07-05	30-070	NYY	@	PIT	L 2-5	*	9	2	5	5	0	1	0	0	0	1	0	0	0	1	.200	.200	.200	.400	1	1	0	0	0	0	0.92	-0.072	0.27	-0.01%	-0.70			CF
+9	2017-04-23	24-362	NYY	@	PIT	L 1-2	*	9	5	4	4	0	1	0	0	0	0	0	0	0	1	.250	.250	.250	.500	1	1	0	0	0	0	1.73	-0.083	1.86	-0.05%	-1.05			RF
+10	2017-04-22	24-361	NYY	@	PIT	W 11-5	*	9	5	5	5	2	2	1	0	1	1	0	0	0	0	.400	.400	1.200	1.600	6	1	0	0	0	0	1.12	-0.090	1.20	-0.06%	0.16			RF
+11																																							
+
+Data coverage:
+
+Game data: Game data is only available for the American League, National League, and Federal League. Since 1901 for regular season data, since 1933 for the All-Star Game, and since 1903 for the Postseason.
+
+Season data: Since 1871. Stats relying on play-by-play data are complete back to 1969, nearly complete back to 1950, and mostly complete back to 1912. Postseason data since 1903.
+
+Please see our data coverage page for details.
+
+If you utilize material unique to a Sports Reference site for a tweet, an article, or for research for a broadcast or podcast, please strongly consider citing this site as the source for the material. It would be greatly appreciated and would help us continue to produce this material.
+Stathead Login Create Account
+You are here: Baseball Stathead > Versus Finder | Player and Team Comparison and Head-to-Head Stats > Query Results
+Full Site Menu 
+Return to Top
+Stathead Baseball
+Season and Career Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Game Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Split Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Streak Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Span Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Event Tools: Batting, Pitching
+Other Tools: Versus Finder
+All Tools
+Stathead Basketball
+Season and Career Tools: Player, Team
+Game Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Event Tools: Quarter, Event, Shot
+College Tools: Player Game, Player Season, Team Game, Team Season
+Other Tools: Versus Finder
+All Tools
+Stathead Football
+Season and Career Tools: Player, Team
+Game Tools: Player, Team
+Split Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Event Tools: Play, Drive, Touchdown, Field Goal
+College Tools (NEW): Player Game, Player Season, Team Game, Team Season
+Other Tools: Versus Finder
+All Tools
+Stathead Hockey
+Season and Career Tools: Player, Team, Goal Finder
+Game Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Other Tools: Versus Finder
+All Tools
+Stathead FBref
+Season and Career Tools: Player, Team
+Match Tools: Player, Team
+All Tools
+Stathead is for...
+Sports Fans, Content Creators, Betting & Fantasy, Media & Journalists, Team Professionals
+Billing Policies
+Terms of Service
+We're Social...for Statheads
+           
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Saturday, January 11, 11:12PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2025 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith of Baseballprojection.com and author of WAR in Pieces.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2025.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Fußball Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Stathead.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://stathead.com/baseball/vs/aaron-judge-vs-pittsburgh-pirates 
+ ----- 

@@ -1,0 +1,604 @@
+MENU
+Home Teams Only Have an Advantage in Cold Weather Cities
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+San Diego Padres Schedule
+Chicago White Sox Schedule
+Chicago White Sox vs San Diego Padres Box Score: September 21, 2024
+MLB Scores — September 21, 2024
+PIT	1	Final
+CIN	7	
+WSN	5	Final
+CHC	1	
+DET	6	Final
+BAL	4	(10)
+ATL	6	Final
+MIA	2	
+PHI	3	Final
+NYM	6	
+TOR	2	Final
+TBR	3	
+SFG	9	Final
+KCR	0	
+SEA	8	Final
+TEX	4	
+LAA	4	Final
+HOU	10	
+ARI	5	Final
+MIL	0	
+CLE	5	Final
+STL	6	
+CHW	2	Final
+SDP	6	
+NYY	10	Final
+OAK	0	
+COL	6	Final
+LAD	3	
+MLB Scores & Standings on this Day
+Chicago White Sox
+2
+36-119
+Prev Game Next Game
+ 
+San Diego Padres
+6
+89-66
+Prev Game Next Game
+Saturday, September 21, 2024
+Start Time: 5:40 p.m. Local
+Attendance: 45,360
+Venue: Petco Park
+Game Duration: 2:38
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Chicago White Sox	0	0	0	0	0	1	0	1	0	2	4	0
+
+	San Diego Padres	0	2	0	1	1	0	0	2	X	6	11	0
+WP: Martín Pérez (5-5) • LP: Chris Flexen (2-15) • SV: Tanner Scott (22)
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Miguel Vargas 3B	2	1	0	0	3	0	5	.159	.257	.264	.521	20	7	0.051	0.78	0.090	-0.039	0%	0.00	0.4	0	1	
+Luis Robert Jr. CF	4	1	1	0	0	1	5	.226	.279	.384	.664	12	9	0.023	1.07	0.094	-0.071	0%	0.00	-0.1	4	0	HBP
+Andrew Vaughn 1B	3	0	0	0	1	1	4	.246	.299	.410	.709	12	6	-0.062	1.48	0.030	-0.093	0%	0.00	-0.3	6	1	
+Lenyn Sosa 2B	3	0	2	1	0	0	4	.247	.275	.335	.610	15	9	0.123	1.44	0.149	-0.027	0%	0.00	1.3	2	2	HBP
+Bryan Ramos DH	3	0	0	1	1	1	4	.177	.233	.291	.524	21	12	0.030	2.10	0.117	-0.087	0%	0.00	0.2	0	0	
+Dominic Fletcher RF	4	0	0	0	0	1	4	.208	.256	.262	.518	19	12	-0.350	2.25	0.000	-0.350	0%	0.00	-2.5	0	0	GDP
+Jacob Amaya SS	4	0	0	0	0	4	4	.213	.275	.234	.509	14	13	-0.090	0.84	0.000	-0.090	0%	0.00	-1.0	3	2	
+Zach DeLoach LF	4	0	0	0	0	4	4	.160	.236	.180	.416	17	15	-0.060	0.59	0.000	-0.060	0%	0.00	-0.7	3	0	
+Chuckie Robinson C	3	0	1	0	1	0	4	.148	.212	.148	.360	14	7	0.013	0.29	0.031	-0.017	0%	0.00	0.3	6	0	
+																							
+Chris Flexen P																					0	1	
+   Michael Soroka P																					0	0	
+   Enyel De Los Santos P																					0	0	
+Team Totals	30	2	4	2	6	12	38	.133	.316	.133	.449	144	90	-0.322	1.17	0.511	-0.834	0.00%	0.00	-2.6	24	7	
+HBP: Luis Robert Jr. (2, by Martín Pérez); Lenyn Sosa (3, by Jason Adam).
+TB: Lenyn Sosa 2; Chuckie Robinson; Luis Robert Jr..
+GIDP: Dominic Fletcher (5).
+RBI: Bryan Ramos (6); Lenyn Sosa (29).
+Team LOB: 9.
+With RISP: 1 for 9.
+San Diego Padres 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Luis Arráez 1B	5	0	1	0	0	0	5	.317	.350	.388	.738	20	12	0.000	0.44	0.035	-0.035	0%	0.39	-0.4	6	0	
+Fernando Tatis Jr. RF	5	0	2	0	0	1	5	.283	.346	.493	.840	21	14	0.014	0.53	0.058	-0.044	0.01%	0.47	0.5	1	0	2·2B
+Jurickson Profar LF	3	1	1	0	1	1	4	.283	.385	.462	.847	19	10	0.005	0.65	0.043	-0.038	0.00%	0.58	0.3	2	0	2B
+Manny Machado 3B	4	0	0	0	0	3	4	.277	.326	.481	.806	14	12	-0.069	0.68	0.000	-0.069	-0.04%	0.60	-1.4	0	2	
+Jackson Merrill CF	3	1	2	1	1	0	4	.294	.327	.506	.833	11	6	0.043	0.69	0.068	-0.025	0.02%	0.62	0.8	3	0	
+Xander Bogaerts SS	4	1	1	2	0	0	4	.260	.305	.381	.685	15	9	0.107	0.87	0.161	-0.053	0.06%	0.78	0.3	1	4	HR
+Jake Cronenworth 2B	4	0	0	0	0	0	4	.244	.325	.390	.714	16	9	-0.048	0.46	0.000	-0.048	-0.03%	0.41	-1.1	2	3	
+David Peralta DH	4	2	2	1	0	1	4	.271	.337	.430	.767	15	11	0.073	0.34	0.091	-0.019	0.04%	0.30	1.0	0	0	HR,2B
+Elias Díaz C	3	1	2	2	1	0	4	.266	.315	.381	.696	15	9	0.056	0.29	0.061	-0.006	0.03%	0.26	1.8	12	0	HR
+																							
+Martín Pérez P																					0	0	
+   Bryan Hoeing P																					0	0	
+   Jeremiah Estrada P																					0	0	
+   Jason Adam P																					0	0	
+   Tanner Scott P																					0	0	
+Team Totals	35	6	11	6	3	6	38	.314	.368	.686	1.054	146	92	0.181	0.55	0.517	-0.337	0.10%	0.49	1.9	27	9	
+2B: Fernando Tatis Jr. 2 (20, 1 off Michael Soroka, 1 off Chris Flexen); Jurickson Profar (28, off Chris Flexen); David Peralta (11, off Enyel De Los Santos).
+HR: Xander Bogaerts (11, off Chris Flexen, 2nd inn, 1 on, 0 outs to Deep LF-CF); David Peralta (8, off Chris Flexen, 4th inn, 0 on, 1 out to Deep RF); Elias Díaz (6, off Enyel De Los Santos, 8th inn, 1 on, 1 out to Deep LF-CF).
+TB: David Peralta 6; Elias Díaz 5; Xander Bogaerts 4; Fernando Tatis Jr. 4; Jurickson Profar 2; Jackson Merrill 2; Luis Arráez.
+RBI: Elias Díaz 2 (38); Xander Bogaerts 2 (41); David Peralta (27); Jackson Merrill (89).
+Team LOB: 8.
+With RISP: 2 for 11.
+Fielding
+DP: 1. Jake Cronenworth-Xander Bogaerts-Luis Arráez.
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Chris Flexen, L (2-15)	5	8	4	4	2	3	2	5.15	25	96	59	36	8	15	7	13	4	0	36			-0.164	0.71	0.00%	0.00	-1.5
+Michael Soroka	2	1	0	0	1	3	0	5.09	8	35	22	12	4	6	1	3	1	0		0	0	0.030	0.27	0.00%	0.00	1.0
+Enyel De Los Santos	1	2	2	2	0	0	1	5.43	5	15	11	8	1	2	1	4	0	0		0	0	-0.046	0.16	0.00%	0.00	-1.5
+Team Totals	8	11	6	6	3	6	3	6.75	38	146	92	56	13	23	9	20	5	0	36	0	0	-0.180	0.55	0.00%	0.00	-1.9
+
+San Diego Padres 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Martín Pérez, W (5-5)	5.1	2	1	1	3	6	0	4.25	22	81	48	23	7	18	6	6	3	0	63			0.155	0.97	0.08%	0.87	1.1
+Bryan Hoeing, H (4)	0.2	0	0	0	0	1	0	1.95	2	8	5	2	1	2	1	0	0	0		2	0	0.094	2.10	0.05%	1.88	0.9
+Jeremiah Estrada, H (14)	1	0	0	0	0	2	0	2.93	3	7	7	2	2	3	0	1	1	0		0	0	0.047	0.62	0.03%	0.55	0.5
+Jason Adam, H (29)	0.1	1	1	1	2	0	0	2.02	5	24	12	6	3	3	1	1	1	0		0	0	-0.249	2.29	-0.13%	2.05	-2.1
+Tanner Scott, S (22)	1.2	1	0	0	1	3	0	1.54	6	24	18	9	6	3	1	1	1	0		3	0	0.273	0.94	0.15%	0.84	2.1
+Team Totals	9	4	2	2	6	12	0	2.00	38	144	90	42	19	29	9	9	6	0	63	5	0	0.320	1.17	0.17%	1.04	2.6
+
+Balks: None.
+WP: Chris Flexen (4).
+HBP: Jason Adam (6; Lenyn Sosa); Martín Pérez (5; Luis Robert Jr.).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Gabe Morales, 1B - Chris Guccione, 2B - Clint Vondrak, 3B - Emil Jimenez, LF - (none), RF - (none).
+Time of Game: 2:38.
+Attendance: 45,360.
+Field Condition: Unknown.
+Start Time Weather: 70° F, Wind 10mph out to Rightfield, Cloudy, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+White Sox
+1	Miguel Vargas	3B
+2	Luis Robert Jr.	CF
+3	Andrew Vaughn	1B
+4	Lenyn Sosa	2B
+5	Bryan Ramos	DH
+6	Dominic Fletcher	RF
+7	Jacob Amaya	SS
+8	Zach DeLoach	LF
+9	Chuckie Robinson	C
+	Chris Flexen	P
+Padres
+1	Luis Arráez	1B
+2	Fernando Tatis Jr.	RF
+3	Jurickson Profar	LF
+4	Manny Machado	3B
+5	Jackson Merrill	CF
+6	Xander Bogaerts	SS
+7	Jake Cronenworth	2B
+8	David Peralta	DH
+9	Elias Díaz	C
+	Martín Pérez	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Chicago White Sox vs. San Diego Padres, September 21 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+SDP
+50%
+CHW
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.42
+6	0.45
+7	0.48
+8	0.5
+9	0.54
+10	0.5
+11	0.48
+12	0.45
+13	0.41
+14	0.25
+15	0.27
+16	0.28
+17	0.27
+18	0.29
+19	0.26
+20	0.29
+21	0.33
+22	0.29
+23	0.23
+24	0.19
+25	0.17
+26	0.21
+27	0.23
+28	0.27
+29	0.24
+30	0.22
+31	0.21
+32	0.23
+33	0.15
+34	0.14
+35	0.15
+36	0.16
+37	0.14
+38	0.12
+39	0.11
+40	0.09
+41	0.09
+42	0.07
+43	0.06
+44	0.07
+45	0.08
+46	0.06
+47	0.08
+48	0.11
+49	0.18
+50	0.15
+51	0.09
+52	0.09
+53	0.1
+54	0.1
+55	0.08
+56	0.07
+57	0.06
+58	0.04
+59	0.05
+60	0.06
+61	0.06
+62	0.07
+63	0.11
+64	0.19
+65	0.16
+66	0.2
+67	0.32
+68	0.06
+69	0.07
+70	0.05
+71	0.01
+72	0.01
+73	0.01
+74	0.01
+75	0
+76	0
+77	0
+78	0.01
+79	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+t8	2-4	1	123	2,(0-1) 	OO	CHW	Dominic Fletcher	Tanner Scott	26%	94%	Ground Ball Double Play: 2B-SS-1B
+b2	0-0	0	1--	4,(2-1) 	RR	SDP	Xander Bogaerts	Chris Flexen	16%	75%	Home Run (Fly Ball to Deep LF-CF); J. Merrill Scores
+t8	1-4	1	123	7,(3-2) 	R	CHW	Bryan Ramos	Jason Adam	-12%	68%	Walk; M. Vargas Scores; L. Robert to 3B; L. Sosa to 2B
+b4	2-0	1	---	5,(2-2) 	R	SDP	David Peralta	Chris Flexen	8%	85%	Home Run (Fly Ball to Deep RF)
+t8	1-4	0	1--	2,(0-1) 		CHW	Luis Robert Jr.	Jason Adam	-8%	81%	Single to RF (Line Drive to Deep CF-RF); M. Vargas to 2B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, White Sox Batting, Tied 0-0, Padres' Martín Pérez facing 1-2-3
+t1	0-0	0	---	1,(0-0) 	O	CHW	Miguel Vargas	Martín Pérez	2%	52%	Groundout: 3B-1B
+t1	0-0	1	---	2,(1-0) 	O	CHW	Luis Robert Jr.	Martín Pérez	2%	54%	Flyball: RF (Deep CF-RF)
+t1	0-0	2	---	5,(2-2) 	O	CHW	Andrew Vaughn	Martín Pérez	1%	55%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Padres 0.
+Bottom of the 1st, Padres Batting, Tied 0-0, White Sox' Chris Flexen facing 1-2-3
+b1	0-0	0	---	3,(1-1) 		SDP	Luis Arráez	Chris Flexen	3%	58%	Single to 3B (Ground Ball)
+b1	0-0	0	1--	6,(2-2) 	O	SDP	Fernando Tatis Jr.	Chris Flexen	-3%	55%	Strikeout Swinging
+b1	0-0	1	1--	5,(2-2) 	O	SDP	Jurickson Profar	Chris Flexen	-3%	52%	Flyball: CF (LF-CF)
+b1	0-0	2	1--	5,(1-2) 	O	SDP	Manny Machado	Chris Flexen	-2%	50%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Padres 0.
+Top of the 2nd, White Sox Batting, Tied 0-0, Padres' Martín Pérez facing 4-5-6
+t2	0-0	0	---	1,(0-0) 		CHW	Lenyn Sosa	Martín Pérez	-4%	46%	Single to LF (Ground Ball thru SS-3B Hole)
+t2	0-0	0	1--	3,(0-2) 	O	CHW	Bryan Ramos	Martín Pérez	4%	50%	Lineout: LF (Deep LF)
+t2	0-0	1	1--	6,(3-2) 	O	CHW	Dominic Fletcher	Martín Pérez	2%	52%	Groundout: SS-1B (Deep SS-2B); L. Sosa to 2B
+t2	0-0	2	-2-	4,(0-2) 	O	CHW	Jacob Amaya	Martín Pérez	3%	55%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. White Sox 0, Padres 0.
+Bottom of the 2nd, Padres Batting, Tied 0-0, White Sox' Chris Flexen facing 5-6-7
+b2	0-0	0	---	2,(1-0) 		SDP	Jackson Merrill	Chris Flexen	4%	59%	Single to RF (Ground Ball thru 2B-1B)
+b2	0-0	0	1--	4,(2-1) 	RR	SDP	Xander Bogaerts	Chris Flexen	16%	75%	Home Run (Fly Ball to Deep LF-CF); J. Merrill Scores
+b2	2-0	0	---	2,(0-1) 	O	SDP	Jake Cronenworth	Chris Flexen	-2%	73%	Groundout: 1B unassisted
+b2	2-0	1	---	3,(1-1) 	O	SDP	David Peralta	Chris Flexen	-1%	72%	Lineout: 1B
+b2	2-0	2	---	6,(3-2) 		SDP	Elias Díaz	Chris Flexen	1%	73%	Walk
+b2	2-0	2	1--	2,(1-0) 	O	SDP	Luis Arráez	Chris Flexen	-2%	71%	Flyball: CF (Deep LF-CF)
+									2 runs, 2 hits, 0 errors, 1 LOB. White Sox 0, Padres 2.
+Top of the 3rd, White Sox Batting, Behind 0-2, Padres' Martín Pérez facing 8-9-1
+t3	0-2	0	---	3,(0-2) 	O	CHW	Zach DeLoach	Martín Pérez	2%	74%	Strikeout Swinging
+t3	0-2	1	---	6,(3-2) 		CHW	Chuckie Robinson	Martín Pérez	-3%	71%	Walk
+t3	0-2	1	1--	4,(3-0) 		CHW	Miguel Vargas	Martín Pérez	-4%	67%	Walk; C. Robinson to 2B
+t3	0-2	1	12-	3,(1-1) 	O	CHW	Luis Robert Jr.	Martín Pérez	4%	71%	Groundout: SS-2B/Forceout at 2B; C. Robinson to 3B; L. Robert to 1B
+t3	0-2	2	1-3	1,(0-0) 	O	CHW	Andrew Vaughn	Martín Pérez	5%	77%	Groundout: 3B-2B/Forceout at 2B (Weak 3B); A. Vaughn to 1B
+									0 runs, 0 hits, 0 errors, 2 LOB. White Sox 0, Padres 2.
+Bottom of the 3rd, Padres Batting, Ahead 2-0, White Sox' Chris Flexen facing 2-3-4
+b3	2-0	0	---	2,(1-0) 		SDP	Fernando Tatis Jr.	Chris Flexen	4%	81%	Double to LF (Line Drive to Short LF Line)
+b3	2-0	0	-2-	5,(3-1) 		SDP	Jurickson Profar	Chris Flexen	2%	83%	Walk
+b3	2-0	0	12-	4,(0-2) 	O	SDP	Manny Machado	Chris Flexen	-3%	79%	Strikeout Swinging
+b3	2-0	1	12-	1,(0-0) 	O	SDP	Jackson Merrill	Chris Flexen	-3%	77%	Groundout: 1B-SS/Forceout at 2B; F. Tatís to 3B; J. Merrill to 1B
+b3	2-0	2	1-3	3,(1-1) 	O	SDP	Xander Bogaerts	Chris Flexen	-4%	73%	Flyball: CF
+									0 runs, 1 hit, 0 errors, 2 LOB. White Sox 0, Padres 2.
+Top of the 4th, White Sox Batting, Behind 0-2, Padres' Martín Pérez facing 4-5-6
+t4	0-2	0	---	5,(2-2) 	O	CHW	Lenyn Sosa	Martín Pérez	3%	76%	Flyball: CF (Deep CF)
+t4	0-2	1	---	7,(3-2) 	O	CHW	Bryan Ramos	Martín Pérez	2%	78%	Strikeout Swinging
+t4	0-2	2	---	7,(3-2) 	O	CHW	Dominic Fletcher	Martín Pérez	1%	79%	Flyball: CF (LF-CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Padres 2.
+Bottom of the 4th, Padres Batting, Ahead 2-0, White Sox' Chris Flexen facing 7-8-9
+b4	2-0	0	---	6,(3-2) 	O	SDP	Jake Cronenworth	Chris Flexen	-2%	77%	Popfly: 2B (Deep 2B-1B)
+b4	2-0	1	---	5,(2-2) 	R	SDP	David Peralta	Chris Flexen	8%	85%	Home Run (Fly Ball to Deep RF)
+b4	3-0	1	---	2,(0-1) 		SDP	Elias Díaz	Chris Flexen	1%	86%	Single to CF (Line Drive to Deep CF)
+b4	3-0	1	1--	5,(2-2) 	O	SDP	Luis Arráez	Chris Flexen	-1%	85%	Groundout: 2B-SS/Forceout at 2B (2B-1B); L. Arráez to 1B
+b4	3-0	2	1--	8,(3-2) 	O	SDP	Fernando Tatis Jr.	Chris Flexen	-1%	84%	Flyball: LF (Deep LF)
+									1 run, 2 hits, 0 errors, 1 LOB. White Sox 0, Padres 3.
+Top of the 5th, White Sox Batting, Behind 0-3, Padres' Martín Pérez facing 7-8-9
+t5	0-3	0	---	4,(1-2) 	O	CHW	Jacob Amaya	Martín Pérez	2%	86%	Strikeout Looking
+t5	0-3	1	---	4,(1-2) 	O	CHW	Zach DeLoach	Martín Pérez	2%	88%	Strikeout Looking
+t5	0-3	2	---	4,(2-1) 	O	CHW	Chuckie Robinson	Martín Pérez	1%	89%	Lineout: CF
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 0, Padres 3.
+Bottom of the 5th, Padres Batting, Ahead 3-0, White Sox' Chris Flexen facing 3-4-5
+b5	3-0	0	---	5,(2-2) 		SDP	Jurickson Profar	Chris Flexen	3%	91%	Double to CF (Fly Ball)
+b5	3-0	0	-2-	1,(0-0) 	O	SDP	Manny Machado	Chris Flexen	0%	91%	Groundout: P-2B-1B (2B-1B); J. Profar to 3B
+b5	3-0	1	--3	2,(0-1) 	R	SDP	Jackson Merrill	Chris Flexen	2%	93%	Single to CF (Line Drive to Deep CF); J. Profar Scores
+b5	4-0	1	1--	1,(0-0) 		SDP	Xander Bogaerts	Chris Flexen	0%	94%	Wild Pitch; J. Merrill to 2B
+b5	4-0	1	-2-	6,(3-2) 	O	SDP	Xander Bogaerts	Chris Flexen	-1%	93%	Groundout: SS-1B; J. Merrill to 3B
+b5	4-0	2	--3	3,(1-1) 	O	SDP	Jake Cronenworth	Chris Flexen	-1%	92%	Flyball: LF
+									1 run, 2 hits, 0 errors, 1 LOB. White Sox 0, Padres 4.
+Top of the 6th, White Sox Batting, Behind 0-4, Padres' Martín Pérez facing 1-2-3
+t6	0-4	0	---	3,(1-1) 	O	CHW	Miguel Vargas	Martín Pérez	2%	94%	Groundout: 2B-1B (SS-2B)
+t6	0-4	1	---	2,(0-1) 		CHW	Luis Robert Jr.	Martín Pérez	-2%	92%	Hit By Pitch
+t6	0-4	1	1--	5,(3-1) 		CHW	Andrew Vaughn	Martín Pérez	-3%	89%	Walk; L. Robert to 2B
+t6	0-4	1	12-	1,(0-0) 	R	CHW	Lenyn Sosa	Martín Pérez	-7%	82%	Single to LF (Line Drive); L. Robert Scores; A. Vaughn to 2B
+									
+Bryan Hoeing replaces Martín Pérez pitching
+
+t6	1-4	1	12-	4,(2-1) 	O	CHW	Bryan Ramos	Bryan Hoeing	3%	85%	Groundout: 2B-1B (Deep 2B); A. Vaughn to 3B; L. Sosa to 2B
+t6	1-4	2	-23	4,(1-2) 	O	CHW	Dominic Fletcher	Bryan Hoeing	6%	91%	Strikeout Swinging
+									1 run, 1 hit, 0 errors, 2 LOB. White Sox 1, Padres 4.
+Bottom of the 6th, Padres Batting, Ahead 4-1, White Sox' Michael Soroka facing 8-9-1
+									
+Michael Soroka replaces Chris Flexen pitching
+
+b6	4-1	0	---	4,(1-2) 	O	SDP	David Peralta	Michael Soroka	-1%	91%	Strikeout Swinging
+b6	4-1	1	---	4,(2-1) 	O	SDP	Elias Díaz	Michael Soroka	-1%	90%	Lineout: CF (Deep CF)
+b6	4-1	2	---	7,(3-2) 	O	SDP	Luis Arráez	Michael Soroka	0%	90%	Groundout: SS-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Padres 4.
+Top of the 7th, White Sox Batting, Behind 1-4, Padres' Jeremiah Estrada facing 7-8-9
+									
+Jeremiah Estrada replaces Bryan Hoeing pitching
+
+t7	1-4	0	---	3,(0-2) 	O	CHW	Jacob Amaya	Jeremiah Estrada	2%	92%	Strikeout Swinging
+t7	1-4	1	---	3,(0-2) 	O	CHW	Zach DeLoach	Jeremiah Estrada	2%	93%	Strikeout Swinging
+t7	1-4	2	---	1,(0-0) 	O	CHW	Chuckie Robinson	Jeremiah Estrada	1%	94%	Lineout: LF (LF-CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. White Sox 1, Padres 4.
+Bottom of the 7th, Padres Batting, Ahead 4-1, White Sox' Michael Soroka facing 2-3-4
+b7	4-1	0	---	4,(1-2) 		SDP	Fernando Tatis Jr.	Michael Soroka	2%	96%	Double to RF (Fly Ball to Deep RF Line)
+b7	4-1	0	-2-	4,(1-2) 	O	SDP	Jurickson Profar	Michael Soroka	-1%	95%	Strikeout Looking
+b7	4-1	1	-2-	4,(1-2) 	O	SDP	Manny Machado	Michael Soroka	-1%	94%	Strikeout Swinging
+b7	4-1	2	-2-	6,(3-2) 		SDP	Jackson Merrill	Michael Soroka	0%	94%	Walk
+b7	4-1	2	12-	2,(0-1) 	O	SDP	Xander Bogaerts	Michael Soroka	-1%	93%	Popfly: SS (Deep SS-3B Hole)
+									0 runs, 1 hit, 0 errors, 2 LOB. White Sox 1, Padres 4.
+Top of the 8th, White Sox Batting, Behind 1-4, Padres' Jason Adam facing 1-2-3
+									
+Jason Adam replaces Jeremiah Estrada pitching
+
+t8	1-4	0	---	6,(3-2) 		CHW	Miguel Vargas	Jason Adam	-4%	89%	Walk
+t8	1-4	0	1--	2,(0-1) 		CHW	Luis Robert Jr.	Jason Adam	-8%	81%	Single to RF (Line Drive to Deep CF-RF); M. Vargas to 2B
+t8	1-4	0	12-	1,(0-0) 	O	CHW	Andrew Vaughn	Jason Adam	3%	84%	Groundout: SS-1B (Weak SS); M. Vargas to 3B; L. Robert to 2B
+t8	1-4	1	-23	8,(3-2) 		CHW	Lenyn Sosa	Jason Adam	-4%	80%	Hit By Pitch
+t8	1-4	1	123	7,(3-2) 	R	CHW	Bryan Ramos	Jason Adam	-12%	68%	Walk; M. Vargas Scores; L. Robert to 3B; L. Sosa to 2B
+									
+Tanner Scott replaces Jason Adam pitching
+
+t8	2-4	1	123	2,(0-1) 	OO	CHW	Dominic Fletcher	Tanner Scott	26%	94%	Ground Ball Double Play: 2B-SS-1B
+									1 run, 1 hit, 0 errors, 2 LOB. White Sox 2, Padres 4.
+Bottom of the 8th, Padres Batting, Ahead 4-2, White Sox' Enyel De Los Santos facing 7-8-9
+									
+Enyel De Los Santos replaces Michael Soroka pitching
+
+b8	4-2	0	---	5,(3-1) 	O	SDP	Jake Cronenworth	Enyel De Los Santos	-1%	93%	Flyball: LF (Deep LF Line)
+b8	4-2	1	---	3,(0-2) 		SDP	David Peralta	Enyel De Los Santos	1%	95%	Ground-rule Double (Fly Ball to Deep RF Line)
+b8	4-2	1	-2-	3,(0-2) 	RR	SDP	Elias Díaz	Enyel De Los Santos	4%	99%	Home Run (Fly Ball to Deep LF-CF); D. Peralta Scores
+b8	6-2	1	---	3,(1-1) 	O	SDP	Luis Arráez	Enyel De Los Santos	0%	99%	Popfly: 2B (2B-1B)
+b8	6-2	2	---	1,(0-0) 	O	SDP	Fernando Tatis Jr.	Enyel De Los Santos	0%	99%	Groundout: 3B-1B (SS-3B Hole)
+									2 runs, 2 hits, 0 errors, 0 LOB. White Sox 2, Padres 6.
+Top of the 9th, White Sox Batting, Behind 2-6, Padres' Tanner Scott facing 7-8-9
+t9	2-6	0	---	3,(0-2) 	O	CHW	Jacob Amaya	Tanner Scott	1%	99%	Strikeout Swinging
+t9	2-6	1	---	7,(1-2) 	O	CHW	Zach DeLoach	Tanner Scott	0%	100%	Strikeout Swinging
+t9	2-6	2	---	3,(1-1) 		CHW	Chuckie Robinson	Tanner Scott	0%	100%	Single to 2B (Line Drive to Short CF-RF)
+t9	2-6	2	1--	1,(0-0) 		CHW	Miguel Vargas	Tanner Scott	0%	100%	Defensive Indifference; C. Robinson to 2B
+t9	2-6	2	-2-	6,(3-2) 		CHW	Miguel Vargas	Tanner Scott	-1%	99%	Walk
+t9	2-6	2	12-	3,(0-2) 	O	CHW	Luis Robert Jr.	Tanner Scott	1%	100%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 2 LOB. White Sox 2, Padres 6.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule San Diego Padres Schedule Chicago White Sox Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Chicago White Sox vs San Diego Padres Box Score: September 21, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/SDN/SDN202409210.shtml 
+ ----- 

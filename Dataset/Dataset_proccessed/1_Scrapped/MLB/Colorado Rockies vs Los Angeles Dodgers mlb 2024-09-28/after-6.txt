@@ -1,0 +1,314 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Dodgers
+97-64, 45-35 Away
+13
+Final
+Rockies
+61-100, 37-43 Home
+2
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+LAD
+
+
+COL
+1	2	3	4	5	6	7	8	9	R	H	E
+0	3	1	1	3	0	0	1	4	13	18	0
+1	0	1	0	0	0	0	0	0	2	6	0
+WIN
+Y. Yamamoto
+7-2
+5.0 IP, 4 H, 2 ER, 6 K, 0 BB
+LOSS
+A. Senzatela
+0-1
+4.1 IP, 6 H, 6 ER, 3 K, 4 BB
+SAVE
+J. Wrobleski
+1
+4.0 IP, 2 H, 0 ER, 4 K, 2 BB
+LAD
+Overview
+COL
+Dodgers Hitting
+HITTERS
+
+S. Ohtani
+DH
+
+
+M. Betts
+RF
+
+
+C. Taylor
+CF
+
+
+G. Lux
+2B
+
+
+T. Hernández
+LF
+
+
+M. Muncy
+3B
+
+
+W. Smith
+C
+
+
+T. Edman
+SS
+
+
+E. Hernández
+1B
+
+
+K. Kiermaier
+CF
+
+
+A. Pages
+CF-RF
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+5	1	2	0	0	1	.310
+3	1	1	0	0	0	.290
+3	1	3	1	0	0	.199
+5	3	3	1	0	1	.251
+5	1	1	3	1	0	.270
+4	0	2	2	0	2	.236
+5	2	2	1	0	1	.248
+3	1	0	0	0	2	.244
+5	2	3	3	1	1	.232
+2	0	1	1	0	0	.197
+2	1	0	0	0	1	.250
+42	13	18	12	2	9	
+BATTING
+2BBetts (24, Senzatela); Muncy 2 (17, Criswell, Bird); Lux (24, Lawrence)
+HRE. Hernández (12, 2nd inning off Senzatela 2 on, 1 Out); T. Hernández (33, 5th inning off Criswell 2 on, 1 Out)
+RBIE. Hernández 3 (42), Kiermaier (26), Taylor (22), Muncy 2 (48), T. Hernández 3 (99), Smith (75), Lux (50)
+2Out RBIKiermaier, Smith
+Team LOB13
+Team RISP8-23 (E. Hernández 1-3, Kiermaier 1-1, Taylor 2-2, Betts 0-1, Muncy 1-1, T. Hernández 1-4, Smith 1-4, Ohtani 0-1, Edman 0-2, Lux 1-3, Pages 0-1)
+BASERUNNING
+SBTaylor (5, 2nd base off Criswell/Goodman); Smith (1, 2nd base off Senzatela/Goodman); Ohtani (58, 2nd base off Criswell/Goodman)
+FIELDING
+DP3 (Lux-Edman-E. Hernández , Lux-Edman-E. Hernández , Edman-Lux-E. Hernández)
+Rockies Hitting
+HITTERS
+
+C. Blackmon
+DH
+
+
+E. Tovar
+SS
+
+
+R. McMahon
+3B
+
+
+a
+J. Beck
+PH
+
+
+M. Toglia
+1B
+
+
+N. Jones
+LF
+
+
+S. Hilliard
+CF
+
+
+J. Cave
+RF
+
+
+A. Schunk
+2B
+
+
+H. Goodman
+C
+
+
+D. Romo
+C
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	1	1	0	0	0	.255
+4	1	3	1	1	0	.270
+2	0	0	1	0	0	.243
+1	0	0	0	0	0	.190
+2	0	0	0	0	2	.218
+4	0	2	0	0	0	.225
+2	0	0	0	0	0	.237
+3	0	0	0	0	0	.251
+3	0	0	0	0	0	.244
+2	0	0	0	0	0	.190
+1	0	0	0	0	0	.167
+28	2	6	2	1	2	
+a-grounded to second for McMahon in the 9th
+BATTING
+HRTovar (26, 3rd inning off Yamamoto 0 on, 2 Out)
+RBIMcMahon (65), Tovar (78)
+2Out RBITovar
+SFMcMahon
+SHHilliard
+GIDPHilliard; Toglia; Beck
+Team LOB3
+Team RISP0-4 (Cave 0-2, Hilliard 0-1, Schunk 0-1)
+FIELDING
+DP1 (Toglia-Senzatela-Schunk)
+AssistsN. Jones (Kiermaier at 2nd base)
+PBGoodman
+Dodgers Pitching
+PITCHERS
+
+Y. Yamamoto
+(W, 7-2)
+
+
+J. Wrobleski
+(S, 1)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+5.0	4	2	6	71-49	3.00
+4.0	2	0	4	49-33	5.70
+9.0	6	2	10	120-82	
+PITCHING
+First-pitch strikes/Batters FacedWrobleski 8/14; Yamamoto 15/18
+Called strikes-Swinging strikes-Foul balls-In play strikesWrobleski-7-12-6-8; Yamamoto-11-8-18-12
+Ground Balls-Fly BallsWrobleski 4-2; Yamamoto 4-4
+Game ScoresY Yamamoto 57
+Rockies Pitching
+PITCHERS
+
+A. Senzatela
+(L, 0-1)
+
+
+J. Criswell
+
+
+A. Chivilli
+
+
+J. Lawrence
+
+
+J. Bird
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+4.1	6	6	3	78-44	6.57
+1.0	4	1	2	38-19	2.75
+1.2	1	0	2	31-19	4.55
+1.1	6	5	1	39-22	6.49
+0.2	1	0	0	14-8	4.50
+9.0	18	12	8	200-112	
+PITCHING
+BKSenzatela
+HBPT. Hernández (by Bird); Edman (by Bird)
+First-pitch strikes/Batters FacedSenzatela 18/21; Lawrence 5/11; Bird 3/5; Criswell 5/9; Chivilli 5/7
+Called strikes-Swinging strikes-Foul balls-In play strikesSenzatela-10-8-12-13; Lawrence-7-3-4-8; Bird-4-0-1-3; Criswell-6-7-1-5; Chivilli-2-6-7-4
+Ground Balls-Fly BallsSenzatela 4-4; Lawrence 2-0; Bird 1-1; Criswell 0-1; Chivilli 1-2
+Game ScoresA Senzatela 24
+Scoring Summary
+INNING
+	LAD	COL
+		1st	McMahon hit sacrifice fly to right, Blackmon scored.	0	1
+		2nd	E. Hernández homered to center (430 feet), Smith scored and Edman scored.	3	1
+		3rd	Betts scored.	4	1
+		3rd	Tovar homered to left center (429 feet).	4	2
+		4th	Kiermaier singled to left, Smith scored, Kiermaier out stretching at second.	5	2
+		5th	T. Hernández homered to left center (429 feet), Ohtani scored and Lux scored.	8	2
+		8th	Smith singled to right, Lux scored, Muncy to third.	9	2
+		9th	Taylor singled to right, E. Hernández scored, Pages to third.	10	2
+		9th	Lux singled to right, Pages scored, Taylor to second.	11	2
+		9th	Muncy doubled to right, Taylor scored and Lux scored, T. Hernández to third.	13	2
+Full Play-By-Play
+Game Information
+Coors Field
+12:10 AM, September 29, 2024
+Denver, Colorado
+Line: LAD -240
+Over/Under: 11.5
+Attendance: 48,395
+Game Time:
+2:53
+Umpires:
+Home Plate Umpire - Ryan Wills
+First Base Umpire - Carlos Torres
+Second Base Umpire - Roberto Ortiz
+Third Base Umpire - Chad Fairchild
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570874 
+ ----- 

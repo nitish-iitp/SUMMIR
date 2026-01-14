@@ -1,0 +1,887 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Question about 13.9in vs 14.5in
+ 
+Thread starter
+Milf Dots  
+Start date
+Mar 15, 2024
+Milf Dots
+Poontificator
+Supporter
+Full Member
+Minuteman
+Supporter
+Oct 21, 2019
+4,198
+8,153
+Mar 15, 2024
+#1
+Regarding ARs, when otherwise identical carbines in 13.9in and 14.5in are pinned and welded to meet the 16in minimum, does that mean the difference is only in the length of the muzzle device installed? And if that's the case, what's the benefit, other than the 13.9in model possibly offering .6in shorter overall rifle length with a suppressor attached (when compared to the 14.5in with same suppressor)? thanks
+
+ETA: I realize the 14.5in will offer a bit more velocity.
+ 
+Docsherm
+Guns Up!
+Supporter
+Full Member
+Minuteman
+May 6, 2019
+2,275
+3,710
+DFW Texas
+Mar 15, 2024
+#2
+Yes, the muzzle devise lenght is the only difference. I believe that Noveske started to the 13,9 to use with their PIG Flash Can, pinned to give a 16.1 OAL.
+ 
+ 
+Reactions:
+Milf Dots
+D
+Deepwoods
+Private
+Full Member
+Minuteman
+Mar 14, 2013
+145
+78
+Mid-Atlantic
+Mar 15, 2024
+#3
+It will also depend on what thing youre pinning and the barrel profile.
+
+Some flash hiders and brakes are are long enough to bring a 13.9 to the 16" OAL. So, were you choosing to P/W whatever that brand/ model is, you'd be over by a bit.
+
+Ive got a few OSS/ HUXWRX and their normal muzzle devise would get a 14.5" to 16", but they also have extended and extra extended for 13.9 and 13.7.
+
+There's also possible weight reduction, say if length given by the muzzle device is less weight than that section of barrel would have been.
+
+Admittedly, there is hair splitting and diminishing returns in these variations.
+ 
+ 
+Reactions:
+Bigjake83 and Milf Dots
+TonyTheTiger
+Like a Boss
+Full Member
+Minuteman
+Feb 14, 2017
+5,118
+8,453
+Mar 15, 2024
+#4
+As long as we're splitting nearly imperceptible hairs, I've found a 13.7" mid gas barrel to have slightly less recoil than an identically set up 14.5" mid gas, likely due to the shorter dwell time.
+ 
+ 
+Reactions:
+bfoosh006 and simonp
+D
+dms416
+Sergeant
+Full Member
+Minuteman
+Supporter
+Jan 12, 2014
+1,231
+992
+Central IL
+Mar 15, 2024
+#5
+TonyTheTiger said:
+As long as we're splitting nearly imperceptible hairs, I've found a 13.7" mid gas barrel to have slightly less recoil than an identically set up 14.5" mid gas, likely due to the shorter dwell time.
+
+Where do you sit on gas port size for a 13.7/13.9 middy?
+ 
+TonyTheTiger
+Like a Boss
+Full Member
+Minuteman
+Feb 14, 2017
+5,118
+8,453
+Mar 15, 2024
+#6
+dms416 said:
+Where do you sit on gas port size for a 13.7/13.9 middy?
+I gauged it at the time but never wrote it down, so I couldn't tell you. I do remember that all three of my 14.5" had smaller ports. I worry more about port location than size, AGB's make it a non issue for me.
+ 
+ 
+Reactions:
+91Eunozs and dms416
+D
+Deepwoods
+Private
+Full Member
+Minuteman
+Mar 14, 2013
+145
+78
+Mid-Atlantic
+Mar 15, 2024
+#7
+TonyTheTiger said:
+As long as we're splitting nearly imperceptible hairs, I've found a 13.7" mid gas barrel to have slightly less recoil than an identically set up 14.5" mid gas, likely due to the shorter dwell time.
+Much of my time spent staring at my various builds, pondering swaps of this or that into that or this is almost purely in the service of those itty bitty hairs. 
+ 
+ 
+Reactions:
+papershredder and TonyTheTiger
+TonyTheTiger
+Like a Boss
+Full Member
+Minuteman
+Feb 14, 2017
+5,118
+8,453
+Mar 15, 2024
+#8
+Deepwoods said:
+Much of my time spent staring at my various builds, pondering swaps of this or that into that or this is almost purely in the service of those itty bitty hairs. 
+Yeah, but can you split a hair three ways? That's the next step.
+ 
+D
+Deepwoods
+Private
+Full Member
+Minuteman
+Mar 14, 2013
+145
+78
+Mid-Atlantic
+Mar 15, 2024
+#9
+TonyTheTiger said:
+Yeah, but can you split a hair three ways? That's the next step.
+Single digit splits...? lol. Yes
+
+13.7 vs 13.9 vs 14.5... that was the 3 way split.
+ 
+ 
+Reactions:
+TonyTheTiger
+T
+Tex68w
+Mister Bevilaqua
+Full Member
+Minuteman
+Supporter
+Mar 10, 2017
+1,765
+1,483
+Mar 17, 2024
+#10
+I have a 13.9" barrel lying here for one of my LMT's should I decide to ditch the 6 ARC that I am currently running in it. I went 13.9" purely for an aesthetics POV so that the can will sit seamlessly with the end of the rail. I don't expect much of a difference in handling, weight or performance from it when compared to the 14.5" I have in another LMT.
+ 
+ 
+Reactions:
+Milf Dots
+TheHorta
+Nest-stirring pot-poker.
+Supporter
+Full Member
+Minuteman
+ 
+Jan 17, 2014
+5,305
+15,647
+NO AL
+Mar 17, 2024
+#11
+On a side note, how insane is it that at 16-inches you’re a law abiding citizen, but at 14.5-inches you’re a felon.
+
+Government ruins everything.
+ 
+Last edited: Mar 17, 2024
+ 
+Reactions:
+91Eunozs, simonp, Charmingmander and 7 others
+TonyTheTiger
+Like a Boss
+Full Member
+Minuteman
+Feb 14, 2017
+5,118
+8,453
+Mar 17, 2024
+#12
+TheHorta said:
+On a side note, how insane is it that at 16-inches you’re a law abiding citizen, but at 14.5-inches you’re a felon.
+
+Government ruins everything.
+If memory serves, it used to be 18" till the gov decided they wanted to sell 16" barreled M1 Carbines on the surplus market. So they changed their own rules to make a buck.
+ 
+ 
+Reactions:
+bfoosh006, simonp and TheHorta
+P
+papershredder
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+May 23, 2021
+429
+596
+in the land of Indiana
+Mar 17, 2024
+#13
+....wrong button, post below....
+ 
+Last edited: Mar 17, 2024
+D
+dms416
+Sergeant
+Full Member
+Minuteman
+Supporter
+Jan 12, 2014
+1,231
+992
+Central IL
+Mar 17, 2024
+#14
+TonyTheTiger said:
+If memory serves, it used to be 18" till the gov decided they wanted to sell 16" barreled M1 Carbines on the surplus market. So they changed their own rules to make a buck.
+
+Interesting…always wondered why 18” for scatterguns and 16” for rifles.
+
+Getcha a 14.5 P/W Aug that’s gtg. But lopping down a lever gun flush with a shorter mag tube…way too scary
+ 
+ 
+Reactions:
+TonyTheTiger
+P
+papershredder
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+May 23, 2021
+429
+596
+in the land of Indiana
+Mar 17, 2024
+#15
+dms416 said:
+Where do you sit on gas port size for a 13.7/13.9 middy?
+
+
+TonyTheTiger said:
+I gauged it at the time but never wrote it down, so I couldn't tell you. I do remember that all three of my 14.5" had smaller ports. I worry more about port location than size, AGB's make it a non issue for me.
+
+To give a rough idea here. I gaged my 14.5" colt soccom gas port at .062". Running H3 buffer, Toolcraft BCG and adjustable gas block. Gas block is only half way open and has no issues shooting M855, recoil is comparable to a standard rifle length colt AR.
+ 
+ 
+Reactions:
+TonyTheTiger
+D
+dms416
+Sergeant
+Full Member
+Minuteman
+Supporter
+Jan 12, 2014
+1,231
+992
+Central IL
+Mar 17, 2024
+#16
+papershredder said:
+To give a rough idea here. I gaged my 14.5" colt soccom gas port at .062". Running H3 buffer, Toolcraft BCG and adjustable gas block. Gas block is only half way open and has no issues shooting M855, recoil is comparable to a standard rifle length colt AR.
+
+Hopefully you’re aware that gas system length affects which port size is used.
+ 
+ 
+Reactions:
+TonyTheTiger
+P
+papershredder
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+May 23, 2021
+429
+596
+in the land of Indiana
+Mar 17, 2024
+#17
+dms416 said:
+Hopefully you’re aware that gas system length affects which port size is used.
+Well aware. But, as Tony alluded to above, port size is not as critical as someone might think it is. Example: my franken AR10 has an 18" rifle length+1" gas with jp vmos and scs with heaviest weights on both and the heavy spring in the scs, adjustable gas block just past half way open with only a .089" gas port in the barrel. Which is actually a little smaller port size than normal for a barrel and gas length of that size. Recoil on that rifle is sluggish and heavy, but that's intentional right now because it's a recent build I'm just starting to dial in the bcg weight and buffer system. I'm starting heavy with the JP components and reducing the weight on them until I'm satisfied.
+
+Between my two AR's, there is only a .027" difference between the port size of two very different set ups. Because of the adjustable gas blocks, neither set up is using the full amount of gas that the port can allow. Gas length affects port size, but when AR's were designed, there was a margin of error allowed and designed the ports bigger than bare minimum for reliable function.
+ 
+MSTN
+Sergeant
+Full Member
+Minuteman
+Jan 31, 2010
+1,335
+2,765
+MIDDLE OF ARIZONA
+mstn.biz
+Mar 17, 2024
+#18
+With the 13.9" barrel, compared to a 14.5" barrel, using the SAME length muzzle device, you end up with a 0.6" shorter rifle.
+
+This is a Criterion 13.9" C/L barrel with OSS/HUXWRX extended flash hider (P/N 2885), producing a 16.2" barrel:
+
+
+
+The Flow 556K when installed does clear the handguard with this combination.
+
+A 14.5" barrel and the standard length flash hider (P/N 1667) makes more sense to me. You still end up with a 16.2" barrel, and likely another couple dozen FPS in velocity.
+ 
+ 
+Reactions:
+tucaz, Ape_Factory, Milf Dots and 1 other person
+shoobe01
+Private
+Supporter
+Full Member
+Minuteman
+Feb 15, 2005
+905
+635
+Mission, KS
+www.donttouchme.com
+Mar 17, 2024
+#19
+TonyTheTiger said:
+If memory serves, it used to be 18" till the gov decided they wanted to sell 16" barreled M1 Carbines on the surplus market. So they changed their own rules to make a buck.
+Something like that yes, and that's why 18" for shotguns. Was one set of lengths for all long arms, but change was only to rifles to make sure it's confusing.
+ 
+ 
+Reactions:
+TonyTheTiger
+D
+dms416
+Sergeant
+Full Member
+Minuteman
+Supporter
+Jan 12, 2014
+1,231
+992
+Central IL
+Mar 17, 2024
+#20
+papershredder said:
+Well aware. But, as Tony alluded to above, port size is not as critical as someone might think it is.
+
+Most people aren’t running at Tony’s level either
+
+However your feeling that 0.027 isn’t that much when 0.005 can make a difference in function.
+ 
+Milf Dots
+Poontificator
+Supporter
+Full Member
+Minuteman
+Supporter
+Oct 21, 2019
+4,198
+8,153
+Mar 17, 2024
+#21
+MSTN said:
+With the 13.9" barrel, compared to a 14.5" barrel, using the SAME length muzzle device, you end up with a 0.6" shorter rifle.
+
+This is a Criterion 13.9" C/L barrel with OSS/HUXWRX extended flash hider (P/N 2885), producing a 16.2" barrel:
+
+View attachment 8374631View attachment 8374632
+
+The Flow 556K when installed does clear the handguard with this combination.
+
+A 14.5" barrel and the standard length flash hider (P/N 1667) makes more sense to me. You still end up with a 16.2" barrel, and likely another couple dozen FPS in velocity.
+Click to expand...
+I know it's gotta be at least 16.1 inches to be legal, but I'd like to have the shortest possible rifle after installing any suppressor, and I'm thinking a 13.9 would result in a shorter suppressed rifle by about .6 inches, compared to the 14.5- or am I wrong?
+ 
+Last edited: Mar 17, 2024
+T
+Tex68w
+Mister Bevilaqua
+Full Member
+Minuteman
+Supporter
+Mar 10, 2017
+1,765
+1,483
+Mar 17, 2024
+#22
+Your struggle with a 13.9 P/W is that there are very few muzzle devices long enough to get you to 16.1". If you already have a Form 1 lower to run it on then rock on.
+ 
+ 
+Reactions:
+Milf Dots
+MSTN
+Sergeant
+Full Member
+Minuteman
+Jan 31, 2010
+1,335
+2,765
+MIDDLE OF ARIZONA
+mstn.biz
+Mar 17, 2024
+#23
+MILF DOTS SAID:
+
+I know it's gotta be at least 16.1 inches to be legal, but I'd like to have the shortest possible rifle after installing any suppressor, and I'm thinking a 13.9 would result in a shorter suppressed rifle by about .6 inches, compared to the 14.5- or am I wrong?
+
+Muzzle devices come in all sorts of different overall lengths. The standard OSS/HUXWRX 5.56 flash hider is among the shortest, adding 1.7" to the typical barrel with a 0.60" threaded muzzle, giving you - when properly pinned and welded - a 16.2" barrel.
+
+With other muzzle devices, their lengths will vary, and your mileage may vary.
+
+When dealing with Federal regulations, limits do not make good targets. When climbing out below 10,000' MSL on an FAA check ride, the maximum speed is 250 knots. So, the smart guys climb out at 245 +/- 5 knots.
+
+Same with barrel length. If the limit is 16", make it easy for anyone measuring it to be comfortable with saying it is a 16+" barrel.
+ 
+ 
+Reactions:
+Milf Dots and shoobe01
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 18, 2024
+#24
+dms416 said:
+Interesting…always wondered why 18” for scatterguns and 16” for rifles.
+
+Getcha a 14.5 P/W Aug that’s gtg. But lopping down a lever gun flush with a shorter mag tube…way too scary
+The original NFA proposal was from the Attorney General at the time, Homer Stille Cummings, and it had no mention of rifles at all in it. It defined short barreled shotguns as having less than 16” barrels.
+
+
+
+On Day 1 of the hearings, after the AG admitted that the whole thing was unconstitutional (his words), a numbskull Nazi sympathizer named Harold Knutson of Minnesota piped up and said deer-hunters back home might be harmed by this, and he didn’t want them affected.
+
+The Attorney General said there is no mention of rifles, so no need to be concerned about it. Knutson then kept rambling that he felt the legislation would be stronger if there were protections for hunters and that included rifles and shotguns, and moving the barrel length to 18”. The AG said if Knutson felt that would make the legislation stronger, he had no objection.
+
+
+
+During the final round of hearings on Day 5, they went by each member of the Committee and almost finished it with no mention of the SBR infringement, by reading the original proposal of only less than 16” BBL shotguns. Harold Knutson piped-up again and reminded them of the Day 1 conversation about including rifles and the length moved to 18”, to which they responded, “Oh yeah, shotguns and rifles, shorter than 18” barrels."
+
+In the 1960s, they amended the barrel length for rifles to 16” but left shotguns at 18” for some reason. Many have speculated that it was because of M-1 Carbines, but M-1 Carbines have ~18” barrels, so that doesn’t make any sense.
+
+I’ve been searching for why they magically changed the arbitrary infringement to 16” for rifles, but have not found original source material as to why. I have printed out the NFA 1934 Hearings and studied them for many years, originally trying to find what the merits were for their discussion on silencers, only to learn there never was a discussion about silencers during the 5 days of hearings, and that the AG admitted the NFA was unconstitutional on Day 1, morning 1 of the hearings.
+
+You could have an attorney instruct a prosecutor to read AG Cummings' own words from the hearings and watch their case fall apart before a judge or jury if you were charged with an NFA crime. It gets even worse because the AG’s proposal to evade the unconstitutionality of the NFA was to simply tax the right of the people to keep and bear arms. It proceeds to get worse than that where they explain that if they make the tax so high that nobody but the ultra-wealthy can afford it, it effectively accomplished their admitted unconstitutional goals of disarming the people of said arms.
+
+But it gets even better: The AG then explained that the scheme is designed to bypass the normal due process of criminal law by demanding that the accused present the papers (Tax stamp) and when they can’t present said papers (due to pricing), they don’t get a fair trial (with its complicated proceedings), and can be thrown straight into jail.
+
+Thought I was done? When asked if the untold number of Americans out there who still possessed these items pre-1934 were caught with them, the Asst AG explained that as long as they weren’t out exercising their rights, they should be just fine.
+
+The NFA is openly and self-admittedly a multi-layer unconstitutional set of infringements in some of the most obscene ways one can imagine. It’s all in their own words, not my interpretation.
+ 
+Last edited: Mar 18, 2024
+ 
+Reactions:
+RIP_K9_Ravi, shoobe01, BLEE and 2 others
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 18, 2024
+#25
+To add insult to layers of injuries, Harold Knutson was later found out to have been spying for and running cover for the Nazis during the War. He had been arrested for sodomy in Arlington in 1924 with a Labor Department employee as well, but his buddies in Congress came to his aid in court and explained what a great moral character he had. The cops literally caught him engaged in sodomy with another man in a car.
+
+If you ever want a gun control advocate to experience cognitive dissonance, ask them why they support the gun-grabbing policies of a Republican Nazi faggot who worked for Hitler during WWII....
+ 
+Last edited: Mar 18, 2024
+ 
+Reactions:
+RIP_K9_Ravi, BLEE and simonp
+J-Ham
+Aquamarine Team
+Full Member
+Minuteman
+Sep 21, 2009
+1,896
+2,956
+Whitefish, MT
+Mar 18, 2024
+#26
+TheHorta said:
+On a side note, how insane is it that at 16-inches you’re a law abiding citizen, but at 14.5-inches you’re a felon.
+
+Government ruins everything.
+I know I feel safer...
+ 
+ 
+Reactions:
+BLEE, TheHorta and simonp
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 18, 2024
+#27
+Milf Dots said:
+I know it's gotta be at least 16.1 inches to be legal, but I'd like to have the shortest possible rifle after installing any suppressor, and I'm thinking a 13.9 would result in a shorter suppressed rifle by about .6 inches, compared to the 14.5- or am I wrong?
+We should also point out 16” barrels to be in compliance/enabling the infringement, as nothing about the NFA is legal.
+
+I don’t like the trend I’ve seen where we refer to carbines and PDWs as “rifles” either, when rifles historically have 24"-31” barrels.
+
+Carbines have shorter than 24” barrels.
+
+PDWs have short OALs and lighter weights.
+
+There is nothing in any specific infringement about 16.1” though, only 16” to be in compliance with the unconstitutional NFA.
+
+ATF agents have frequently manufactured evidence to charge and convict innocent people, including their own whistleblowers from within the ATF, so they aren’t going to care about .1” if they have your name dialed-in for whatever reason. At a minimum, they will steal your property and not return it, since they pride themselves on theft and forfeiture like a gang of common thieves who have protection from the bigger bosses in organized crime who enable them. This is literally how they operate.
+
+They achieved convictions on people for “machineguns" using a substituted tungsten firing pin in one case in WA back in the day, and another for a guy who borrowed his buddy’s CMP rifle that had mechanical issues and was doubling.
+ 
+ 
+Reactions:
+bfoosh006, RIP_K9_Ravi, BLEE and 2 others
+T
+Thump_rrr
+Sergeant
+Full Member
+Minuteman
+Nov 6, 2011
+401
+303
+57
+Montreal, Qc.
+Mar 19, 2024
+#28
+papershredder said:
+Well aware. But, as Tony alluded to above, port size is not as critical as someone might think it is. Example: my franken AR10 has an 18" rifle length+1" gas with jp vmos and scs with heaviest weights on both and the heavy spring in the scs, adjustable gas block just past half way open with only a .089" gas port in the barrel. Which is actually a little smaller port size than normal for a barrel and gas length of that size. Recoil on that rifle is sluggish and heavy, but that's intentional right now because it's a recent build I'm just starting to dial in the bcg weight and buffer system. I'm starting heavy with the JP components and reducing the weight on them until I'm satisfied.
+
+Between my two AR's, there is only a .027" difference between the port size of two very different set ups. Because of the adjustable gas blocks, neither set up is using the full amount of gas that the port can allow. Gas length affects port size, but when AR's were designed, there was a margin of error allowed and designed the ports bigger than bare minimum for reliable function.
+Click to expand...
+Do you realize that a 0.89" diameter hole has just over 2 times the area of a 0.62" hole?
+ 
+P
+papershredder
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+May 23, 2021
+429
+596
+in the land of Indiana
+Mar 19, 2024
+#29
+Thump_rrr said:
+Do you realize that a 0.89" diameter hole has just over 2 times the area of a 0.62" hole?
+Just a hair under 2x actually and double check your decimal places. Also, I was comparing a large frame and a small frame AR. You do realize large frames have more reciprocating mass, right? That, along with the extra length of the gas tube of the large frame negates some of the extra volume of the larger port, does it not? Regardless, I'm quite certain that large frame rifle could function properly with a gas port size .072" or possibly even smaller than that given the bcg and buffer system I'm using.
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 19, 2024
+#30
+papershredder said:
+Just a hair under 2x actually and double check your decimal places. Also, I was comparing a large frame and a small frame AR. You do realize large frames have more reciprocating mass, right? That, along with the extra length of the gas tube of the large frame negates some of the extra volume of the larger port, does it not? Regardless, I'm quite certain that large frame rifle could function properly with a gas port size .072" or possibly even smaller than that given the bcg and buffer system I'm using.
+Click to expand...
+Large frames have more propellant mass in the case, which equates to more gas, but generally down a larger bore volume when talking .308 and 7mm-08.
+
+As the bore ratio changes with the .260 Rem, 6.5CM, 6mm, and .224s, the considerations for port location and pressure have to be looked at more carefully. Port pressures tend to be much higher due to bore volume and slower powders.
+
+I’ve seen a lot of mirroring in port locations and sizes between .308 gas guns and 5.56 for example, because case volume and bore volumes are somewhat corollary. Between 6.5 Grendel and 5.56, they are basically the same.
+ 
+ 
+Reactions:
+papershredder
+Bluedog82
+Gunny Sergeant
+Full Member
+Minuteman
+Dec 18, 2019
+905
+671
+Mar 24, 2024
+#31
+TonyTheTiger said:
+If memory serves, it used to be 18" till the gov decided they wanted to sell 16" barreled M1 Carbines on the surplus market. So they changed their own rules to make a buck.
+Actually, they were selling them for a while and only realized after the fact. So they went and changed it because of their own screwup 
+
+As for muzzle devices vs OAL, it all depends on what system you’re using, and how big the blast chamber is on the can. The Dead Air suppressors can fit the long Nox devices, which means that the OAL will be shorter with the can on. With my Griffin cans though, the flash hider for a 13.7 makes up the extra length before the mounting surface (think of a long neck), so your can mounts at almost the exact same spot—I think Austin said it would be .1” shorter. So in my case, giving up .8” of barrel to get a .1” shorter OAL made no sense.
+ 
+Last edited: Mar 24, 2024
+ 
+Reactions:
+TonyTheTiger
+7
+7mmShooter
+Private
+Full Member
+Minuteman
+Jul 17, 2013
+428
+220
+New York
+Mar 24, 2024
+#32
+Good to know about the Griffin as they are one I was considering. I wonder how the Huxwrx fair oal wise for devices?
+ 
+ 
+Reactions:
+Bluedog82
+D
+Deepwoods
+Private
+Full Member
+Minuteman
+Mar 14, 2013
+145
+78
+Mid-Atlantic
+Mar 24, 2024
+#33
+HUXWRX, at least for 5.56 flash hiders, will get a 13.7, 13.9, and 14.5 to the required 16.
+
+This is from their site for their standard FH:
+
+"The Flash Hider-QD 556 is designed to mitigate flash when unsuppressed.
+Muzzle device length is 2.3 inches, length added to barrel is 1.7 inches (on barrels with 0.6" threads)"
+
+Black River Tactical has a nice chart on their 13.9 and 14.5 barrel pages (scroll the pics) that has dimensions and necessary additions.
+
+I did a very quick measurement, I will say their suppressers thread pretty much to the hexagonal base of the FH (the older QD ones go a bit further on/ over that base), about 2.25." The 5.5" long FlowK add's about 3.25" to the rifle
+
+So Eg, a 14.5" barrel with a standard HUXWRK FH would get you to the necessary length, and then subtract about 2.25" from any of their suppressors' OAL for the OAL "barrel length" when suppressed.
+
+...Im mostly confident with this math.
+ 
+ 
+Reactions:
+Milf Dots and 7mmShooter
+7
+7mmShooter
+Private
+Full Member
+Minuteman
+Jul 17, 2013
+428
+220
+New York
+Mar 24, 2024
+#34
+Nice, so the XL would actually have an OAL benefit on a 13.7/9” vs just running the standard one on a 14.5” it seems
+ 
+D
+Deepwoods
+Private
+Full Member
+Minuteman
+Mar 14, 2013
+145
+78
+Mid-Atlantic
+Mar 24, 2024
+#35
+There are 3 options, if you can find them. The standard will work with a 14.5, the extended for 13.9 and the extended XL for 13.7...
+
+While not in stock, Bauer Precision has the two extended versions side by side
+
+HUXWRX notes the OAL of the (13.7) XL is 2.96"
+Bauer notes the OAL of the (13.9) version as 2.7"
+ 
+Last edited: Mar 24, 2024
+Milf Dots
+Poontificator
+Supporter
+Full Member
+Minuteman
+Supporter
+Oct 21, 2019
+4,198
+8,153
+Mar 24, 2024
+#36
+OP here- it sounds like getting a 14.5 inch gives me more options when it comes to the muzzle device/suppr host... is that about right?
+ 
+ 
+Reactions:
+Bluedog82
+Bluedog82
+Gunny Sergeant
+Full Member
+Minuteman
+Dec 18, 2019
+905
+671
+Mar 24, 2024
+#37
+Milf Dots said:
+OP here- it sounds like getting a 14.5 inch gives me more options when it comes to the muzzle device/suppr host... is that about right?
+Depends on what mounting system, but yeah basically.
+ 
+ 
+Reactions:
+Milf Dots
+D
+Deepwoods
+Private
+Full Member
+Minuteman
+Mar 14, 2013
+145
+78
+Mid-Atlantic
+Mar 24, 2024
+#38
+Bluedog82 said:
+Depends on what mounting system, but yeah basically.
+And especially if you're less concerned about being at the limit of not-NFA...
+ 
+ 
+Reactions:
+Milf Dots
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 28, 2024
+#39
+If I lived in a region where ATF ASACs and SAs were very hostile to real Americans who are exercising their rights, I think I would take my P&W jobs to a 3rd party (especially a retired investigator or someone with expert witness background related to firearms cases), and have them declare in legal documentation that the barrels are 16” in length with the P&W.
+
+I would also include language that these excessive and spurious actions are not done to be in compliance with any legitimate law, but under duress from a hostile agency with a lengthy history of abuse of citizens and its own whistleblower agents, who violate the Constitution by enforcing an infringement that directly opposes the 2A, 4A, and "PROVIDE for the common defense" language of the Constitution.
+
+I would send a copy of these notarized documents to my attorney, the NAGR, GOA, and any local advocacy groups just in case. Attached to the documents would be the Day 1 1934 NFA proceedings, including the proposing AG’s own words declaring the NFA to be unconstitutional, and the testimony of then Congressman Harold Knutson.
+
+This is just what I would consider. We must not refer to anything the ATF does regarding firearms as legitimate or lawful, as the NFA is nothing but a series of contradictions when you place it next to the Bill of Rights and Constitution.
+ 
+ 
+Reactions:
+bfoosh006 and Milf Dots
+Milf Dots
+Poontificator
+Supporter
+Full Member
+Minuteman
+Supporter
+Oct 21, 2019
+4,198
+8,153
+Mar 28, 2024
+#40
+LRRPF52 said:
+If I lived in a region where ATF ASACs and SAs were very hostile to real Americans who are exercising their rights, I think I would take my P&W jobs to a 3rd party (especially a retired investigator or someone with expert witness background related to firearms cases), and have them declare in legal documentation that the barrels are 16” in length with the P&W.
+
+I would also include language that these excessive and spurious actions are not done to be in compliance with any legitimate law, but under duress from a hostile agency with a lengthy history of abuse of citizens and its own whistleblower agents, who violate the Constitution by enforcing an infringement that directly opposes the 2A, 4A, and "PROVIDE for the common defense" language of the Constitution.
+
+I would send a copy of these notarized documents to my attorney, the NAGR, GOA, and any local advocacy groups just in case. Attached to the documents would be the Day 1 1934 NFA proceedings, including the proposing AG’s own words declaring the NFA to be unconstitutional, and the testimony of then Congressman Harold Knutson.
+
+This is just what I would consider. We must not refer to anything the ATF does regarding firearms as legitimate or lawful, as the NFA is nothing but a series of contradictions when you place it next to the Bill of Rights and Constitution.
+Click to expand...
+Is that kind of convern just for people who have carbines modded after they buy them, or does it often include anyone who bought a 13.9/14.5 Pinned & Welded to be 16+ by the original manufacturers like Sig, LWRCi, DD, HK, LMT?
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 28, 2024
+#41
+Milf Dots said:
+Is that kind of convern just for people who have carbines modded after they buy them, or does it often include anyone who bought a 13.9/14.5 Pinned & Welded to be 16+ by the original manufacturers like Sig, LWRCi, DD, HK, LMT?
+The companies are going to hold themselves in compliance with the infringements because they don’t want to lose their manufacturer’s license (another infringement).
+
+What I’m talking about hasn’t been mentioned before to my knowledge, but just an insurance policy if someone is worried about it. I would also track the arbitrary/extra fees and expenses I have had to endure in order to exercise my rights.
+
+Basically we need to all start thinking about stacking the deck in our favor with lawsuits against this crap. One particular major inconvenience with P&W is you lock yourself into a particular muzzle device that might not work out for your, or you just want to change for another suppressor host, whatever the reason. I don’t need to justify exercising my rights, and yet there’s a very inconvenient and costly set of things I have to endure to be able to do so for P&W.
+
+All because some degenerate pillow-biter in 1934 thought he was protecting Minnesota deer hunters by adding more infringements to the NFA.
+ 
+Last edited: Mar 28, 2024
+ 
+Reactions:
+Milf Dots and Tex68w
+You must log in or register to reply here.
+Similar threads
+	
+Precision Armament 5.56 EFAB Hybrid Muzzle Device review.
+Bigjake83 Jan 24, 2024 Semi-Automatic Rifles
+12
+Aug 6, 2024
+L
+	
+Suppressors Looking for advise. Suppressor for 13.9in and 18in 5.56
+LJT88 Jan 4, 2024 The Armory
+24
+Jan 11, 2024
+	
+Sons of Liberty Armorers Class - AAR
+pangris Aug 5, 2024 Semi-Automatic Rifles
+53
+Oct 25, 2024
+	
+Suppressors Introducing the Recce 5K™ Suppressor From GRIFFIN ARMAMENT
+GRIFFIN_ARMAMENT Aug 31, 2023 The Armory
+9
+Oct 27, 2023
+	
+Question on Rimfire Barrel Length With Suppressor And Accuracy Problems
+Longshot231 Dec 25, 2023 The Armory
+27
+Dec 29, 2023
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/question-about-13-9in-vs-14-5in.7211498/ 
+ ----- 

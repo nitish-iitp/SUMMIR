@@ -1,0 +1,256 @@
+ARCHITECTURE
+Open Source
+Cloud Native Ecosystem
+Containers
+Edge Computing
+Microservices
+Networking
+Serverless
+Storage
+ENGINEERING
+AI
+Large Language Models
+Frontend Development
+Software Development
+API Management
+Python
+JavaScript
+TypeScript
+WebAssembly
+Cloud Services
+Data
+Security
+OPERATIONS
+Platform Engineering
+Operations
+CI/CD
+Tech Careers
+Tech Culture
+DevOps
+Kubernetes
+Observability
+Service Mesh
+CHANNELS
+Podcasts
+Ebooks
+Events
+Newsletter
+TNS RSS Feeds
+THE NEW STACK
+About / Contact
+Sponsors
+Advertise With Us
+Contributions
+PODCASTS EBOOKS EVENTS NEWSLETTER CONTRIBUTE
+ARCHITECTURE ENGINEERING OPERATIONS
+FRONTEND DEVELOPMENT / OPEN SOURCE
+Shoelace: Web Components Library That Works With Any Framework
+Developer Cory LaViska built component libraries for large companies, but he saw a need for an open source Web Components library.
+Sep 10th, 2024 10:35am by Loraine Lawson
+Photo by Mabel Amber via Pexels
+
+Shoelace bills itself as a “forward-thinking library of Web Components” and is based on web standards, so it’s usable with any framework. But like many frontend libraries, it evolved out of the creator’s own needs.
+
+“Ultimately, I built Shoelace because I wanted it for myself, but I knew it would be useful for a lot of people,” Cory LaViska, creator of Shoelace.style, told us in an interview.
+
+Version 3 will soon be available, but is being rebranded to “Web Awesome“ after a successful Kickstarter this year that raised $737,055, he said.
+
+Creating a Standards-Based Library
+
+LaViska shifted to web standards after he’d rebuilt a SaaS product using Vue 2. Shortly after he finished, Vue 3 came out, and he discovered the component library he’d used with Vue 2 wasn’t compatible with Vue 3. This meant he couldn’t upgrade.
+
+“I try to move towards the [web] platform to eliminate bloat.”
+— Cory LaViska, creator of Shoelace.style
+
+“I was locked in due to two layers of churn,” he said. Using web standards, he realized, could liberate him.
+
+“Frameworks enabled component development on the web, which was a good thing. I’ve always been pro web standards, so when the [web] platform gave us its own component model, I studied it extensively and began championing Web Components as interoperable UI primitives,” he said. “Subsequently, I’ve built multiple component libraries for design systems for large companies, including Microsoft.”
+
+Those libraries were not open source, so he built Shoelace to fill that gap and explore new ideas where he could be in charge of both development and design.
+
+TRENDING STORIES
+5 Technical Trends To Help Web Developers Stand Out in 2025
+Angular Shares ‘Potential Ideas’ for 2025 Improvements
+Rediscover the Joy of Early Web Development With XSLT
+How to Build a Server-Side React App Using Vite and Express
+Mastering Progressive Hydration for Enhanced Web Performance
+
+“The problem is, sometimes framework abstractions continue to live on long after the platform ‘catches up,’ oftentimes for reasons of backwards compatibility. This creates bloat and causes the browser to do a lot more work than it has to,” he said. “Instead, I try to move towards the platform to eliminate bloat.”
+
+One example of moving toward the Web platform can be found in Shoelace v2’s form controls. He originally wrote a lot of code that would submit native form controls. Eventually, new APIs were made available that let him do the same thing natively, so for Shoelace v3, he was able to remove all that code without losing any functionality, he said.
+
+Another example: Moving from a makeshift dialog component to the native <dialog> element, which wasn’t well supported when he first created Shoelace. By using the native dialog, the team was able to remove hundreds of lines of code for things most people don’t think about, like focus trapping, because the browser does that now, he added.
+
+ Zoom
+
+Screenshot via Shoelace.style
+
+Shoelace was first released in July 2017, but it was more like Bootstrap and at the time used “bleeding edge” features such as CSS Custom Properties, he said. Shoelace as it exists today was released in July 2020. It was acquired in 2022 by Font Awesome where he works as a principal software engineer.
+
+That’s lead to an influx of new customers testing out the Web Awesome alpha release, he said. The project currently has 12.5 stars on GitHub and has 992 million hits per month on jsDelivr, which makes it the 35th most used library on the platform. Npm use is at 6,800 weekly downloads.
+
+What Developers Need to Know
+
+To use Shoelace, developers need to know HTML, although CSS and perhaps a little JavaScript can be useful.
+
+“HTML knowledge will get you far with a Web Component library, because they’re just custom HTML elements. CSS will help if you want to customize styles,” LaViska said. “Very little JavaScript is needed to use it, aside from what normal web dev things require it for.”
+
+“Earlier this year, Microsoft announced they were moving away from React in favor of Web Components in Edge. This speaks volumes, despite pro-framework folks believing otherwise.”
+— LaViska
+
+It also scales well. Web Components are typically more performant than framework components because there’s less abstraction, LaViska said. Less code means less work for the browser, he added.
+
+“Earlier this year, Microsoft announced they were moving away from React in favor of Web Components in Edge,” he said. “This speaks volumes, despite pro-framework folks believing otherwise.”
+
+But there are times when developers might not want to use Shoelace. For instance, Web Components still struggle with SSR (server-side rendering), he said.
+
+“If you’re convinced you need SSR …  it won’t be a good option,” he said. “However, we’ve put extensive effort into SSR support for Web Awesome given new tooling and new platform APIs that make it possible. We currently have about 98% of things working via SSR in Web Awesome.”
+
+There’s also an active user community supporting Shoelace by submitting bug reports, asking and answering questions from the community and even the occasional pull request, he said.
+
+Built with Accessibility and Localization
+
+Shoelace boasts quite a few features, including working with CDNs, a dark theme and “first-class React support.” But two features caught our eye: It’s built with accessibility in mind and with built-in localization.
+
+We asked LaViska what it meant to build with accessibility in mind.
+
+Accessibility can be hard, he said, but he’s committed to it.
+
+”It’s easy to get accessibility wrong, so I try to build components in a way that makes it easy to get accessibility right — at least at the UI primitive level,” he said. “Form controls, for example, bake their labels and help text in so you don’t have to map them with labels and ARIA attributes.”
+
+For example, he shared, instead of this:
+<label for="username">Username</label>
+<input id="username" name="username" type="text" aria-describedby="help-text-help" />
+<p id="help-text">Use this to login</p>
+
+Shoelace simplifies it and wires it up internally:
+
+<sl-input name="username" label="Username" help-text="Use this to login"></sl-input>
+
+Localization on the web — the process of adapting a website or application to different languages, cultures, and regions — can also be tricky, he said. At the time, there wasn’t a solution for localizing a component library, he said.
+
+“I didn’t want to pull in an expensive solution for a handful of translations, so I built a micro-library specific to custom elements that solves this,” he said. “All the user needs to do is import the translation(s) they want and set <html lang="en"> for everything to work.”
+
+Competitors
+
+A number of large companies have shifted to Web Components, and a few even have open sourced similar libraries. LaViska cited the following libraries:
+
+Microsoft Fluent UI Web Components, which is in beta, but actively being developed;
+Google Material UI (in maintenance mode pending new maintainers);
+Adobe Spectrum Web Components, which is used in the cloud version of Photoshop and similar apps; and
+ING’s Lion Web Components, which is more of a headless option, since it doesn’t ship a theme, he noted.
+
+But LaViska expects his Web Component library to outlast popular JavaScript frameworks.
+
+“Aligning with the Web platform is a strategy for longevity,” he said.  “Shoelace — now Web Awesome — will outlast any of today’s frameworks — React, Vue, Angular, etc.—because it doesn’t lean on them in any way, and much like webpages from the ’90s still work in browsers today, our components will continue to work for a very long time because they’re built on web standards.”
+
+Loraine Lawson is a veteran technology reporter who has covered technology issues from data integration to security for 25 years. Before joining The New Stack, she served as the editor of the banking technology site Bank Automation News. She has...
+Read more from Loraine Lawson 
+SHARE THIS STORY
+ 
+ 
+ 
+ 
+TRENDING STORIES
+5 Technical Trends To Help Web Developers Stand Out in 2025
+Angular Shares ‘Potential Ideas’ for 2025 Improvements
+Rediscover the Joy of Early Web Development With XSLT
+How to Build a Server-Side React App Using Vite and Express
+Mastering Progressive Hydration for Enhanced Web Performance
+INSIGHTS FROM OUR SPONSORS
+How to Run a Virtual Machine (VM) on a Local Kubernetes Cluster
+
+15 November 2023
+Kubernetes Best Practices
+
+7 November 2023
+Best Practices for Improving Resource Allocation in Kubernetes
+
+17 October 2023
+What is data enrichment, and why is it valuable?
+
+12 December 2024
+Three ways the BigPanda Community connects you to industry experts
+
+12 December 2024
+Customer webinar: Change management for AIOps adoption
+
+11 December 2024
+Optimizing AI Workloads for Multi-Cloud Environments with Rafay and GPU PaaS
+
+27 November 2024
+Operationalizing AI: Solutions to Machine Learning Workflow Automation Challenges
+
+15 November 2024
+Achieving Optimal AI Performance with Tuning-as-a-Service
+
+12 November 2024
+TNS DAILY NEWSLETTER
+Receive a free roundup of the most recent TNS articles in your inbox each day.
+SUBSCRIBE
+The New Stack does not sell your information or share it with unaffiliated third parties. By continuing, you agree to our Terms of Use and Privacy Policy.
+ARCHITECTURE
+Open Source
+Cloud Native Ecosystem
+Containers
+Edge Computing
+Microservices
+Networking
+Serverless
+Storage
+ENGINEERING
+AI
+Large Language Models
+Frontend Development
+Software Development
+API Management
+Python
+JavaScript
+TypeScript
+WebAssembly
+Cloud Services
+Data
+Security
+OPERATIONS
+Platform Engineering
+Operations
+CI/CD
+Tech Careers
+Tech Culture
+DevOps
+Kubernetes
+Observability
+Service Mesh
+CHANNELS
+Podcasts
+Ebooks
+Events
+Newsletter
+TNS RSS Feeds
+THE NEW STACK
+About / Contact
+Sponsors
+Advertise With Us
+Contributions
+roadmap.sh
+
+Community created roadmaps, articles, resources and journeys for developers to help you choose your path and grow in your career.
+
+Frontend Developer Roadmap 
+Backend Developer Roadmap 
+Devops Roadmap 
+© The New Stack 2024
+Disclosures Terms of Use Advertising Terms & Conditions Privacy Policy Cookie Policy
+FOLLOW TNS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://thenewstack.io/shoelace-web-components-library-that-works-with-any-framework/ 
+ ----- 

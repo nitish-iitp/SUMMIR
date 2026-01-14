@@ -1,0 +1,612 @@
+MENU
+Home Teams Only Have an Advantage in Cold Weather Cities
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Cincinnati Reds Schedule
+Atlanta Braves Schedule
+Atlanta Braves vs Cincinnati Reds Box Score: September 18, 2024
+MLB Scores — September 18, 2024
+OAK	5	Final
+CHC	3	
+ARI	9	Final
+COL	4	
+CHW	3	Final
+LAA	4	(13)
+SFG	5	Final
+BAL	3	
+ATL	7	Final
+CIN	1	
+MIN	4	Final
+CLE	5	(10)
+LAD	8	Final
+MIA	4	
+HOU	0	Final
+SDP	4	
+BOS	2	Final
+TBR	1	
+WSN	0	Final
+NYM	10	
+DET	4	Final
+KCR	2	
+PHI	1	Final
+MIL	2	
+PIT	5	Final
+STL	10	
+TOR	0	Final
+TEX	2	
+NYY	2	Final
+SEA	1	(10)
+MLB Scores & Standings on this Day
+Atlanta Braves
+7
+82-70
+Prev Game Next Game
+ 
+Cincinnati Reds
+1
+74-79
+Prev Game Next Game
+Wednesday, September 18, 2024
+Start Time: 6:40 p.m. Local
+Attendance: 18,959
+Venue: Great American Ball Park
+Game Duration: 2:20
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Atlanta Braves	0	0	0	1	0	0	3	2	1	7	11	0
+
+	Cincinnati Reds	0	0	0	0	0	1	0	0	0	1	5	1
+WP: Spencer Schwellenbach (7-7) • LP: Tony Santillan (2-3)
+Atlanta Braves 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Michael Harris II CF	5	1	1	1	0	0	5	.247	.286	.388	.674	18	11	-0.033	0.60	0.036	-0.070	-0.03%	0.90	0.0	1	0	HR
+Jorge Soler RF	3	0	0	0	0	2	3	.237	.334	.431	.765	17	12	-0.049	0.64	0.000	-0.049	-0.04%	0.96	-0.5	0	0	
+   Eli White RF	2	1	1	0	0	1	2	.281	.324	.469	.792	9	7	0.005	0.07	0.006	-0.001	0.01%	0.12	0.0	1	0	
+Marcell Ozuna DH	4	2	3	2	0	1	4	.306	.382	.560	.942	15	9	0.223	0.68	0.234	-0.011	0.20%	1.02	2.4	0	0	HR,2·2B
+Matt Olson 1B	4	1	2	1	0	0	4	.241	.324	.448	.772	8	5	0.124	0.87	0.151	-0.028	0.11%	1.31	0.6	11	1	
+Ramón Laureano LF	4	1	1	0	0	1	4	.254	.312	.418	.730	17	12	0.063	0.79	0.108	-0.045	0.06%	1.19	0.3	3	0	2B
+Whit Merrifield 2B	4	0	0	0	0	2	4	.218	.309	.311	.620	15	11	-0.090	0.70	0.000	-0.090	-0.08%	1.06	-1.3	2	1	
+Sean Murphy C	3	0	0	0	1	2	4	.202	.289	.358	.646	23	13	-0.040	0.84	0.005	-0.045	-0.04%	1.27	-0.5	8	0	
+Orlando Arcia SS	4	1	1	0	0	1	4	.220	.274	.357	.631	10	8	-0.108	0.95	0.001	-0.110	-0.10%	1.44	-0.7	0	1	
+Gio Urshela 3B	4	0	2	3	0	0	4	.241	.280	.335	.615	21	14	0.125	1.15	0.163	-0.038	0.11%	1.73	1.8	1	4	2B
+																							
+Spencer Schwellenbach P																					0	2	
+   Dylan Lee P																					0	0	
+   Joe Jiménez P																					0	0	
+   Aaron Bummer P																					0	0	
+Team Totals	37	7	11	7	1	10	38	.297	.316	.568	.883	153	102	0.220	0.76	0.704	-0.487	0.20%	1.15	2.2	27	9	
+2B: Marcell Ozuna 2 (30, 1 off Jakob Junis, 1 off Justin Wilson); Ramón Laureano (14, off Tony Santillan); Gio Urshela (17, off Casey Legumina).
+HR: Marcell Ozuna (38, off Tony Santillan, 7th inn, 0 on, 0 outs to Deep LF-CF); Michael Harris II (13, off Justin Wilson, 8th inn, 0 on, 0 outs to Deep RF).
+TB: Marcell Ozuna 8; Michael Harris II 4; Gio Urshela 3; Ramón Laureano 2; Matt Olson 2; Orlando Arcia; Eli White.
+RBI: Gio Urshela 3 (47); Marcell Ozuna 2 (100); Matt Olson (90); Michael Harris II (41).
+2-out RBI: Gio Urshela 2; Matt Olson.
+Team LOB: 4.
+With RISP: 3 for 10.
+Fielding
+DP: 1. Gio Urshela-Matt Olson.
+Cincinnati Reds 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Jonathan India 2B	4	0	1	0	0	0	4	.245	.351	.391	.742	15	10	-0.135	1.16	0.030	-0.165	0%	0.00	-1.0	0	2	3B,GDP
+Elly De La Cruz SS	4	1	1	0	0	1	4	.257	.341	.472	.812	21	17	0.092	1.01	0.159	-0.067	0%	0.00	0.1	1	1	3B
+Tyler Stephenson C	2	0	0	0	1	1	4	.261	.341	.448	.789	13	6	0.029	0.89	0.065	-0.036	0%	0.00	0.1	10	0	HBP
+Spencer Steer LF	4	0	0	0	0	3	4	.231	.325	.416	.741	13	10	-0.145	1.06	0.000	-0.145	0%	0.00	-1.2	4	0	
+TJ Friedl CF	3	0	1	1	0	0	4	.231	.305	.399	.704	17	12	0.029	1.18	0.055	-0.026	0%	0.00	-0.2	2	1	SH
+Ty France 1B	4	0	1	0	0	1	4	.244	.316	.378	.694	9	8	-0.027	0.91	0.023	-0.049	0%	0.00	-0.4	6	1	
+Santiago Espinal 3B	3	0	0	0	1	0	4	.257	.305	.373	.678	14	8	-0.122	0.90	0.001	-0.122	0%	0.00	-0.7	1	2	
+Jake Fraley RF	1	0	0	0	1	1	2	.278	.331	.389	.719	11	5	0.012	0.98	0.038	-0.026	0%	0.00	0.0	1	0	
+   Amed Rosario PH-RF	2	0	0	0	0	0	2	.284	.311	.385	.696	8	5	-0.030	0.57	0.000	-0.030	0%	0.00	-0.6	2	0	
+Noelvi Marte DH	3	0	1	0	0	1	3	.210	.249	.312	.561	7	6	0.016	1.09	0.053	-0.037	0%	0.00	0.1	0	0	
+																							
+Jakob Junis P																					0	0	
+   Tony Santillan P																					0	0	
+   Justin Wilson P																					0	0	
+   Casey Legumina P																					0	0	
+Team Totals	30	1	5	1	3	8	35	.167	.265	.300	.565	128	87	-0.281	0.99	0.424	-0.703	0.00%	0.00	-3.8	27	7	
+3B: Jonathan India (2, off Spencer Schwellenbach); Elly De La Cruz (9, off Spencer Schwellenbach).
+SH: TJ Friedl (2, off Spencer Schwellenbach).
+HBP: Tyler Stephenson (8, by Spencer Schwellenbach).
+TB: Jonathan India 3; Elly De La Cruz 3; TJ Friedl; Noelvi Marte; Ty France.
+GIDP: Jonathan India (15).
+RBI: TJ Friedl (54).
+Team LOB: 7.
+With RISP: 1 for 6.
+Fielding
+E: Casey Legumina (1).
+Outfield Assists: TJ Friedl (Sean Murphy at 3rd base).
+Atlanta Braves 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Spencer Schwellenbach, W (7-7)	6	5	1	1	2	5	0	3.61	25	94	62	37	10	15	7	10	7	0	61			0.203	1.31	0.18%	1.97	2.2
+Dylan Lee, H (8)	1	0	0	0	0	1	0	1.91	3	7	7	2	3	2	0	2	1	0		0	0	0.059	0.75	0.05%	1.13	0.5
+Joe Jiménez	1	0	0	0	0	2	0	2.42	3	12	11	7	2	2	0	1	0	0		0	0	0.016	0.21	0.01%	0.32	0.5
+Aaron Bummer	1	0	0	0	1	0	0	3.64	4	15	7	5	0	2	2	1	1	0		0	0	0.004	0.04	0.00%	0.06	0.5
+Team Totals	9	5	1	1	3	8	0	1.00	35	128	87	51	15	21	9	14	9	0	61	0	0	0.282	0.99	0.25%	1.50	3.8
+
+Cincinnati Reds 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Jakob Junis	6	2	1	1	0	6	0	2.61	20	70	50	32	4	14	4	10	4	0	70			0.203	0.76	0.00%	0.00	2.2
+Tony Santillan, L (2-3)	1	4	3	3	1	2	1	3.46	7	32	15	9	3	3	0	4	1	0		0	0	-0.367	1.81	0.00%	0.00	-2.5
+Justin Wilson	0.1	3	2	2	0	0	1	5.44	4	15	10	8	2	0	2	2	0	0		0	0	-0.057	0.19	0.00%	0.00	-2.2
+Casey Legumina	1.2	2	1	0	0	2	0	8.68	7	36	27	17	2	8	3	2	1	0		1	0	0.003	0.06	0.00%	0.00	0.2
+Team Totals	9	11	7	6	1	10	2	6.00	38	153	102	66	11	25	9	18	6	0	70	1	0	-0.218	0.76	0.00%	0.00	-2.2
+
+Balks: None.
+WP: None.
+HBP: Spencer Schwellenbach (6; Tyler Stephenson).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Ryan Blakney, 1B - Derek Thomas, 2B - Alan Porter, 3B - Sean Barber, LF - (none), RF - (none).
+Time of Game: 2:20.
+Attendance: 18,959.
+Field Condition: Unknown.
+Start Time Weather: 83° F, Wind 7mph in from Leftfield, Cloudy, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Braves
+1	Michael Harris II	CF
+2	Jorge Soler	RF
+3	Marcell Ozuna	DH
+4	Matt Olson	1B
+5	Ramón Laureano	LF
+6	Whit Merrifield	2B
+7	Sean Murphy	C
+8	Orlando Arcia	SS
+9	Gio Urshela	3B
+	Spencer Schwellenbach	P
+Reds
+1	Jonathan India	2B
+2	Elly De La Cruz	SS
+3	Tyler Stephenson	C
+4	Spencer Steer	LF
+5	TJ Friedl	CF
+6	Ty France	1B
+7	Santiago Espinal	3B
+8	Jake Fraley	RF
+9	Noelvi Marte	DH
+	Jakob Junis	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Atlanta Braves vs. Cincinnati Reds, September 18 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+CIN
+50%
+ATL
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.47
+6	0.49
+7	0.48
+8	0.5
+9	0.48
+10	0.46
+11	0.45
+12	0.47
+13	0.49
+14	0.5
+15	0.47
+16	0.46
+17	0.44
+18	0.47
+19	0.49
+20	0.46
+21	0.5
+22	0.47
+23	0.45
+24	0.48
+25	0.59
+26	0.57
+27	0.6
+28	0.62
+29	0.6
+30	0.64
+31	0.61
+32	0.59
+33	0.58
+34	0.61
+35	0.58
+36	0.52
+37	0.66
+38	0.63
+39	0.61
+40	0.6
+41	0.44
+42	0.39
+43	0.48
+44	0.45
+45	0.42
+46	0.5
+47	0.69
+48	0.73
+49	0.83
+50	0.78
+51	0.79
+52	0.71
+53	0.87
+54	0.9
+55	0.92
+56	0.93
+57	0.96
+58	0.97
+59	0.99
+60	0.98
+61	0.98
+62	0.98
+63	0.99
+64	0.99
+65	0.99
+66	0.99
+67	0.99
+68	1
+69	1
+70	1
+71	1
+72	1
+73	1
+74	1
+75	1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+t7	1-1	0	---	4,(3-0) 	R	ATL	Marcell Ozuna	Tony Santillan	19%	69%	Home Run (Fly Ball to Deep LF-CF)
+b6	0-1	0	---	7,(2-2) 		CIN	Elly De La Cruz	Spencer Schwellenbach	-16%	44%	Triple to RF (Line Drive to Deep RF Line)
+t7	2-1	2	123	5,(3-1) 	RRO	ATL	Gio Urshela	Tony Santillan	16%	87%	Single to CF (Line Drive); M. Olson Scores; R. Laureano Scores; S. Murphy out at 3B/CF-1B-3B
+b5	0-1	1	12-	4,(1-2) 	OO	CIN	Jonathan India	Spencer Schwellenbach	13%	66%	Ground Ball Double Play: 3B-1B
+t4	0-0	2	-2-	2,(1-0) 	R	ATL	Matt Olson	Jakob Junis	11%	59%	Single to CF (Line Drive); M. Ozuna Scores
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Braves Batting, Tied 0-0, Reds' Jakob Junis facing 1-2-3
+t1	0-0	0	---	1,(0-0) 	O	ATL	Michael Harris II	Jakob Junis	-2%	48%	Groundout: 1B unassisted
+t1	0-0	1	---	3,(0-2) 	O	ATL	Jorge Soler	Jakob Junis	-2%	46%	Strikeout Looking
+t1	0-0	2	---	4,(1-2) 	O	ATL	Marcell Ozuna	Jakob Junis	-1%	45%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Reds 0.
+Bottom of the 1st, Reds Batting, Tied 0-0, Braves' Spencer Schwellenbach facing 1-2-3
+b1	0-0	0	---	8,(3-2) 	O	CIN	Jonathan India	Spencer Schwellenbach	2%	47%	Popfly: 1B (Deep 1B)
+b1	0-0	1	---	5,(1-2) 	O	CIN	Elly De La Cruz	Spencer Schwellenbach	2%	49%	Lineout: LF (Deep LF-CF)
+b1	0-0	2	---	5,(3-1) 		CIN	Tyler Stephenson	Spencer Schwellenbach	-1%	48%	Walk
+b1	0-0	2	1--	6,(3-2) 	O	CIN	Spencer Steer	Spencer Schwellenbach	2%	50%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 1 LOB. Braves 0, Reds 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Reds' Jakob Junis facing 4-5-6
+t2	0-0	0	---	2,(1-0) 	O	ATL	Matt Olson	Jakob Junis	-2%	48%	Groundout: 2B-1B (2B-1B)
+t2	0-0	1	---	4,(1-2) 	O	ATL	Ramón Laureano	Jakob Junis	-2%	46%	Flyball: LF (Deep LF-CF)
+t2	0-0	2	---	1,(0-0) 	O	ATL	Whit Merrifield	Jakob Junis	-1%	45%	Lineout: CF (Deep CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Reds 0.
+Bottom of the 2nd, Reds Batting, Tied 0-0, Braves' Spencer Schwellenbach facing 5-6-7
+b2	0-0	0	---	6,(3-2) 	O	CIN	TJ Friedl	Spencer Schwellenbach	2%	47%	Groundout: P-1B (Weak SS-2B)
+b2	0-0	1	---	1,(0-0) 	O	CIN	Ty France	Spencer Schwellenbach	2%	49%	Groundout: 3B-1B (SS-3B Hole)
+b2	0-0	2	---	4,(2-1) 	O	CIN	Santiago Espinal	Spencer Schwellenbach	1%	50%	Popfly: 2B (Deep 2B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Reds 0.
+Top of the 3rd, Braves Batting, Tied 0-0, Reds' Jakob Junis facing 7-8-9
+t3	0-0	0	---	5,(2-2) 	O	ATL	Sean Murphy	Jakob Junis	-3%	47%	Strikeout Swinging
+t3	0-0	1	---	1,(0-0) 	O	ATL	Orlando Arcia	Jakob Junis	-2%	46%	Groundout: 3B-1B (SS-3B Hole)
+t3	0-0	2	---	5,(2-2) 	O	ATL	Gio Urshela	Jakob Junis	-1%	44%	Lineout: RF
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Reds 0.
+Bottom of the 3rd, Reds Batting, Tied 0-0, Braves' Spencer Schwellenbach facing 8-9-1
+b3	0-0	0	---	5,(2-2) 	O	CIN	Jake Fraley	Spencer Schwellenbach	3%	47%	Strikeout Swinging
+b3	0-0	1	---	2,(0-1) 	O	CIN	Noelvi Marte	Spencer Schwellenbach	2%	49%	Groundout: P-1B (Front of Home)
+b3	0-0	2	---	2,(1-0) 		CIN	Jonathan India	Spencer Schwellenbach	-3%	46%	Triple to RF (Line Drive to Deep RF Line)
+b3	0-0	2	--3	2,(0-1) 	O	CIN	Elly De La Cruz	Spencer Schwellenbach	4%	50%	Groundout: 3B-1B
+									0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Reds 0.
+Top of the 4th, Braves Batting, Tied 0-0, Reds' Jakob Junis facing 1-2-3
+t4	0-0	0	---	7,(3-2) 	O	ATL	Michael Harris II	Jakob Junis	-3%	47%	Flyball: LF (Short LF Line)
+t4	0-0	1	---	9,(3-2) 	O	ATL	Jorge Soler	Jakob Junis	-2%	45%	Groundout: 3B-1B (SS-3B Hole)
+t4	0-0	2	---	2,(1-0) 		ATL	Marcell Ozuna	Jakob Junis	3%	48%	Double to CF (Line Drive to Deep LF-CF)
+t4	0-0	2	-2-	2,(1-0) 	R	ATL	Matt Olson	Jakob Junis	11%	59%	Single to CF (Line Drive); M. Ozuna Scores
+t4	1-0	2	1--	1,(0-0) 	O	ATL	Ramón Laureano	Jakob Junis	-2%	57%	Flyball: LF (LF-CF)
+									1 run, 2 hits, 0 errors, 1 LOB. Braves 1, Reds 0.
+Bottom of the 4th, Reds Batting, Behind 0-1, Braves' Spencer Schwellenbach facing 3-4-5
+b4	0-1	0	---	5,(2-2) 	O	CIN	Tyler Stephenson	Spencer Schwellenbach	3%	60%	Strikeout Swinging
+b4	0-1	1	---	1,(0-0) 	O	CIN	Spencer Steer	Spencer Schwellenbach	2%	62%	Foul Popfly: 1B (Behind Home)
+b4	0-1	2	---	6,(1-2) 		CIN	TJ Friedl	Spencer Schwellenbach	-2%	60%	Single to RF (Line Drive)
+b4	0-1	2	1--	5,(1-2) 	O	CIN	Ty France	Spencer Schwellenbach	3%	64%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Braves 1, Reds 0.
+Top of the 5th, Braves Batting, Ahead 1-0, Reds' Jakob Junis facing 6-7-8
+t5	1-0	0	---	7,(1-2) 	O	ATL	Whit Merrifield	Jakob Junis	-2%	61%	Strikeout Looking
+t5	1-0	1	---	4,(1-2) 	O	ATL	Sean Murphy	Jakob Junis	-2%	59%	Strikeout Looking
+t5	1-0	2	---	1,(0-0) 	O	ATL	Orlando Arcia	Jakob Junis	-1%	58%	Popfly: SS (Deep 3B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 1, Reds 0.
+Bottom of the 5th, Reds Batting, Behind 0-1, Braves' Spencer Schwellenbach facing 7-8-9
+b5	0-1	0	---	1,(0-0) 	O	CIN	Santiago Espinal	Spencer Schwellenbach	3%	61%	Lineout: LF
+b5	0-1	1	---	6,(3-2) 		CIN	Jake Fraley	Spencer Schwellenbach	-4%	58%	Walk
+b5	0-1	1	1--	2,(1-0) 		CIN	Noelvi Marte	Spencer Schwellenbach	-5%	52%	Single to CF (Line Drive); J. Fraley to 2B
+b5	0-1	1	12-	4,(1-2) 	OO	CIN	Jonathan India	Spencer Schwellenbach	13%	66%	Ground Ball Double Play: 3B-1B
+									0 runs, 1 hit, 0 errors, 1 LOB. Braves 1, Reds 0.
+Top of the 6th, Braves Batting, Ahead 1-0, Reds' Jakob Junis facing 9-1-2
+t6	1-0	0	---	5,(1-2) 	O	ATL	Gio Urshela	Jakob Junis	-3%	63%	Flyball: LF (Deep LF-CF)
+t6	1-0	1	---	1,(0-0) 	O	ATL	Michael Harris II	Jakob Junis	-2%	61%	Flyball: CF (Deep CF)
+t6	1-0	2	---	5,(2-2) 	O	ATL	Jorge Soler	Jakob Junis	-1%	60%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 1, Reds 0.
+Bottom of the 6th, Reds Batting, Behind 0-1, Braves' Spencer Schwellenbach facing 2-3-4
+b6	0-1	0	---	7,(2-2) 		CIN	Elly De La Cruz	Spencer Schwellenbach	-16%	44%	Triple to RF (Line Drive to Deep RF Line)
+b6	0-1	0	--3	1,(0-0) 		CIN	Tyler Stephenson	Spencer Schwellenbach	-5%	39%	Hit By Pitch
+b6	0-1	0	1-3	3,(0-2) 	O	CIN	Spencer Steer	Spencer Schwellenbach	10%	49%	Strikeout Looking
+b6	0-1	1	1-3	1,(0-0) 	RO	CIN	TJ Friedl	Spencer Schwellenbach	-4%	45%	Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); E. De La Cruz Scores; T. Stephenson to 2B
+b6	1-1	2	-2-	2,(0-1) 		CIN	Ty France	Spencer Schwellenbach	-2%	42%	Single to LF (Line Drive); T. Stephenson to 3B
+b6	1-1	2	1-3	4,(0-2) 	O	CIN	Santiago Espinal	Spencer Schwellenbach	8%	50%	Groundout: 3B-1B (SS-3B Hole)
+									1 run, 2 hits, 0 errors, 2 LOB. Braves 1, Reds 1.
+Top of the 7th, Braves Batting, Tied 1-1, Reds' Tony Santillan facing 3-4-5
+									
+Tony Santillan replaces Jakob Junis pitching
+
+t7	1-1	0	---	4,(3-0) 	R	ATL	Marcell Ozuna	Tony Santillan	19%	69%	Home Run (Fly Ball to Deep LF-CF)
+t7	2-1	0	---	2,(1-0) 		ATL	Matt Olson	Tony Santillan	4%	73%	Single to CF (Fly Ball to Short CF)
+t7	2-1	0	1--	5,(3-1) 		ATL	Ramón Laureano	Tony Santillan	11%	83%	Double to LF (Fly Ball to Deep LF-CF); M. Olson to 3B
+t7	2-1	0	-23	5,(2-2) 	O	ATL	Whit Merrifield	Tony Santillan	-5%	78%	Strikeout Swinging
+t7	2-1	1	-23	7,(3-2) 		ATL	Sean Murphy	Tony Santillan	0%	79%	Walk
+t7	2-1	1	123	4,(1-2) 	O	ATL	Orlando Arcia	Tony Santillan	-8%	71%	Strikeout Swinging
+t7	2-1	2	123	5,(3-1) 	RRO	ATL	Gio Urshela	Tony Santillan	16%	87%	Single to CF (Line Drive); M. Olson Scores; R. Laureano Scores; S. Murphy out at 3B/CF-1B-3B
+									3 runs, 4 hits, 0 errors, 1 LOB. Braves 4, Reds 1.
+Bottom of the 7th, Reds Batting, Behind 1-4, Braves' Dylan Lee facing 8-9-1
+									
+Dylan Lee replaces Spencer Schwellenbach pitching
+Eli White replaces Jorge Soler playing RF batting 2nd
+Amed Rosario pinch hits for Jake Fraley (RF) batting 8th
+
+b7	1-4	0	---	3,(0-2) 	O	CIN	Amed Rosario	Dylan Lee	3%	90%	Foul Popfly: 1B (1B into Foul Terr.)
+b7	1-4	1	---	3,(0-2) 	O	CIN	Noelvi Marte	Dylan Lee	2%	92%	Strikeout Swinging
+b7	1-4	2	---	1,(0-0) 	O	CIN	Jonathan India	Dylan Lee	1%	93%	Lineout: LF (Deep LF-CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 4, Reds 1.
+Top of the 8th, Braves Batting, Ahead 4-1, Reds' Justin Wilson facing 1-2-3
+									
+Justin Wilson replaces Tony Santillan pitching
+Amed Rosario moves from PH to RF
+
+t8	4-1	0	---	3,(2-0) 	R	ATL	Michael Harris II	Justin Wilson	4%	96%	Home Run (Fly Ball to Deep RF)
+t8	5-1	0	---	5,(2-2) 		ATL	Eli White	Justin Wilson	1%	97%	Single to CF (Ground Ball)
+t8	5-1	0	1--	5,(1-2) 	R	ATL	Marcell Ozuna	Justin Wilson	2%	99%	Double to LF (Ground Ball); E. White Scores
+t8	6-1	0	-2-	2,(0-1) 	O	ATL	Matt Olson	Justin Wilson	0%	98%	Flyball: RF (Deep CF-RF)
+									
+Casey Legumina replaces Justin Wilson pitching
+
+t8	6-1	1	-2-	7,(1-2) 	O	ATL	Ramón Laureano	Casey Legumina	0%	98%	Strikeout Swinging
+t8	6-1	2	-2-	2,(1-0) 	O	ATL	Whit Merrifield	Casey Legumina	0%	98%	Groundout: SS-1B
+									2 runs, 3 hits, 0 errors, 1 LOB. Braves 6, Reds 1.
+Bottom of the 8th, Reds Batting, Behind 1-6, Braves' Joe Jiménez facing 2-3-4
+									
+Joe Jiménez replaces Dylan Lee pitching
+
+b8	1-6	0	---	7,(1-2) 	O	CIN	Elly De La Cruz	Joe Jiménez	1%	99%	Strikeout Swinging
+b8	1-6	1	---	2,(0-1) 	O	CIN	Tyler Stephenson	Joe Jiménez	1%	99%	Flyball: RF (Deep RF)
+b8	1-6	2	---	3,(0-2) 	O	CIN	Spencer Steer	Joe Jiménez	0%	99%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Braves 6, Reds 1.
+Top of the 9th, Braves Batting, Ahead 6-1, Reds' Casey Legumina facing 7-8-9
+t9	6-1	0	---	7,(3-2) 	O	ATL	Sean Murphy	Casey Legumina	0%	99%	Flyball: RF (CF-RF)
+t9	6-1	1	---	4,(1-2) 		ATL	Orlando Arcia	Casey Legumina	0%	99%	Single to P (Ground Ball to Short 1B Line); O. Arcia to 2B/Adv on E1 (throw)
+t9	6-1	1	-2-	6,(1-2) 	R	ATL	Gio Urshela	Casey Legumina	0%	100%	Ground-rule Double (Line Drive to Deep RF); O. Arcia Scores/unER
+t9	7-1	1	-2-	6,(2-2) 	O	ATL	Michael Harris II	Casey Legumina	0%	100%	Groundout: 2B-1B (2B-1B); G. Urshela to 3B
+t9	7-1	2	--3	4,(0-2) 	O	ATL	Eli White	Casey Legumina	0%	100%	Strikeout Looking
+									1 run, 2 hits, 1 error, 1 LOB. Braves 7, Reds 1.
+Bottom of the 9th, Reds Batting, Behind 1-7, Braves' Aaron Bummer facing 5-6-7
+									
+Aaron Bummer replaces Joe Jiménez pitching
+
+b9	1-7	0	---	4,(1-2) 	O	CIN	TJ Friedl	Aaron Bummer	0%	100%	Groundout: 2B-1B (Short 1B Line)
+b9	1-7	1	---	1,(0-0) 	O	CIN	Ty France	Aaron Bummer	0%	100%	Lineout: CF (Deep CF)
+b9	1-7	2	---	5,(3-1) 		CIN	Santiago Espinal	Aaron Bummer	0%	100%	Walk
+b9	1-7	2	1--	1,(0-0) 		CIN	Amed Rosario	Aaron Bummer	0%	100%	Defensive Indifference; S. Espinal to 2B
+b9	1-7	2	-2-	5,(3-1) 	O	CIN	Amed Rosario	Aaron Bummer	0%	100%	Groundout: SS-1B (Deep SS)
+									0 runs, 0 hits, 0 errors, 1 LOB. Braves 7, Reds 1.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Cincinnati Reds Schedule Atlanta Braves Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Atlanta Braves vs Cincinnati Reds Box Score: September 18, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/CIN/CIN202409180.shtml 
+ ----- 

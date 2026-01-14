@@ -1,0 +1,1131 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+Team Room
+The Bear Pit
+Chronograph: Garmin vs LabRadar
+ 
+Thread starter
+Sniper King 2020  
+Start date
+Jan 6, 2024
+1
+	
+2
+	
+3
+	
+4
+Next
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#1
+Lemme know if anybody figures out the SD thing.
+
+ 
+ 
+Reactions:
+Phil McGrath, PhantomWorks, JAYMAN6BRA and 2 others
+Zak Smith
+TBAC Guy
+Full Member
+Minuteman
+Commercial Supporter
+Nov 7, 2003
+3,638
+3,578
+Fort Collins, CO, USA
+thunderbeastarms.com
+Jan 6, 2024
+#2
+I don't understand your spreadsheet-- is each line a shot? or is each line a "run" of shots?
+
+The SD thing would be easy to figure out with just one set of listed out MV's in a run.
+ 
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,737
+39,397
+Jan 6, 2024
+#3
+Bryan Zolnikov said:
+Lemme know if anybody figures out the SD thing.
+
+Click to expand...
+
+
+Dude who the fuck cares?
+
+The point of a chronograph is to get you close enough to hit something then you can get your actual dope from HITTING THINGS.
+
+This is all about hitting shit with a rifle, not doing math class.
+ 
+ 
+Reactions:
+Clearlight, 91Eunozs, Yasherka and 8 others
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#4
+Doing good so far “Hide” 
+ 
+ 
+Reactions:
+91Eunozs and FredHammer
+Holliday
+Old Salt
+Full Member
+Minuteman
+ 
+Mar 5, 2013
+3,865
+5,332
+Wyoming
+Jan 6, 2024
+#5
+Bryan Zolnikov said:
+Lemme know if anybody figures out the SD thing.
+
+Click to expand...
+
+Nice work. Thank for doing this.
+ 
+ 
+Reactions:
+JAYMAN6BRA and Sniper King 2020
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#6
+308pirate said:
+Dude who the fuck cares?
+
+The point of a chronograph is to get you close enough to hit something then you can get your actual dope from HITTING THINGS.
+
+This is all about hitting shit with a rifle, not doing math class.
+Unbeknownst to you, you are very much supporting what I am asserting with the debate about the appropriate SD calculation. Thanks for that! And now feel free to make like Silent Bob and STFU
+ 
+ 
+Reactions:
+gilream, OREGUN, FredHammer and 1 other person
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 6, 2024
+#7
+When you use a kinetic trigger the LabRadar doesn't pick up shots from other rifles.
+
+As far as the SD-S and SD-P differences go, we use SD for diagnostic purposes. We really only need the type of SD calculation to be the same each time. There's no benefit to one or the other in this application.
+ 
+ 
+Reactions:
+Baron23, 47chevycoe and 308pirate
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,737
+39,397
+Jan 6, 2024
+#8
+Bryan Zolnikov said:
+Unbeknownst to you, you are very much supporting what I am asserting with the debate about the appropriate SD calculation. Thanks for that! And now feel free to make like Silent Bob and STFU
+
+You can blow me. Enjoy your math problems.
+ 
+ 
+Reactions:
+Yasherka, DeathBeforeDismount, secondofangle2 and 2 others
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#9
+308pirate said:
+You can blow me. Enjoy your math problems.
+Thanks again for your support  You didn’t make like Silent Bob regarding your communication but you sure did communicate nothing so I’ll take that as a Silent Bob response. Nice job following direction tool kid
+ 
+Last edited: Jan 6, 2024
+ 
+Reactions:
+gilream, FredHammer, TxShoalPatrol and 2 others
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#10
+Cascade Hemi said:
+When you use a kinetic trigger the LabRadar doesn't pick up shots from other rifles.
+
+As far as the SD-S and SD-P differences go, we use SD for diagnostic purposes. We really only need the type of SD calculation to be the same each time. There's no benefit to one or the other in this application.
+Without a kinetic trigger the Garmin doesn’t pick up shots from other rifles.
+
+As far as SD-S and SD-P differences go, show me the benefit from having the wrong but same calculation for SD. Let’s see it.
+ 
+Tokay444
+Black Rifles Matter.
+Full Member
+Minuteman
+ 
+ 
+Jun 24, 2019
+5,110
+6,970
+Jan 6, 2024
+#11
+There is no wrong SD.
+ 
+ 
+Reactions:
+iceng and Sniper King 2020
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 6, 2024
+#12
+Bryan Zolnikov said:
+Without a kinetic trigger the Garmin doesn’t pick up shots from other rifles.
+
+As far as SD-S and SD-P differences go, show me the benefit from having the wrong but same calculation for SD. Let’s see it.
+
+Yeah, I have both.
+
+I don't think you've convinced anyone your opinion is right. I'm not a statistician but I have a better than average understanding of statistics. I think you're tilting at windmills and that appears to be the same opinion held by anyone else that can even be bothered to care. Let's say for the sake of argument you're right though, does either calculation help you shoot better? Load better ammo? Get more pussy? The guys you're losing to don't think so.
+
+The Garmin is better, we all get it. Garmin stood on the shoulders of giants and produced a superior product in the market place. Garmin's choice of SD calculation is the very least interesting aspect of their chronograph.
+ 
+ 
+Reactions:
+308pirate, Two36, secondofangle2 and 5 others
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#13
+Tokay444 said:
+There is no wrong SD.
+Look, the neutral country comes in to assert something neutral 
+ 
+ 
+Reactions:
+Capt45
+Tokay444
+Black Rifles Matter.
+Full Member
+Minuteman
+ 
+ 
+Jun 24, 2019
+5,110
+6,970
+Jan 6, 2024
+#14
+What can I say? They make good chocolate and are smart enough to hold the money.
+ 
+Last edited: Jan 12, 2024
+ 
+Reactions:
+Huskydriver, Islander, secondofangle2 and 4 others
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#15
+Cascade Hemi said:
+Yeah, I have both.
+
+I don't think you've convinced anyone your opinion is right. I'm not a statistician but I have a better than average understanding of statistics. I think you're tilting at windmills and that appears to be the same opinion held by anyone else that can even be bothered to care. Let's say for the sake of argument you're right though, does either calculation help you shoot better? Load better ammo? Get more pussy? The guys you're losing to don't think so.
+
+The Garmin is better, we all get it. Garmin stood on the shoulders of giants and produced a superior product in the market place. Garmin's choice of SD calculation is the very least interesting aspect of their chronograph.
+Click to expand...
+I’m not looking to convince anybody. I’m waiting for you all to convince yourselves but I can see that you are very much locked in your perspective. Let me know if you ever even want to try to figure it out. Let’s see if you do. Won’t hold my breath.
+ 
+ 
+Reactions:
+Capt45
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#16
+Tokay444 said:
+What can I say? The make good chocolate and are smart enough to hold the money.
+Can’t argue with that. Nicely asserted.
+ 
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,737
+39,397
+Jan 6, 2024
+#17
+Bryan Zolnikov said:
+As far as SD-S and SD-P differences go, show me the benefit from having the wrong but same calculation for SD. Let’s see it.
+
+Looks to me like you have zero interest in advancing any useful knowledge of marksmanship and just want to get into a math dick swinging contest.
+
+
+ 
+ 
+Reactions:
+Sniper King 2020
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#18
+308pirate said:
+Looks to me like you have zero interest in advancing any useful knowledge of marksmanship and just want to get into a math dick swinging contest.
+
+
+Look! Silent Bob is asserting herself by posting a meme of her open mouth waiting for an insert You don’t know anything about advancing precision which is why it’s best you make like Silent Bob and STFU…do us all that favor lil trick
+ 
+Last edited: Jan 6, 2024
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,737
+39,397
+Jan 6, 2024
+#19
+Bryan Zolnikov said:
+Look! Silent Bob is asserting herself by posting a meme of her open mouth waiting for an insert You don’t know anything about advancing precision which is why it’s best you make like Silent Bob and STFU…do us all that favor like trick
+
+Benchrest queen.....it figures.
+ 
+ 
+Reactions:
+just browsing and Sniper King 2020
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#20
+308pirate said:
+Benchrest queen.....it figures.
+The stage 5 clinger continues.  No shaking you Karen. Did your man go to the range instead of giving you attention?
+ 
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 6, 2024
+#21
+Bryan Zolnikov said:
+I’m not looking to convince anybody. I’m waiting for you all to convince yourselves but I can see that you are very much locked in your perspective. Let me know if you ever even want to try to figure it out. Let’s see if you do. Won’t hold my breath.
+
+You're a little slow here, I have the Garmin and I'm using their SD-P calculation natively. I still think it doesn't matter.
+ 
+ 
+Reactions:
+308pirate and Sniper King 2020
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 6, 2024
+#22
+Cascade Hemi said:
+You're a little slow here, I have the Garmin and I'm using their SD-P calculation natively. I still think it doesn't matter.
+Survey says, “X” 
+ 
+ma smith
+Old Salt
+Full Member
+Minuteman
+Sep 29, 2020
+2,936
+2,481
+Jan 7, 2024
+#23
+OP if you solve the problem in excel, you are done...no?
+or is there some notion that excel cannot calculate SD correctly?
+
+The only time this is really going to matter is if you are using SD to forecast ES,
+eg if you say expected value of ES is 4x SD, a 9 vs 10 SD will give you a different EV(ES)...36 vs 40...
+
+Magnetospeed v3 replicates STDEV in my experience.
+ 
+ 
+Reactions:
+Rio Precision Gunworks
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Jan 7, 2024
+#24
+ma smith said:
+OP if you solve the problem in excel, you are done...no?
+or is there some notion that excel cannot calculate SD correctly?
+
+The only time this is really going to matter is if you are using SD to forecast ES,
+eg if you say expected value of ES is 4x SD, a 9 vs 10 SD will give you a different EV(ES)...36 vs 40...
+
+Magnetospeed v3 replicates STDEV in my experience.
+Click to expand...
+
+STDEV assumes sample SD. So, STDEV and STDEV.S end up the same. You have to specifically intend to use STDEV.P if you don't want to use N-1 in the denominator.
+
+I'm still open to the idea that STDEV-P is the "right" one to use for ammo development, but thus far, the OP (and it seems Garmin) are the only people/places with that opinion in the community that I can find. I've made quite a few phone calls and emails to many people and haven't found anyone else yet who chooses P. There's a thread on LRH where someone has emailed Garmin asking for their opinion, but haven't heard back yet.
+
+But yea, if you prefer P, you can just do the numbers yourself if not using a Garmin.
+ 
+Last edited: Jan 7, 2024
+iceng
+Non-Privates
+Full Member
+Minuteman
+Sep 2, 2017
+2,184
+2,446
+South Aus
+Jan 7, 2024
+#25
+308pirate said:
+Looks to me like you have zero interest in advancing any useful knowledge of marksmanship and just want to get into a math dick swinging contest.
+NERD FIGHT !!!
+
+ 
+ 
+Reactions:
+Clearlight, secondofangle2, Emerson0311 and 9 others
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Jan 7, 2024
+#26
+Also, FWIW, can likely add the FX Chrono to the list of STDEV.S chronos.
+
+I'd have to verify with an actual string, but the screenshots they show in their manual are using STDEV.S to calculate.
+ 
+B
+Bemoni
+Private
+Minuteman
+Mar 10, 2018
+54
+66
+Denmark
+Jan 7, 2024
+#27
+SD's does not mean anything to me, what's really matters, is the ES!
+When using a chronograph, i'm only interested in how reliable it is and the Labradar has proved to be very good in this regard.
+When i'm doing a load development, the first thing to get in order, is a consistent Vo, this means a ES within 9 - 10 FPS and then i will do the work with seating dept and check that the ES still are within the tolerances i have set.
+SD is just a theoretic value in my opinion and I'm never looking at it, as i have no use for it
+
+I haven't tried the Garmin yet, but i will, as soon it's available to us, on the other side of the pond, but still, it's just a tool, although it may be able to do the job in a more convenient way than the LabRadar.
+ 
+Tokay444
+Black Rifles Matter.
+Full Member
+Minuteman
+ 
+ 
+Jun 24, 2019
+5,110
+6,970
+Jan 7, 2024
+#28
+Es is all but useless.
+ 
+ 
+Reactions:
+Secant, Baron23, secondofangle2 and 1 other person
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Jan 7, 2024
+#29
+Bemoni said:
+SD's does not mean anything to me, what's really matters, is the ES!
+When using a chronograph, i'm only interested in how reliable it is and the Labradar has proved to be very good in this regard.
+When i'm doing a load development, the first thing to get in order, is a consistent Vo, this means a ES within 9 - 10 FPS and then i will do the work with seating dept and check that the ES still are within the tolerances i have set.
+SD is just a theoretic value in my opinion and I'm never looking at it, as i have no use for it
+
+I haven't tried the Garmin yet, but i will, as soon it's available to us, on the other side of the pond, but still, it's just a tool, although it may be able to do the job in a more convenient way than the LabRadar.
+Click to expand...
+
+FYI, an ES below 10 requires an SD below 2fps.
+
+I won't even begin to explain how ES and SD are connected at the hip. You can google and figure that out if you like. But generally speaking, anyone who out and out says they use ES over SD isn't usually interested in how it actually works.
+
+Not to mention, you're using ES as a "theoretic" if you expect that the ammo you are going to make based on the data from chrono are going to remain as low as your measured ammo.
+ 
+ 
+Reactions:
+LastShot300, secondofangle2, Emerson0311 and 2 others
+FredHammer
+FAFOIST
+Full Member
+Minuteman
+ 
+Mar 23, 2006
+3,084
+3,352
+CONUS
+Jan 7, 2024
+#30
+@Bryan Zolnikov - Keep up the great work. I've directly benefited from information in your videos. I admire your experimenter curiosity and testing procedures. Cuts through a lot of myths and misconceptions in the shooting sports.
+ 
+ 
+Reactions:
+PhantomWorks, Capt45, Sniper King 2020 and 3 others
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Jan 7, 2024
+#31
+@Bryan Zolnikov
+
+Is there a particular reason you haven't gone into detail why you believe everyone has been wrong and only Garmin has gotten it right? I.E. what are specific reasons something like a 5 shot string of ammunition you may make more of wouldn't qualify as a sample?
+
+Exactly what error a person or company loading ammo would run into down the road using STDEV.S? I.E. "if you continue using this process, here is what the problems that can occur in the long run are."
+
+
+And finally, in the earlier thread you relied heavily on your education. However, when @JB.IC who has graduate level statistics education/degree (not just stats required for some other degree, even though those credentials are obviously of good pedigree) chimed in with his opinion on why STDEV.S was perfectly fine......you did not articulate any further on why he was incorrect.
+
+
+
+I enjoy your videos, however, in this instance you seem to not want to go into detail why you are correct and most of the rest of the industry as well as some very educated people (there are engineers in the above comments) are incorrect.
+
+As someone who seems to portray themselves as interested in contributing knowledge to the shooting community, in this instance, you seem to be taking a "I'm right because I'm right" stance and not articulating why. I'm attempting to learn here, yet I have failed to find any data or resource readily available other than Garmin using STDEV.P....to support your opinion. Therefore I'm having to default to asking you to further articulate the why.
+
+
+If it's a simple as "I only care about the "now" and the five shots is the entire population of ammo I have created. However, you will not draw incorrect conclusions or make subpar ammunition using STDEV.S"........that's a perfectly fine opinion. But failing to acknowledge it as something that's fairly inconsequential is leading many to believe you think it's an error that matters.
+ 
+ 
+Reactions:
+LastShot300, secondofangle2, spife7980 and 3 others
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Jan 7, 2024
+#32
+Actually, I'll make it more simple for Bryan or anyone on either side of the debate.
+
+
+Shooter A always uses STDEV.P
+
+Shooter B always uses STDEV.S
+
+
+Explain and give examples why one of the above shooters would be at a disadvantage.
+
+
+We can argue theory, semantics, and philosophy all day. But let's talk about application. If neither shooter has an advantage, then it's a moot point in real world application.
+ 
+ 
+Reactions:
+308pirate, ZiaHunter, kilizyrag and 5 others
+Tokay444
+Black Rifles Matter.
+Full Member
+Minuteman
+ 
+ 
+Jun 24, 2019
+5,110
+6,970
+Jan 7, 2024
+#33
+How can one shot string be the entire populations? Of course it’s only a sample. Especially if it’s factory ammo. You’d have to redefine population. Is it the lot for that ammo? The entire production of that ammo type? Or all types of ammo that manufacture makes of that cartridge?
+I know that this isn’t a factory ammo/vs hand load discussion. That’s just more where my head went to sum it all up.
+ 
+ 
+Reactions:
+Raistlin2947
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Jan 7, 2024
+#34
+Just because I enjoy ridiculous shit like this, I think I know where the general idea of STDEV.P for ammo is coming from. I'll articulate it and if anyone has an issue with it, feel free to chime in.
+
+Firstly, I'm going to say I don't think it matters in practical application as long as you're not mixing P and S to make decisions or comparisons.
+
+
+Let's say you take five shots of three different recipes. We will call those A, B, and C. Those five shots are all the ammo in existence of each recipe. Therefore you use STDEV.P. Since you are only interested in how those five round only in existence ammo compares.
+
+You decide that B is the better performing and deciding that will be your recipe for 200 rounds.
+
+Now our desired use for SD is to get an idea of what that 200 rnd population of ammo will do, and we can't chrono all 200 rounds. So, we can now go back to those five shots of recipe B and run a STDEV.S. Or we can take another amount of rounds from the 200 round population and run those with a STDEV.S go give us an idea where the SD will be for the population of 200 rnds.
+
+And, unless you have reason to believe the 200 rounds is somehow significantly different to the first five round set, you would want to add those five rounds to the sample number. As you basically turned your five round population into 205 round population.
+
+
+
+That would be a down to the nitty gritty definition of sample and population. But, you are likely just adding extra work as you won't gain practical advantage from doing it this way. However, if you don't realize the technical difference, you could misapply S and P to some other discipline or use and actually make an error that matters (non ammunition related and such).
+
+
+I'm sure there will also be an argument that those five initial rounds are not "random samples" of a population. However, a random sample is defined generally as an "equal chance of being selected." So, I would argue that while there isn't a population of 205 rounds to select the five rounds randomly......the fact that if you load those five rounds the same as you do the 200, those five rounds would have an *equal chance of being just as representative" of the 205 rounds if you had just made 205 rounds and randomly picked five of those.
+
+Though I will absolutely admit that there is a case to be made that when you consider five rounds a sample when you don't have the entire 200 rounds to select from, there is a degree of uncertainty that those five rounds make for a good representation of the future 200 (and I think this is likely the crux of the disagreement). I.E. you could easily argue those five rounds do not have an equal chance of being as representative as five rounds chosen from 200 rounds once they are made.
+
+
+
+If that is the general premise why P is the "right" way to do this until you make more ammo, then I don't disagree. I just don't think its something that is even worth the effort I just took to type this out.
+ 
+Last edited: Jan 7, 2024
+ 
+Reactions:
+Sleeper
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 7, 2024
+#35
+Rio Precision Gunworks said:
+Actually, I'll make it more simple for Bryan or anyone on either side of the debate.
+
+
+Shooter A always uses STDEV.P
+
+Shooter B always uses STDEV.S
+
+
+Explain and give examples why one of the above shooters would be at a disadvantage.
+
+
+We can argue theory, semantics, and philosophy all day. But let's talk about application. If neither shooter has an advantage, then it's a moot point in real world application.
+Click to expand...
+
+The fact that experienced shooters, handloaders, and generally educated discipline participants, are asking this is the answer by itself. I'm glad Brian pointed out the different SD's between the devices since I probably wouldn't have gone looking myself. It's just nice to know, if nothing else. Beyond that, individual shooters don't use velocity SD's in a way that makes the difference between the two calculations matter.
+ 
+ 
+Reactions:
+Rio Precision Gunworks
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Jan 7, 2024
+#36
+Cascade Hemi said:
+The fact that experienced shooters, handloaders, and generally educated discipline participants, are asking this is the answer by itself. I'm glad Brian pointed out the different SD's between the devices since I probably wouldn't have gone looking myself. It's just nice to know, if nothing else. Beyond that, individual shooters don't use velocity SD's in a way that makes the difference between the two calculations matter.
+
+Agreed. I think the argument is more academic/philosophical than it is applicable. And I do believe that it's worth it for anyone who might do any sort of work with data using STDEV to understand the differences in P and S.
+
+But if the only thing they will ever use it for is ammunition, won't matter.
+ 
+B
+Bemoni
+Private
+Minuteman
+Mar 10, 2018
+54
+66
+Denmark
+Jan 7, 2024
+#37
+Rio Precision Gunworks said:
+FYI, an ES below 10 requires an SD below 2fps.
+
+I won't even begin to explain how ES and SD are connected at the hip. You can google and figure that out if you like. But generally speaking, anyone who out and out says they use ES over SD isn't usually interested in how it actually works.
+
+Not to mention, you're using ES as a "theoretic" if you expect that the ammo you are going to make based on the data from chrono are going to remain as low as your measured ammo.
+Click to expand...
+You mean something like this? ( the values are metric )
+ 
+Attachments
+labradar.jpg
+173.2 KB · Views: 110
+ 
+Reactions:
+308pirate and Tokay444
+Rob01
+Moderator
+Staff member
+Moderator
+Full Member
+Minuteman
+ 
+Jul 9, 2001
+17,160
+13,714
+NC
+Jan 7, 2024
+#38
+Rio Precision Gunworks said:
+Agreed. I think the argument is more academic/philosophical than it is applicable. And I do believe that it's worth it for anyone who might do any sort of work with data using STDEV to understand the differences in P and S.
+
+But if the only thing they will ever use it for is ammunition, won't matter.
+
+
+ 
+ 
+Reactions:
+Milf Dots, Pete B, Islander and 1 other person
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Jan 7, 2024
+#39
+Bemoni said:
+You mean something like this? ( the values are metric )
+
+LOL. I can post a picture of a 5 shot string with zero ES and SD. Everyone has those cherry picked groups. So, no, I don't mean something like that. I mean actual long term data.
+
+Your understanding of ES is just not how the stat works. When you have those types of strings, they are on the absolute end of outliers are all but worthless. The fact that you even posted that pic illustrates your lack of understanding.
+
+We want to have a decent idea of what our ammo is capable of long term. Which is why SD is such an important number and ES really isn't.
+ 
+Last edited: Jan 7, 2024
+ 
+Reactions:
+308pirate, Emerson0311 and Tokay444
+B
+Bemoni
+Private
+Minuteman
+Mar 10, 2018
+54
+66
+Denmark
+Jan 7, 2024
+#40
+Rio Precision Gunworks said:
+LOL. I can post a picture of a 5 shot string with zero ES and SD. Everyone has those cherry picked groups. So, no, I don't mean something like that. I mean actual long term data.
+
+Your understanding of ES is just not how the stat works. When you have those types of strings, they are on the absolute end of outliers are all but worthless. The fact that you even posted that pic illustrates your lack of understanding.
+
+We want to have a decent idea of what our ammo is capable of long term. Which is why SD is such an important number and ES really isn't.
+Click to expand...
+This was one of my typical loads for the 6,5 - 284 and it was not a part of load development, but a QC before entering a long range match.
+What i can see from this discussion, is that there are a lot of religion involved and that's all good and well if it gives a kind of sense for you, but what's important for me, is a absolutely minimal vertical deflection, when i'm shooting 1 mile and beyond, so i can concentrate my focus on windcall and i really doesn't want to bother about how my ammo is performing and i know it will perform very well, if the ES is below 3 M/S and it maintain a group of 20 millimeters or less, on 300 meters, when i'm doing the QC shots.
+ 
+ 
+Reactions:
+Tokay444
+Tokay444
+Black Rifles Matter.
+Full Member
+Minuteman
+ 
+ 
+Jun 24, 2019
+5,110
+6,970
+Jan 7, 2024
+#41
+Bemoni said:
+This was one of my typical loads for the 6,5 - 284 and it was not a part of load development, but a QC before entering a long range match.
+What i can see from this discussion, is that there are a lot of religion involved and that's all good and well if it gives a kind of sense for you, but what's important for me, is a absolutely minimal vertical deflection, when i'm shooting 1 mile and beyond, so i can concentrate my focus on windcall and i really doesn't want to bother about how my ammo is performing and i know it will perform very well, if the ES is below 3 M/S and it maintain a group of 20 millimeters or less, on 300 meters, when i'm doing the QC shots.
+Click to expand...
+Is your contest 5 shots?
+5 shots with an es of zero, or even 3, is not indicative of how that ammo actually performs. You’re lying to yourself if you believe otherwise.
+ 
+Last edited: Jan 7, 2024
+ 
+Reactions:
+Islander
+Sniper King 2020
+Precision and ballistic testing wins
+Full Member
+Minuteman
+Dec 28, 2021
+265
+260
+WA, USA
+www.patreon.com
+Jan 7, 2024
+#42
+Yeah, agree with the sentiment that the different equation for SD doesn’t mean much in the grand scheme of things. Nor does the round up bias the LabRadar has. What’s more important is the narrative many people create that doesn’t allow them to critically analyze their assumptions. I don’t want to hand any of you those assumptions that you’re not familiar with. Keep searching for yourself and maybe you’ll find it. Make an effort to assert why the Garmin has “the right” SD even when you believe it doesn’t. I’ve entertained a few “rationales” as to why the LabRadar’s equation is appropriate. I clearly see how you all see the standard and my point is the standard you’re seeing is not the consensus practice standard.
+ 
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 7, 2024
+#43
+Bryan Zolnikov said:
+Yeah, agree with the sentiment that the different equation for SD doesn’t mean much in the grand scheme of things. Nor does the round up bias the LabRadar has. What’s more important is the narrative many people create that doesn’t allow them to critically analyze their assumptions. I don’t want to hand any of you those assumptions that you’re not familiar with. Keep searching for yourself and maybe you’ll find it. Make an effort to assert why the Garmin has “the right” SD even when you believe it doesn’t. I’ve entertained a few “rationales” as to why the LabRadar’s equation is appropriate. I clearly see how you all see the standard and my point is the standard you’re seeing is not the consensus practice standard.
+Click to expand...
+
+Now that we've entered a new era of velocity SD calculating, what next?
+ 
+ 
+Reactions:
+secondofangle2
+V
+vh20
+Gunny Sergeant
+Full Member
+Minuteman
+Dec 2, 2012
+4,455
+5,082
+60
+Jan 7, 2024
+#44
+Bemoni said:
+This was one of my typical loads for the 6,5 - 284 and it was not a part of load development, but a QC before entering a long range match.
+What i can see from this discussion, is that there are a lot of religion involved and that's all good and well if it gives a kind of sense for you, but what's important for me, is a absolutely minimal vertical deflection, when i'm shooting 1 mile and beyond, so i can concentrate my focus on windcall and i really doesn't want to bother about how my ammo is performing and i know it will perform very well, if the ES is below 3 M/S and it maintain a group of 20 millimeters or less, on 300 meters, when i'm doing the QC shots.
+Click to expand...
+If you're "maintaining" 0.2 MOA (20mm@300m) or less (!) and ES below 10 fps, then you are in...the top 0.001% of shooters and/or reloaders in the world? Maybe even higher. It is obvious you win every match you enter with stats like that, because the odds of another shooter with those kind of stats showing up at the same match at the same time are astronomical. That's "marvelous".
+ 
+Last edited: Jan 7, 2024
+ 
+Reactions:
+secondofangle2, msgriff and Tokay444
+B
+Bemoni
+Private
+Minuteman
+Mar 10, 2018
+54
+66
+Denmark
+Jan 8, 2024
+#45
+vh20 said:
+If you're "maintaining" 0.2 MOA (20mm@300m) or less (!) and ES below 10 fps, then you are in...the top 0.001% of shooters and/or reloaders in the world? Maybe even higher. It is obvious you win every match you enter with stats like that, because the odds of another shooter with those kind of stats showing up at the same match at the same time are astronomical. That's "marvelous".
+Sadly, i'm too old and slow, to make any success in PRS, so long range is the game i have chosen, but the number of matches here in DK is few, as vi only got one range going out to more than a mile.
+France, Norway and Italy are the places to go, but i have to prioritize my time and money for the time being and practice my windcalls as it's there i all-ways are losing points.
+As for the chrongraph, it's just a tool for me, if it doesen't work, it's gone! And i'm not a theoretical guy in regard of reloading, my practices are a result of learning by doing and has taking a long time and effort to get to, but i think i got it right now.
+
+And, just because someone are doing things different from you, doesn't mean that he is a bad person or doing things wrong, he may just have found another way around a problem.
+ 
+Tokay444
+Black Rifles Matter.
+Full Member
+Minuteman
+ 
+ 
+Jun 24, 2019
+5,110
+6,970
+Jan 8, 2024
+#46
+Bemoni said:
+Sadly, i'm too old and slow, to make any success in PRS, so long range is the game i have chosen, but the number of matches here in DK is few, as vi only got one range going out to more than a mile.
+France, Norway and Italy are the places to go, but i have to prioritize my time and money for the time being and practice my windcalls as it's there i all-ways are losing points.
+As for the chrongraph, it's just a tool for me, if it doesen't work, it's gone! And i'm not a theoretical guy in regard of reloading, my practices are a result of learning by doing and has taking a long time and effort to get to, but i think i got it right now.
+
+And, just because someone are doing things different from you, doesn't mean that he is a bad person or doing things wrong, he may just have found another way around a problem.
+Click to expand...
+Post a 30 shot string.
+ 
+ 
+Reactions:
+secondofangle2 and vh20
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Jan 8, 2024
+#47
+Bryan Zolnikov said:
+Yeah, agree with the sentiment that the different equation for SD doesn’t mean much in the grand scheme of things. Nor does the round up bias the LabRadar has. What’s more important is the narrative many people create that doesn’t allow them to critically analyze their assumptions. I don’t want to hand any of you those assumptions that you’re not familiar with. Keep searching for yourself and maybe you’ll find it. Make an effort to assert why the Garmin has “the right” SD even when you believe it doesn’t. I’ve entertained a few “rationales” as to why the LabRadar’s equation is appropriate. I clearly see how you all see the standard and my point is the standard you’re seeing is not the consensus practice standard.
+Click to expand...
+
+No offense, but this is a bullshit answer. People are asking you to give your opinion/reasons so that we may learn, and you're basically saying "I know but I'm not telling." For someone who claims they are attempting to share knowledge and help the community, this is pretty much the exact opposite of that.
+ 
+ 
+Reactions:
+308pirate, Yasherka, LRCampos and 4 others
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Jan 8, 2024
+#48
+Bemoni said:
+Sadly, i'm too old and slow, to make any success in PRS, so long range is the game i have chosen, but the number of matches here in DK is few, as vi only got one range going out to more than a mile.
+France, Norway and Italy are the places to go, but i have to prioritize my time and money for the time being and practice my windcalls as it's there i all-ways are losing points.
+As for the chrongraph, it's just a tool for me, if it doesen't work, it's gone! And i'm not a theoretical guy in regard of reloading, my practices are a result of learning by doing and has taking a long time and effort to get to, but i think i got it right now.
+
+And, just because someone are doing things different from you, doesn't mean that he is a bad person or doing things wrong, he may just have found another way around a problem.
+Click to expand...
+
+Ah yes, the age old classic "I make the best ammo in the world, but I'm just too busy to do anything with it."
+ 
+ 
+Reactions:
+Sniper King 2020 and secondofangle2
+Tokay444
+Black Rifles Matter.
+Full Member
+Minuteman
+ 
+ 
+Jun 24, 2019
+5,110
+6,970
+Jan 8, 2024
+#49
+Bryan Zolnikov said:
+Yeah, agree with the sentiment that the different equation for SD doesn’t mean much in the grand scheme of things. Nor does the round up bias the LabRadar has. What’s more important is the narrative many people create that doesn’t allow them to critically analyze their assumptions. I don’t want to hand any of you those assumptions that you’re not familiar with. Keep searching for yourself and maybe you’ll find it. Make an effort to assert why the Garmin has “the right” SD even when you believe it doesn’t. I’ve entertained a few “rationales” as to why the LabRadar’s equation is appropriate. I clearly see how you all see the standard and my point is the standard you’re seeing is not the consensus practice standard.
+Click to expand...
+So this was all a psyop?
+ 
+ 
+Reactions:
+akmike47, Sniper King 2020, secondofangle2 and 3 others
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 8, 2024
+#50
+Tokay444 said:
+So this was all a psyop?
+
+Youtube views.
+ 
+ 
+Reactions:
+akmike47, Sniper King 2020, Islander and 2 others
+1
+	
+2
+	
+3
+	
+4
+Next
+You must log in or register to reply here.
+Similar threads
+	
+SOLD Garmin Xero c1 pro
+LongRange98 Nov 27, 2024 Buy - Sell - Trade
+3
+Nov 27, 2024
+A
+	
+Garmin chronograph loose insides?
+Awesymoto Sep 24, 2024 The Armory
+28
+Sep 28, 2024
+	
+SOLD Garmin Xero C1 Pro
+1992PEAS Dec 8, 2024 Buy - Sell - Trade
+2
+Dec 12, 2024
+G
+	
+Accessories Foam Case Insert: Garmin Xero + Kestrel 5700
+geeoff Dec 22, 2024 Buy - Sell - Trade
+9
+Monday at 8:37 AM
+	
+Locked
+Accessories Garmin Xero C1 PRO CHRONOGRAPH W/ TRIPOD
+Sandro556 Oct 8, 2024 Buy - Sell - Trade
+7
+Oct 8, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+Team Room
+The Bear Pit
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/chronograph-garmin-vs-labradar.7202536/ 
+ ----- 

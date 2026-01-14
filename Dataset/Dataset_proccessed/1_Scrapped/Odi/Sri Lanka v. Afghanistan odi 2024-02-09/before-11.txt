@@ -1,0 +1,329 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Tuners on AR15 barrels
+ 
+Thread starter
+Roslyn  
+Start date
+Feb 7, 2024
+R
+Roslyn
+Private
+Full Member
+Minuteman
+Jul 25, 2013
+118
+32
+Feb 7, 2024
+#1
+Interested whether anyone has tried a tuner or tuner/brake on an AR15 barrel, using commercial ammunition. Helps, hurts, no difference? I am shooting a JP with a 16 inch barrel, and am not going to reload for it. It will shoot 1 MOA at 100 yards when I am on my game, but wondering whether there is more I can get from it with a tuner. I shoot bolt guns with very tight groups using reloaded ammunition, so my OCD is leading me down this rabbit hole.
+
+It seems to like 69 gr Black Hills best, 55 gr is 1.5 MOA on a good day, and 77 gr seems to vary by lot, some better some worse.
+
+Would appreciate any insights. And if I anyone has a suggestion for another brand of ammunition for this rig, let me know. I haven't tried any others since this is what I happen to have in inventory at the moment.
+ 
+P
+Pappasniper
+Sergeant
+Full Member
+Minuteman
+Nov 13, 2011
+1,082
+312
+62
+AZ
+Feb 7, 2024
+#2
+Most ammo loaded with SMK's or TMK's should be worth trying. I dont see a lot of Hornanady match ammo unless its Hornady branded. Their Vmax ammo in 55 grain is very accurate ammo. I prefer heavier bullets and Black Hills is the GOAT for speed and accuracy.
+
+Hard to duplicate BH's.
+
+PB
+ 
+simonp
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Feb 29, 2020
+655
+461
+Feb 7, 2024
+#3
+I can’t say anything about using with factory ammo as I’ve not shot factory in years.
+
+I have an EC tuner on a precision upper with a white oak barrel that my smith built for me and I’ve shot in the 3’s when I’m on using Berger 55 tips in my hand loads so I’d have to say I’m favorably impressed with the tuner so far.
+ 
+R
+Roslyn
+Private
+Full Member
+Minuteman
+Jul 25, 2013
+118
+32
+Feb 7, 2024
+#4
+Interested in how you use the tuner for hand loads. Set tuner at zero, find a load, and then adjust tuner as you get erosion in the throat? Something else?
+
+And Pappasniper, thanks for the note about SMK and TMKs, I will try them.
+ 
+simonp
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Feb 29, 2020
+655
+461
+Feb 7, 2024
+#5
+I set the tuner at zero and then adjusted it to my load. This is a new upper, built about a year ago and so far, there hasn't been enough erosion in the throat to make any changes but if accuracy shifts then I will dial in the tuner to compensate.
+ 
+C
+Csafisher
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2020
+418
+214
+Corpus Christi
+Feb 7, 2024
+#6
+I guess y’all have read the recent tuner threads… 
+ 
+Ernest 5.56
+Sergeant of the Hide
+Full Member
+Minuteman
+Apr 14, 2023
+339
+362
+East
+Feb 7, 2024
+#7
+Roslyn said:
+Interested whether anyone has tried a tuner or tuner/brake on an AR15 barrel, using commercial ammunition. Helps, hurts, no difference? I am shooting a JP with a 16 inch barrel, and am not going to reload for it. It will shoot 1 MOA at 100 yards when I am on my game, but wondering whether there is more I can get from it with a tuner. I shoot bolt guns with very tight groups using reloaded ammunition, so my OCD is leading me down this rabbit hole.
+
+It seems to like 69 gr Black Hills best, 55 gr is 1.5 MOA on a good day, and 77 gr seems to vary by lot, some better some worse.
+
+Would appreciate any insights. And if I anyone has a suggestion for another brand of ammunition for this rig, let me know. I haven't tried any others since this is what I happen to have in inventory at the moment.
+Click to expand...
+Are you using the factory muzzle device?
+ 
+R
+Roslyn
+Private
+Full Member
+Minuteman
+Jul 25, 2013
+118
+32
+Feb 8, 2024
+#8
+Yes. Don't know the brand, it is whatever JP makes standard with their uppers.
+ 
+Mike_in_FL
+Supporter
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Feb 29, 2008
+1,613
+698
+Tampa Bay, FL
+Feb 9, 2024
+#9
+No, but mainly because I run a suppressor as often as possible. Thunderbeast nor anybody else doesn't make one that would work AFAIK. Of course I'm running Area 419 hellfire adapters so the brake/tuner would have to screw onto that so...
+ 
+M
+misser
+Sergeant of the Hide
+Full Member
+Minuteman
+Oct 16, 2022
+412
+245
+clare mi
+Mar 20, 2024
+#10
+yes i do EC tuner brake and adaptive tuning system . both work really well.
+ 
+ 
+Reactions:
+simonp
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,156
+5,678
+SLC, Utah
+Mar 20, 2024
+#11
+Joe Carlos from the AMU experimented with them and discussed his experiences on video a while back.
+
+He indicated that they seemed to work at dampening barrel harmonics in certain positions.
+ 
+Last edited: Mar 20, 2024
+ 
+Reactions:
+Bigjake83
+TheOfficeT-Rex
+Small N, small x̄
+Full Member
+Minuteman
+May 19, 2019
+1,521
+1,512
+Mar 20, 2024
+#12
+LRRPF52 said:
+John Carlos from the AMU experimented with them and discussed his experiences on video a while back.
+
+He indicated that they seemed to work at dampening barrel harmonics in certain positions.
+
+Would you happen to have a link to the video?
+ 
+ 
+Reactions:
+simonp
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,156
+5,678
+SLC, Utah
+Mar 20, 2024
+#13
+TheOfficeT-Rex said:
+Would you happen to have a link to the video?
+It’s in this video series:
+
+
+
+
+I can’t find the exact one where he goes over it, but it was released with these in a series of short videos.
+ 
+ 
+Reactions:
+TheOfficeT-Rex
+TheOfficeT-Rex
+Small N, small x̄
+Full Member
+Minuteman
+May 19, 2019
+1,521
+1,512
+Mar 20, 2024
+#14
+LRRPF52 said:
+It’s in this video series:
+
+
+
+
+I can’t find the exact one where he goes over it, but it was released with these in a series of short videos.
+Click to expand...
+
+
+Thanks.
+
+For anyone else looking-
+In "AR-15 Barrel Harmonics (1 of 3)" he talks about timing the flash hider with peel washers as a tuner, and Part 3 is commercial tuners, although neither is super in depth.
+ 
+ 
+Reactions:
+LRRPF52 and simonp
+Bigjake83
+Golden Shellback
+Full Member
+Minuteman
+Supporter
+May 19, 2013
+5,012
+4,031
+Southern Idaho
+Mar 20, 2024
+#15
+TheOfficeT-Rex said:
+Thanks.
+
+For anyone else looking-
+In "AR-15 Barrel Harmonics (1 of 3)" he talks about timing the flash hider with peel washers as a tuner, and Part 3 is commercial tuners, although neither is super in depth.
+
+That's one of the other benefits to the American Precision arms muzzle devices, you can turn them in and out to tune the barrel even further.
+ 
+You must log in or register to reply here.
+Similar threads
+	
+SOLD 300 RUM carbon barrel
+MtnCur1 Oct 19, 2024 Buy - Sell - Trade
+3
+Oct 25, 2024
+	
+PVA now offering AR15 barrels!
+Rob01 Sep 7, 2024 Semi-Automatic Rifles
+33
+Sunday at 4:49 PM
+	
+Reloading For An AR-10 In 6.5mm Creedmoor LMT MWS
+Fire4EffectCA Dec 24, 2024 Reloading Depot
+11
+Thursday at 6:35 PM
+E
+	
+SOLD RimX Barreled Action
+epracmetcon Sep 3, 2024 Buy - Sell - Trade
+6
+Sep 6, 2024
+S
+	
+AR15 .224 Brux Barrel finally tested VS Bartlien
+semperfireloading Dec 25, 2024 Semi-Automatic Rifles
+1
+Dec 25, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/tuners-on-ar15-barrels.7206874/ 
+ ----- 

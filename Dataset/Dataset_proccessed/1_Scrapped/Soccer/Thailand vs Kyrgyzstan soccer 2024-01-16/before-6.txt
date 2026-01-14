@@ -1,0 +1,820 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Reloading Depot
+.308 - Sierra 169 SMK loads
+ 
+Thread starter
+Sardious  
+Start date
+Jan 14, 2024  
+Tags
+.308 bullets 1000 yards 168 smk 169 smk
+Sardious
+Private
+Minuteman
+Sep 4, 2009
+12
+4
+46
+Near Valley Forge
+Jan 14, 2024
+#1
+A few years ago, Sierra came out with the 169 SMK in an attempt to iron out the short comings of the 168 SMK especially past 800 yards.
+
+Has anyone worked up any loads for .308 with the 169's that they have shot past 800 yards? Do share.
+
+My pet load for .308 WIN 168 SMK's (300-600 yard) in a bolt rig is: 45.0 grn of VARGET, Lapua Brass, Wolf LR primers. 2.800" or mag length.
+Barrel: 1-11 twist Bartlein (30") with 95 Palma chamber.
+
+I hope to use the 169's with a similar load and have it print well at 1K. -S
+ 
+simonp
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Feb 29, 2020
+652
+457
+Jan 14, 2024
+#2
+I’ve honestly never tried the 169’s, seemed like a solution to a nonexistent problem to me.
+600 yards - 168’s
+600 plus parts - 175’s
+
+What’s the appeal of 169?
+ 
+JMGlasgow
+Old Salt
+Full Member
+Minuteman
+Apr 13, 2012
+4,051
+5,809
+Cheyenne, WY
+Jan 14, 2024
+#3
+Federal brass, 43.1gr IMR4064, 2.85 COAL. With a DA of 6200ft I'm dialing 8.3mrad at 1000. Muzzle velocity is around 2750 from a 26" Criterion barrel.
+ 
+ 
+Reactions:
+FredHammer and straightshooter1
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,493
+Colorado
+Jan 15, 2024
+#4
+simonp said:
+I’ve honestly never tried the 169’s, seemed like a solution to a nonexistent problem to me.
+600 yards - 168’s
+600 plus parts - 175’s
+
+What’s the appeal of 169?
+Same BC as the 175, so you can push the same BC bullet faster with less recoil.
+ 
+ 
+Reactions:
+aauya and FredHammer
+nn8734
+NN8734
+Full Member
+Minuteman
+Supporter
+Feb 26, 2013
+4,517
+4,205
+NA
+Jan 15, 2024
+#5
+simonp said:
+I’ve honestly never tried the 169’s, seemed like a solution to a nonexistent problem to me.
+600 yards - 168’s
+600 plus parts - 175’s
+
+What’s the appeal of 169?
+
+
+
+Sardious said:
+A few years ago, Sierra came out with the 169 SMK in an attempt to iron out the short comings of the 168 SMK especially past 800 yards.
+
+Has anyone worked up any loads for .308 with the 169's that they have shot past 800 yards? Do share.
+
+My pet load for .308 WIN 168 SMK's (300-600 yard) in a bolt rig is: 45.0 grn of VARGET, Lapua Brass, Wolf LR primers. 2.800" or mag length.
+Barrel: 1-11 twist Bartlein (30") with 95 Palma chamber.
+
+I hope to use the 169's with a similar load and have it print well at 1K. -S
+Click to expand...
+The 169 has a G1 BC of .527 while the 175 has a BC of .505...similar but the 169 is noticably flatter and handles wind better esp beyond 500m.
+
+I shoot my 308s regularly beyond 800m with the 169 and it's a better performer than the 175 overall.
+
+Load work up is the same as the 175 however you will be seating it a bit longer (or deeper if mag-limited) into the case. You shouldnt habe any issues with either standard dbms or adl/internal magazines. Use any powder that you have for the 175s with the 169sm(IMR4064, Varget, Reloader15, 8208, AA2520, etc).
+
+Here's a direct comparison I did between them a while back:
+
+Mk11 Mod 0 Load Development and Testing - 169g Sierra Matchking
+Had a chance to load up and test the new 169SMK in my Mk 11 Mod 0. Overall, I like the 308 but found the 175SMK to be lacking consistency beyond 700m (that’s after I factor me as an average shooter out of the equation). I developed a few quick loads using Sierra’s new 169 Matchking and tested...
+ www.snipershide.com
+
+I no longer shoot the 175s, have switched over to the 169s.
+ 
+ 
+Reactions:
+ColinW, aauya, AMAC79 and 2 others
+Sardious
+Private
+Minuteman
+Sep 4, 2009
+12
+4
+46
+Near Valley Forge
+Jan 15, 2024
+#6
+Good write up!
+ 
+ 
+Reactions:
+nn8734
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Jan 16, 2024
+#7
+nn8734 said:
+The 169 has a G1 BC of .527 while the 175 has a BC of .505...similar but the 169 is noticably flatter and handles wind better esp beyond 500m.
+
+I shoot my 308s regularly beyond 800m with the 169 and it's a better performer than the 175 overall.
+
+Load work up is the same as the 175 however you will be seating it a bit longer (or deeper if mag-limited) into the case. You shouldnt habe any issues with either standard dbms or adl/internal magazines. Use any powder that you have for the 175s with the 169sm(IMR4064, Varget, Reloader15, 8208, AA2520, etc).
+
+Here's a direct comparison I did between them a while back:
+
+Mk11 Mod 0 Load Development and Testing - 169g Sierra Matchking
+Had a chance to load up and test the new 169SMK in my Mk 11 Mod 0. Overall, I like the 308 but found the 175SMK to be lacking consistency beyond 700m (that’s after I factor me as an average shooter out of the equation). I developed a few quick loads using Sierra’s new 169 Matchking and tested...
+ www.snipershide.com
+
+I no longer shoot the 175s, have switched over to the 169s.
+Click to expand...
+Likewise, I no longer shoot the 175's and the 169's are my preferred round. Last year I tried some of the new 177 SMK's as they're a new design like the 169's. The 177's also performed extremely well for me with their published BC of .545. As well as the 177's performed for me, I'll be sticking with the 169's for the most part, but am keeping a little supply of the 177's just for special occasions. 
+
+You might try the 177's an see what you think??? 
+ 
+nn8734
+NN8734
+Full Member
+Minuteman
+Supporter
+Feb 26, 2013
+4,517
+4,205
+NA
+Jan 16, 2024
+#8
+straightshooter1 said:
+Likewise, I no longer shoot the 175's and the 169's are my preferred round. Last year I tried some of the new 177 SMK's as they're a new design like the 169's. The 177's also performed extremely well for me with their published BC of .545. As well as the 177's performed for me, I'll be sticking with the 169's for the most part, but am keeping a little supply of the 177's just for special occasions. 
+
+You might try the 177's an see what you think??? 
+Click to expand...
+Oh I have thought about it and, to be honest, fear I may like the 77smk too much, given how many 169s i have accumulated, haha...I may order a box and give them a whirl in my M40A5...I also have a boat load of 185 Jugs that Ive been meaning to mess with as well...
+ 
+ 
+Reactions:
+straightshooter1
+AR-180
+Private
+Full Member
+Minuteman
+Sep 28, 2006
+379
+109
+The Triangle, NC
+Jan 17, 2024
+#9
+I like 44.4 of Varget with a 169. I use Lapua and a CCI 200 or BR2.
+ 
+ 
+Reactions:
+aauya
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Jan 18, 2024
+#10
+AR-180 said:
+I like 44.4 of Varget with a 169. I use Lapua and a CCI 200 or BR2.
+. . . at what COAL?
+ 
+Bobby Ball
+Sergeant of the Hide
+Full Member
+Minuteman
+Apr 29, 2022
+106
+63
+colorado
+Feb 11, 2024
+#11
+I had a really hard time trying to get them to shoot in my gun. I've run mostly 185 juggs, and 200's. I was really hoping to make them work, but it wasn't meant to be.
+Having said that...
+I had to pull the barrel shortly after due to finding it had an obscene amount of freebore, and my guess is that the only reason the 185's and 200's were shooting "ok" was the longer length of the bullet. I would give them another shot if I was going back with another 308 barrel, but I'm working on a pretty large rebirth in a different caliber.
+I wouldn't discourage anyone from trying them. More than anything I'm bummed I couldn't make them work.
+ 
+ 
+Reactions:
+FredHammer
+B
+baddog652
+Private
+Minuteman
+Oct 12, 2020
+5
+3
+Sep 13, 2024
+#12
+AR-180 said:
+I like 44.4 of Varget with a 169. I use Lapua and a CCI 200 or BR2.
+How much jump do these 169's like? I tried 42.5 to 45.5 in .5 increments at .010 off and the results were terrible. I used BR2's, once fired Lapua and Varget. Rifle is a Savage 10FLCP-SR, 24" barrel and 1-10.
+ 
+A
+AirgunnerPCP
+Sergeant of the Hide
+Full Member
+Minuteman
+Jun 16, 2020
+344
+310
+Charlotte
+Sep 13, 2024
+#13
+baddog652 said:
+How much jump do these 169's like? I tried 42.5 to 45.5 in .5 increments at .010 off and the results were terrible. I used BR2's, once fired Lapua and Varget. Rifle is a Savage 10FLCP-SR, 24" barrel and 1-10.
+
+I shoot mine .040 off the lands. Honestly it was a bit of an arbitrary seating depth. I have about 1500 more rounds on the barrel since I've taken than measurement so I dunno what it is now.
+ 
+ 
+Reactions:
+aauya
+B
+baddog652
+Private
+Minuteman
+Oct 12, 2020
+5
+3
+Sep 13, 2024
+#14
+AirgunnerPCP said:
+I shoot mine .040 off the lands. Honestly it was a bit of an arbitrary seating depth. I have about 1500 more rounds on the barrel since I've taken than measurement so I dunno what it is now.
+Thanks! I loaded up 5 each with 43.5 Varget with .005 to .025 but after your reply I may do some .030 to .040. Almost every rifle I have (223 bolt, 6.5CM and 270 Win) prefer .005. Thanks again and if you don't mind I'll let you know the results.
+ 
+ 
+Reactions:
+AirgunnerPCP
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Sep 13, 2024
+#15
+baddog652 said:
+How much jump do these 169's like? I tried 42.5 to 45.5 in .5 increments at .010 off and the results were terrible. I used BR2's, once fired Lapua and Varget. Rifle is a Savage 10FLCP-SR, 24" barrel and 1-10.
+Keep in mind that at particular jump can mean a very different seating depth due to differences in chamber freeboards and throat erosion. .010" off your lands could mean loading .010" of my lands could mean my seating depth (how far the base of the bullet is into the case) is .035" further out. . . meaning more case capacity for me and less pressure.
+
+How far you are off the lands is a good reference just for your gun as a starting point, knowing where the touching point on the lands is. Then you go from there.
+
+When comparing how someone is loading their particular cartridge as to how it'll fit in your chamber, it's best to state a COAL. From there, I (we) can get a better idea how your cartridge is configured and compares to our chamber using our own comparator insert (comparator inserts having variations and some that are very substantial).
+
+With that in mind, I load my 169 SMK's to a COAL of 2.964, which is currently .021" off my lands (the throat erosion has been .027" after 2200 rounds fired). I haven't changed my seating depth over that time even though the bullet's BTO's have differed from one lot to another. That particular seating depth has been working real well for me and I won't change it until I start to see issues with it on target. Though I originally had my load .010 off the lands with a COAL of 2.964, there's been a little difference is the bullet's BTO's, which is why those numbers (the erosion and current off the lands) don't seem to add up.
+
+I load 41.1 grs of AR-Comp into Lapua Palma cases with .0015 neck tension and necks are annealed after every firing. Primers are CCI400's and CCI450's, which give me velocities ~ 2710 fps with SD's ~6 fps and ES's in the low 20's with 20-30 chronoed shots in a series. On paper, groups are in the .2 to low .4. . . MOA's mostly the latter. Oh . . . this is out of an Gen 2 RPR with a 26" Krieger heavy barrel.
+ 
+ 
+Reactions:
+Doom and simonp
+B
+baddog652
+Private
+Minuteman
+Oct 12, 2020
+5
+3
+Sep 13, 2024
+#16
+At .010 I'm at 2.925 COAL.
+ 
+ 
+Reactions:
+straightshooter1
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Sep 13, 2024
+#17
+baddog652 said:
+At .010 I'm at 2.925 COAL.
+So you see, when I was .010 off my lands, my COAL was 2.964 . . . a .039" difference from yours. That a huge difference in seating depth. Seating depth is much, much more important the how far you are off the lands.
+ 
+B
+baddog652
+Private
+Minuteman
+Oct 12, 2020
+5
+3
+Sep 13, 2024
+#18
+straightshooter1 said:
+So you see, when I was .010 off my lands, my COAL was 2.964 . . . a .039" difference from yours. That a huge difference in seating depth. Seating depth is much, much more important the how far you are off the lands
+I got the throat reamed on 2 of my 223's which allowed me to lengthen the round so I may to either give this Savage some help or rebarrel it. Thanks again.
+ 
+ 
+Reactions:
+straightshooter1
+Zane_C
+Private
+Minuteman
+Jan 4, 2024
+4
+5
+VA
+Oct 6, 2024
+#19
+baddog652 said:
+Thanks! I loaded up 5 each with 43.5 Varget with .005 to .025 but after your reply I may do some .030 to .040. Almost every rifle I have (223 bolt, 6.5CM and 270 Win) prefer .005. Thanks again and if you don't mind I'll let you know the results.
+I have shot several boxes of the 169’s in two different rifles and have found .050 or further just works. Even going through load development on a new barrel with varying charge weight that depth just shoots. I’m running alpha brass federal 210M primers with Varget. Barrel is a 26” proof.
+ 
+Attachments
+IMG_9314.jpeg
+463.1 KB · Views: 124
+ 
+Reactions:
+skyrep, Dog Doc and Stevo86
+B
+baddog652
+Private
+Minuteman
+Oct 12, 2020
+5
+3
+Oct 6, 2024
+#20
+Zane_C said:
+I have shot several boxes of the 169’s in two different rifles and have found .050 or further just works. Even going through load development on a new barrel with varying charge weight that depth just shoots. I’m running alpha brass federal 210M primers with Varget. Barrel is a 26” proof.
+Thank you. I have some loads from .010 to .050 waiting to shoot but my range is flooded. Now we have TS Milton doe on Thursday.
+ 
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Oct 6, 2024
+#21
+Zane_C said:
+I have shot several boxes of the 169’s in two different rifles and have found .050 or further just works. Even going through load development on a new barrel with varying charge weight that depth just shoots. I’m running alpha brass federal 210M primers with Varget. Barrel is a 26” proof.
+What COAL does that .050 represent?
+ 
+Zane_C
+Private
+Minuteman
+Jan 4, 2024
+4
+5
+VA
+Oct 6, 2024
+#22
+straightshooter1 said:
+What COAL does that .050 represent?
+I would have to double check but I believe 2.860 and a 2.110 BTO
+ 
+ 
+Reactions:
+straightshooter1
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Oct 6, 2024
+#23
+Zane_C said:
+I would have to double check but I believe 2.860 and a 2.110 BTO
+For my Krieger barrel's chamber, that .050 off the lands would translate to a very different COAL for me. I load my 169 SMK cartridges to a COAL of 2.957" which is .035" off my lands, using my Sinclair comparator, that's a CBTO of 2.235". If I load to .050 off my lands, my COAL would be 2.942". . . an .082" difference in seating depth.
+
+Apparently, you're chamber's freebore is much shorter than mine. 
+ 
+Zane_C
+Private
+Minuteman
+Jan 4, 2024
+4
+5
+VA
+Oct 6, 2024
+#24
+straightshooter1 said:
+For my Krieger barrel's chamber, that .050 off the lands would translate to a very different COAL for me. I load my 169 SMK cartridges to a COAL of 2.957" which is .035" off my lands, using my Sinclair comparator, that's a CBTO of 2.235". If I load to .050 off my lands, my COAL would be 2.942". . . an .082" difference in seating depth.
+
+Apparently, your chamber's freebore is much shorter than mine. 
+Click to expand...
+I thought so too when I first started measuring my chamber. I used a Hornady OAL gauge which probably isn’t the best but I know I’m close enough.
+ 
+Attachments
+IMG_9318.jpeg
+444.5 KB · Views: 53
+IMG_9317.jpeg
+779.5 KB · Views: 45
+ 
+Reactions:
+straightshooter1
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Oct 6, 2024
+#25
+Zane_C said:
+I thought so too when I first started measuring my chamber. I used a Hornady OAL gauge which probably isn’t the best but I know I’m close enough.
+That Hornady comparator of yours is just fine as differences between comparators really doesn't matter as long as you're using the same one when comparing measurements for your own cartridges and chambers. I also have a Hornaday comparator, but I just don't use is any longer as I just like the Sinclair better (not that it's really "better" in any significant way). The difference between these two comparators of mine is .067" in BTO measurements.  
+ 
+ 
+Reactions:
+simonp
+Zane_C
+Private
+Minuteman
+Jan 4, 2024
+4
+5
+VA
+Oct 6, 2024
+#26
+straightshooter1 said:
+That Hornady comparator of yours is just fine as differences between comparators really doesn't matter as long as you're using the same one when comparing measurements for your own cartridges and chambers. I also have a Hornaday comparator, but I just don't use is any longer as I just like the Sinclair better (not that it's really "better" in any significant way). The difference between these two comparators of mine is .067" in BTO measurements.  
+Click to expand...
+That is a crazy difference. The Hornady has worked for me so I just have stayed with it. I couldn’t find much online about proofs prefit chamber dimensions. Seems to be almost identical to my other gun which is a bartlein chambered by southern precision rifles. Guess I’m just into short chambers  The 169’s have behaved almost the same in both rifles. Seating depth doesn’t seem to have a major impact from what little testing on seating depth I have done. I have tested from .010 back and didn’t see anything significant.
+ 
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Oct 6, 2024
+#27
+Zane_C said:
+That is a crazy difference. The Hornady has worked for me so I just have stayed with it. I couldn’t find much online about proofs prefit chamber dimensions. Seems to be almost identical to my other gun which is a bartlein chambered by southern precision rifles. Guess I’m just into short chambers  The 169’s have behaved almost the same in both rifles. Seating depth doesn’t seem to have a major impact from what little testing on seating depth I have done. I have tested from .010 back and didn’t see anything significant.
+Click to expand...
+Those differences in comparators and chamber sizes is why I tend to be a little "preachy" about not stating how far one is off the lands, but what the cartridge COAL is. Though there's very often a difference in a bullet's OAL within a lot and from lot to lot, the COAL gives me a better way of determining just how someone else's cartridge configuration might fit into my chamber. . . or not (as in my post #23 above).  Like, I load my to . 035 off the lands for my gun now and that's a COAL of 2.957" where you wouldn't be able to even close the bolt of your gun on my 2.957" cartridge. 
+
+
+ 
+Last edited: Oct 6, 2024
+ 
+Reactions:
+Zane_C and simonp
+D
+Dog Doc
+Private
+Full Member
+Minuteman
+Sep 15, 2010
+190
+44
+53
+Olathe, KS
+Oct 6, 2024
+#28
+I think this thread is where I read about the 169gr and got 200. Just messing around and .030 off the lands of my GAP Crusader, this bullet makes by 308 shoot like 6mm and 6.5 creed. I am absolutely shocked at how impressive it is. I had essentially just had this rifle in the back of the safe and was board thinking I would play around with it. With a load not even developed I was able to clean our range KYL and have only done that once before with the 6GT.
+ 
+ 
+Reactions:
+Bigrederic, aauya, Zane_C and 3 others
+S
+Snailz
+Private
+Minuteman
+Apr 4, 2024
+5
+2
+Oklahoma
+Nov 26, 2024
+#29
+I’ve tried a lot to get this bullet to shoot and it just doesn’t want to group in my gun. I’ll give it one more big push, but I ordered 500 and I feel like I’m going to burn 150-200 just to find some combination that works reliably. 4 powders, multiple seating depths, multiple charge ladders, and I can’t get even a single 5 shot group below 1 MOA. I’ve had many instances of the first or second load with multiple bullets of different constructions being below 3/4 MOA and this bullet has me absolutely chasing my tail. I’m glad to see it’s working for others, but so far it’s been a dud for me.
+ 
+ 
+Reactions:
+memilanuk
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Nov 26, 2024
+#30
+Snailz said:
+I’ve tried a lot to get this bullet to shoot and it just doesn’t want to group in my gun. I’ll give it one more big push, but I ordered 500 and I feel like I’m going to burn 150-200 just to find some combination that works reliably. 4 powders, multiple seating depths, multiple charge ladders, and I can’t get even a single 5 shot group below 1 MOA. I’ve had many instances of the first or second load with multiple bullets of different constructions being below 3/4 MOA and this bullet has me absolutely chasing my tail. I’m glad to see it’s working for others, but so far it’s been a dud for me.
+Click to expand...
+Which 4 powders have you used?
+
+I've only used 3 different powders (IMR-4064, H-4895 and AR-Comp). All three have done better than 3/4 MOA for me out of my Krieger 26" heavy barrel. It's the AR-Comp that has done the best giving me under 1/2 MOA consistently. I use Lapua brass and the primers that do the best for me with this powder are the CCI's (either LRP or SRP's, the SRP's doing the best). I did recently get a very good result with 169's on my first firing of some Alpha brass with the AR-Comp (41.1 grs) using CCI-450's.
+
+It's mystifying to me as to why you can get near 1/2 MOA with a quality barrel.
+ 
+smoothy8500
+Private
+Full Member
+Minuteman
+Oct 10, 2012
+1,489
+1,095
+South Orange County, CA
+Nov 26, 2024
+#31
+Snailz said:
+4 powders, multiple seating depths, multiple charge ladders,
+Probably not worth "one more big push". Some barrels just might not like it no matter what. If the second powder didn't work, why try a 7th, 8th?
+ 
+ 
+Reactions:
+simonp
+S
+Snailz
+Private
+Minuteman
+Apr 4, 2024
+5
+2
+Oklahoma
+Nov 26, 2024
+#32
+straightshooter1 said:
+Which 4 powders have you used?
+
+I've only used 3 different powders (IMR-4064, H-4895 and AR-Comp). All three have done better than 3/4 MOA for me out of my Krieger 26" heavy barrel. It's the AR-Comp that has done the best giving me under 1/2 MOA consistently. I use Lapua brass and the primers that do the best for me with this powder are the CCI's (either LRP or SRP's, the SRP's doing the best). I did recently get a very good result with 169's on my first firing of some Alpha brass with the AR-Comp (41.1 grs) using CCI-450's.
+
+It's mystifying to me as to why you can get near 1/2 MOA with a quality barrel.
+Click to expand...
+I’ve used Varget, Benchmark, StaBall Match, and Leverevolution. Benchmark shows the most promise so far. Excellent numbers out of SBM, but consistent 1.25-1.5 MOA. It’s a savage factory sporter barrel, but it’s shot plenty of other bullets quite well.
+ 
+S
+Snailz
+Private
+Minuteman
+Apr 4, 2024
+5
+2
+Oklahoma
+Nov 26, 2024
+#33
+smoothy8500 said:
+Probably not worth "one more big push". Some barrels just might not like it no matter what. If the second powder didn't work, why try a 7th, 8th?
+Because I have 400ish of them sitting in a box and it will be a real hassle to try and sell them. I just have to try to have other loads to shoot for range days so that I’m not entirely wasting my time.
+ 
+ 
+Reactions:
+simonp
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Nov 26, 2024
+#34
+Snailz said:
+I’ve used Varget, Benchmark, StaBall Match, and Leverevolution. Benchmark shows the most promise so far. Excellent numbers out of SBM, but consistent 1.25-1.5 MOA. It’s a savage factory sporter barrel, but it’s shot plenty of other bullets quite well.
+Ah ha. "factory sporter barrel", I thought is was a high end barrel like a Bartlein. Still, you should be able to do better than 3/4 MOA, IMHO. I think you just haven't used the right powder yet. 
+
+In the past, I've used Benchmark with 168 SMK's and it did ok. But it was just too temp sensitive for me here in AZ. If you're willing to pay the high price of getting some AR-Comp, I really think you should give it a try.
+ 
+JMGlasgow
+Old Salt
+Full Member
+Minuteman
+Apr 13, 2012
+4,051
+5,809
+Cheyenne, WY
+Nov 26, 2024
+#35
+Maybe that factory barrel just doesn't like the bullet. I have experienced that and no amount of load development yielded better results.
+ 
+ 
+Reactions:
+Snailz and simonp
+S
+Snailz
+Private
+Minuteman
+Apr 4, 2024
+5
+2
+Oklahoma
+Nov 26, 2024
+#36
+straightshooter1 said:
+Ah ha. "factory sporter barrel", I thought is was a high end barrel like a Bartlein. Still, you should be able to do better than 3/4 MOA, IMHO. I think you just haven't used the right powder yet. 
+
+In the past, I've used Benchmark with 168 SMK's and it did ok. But it was just too temp sensitive for me here in AZ. If you're willing to pay the high price of getting some AR-Comp, I really think you should give it a try.
+Click to expand...
+Given the generally poor performance, I’m not interested in investing in another powder just to try to make it work. 4 powders is more than enough to throw at a bullet. If I can find a consistent MOA load it will do fine as a practice bullet. When I say 3/4 MOA I mean consistently. That gun doesn’t shoot 5 shot groups under 0.6 so I stop chasing after I’m see repeated sub 0.8. I’m not competing with this rifle and bullet, I just wanted a bullet with solid ballistics to use for long range practice and these were available on sale. I probably should’ve gone with the 168/175 SMK, Hornady 178 bthp, or something else with a more proven track record if slightly less sexy numbers. But I got seduced by bc and am paying the proce
+ 
+ 
+Reactions:
+simonp
+JR1200W3
+Supporter
+Supporter
+Full Member
+Minuteman
+Apr 21, 2020
+1,767
+1,787
+Nov 26, 2024
+#37
+Snailz said:
+Because I have 400ish of them sitting in a box and it will be a real hassle to try and sell them. I just have to try to have other loads to shoot for range days so that I’m not entirely wasting my time.
+I'll trade you one for one with 178 BTHPs
+ 
+S
+Snailz
+Private
+Minuteman
+Apr 4, 2024
+5
+2
+Oklahoma
+Nov 26, 2024
+#38
+JR1200W3 said:
+I'll trade you one for one with 178 BTHPs
+Deal. I’ll count them up and get back to you.
+ 
+JR1200W3
+Supporter
+Supporter
+Full Member
+Minuteman
+Apr 21, 2020
+1,767
+1,787
+Nov 26, 2024
+#39
+Snailz said:
+Deal. I’ll count them up and get back to you.
+For some reason I can't message you. Maybe you can hit me up and we can take this offline
+ 
+ 
+Reactions:
+Dolomite
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,779
+2,127
+AZ
+Nov 28, 2024
+#40
+Snailz said:
+Given the generally poor performance, I’m not interested in investing in another powder just to try to make it work. 4 powders is more than enough to throw at a bullet. If I can find a consistent MOA load it will do fine as a practice bullet. When I say 3/4 MOA I mean consistently. That gun doesn’t shoot 5 shot groups under 0.6 so I stop chasing after I’m see repeated sub 0.8. I’m not competing with this rifle and bullet, I just wanted a bullet with solid ballistics to use for long range practice and these were available on sale. I probably should’ve gone with the 168/175 SMK, Hornady 178 bthp, or something else with a more proven track record if slightly less sexy numbers. But I got seduced by bc and am paying the proce
+Click to expand...
+I get it, about not wanting to "invest in another powder".
+
+Therefore, just FYI . . . as I think you might find this interesting:
+
+https://forum.accurateshooter.com/threads/why-is-ar-comp-the-red-headed-step-child.3986954/page-2#post-37577188
+ 
+ 
+Reactions:
+Wolfpack-MG, Dolomite and shootnrelease
+sinister
+Rifle Pointer
+Full Member
+Minuteman
+Apr 16, 2002
+2,704
+2,100
+Midland, Georgia
+Nov 28, 2024
+#41
+simonp said:
+What’s the appeal of 169?
+168, 169, 175:
+
+
+ 
+ 
+Reactions:
+Dog Doc and Dolomite
+You must log in or register to reply here.
+Similar threads
+B
+	
+Bullet choices 308 win Mid Range 3 - 600yds
+boatbum101 Dec 9, 2023 Reloading Depot
+10
+Dec 12, 2023
+D
+	
+Load Development for 1k yard supersonic 308 - 168GR TMK - 20 inch barrel
+Dylan4570 Jan 30, 2024 Reloading Depot
+21
+Mar 27, 2024
+	
+.308 16" deer round max 500 yards
+Dave__th3__ss Apr 23, 2022 Reloading Depot
+11
+Apr 24, 2022
+J
+	
+Help Me Develop a 308 AR-10 Load
+Just-some-guy Mar 22, 2022 Reloading Depot
+10
+Jun 29, 2022
+	
+Mk11 Mod 0 Load Development and Testing - 169g Sierra Matchking
+nn8734 Feb 15, 2021 Reloading Depot
+12
+Jan 22, 2023
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Reloading Depot
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/308-sierra-169-smk-loads.7203563/ 
+ ----- 

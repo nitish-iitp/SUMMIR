@@ -1,0 +1,495 @@
+LET’S HEAR YOUR STORY
+
+SPORTS NEWS, POD CASTS, STAFF TALK, STADIUM INFORMATION & REVIEWS, SPORTS QUOTES & MODELS, HEARD ON THE STREET STORIES
+MLB
+Scores
+Home MLB Scores
+
+
+
+
+MLB Scores
+10/01/2023
+ 	1	2	3	4	5	6	7	8	9	X	R	Hits	E
+
+
+	
+BOS
+	0	0	2	0	0	0	4	0	0	-	6	5	0
+
+	
+BAL
+	0	0	0	0	0	0	0	1	0	-	1	2	3
+
+
+
+	
+MIA
+	0	0	0	0	0	0	0	0	0	-	0	3	1
+
+	
+PIT
+	0	0	0	0	0	0	0	3	X	-	3	6	1
+
+
+
+	
+LAD
+	0	0	0	0	0	5	0	0	0	-	5	7	1
+
+	
+SFG
+	0	0	0	0	0	1	0	1	0	-	2	3	0
+
+
+
+	
+OAK
+	0	0	0	0	0	0	1	1	1	-	3	10	1
+
+	
+LAA
+	1	0	1	1	3	1	0	0	X	-	7	10	1
+
+
+
+	
+TAM
+	1	7	0	1	1	1	1	0	0	-	12	16	1
+
+	
+TOR
+	0	3	0	0	0	3	1	1	0	-	8	13	0
+
+
+
+	
+HOU
+	4	1	0	0	1	0	2	0	0	-	8	9	0
+
+	
+ARI
+	0	0	0	0	0	0	0	1	0	-	1	6	1
+
+
+
+	
+WAS
+	4	1	0	0	0	0	0	2	3	-	10	15	0
+
+	
+ATL
+	2	0	3	0	0	0	2	1	1	-	9	11	0
+
+
+
+	
+SAN
+	0	0	0	0	0	0	0	0	0	2	2	7	1
+
+	
+CWS
+	0	0	0	0	0	0	0	0	0	1	1	7	0
+
+
+
+	
+MIN
+	0	2	0	0	0	0	0	0	0	0	2	9	1
+
+	
+COL
+	0	0	0	1	0	0	0	1	0	1	3	4	1
+
+
+
+	
+CLE
+	0	0	0	1	1	0	0	0	0	-	2	5	1
+
+	
+DET
+	1	1	1	0	2	0	0	0	X	-	5	9	1
+
+
+
+	
+NYY
+	0	0	0	0	0	2	0	0	0	-	2	7	1
+
+	
+KAN
+	0	2	0	2	1	0	0	0	X	-	5	11	0
+
+
+
+	
+CHC
+	0	0	0	0	0	0	0	0	0	-	0	5	0
+
+	
+MIL
+	3	0	0	0	0	1	0	0	X	-	4	6	0
+
+
+
+	
+PHI
+	0	0	1	0	0	1	0	1	6	-	9	12	1
+
+	
+NYM
+	0	0	1	0	0	0	0	0	0	-	1	2	0
+
+
+
+	
+TEX
+	0	0	0	0	0	0	0	0	0	-	0	4	0
+
+	
+SEA
+	0	0	0	1	0	0	0	0	X	-	1	4	0
+
+
+
+	
+CIN
+	1	0	1	0	0	0	1	0	0	-	3	9	0
+
+	
+STL
+	0	1	3	0	0	0	0	0	X	-	4	9	0
+
+09/30/2023
+ 	1	2	3	4	5	6	7	8	9	X	R	Hits	E
+
+
+	
+CLE
+	0	0	0	0	0	0	0	0	0	-	0	8	1
+
+	
+DET
+	0	0	0	1	0	2	5	0	X	-	8	9	0
+
+
+
+	
+TAM
+	1	0	1	0	2	0	0	0	0	3	7	14	1
+
+	
+TOR
+	0	0	1	3	0	0	0	0	0	1	5	7	1
+
+
+
+	
+PHI
+	0	0	0	0	0	0	0	1	2	-	3	7	0
+
+	
+NYM
+	3	1	0	0	0	0	0	0	X	-	4	5	0
+
+
+
+	
+MIA
+	1	0	1	0	0	2	0	2	1	-	7	14	1
+
+	
+PIT
+	0	1	0	0	1	0	0	1	0	-	3	12	0
+
+
+
+	
+SAN
+	4	2	0	0	0	0	0	0	0	-	6	12	0
+
+	
+CWS
+	0	0	0	0	0	0	0	1	0	-	1	6	0
+
+
+
+	
+NYY
+	0	0	0	2	0	3	0	0	0	-	5	12	1
+
+	
+KAN
+	1	0	1	0	0	0	0	0	0	-	2	12	1
+
+
+
+	
+CHC
+	6	0	0	2	1	1	0	0	0	-	10	13	1
+
+	
+MIL
+	3	3	0	0	0	0	0	0	0	-	6	12	0
+
+
+
+	
+PHI
+	0	0	0	4	0	0	0	0	0	-	4	8	3
+
+	
+NYM
+	0	3	5	2	1	0	0	0	X	-	11	9	1
+
+
+
+	
+BOS
+	0	0	0	0	0	0	0	1	1	-	2	14	0
+
+	
+BAL
+	0	0	0	0	0	0	2	3	X	-	5	7	0
+
+
+
+	
+TEX
+	0	0	4	1	0	0	0	1	0	-	6	8	0
+
+	
+SEA
+	0	0	0	0	0	0	0	1	0	-	1	7	0
+
+
+
+	
+CIN
+	0	0	0	1	4	0	1	0	0	-	6	14	1
+
+	
+STL
+	5	5	1	0	0	0	0	4	X	-	15	13	0
+
+
+
+	
+WAS
+	3	0	0	0	0	0	0	0	0	-	3	10	2
+
+	
+ATL
+	0	0	1	0	4	0	0	0	X	-	5	11	0
+
+
+
+	
+HOU
+	0	0	0	1	0	0	0	0	0	-	1	6	0
+
+	
+ARI
+	0	0	0	0	0	0	0	0	0	-	0	5	0
+
+
+
+	
+MIN
+	0	2	4	0	0	5	3	0	0	-	14	12	0
+
+	
+COL
+	0	0	0	0	0	0	4	2	0	-	6	11	0
+
+
+
+	
+LAD
+	0	0	0	0	1	0	0	0	0	-	1	8	1
+
+	
+SFG
+	0	0	1	0	0	1	0	0	X	-	2	5	0
+
+
+
+	
+OAK
+	1	0	0	0	0	0	0	5	1	-	7	8	1
+
+	
+LAA
+	0	0	0	0	0	0	3	0	0	-	3	3	1
+
+09/29/2023
+ 	1	2	3	4	5	6	7	8	9	X	R	Hits	E
+
+
+	
+MIA
+	0	0	0	0	0	0	0	4	0	-	4	10	1
+
+	
+PIT
+	0	0	1	2	0	0	0	0	0	-	3	9	1
+
+
+
+	
+CLE
+	0	3	4	0	0	0	0	0	0	-	7	13	0
+
+	
+DET
+	0	2	0	2	0	0	0	0	1	-	5	13	1
+
+
+
+	
+BOS
+	0	0	0	0	2	0	0	0	1	-	3	4	0
+
+	
+BAL
+	0	0	0	0	0	0	0	0	0	-	0	3	1
+
+
+
+	
+TAM
+	0	0	0	0	0	4	0	0	0	-	4	7	3
+
+	
+TOR
+	0	1	3	3	1	2	1	0	X	-	11	16	0
+
+
+
+	
+WAS
+	0	0	0	4	0	3	3	0	0	-	10	10	2
+
+	
+ATL
+	1	1	0	0	4	0	0	0	0	-	6	17	3
+
+
+
+	
+SAN
+	0	0	0	0	1	2	0	0	0	-	3	6	0
+
+	
+CWS
+	0	0	0	0	0	0	0	1	1	-	2	8	1
+
+
+
+	
+MIN
+	1	2	1	0	0	0	2	0	1	-	7	13	0
+
+	
+COL
+	0	1	1	3	1	0	0	0	0	-	6	13	1
+
+
+
+	
+NYY
+	0	0	0	3	1	1	0	0	0	-	5	8	0
+
+	
+KAN
+	9	0	1	0	0	0	2	0	X	-	12	15	0
+
+
+
+	
+CHC
+	0	0	0	0	0	0	0	2	1	0	3	6	1
+
+	
+MIL
+	0	0	0	0	3	0	0	0	0	1	4	8	0
+
+
+
+	
+CIN
+	3	4	0	7	0	0	0	5	0	-	19	17	1
+
+	
+STL
+	0	0	2	0	0	0	0	0	0	-	2	6	3
+
+
+
+	
+OAK
+	0	0	1	0	0	0	0	0	0	-	1	4	2
+
+	
+LAA
+	0	0	0	3	2	0	0	0	X	-	5	9	0
+
+
+
+	
+HOU
+	0	0	0	0	0	2	0	0	0	-	2	8	1
+
+	
+ARI
+	0	0	0	0	0	0	0	0	1	-	1	4	0
+
+
+
+	
+TEX
+	0	0	0	0	0	0	0	0	0	-	0	3	0
+
+	
+SEA
+	0	0	3	5	0	0	0	0	X	-	8	6	0
+
+
+
+	
+LAD
+	2	0	1	0	0	3	0	0	0	-	6	6	0
+
+	
+SFG
+	1	0	1	0	0	0	0	0	0	-	2	2	0
+
+
+LET’S HEAR YOUR STORY
+
+Utilize our free pick-em pools software For your office pool or sports bars contests
+
+ 
+ 
+INFORMATION
+Join Website
+Terms of Service
+Privacy Statement
+About Us
+HELP & SUPPORT
+Contact Website
+
+Powered By Rebootcs
+
+Copyright © 2025. All rights reserved by Sportsbookstuff
+
+
+Your experience on this site will be improved by allowing cookies.
+
+Allow cookies
+ 
+ 
+ ----- 
+ Source link : https://sportsbookstuff.com/mlb-scores 
+ ----- 

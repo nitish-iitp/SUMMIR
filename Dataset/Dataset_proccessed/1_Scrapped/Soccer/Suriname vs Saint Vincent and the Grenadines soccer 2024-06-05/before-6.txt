@@ -1,0 +1,1216 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+Advanced Marksmanship Unit
+Ballistic Calculators & Field Results
+Does any ballistic app or software have a graph that shows the LOS in relation to the bullet trajectory?
+ 
+Thread starter
+Steel+Killer  
+Start date
+Jun 2, 2024
+1
+	
+2
+Next
+S
+Steel+Killer
+Killing one steel plate at a time!
+Full Member
+Minuteman
+May 27, 2014
+3,966
+10,449
+49
+32.75259713494653, -79.87485679548313
+Jun 2, 2024
+#1
+As the title says does any ballistic app or software have a graph that shows the LOS in relation to the bullet trajectory? If it could be printed that would be even better.
+
+I see plenty of apps that show the bullet drop at given ranges, but I want to see a graph that illustrates that as well.
+
+Anyone know of one that will do this?
+ 
+Tanstaafl
+beaucoup điên cái đầu
+Minuteman
+May 4, 2024
+17
+14
+North Texas
+Jun 2, 2024
+#2
+That graph is an interesting exercise, but isn't good for all that much because the x-axis must be so highly compressed compared to the y-axis. The examples below are for a center-of-scope LOS 2.5" above the bore on a rifle zeroed at 100 yards. The data point increment is set to 25yds. The details for bullet, barrel, trace, atmosphere, etc., for the 250yd chart are at the end.
+
+For all of the ballistics experts out there, of which I am not one, this data is from a terminated open source C# project that appears to be fairly accurate. At least in comparison to the G1 data in the current Hornady G1/G7 calculator. But if it's not perfectly accurate, bitch at those folks, not me.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Details for the 250yd example:
+
+
+
+
+
+
+
+
+ 
+S
+Steel+Killer
+Killing one steel plate at a time!
+Full Member
+Minuteman
+May 27, 2014
+3,966
+10,449
+49
+32.75259713494653, -79.87485679548313
+Jun 2, 2024
+#3
+Thanks for the reply for full disclosure this isn't really for me. I understand ballistics pretty well. Its for a friend I hunt with that I am trying to illustrate to him how some rifles can have two zero points depending on what distance the scope is zeroed at. Sometimes when you can show a graph even though the trajectory of the bullet is highly exaggerated it helps to visualize and understand better.
+ 
+ 
+Reactions:
+Ronws
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,363
+Texas
+www.appliedballisticsllc.com
+Jun 3, 2024
+#4
+Steel+Killer said:
+As the title says does any ballistic app or software have a graph that shows the LOS in relation to the bullet trajectory? If it could be printed that would be even better.
+
+I see plenty of apps that show the bullet drop at given ranges, but I want to see a graph that illustrates that as well.
+
+Anyone know of one that will do this?
+Click to expand...
+The AB Mobile App gives you a graph that shows your 0 point. On the left you get the drop and on the right you get the corresponding velocity. You can also load in multiple bullets to compare them:
+
+
+ 
+ 
+Reactions:
+lash and Steel+Killer
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,977
+13,431
+Orlando, FL
+Jun 3, 2024
+#5
+I know what you are getting at and you wont find it in any ballistic solver because the info isn't relevant to the solution. On the broader subject of external ballistics the understanding of trajectory vs line of sight is shooting 101.
+
+
+ 
+ 
+Reactions:
+doubloon and lash
+Tanstaafl
+beaucoup điên cái đầu
+Minuteman
+May 4, 2024
+17
+14
+North Texas
+Jun 3, 2024
+#6
+I'm trying to find one that shows that accurately in my collection of old PC apps. One with data inputs for the concept of 'scope zero induced barrel inclination'. I think they are out there, but I only have low-end programs that were free or open source.
+
+The two yardage points below, which are likely not accurate, are in the trace data table. They're suspect because the program doesn't have inputs that accurately account for barrel inclination in relation to the zeroed reticle. Most graphing ballistics programs appear to just draw a horizontal line that intersects the parabola's vertex.
+
+
+ 
+Last edited: Jun 3, 2024
+ 
+Reactions:
+Steel+Killer
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 3, 2024
+#7
+Most ballistic apps show the bullet trajectory in relation to the LOS. For example, Ballistic AE generates a table with the “bullet drop,” but that figure is just the bullet path in relation to the LOS. And as @DocUSMCRetired said above, the AB app does the same. If you hit the “ballistics chart” or graph button you get the graphic you are looking for. If you want to see your bullet path relative to your LOS for an 800 yard shot, set the zero distance equal to 800.
+
+As @Tanstaafl said above, the app-generated graphs show a very very skewed picture because the y and x axes are way out of proportion.
+ 
+Last edited: Jun 3, 2024
+ 
+Reactions:
+Steel+Killer
+Aftermath
+RECOIL FETISHIST
+Full Member
+Minuteman
+May 14, 2013
+3,865
+5,931
+Yonder
+Jun 4, 2024
+#8
+ShootersCalculator.com
+Online ballistic calculators to help shooters calculate bullet trajectory, bullet kinetic energy, maximum point blank range, and recoil. Explains how to make these calculations and produces charts and graphs that compare various firearm cartridges and firearms.
+ shooterscalculator.com
+
+Choose 308 and 200 yard zero from their presets. You will see a zero about 75 yards and zero again at 200 yards. You can also enter your own data for other calibers if you know the inputs.
+ 
+Tanstaafl
+beaucoup điên cái đầu
+Minuteman
+May 4, 2024
+17
+14
+North Texas
+Jun 4, 2024
+#9
+Thanks, the ShootersCalculator is a good source that answers the OPs original request. It, and trace data from any decent calculator, also confirms the BallisticCalculator graph. The 200 yard zero is good for illustrating all of this. I was just way too focused on the not applicable 100 yard zero. My bad.
+
+The following may be obvious to most of you, but I’m recapping for myself and maybe some others.
+
+The trace data for all tools show basically the same thing for 168gr .308 with a 200yd zero. Both graphs show a horizontal LOS line that represents the shooter’s eye looking through a scope whose center is 2.5” above the barrel’s bore. The data and graphs illustrate that the bullet rises in relation to the scope LOS due to the slight inclination of the barrel in relation to the zeroed reticle, and that this arc crosses the reticle’s center at two points. Bullets can never rise in relation to the barrel’s bore of course. The two zeroes are around 45 yds and at 200 yds. You could get them to agree on the short range zero if you tweaked all the misc factors to match up.
+
+
+
+
+
+
+
+
+
+
+
+ 
+S
+Steel+Killer
+Killing one steel plate at a time!
+Full Member
+Minuteman
+May 27, 2014
+3,966
+10,449
+49
+32.75259713494653, -79.87485679548313
+Jun 4, 2024
+#10
+Tanstaafl said:
+Bullets can never rise in relation to the barrel’s bore of course.
+Not exactly the correct way to word it in my opinion.
+
+I get that you’re saying gravity is pulling a bullet down the moment it leaves the barrel, but a bullet will certainly rise above the bore at its highest point in its trajectory when shooting long range.
+
+Obviously, if the barrel is level the bullet likely wouldn’t rise above it.
+
+I guess a simpler way to put it is it really depends on the angle of the barrel when the bullet leaves the muzzle.
+ 
+ 
+Reactions:
+Marine52
+Tanstaafl
+beaucoup điên cái đầu
+Minuteman
+May 4, 2024
+17
+14
+North Texas
+Jun 4, 2024
+#11
+I can see that the wording could be interpreted more than one way in the eyes of a reader. One reason pictures can really help.
+
+It looks like we're talking about slightly different things, but Windrider's graphic captures everything I'm trying to get across. The red line labeled 'Laser Beam' represents what I'm calling the barrel's bore. The bullet can never rise above that line no matter what angle the rifle's barrel is at, that's just physics.
+
+But I agree that the angle of the barrel in relation to the scopes' zero distance, height above bore, ballistics of a given round, even gravity level at different points on the earth's surface all wreak havoc on if and where the bullet rises above the scopes' reticle center LOS. For a long range target where the barrel is angled way the hell up when dialing for distance, the apex of that green line is of course many feet above the scopes' LOS.
+ 
+ 
+Reactions:
+lash and Steel+Killer
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 4, 2024
+#12
+Steel+Killer said:
+Not exactly the correct way to word it in my opinion.
+
+I get that you’re saying gravity is pulling a bullet down the moment it leaves the barrel, but a bullet will certainly rise above the bore at its highest point in its trajectory when shooting long range.
+
+Obviously, if the barrel is level the bullet likely wouldn’t rise above it.
+
+I guess a simpler way to put it is it really depends on the angle of the barrel when the bullet leaves the muzzle.
+Click to expand...
+^^^correct. The bullet rises relative to its launch point until it reaches the max ord.
+
+He’s referring to the imaginary line associated with the bore axis (line of departure, Boreline, etc). The “drop” associated with this line has been the source of much confusion with new shooters trying to learn the basics of ballistics. That’s why I call it the fake line in the sky.
+ 
+ 
+Reactions:
+Steel+Killer
+CoryT
+Gunsite Rangemaster
+Commercial Supporter
+Full Member
+Minuteman
+Mar 5, 2004
+2,361
+1,721
+67
+Paulden, AZ
+www.gunsite.com
+Jun 4, 2024
+#13
+Steel+Killer said:
+Not exactly the correct way to word it in my opinion.
+
+I get that you’re saying gravity is pulling a bullet down the moment it leaves the barrel, but a bullet will certainly rise above the bore at its highest point in its trajectory when shooting long range.
+
+Obviously, if the barrel is level the bullet likely wouldn’t rise above it.
+
+I guess a simpler way to put it is it really depends on the angle of the barrel when the bullet leaves the muzzle.
+Click to expand...
+NO, it will not. The bullet is dropping below the centerline of the bore as soon as it leaves the muzzle. The barrel is angled up relative to the LOS, so the bullet is started on an upward path RELATIVE TO THE SHOOTER / LOS , not the bore line.
+ 
+ 
+Reactions:
+nowhereman961, lash and LastShot300
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 4, 2024
+#14
+CoryT said:
+NO, it will not. The bullet is dropping below the centerline of the bore as soon as it leaves the muzzle. The barrel is angled up relative to the LOS, so the bullet is started on an upward path RELATIVE TO THE SHOOTER / LOS , not the bore line.
+
+In all fairness to @Steel+Killer, he DID NOT say the bullet rises relative to the boreline. He said it rises relative to the bore. That’s the physical and real part of the rifle not the imaginary boreline.
+ 
+ 
+Reactions:
+doubloon and Steel+Killer
+Tanstaafl
+beaucoup điên cái đầu
+Minuteman
+May 4, 2024
+17
+14
+North Texas
+Jun 4, 2024
+#15
+The relationship between line of sight of a zeroed scope, the bore line of a barrel, and the flight path of a bullet that is angling upwards due to how the reticle was lowered during zeroing are obviously all working together to hit the target beyond maximum point blank range. All of those are very real, but with the drop related to bore axis being the least important, with bore axis labeled as 'Laser Beam' in Windrider's picture. It is not a drop that is useful for anything out in the world as Marine52 points out. But is a real thing, and it is hard fact that no bullet can ever rise above that line. Anyone that argues against that fact needs to study physics.
+
+"The bullet rises relative to its launch point until it reaches the max ord"
+Absolutely agreed for any accurate sighting system, whether it's $5,000 scope or the elevation adjustable buckhorn rear sight on an 1895 Winchester. But not true for a barrel clamped absolutely level relative to the center of the earth in a fixture at barrel maker's shop. To me, both of those horses are dead.
+
+I'm new to this forum, and I'm new to long range precision shooting. But I'm not new to ballistics are hitting things like deer and hogs with rifles at 50 - 300+ yards, either with Kentucky windage elevation within 250 with a flat shooting cartridge like a .243, or BDC turret scopes for a .308, going all the way back to basic marksmanship in the Texas A&M Corp of Cadets in the late 70's. I just always used 100 yard zeroes in the East Texas woods where a 500+ yard shot is pretty much not happening, and I wouldn't take it if it were. That threw me off for a bit on the whole graphing topic. While all of that is trivial and irrelevant compared to true Military, Police or other expert long range marksmen and the current state of the art, it is relevant to understanding the basic concepts, which just aren't that difficult.
+
+This has turned into a discussion of something more fundamental than what a ballistics graphing program is showing. I've proven to myself that the two I looked at correctly show the bullet drop and path of the projectile as it relates to a zeroed scope LOS. That's what's useful. But the quality of software varies widely, so it was a good exercise.
+
+Edit: Marine52 posted while I was typing. He said it in a lot fewer words ;-)
+ 
+ 
+Reactions:
+Marine52 and Steel+Killer
+S
+Steel+Killer
+Killing one steel plate at a time!
+Full Member
+Minuteman
+May 27, 2014
+3,966
+10,449
+49
+32.75259713494653, -79.87485679548313
+Jun 4, 2024
+#16
+CoryT said:
+NO, it will not. The bullet is dropping below the centerline of the bore as soon as it leaves the muzzle. The barrel is angled up relative to the LOS, so the bullet is started on an upward path RELATIVE TO THE SHOOTER / LOS , not the bore line.
+Yes you are correct I think we are all on the same page now.
+
+I was pointing out that the wording someone may interpret that a bullet never physically goes above the barrel during its flight. Which it most certainly does depending on the angle of the barrel when the bullet leaves it.
+
+Once again, I am not talking about the imaginary centerline of the bore as if it were “lasered” straight out at the same angle when the bullet left it.
+ 
+ 
+Reactions:
+Marine52
+W54/XM-388
+Online Training Member
+Full Member
+Minuteman
+Legend
+Oct 1, 2005
+14,644
+32,951
+Dallas, TX
+Jun 4, 2024
+#17
+While this is to some purely an academic exercise, knowing the bullet curve flight path and how it differs depending on the launch angle (or the end desired impact point) can be very useful if you have to shoot over something to hit what is behind it, or if you would like to hit something that is protected from a line of sight impact.
+
+Similar to using slight drift or slight wind to get around something sideways.
+ 
+ 
+Reactions:
+Steel+Killer
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 4, 2024
+#18
+Tanstaafl said:
+The relationship between line of sight of a zeroed scope, the bore line of a barrel, and the flight path of a bullet that is angling upwards due to how the reticle was lowered during zeroing are obviously all working together to hit the target beyond maximum point blank range. All of those are very real, but with the drop related to bore axis being the least important, with bore axis labeled as 'Laser Beam' in Windrider's picture. It is not a drop that is useful for anything out in the world as Marine52 points out. But is a real thing, and it is hard fact that no bullet can ever rise above that line. Anyone that argues against that fact needs to study physics.
+
+"The bullet rises relative to its launch point until it reaches the max ord"
+Absolutely agreed for any accurate sighting system, whether it's $5,000 scope or the elevation adjustable buckhorn rear sight on an 1895 Winchester. But not true for a barrel clamped absolutely level relative to the center of the earth in a fixture at barrel maker's shop. To me, both of those horses are dead.
+
+I'm new to this forum, and I'm new to long range precision shooting. But I'm not new to ballistics are hitting things like deer and hogs with rifles at 50 - 300+ yards, either with Kentucky windage elevation within 250 with a flat shooting cartridge like a .243, or BDC turret scopes for a .308, going all the way back to basic marksmanship in the Texas A&M Corp of Cadets in the late 70's. I just always used 100 yard zeroes in the East Texas woods where a 500+ yard shot is pretty much not happening, and I wouldn't take it if it were. That threw me off for a bit on the whole graphing topic. While all of that is trivial and irrelevant compared to true Military, Police or other expert long range marksmen and the current state of the art, it is relevant to understanding the basic concepts, which just aren't that difficult.
+
+This has turned into a discussion of something more fundamental than what a ballistics graphing program is showing. I've proven to myself that the two I looked at correctly show the bullet drop and path of the projectile as it relates to a zeroed scope LOS. That's what's useful. But the quality of software varies widely, so it was a good exercise.
+
+Edit: Marine52 posted while I was typing. He said it in a lot fewer words ;-)
+Click to expand...
+
+“…the drop related to bore axis being the least important, with bore axis labeled as 'Laser Beam' in Windrider's picture. It is not a drop that is useful for anything out in the world…”
+
+Precisely put!
+
+This phrase from @Tanstaafl needs to be memorized by shooters seeking a firm understanding of exterior ballistics. That’s why I call it the fake line in the sky and the source of much confusion for new shooters and some experienced shooters who claim the bullet is falling the instant it leaves the barrel, notwithstanding the trivial classroom exercise of a barrel pointed parallel to the earth’s surface.
+ 
+Last edited: Jun 4, 2024
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,977
+13,431
+Orlando, FL
+Jun 4, 2024
+#19
+Marine52 said:
+“…the drop related to bore axis being the least important, with bore axis labeled as 'Laser Beam' in Windrider's picture. It is not a drop that is useful for anything out in the world…”
+
+Precisely put!
+
+This phrase from @Tanstaafl needs
+to be memorized. That’s why I call it the fake line in the sky and the source of much confusion for new shooters and some experienced shooters who claim the bullet is falling the instant it leaves the barrel, not withstanding the trivial classroom exercise of a barrel pointed parallel to the earth’s surface.
+Click to expand...
+Most don’t even know what drop is vs what they hold or dial.
+
+Yea that picture is terrible because of the laser beam label,bet it was the best I could find at that moment but it illustrates what we are talking about here.
+ 
+ 
+Reactions:
+Marine52
+Ronws
+first class brisket smoker
+Full Member
+Minuteman
+ 
+Oct 18, 2021
+7,134
+9,554
+Texas
+Jun 4, 2024
+#20
+Steel+Killer said:
+Thanks for the reply for full disclosure this isn't really for me. I understand ballistics pretty well. Its for a friend I hunt with that I am trying to illustrate to him how some rifles can have two zero points depending on what distance the scope is zeroed at. Sometimes when you can show a graph even though the trajectory of the bullet is highly exaggerated it helps to visualize and understand better.
+Strelok Pro.
+
+Go into you rifle data. Select the MRD calculator. It is for MPBR but illustrates what you trying to say.
+
+
+
+
+ 
+ 
+Reactions:
+Steel+Killer
+CoryT
+Gunsite Rangemaster
+Commercial Supporter
+Full Member
+Minuteman
+Mar 5, 2004
+2,361
+1,721
+67
+Paulden, AZ
+www.gunsite.com
+Jun 5, 2024
+#21
+Steel+Killer said:
+Yes you are correct I think we are all on the same page now.
+
+I was pointing out that the wording someone may interpret that a bullet never physically goes above the barrel during its flight. Which it most certainly does depending on the angle of the barrel when the bullet leaves it.
+
+Once again, I am not talking about the imaginary centerline of the bore as if it were “lasered” straight out at the same angle when the bullet left it.
+Click to expand...
+The issue is up relative to what? The only solid relationship is the bore centerline. The barrel is nominally at an up angle, relative to the sights. If I shoot downhill, is the barrel angled up or down? Up in relation to the sights, down in relation to gravity. Now, if I shoot downhill, does the bullet ever get above the shooting position/barrel? No, nor does it go over the extended centerline. If I shoot uphill, it's ALWAYS above the position/barrel, unless it travels far enough to return to Earth. Then, it STILL may not be below the barrel as it may land on a surface higher that the shooting position.
+
+That makes your description dependent on multiple variables, therefore vague and less than useful.
+ 
+ 
+Reactions:
+lash
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 5, 2024
+#22
+CoryT said:
+The issue is up relative to what? The only solid relationship is the bore centerline. The barrel is nominally at an up angle, relative to the sights. If I shoot downhill, is the barrel angled up or down? Up in relation to the sights, down in relation to gravity. Now, if I shoot downhill, does the bullet ever get above the shooting position/barrel? No, nor does it go over the extended centerline. If I shoot uphill, it's ALWAYS above the position/barrel, unless it travels far enough to return to Earth. Then, it STILL may not be below the barrel as it may land on a surface higher that the shooting position.
+
+That makes your description dependent on multiple variables, therefore vague and less than useful.
+Click to expand...
+
+The earth’s surface is the standard reference point with regard to external ballistics and not an imaginary line in the sky.
+Robert McCoy’s book, “Modern Exterior Ballistics: The Launch and Flight Dynamics of Symmetric Projectiles,” is considered my many professional ballisticians as the definitive work on the flight dynamics of projectiles in motion.
+
+Nowhere in McCoy’s book does he mention bullet trajectory in relation to an imaginary bore line that extends to infinity. Why? Because it is irrelevant in determining trajectories of projectiles in motion. In McCoy’s five chapters on trajectory modeling, including vacuum, flat fire, point-mass, Siacci, and 6-DOF trajectories, he focuses on the kinematic equations that are based on a horizontal axis “tangent to the earth’s surface at the launch point and is directed from the gun toward the target.”
+ 
+Last edited: Jun 5, 2024
+CoryT
+Gunsite Rangemaster
+Commercial Supporter
+Full Member
+Minuteman
+Mar 5, 2004
+2,361
+1,721
+67
+Paulden, AZ
+www.gunsite.com
+Jun 5, 2024
+#23
+Marine52 said:
+8
+
+
+The earth’s surface is the standard reference point with regard to external ballistics and not an imaginary line in the sky.
+Robert McCoy’s book, “Modern Exterior Ballistics: The Launch and Flight Dynamics of Symmetric Projectiles,” is considered my many professional ballisticians as the definitive work on the flight dynamics of projectiles in motion.
+
+Nowhere in McCoy’s book does he mention bullet trajectory in relation to an imaginary bore line that extends to infinity. Why? Because it is irrelevant in determining trajectories of projectiles in motion. In McCoy’s five chapters on trajectory modeling, including vacuum, flat fire, point-mass, Siacci, and 6-DOF trajectories, he focuses on the kinematic equations that are based on a horizontal axis “tangent to the earth’s surface at the launch point and is directed from the gun toward the target.”
+Click to expand...
+We need drop (from the bore line) to calculate for inclined fire trajectories. See page 42, the first page of vacuum trajectory where we need the bore angle from horizontal as part of the integration equations. That superelevation angle is the bore line. Ballistic arcs are depicted relative to the exit point of the barrel, true, but that's not relevant to the description of the bullet being 'above the barrel', which will not always be true.
+ 
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,363
+Texas
+www.appliedballisticsllc.com
+Jun 5, 2024
+#24
+Steel+Killer said:
+Not exactly the correct way to word it in my opinion.
+
+I get that you’re saying gravity is pulling a bullet down the moment it leaves the barrel, but a bullet will certainly rise above the bore at its highest point in its trajectory when shooting long range.
+
+Obviously, if the barrel is level the bullet likely wouldn’t rise above it.
+
+I guess a simpler way to put it is it really depends on the angle of the barrel when the bullet leaves the muzzle.
+Click to expand...
+Lets make this academic. What if the bullets nose is slightly angled downwards. Just enough that it creates a vertical vector of drag. For educational purposes think about how wind works. The bullet is not "pushed" sideways by the wind. What actually occurs is that a gyroscopically stabilized bullet will nose back on course when the air mass contacts it. This nosing due to it wanting to stay on it original path slightly angles the bullet left or right of the original flight path. This creates a sideways portion of drag (to keep it simple) which pulls the bullet off its flight path creating what we observe as wind drift.
+
+If you drop a bullet, and fire bullet at the same time, from the same height. The dropped bullet will hit the ground before the fired bullet does. This is due to a slight amount of vertical drag imposed in some instances.
+
+So. I will raise the question. Does the bullet ever "rise" above the bore axis it exited out of even though a bullet does not create lift?
+
+Let the hamsters start running on that wheel.
+ 
+ 
+Reactions:
+Steel+Killer, Marine52 and lash
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 5, 2024
+#25
+CoryT said:
+We need drop (from the bore line) to calculate for inclined fire trajectories. See page 42, the first page of vacuum trajectory where we need the bore angle from horizontal as part of the integration equations. That superelevation angle is the bore line. Ballistic arcs are depicted relative to the exit point of the barrel, true, but that's not relevant to the description of the bullet being 'above the barrel', which will not always be true.
+Click to expand...
+
+That angle on page 42 is the launch angle and McCoy sometimes refers to it as the “ gun elevation angle.” The launch angle is a key parameter in the kinematic equations. The line extending from that angle is never used.
+ 
+lash
+Swamp Rat
+Full Member
+Minuteman
+Sep 28, 2012
+12,997
+29,181
+65
+Central Florida
+Jun 5, 2024
+#26
+Marine52 said:
+That angle on page 42 is the launch angle and McCoy sometimes refers to it as the “ gun elevation angle.” The launch angle is a key parameter in the kinematic equations. The line extending from that angle is never used.
+You are ignoring the fact that knowing that line exists and why is still important to understand. Otherwise you end up with this thread and the ridiculous semantics argument going on.
+
+If it wasn’t necessary to know about that line, why do so many imbeciles still think that the bullet rises out of the barrel? The barrel=the bore which is not equal to just the exit point of the barrel when understanding what is happening.
+ 
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 5, 2024
+#27
+lash said:
+You are ignoring the fact that knowing that line exists and why is still important to understand. Otherwise you end up with this thread and the ridiculous semantics argument going on.
+
+If it wasn’t necessary to know about that line, why do so many imbeciles still think that the bullet rises out of the barrel? The barrel=the bore which is not equal to just the exit point of the barrel when understanding what is happening.
+Click to expand...
+
+Yes bullets do rise, unless you are referring to the trivial classroom exercise of a launch angle equal to zero. They rise relative to the point of departure and the earth’s surface. Learn basic ballistics before you start to insult others.
+ 
+ 
+Reactions:
+Steel+Killer and lash
+lash
+Swamp Rat
+Full Member
+Minuteman
+Sep 28, 2012
+12,997
+29,181
+65
+Central Florida
+Jun 5, 2024
+#28
+Marine52 said:
+Yes bullets do rise, unless you are referring to the trivial classroom exercise of a launch angle equal to zero. They rise relative to the point of departure and the earth’s surface. Learn basic ballistics before you start to insult others.
+Whoo boy! You really are a thick one aren’t you?
+
+You’ve already stated that the bullet always rises above the point of departure. You are wrong, but I’m sure you’ll not agree.
+
+Your issue is that you only care about the point and not the line of departure.
+
+And with that, I’m out. I’ll let you continue your circle jerk without me.
+ 
+ 
+Reactions:
+W54/XM-388
+W54/XM-388
+Online Training Member
+Full Member
+Minuteman
+Legend
+Oct 1, 2005
+14,644
+32,951
+Dallas, TX
+Jun 5, 2024
+#29
+Marine52 said:
+Yes bullets do rise, unless you are referring to the trivial classroom exercise of a launch angle equal to zero. They rise relative to the point of departure and the earth’s surface. Learn basic ballistics before you start to insult others.
+
+Perhaps you would be better served if you argued that bullets are normally launched at an upwards angle relative to the ground.
+The bullets only "rise" because the muzzle is pointed up.
+Bullets do not "rise" on their own, they rise if they are launched at an upwards angle.
+
+Now if you were trying to hit a target that is below your position, the bullet wouldn't actually "rise" at all as relative to your ground position, as you'd be launching it at a flat or negative degree angle so your curve would be adjusting a rate of fall.
+
+This is the problem with those graphs, they show the rifle as flat when they should show the rifle as pointing just a bit upwards.
+ 
+ 
+Reactions:
+lash
+lash
+Swamp Rat
+Full Member
+Minuteman
+Sep 28, 2012
+12,997
+29,181
+65
+Central Florida
+Jun 5, 2024
+#30
+W54/XM-388 said:
+Perhaps you would be better served if you argued that bullets are normally launched at an upwards angle relative to the ground.
+The bullets only "rise" because the muzzle is pointed up.
+Bullets do not "rise" on their own, they rise if they are launched at an upwards angle.
+
+Now if you were trying to hit a target that is below your position, the bullet wouldn't actually "rise" at all as relative to your ground position, as you'd be launching it at a flat or negative degree angle so your curve would be adjusting a rate of fall.
+
+This is the problem with those graphs, they show the rifle as flat when they should show the rifle as pointing just a bit upwards.
+Click to expand...
+Ed Zachery.
+ 
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 5, 2024
+#31
+W54/XM-388 said:
+Perhaps you would be better served if you argued that bullets are normally launched at an upwards angle relative to the ground.
+The bullets only "rise" because the muzzle is pointed up.
+Bullets do not "rise" on their own, they rise if they are launched at an upwards angle.
+
+Now if you were trying to hit a target that is below your position, the bullet wouldn't actually "rise" at all as relative to your ground position, as you'd be launching it at a flat or negative degree angle so your curve would be adjusting a rate of fall.
+
+This is the problem with those graphs, they show the rifle as flat when they should show the rifle as pointing just a bit upwards.
+Click to expand...
+
+You are of course correct. They rise because the launch angle is positive. Muzzle velocity is a “vector” (which has a direction as well as a strength) that can be split into its horizontal and vertical components. If something is moving at a positive angle to the horizontal, think of it as moving horizontally with a certain speed and vertically with a certain speed. This total velocity vector has two parts: a horizontal velocity vector and a vertical velocity vector. When a bullet is fired with a positive launch angle, it has a positive vertical velocity vector (it is rising relative to the tangent to the earth’s surface at launch point).
+ 
+ 
+Reactions:
+Steel+Killer, W54/XM-388 and lash
+lash
+Swamp Rat
+Full Member
+Minuteman
+Sep 28, 2012
+12,997
+29,181
+65
+Central Florida
+Jun 5, 2024
+#32
+Marine52 said:
+You are of course correct. They rise because the launch angle is positive. Muzzle velocity is a “vector” (which has a direction as well as a strength) that can be split into its horizontal and vertical components. If something is moving at a positive angle to the horizontal, think of it as moving horizontally with a certain speed and vertically with a certain speed. This total velocity vector has two parts: a horizontal velocity vector and a vertical velocity vector. When a bullet is fired with a positive launch angle, it has a positive vertical velocity vector (it is rising relative to the tangent to the earth’s surface at launch point).
+Click to expand...
+
+
+Good stuff. That has to be the most words ever used to say that a barrel has to be pointed up for the bullet to go up.
+
+
+ 
+ 
+Reactions:
+doubloon
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,363
+Texas
+www.appliedballisticsllc.com
+Jun 5, 2024
+#33
+lash said:
+
+
+Good stuff. That has to be the most words ever used to say that a barrel has to be pointed up for the bullet to go up.
+
+
+Click to expand...
+
+Sir.... We have updated since then.
+
+
+ 
+ 
+Reactions:
+Steel+Killer, lash and doubloon
+S
+Steel+Killer
+Killing one steel plate at a time!
+Full Member
+Minuteman
+May 27, 2014
+3,966
+10,449
+49
+32.75259713494653, -79.87485679548313
+Jun 6, 2024
+#34
+CoryT said:
+The issue is up relative to what? The only solid relationship is the bore centerline. The barrel is nominally at an up angle, relative to the sights. If I shoot downhill, is the barrel angled up or down? Up in relation to the sights, down in relation to gravity. Now, if I shoot downhill, does the bullet ever get above the shooting position/barrel? No, nor does it go over the extended centerline. If I shoot uphill, it's ALWAYS above the position/barrel, unless it travels far enough to return to Earth. Then, it STILL may not be below the barrel as it may land on a surface higher that the shooting position.
+
+That makes your description dependent on multiple variables, therefore vague and less than useful.
+Click to expand...
+I am pretty sure 99% of most shooters would assume and understand that I was talking about shooting horizontally parallel to generally flat ground / earth not some high angle shot up or down a mountain.
+
+I am also betting that most people shooting rifles are shooting horizontally parallel to generally flat ground / earth not some high angle shooting up or down a mountain.
+
+Give my regards to Mr. Strawman I bet you two are a hoot at party's....... 
+ 
+ 
+Reactions:
+lash, Marine52 and Ronws
+CoryT
+Gunsite Rangemaster
+Commercial Supporter
+Full Member
+Minuteman
+Mar 5, 2004
+2,361
+1,721
+67
+Paulden, AZ
+www.gunsite.com
+Jun 6, 2024
+#35
+Steel+Killer said:
+but a bullet will certainly rise above the bore at its highest point in its trajectory when shooting long range.
+
+Obviously, if the barrel is level the bullet likely wouldn’t rise above it.
+
+I guess a simpler way to put it is it really depends on the angle of the barrel when the bullet leaves the muzzle.
+Click to expand...
+Not exactly a strawman when you reference the issue in your own post. And 'likely' wouldn't rise above it? I presume you refer to ricochets. If words are to be useful, they must have meaning. You said 'rise above the bore', which is simply not accurate.
+ 
+ 
+Reactions:
+lash
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 6, 2024
+#36
+CoryT said:
+Not exactly a strawman when you reference the issue in your own post. And 'likely' wouldn't rise above it? I presume you refer to ricochets. If words are to be useful, they must have meaning. You said 'rise above the bore', which is simply not accurate.
+
+I’m not trying to be argumentative or mean spirited in this exchange. Sorry if it seems that way. I enjoy a healthy exchange of ideas. Thats how we learn. I expect you and @Steel+Killer have a good grounding in exterior ballistics. Sometimes semantics get in the way of learning.
+
+The direction that the barrel is pointing at bullet launch (McCoy calls this the velocity vector V) determines two key trajectory parameters:
+
+It sets the launch angle
+It gives us the initial velocity vector
+
+For uphill or downhill shooting, the site angle can be negative (downhill) or positive (uphill) but the launch angle (McCoy’s superelevation angle), relative to the gun-target line, is still positive resulting in the typical arched trajectory. However, for uphill and downhill fire, the gravity acceleration vector will not be perpendicular to the gun-target line. This results in the bullet hitting the target high when compared to the standard case of the gun-target line parallel to the earth’s surface.
+
+What I’m trying to do is clear up some long-held misconceptions—perpetuated mainly for magazine “gun experts”—regarding the imaginary line that extends to infinity from the bore. (Forget the trivial classroom exercise of a barrel horizontal to the earth’s surface).
+1. Shooters are wrongly led to believe that their bullet is falling from that line until it hits the target.
+2. Shooters are wrongly led to believe that the bullet falls from that line at an accelerating rate equal to the gravitational constant g.
+
+At the moment of launch, the bullet has a positive vertical velocity vector, notwithstanding the trivial classroom exercise of a barrel pointed horizontal to the earth’s surface. (Sorry, I have to repeat this or some troll would jump on the old HS exercise). And yes it is being accelerated downward by the gravity acceleration vector g (g=32.17ft per second for each second of flight). This simply means the bullet’s upward velocity is slowing due to gravity. This upward velocity slows and becomes zero at the apex (max ord) of the trajectory. At that point, for a brief instant, the bullet has zero vertical velocity. The bullet then starts to fall at the g acceleration rate.
+ 
+Last edited: Jun 19, 2024
+ 
+Reactions:
+Steel+Killer
+lash
+Swamp Rat
+Full Member
+Minuteman
+Sep 28, 2012
+12,997
+29,181
+65
+Central Florida
+Jun 6, 2024
+#37
+Marine52 said:
+regarding the imaginary line that extends to infinity from the bore. (Forget the trivial classroom exercise of a barrel horizontal to the earth’s surface).
+1. Shooters are led to believe that their bullet is falling from that line until it hits the target. because it is.
+Yup! I’m aware that you know what you are talking about, however, your terms are still inaccurate to describe what your trying to convey, no matter how much you quote McCoy.
+
+“…imaginary line that extends to infinity from the bore…”
+
+No matter how you couch it nor how much you think that it’s a high school exercise, the bullet does not ever, under normal circumstances, rise above that imaginary line.
+
+I’m anxious to see your math and an illustration showing me when that will be the case.
+
+I believe that you are confusing line of sight with the imaginary line coming from the bore, that begins at the chamber, goes through a point in the center of the bore and extends to infinity.
+ 
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,977
+13,431
+Orlando, FL
+Jun 6, 2024
+#38
+lash said:
+Yup! I’m aware that you know what you are talking about, however, your terms are still inaccurate to describe what your trying to convey, no matter how much you quote McCoy.
+
+“…imaginary line that extends to infinity from the bore…”
+
+No matter how you couch it nor how much you think that it’s a high school exercise, the bullet does not ever, under normal circumstances, rise above that imaginary line.
+
+I’m anxious to see your math and an illustration showing me when that will be the case.
+
+I believe that you are confusing line of sight with the imaginary line coming from the bore, that begins at the chamber, goes through a point in the center of the bore and extends to infinity.
+Click to expand...
+The laser beam. At the max ord, the bullet will never be above the line of departure because that line goes out and up at the same angle into infinity. The bullet is obvious moving forward but even though “it’s rising” it’s still dropping which is why I’ll go back to my earlier statement that most people don’t know what the drop number actually is
+ 
+Last edited: Jun 6, 2024
+ 
+Reactions:
+lash
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 6, 2024
+#39
+_Windrider_ said:
+The laser beam
+
+No use responding to the low-IQ flying monkey. Not worth your time or attention. Best to just hit the ignore button.
+ 
+Last edited: Jun 6, 2024
+ 
+Reactions:
+lash
+lash
+Swamp Rat
+Full Member
+Minuteman
+Sep 28, 2012
+12,997
+29,181
+65
+Central Florida
+Jun 6, 2024
+#40
+Marine52 said:
+No use responding to the low-IQ flying monkey. Not worth your time or attention. Best to just hit the ignore button.
+Lolol! That’s right. When you can’t respond intelligently, always respond with an insult. That way people instantly know that you’re right, even if you can’t express it in words.
+ 
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 6, 2024
+#41
+_Windrider_ said:
+The laser beam. At the max ord, the bullet will never be above the line of departure because that line goes out and up at the same angle into infinity. The bullet is obvious moving forward but even though “it’s rising” it’s still dropping which is why I’ll go back to my earlier statement that most people don’t know what the drop number actually is
+
+An object, be it a bullet, ball, or person, cannot fall from a height if that object is never at that height. The bullet is never at the height of the line of departure except for the brief moment at the tip of the barrel. After that, it starts its journey on its parabolic trajectory.
+ 
+ 
+Reactions:
+Ronws
+lash
+Swamp Rat
+Full Member
+Minuteman
+Sep 28, 2012
+12,997
+29,181
+65
+Central Florida
+Jun 6, 2024
+#42
+See? Now was that so hard? 
+ 
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,977
+13,431
+Orlando, FL
+Jun 6, 2024
+#43
+Marine52 said:
+An object, be it a bullet, ball, or person, cannot fall from a height if that object is never at that height. The bullet is never at the height of the line of departure except for the brief moment at the tip of the barrel. After that, it starts its journey on its parabolic trajectory.
+I will concede that it is possible that for a nano second after the bullet completely exits the barrel that maybe this is true. Maybe. But one nano second later it is not.
+
+It is my belief that mathematics would prove that even for a nano second it isn’t true. Perhaps the only time it’s true is while the bullet is traveling down the barrel as it is forced into that line of departure by an object and gravity can’t yet act on it.
+ 
+ 
+Reactions:
+lash
+Marine52
+Sergeant of the Hide
+Full Member
+Minuteman
+May 12, 2014
+218
+276
+Kentucky
+Jun 6, 2024
+#44
+_Windrider_ said:
+I will concede that it is possible that for a nano second after the bullet completely exits the barrel that maybe this is true. Maybe. But one nano second later it is not.
+
+It is my belief that mathematics would prove that even for a nano second it isn’t true. Perhaps the only time it’s true is while the bullet is traveling down the barrel as it is forced into that line of departure by an object and gravity can’t yet act on it.
+Click to expand...
+
+You’re missing the point. In all my posts, I have never indicated the bullet travels above this line of departure. This is because it’s an insignificant point and not relevant to the bullet’s trajectory. Go back and read my posts.
+ 
+ 
+Reactions:
+Steel+Killer
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,363
+Texas
+www.appliedballisticsllc.com
+Jun 6, 2024
+#45
+_Windrider_ said:
+I will concede that it is possible that for a nano second after the bullet completely exits the barrel that maybe this is true. Maybe. But one nano second later it is not.
+
+It is my belief that mathematics would prove that even for a nano second it isn’t true. Perhaps the only time it’s true is while the bullet is traveling down the barrel as it is forced into that line of departure by an object and gravity can’t yet act on it.
+Click to expand...
+If you add in Aerodynamic Jump, then it can happen.
+
+
+ 
+ 
+Reactions:
+carbonbased, Steel+Killer, lash and 1 other person
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,977
+13,431
+Orlando, FL
+Jun 6, 2024
+#46
+DocUSMCRetired said:
+If you add in Aerodynamic Jump, then it can happen.
+
+View attachment 8433201
+Hmmmmmmm. I’d have to see the math on how fast that force acts in comparison to the velocity and time. I’m just saying I need to see the proof but I’m also not saying your wrong.
+ 
+lash
+Swamp Rat
+Full Member
+Minuteman
+Sep 28, 2012
+12,997
+29,181
+65
+Central Florida
+Jun 6, 2024
+#47
+Marine52 said:
+You’re missing the point. In all my posts, I have never indicated the bullet travels above this line of departure. This is because it’s an insignificant point and not relevant to the bullet’s trajectory. Go back and read my posts.
+It is not insignificant. That line of departure is what makes any trajectory possible. Without considering that line of departure, you have no idea what the trajectory is.
+
+We spend piles of money on angled mounts and high end glass just so that we can control that line of departure to the extent that we know what the trajectory will be every time. 
+ 
+S
+Steel+Killer
+Killing one steel plate at a time!
+Full Member
+Minuteman
+May 27, 2014
+3,966
+10,449
+49
+32.75259713494653, -79.87485679548313
+Jun 6, 2024
+#48
+CoryT said:
+Not exactly a strawman when you reference the issue in your own post. And 'likely' wouldn't rise above it? I presume you refer to ricochets. If words are to be useful, they must have meaning. You said 'rise above the bore', which is simply not accurate.
+Ha ha only reason I said likely would not rise above it was because in case there was some scenario with spindrift, that I was not aware of where the bullet, even for a nanosecond may rise above the centerline of the bore.
+
+You know with people like you ready to pounce on any little discrepancy that is not 110% accurate you can never be too careful.
+
+Your long range shooting knowledge is obviously second to none I salute you, sir!
+
+I sleep easy at night, knowing people like you will always correct someone who calls a magazine a clip.
+ 
+Ronws
+first class brisket smoker
+Full Member
+Minuteman
+ 
+Oct 18, 2021
+7,134
+9,554
+Texas
+Jun 6, 2024
+#49
+Marine52 said:
+An object, be it a bullet, ball, or person, cannot fall from a height if that object is never at that height. The bullet is never at the height of the line of departure except for the brief moment at the tip of the barrel. After that, it starts its journey on its parabolic trajectory.
+This, exactly. The bullet may cross the x axis of the reticle in the scope but it will not cross the bore. As soon as the bullet leaves the muzzle, it is falling toward regardless of the tilt of the barrel.
+
+If you could drop a bullet at the exact same instant that a fired bullet leaves the muzzle and the barrel was parallel to the ground or surface, they would fall at the same rate and impact the ground at the same time.
+
+"But what is important is gravity."
+
+
+ 
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,977
+13,431
+Orlando, FL
+Jun 7, 2024
+#50
+DocUSMCRetired said:
+If you add in Aerodynamic Jump, then it can happen.
+
+View attachment 8433201
+Ok. @DocUSMCRetired you’re going to have to explain this to me. I literally thought about this all night and based on what you are saying here is that AJ cause a vertical instantaneous vector as the bullet leaves the barrel causing it to momentarily rise above the line of departure (it would look similar to the vote counted in amichigan the night Biden got elected)
+
+
+
+Is that what you are saying? Cause I gotta say I’ve read every AB book. I have 3 volumes of some and I have never seen this described or discussed in the books nor have I ever seen a trajectory where this occurs.
+
+It would be my understanding that the rise or fall of AJ occurs over the course of the trajectory not at one single instant and the correction is baked into the firing solution.
+
+Again I’m not saying you’re wrong I just need to see the maths or see proof. Help me out.
+ 
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+W
+	
+Rangefinders with Ballistics Built In
+Woolsocks Nov 20, 2024 Ballistic Calculators & Field Results
+13
+Nov 24, 2024
+	
+Spotters Sig Kilo10K Gen 2, AB Quantum app, Sig BDX app first impressions and comments
+m1match Dec 12, 2024 Observation & Sighting Devices
+0
+Dec 12, 2024
+	
+Swaro EL Range Workflow
+Burdy Oct 27, 2024 Ballistic Calculators & Field Results
+0
+Oct 27, 2024
+L
+	
+Optics SPF - WTS REVIC PMR 4.5-28x56 MOA RX1 with Onboard Ballistics Calculation
+LRShooter101 Nov 14, 2024 Buy - Sell - Trade
+6
+Nov 22, 2024
+	
+X - Vectronix Shooting Solutions
+Lowlight Jul 1, 2024 Observation & Sighting Devices
+488
+Friday at 11:13 PM
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+Advanced Marksmanship Unit
+Ballistic Calculators & Field Results
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/does-any-ballistic-app-or-software-have-a-graph-that-shows-the-los-in-relation-to-the-bullet-trajectory.7220492/ 
+ ----- 

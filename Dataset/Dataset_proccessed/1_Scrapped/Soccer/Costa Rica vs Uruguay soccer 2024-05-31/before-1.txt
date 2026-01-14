@@ -1,0 +1,217 @@
+SITES
+IOM GLOBAL
+GDI
+EN
+ES
+FR
+USER ACCOUNT MENU
+LOG IN
+Malawi
+East, Horn and Southern Africa
+SHARE 
+Share
+Facebook
+Twitter
+LinkedIn
+Email
+WhatsApp
+INFORMES
+CONJUNTO DE DATOS
+MAPAS
+RECURSOS INTERACTIVOS EN LÍNEA
+RESOURCES
+
+DESPLAZADOS INTERNOS RASTREADOS
+
+495,155
+Jan 2022
+
+MOVIMIENTOS DE DESPLAZAMIENTO
+
+No hay cifras disponibles
+IDMC 2023
+
+RONDA DE RECOPILACIÓN DE DATOS
+
+1
+none
+Keyboard shortcuts
+Map data ©2024 AfriGIS (Pty) Ltd
+Terms
+2022
+JAN
+495.15k
+FEB
+MAR
+APR
+MAY
+JUN
+JUL
+AUG
+SEP
+OCT
+NOV
+DEC
+Desliza el dedo hacia la izquierda o hacia la derecha para ver más datos de la línea de tiempo
+Operaciones DTM
+Tropical Storm Ana
+Tropical Cyclone Freddy
+Cyclone Idai
+Malawi Floods
+Informe de la ronda
+Malawi — Flash Report Update 1 - Tropical Storm Ana (31 January 2022)
+Leyenda
+División administrativa con número disponible de personas desplazadas
+Sitio evaluado por DTM
+Data not available
+El mapa base de Google y las formas de país de ESRI son solo para fines ilustrativos. Los nombres y límites no implican aprobación o aceptación oficial por parte de la OIM.
+SOBRE MALAWI
+
+Since the beginning of January 2015, heavy rains have affected 15 districts of Malawi, in particular in the Southern Region, resulting in the displacement of about 230,000 persons. Malawi announced the Declaration of State of Disaster mid-January and a UNDAC deployed to support the Department of Disaster Management Affairs (DoDMA) in assessing the situation throughout the country. While approximately 250 displacement sites have been identified by DoDMA and the humanitarian community, site locations, demographics and information related to IDP needs remain weak.
+
+In order to gather specific information regarding the status and location of IDPs and conditions in displacement sites in the context of the current humanitarian crisis, the International Organization for Migration (IOM), in close collaboration with the Department of Disaster Management Affairs (DoDMA), began the Displacement Tracking Matrix (DTM) program. The DTM is an information management tool developed by IOM and regularly used in emergencies by the Camp Coordination and Camp Management (CCCM) cluster which aims to strengthen the multi-sectoral data on displacement trends and IDPs' needs that is available to government and humanitarian partners. IOM Malawi's DTM reports are designed to regularly capture, process, and disseminate information to provide a better understanding of the needs, numbers and movements of internally displaced persons (IDPs) in Malawi.
+
+DTM assessments are carried out by IOM in partnership with non-governmental organization (NGO) partners, including Save the Children, Sustainable Rural Community Development (SURCOD) and All Hands Volunteers. Local government officers in the six most affected districts of Blantyre, Chikwawa, Mulanje, Nsanje, Phalombe, and Zomba continue to provide valuable support.
+ 
+
+CONTACTO
+
+Martin Tsere
+Senior DTM Field Assistant
+mtsere@iom.int
+
+DTM Malawi
+DTMMalawi@iom.int
+
+Impacto en la movilidad debido a COVID-19 en Malawi
+
+To better understand how COVID-19 affects global mobility, the International Organization for Migration (IOM) has been working to map the impacts on human mobility, at Global, Regional and Country level.
+
+Aprende más
+INFORMES
+CONJUNTO DE DATOS
+MAPAS
+RECURSOS INTERACTIVOS EN LÍNEA
+RESOURCES
+SEARCH TITLE
+SUMMARY
+DTM COMPONENT
+- Any -
+Baseline Assessment
+Biometric Registration
+Community Perception
+Event Tracking
+Flow Monitoring
+Flow Monitoring Registry
+Flow Monitoring Survey
+Migrants presence
+Mobility Tracking
+Multi-Sectoral Needs Assessment
+Other
+Points of Entry (PoE)
+Rapid Emergency Registration
+Registration
+Return Intention
+Site Assessment
+Standard Registration
+Survey
+Transhumance Tracking Tool
+Verification for Registration
+Village Assessment
+SORT BY
+Published Date
+Title
+ORDER
+Asc
+Desc
+Apply
+
+Para obtener resultados de búsqueda más avanzados, vaya a la Página de búsqueda avanzada de informes
+Dec 12 2024
+Malawi — Flow Monitoring of Migrants | Malawi - Mo…
+Dec 12 2024
+Malawi — Flow Monitoring of Migrants | Malawi - Ta…
+Nov 11 2024
+Malawi — Flow Monitoring of Migrants | Malawi - Ta…
+Nov 11 2024
+Malawi — Flow Monitoring of Migrants | Malawi - Mo…
+Oct 16 2024
+Malawi — Flow Monitoring of Migrants in Karonga -…
+Oct 16 2024
+Malawi — Flow Monitoring of Migrants in Mangochi -…
+Sep 17 2024
+Malawi — Flow Monitoring of Migrants in Mangochi -…
+Sep 17 2024
+Malawi — Flow Monitoring of Migrants in Karonga -…
+Aug 12 2024
+Malawi — Flow Monitoring of Migrants in Karonga -…
+Aug 12 2024
+Malawi — Flow Monitoring of Migrants in Mangochi -…
+Jul 03 2024
+Malawi — Flow Monitoring of Migrants in Karonga an…
+May 28 2024
+Malawi — Flow Monitoring of Migrants in Karonga an…
+Apr 24 2024
+Malawi — Flow Monitoring of migrants in Karonga an…
+Mar 31 2024
+Malawi - Flow Monitoring of migrants in Karonga an…
+Feb 29 2024
+Malawi - Flow Monitoring of migrants in Karonga an…
+May 23 2023
+Malawi — Cyclone Freddy – Overview: Multi-Sectoral…
+May 19 2023
+Malawi — Cyclone Freddy – Multi-sectoral Location…
+Feb 04 2022
+Malawi — Flash Report Update 1 - Tropical Storm An…
+Mar 26 2021
+Malawi - Zambia Flow Monitoring Dashboard (26 Octo…
+Feb 23 2021
+Malawi – Flow Monitoring Dashboard (16 November-12…
+May 09 2019
+Malawi — Tropical Cyclone Idai Site Profiles, Mult…
+May 08 2019
+Malawi — Tropical Cyclone Idai - Multi-Sectoral L…
+Apr 11 2019
+Malawi — Tropical Cyclone Idai - Multi-Sectoral Lo…
+Apr 11 2019
+Malawi — Tropical Cyclone Idai - Multi-Sectoral Lo…
+Pagination
+1
+2
+next ›
+Next page
+last »
+Last page
+     
+Headquarters - DTM Global Support
+
+Rte des Morillons 17,
+1218 Le Grand-Saconnex,
+Switzerland
+
+Email: dtmsupport@iom.int
+
+Contact
+Related Sites
+International Organization for Migration
+Global Data Institute
+Responding to COVID-19
+International Organization for Migration - HDX
+Displacement Tracking Matrix
+Migrants Arrival to Europe
+Useful Links
+Reports
+Datasets
+Maps
+Methodological Frameworks
+DTM Standards
+Infosheets
+Trainings
+Vacancies
+Copyright © 2023 International Organization for Migration
+Cyber-security Issues Terms & Conditions
+ 
+ 
+ ----- 
+ Source link : https://dtm.iom.int/es/malawi 
+ ----- 

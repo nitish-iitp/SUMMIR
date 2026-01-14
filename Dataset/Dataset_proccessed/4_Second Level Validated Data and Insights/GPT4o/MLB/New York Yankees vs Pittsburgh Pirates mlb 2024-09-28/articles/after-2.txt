@@ -1,0 +1,324 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Pirates
+76-85, 37-43 Away
+9
+Final
+Yankees
+93-68, 43-37 Home
+4
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Skenes 2 perfect innings in Bronx debut, Yankees clinch AL home field despite 9-4 loss to Pirates
+— Paul Skenes pitched two perfect innings in his Yankee Stadium debut and the Pittsburgh Pirates hit five homers, including four off rookie Luis Gil, in a...
+Sep 29, 2024, 12:59 am - AP
+
+
+PIT
+
+
+NYY
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t1\t0\t1\t2\t2\t0\t0\t3\t9\t8\t1
+0\t0\t0\t0\t1\t1\t1\t1\t0\t4\t7\t0
+WIN
+M. Burrows
+1-0
+3.1 IP, 2 H, 1 ER, 2 K, 3 BB
+LOSS
+L. Gil
+15-7
+5.2 IP, 6 H, 6 ER, 5 K, 1 BB
+SAVE
+A. Chapman
+14
+0.2 IP, 0 H, 0 ER, 1 K, 0 BB
+Scoring Summary
+INNING
+\tPIT\tNYY
+\t\t2nd\tGrandal homered to right (347 feet).\t1\t0
+\t\t4th\tN. Gonzales homered to left center (415 feet).\t2\t0
+\t\t5th\tCook homered to left (400 feet), Grandal scored.\t4\t0
+\t\t5th\tChisholm Jr. homered to right (406 feet).\t4\t1
+\t\t6th\tTriolo homered to right center (357 feet), Palacios scored.\t6\t1
+\t\t6th\tStanton grounded into fielder's choice to shortstop, Berti scored, Wells safe at second on throwing error by shortstop N. Gonzales, Domínguez to third.\t6\t2
+\t\t7th\tSoto singled to right, Cabrera scored, Soto out stretching at second, Domínguez to third.\t6\t3
+\t\t8th\tChisholm Jr. doubled to right, Wells scored.\t6\t4
+\t\t9th\tGrandal singled to center, Palacios scored.\t7\t4
+\t\t9th\tYorke homered to left (399 feet), Grandal scored.\t9\t4
+Full Play-By-Play
+Pirates
+Yankees
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+I. Kiner-Falefa
+3B
+\t0-5\t0\t0\t0\t.269
+
+B. Reynolds
+DH
+\t1-4\t0\t0\t0\t.276
+
+O. Cruz
+CF
+\t0-4\t0\t0\t0\t.260
+
+N. Gonzales
+SS
+\t1-4\t1\t1\t1\t.273
+
+J. Palacios
+RF
+\t0-2\t2\t0\t0\t.219
+
+J. Triolo
+1B
+\t1-4\t1\t1\t2\t.217
+
+Y. Grandal
+C
+\t3-4\t3\t1\t2\t.228
+
+N. Yorke
+2B
+\t1-4\t1\t1\t2\t.229
+
+B. Cook
+LF
+\t1-4\t1\t1\t2\t.222
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+P. Skenes
+\t2.0\t0\t0\t0\t3\t23-17\t1.96
+
+M. Burrows
+\t3.1\t2\t1\t3\t2\t68-41\t2.70
+
+D. Bednar
+\t0.2\t0\t0\t1\t2\t18-11\t5.77
+
+R. Borucki
+\t1.0\t2\t1\t0\t0\t14-10\t7.36
+
+D. Santana
+\t1.0\t1\t1\t1\t2\t21-11\t3.89
+
+J. Beeks
+\t0.1\t2\t0\t1\t1\t13-6\t4.50
+
+A. Chapman
+\t0.2\t0\t0\t0\t1\t9-5\t3.79
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+J. Dominguez
+LF
+\t1-4\t0\t0\t0\t.189
+
+J. Soto
+RF
+\t1-3\t0\t0\t1\t.288
+
+A. Judge
+CF
+\t0-5\t0\t0\t0\t.322
+
+A. Wells
+C
+\t0-3\t1\t0\t0\t.229
+
+G. Stanton
+DH
+\t0-4\t0\t0\t0\t.233
+
+J. Chisholm Jr.
+3B
+\t2-4\t1\t1\t2\t.256
+
+A. Rizzo
+1B
+\t1-2\t0\t0\t0\t.228
+
+A. Volpe
+SS
+\t0-1\t0\t0\t0\t.244
+
+O. Cabrera
+SS-1B
+\t1-4\t1\t0\t0\t.247
+
+J. Berti
+2B
+\t1-3\t1\t0\t0\t.286
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+L. Gil
+\t5.2\t6\t6\t1\t5\t89-58\t3.50
+
+C. Beeter
+\t1.1\t0\t0\t0\t3\t18-12\t4.91
+
+T. Hill
+\t1.0\t0\t0\t0\t1\t12-8\t3.36
+
+W. Warren
+\t1.0\t2\t3\t1\t3\t22-14\t10.32
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Pittsburgh Pirates (76-85, 37-43 Away)
+Paul Skenes (11-3, 1.96)
+o8.5
++135
++115
+o6.5
+-115
++1.5
+-215
+New York Yankees (93-68, 43-37 Home)
+Luis Gil (15-7, 3.50)
+-150
+ML
+-135
+u6.5
+-105
+-1.5
++170
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+PIRATES
+YANKEES
+PIT 100
+%
+PIT 9NYY 4
+
+Bottom 9th
+Wells lined out to left.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+PIT
+NYY
+Hits
+8
+7
+Home Runs
+5
+1
+Total Bases
+23
+11
+Runners LOB
+1
+9
+Full Team Stats
+Regular Season Series
+Current Series
+PIT wins 2-1
+Pirates
+4
+Yankees
+2
+Game 1
+9/27
+Final
+Pirates
+9
+Yankees
+4
+Game 2
+9/28
+Final
+Pirates
+4
+Yankees
+6
+Game 3
+9/29
+Final
+Game Information
+Yankee Stadium
+5:05 PM, September 28, 2024
+Bronx, New York
+Attendance: 46,069
+Game Time:
+2:49
+Umpires:
+Home Plate Umpire - Phil Cuzzi
+First Base Umpire - Edwin Moscoso
+Second Base Umpire - Dan Bellino
+Third Base Umpire - Tony Randazzo
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570879/pirates-yankees 
+ ----- 

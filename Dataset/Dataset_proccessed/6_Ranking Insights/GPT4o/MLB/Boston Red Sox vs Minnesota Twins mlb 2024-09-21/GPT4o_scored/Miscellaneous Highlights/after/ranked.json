@@ -1,0 +1,28 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "Due to unceasing rain and a coastal flood alert for Suffolk County, Saturday\u2019s Red Sox-Twins game has been postponed.",
+            "score": 9.5
+        },
+        {
+            "sentence": "The American League teams will now wrap up their season series with a split doubleheader on Sunday.",
+            "score": 9.0
+        },
+        {
+            "sentence": "The game between the Minnesota Twins and Boston Red Sox scheduled for Saturday was postponed because of rain.",
+            "score": 8.8
+        },
+        {
+            "sentence": "A split doubleheader is planned for Sunday at Fenway Park.",
+            "score": 7.5
+        },
+        {
+            "sentence": "The regularly scheduled game was moved from 1:35 p.m. to 12:35 p.m.",
+            "score": 6.5
+        },
+        {
+            "sentence": "The rained-out game will be the second game, with the first pitch scheduled for 5:35 p.m.",
+            "score": 6.0
+        }
+    ]
+}

@@ -1,0 +1,402 @@
+NBA
+Games
+Schedule
+Watch
+News
+All-Star
+Stats
+Standings
+Teams
+Players
+NBA Play
+Fantasy
+NBA Bet
+League Pass
+Store
+Tickets
+Affiliates
+Sign In
+All-Star
+League Pass
+Games
+Schedule
+Watch
+News
+Stats
+Standings
+Teams
+Players
+NBA Play
+NBA Bet
+Fantasy
+Store
+Tickets
+Affiliates
+
+Sun, Jan 05
+Mon, Jan 06
+Tue, Jan 07
+Wed, Jan 08
+Thu, Jan 09
+Fri, Jan 10
+Sat, Jan 11
+Sun, Jan 12
+Mon, Jan 13
+Tue, Jan 14
+Hide Scores
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:00 AM UTC (SATURDAY)
+
+LP
+
+NOP
+7-31
+PHI
+15-20
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:00 AM UTC (SATURDAY)
+
+LP
+
+MIL
+19-16
+ORL
+22-17
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:00 AM UTC (SATURDAY)
+
+LP
+
+GSW
+19-18
+IND
+20-18
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:30 AM UTC (SATURDAY)
+
+NBA TV
+
+OKC
+30-6
+NYK
+25-13
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:30 AM UTC (SATURDAY)
+
+LP
+
+SAC
+18-19
+BOS
+27-10
+PREVIEW
+TICKETS
+GAME CHARTS
+
+1:00 AM UTC (SATURDAY)
+
+LP
+
+WAS
+6-29
+CHI
+17-20
+PREVIEW
+TICKETS
+GAME CHARTS
+
+2:00 AM UTC (SATURDAY)
+
+LP
+
+BKN
+13-24
+DEN
+21-15
+
+SAT
+
+JAN 11
+
+PREVIEW
+TICKETS
+GAME CHARTS
+
+8:00 PM UTC
+
+LP
+
+HOU
+25-12
+ATL
+19-19
+PREVIEW
+TICKETS
+GAME CHARTS
+
+10:00 PM UTC
+
+LP
+
+UTA
+9-27
+PHX
+17-19
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:00 AM UTC (SUNDAY)
+
+LP
+
+TOR
+8-30
+DET
+19-19
+PREVIEW
+TICKETS
+GAME CHARTS
+
+1:00 AM UTC (SUNDAY)
+
+LP
+
+MEM
+24-14
+MIN
+20-17
+PREVIEW
+TICKETS
+GAME CHARTS
+
+3:00 AM UTC (SUNDAY)
+
+LP
+
+MIA
+19-17
+POR
+13-24
+PREVIEW
+TICKETS
+GAME CHARTS
+
+3:30 AM UTC (SUNDAY)
+
+LP
+
+SAS
+18-19
+LAL
+20-16
+PREVIEW
+TICKETS
+GAME CHARTS
+
+3:30 AM UTC (SUNDAY)
+
+LP
+
+CHA
+8-27
+LAC
+20-17
+SEE ALL GAMES
+ 
+OKC
+
+102
+
+FINAL
+
+87
+
+DEN
+Summary
+Box Score
+Game Charts
+Play-By-Play
+
+Traditional
+Advanced
+Misc
+Scoring
+Usage
+Four Factors
+Player Tracking
+Hustle
+Defense
+Matchups
+
+All Periods
+Q1
+Q2
+Q3
+Q4
+1st Half
+2nd Half
+Range Filter
+OKLAHOMA CITY THUNDER
+
+Click on any linked stat to view the Video and/or Shot Chart
+
+PLAYER	MIN	FGM	FGA	FG%	3PM	3PA	3P%	FTM	FTA	FT%	OREB	DREB	REB	AST	STL	BLK	TO	PF	PTS	+/-
+
+Jalen Williams
+F
+	33:43	5	16	31.3	2	8	25.0	0	1	0.0	1	2	3	3	0	2	5	3	12	0
+
+Luguentz Dort
+F
+	28:35	2	7	28.6	0	2	0.0	1	1	100	1	1	2	0	3	1	0	3	5	-1
+
+Chet Holmgren
+C
+	35:47	11	18	61.1	0	5	0.0	3	5	60.0	4	10	14	5	2	4	2	2	25	9
+
+Isaiah Joe
+G
+	20:25	3	10	30.0	1	6	16.7	0	0	0.0	1	1	2	1	0	0	0	0	7	3
+
+Shai Gilgeous-Alexander
+G
+	36:12	11	24	45.8	2	6	33.3	4	5	80.0	2	5	7	8	2	3	2	2	28	8
+
+Cason Wallace
+	23:02	2	7	28.6	0	1	0.0	0	0	0.0	2	2	4	0	2	0	0	1	4	18
+
+Ousmane Dieng
+	13:15	2	4	50.0	2	3	66.7	0	0	0.0	0	3	3	0	0	1	0	1	6	14
+
+Alex Caruso
+	19:06	0	2	0.0	0	1	0.0	0	0	0.0	2	4	6	4	0	0	1	2	0	19
+
+Aaron Wiggins
+	19:31	7	9	77.8	1	2	50.0	0	0	0.0	0	6	6	1	0	2	1	1	15	6
+
+Ajay Mitchell
+	6:51	0	3	0.0	0	1	0.0	0	0	0.0	0	1	1	1	0	0	1	0	0	-1
+
+Dillon Jones
+	1:11	0	1	0.0	0	1	0.0	0	0	0.0	0	1	1	0	0	0	0	0	0	0
+
+Adam Flagler
+	1:11	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0	0	0	0	0	0	0	0
+
+Alex Ducas
+	1:11	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0	0	0	0	0	0	0	0
+
+Alex Reese
+	
+DNP - Coach's Decision
+
+
+TOTALS
+	 	43	101	42.6	8	36	22.2	8	12	66.7	13	36	49	23	9	13	12	15	102	15
+DENVER NUGGETS
+
+Click on any linked stat to view the Video and/or Shot Chart
+
+PLAYER	MIN	FGM	FGA	FG%	3PM	3PA	3P%	FTM	FTA	FT%	OREB	DREB	REB	AST	STL	BLK	TO	PF	PTS	+/-
+
+Michael Porter Jr.
+F
+	32:11	5	17	29.4	3	10	30.0	2	2	100	1	7	8	2	1	0	1	2	15	-2
+
+Aaron Gordon
+F
+	32:33	5	12	41.7	0	1	0.0	2	2	100	5	4	9	2	1	0	2	1	12	-4
+
+Nikola Jokić
+C
+	35:12	6	13	46.2	1	3	33.3	3	4	75.0	4	8	12	13	2	1	3	3	16	-9
+
+Christian Braun
+G
+	29:07	8	15	53.3	0	3	0.0	0	0	0.0	2	5	7	1	2	2	3	1	16	8
+
+Jamal Murray
+G
+	38:27	4	13	30.8	2	5	40.0	2	2	100	2	4	6	4	2	0	3	2	12	-2
+
+Julian Strawther
+	17:16	3	6	50.0	0	2	0.0	0	0	0.0	0	0	0	1	1	0	1	2	6	-23
+
+Russell Westbrook
+	21:16	2	10	20.0	1	6	16.7	1	4	25.0	1	4	5	5	1	2	2	0	6	-24
+
+Peyton Watson
+	14:47	1	7	14.3	0	4	0.0	0	0	0.0	2	4	6	1	0	2	0	0	2	-13
+
+Dario Šarić
+	11:02	1	2	50.0	0	1	0.0	0	0	0.0	0	1	1	0	1	0	0	1	2	-6
+
+Vlatko Čančar
+	1:38	0	0	0.0	0	0	0.0	0	0	0.0	0	1	1	0	0	0	0	0	0	0
+
+Zeke Nnaji
+	1:38	0	1	0.0	0	1	0.0	0	0	0.0	0	0	0	0	0	0	0	0	0	0
+
+Hunter Tyson
+	1:38	0	1	0.0	0	1	0.0	0	0	0.0	0	1	1	0	0	0	0	0	0	0
+
+Jalen Pickett
+	1:38	0	1	0.0	0	1	0.0	0	0	0.0	0	0	0	0	0	0	0	0	0	0
+
+Trey Alexander
+	1:38	0	0	0.0	0	0	0.0	0	0	0.0	0	1	1	0	0	0	0	0	0	0
+
+DeAndre Jordan
+	
+DNP - Coach's Decision
+
+
+TOTALS
+	 	35	98	35.7	7	38	18.4	10	14	71.4	17	40	57	29	11	7	15	12	87	-15
+INACTIVE PLAYERS
+
+OKC: Nikola Topić, Jaylin Williams, Kenrich Williams, Isaiah Hartenstein
+
+DEN: Spencer Jones, DaRon Holmes II, PJ Hall
+
+NBA ORGANIZATION
+NBA INITIATIVES
+ACROSS THE LEAGUE
+SHOP
+SUBSCRIPTIONS
+© 2025 NBA Media Ventures, LLC. All rights reserved.
+Privacy Policy
+EEA/UK Privacy Statement
+Brazil Privacy Statement 
+Colorado Consumer Privacy Statement
+California Consumer Privacy Statement
+Terms of Use
+Cookie Policy
+Accessibility and Closed Captions
+Customer Support
+Manage Preferences
+
+If you are having difficulty accessing any content on this website, please visit our Accessibility page.
+
+NBA.com is part of Warner Media, LLC’s Turner Sports & Entertainment Digital Network
+ 
+ 
+ ----- 
+ Source link : https://www.nba.com/game/okc-vs-den-0022400075/box-score 
+ ----- 

@@ -1,0 +1,316 @@
+Study Abroad
+Board Exams 2025
+Hindi Grammar
+Indian Exams
+General Knowledge
+More
+One app for all your study abroad needs
+Know More
+x
+Home /
+General Knowledge /
+ACD Full Form in Hindi : एसीडी फुल फॉर्म से जुड़ी मुख्य जानकारी  
+ACD Full Form in Hindi : एसीडी फुल फॉर्म से जुड़ी मुख्य जानकारी  
+Team Leverage Edu
+ 
+Updated on  
+August 16, 2024
+1 minute read
+ 
+
+ACD का पूरा नाम ऑटोमेटिक कॉल डिस्ट्रीब्यूटर (Automatic Call Distributor) है। यह एक ऐसा सिस्टम है जो आने वाली बड़ी मात्रा में कॉल को मैनेज और रूट करता है। ACD अक्सर कॉल करने वालों को कॉल करने वाले की जानकारी, फ़ोन नंबर, चुनी गई सिस्टम लाइन या कॉल किए जाने के समय जैसे कारकों के आधार पर मार्गदर्शन करने के लिए वॉयस मेनू का उपयोग करते हैं। यह CTI का हिस्सा है, जिसका मतलब है कंप्यूटर टेलीफोनी इंटीग्रेशन। CTI और CSTA (कंप्यूटर-समर्थित दूरसंचार अनुप्रयोग) ऐसे उपकरण हैं जिनका उपयोग अधिक उन्नत ACD सिस्टम बनाने के लिए किया जा सकता है।
+
+Play
+Unmute
+Loaded: 1.91%
+Fullscreen
+ACD Full Form in Hindi – एसीडी का फुल फॉर्म 
+ACD 	ऑटोमेटिक कॉल डिस्ट्रीब्यूटर (Automatic Call Distributor)
+ACD की एप्लीकेशंस
+
+ACD या स्वचालित कॉल वितरक, आने वाली कॉल को एजेंटों या अधिकारियों के विभिन्न समूहों को कुशलतापूर्वक वितरित और निर्देशित करता है, कॉल करने वालों को उन एजेंटों से जोड़ता है जो उनकी सबसे अच्छी सहायता कर सकते हैं। छोटे ACD सिस्टम कुछ लाइनों को प्रबंधित करने के लिए डिज़ाइन किए गए हैं, जबकि बड़े ACD सिस्टम कई लाइनों को संभाल सकते हैं। कई कंपनियाँ जो ग्राहक सहायता या बिक्री के बाद की सेवाएँ प्रदान करती हैं, वे शीर्ष ग्राहक सेवा सुनिश्चित करने के लिए ACD का उपयोग करती हैं।
+
+सिस्टम नियम-आधारित मानदंड भी लागू कर सकता है, जैसे कि कॉलर आईडी, स्वचालित नंबर पहचान, वॉइसमेल या डायल-अप नंबर पहचान, यह निर्धारित करने के लिए कि कॉल कैसे संसाधित की जाती हैं। कंपनी की विशिष्ट आवश्यकताओं के आधार पर सिस्टम में विभिन्न संचार चैनल रणनीतियों को प्रोग्राम किया जा सकता है।
+
+स्किल्स-बेस्ड रूटिंग का उपयोग कॉल करने वाले की ज़रूरतों को उनकी पूछताछ को संभालने के लिए सबसे उपयुक्त एजेंट से मिलाने के लिए किया जाता है। वर्चुअल संपर्क केंद्र सेवा को बढ़ाने के लिए विभिन्न स्थानों पर साझा किए गए वास्तविक समय और सांख्यिकीय डेटा का उपयोग करके कई एजेंटों के कौशल को जोड़ सकते हैं। इसके अतिरिक्त, बाहरी रूटिंग सॉफ़्टवेयर CTI को सक्षम कर सकता है, जो एजेंट की स्क्रीन पर प्रदर्शित प्रासंगिक जानकारी के साथ आने वाली कॉल को जोड़कर कॉल सेंटर की दक्षता को बढ़ाता है।
+
+ACD डिस्ट्रिब्यूशशंस के प्रकार
+
+किसी सूची से आने वाली कॉलों को विभिन्न तरीकों से डिस्ट्रीब्यूट किया जा सकता है जिनमें शामिल हैं:
+
+डिस्ट्रिब्यूशन कॉल की लिनियेरिटी
+कॉल क्रोनोलिजिकल सीक्वेंस में डिस्ट्रीब्यूट किए जाते हैं, जिसमें प्रत्येक कॉल की शुरुआत होती है।
+कॉल डिस्ट्रिब्यूशन एक गोलाकार या घूर्णन तरीके से
+कॉल को क्रमिक रूप से डिस्ट्रीब्यूट किया जाता है, जो अगली कॉल से शुरू होता है।
+कॉल समान रूप से डिस्ट्रीब्यूट किए जाते हैं।
+कॉल को अक्सर अलग-अलग लोगों को सौंपा जाता है, जिसकी शुरुआत उस व्यक्ति से होती है जिसने सबसे कम कॉल संभाली हैं।
+एक साथ कॉल डिस्ट्रीब्यूट
+सभी सुलभ एक्सटेंशन द्वारा एक ही समय में कॉल प्राप्त किए जाते हैं।
+कॉल वेटेड डिस्ट्रिब्यूशन
+
+कॉलों को ग्राहक सेवा कर्मचारियों के बीच ओपोजिंग स्किल्स जैसे प्रोग्राम्ड लॉड के आधार पर डिस्ट्रीब्यूट किया जाता है।
+
+ACD के अन्य फुल फॉर्म
+
+ACD के अन्य फुल फॉर्म यहां दिए गए हैं:
+
+ACD Full Form in Medical/Biological Sciences	एसिड साइट्रेट डेक्सट्रोज	Acid Citrate Dextrose
+ACD Full Form in Healthcare	एल्ब्यूमिन क्रिएटिन रेश्यो	Albumin Creatinine Ratio
+ACD Full Form in Human Resources	एनुअल कॉन्फिडेंशियल रिपोर्ट	Annual Confidential Report
+ACD Full Form in Engineering/ Technology	एडवांस कंट्रोल डिजाइन	Advanced control design
+ACD Full Form in Legal/Administrative	एडमिनिस्ट्रेटिव केस डिस्पोजिशन 	Administrative Case Disposition
+ACD Full Form in Psychology/ Behavioral Sciences	एक्शन कंट्रोल डिजीज	Action Control Disease
+
+संबंधित आर्टिकल
+
+EWS फुल फॉर्म	RBC फुल फॉर्म
+IAS फुल फॉर्म	SSC फुल फॉर्म
+MRI फुल फॉर्म	ESIC फुल फॉर्म
+AIIMS फुल फॉर्म	BCCI फुल फॉर्म
+HTML फुल फॉर्म	SSC CGL फुल फॉर्म
+DSSSB फुल फॉर्म	NPCI फुल फॉर्म
+NCAP फुल फॉर्म	CBSE फुल फॉर्म
+KVS फुल फॉर्म	Noida फुल फॉर्म
+SSC GD फुल फॉर्म	PTE फुल फॉर्म
+PGT फुल फॉर्म	T20 फुल फॉर्म
+PVR फुल फॉर्म	AM PM फुल फॉर्म
+PVTG  फुल फॉर्म	RPSC फुल फॉर्म
+Phd फुल फॉर्म	TGIF फुल फॉर्म
+HTTP फुल फॉर्म	CCTV फुल फॉर्म
+APL फुल फॉर्म	NTPC फुल फॉर्म
+AICTE फुल फॉर्म	SBI फुल फॉर्म
+IELTS फुल फॉर्म	LED फुल फॉर्म
+RBI फुल फॉर्म	ICICI फुल फॉर्म
+UKG फुल फॉर्म	MTS फुल फॉर्म
+B2B  फुल फॉर्म	SEBI फुल फॉर्म
+RDX फुल फॉर्म	GET फुल फॉर्म
+IBPS फुल फॉर्म	UP Board फुल फॉर्म
+EVM फुल फॉर्म	JBL फुल फॉर्म
+MSME फुल फॉर्म	NCR फुल फॉर्म 
+NOC फुल फॉर्म	Computer फुल फॉर्म
+WBC फुल फॉर्म	NCERT फुल फॉर्म
+OTT फुल फॉर्म	BMW फुल फॉर्म
+PPT फुल फॉर्म	NRC  फुल फॉर्म
+ED फुल फॉर्म 	IPS फुल फॉर्म
+BSC फुल फॉर्म 	DSP फुल फॉर्म
+NEFT फुल फॉर्म	MCD फुल फॉर्म
+BPO फुल फॉर्म	APO फुल फॉर्म
+JPSC फुल फॉर्म	VFX फुल फॉर्म
+LDC फुल फॉर्म	ED फुल फॉर्म
+DGP फुल फॉर्म	DELED फुल फॉर्म
+DM फुल फॉर्म	CMS फुल फॉर्म
+LKG फुल फॉर्म	CCC फुल फॉर्म
+CHSL फुल फॉर्म	CTC फुल फॉर्म
+NVS फुल फॉर्म	ICSE फुल फॉर्म
+API फुल फॉर्म	WBBSE फुल फॉर्म
+MPBSE फुल फॉर्म	PSO फुल फॉर्म
+VPN फुल फॉर्म	IGST फुल फॉर्म
+USP फुल फॉर्म	MD फुल फॉर्म
+CRPF फुल फॉर्म	IMF फुल फॉर्म
+AQI फुल फॉर्म	KGF फुल फॉर्म
+PFA फुल फॉर्म	ABS फुल फॉर्म
+IPL फुल फॉर्म	SDRF फुल फॉर्म
+ACT  फुल फॉर्म	BDS फुल फॉर्म
+ADA फुल फॉर्म	FYI फुल फॉर्म
+ADB फुल फॉर्म	COP फुल फॉर्म
+USA फुल फॉर्म	IMO फुल फॉर्म
+Google फुल फॉर्म	Yahoo फुल फॉर्म
+Gmail फुल फॉर्म	ICICI फुल फॉर्म
+CAT फुल फॉर्म	IO फुल फॉर्म
+PTM फुल फॉर्म	LIC फुल फॉर्म
+CG फुल फॉर्म	RRB फुल फॉर्म
+EDP फुल फॉर्म	VLC फुल फॉर्म
+PNB फुल फॉर्म	GDS फुल फॉर्म
+CNN फुल फॉर्म	RTC फुल फॉर्म
+ODF फुल फॉर्म	BPL फुल फॉर्म
+PFI फुल फॉर्म	EMD फुल फॉर्म
+JIPMER फुल फॉर्म	ORS फुल फॉर्म
+SPG फुल फॉर्म	STT फुल फॉर्म
+BDE फुल फॉर्म	SSD फुल फॉर्म
+
+आशा है कि आपको ACD Full Form in Hindi से संबंधित सभी आवश्यक जानकारी मिल गई होगी। फुल फॉर्म के अन्य ब्लॉग्स पढ़ने के लिए Leverage Edu के साथ बने रहें।
+
+Leave a Reply
+
+Your contact details will not be published. Required fields are marked *
+
+SUBMIT
+
+VIEW COMMENTS (0)
+You May Also Like
+READ MORE
+1 minute read
+General Knowledge
+
+20 सितंबर को कौनसा दिवस मनाया जाता है?
+
+धर्मेंद्र सिंह
+September 18, 2024
+20 सितंबर को मनाया जाने वाला प्रमुख दिवस इंटरनेशनल डे ऑफ यूनिवर्सिटी स्पोर्ट है। अंतरराष्ट्रीय विश्वविद्यालय खेल दिवस… Read More
+READ MORE
+1 minute read
+General Knowledge
+
+31 मई का इतिहास (31 May Ka Itihas) – 1725 में आज ही के दिन भारत की वीरांगनाओं में से एक अहिल्याबाई होलकर का हुआ था जन्म
+
+शुभम
+May 31, 2024
+देश और दुनिया में 31 मई का इतिहास कई महत्वपूर्ण घटनाओं का साक्षी है और कई महत्वपूर्ण घटनाएं… Read More
+READ MORE
+1 minute read
+General Knowledge
+
+कॉमर्स से क्या बन सकते हैं? जानें टॉप करियर ऑप्शन्स
+
+रश्मि पटेल
+November 12, 2024
+कई सारे छात्र कॉमर्स विषय से अपनी 10वीं और 12वीं की पढ़ाई पूरी करते हैं। छात्रों को 12वीं… Read More
+READ MORE
+1 minute read
+General Knowledge
+
+9 दिसंबर को कौनसा दिवस मनाया जाता है?
+
+धर्मेंद्र सिंह
+December 2, 2024
+9 दिसंबर को मनाया जाने वाला प्रमुख दिवस अंतरराष्ट्रीय भ्रष्टाचार विरोधी दिवस है। पूरी दुनिया में भ्रष्टाचार एक… Read More
+General Knowledge
+POP Full Form : जानें POP की फुल फाॅर्म क्या है?
+शुभम
+June 6, 2024
+क्या आप जानते हैं कि डॉलर रेट इन इंडिया क्या है?
+मयंक विश्नोई
+September 27, 2023
+Ram Mandir GK Quiz : राम मंदिर के बारे में कितान जानते हैं आप, इस क्विज से चेक करें नॉलेज
+जया
+January 22, 2024
+जानिए हिमाचल प्रदेश के प्रसिद्ध भोजन कौन-कौन से हैं?
+देवांग मैत्रेय
+October 25, 2023
+अरनाला का किला : जानिए मुंबई के इस ऐतिहासिक किले के बारे में
+अंशुल
+November 3, 2023
+Recommended Posts
+विश्व हिंदी दिवस कब मनाया जाता है?
+नुपुर
+January 9, 2024
+Infant Protection Day in Hindi 2024 : शिशु संरक्षण दिवस- इतिहास, महत्व और थीम
+शुभम
+October 17, 2024
+Happy Navratri Wishes in Marathi : या नवरात्रीच्या, तुमच्या प्रियजनांना अशाच शुभेच्छा द्या 
+रश्मि पटेल
+October 15, 2023
+VRS Full Form: वीआरएस की फुल फॉर्म क्या है?
+अंशुल
+July 2, 2024
+Rajasthan Diwas Kab Manaya Jata Hai: जानिए राजस्थान दिवस कब,कैसे और क्यों मनाया जाता है? 
+अंशुल
+March 2, 2024
+प्रेरणा से भर देगी आपको MBA चायवाला की यह कहानी
+देवांग मैत्रेय
+November 18, 2022
+भाटी कितने प्रकार के होते हैं? : जानिए भाटी वंश के प्रकारों के नाम 
+अंशुल
+October 17, 2023
+राष्ट्रीय प्लास्टिक सर्जरी दिवस क्या है और क्यों मनाया जाता है?
+विशाखा सिंह
+July 10, 2024
+30+ Srinivasa Ramanujan Quotes in Hindi: महान गणितज्ञ श्रीनिवास रामानुजन के विचार, जो आपको करेंगे प्रेरित
+मयंक विश्नोई
+December 2, 2024
+अंतर्राष्ट्रीय ओलंपिक दिवस: जानिए इस दिन का इतिहास और उद्देश्य
+विशाखा सिंह
+July 24, 2024
+RECENT POSTS
+IELTS Exam in Hindi: IELTS परीक्षा क्या है? जानें एग्जाम डेट्स, फीस, योग्ताएं और बेस्ट टिप्स
+Stress Management in Hindi: तनाव प्रबंधन क्या हैं? जानें इसके प्रकार, फायदे और उपाय
+बालिका शिक्षा को बढ़ावा देने के उपाय क्या-क्या हैं?
+Today’s Current Affairs in Hindi | 31 दिसंबर 2024 (हिंदी करंट अफेयर्स)
+Raja Ka Paryayvachi Shabd: राजा का पर्यायवाची शब्द और इसका वाक्यों में प्रयोग
+Today School Assembly News Headlines in Hindi (31 December): स्कूल असेंबली के लिए 31 दिसंबर की मुख्य समाचार सुर्खियां
+नागार्जुन: हिंदी के विख्यात गद्यकार और कवि का जीवन परिचय – Nagarjun Ka Jivan Parichay
+Essay on Cricket in Hindi: क्रिकेट पर निबंध
+World Introvert Day in Hindi: कब और क्यों मनाया जाता वर्ल्ड इंट्रोवर्ट डे? जानें इतिहास, उद्देश्य और महत्व
+Speech on Savitribai Phule in Hindi: स्टूडेंट्स ऐसे तैयार करें सावित्रीबाई फुले पर भाषण 
+Boss Farewell Speech in Hindi: बॉस के फेयरवेल के लिए भाषण
+Global Family Day in Hindi 2025: ग्लोबल फैमिली डे- इतिहास, महत्व और थीम
+
+
+
+End-to-end support for your study abroad journey
+Call Us
+1800-572-000
+General Enquiries
+hello@leverageedu.com
+Press
+press@leverageedu.com
+Download the Study Abroad with Leverage Edu App
+ Get the android app
+Get the iOS app
+About Leverage
+About us
+Work with us
+Resources
+LOR
+SOP
+Study Abroad
+Study in UK
+Study in Canada
+Study in USA
+Study in Australia
+Study in New Zealand
+Study in Germany
+Tests
+IELTS
+GMAT
+GRE
+SAT
+TOEFL
+PTE
+Offerings
+AI Course Finder
+Leverage Live
+Scholarship
+Loans
+Forex
+Global Bank Account
+Leverage TV
+Uniconnect
+Other Links
+Privacy Policy
+Terms & Conditions
+IELTS Essay Checker
+Office Locations
+New Delhi
+
+Leverage Edu Tower,
+A-258, Bhishma Pitamah Marg,
+Block A, Defence Colony, New Delhi,
+Delhi 110024
+
+Noida
+
+Leverage Edu 3rd floor,
+Plot number, 1- C, Raipur Khadar, Sector 126, Noida, Uttar Pradesh 201313
+
+London
+
+Devonshire House, 60 Goswell Road,
+United Kingdom, EC1M 7AD
+
+Sydney
+
+Leverage Edu
+Freshwater, Sydney, NSW 2096,
+Australia
+
+
+
+Copyright © 2021, Leverage Edu. All rights reserved.
+ 45,000+ students realised their study abroad dream with us. Take the first step today.
+ Talk to an expert
+ 
+ 
+ ----- 
+ Source link : https://leverageedu.com/blog/hi/acd-full-form-in-hindi/ 
+ ----- 

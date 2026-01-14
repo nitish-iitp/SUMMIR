@@ -1,0 +1,167 @@
+Skip to Content
+NEWS
+SCORES
+SCHEDULE
+STATS
+A look at how MLB's most unconventional 30-HR hitter does it
+Share
+A look at how MLB's most unconventional 30-HR hitter does it
+September 28th, 2023
+
+Brent Maguire
+
+@bmags94
+Share
+
+0:05
+
+0:29
+
+When you think of how the premier home run hitters excel, you're likely to think of sluggers who are capable of producing elite exit velocities and long-distance bombs.
+
+Look no further than the top of the leaderboard of the 25 players who've hit 30-plus home runs this season. Matt Olson, Kyle Schwarber, Pete Alonso and Shohei Ohtani hit some of the hardest-hit and farthest home runs that we've ever seen in baseball history. Scroll down that list, however, and you'll find a player who's bucked that trend in the Rays' Isaac Paredes.
+
+With his 30th home run of the season last weekend, the 24-year-old joined Evan Longoria as the only third basemen (50% or more of their games at the position) with 30-plus home runs in Rays franchise history. The young slugger has done so despite underlying batted ball numbers that look nothing like his peers when it comes to hitting prodigious home runs. Among that group of 30-HR hitters, Paredes ranks last in hard-hit rate (28.9%), barrel rate (6.1%), average home run distance (379 feet) and expected wOBA (.314).
+
+As mentioned by MLB.com's Matt Meyers and Mike Petriello in last week's Ballpark Dimensions Podcast, Paredes has sort of broken the Statcast model for how most great sluggers are successful. Paredes -- who was acquired by the Rays in the Austin Meadows trade with Detroit prior to the 2022 season -- has thrived the past two seasons with 6.6 fWAR, 50 home runs and a 127 wRC+ despite the underwhelming quality of contact skills.
+
+After a strong first year in Tampa Bay (2.4 fWAR, 115 wRC+), Paredes has exploded in 2023. Among qualified players, Paredes ranks 12th in wRC+ (135) and tied for 33rd in fWAR (4.2). As Meyers also alluded to in the podcast, Paredes has produced just the eighth four-win season (Baseball-Reference version) by a Mexican-born player and trails only Vinny Castilla for the most home runs in a season.
+
+Here's how this unlikely player blossomed into one of the best hitters in 2023 and how he's done so in an unconventional fashion.
+
+All stats are through Tuesday's games.
+
+Related
+Why the rotation is Rays' strong point entering '25
+
+January 10th, 2025
+
+10 players who could be 2025 versions of '24's breakout stars
+
+3:00 AM UTC
+
+Rays avoid arbitration with 4 players; Walls headed to hearing
+
+January 10th, 2025
+
+7 takeaways from pair of blockbuster trades
+
+December 14th, 2024
+
+Why Paredes is a perfect fit in Houston
+
+December 14th, 2024
+
+Astros deal Tucker to Cubs for Paredes, Wesneski, Smith
+
+December 14th, 2024
+
+Pull it, elevate and celebrate
+
+By xwOBA, only Jose Altuve, TJ Friedl and Geraldo Perdomo have outperformed their wOBA more than Paredes (+47 points) this season. Paredes ranks in the 27th percentile or worse in barrel rate, hard-hit rate, sweet spot rate and average exit velocity. In the Statcast era (since 2015), Paredes' 383-foot average home run distance is the third-lowest among hitters with at least 50 home runs. As alluded to before, it's an outlier profile for someone who's bopped 30 home runs.
+
+He's reached this level of offensive success -- in part -- due to excelling in certain areas and zoning in on the type of batted balls that produce optimal results. It starts with his sound plate discipline and strong bat-to-ball skills. He ranks in the 87th percentile in whiff rate and 70th percentile or better in both walk and strikeout rates. His 0.56 walk-to-strikeout ratio puts him among hitters such as Corey Seager, Paul Goldschmidt and Max Muncy.
+
+That approach puts him in a good position to do what he does best: pull the ball in the air with success. Few players are quite as extreme when it comes to Paredes' ability to elevate baseballs to the pull-side.
+
+Paredes' ranks in 2023
+Min. 300 batted balls (161 qualifying hitters)
+First in pull rate (53.1%)
+Second-highest launch angle (22.2 degrees)
+Third in pulled fly-ball rate (15.4%)
+Fourth-lowest groundball rate (31.8%)
+
+Why do pulled fly balls matter so much? Because those are the best types of batted balls a hitter can produce. In the Statcast era, pulled fly balls have produced a 2.191 OPS, the highest of any such combination of specific batted balls and direction. In 2023, Paredes has put 58 such batted balls in play that have produced a 2.591 OPS. The only player with more pulled fly balls this season than Paredes is Marcus Semien with José Ramírez, Mookie Betts, Anthony Santander and Kyle Tucker right around him.
+
+Get the Latest From MLB
+
+Sign up to receive our daily Morning Lineup to stay in the know about the latest trending topics around Major League Baseball.
+
+Sign up
+
+None of this is an accident for Paredes. When the Rays acquired him in 2022, they saw the untapped potential in Paredes, who could blend contact and pull-side power. MLB.com's Rays beat writer Adam Berry documented Paredes' changes in an article last month and how he became one of baseball's most productive hitters.
+
+Berry wrote: "Watching videos of Paredes with Detroit, the Rays saw a hitter who could pull the ball to left field and rack up opposite-field base hits. They also saw untapped potential in his bat if he could pull the ball in the air more aggressively."
+
+To the credit of Paredes and the Rays, they saw positive results pretty much right from the start.
+
+“I think we just gave him permission to explore how well he could do it (pulling the ball) and how often he could do it. It was more to take shots,” Rays hitting coach Chad Mottola told Berry. “That was the message right away, even in [Triple-A] Durham, and we got word that he took to it.”
+
+Mottola might have been the perfect coach to pair Paredes with. With the Rays organization since 2013 and in his current title since Sept. 2016, Mottola spent the 2013 season as Toronto's hitting coach. That is, he coached José Bautista and Edwin Encarnación -- two of the most notorious pull-power threats of the 21st century.
+
+“There's so many philosophies in hitting. One standard in this game is the default mechanism after failure -- since I was in the industry as a player -- is to just hit the ball the other way," Mottola told Berry. "That's been the standard fix for everything. I think I've had a little more permission [to see this philosophy work] like I had with the Blue Jays with Bautista and Edwin."
+
+Why this profile can work
+
+It's not hyperbolic to say that Paredes is having one of the most extreme pull-power seasons -- and careers -- that we have on record.
+
+Paredes' 31st home run over the Green Monster on Wednesday was -- you guessed it -- yet another pulled fly ball to left-center field. Every single one of his home runs has been pulled, making him just the fourth player in the pitch-tracking era (since 2008) to pull all of his home runs in a 30-plus home run season, joining Nolan Arenado (2021-22) and Ramírez (2021). In fact, Paredes has pulled all 53 of his career home runs, making him the only player since '08 to have 50-plus home runs all to the pull side.
+
+The links to Arenado and Ramírez are also interesting and useful comparisons. Like Paredes, Arenado and Ramírez blend great plate discipline and bat-to-ball skills with their pull power. Also similar to Paredes, the other two hitters have significantly outperformed their expected numbers based on the quality of their contact.
+
+In the Statcast era, Arenado has outperformed his wOBA by 33 points -- the second-largest positive difference of any hitter with at least 2,000 plate appearances -- while Ramírez is tied for 30th (15 points). That's not to say that Paredes will ever consistently approach the levels of Arenado and Ramírez. What it does say is that this profile can work, even if it goes against the norms of how most great hitters reach their high levels of production. It's not just Arenado and Ramírez, either, who produce in similar ways to Paredes.
+
+Betts, Semien, Altuve and Alex Bregman are some other pull-happy hitters with strong approaches who have outproduced their expected numbers. It turns out that possessing good approaches at the plate and knowing where your batted balls do the most damage can make for a great hitter. It's also a good reminder that there are multiple paths to excelling as a Major League hitter.
+
+How Paredes became one of baseball's productive hitters
+
+At the plate, Paredes sees 4.16 pitches per plate appearance, a top-25 mark among hitters with at least 400 plate appearances. He makes contact on nearly 90% of pitches in the zone and 67% of pitches out of the zone, the latter of which is roughly 10% above the league average. He's also handled most pitch types extremely well this season. He's slugging .534 against fastballs and .450 against breaking balls -- including a .400-plus SLG against six different pitch types -- and makes plenty of contact against those pitches.
+
+When the Rays acquired Paredes in '22, they were taking a chance by trading an established outfielder in Meadows. As it turned out -- in typical Rays fashion -- the decision to trade for Paredes is paying huge dividends. To their credit, this is the type of player that Tampa Bay thought they were getting from the start. As Berry put it following the trade, the Rays thought they were "getting someone who was an intriguing young hitter with emerging power and above-average defensive ability."
+
+With the Rays headed back to the playoffs yet again, it's due to players like Paredes, who continue to keep Tampa Bay's competitive train rolling.
+
+MLB.com's Rays beat writer Adam Berry contributed to this story.
+
+Did you like this story?
+In this story:
+Tampa Bay Rays
+Isaac Paredes
+
+Brent Maguire is a reporter for MLB.com.
+
+You may have missed...
+Blue Jays ink RHP Hoffman to 3-year deal
+
+1:38 AM UTC
+
+Alonso putting deal on table for Mets (report)
+
+January 10th, 2025
+
+10 players who could be 2025 versions of '24's breakout stars
+
+3:00 AM UTC
+
+Freeman, Taylor helping raise funds for wildfire relief efforts
+
+1:21 AM UTC
+
+Inbox: Is Sasaki ROY favorite regardless of league?
+
+January 10th, 2025
+
+Fans who interfered with Betts in WS Game 4 banned from all parks indefinitely
+
+January 10th, 2025
+
+OFFICIAL INFORMATION
+HELP/CONTACT US
+MORE MLB SITES & AFFILIATES
+CAREERS
+CONNECT WITH MLB
+Terms of Use
+Privacy Policy
+Legal Notices
+Contact Us
+Do not Sell or Share My Personal Data
+Cookie Settings
+© 2025 MLB Advanced Media, LP. All rights reserved.
+By clicking “Accept & Continue”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+The MLB Privacy Policy and Terms of Use Agreement have been updated, effective February 6, 2024, to encompass all MiLB.com and Minor League Club digital properties, and to update the arbitration and dispute resolution procedures, among other changes. By continuing to use our services, you agree to the updated Privacy Policy and Terms of Use Agreement.
+Cookies Settings Accept & Continue
+ 
+ 
+ ----- 
+ Source link : https://www.mlb.com/news/rays-isaac-paredes-excelling-with-pull-power 
+ ----- 

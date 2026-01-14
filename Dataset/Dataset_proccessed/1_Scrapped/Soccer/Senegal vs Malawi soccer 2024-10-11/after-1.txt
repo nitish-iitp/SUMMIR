@@ -1,0 +1,16 @@
+You might have been detected and blocked as a crawler bot!
+News Corp Australia uses software that manages crawler bot traffic on our websites. If you receive this message and are not a crawler bot (and are just a reader or subscriber), please try these steps first:
+Temporarily disable any AdBlockers / pop-up blockers / script blockers you have enabled
+Add this site in to the allowed list for any AdBlockers / pop-up blockers / script blockers you have enabled
+Ensure your browser supports JavaScript (this can be done via accessing https://www.whatismybrowser.com/detect/is-javascript-enabled in your browser)
+Ensure you are using the latest version of your web browser
+If you still need to be unlocked as a reader, subscriber or crawler bot, please e-mail us at accessissues@news.com.au and provide the IP address and reference number shown here along with why you require access.
+
+Your IP address is: 34.73.192.154 | Your reference number is: 0.5dfda17.1734414314.6a9f2bb4
+
+News Corp Australia.
+ 
+ 
+ ----- 
+ Source link : https://www.news.com.au/sport/malawi-get-ready-to-face-senegal-in-afcon-2025-qualifier/video/030687b275c71dd66eb58e009a1ef3c5 
+ ----- 

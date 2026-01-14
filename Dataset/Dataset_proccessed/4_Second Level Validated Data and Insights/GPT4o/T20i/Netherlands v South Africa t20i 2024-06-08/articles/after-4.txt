@@ -1,0 +1,330 @@
+NED vs SA
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+16th Match, Group D, New York, June 08, 2024, ICC Men's T20 World Cup
+NED
+103/9
+SA
+(18.5/20 ov, T:104) 106/6
+
+South Africa won by 4 wickets (with 7 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+NED 0.00%
+SA 100%
+NED
+SA
+100%
+50%
+100%
+NED Innings
+SA Innings
+
+Over 19 • SA 106/6
+
+South Africa won by 4 wickets (with 7 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+David Miller
+, SA
+59* (51)
+CRICINFO'S MVP
+David Miller
+, SA
+90 pts
+Impact List
+Netherlands
+South Africa
+Match Flow
+Info
+Netherlands  (20 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+Michael Levitt 
+\t0\t3\t0\t0\t0.00
+
+c †de Kock b Jansen
+
+
+Max O'Dowd 
+\t2\t6\t0\t0\t33.33
+
+c Jansen b Baartman
+
+
+Vikramjit Singh 
+\t12\t17\t1\t0\t70.58
+
+b Jansen
+
+
+Sybrand Engelbrecht 
+\t40\t45\t2\t1\t88.88
+
+c Jansen b Baartman
+
+
+Bas de Leede 
+\t6\t16\t0\t0\t37.50
+
+c Miller b Nortje
+
+
+Scott Edwards (c)†
+\t10\t9\t0\t1\t111.11
+
+run out (Markram)
+
+
+Teja Nidamanuru 
+\t0\t1\t0\t0\t0.00
+
+c Klaasen b Nortje
+
+
+Logan van Beek 
+\t23\t22\t3\t0\t104.54
+
+c Nortje b Baartman
+
+
+Tim Pringle 
+\t0\t2\t0\t0\t0.00
+
+c Markram b Baartman
+
+
+Paul van Meekeren 
+\t1\t1\t0\t0\t100.00
+
+not out
+
+Extras\t9\t(lb 2, nb 2, w 5)
+Total\t103/9\t
+20 Ov (RR: 5.15)
+
+
+Did not bat: 
+Vivian Kingma 
+
+
+Fall of wickets: 1-1 (Michael Levitt, 0.3 ov), 2-15 (Max O'Dowd, 3.4 ov), 3-17 (Vikramjit Singh, 4.3 ov), 4-32 (Bas de Leede, 9.1 ov), 5-46 (Scott Edwards, 11.3 ov), 6-48 (Teja Nidamanuru, 11.5 ov), 7-102 (Sybrand Engelbrecht, 19.1 ov), 8-102 (Tim Pringle, 19.3 ov), 9-103 (Logan van Beek, 19.6 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Marco Jansen
+\t4\t0\t20\t
+2
+\t5.00\t1\t1
+
+Kagiso Rabada
+\t4\t0\t27\t0\t6.75\t1\t0
+
+Ottneil Baartman
+\t4\t0\t11\t
+4
+\t2.75\t1\t0
+
+Anrich Nortje
+\t4\t0\t19\t
+2
+\t4.75\t1\t1
+
+Keshav Maharaj
+\t4\t0\t24\t0\t6.00\t1\t0
+South Africa  (T: 104 runs from 20 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+Reeza Hendricks 
+\t3\t10\t0\t0\t30.00
+
+b van Beek
+
+
+Quinton de Kock †
+\t0\t0\t0\t0\t-
+
+run out (van Meekeren/O'Dowd)
+
+
+Aiden Markram (c)
+\t0\t3\t0\t0\t0.00
+
+c †Edwards b Kingma
+
+
+Tristan Stubbs 
+\t33\t37\t1\t1\t89.18
+
+c van Beek b de Leede
+
+
+Heinrich Klaasen 
+\t4\t7\t0\t0\t57.14
+
+c Pringle b Kingma
+
+
+David Miller 
+\t59\t51\t3\t4\t115.68
+
+not out
+
+
+Marco Jansen 
+\t3\t5\t0\t0\t60.00
+
+b van Beek
+
+
+Keshav Maharaj 
+\t0\t1\t0\t0\t0.00
+
+not out
+
+Extras\t4\t(lb 1, nb 1, w 2)
+Total\t106/6\t
+18.5 Ov (RR: 5.62)
+
+
+Did not bat: 
+Kagiso Rabada, 
+Anrich Nortje, 
+Ottneil Baartman 
+
+
+Fall of wickets: 1-0 (Quinton de Kock, 0.1 ov), 2-3 (Reeza Hendricks, 1.4 ov), 3-3 (Aiden Markram, 2.3 ov), 4-12 (Heinrich Klaasen, 4.3 ov), 5-77 (Tristan Stubbs, 16.2 ov), 6-88 (Marco Jansen, 17.5 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Vivian Kingma
+\t4\t1\t12\t
+2
+\t3.00\t1\t0
+
+Logan van Beek
+\t4\t1\t21\t
+2
+\t5.25\t0\t0
+
+Paul van Meekeren
+\t4\t1\t13\t0\t3.25\t1\t0
+
+Bas de Leede
+\t3.5\t0\t34\t
+1
+\t8.86\t0\t1
+
+Tim Pringle
+\t2\t0\t14\t0\t7.00\t0\t0
+
+Vikramjit Singh
+\t1\t0\t11\t0\t11.00\t0\t0
+Unlocking the magic of Statsguru
+Match Flow
+Netherlands innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 20 runs, 3 wickets)
+Over 0.3: Review by South Africa (Bowling), Decision Challenged - Wicket, Umpire - Sharfuddoula, Batter - M Levitt (Upheld)
+Drinks: Netherlands - 35/4 in 10.0 overs (SA Engelbrecht 11, SA Edwards 1)
+Netherlands: 50 runs in 12.2 overs (75 balls), Extras 4
+7th Wicket: 50 runs in 43 balls (SA Engelbrecht 26, LV van Beek 19, Ex 5)
+Netherlands: 100 runs in 18.6 overs (116 balls), Extras 9
+Innings Break: Netherlands - 103/9 in 20.0 overs (PA van Meekeren 1)
+South Africa innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 16 runs, 4 wickets)
+Drinks: South Africa - 32/4 in 10.0 overs (T Stubbs 9, DA Miller 13)
+South Africa: 50 runs in 11.5 overs (72 balls), Extras 4
+5th Wicket: 50 runs in 55 balls (T Stubbs 20, DA Miller 30, Ex 2)
+South Africa: 100 runs in 18.4 overs (113 balls), Extras 4
+DA Miller: 50 off 50 balls (3 x 4, 3 x 6)
+Match Details
+Nassau County International Cricket Stadium, New York
+
+Toss\tSouth Africa, elected to field first
+Series\t
+ICC Men's T20 World Cup
+
+Season\t
+2024
+
+Player Of The Match\t
+David Miller
+
+Match number\t
+T20I no. 2649
+
+Match days\t8 June 2024 - day (20-over match)
+Umpires\t
+Chris Gaffaney
+DRS
+Sharfuddoula
+DRS
+
+TV Umpire\t
+Richard Kettleborough
+
+Reserve Umpire\t
+Sam Nogajski
+
+Match Referee\t
+David Boon
+
+Points\tSouth Africa 2, Netherlands 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 873 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/netherlands-vs-south-africa-16th-match-group-d-1415716/full-scorecard 
+ ----- 

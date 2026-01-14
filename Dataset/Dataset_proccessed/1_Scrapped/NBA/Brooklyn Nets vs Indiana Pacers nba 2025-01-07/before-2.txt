@@ -1,0 +1,383 @@
+blue News
+Entertainment
+Sports
+Live
+Football
+Wintersport
+Tennis
+Motorsport
+Ice hockey
+Basketball
+Cycling
+NBA
+World Cup
+
+Brooklyn Nets
+
+Tuesday, 07.01.2025, 01:30
+
+99:113
+
+Completed
+
+Indiana Pacers
+
+( 22 : 24 | 17 : 31 | 31 : 23 | 29 : 35 )
+BKN
+IND
+
+STARTER
+
+MIN
+
+REB
+
+AST
+
+PTS
+
+Keon Johnson (G)
+
+31:43
+4
+5
+12
+
+Ziaire Williams (F)
+
+25:46
+8
+4
+10
+
+Nic Claxton (C)
+
+25:35
+7
+3
+4
+
+Tyrese Martin (G)
+
+30:23
+5
+1
+15
+
+Noah Clowney (F)
+
+28:49
+4
+1
+14
+
+BANK
+
+MIN
+
+REB
+
+AST
+
+PTS
+
+Jalen Wilson
+
+30:57
+4
+3
+8
+
+Day'Ron Sharpe
+
+22:25
+13
+5
+16
+
+Reece Beekman
+
+17:41
+0
+0
+9
+
+Dariq Whitehead
+
+02:42
+0
+0
+3
+
+Tosan Evbuomwan
+
+23:59
+6
+1
+8
+Actual games
+Saturday, 11.01.2025
+
+Chicago Bulls
+
+138
+
+Washington Wizards
+
+105
+
+Denver Nuggets
+
+124
+
+Brooklyn Nets
+
+105
+
+Phoenix Suns
+
+114
+
+Utah Jazz
+
+106
+
+Sunday, 12.01.2025
+
+Detroit Pistons
+
+123
+
+Toronto Raptors
+
+114
+
+Minnesota Timberwolves
+
+125
+
+Memphis Grizzlies
+
+127
+
+Portland Trail Blazers
+
+98
+
+Miami Heat
+
+119
+
+Western Conference
+#	Team	Gp.	Diff.	%
+
+1
+		Oklahoma City Thunder	37	443	83.8
+
+2
+		Houston Rockets	37	223	67.6
+
+3
+		Memphis Grizzlies	39	309	64.1
+
+4
+		Denver Nuggets	37	150	59.5
+
+5
+		Dallas Mavericks	38	175	57.9
+
+6
+		Los Angeles Lakers	36	-77	55.6
+
+7
+		LA Clippers	37	19	54.1
+
+8
+		Minnesota Timberwolves	38	63	52.6
+
+9
+		Sacramento Kings	38	99	50.0
+
+10
+		Golden State Warriors	38	17	50.0
+
+11
+		San Antonio Spurs	37	-19	48.6
+
+12
+		Phoenix Suns	37	-60	48.6
+
+13
+		Portland Trail Blazers	38	-313	34.2
+
+14
+		Utah Jazz	37	-256	24.3
+
+15
+		New Orleans Pelicans	39	-377	20.5
+Eastern Conference
+#	Team	Gp.	Diff.	%
+
+1
+		Cleveland Cavaliers	37	427	89.2
+
+2
+		Boston Celtics	38	362	71.1
+
+3
+		New York Knicks	39	237	64.1
+
+4
+		Milwaukee Bucks	36	78	55.6
+
+5
+		Orlando Magic	40	59	55.0
+
+6
+		Miami Heat	37	69	54.1
+
+7
+		Indiana Pacers	39	-3	53.8
+
+8
+		Detroit Pistons	39	-43	51.3
+
+9
+		Atlanta Hawks	38	-99	50.0
+
+10
+		Chicago Bulls	38	-99	47.4
+
+11
+		Philadelphia 76ers	36	-115	41.7
+
+12
+		Brooklyn Nets	38	-249	34.2
+
+13
+		Charlotte Hornets	35	-216	22.9
+
+14
+		Toronto Raptors	39	-315	20.5
+
+15
+		Washington Wizards	36	-489	16.7
+Southwest Division
+#	Team	Gp.	Diff.	%
+
+1
+		Houston Rockets	37	223	67.6
+
+2
+		Memphis Grizzlies	39	309	64.1
+
+3
+		Dallas Mavericks	38	175	57.9
+
+4
+		San Antonio Spurs	37	-19	48.6
+
+5
+		New Orleans Pelicans	39	-377	20.5
+Northwest Division
+#	Team	Gp.	Diff.	%
+
+1
+		Oklahoma City Thunder	37	443	83.8
+
+2
+		Denver Nuggets	37	150	59.5
+
+3
+		Minnesota Timberwolves	38	63	52.6
+
+4
+		Portland Trail Blazers	38	-313	34.2
+
+5
+		Utah Jazz	37	-256	24.3
+Pacific Division
+#	Team	Gp.	Diff.	%
+
+1
+		Los Angeles Lakers	36	-77	55.6
+
+2
+		LA Clippers	37	19	54.1
+
+3
+		Sacramento Kings	38	99	50.0
+
+4
+		Golden State Warriors	38	17	50.0
+
+5
+		Phoenix Suns	37	-60	48.6
+Southeast Division
+#	Team	Gp.	Diff.	%
+
+1
+		Orlando Magic	40	59	55.0
+
+2
+		Miami Heat	37	69	54.1
+
+3
+		Atlanta Hawks	38	-99	50.0
+
+4
+		Charlotte Hornets	35	-216	22.9
+
+5
+		Washington Wizards	36	-489	16.7
+Central Division
+#	Team	Gp.	Diff.	%
+
+1
+		Cleveland Cavaliers	37	427	89.2
+
+2
+		Milwaukee Bucks	36	78	55.6
+
+3
+		Indiana Pacers	39	-3	53.8
+
+4
+		Detroit Pistons	39	-43	51.3
+
+5
+		Chicago Bulls	38	-99	47.4
+Atlantic Division
+#	Team	Gp.	Diff.	%
+
+1
+		Boston Celtics	38	362	71.1
+
+2
+		New York Knicks	39	237	64.1
+
+3
+		Philadelphia 76ers	36	-115	41.7
+
+4
+		Brooklyn Nets	38	-249	34.2
+
+5
+		Toronto Raptors	39	-315	20.5
+blue News
+About blue
+blue
+blue Cinema
+Residential Customers
+Tools
+Cookie Einstellungen
+Legal
+Advertising
+Imprint
+Journalistic Guidelines
+© Swisscom 2025
+ 
+ 
+ ----- 
+ Source link : https://www.bluewin.ch/en/sport/results/basketball/nba/match/GN5DQVTNP57R524.html 
+ ----- 

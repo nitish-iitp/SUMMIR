@@ -1,0 +1,601 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+Manage Preferences
+MENU
+2023 AL Division Series
+Texas Rangers over Baltimore Orioles (3-0)
+
+Dates: October 7 - 10, 2023
+
+WS MVP: Corey Seager
+
+NLCS MVP: Ketel Marte
+
+ALCS MVP: Adolis García
+
+Become a Stathead & surf this site ad-free.
+Postseason History
+More Postseason Pages
+
+2023 World Series
+
+ALCS
+
+NLCS
+
+ALDS1
+
+ALDS2
+
+NLDS1
+
+NLDS2
+
+ALWC1
+
+NLWC1
+
+ALWC2
+
+NLWC2
+
+Series Scores
+Game 1, October 7
+Texas Rangers	3	Final
+Baltimore Orioles	2	
+W	Dane Dunning (1-0)
+L	Kyle Bradish (0-1)
+S	José Leclerc (1)
+Game 2, October 8
+Texas Rangers	11	Final
+Baltimore Orioles	8	
+W	Cody Bradford (1-0)
+L	Grayson Rodriguez (0-1)
+Game 3, October 10
+Baltimore Orioles	1	Final
+Texas Rangers	7	
+W	Nathan Eovaldi (2-0)
+L	Dean Kremer (0-1)
+Series Batting Stats
+Texas Rangers Batting 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	AB	R	H	2B	3B	HR	RBI	BB	SO	BA	OBP	SLG	OPS	SB	CS	E	WPA	cWPA	G	AB	R	H	HR	RBI	SB	BA	OPS
+Cody Bradford*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Brock Burke*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Evan Carter*	3	10	1	3	1	0	0	1	3	2	.300	.462	.400	.862	0	0	0	0.18	1.75%	23	62	15	19	5	12	3	.306	1.058
+Aroldis Chapman*	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*1	0	0	0	0	0	0		
+Dane Dunning	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Nathan Eovaldi	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Adolis García	3	14	2	5	1	0	1	4	0	7	.357	.357	.643	1.000	0	0	0	0.11	0.61%	148	555	108	136	39	107	9	.245	.836
+Mitch Garver	2	10	3	4	1	0	1	7	0	1	.400	.400	.800	1.200	0	0		0.25	1.90%	87	296	45	80	19	50	0	.270	.870
+Robbie Grossman#	1	5	0	1	1	0	0	0	0	4	.200	.200	.400	.600	0	0		-0.09	-0.90%	115	353	56	84	10	49	1	.238	.734
+Andrew Heaney*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Jonah Heim#	3	13	0	3	0	0	0	2	0	2	.231	.231	.231	.462	0	0	0	-0.04	-0.16%	131	457	61	118	18	95	2	.258	.755
+Josh Jung	3	12	4	5	1	0	1	1	1	2	.417	.462	.750	1.212	0	0	0	0.16	1.39%	122	478	75	127	23	70	1	.266	.781
+José Leclerc	3	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Nathaniel Lowe*	3	12	2	2	0	0	1	1	1	6	.167	.231	.417	.647	0	0	0	-0.06	-0.57%	161	623	89	163	17	82	1	.262	.775
+Jordan Montgomery*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*0	0	0	0	0	0	0		
+Josh Sborz	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	1	1	0	0	0	0	0	.000	.000
+Corey Seager*	3	6	4	2	0	0	1	1	9	0	.333	.733	.833	1.567	0	0	1	0.28	2.27%	119	477	88	156	33	96	2	.327	1.013
+Marcus Semien	3	14	2	3	1	0	0	1	1	3	.214	.267	.286	.552	0	0	0	-0.08	-0.73%	162	670	122	185	29	100	14	.276	.826
+Will Smith	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	1	0	0	0	0	0	0		
+Leody Taveras#	3	10	3	2	1	0	0	2	3	1	.200	.385	.300	.685	0	0	0	0.12	1.22%	143	511	67	136	14	67	14	.266	.733
+Totals	41	106	21	30	7	0	5	20	18	28	.283	.387	.491	.878	0	0		0.82	6.78%	162	5595	881	1470	233		79	.263	.790
+* - bats left-handed, # - bats both, else - bats right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Baltimore Orioles Batting 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	AB	R	H	2B	3B	HR	RBI	BB	SO	BA	OBP	SLG	OPS	SB	CS	E	WPA	cWPA	G	AB	R	H	HR	RBI	SB	BA	OPS
+Bryan Baker	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	2	0	0	0	0	0	0		
+Kyle Bradish	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Yennier Cano	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	3	0	0	0	0	0	0		
+Danny Coulombe*	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	2	0	0	0	0	0	0		
+Jack Flaherty	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*0	0	0	0	0	0	0		
+Adam Frazier*	2	5	0	0	0	0	0	0	0	0	.000	.000	.000	.000	0	0	0	-0.19	-1.83%	141	412	59	99	13	60	11	.240	.696
+Kyle Gibson	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	1	0	0	0	0	0	0		
+DL Hall*	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	1	0	0	0	0	0	0		
+Austin Hays	3	11	1	3	1	0	0	0	2	3	.273	.385	.364	.748	0	0	0	0.09	0.94%	144	520	76	143	16	67	5	.275	.769
+Gunnar Henderson*	3	12	3	6	0	0	1	2	1	4	.500	.538	.750	1.288	0	1	0	-0.14	-1.37%	150	560	100	143	28	82	10	.255	.814
+Aaron Hicks#	3	8	1	2	0	0	1	5	2	1	.250	.400	.625	1.025	0	0	0	0.14	1.28%	*93	269	44	68	8	36	6	.253	.735
+Dean Kremer	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Jorge Mateo	3	5	1	4	2	0	0	1	0	1	.800	.800	1.200	2.000	0	0	0	0.09	0.86%	116	318	58	69	7	34	32	.217	.607
+Ryan Mountcastle	3	11	1	2	1	0	0	2	1	4	.182	.231	.273	.503	0	0	0	-0.11	-0.93%	115	423	64	114	18	68	3	.270	.779
+Cedric Mullins*	3	12	0	0	0	0	0	0	0	3	.000	.000	.000	.000	0	0	0	-0.19	-1.78%	116	404	51	94	15	74	19	.233	.721
+Ryan O'Hearn*	3	5	0	1	0	0	0	0	0	1	.200	.200	.200	.400	0	0		-0.09	-0.77%	112	346	48	100	14	60	5	.289	.801
+Cionel Pérez	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	3	0	0	0	0	0	0		
+Grayson Rodriguez*	1	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Adley Rutschman#	3	12	0	1	1	0	0	0	1	2	.083	.154	.167	.321	0	0	0	-0.09	-0.69%	154	588	84	163	20	80	1	.277	.809
+Anthony Santander#	3	11	2	3	0	0	1	1	2	0	.273	.385	.545	.930	0	0	0	-0.16	-1.47%	153	591	81	152	28	95	5	.257	.797
+Ramón Urías	1	2	0	1	0	0	0	0	0	0	.500	.500	.500	1.000	0	0	0	0.02	0.22%	116	360	45	95	4	42	3	.264	.703
+Jacob Webb	2	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	*0	0	0	0	0	0	0		
+Tyler Wells	3	0	0	0	0	0	0	0	0	0					0	0	0	0.00	0.00%	0	0	0	0	0	0	0		
+Jordan Westburg	3	9	2	2	1	0	0	0	0	4	.222	.222	.333	.556	0	0	0	-0.06	-0.47%	68	208	26	54	3	23	4	.260	.715
+Totals	52	103	11	25	6	0	3	11	9	23	.243	.301	.388	.689	0	1		-0.68	-6.01%	162	5495	807	1399	183		114	.255	.742
+* - bats left-handed, # - bats both, else - bats right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Texas Rangers Pitching 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	GS	ERA	W	L	SV	CG	IP	H	R	ER	BB	SO	WHIP	WPA	cWPA	G	GS	ERA	W	L	SV	IP	H	BB	SO	WHIP
+Cody Bradford*	1	0	0.00	1	0	0	0	3.2	3	0	0	0	4	0.818	0.09	0.88%	20	8	5.30	4	3	0	56.0	56	12	51	1.214
+Brock Burke*	1	0	54.00	0	0	0	0	0.1	1	2	2	1	0	6.000	0.00	-0.03%	53	0	4.37	5	3	0	59.2	64	9	52	1.223
+Aroldis Chapman*	2	0	0.00	0	0	0	0	1.2	1	0	0	4	2	3.000	0.13	1.36%	*61	0	3.09	6	5	6	58.1	37	36	103	1.251
+Dane Dunning	1	0	4.50	1	0	0	0	2.0	2	1	1	1	1	1.500	0.05	0.48%	35	26	3.70	12	7	0	172.2	163	55	140	1.263
+Nathan Eovaldi	1	1	1.29	1	0	0	0	7.0	5	1	1	0	7	0.714	0.17	0.98%	25	25	3.63	12	5	0	144.0	117	47	132	1.139
+Andrew Heaney*	1	1	2.45	0	0	0	0	3.2	2	1	1	1	1	0.818	0.05	0.35%	34	28	4.15	10	6	0	147.1	143	60	151	1.378
+José Leclerc	3	0	3.00	0	0	1	0	3.0	2	1	1	0	3	0.667	0.22	2.10%	57	0	2.68	0	2	4	57.0	37	28	67	1.140
+Jordan Montgomery*	1	1	9.00	0	0	0	0	4.0	9	5	4	1	2	2.500	-0.18	-1.52%	*32	32	3.20	10	11	0	188.2	177	48	166	1.193
+Josh Sborz	2	0	0.00	0	0	0	0	1.1	0	0	0	1	2	0.750	0.12	1.22%	44	0	5.50	6	7	0	52.1	43	17	66	1.146
+Will Smith*	1	0	0.00	0	0	0	0	0.1	0	0	0	0	1	0.000	0.02	0.19%	60	0	4.40	2	7	22	57.1	44	17	55	1.064
+Totals	14	3	3.33	3	0	1	0	27.0	25	11	10	9	23	1.259	0.67	6.01%	162	162	4.280	90	72		1436.1	1330	491	1351	1.268
+* - throws left-handed, # - throws both, else - throws right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Baltimore Orioles Pitching 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+	Playoff Series Stats	Regular Season Stats
+Name	G	GS	ERA	W	L	SV	CG	IP	H	R	ER	BB	SO	WHIP	WPA	cWPA	G	GS	ERA	W	L	SV	IP	H	BB	SO	WHIP
+Bryan Baker	1	0	81.00	0	0	0	0	0.1	0	3	3	3	0	9.000	-0.05	-0.53%	46	0	3.60	4	3	0	45.0	33	24	51	1.267
+Kyle Bradish	1	1	3.86	0	1	0	0	4.2	7	2	2	1	9	1.714	-0.02	-0.36%	30	30	2.83	12	7	0	168.2	132	44	168	1.043
+Yennier Cano	2	0	6.75	0	0	0	0	1.1	2	1	1	1	0	2.250	0.00	-0.02%	72	0	2.11	1	4	8	72.2	60	13	65	1.005
+Danny Coulombe*	2	0	0.00	0	0	0	0	1.0	0	0	0	1	1	1.000	0.08	0.78%	61	0	2.81	5	3	2	51.1	45	12	58	1.110
+Jack Flaherty	1	0	4.50	0	0	0	0	2.0	2	1	1	3	1	2.500	-0.01	-0.08%	*29	27	4.99	8	9	0	144.1	162	66	148	1.580
+Kyle Gibson	1	0	3.00	0	0	0	0	3.0	1	1	1	1	1	0.667	0.00	0.03%	33	33	4.73	15	9	0	192.0	198	55	157	1.318
+DL Hall*	2	0	0.00	0	0	0	0	3.1	1	0	0	1	6	0.600	0.10	0.94%	18	0	3.26	3	0	0	19.1	18	5	23	1.190
+Dean Kremer	1	1	32.40	0	1	0	0	1.2	7	6	6	1	0	4.800	-0.34	-1.99%	32	32	4.12	13	5	0	172.2	171	55	157	1.309
+Cionel Pérez*	2	0	0.00	0	0	0	0	1.2	1	0	0	1	4	1.200	0.03	0.24%	65	0	3.54	4	2	3	53.1	56	27	44	1.556
+Grayson Rodriguez	1	1	27.00	0	1	0	0	1.2	6	5	5	4	2	6.000	-0.44	-4.13%	23	23	4.35	7	4	0	122.0	121	42	129	1.336
+Jacob Webb	2	0	9.00	0	0	0	0	2.0	2	2	2	1	1	1.500	-0.22	-2.21%	*54	0	3.69	1	1	1	53.2	39	30	57	1.286
+Tyler Wells	3	0	0.00	0	0	0	0	3.1	1	0	0	0	3	0.300	0.06	0.55%	25	20	3.64	7	6	1	118.2	83	34	117	0.986
+Totals	19	3	7.27	0	3	0	0	26.0	30	21	21	18	28	1.846	-0.83	-6.78%	162	162	3.894	101	61		1453.2	1334	473	1431	1.243
+* - throws left-handed, # - throws both, else - throws right, ? - unknown, for minors bold indicates they appeared in majors or are a HOFer
+Series Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Series Win Probability - Texas Rangers vs. Baltimore Orioles, 2023 AL Division
+Series
+Gm 1
+Gm 2
+Gm 3
+BAL
+50%
+TEX
+Inning	Win Pct
+1	0.49
+2	0.48
+3	0.48
+4	0.48
+5	0.47
+6	0.48
+7	0.48
+8	0.48
+9	0.49
+10	0.5
+11	0.49
+12	0.48
+13	0.47
+14	0.48
+15	0.48
+16	0.49
+17	0.48
+18	0.47
+19	0.47
+20	0.48
+21	0.48
+22	0.49
+23	0.48
+24	0.5
+25	0.55
+26	0.58
+27	0.59
+28	0.58
+29	0.59
+30	0.57
+31	0.58
+32	0.57
+33	0.51
+34	0.53
+35	0.52
+36	0.55
+37	0.56
+38	0.55
+39	0.53
+40	0.54
+41	0.52
+42	0.54
+43	0.52
+44	0.55
+45	0.54
+46	0.6
+47	0.6
+48	0.59
+49	0.6
+50	0.59
+51	0.6
+52	0.55
+53	0.56
+54	0.57
+55	0.56
+56	0.55
+57	0.55
+58	0.52
+59	0.54
+60	0.57
+61	0.59
+62	0.58
+63	0.57
+64	0.57
+65	0.53
+66	0.5
+67	0.48
+68	0.58
+69	0.62
+70	0.62
+71	0.62
+72	0.62
+73	0.61
+74	0.56
+75	0.64
+76	0.67
+77	0.69
+78	0.7
+79	0.72
+80	0.7
+81	0.69
+82	0.7
+83	0.67
+84	0.68
+85	0.67
+86	0.68
+87	0.67
+88	0.66
+89	0.61
+90	0.62
+91	0.63
+92	0.66
+93	0.71
+94	0.71
+95	0.72
+96	0.74
+97	0.78
+98	0.77
+99	0.8
+100	0.79
+101	0.8
+102	0.78
+103	0.79
+104	0.81
+105	0.8
+106	0.81
+107	0.81
+108	0.83
+109	0.87
+110	0.87
+111	0.87
+112	0.87
+113	0.87
+114	0.87
+115	0.87
+116	0.87
+117	0.87
+118	0.87
+119	0.86
+120	0.87
+121	0.86
+122	0.86
+123	0.85
+124	0.86
+125	0.86
+126	0.86
+127	0.87
+128	0.87
+129	0.87
+130	0.87
+131	0.86
+132	0.85
+133	0.86
+134	0.86
+135	0.87
+136	0.87
+137	0.87
+138	0.86
+139	0.87
+140	0.86
+141	0.85
+142	0.86
+143	0.87
+144	0.87
+145	0.87
+146	0.87
+147	0.87
+148	0.87
+149	0.88
+150	0.88
+151	0.88
+152	0.88
+153	0.88
+154	0.88
+155	0.88
+156	0.88
+157	0.88
+158	0.87
+159	0.88
+160	0.88
+161	0.88
+162	0.88
+163	0.88
+164	0.88
+165	0.88
+166	0.88
+167	0.88
+168	0.88
+169	0.88
+170	0.88
+171	0.89
+172	0.89
+173	0.89
+174	0.89
+175	0.89
+176	0.91
+177	0.91
+178	0.91
+179	0.92
+180	0.91
+181	0.91
+182	0.92
+183	0.92
+184	0.91
+185	0.92
+186	0.91
+187	0.92
+188	0.92
+189	0.96
+190	0.99
+191	0.99
+192	0.99
+193	0.99
+194	0.99
+195	0.99
+196	0.99
+197	0.99
+198	0.99
+199	0.99
+200	0.99
+201	0.99
+202	0.99
+203	0.99
+204	0.99
+205	0.99
+206	0.99
+207	0.99
+208	0.99
+209	0.99
+210	0.99
+211	0.99
+212	0.99
+213	0.99
+214	0.99
+215	0.99
+216	0.99
+217	0.99
+218	1
+219	1
+220	1
+221	1
+222	1
+223	1
+224	1
+225	1
+226	1
+227	1
+228	1
+229	1
+230	1
+231	1
+232	1
+233	1
+234	1
+235	1
+236	1
+237	1
+238	1
+239	1
+240	1
+241	1
+The height of bar indicates the probability of a team winning the series given the current series state.
+Top 10 Plays 
+cWPA and cLI Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Gm#	Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	cWPA	cLI	Play Description
+Gm 1	b8	down 3-2	0	12-	2 (0-1)	OO	BAL	Anthony Santander	Aroldis Chapman	2.50%	72.68	Ground Ball Double Play: 3B-2B-1B (SS-3B Hole); A. Hays to 3B
+Gm 1	b9	down 3-2	0	1--	4 (2-1)	O	BAL	Aaron Hicks	José Leclerc	2.08%	84.58	G. Henderson Caught Stealing 2B (C-SS)
+Gm 2	b1	tied 0-0	2	123	5 (2-2)	RR	BAL	Aaron Hicks	Jordan Montgomery	1.53%	43.37	Single to RF (Line Drive to Short RF); R. Mountcastle Scores; G. Henderson Scores; A. Hays to 3B
+Gm 1	b4	down 2-0	1	1--	1 (0-0)	R	BAL	Ryan Mountcastle	Andrew Heaney	1.33%	23.81	Double to LF (Line Drive to Short LF Line); A. Santander Scores
+Gm 1	b9	down 3-2	0	---	2 (1-0)		BAL	Gunnar Henderson	José Leclerc	1.26%	53.88	Single to RF (Line Drive to Short RF)
+Gm 1	b6	down 3-1	1	---	2 (0-1)	R	BAL	Anthony Santander	Dane Dunning	1.25%	14.88	Home Run (Fly Ball to Deep CF-RF)
+Gm 2	t2	down 2-0	0	1-3	4 (1-2)	RR	TEX	Leody Taveras	Grayson Rodriguez	1.22%	29.73	Double to LF (Line Drive to Deep LF-CF); N. Lowe Scores; J. Jung Scores
+Gm 1	t6	ahead 2-1	1	---	3 (1-1)	R	TEX	Josh Jung	Jacob Webb	1.21%	11.12	Home Run (Fly Ball to Deep CF)
+Gm 1	t4	tied 0-0	1	-2-	1 (0-0)	R	TEX	Evan Carter	Kyle Bradish	1.16%	23.81	Double to RF (Line Drive to RF Line); A. García Scores
+Gm 1	b8	down 3-2	2	--3	5 (2-2)	O	BAL	Ryan Mountcastle	Aroldis Chapman	1.05%	63.91	Strikeout Swinging
+See all plays from this series with the Pivotal Play Finder
+Report an error
+More Postseason Pages
+
+Postseason History
+
+2023 World Series
+
+ALCS
+
+NLCS
+
+ALDS1
+
+ALDS2
+
+NLDS1
+
+NLDS2
+
+ALWC1
+
+NLWC1
+
+ALWC2
+
+NLWC2
+
+Ad-Free Login Create Account
+You are here: BR Home Page > Playoff Index > 2023 AL Division Series
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+           
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Friday, January 10, 11:09PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2025 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith of Baseballprojection.com and author of WAR in Pieces.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2025.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Football Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/postseason/2023_ALDS1.shtml 
+ ----- 

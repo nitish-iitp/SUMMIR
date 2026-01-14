@@ -1,0 +1,329 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Athletics
+66-86, 30-47 Away
+4
+Final
+Cubs
+77-74, 39-34 Home
+3
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+OAK
+
+
+CHC
+1	2	3	4	5	6	7	8	9	R	H	E
+2	0	1	0	1	0	0	0	0	4	9	0
+0	0	2	0	0	0	0	0	1	3	11	0
+WIN
+M. Spence
+8-9
+5.0 IP, 7 H, 2 ER, 6 K, 1 BB
+LOSS
+J. Wicks
+2-4
+5.0 IP, 7 H, 4 ER, 4 K, 2 BB
+SAVE
+M. Miller
+26
+1.0 IP, 1 H, 1 ER, 2 K, 0 BB
+OAK
+Overview
+CHC
+Athletics Hitting
+HITTERS
+
+L. Butler
+RF
+
+
+B. Rooker
+DH
+
+
+S. Langeliers
+C
+
+
+J. Bleday
+CF
+
+
+Z. Gelof
+2B
+
+
+J. Wilson
+SS
+
+
+T. Nevin
+1B
+
+
+D. Cameron
+LF
+
+
+a
+S. Brown
+PH-LF
+
+
+M. Schuemann
+3B
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	1	1	1	1	0	.269
+3	1	1	0	0	1	.302
+4	2	2	3	2	0	.220
+4	0	1	0	0	0	.246
+4	0	0	0	0	0	.216
+3	0	1	0	0	1	.246
+4	0	2	0	0	0	.200
+2	0	1	0	0	0	.201
+2	0	0	0	0	0	.237
+4	0	0	0	0	0	.220
+34	4	9	4	3	2	
+a-struck out swinging for Cameron in the 6th
+BATTING
+2BNevin (9, Wicks)
+HRLangeliers 2 (28, 1st inning off Wicks 1 on, 1 Out, 5th inning off Wicks 0 on, 1 Out); Butler (22, 3rd inning off Wicks 0 on, 0 Out)
+RBILangeliers 3 (74), Butler (56)
+GIDPSchuemann
+Team LOB5
+Team RISP0-8 (Cameron 0-1, Brown 0-1, Schuemann 0-3, Gelof 0-1, Wilson 0-1, Butler 0-1)
+BASERUNNING
+SBBleday (2, 2nd base off Wicks/Bethancourt)
+FIELDING
+DP1 (Wilson-Gelof-Nevin)
+Cubs Hitting
+HITTERS
+
+I. Happ
+LF
+
+
+D. Swanson
+SS
+
+
+S. Suzuki
+DH
+
+
+C. Bellinger
+RF
+
+
+I. Paredes
+3B
+
+
+M. Mastrobuoni
+PR-3B
+
+
+M. Busch
+1B
+
+
+a
+P. Wisdom
+PH-1B
+
+
+N. Hoerner
+2B
+
+
+P. Crow-Armstrong
+CF
+
+
+C. Bethancourt
+C
+
+
+b
+M. Tauchman
+PH
+
+
+M. Amaya
+C
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+5	2	3	2	2	0	.249
+5	0	0	0	0	0	.234
+4	0	1	0	0	1	.278
+4	1	2	0	0	0	.270
+3	0	0	0	0	1	.238
+0	0	0	0	0	0	.202
+2	0	1	1	0	0	.256
+2	0	0	0	0	0	.188
+4	0	3	0	0	0	.268
+4	0	1	0	0	0	.242
+2	0	0	0	0	0	.203
+1	0	0	0	0	0	.245
+1	0	0	0	0	0	.231
+37	3	11	3	2	2	
+a-lined out to center for Busch in the 6th
+b-popped out to shortstop for Bethancourt in the 7th
+BATTING
+HRHapp 2 (25, 3rd inning off Spence 0 on, 0 Out, 9th inning off Miller 0 on, 1 Out)
+RBIHapp 2 (85), Busch (64)
+2Out RBIBusch
+GIDPBethancourt
+Team LOB9
+Team RISP1-6 (Bethancourt 0-1, Paredes 0-2, Hoerner 0-1, Busch 1-1, Crow-Armstrong 0-1)
+FIELDING
+DP2 (Wicks-Hoerner-Busch , Hoerner-Swanson)
+Athletics Pitching
+PITCHERS
+
+M. Spence
+(W, 8-9)
+
+
+S. Alexander
+(H, 10)
+
+
+T. Ferguson
+(H, 9)
+
+
+M. Otanez
+(H, 4)
+
+
+T.J. McFarland
+(H, 18)
+
+
+M. Miller
+(S, 26)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+5.0	7	2	6	92-58	4.30
+1.0	1	0	2	16-9	2.36
+1.0	1	0	2	23-17	3.88
+0.2	1	0	0	12-6	3.48
+0.1	0	0	1	6-4	3.69
+1.0	1	1	2	21-14	2.41
+9.0	11	3	13	170-108	
+PITCHING
+First-pitch strikes/Batters FacedMcFarland 1/1; S. Alexander 2/4; Ferguson 2/4; Miller 3/4; Otanez 2/4; Spence 13/22
+Called strikes-Swinging strikes-Foul balls-In play strikesMcFarland-0-2-2-0; S. Alexander-2-3-2-2; Ferguson-2-5-8-2; Miller-2-5-5-2; Otanez-2-0-1-3; Spence-15-7-21-15
+Ground Balls-Fly BallsS. Alexander 0-1; Ferguson 0-1; Miller 1-0; Otanez 1-1; Spence 3-5
+Game ScoresM Spence 50
+Cubs Pitching
+PITCHERS
+
+J. Wicks
+(L, 2-4)
+
+
+S. Armstrong
+
+
+D. Palencia
+
+
+J. Neely
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+5.0	7	4	4	91-56	5.48
+1.0	2	0	1	16-12	4.64
+2.0	0	0	2	16-13	6.14
+1.0	0	0	1	14-9	9.00
+9.0	9	4	8	137-90	
+PITCHING
+First-pitch strikes/Batters FacedArmstrong 2/4; Wicks 11/23; Palencia 5/6; Neely 1/3
+Called strikes-Swinging strikes-Foul balls-In play strikesArmstrong-2-2-5-3; Wicks-16-8-15-17; Palencia-1-6-2-3; Neely-2-3-2-2
+Ground Balls-Fly BallsArmstrong 0-1; Wicks 5-5; Palencia 0-4; Neely 0-2
+Game ScoresJ Wicks 39
+Scoring Summary
+INNING
+	OAK	CHC
+		1st	Langeliers homered to center (408 feet), Rooker scored.	2	0
+		3rd	Butler homered to right center (368 feet).	3	0
+		3rd	Happ homered to right center (385 feet).	3	1
+		3rd	Busch singled to right, Bellinger scored, Paredes to third.	3	2
+		5th	Langeliers homered to left (418 feet).	4	2
+		9th	Happ homered to left (364 feet).	4	3
+Full Play-By-Play
+Game Information
+Wrigley Field
+11:40 PM, September 17, 2024
+Chicago, Illinois
+Line: CHC -155
+Over/Under: 8.5
+Attendance: 32,718
+Game Time:
+2:48
+Umpires:
+Home Plate Umpire - Vic Carapazza
+First Base Umpire - Paul Clemons
+Second Base Umpire - Adam Hamari
+Third Base Umpire - Edwin Moscoso
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570733 
+ ----- 

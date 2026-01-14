@@ -1,0 +1,337 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Cardinals
+69-68, 33-36 Away
+14
+Final
+Yankees
+79-58, 37-31 Home
+7
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Jordan Walker's 5 hits, Lars Nootbaar's 5 RBIs lead Cardinals to 14-7 win over Yankees
+— Jordan Walker went 5 for 5, Lars Nootbaar hit a bases-clearing two-strike double in the seventh and added a two-run homer in the ninth, and the St. Louis Cardinals beat the New York Yankees 14-7 on Sunday.
+Sep 1, 2024, 10:55 pm - AP
+
+
+STL
+
+
+NYY
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t1\t0\t4\t2\t0\t5\t0\t2\t14\t21\t2
+0\t2\t0\t0\t3\t2\t0\t0\t0\t7\t11\t1
+WIN
+J. Romero
+6-2
+1.1 IP, 1 H, 0 ER, 3 K, 1 BB
+LOSS
+J. Cousins
+1-1
+0.2 IP, 1 H, 2 ER, 1 K, 1 BB
+Scoring Summary
+INNING
+\tSTL\tNYY
+\t\t2nd\tWalker singled to right, Donovan scored.\t1\t0
+\t\t2nd\tStanton homered to left (387 feet).\t1\t1
+\t\t2nd\tChisholm Jr. scored on throwing error by pitcher Mikolas.\t1\t2
+\t\t4th\tWinn doubled to left, Walker scored and Donovan scored.\t3\t2
+\t\t4th\tBaker homered to left (376 feet), Winn scored.\t5\t2
+\t\t5th\tWalker homered to center (422 feet), Donovan scored.\t7\t2
+\t\t5th\tRizzo doubled to left, Chisholm Jr. scored.\t7\t3
+\t\t5th\tVerdugo singled to right, Rizzo scored, Volpe to second.\t7\t4
+\t\t5th\tTorres singled to left, Volpe scored, Verdugo to second.\t7\t5
+\t\t6th\tVolpe singled to center, Chisholm Jr. scored, Rizzo to second.\t7\t6
+\t\t6th\tTorres hit sacrifice fly to center, Rizzo scored, Volpe to third.\t7\t7
+\t\t7th\tNootbaar doubled to right, Arenado scored, Walker scored and Herrera scored.\t10\t7
+\t\t7th\tScott II doubled to right, Nootbaar scored.\t11\t7
+\t\t7th\tWinn reached on bunt single to pitcher, Scott II scored on error, Winn safe at second on throwing error by pitcher Bickford.\t12\t7
+\t\t9th\tNootbaar homered to center (429 feet), Walker scored.\t14\t7
+Full Play-By-Play
+Cardinals
+Yankees
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+M. Winn
+SS
+\t2-6\t1\t0\t2\t.283
+
+L. Baker
+DH
+\t1-3\t1\t1\t2\t.167
+
+A. Burleson
+PH-DH
+\t1-2\t0\t0\t0\t.282
+
+N. Arenado
+3B
+\t1-5\t1\t0\t0\t.271
+
+P. Goldschmidt
+1B
+\t3-5\t0\t0\t0\t.244
+
+I. Herrera
+C
+\t1-5\t1\t0\t0\t.281
+
+B. Donovan
+2B
+\t3-5\t3\t0\t0\t.266
+
+J. Walker
+RF
+\t5-5\t4\t1\t3\t.195
+
+L. Nootbaar
+LF
+\t3-5\t2\t1\t5\t.239
+
+V. Scott II
+CF
+\t1-5\t1\t0\t1\t.168
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+M. Mikolas
+\t4.0\t7\t3\t0\t5\t90-58\t5.27
+
+J. King
+\t1.1\t1\t2\t2\t0\t20-10\t3.27
+
+R. O'Brien
+\t0.1\t2\t0\t0\t0\t9-5\t10.80
+
+J. Romero
+\t1.1\t1\t0\t1\t3\t27-15\t2.67
+
+A. Kittredge
+\t1.0\t0\t0\t0\t1\t10-7\t3.18
+
+R. Fernandez
+\t1.0\t0\t0\t0\t2\t14-9\t3.32
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+G. Torres
+2B
+\t1-4\t0\t0\t2\t.240
+
+J. Soto
+RF
+\t1-5\t0\t0\t0\t.291
+
+A. Judge
+CF
+\t0-4\t0\t0\t0\t.327
+
+A. Wells
+C
+\t0-5\t0\t0\t0\t.254
+
+G. Stanton
+DH
+\t2-3\t1\t1\t1\t.244
+
+J. Chisholm Jr.
+3B
+\t2-3\t3\t0\t0\t.326
+
+A. Rizzo
+1B
+\t2-4\t2\t0\t1\t.228
+
+A. Volpe
+SS
+\t1-4\t1\t0\t1\t.254
+
+A. Verdugo
+LF
+\t2-4\t0\t0\t1\t.234
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+N. Cortes
+\t4.0\t9\t5\t1\t2\t80-48\t4.08
+
+S. Effross
+\t0.2\t3\t2\t0\t0\t11-7\t27.00
+
+T. Mayza
+\t1.0\t0\t0\t0\t0\t10-6\t6.89
+
+J. Cousins
+\t0.2\t1\t2\t1\t1\t21-11\t2.48
+
+T. Kahnle
+\t0.1\t3\t2\t0\t0\t20-12\t2.06
+
+P. Bickford
+\t1.1\t2\t0\t0\t1\t20-14\t9.82
+
+R. Marinaccio
+\t1.0\t3\t2\t0\t2\t23-16\t3.22
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+St. Louis Cardinals (69-68, 33-36 Away)
+Miles Mikolas (10-11, 5.35)
+o6.5
+-330
++205
+o9.5
+-110
++1.5
++110
+New York Yankees (79-58, 37-31 Home)
+Nestor Cortes (9-10, 3.77)
+-200
+ML
+-250
+u9.5
+-110
+-1.5
+-130
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+CARDINALS
+YANKEES
+STL 100
+%
+STL 14NYY 7
+
+Bottom 9th
+Wells struck out swinging.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+STL
+NYY
+Hits
+21
+11
+Home Runs
+3
+1
+Total Bases
+36
+17
+Runners LOB
+7
+6
+Full Team Stats
+Regular Season Series
+Current Series
+STL wins 2-1
+Cardinals
+3
+Yankees
+6
+Game 1
+8/30
+Final
+Cardinals
+6
+Yankees
+5
+Game 2
+8/31
+Final
+Cardinals
+14
+Yankees
+7
+Game 3
+9/1
+Final
+Game Information
+Yankee Stadium
+5:35 PM, September 1, 2024
+Coverage: ESPN+
+Bronx, New York
+Attendance: 42,768
+Game Time:
+3:21
+Umpires:
+Home Plate Umpire - Adam Beck
+First Base Umpire - Dan Iassogna
+Second Base Umpire - CB Bucknor
+Third Base Umpire - Ben May
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570528/cardinals-yankees 
+ ----- 

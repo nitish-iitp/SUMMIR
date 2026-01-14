@@ -1,0 +1,381 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+All Things Rimfire
+How much of an effect does cant have within 100yds?
+ 
+Thread starter
+thesniper  
+Start date
+Feb 13, 2024
+T
+thesniper
+Private
+Minuteman
+Nov 16, 2023
+9
+21
+California
+Feb 13, 2024
+#1
+I am wondering if anyone has any empirical data (ideally holes in paper) of how much of an effect cant has on accuracy. I found myself missing shots I'd usually make today at the range. The only variable was a lack of a bubble level today. I then borrowed an electronic bubble level to play around with. From *very* little data (prone, steel targets, multiple distances 50-100 yds, 5 shots each), I found myself missing more often when my rifle is canted compared to when it's level. Now I understand that canting your rifle is inevitably less accurate, but I suppose I want to know if I can blame the cant, or my horrible shooting.
+
+Maybe this is very obvious to many of you but I have never played around with or learned much about cant before and always used a bubble level (until today).
+ 
+ 
+Reactions:
+mosin46
+C
+Conaso
+Private
+Full Member
+Minuteman
+Jul 8, 2011
+1,235
+1,937
+Virginia
+Feb 13, 2024
+#2
+Zeroed at 50 yards and fired at 100 yards, 0 MPH wind, with a 45 degree cant = ~6.6 MOA (depending on scope height)
+
+Cant left - miss low and left. Cant right - miss low and right.​
+Horizontal canting error is Dropinches x sin (cant) Vertical canting error is Dropinches x cos (cant) - 1)
+ 
+ 
+Reactions:
+Hoyt7mm and MadDuner
+pmclaine
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+ 
+Nov 6, 2011
+36,209
+73,489
+56
+MA
+Feb 13, 2024
+#3
+Is cant your most natural, comfortable, position with this rifle. It allows you NPA without having to fight the gun?
+
+Than cant away and level your scope to gravity.
+
+Or sell the gun for one that fits your ergonomics.
+
+The level in your head is a fine instrument unless you have some illness.
+
+Depending on size of targets from 50 to 100 yards I think your cant would have to be extreme, 45 degrees is extreme beyond the point of seeking comfort.
+ 
+ 
+Reactions:
+Doctorwho1138, Aftermath and Taylorbok
+Milo 2.5
+The Dalai Lama of the Reload
+Full Member
+Minuteman
+Aug 7, 2014
+3,331
+2,769
+Gillette, WY
+Feb 13, 2024
+#4
+thesniper said:
+I am wondering if anyone has any empirical data (ideally holes in paper) of how much of an effect cant has on accuracy. I found myself missing shots I'd usually make today at the range. The only variable was a lack of a bubble level today. I then borrowed an electronic bubble level to play around with. From *very* little data (prone, steel targets, multiple distances 50-100 yds, 5 shots each), I found myself missing more often when my rifle is canted compared to when it's level. Now I understand that canting your rifle is inevitably less accurate, but I suppose I want to know if I can blame the cant, or my horrible shooting.
+
+Maybe this is very obvious to many of you but I have never played around with or learned much about cant before and always used a bubble level (until today).
+Click to expand...
+The red part of the angle finder represents a 2 deg cant, if you are on level ground, highly noticeable.
+
+
+I am going to babble like a fool here. If you are shooting groups at 100 yards, all shots fired need to be with the same cant. with level being optimum.
+First, your average accuracy at 100 needs to be defined. If your target size is 1.5" and your rifle avg's 1.1", a miss could be anything. Now if the target is 3", you'd need a fair amount of cant to miss, all things equal.
+I tend to lift my bolt too hard, and impart some left tilt, not shooting 1/4" dots on paper, but with the targets I shoot, I really can never blame cant. I doubt I will ever shoot paper at 100, but will try on steel someday, knowing full well, spot on spot accuracy won't be there.
+Even out to 300 yards, which of course there has to be some distance where too many other things play, but don't
+see it there either.
+One would think with what we know with CF cases, a slow 22LR bullet should exhibit the same or more deflection. I just don't see it much, if all, but if I miss and notice that I have the rifle canted, I don't readjust to level, just make the correction I see.
+I don't own a bubble level at the moment, but never used to take a shot over 500 yards w/o using one. It sounds like you want one, by all means get one, you'll solve this puzzle yourself. But I must ask, did the borrowed level actually make you pay more attn to your total position when breaking the shot?
+Like pmclaine says, we are programmed for level, and with my pic, no one would hang a picture with even a 1 deg cant, unless to purposely piss the little woman off.
+ 
+ 
+Reactions:
+Pipefitter I’m
+Gunfighter14e2
+Hunter/trapper of Remora's
+Full Member
+Minuteman
+Jul 9, 2002
+9,940
+15,136
+Lick skillet Alabama
+eham.net
+Feb 13, 2024
+#5
+Long ago shooting at the short range owned by j-huskey I shot the 600yd target for group using a 308 throwing a 175smk at 2675.
+I then laid the rifle to the left as far as the harris would allow then the same to the right. Both 5 shot groups were a mere 1/2moa from the first one.
+ 
+6
+68hoyt
+Private
+Full Member
+Minuteman
+Sep 17, 2011
+450
+153
+56
+Feb 13, 2024
+#6
+I never noticed my cant error shooting 22lr until I started shooting past 100 , esp at 300 yards , that’s where the little differences and errors make a big difference on paper /steel
+ 
+ 
+Reactions:
+Milo 2.5
+L
+littlesister
+Sergeant of the Hide
+Full Member
+Minuteman
+Feb 21, 2021
+309
+330
+alabama
+Feb 13, 2024
+#7
+thesniper said:
+I am wondering if anyone has any empirical data (ideally holes in paper) of how much of an effect cant has on accuracy. I found myself missing shots I'd usually make today at the range. The only variable was a lack of a bubble level today. I then borrowed an electronic bubble level to play around with. From *very* little data (prone, steel targets, multiple distances 50-100 yds, 5 shots each), I found myself missing more often when my rifle is canted compared to when it's level. Now I understand that canting your rifle is inevitably less accurate, but I suppose I want to know if I can blame the cant, or my horrible shooting.
+
+Maybe this is very obvious to many of you but I have never played around with or learned much about cant before and always used a bubble level (until today).
+Click to expand...
+Cant has very little if any effect on the actual accuracy of a rifle. What it does effect is shot placement. Shoot a group holding the rifle perfectly level then cant the gun perfectly at 20 degrees and shoot a group. Groups will be the same just in different places. Cant has effect at any range but the effect increases with distance.
+ 
+H
+honzo
+Private
+Minuteman
+Feb 26, 2022
+24
+16
+California
+Feb 13, 2024
+#8
+littlesister said:
+Cant has very little if any effect on the actual accuracy of a rifle. What it does effect is shot placement. Shoot a group holding the rifle perfectly level then cant the gun perfectly at 20 degrees and shoot a group. Groups will be the same just in different places. Cant has effect at any range but the effect increases with distance.
+I think you meant to say has little effect on precision but has an effect on accuracy. Precision is group size and accuracy is aim point.
+ 
+ 
+Reactions:
+RayDBonz
+H
+Hickswr
+Gunny Sergeant
+Full Member
+Minuteman
+Sep 5, 2019
+695
+716
+Alabama
+Feb 13, 2024
+#9
+It’s just math- https://www.snipershide.com/shooting/threads/how-to-estimate-error-due-to-rifle-cant.58093/
+ 
+BLEE
+SIC SEMPER TYRANNIS
+Full Member
+Minuteman
+Jan 29, 2020
+3,895
+4,798
+NW Louisiana
+Feb 13, 2024
+#10
+Can the scope be rotated to correct for cant?
+ 
+Last edited: Feb 13, 2024
+Gunfighter14e2
+Hunter/trapper of Remora's
+Full Member
+Minuteman
+Jul 9, 2002
+9,940
+15,136
+Lick skillet Alabama
+eham.net
+Feb 13, 2024
+#11
+BLEE said:
+Can the scope be rotated the scope to correct for cant?
+Yes, Look at how much cant David Tubb had on his rifle when shooting.
+ 
+ 
+Reactions:
+BLEE
+MadDuner
+Rankless Infidel
+Full Member
+Minuteman
+Sep 6, 2019
+5,249
+14,635
+Feb 13, 2024
+#12
+I would expect the height over bore to be a factor in the amount of error attributed to cant. If you have a 20 MOA mount - it’s going to make some trajectory cross on the horizontal plane if there’s very much cant.
+ 
+L
+littlesister
+Sergeant of the Hide
+Full Member
+Minuteman
+Feb 21, 2021
+309
+330
+alabama
+Feb 13, 2024
+#13
+honzo said:
+I think you meant to say has little effect on precision but has an effect on accuracy. Precision is group size and accuracy is aim point.
+No I said exactly what I intended to say. To further explain cant effect lets say we have a rifle capable of shooting 10 shot moa groups at 100yds mounted level in a vise. Now we cant the vise say 25 degrees and shoot a 10 shot group. The rifle will still shoot that 10 shot moa group, no better no worse. the only difference will be group placement. Also if the cant was clockwise of level the group will more than likely fall low right of the group shot level.
+ 
+C
+Conaso
+Private
+Full Member
+Minuteman
+Jul 8, 2011
+1,235
+1,937
+Virginia
+Feb 16, 2024
+#14
+Regarding the formula(s), the discussion on 'cant' spurred my interest. So, I 'googled' the topic. Should have known that I would find for horizontal error someone would specify sine with drop or maximum ordinate and for vertical error they would identify using cosine or tangent. I guess I should also mentioned was ToF and scope height. The only thing I understood was just "don't do it."
+ 
+L
+littlesister
+Sergeant of the Hide
+Full Member
+Minuteman
+Feb 21, 2021
+309
+330
+alabama
+Feb 17, 2024
+#15
+Conaso said:
+Regarding the formula(s), the discussion on 'cant' spurred my interest. So, I 'googled' the topic. Should have known that I would find for horizontal error someone would specify sine with drop or maximum ordinate and for vertical error they would identify using cosine or tangent. I guess I should also mentioned was ToF and scope height. The only thing I understood was just "don't do it."
+You're correct, cant effect can get very technical especially with long range shooters. My attempts to explain were probably not the best but I was trying to explain to the OP that cant doesn't effect how accurate a gun is only your ability to shoot that gun accurately. Like you said "Don't do it or do it the same shot to shot" Enough about can't
+ 
+F
+Fasteddie01
+Private
+Minuteman
+Feb 10, 2019
+94
+50
+Feb 18, 2024
+#16
+Sorry, but I don't have 'holes on paper' showing the difference of w- vs w-out a bubble level.
+But a year ago I got a CZ457 VMTR on an A-4919 30* rail and If I check the bubble I find I shoot better. I do document a lot of data but Not whether I'm looking at the level. I've shot over 1200 rounds of SK 'Flavors' and a couple hundred of 'lesser' ammo and find if I'm trying I can get 0.2xx-0.5xx" depending on the 'flavor'. Not really getting the 'high-priced spread' in ammo, SK-RM is the best I use. I find that bubble awkward to use but haven't switched to a 'scope-mounted' bubble yet. Winter is a time for changes . . .
+ 
+C
+chevy_man
+Old Salt
+Full Member
+Minuteman
+Jan 25, 2019
+4,155
+4,628
+Feb 19, 2024
+#17
+I mounted a sig tango 6 the other day with the internal level. +/- 1*, and I was rarely canting enough for it to point to me.
+
+Some of us don't notice or need it. Others have a need as they don't have an internal level. Cant is always going to induce a horizontal offset, however most times it's too small to notice.
+
+
+It's not uncommon to have misses just because you're not confident since your setup changed. I've seen many points dropped because of the mental game, not a lot due to equipment or lack of.
+ 
+H
+hlee
+Sergeant
+Full Member
+Minuteman
+Jul 14, 2012
+12,595
+19,586
+46
+TX
+Feb 20, 2024
+#18
+littlesister said:
+No I said exactly what I intended to say. To further explain cant effect lets say we have a rifle capable of shooting 10 shot moa groups at 100yds mounted level in a vise. Now we cant the vise say 25 degrees and shoot a 10 shot group. The rifle will still shoot that 10 shot moa group, no better no worse. the only difference will be group placement. Also if the cant was clockwise of level the group will more than likely fall low right of the group shot level.
+Click to expand...
+Yes, yes, yes. However, accuracy is hitting the target. A 10 shot group, regardless of how small, is only accurate if it hits the intended target. “Precision” is group size. This is why we refer to these rifles as “precision rifles” and not “accuracy rifles.” Cant absolutely affects the accuracy, as it moves the impact point of the bullet. If you shoot 3 groups; one with 10 deg left cant, one with 0 cant, and one with 10 deg right cant, you will have 3 distinct groups (in an idealized scenario) with three distinct points of impact. Assuming you zeroed the rifle with zero cant, only the zero cant group will be accurate. All three will be precise (as the shots within the strings formed groups), but only one will have actually centered the bullseye.
+
+Shoot 10 shots with 10 different amounts of cant and you will watch the impacts arc across the paper (it might be a really tiny arc ). This is the effect of rifle cant on accuracy.
+
+The unfortunate reality is that the precision shooting community has been very inaccurate about its shooting terminology for, ever…
+ 
+You must log in or register to reply here.
+Similar threads
+D
+	
+6.5 Creedmoor 100gr ELD-VT + Varget Load Development
+Dylan4570 Jul 18, 2024 Reloading Depot
+18
+Sunday at 3:01 PM
+	
+Trying some high end ammo at 300 yards.
+Topstrap Dec 25, 2023 All Things Rimfire
+4
+Apr 30, 2024
+V
+	
+Advice on Cartridge and Rifle (and a lot of other stuff) for High Accuracy Bolt Action Rifle
+VerSeven Oct 12, 2024 Bolt Action Rifles
+21
+Oct 24, 2024
+	
+Topstraps Longrange Rimfire Challenge 2024 Match Information
+Topstrap Mar 25, 2024 All Things Rimfire
+0
+Mar 25, 2024
+F
+	
+Ragnarok Sniper Challenge AAR
+fuddmann Aug 13, 2024 Competition Shooting Talk
+1
+Aug 13, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+All Things Rimfire
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/how-much-of-an-effect-does-cant-have-within-100yds.7207587/ 
+ ----- 

@@ -1,0 +1,135 @@
+Skip to main content
+Bullets Forever homepage
+a Washington Wizards community
+Follow Bullets Forever online:
+Log in or sign up
+Site search
+Search
+Bullets Forever main menu
+FANPOSTS
+MORE 
+ALL 300 COMMUNITIES ON 
+
+FILED UNDER:
+
+WASHINGTON WIZARDS STATISTICAL ANALYSIS
+The Numbers Crunch: Wizards vanquished by Magic
+
+Stats, analysis, commentary.
+
+By Kevin Broom@so_wizards  Nov 11, 2024, 7:00am EST  47 Comments / 47 New
+Share this story
+Share this on Facebook (opens in new window)
+Share this on Twitter (opens in new window)
+SHARE
+All sharing options
+
+The Washington Wizards traveled to Orlando and got blown out by a middling Magic squad missing its best player (Paolo Banchero) and starting center (Wendell Carter Jr.). The Wizards kept things respectable into the third quarter, at which point the Magic pulled away. Washington fell behind by as much as 33 in the fourth quarter. They lost by 27.
+
+So far this season, the Wizards have four losses by 20 or more points, as well as a 19-point defeat. Their eight games into an 82-game season. And that sixth loss was by 13. Yes, all six losses are by 10 or more points. They might need to send the Atlanta Hawks a gift basket thanking them for those two wins.
+
+Last night’s game — coming off a 24-point beating by the injury riddled Memphis Grizzlies — was rough, though not without bright spots.
+
+Bilal Coulibaly bounced back from a couple subpar games with a hyper-efficient 20 points, 6 rebounds, 6 assists. He was 9-11 from the floor (including a three) and had a steal and 3 blocks. He committed three turnovers, which is acceptable against the six assists. Coulibaly doesn’t force shots, but he was appropriately aggressive — attacking the defense when he had an advantage, taking open threes, and knocking down some pull-up jumpers. His final usage rate: 20.6% with a 143 offensive rating (points produced per possession x 100).
+
+Rookie forward Kyshawn George had a terrific first half, though he disappeared in the second. Still, he finished with 15 points on 9 shots, hit 4-8 from three, and had 7 rebounds. He committed a pair of turnovers and fouled out.
+
+Alex Sarr had a couple nice defensive moments, which included a steal and two blocks. He also hit a pair of threes. It was not a good game overall, but he had some positive flashes.
+
+On the not-so bright side, Jordan Poole had another haphazard game evocative of how he played last season. The decision-making was iffy and the defense nonexistent. After starting the season with positive playmaking, which culminated in a nine assist outing in the second win against the Hawks, Poole’s assists have disappeared. Since that 9-assist game, Poole has totaled 8 over the last four games.
+
+Jonas Valanciunas made all three of his field goal attempts...and committed three turnovers.
+
+Corey Kispert had yet another awful shooting night — 1-7 from the floor and 0-3 from deep. In the second half, Kispert turned down a couple open three-point attempts and tried to drive. That didn’t work out so well.
+
+Head coach Brian Keefe has gone with a tight rotation so far this season. When the game still seemed competitive, he’d used basically seven guys for real minutes: Coulibaly, George, Sarr, Poole, Carrington, Valanciunas, and Kispert. With Kyle Kuzma and Malcolm Brogdon injured, this makes sense. They’re playing the four youngsters that might be part of the team when it’s good again, plus available veterans to (in theory) provide some professionalism and stability.
+
+The good thing about the rotation: the kids are getting lots of playing time. Once again, more than half the team’s minutes went to players 20 years old or younger. A team playing this many youngsters and middling veterans is going to take its lumps in a lot of games, and last night’s matchup with the Magic is an example of it.
+
+The payoff for suffering through it may come in a few years. For now, enjoy those flashes and hope they turn into steady production.
+
+Four Factors
+
+Below are the four factors that decide wins and losses in basketball — shooting (efg), rebounding (offensive rebounds), ball handling (turnovers), fouling (free throws made).
+
+Four Factors: Wizards at Magic
+﻿FOUR FACTORS	WIZARDS	MAGIC
+
+EFG	0.528	0.544
+OREB	7	15
+TOV	16	11
+FTM	18	22
+PACE	93	
+ORTG	101	129
+Stats & Metrics
+
+Below are a few performance metrics, including the Player Production Average (PPA) Game Score. PPA is my overall production metric, which credits players for things they do that help a team win (scoring, rebounding, playmaking, defending) and dings them for things that hurt (missed shots, turnovers, bad defense, fouls).
+
+Game Score (GmSC) converts individual production into points on the scoreboard. The scale is the same as points and reflects each player’s total contributions for the game. The lowest possible GmSC is zero.
+
+PPA is a per possession metric designed for larger data sets. In small sample sizes, the numbers can get weird. In PPA, 100 is average, higher is better and replacement level is 45. For a single game, replacement level isn’t much use, and I reiterate the caution about small samples sometimes producing weird results.
+
+POSS is the number of possessions each player was on the floor in this game.
+
+ORTG = offensive rating, which is points produced per individual possessions x 100. League average last season was 114.8. Points produced is not the same as points scored. It includes the value of assists and offensive rebounds, as well as sharing credit when receiving an assist.
+
+USG = offensive usage rate. Average is 20%.
+
+ORTG and USG are versions of stats created by former Wizards assistant coach Dean Oliver and modified by me. ORTG is an efficiency measure that accounts for the value of shooting, offensive rebounds, assists and turnovers. USG includes shooting from the floor and free throw line, offensive rebounds, assists and turnovers.
+
++PTS = “Plus Points” is a measure of the points gained or lost by each player based on their efficiency in this game compared to league average efficiency on the same number of possessions. A player with an offensive rating (points produced per possession x 100) of 100 who uses 20 possessions would produce 20 points. If the league average efficiency is 114, the league — on average — would produced 22.8 points in the same 20 possessions. So, the player in this hypothetical would have a +PTS score of -2.8.
+
+Stats & Metrics: Wizards
+﻿WIZARDS	MIN	POSS	ORTG	USG	+PTS	PPA	GmSC	+/-
+
+Bilal Coulibaly	37	72	143	20.6%	4.5	215	36.1	-24
+Kyshawn George	34	67	119	15.6%	0.6	66	10.4	-22
+Alexandre Sarr	25	48	102	25.2%	-1.4	68	7.7	-19
+Jordan Poole	31	60	101	33.7%	-2.5	42	5.9	-12
+Jonas Valanciunas	18	36	108	19.0%	-0.4	46	3.9	-8
+Carlton Carrington	31	61	85	9.6%	-1.7	-5	-0.7	-22
+Anthony Gill	5	9	157	15.7%	0.6	177	0.0	0
+Jared Butler	9	18	163	18.3%	1.7	78	0.0	-2
+Marvin Bagley III	9	17	57	15.6%	-1.5	-28	0.0	-4
+Johnny Davis	5	9	64	25.3%	-1.2	-61	0.0	0
+Patrick Baldwin Jr.	11	22	36	21.5%	-3.6	-73	0.0	-3
+Corey Kispert	25	48	34	17.2%	-6.5	-100	0.0	-19
+Stats & Metrics: Magic
+﻿MAGIC	MIN	POSS	ORTG	USG	+PTS	PPA	GmSC	+/-
+
+Goga Bitadze	22	42	207	14.9%	5.9	340	33.4	13
+Franz Wagner	29	56	131	30.7%	3.1	223	29.1	16
+Anthony Black	22	43	178	16.3%	4.6	271	27.5	16
+Cole Anthony	15	30	181	27.4%	5.5	308	21.5	6
+Moritz Wagner	23	44	128	27.6%	1.8	159	16.3	18
+Tristan da Silva	32	62	112	15.0%	-0.1	60	8.6	21
+Gary Harris	19	36	121	10.2%	0.3	73	6.2	9
+Jonathan Isaac	19	37	93	14.4%	-1.1	55	4.7	5
+Kentavious Caldwell-Pope	28	55	107	15.9%	-0.5	35	4.4	16
+Jalen Suggs	18	35	56	28.2%	-5.7	-219	0.0	15
+Jett Howard	5	11	325	19.5%	4.4	861	0.0	4
+Cory Joseph	5	9	48	27.1%	-1.7	38	0.0	0
+Caleb Houstan	4	7	0	9.4%	-0.8	-261	0.0	-4
+Sponsored Content
+Loading comments...
+Chorus
+	
+FanPosts
+Masthead
+Community Guidelines
+Facebook
+Twitter
+YouTube
+	
+Contact Have a News Tip? Browse Blogs SB Nation Masthead Company Blog Blog Openings Editorial Ethics and Guidelines
+Vox Media
+Terms of Use Privacy Notice Cookie Policy Do Not Sell or Share My Personal Data  Licensing FAQ Accessibility Platform Status Advertise with us Jobs @ Vox Media
+© 2025 Vox Media, LLC. All Rights Reserved
+
+
+Gambling Problem? Call 1-800-GAMBLER (1-800-426-2537). Hope is here. GamblingHelpLineMA.org or call (800) 327-5050 for 24/7 support (MA). Visit www.mdgamblinghelp.org (MD). Call 877-8HOPE-NY or text HOPENY (467369) (NY). 21+ (18+ D.C.) and present in select states (for KS, in affiliation with Kansas Star Casino). Call 1-888-789-7777 or visit ccpg.org/chat (CT) or visit FanDuel.com/RG.
+ 
+ 
+ ----- 
+ Source link : https://www.bulletsforever.com/2024/11/11/24293284/washington-wizards-orlando-magic-nba-statistical-analysis 
+ ----- 

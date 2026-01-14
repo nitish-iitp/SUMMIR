@@ -1,0 +1,269 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+The Armory
+Suppressor recommendation for Lever action rifles
+ 
+Thread starter
+felix5616  
+Start date
+Apr 24, 2024
+felix5616
+Private
+Full Member
+Minuteman
+Sep 1, 2010
+236
+32
+New Hampshire
+Apr 24, 2024
+#1
+I have 3 lever action rifles, chambered in .357, 44 mag and 45-70. Is there a suppressor that will handle all these loads?
+ 
+ 
+Reactions:
+GAl08
+Zak Smith
+TBAC Guy
+Full Member
+Minuteman
+Commercial Supporter
+Nov 7, 2003
+3,638
+3,576
+Fort Collins, CO, USA
+thunderbeastarms.com
+Apr 24, 2024
+#2
+Fly45
+ 
+ 
+Reactions:
+FuhQ and Schamsy33
+WindstormSCR
+Gunny Sergeant
+Full Member
+Minuteman
+Jun 28, 2021
+854
+722
+Maryland
+Apr 24, 2024
+#3
+Fly45, Dead Air Primal, Silencerco Hybrid 46
+
+I use a dead air primal personally, but any of the above will give good results
+ 
+J
+JoeZ
+Project Appleseed
+Full Member
+Minuteman
+Jan 16, 2012
+273
+315
+SE Wisconsin
+Apr 24, 2024
+#4
+Griffin Bushwacker 46.
+ 
+ 
+Reactions:
+Gasboater
+G
+GAl08
+Private
+Minuteman
+Apr 4, 2024
+14
+4
+Virginia
+Apr 24, 2024
+#5
+If you are going to keep the rifle/pistol you can always have a gunsmith silver solder a sleeve over the end of your barrel and thread it.... a little more expensive that way but would work...
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,236
+10,707
+Your Wife's Pussy
+Apr 24, 2024
+#6
+felix5616 said:
+I have 3 lever action rifles, chambered in .357, 44 mag and 45-70. Is there a suppressor that will handle all these loads?
+TBAC FLY45, Rugged Obsidian 45, or Dead Air Primal would be your best bets. 
+
+You will want a fixed mount for whichever one you go with. You DO NOT run a booster setup on a rifle with a pistol can, it will destroy the can. You can either buy what is called a "fixed barrel spacer", which is just a solid piece of steel that replaces the spring in your booster setup, or you can drop the coin on a true fixed mount that screws into the back of the can and allows you to have a proper blast chamber and will be quieter, and overall lighter and better. It will cost more, but will be better in the long-run.
+ 
+ 
+Reactions:
+Yondering
+Y
+Yondering
+Sergeant
+Full Member
+Minuteman
+Mar 16, 2017
+2,432
+2,009
+Skagit Valley, WA
+Apr 25, 2024
+#7
+Yep, Rugged Obsidian 45 as said above - good balance of price vs performance, and rated as one of the quieter big bore pistol suppressors. Of course you could look at a dedicated SMG can (fixed mount, and generally larger than pistol cans) if you don't want to also use this on a semi-auto pistol, but I'm not as familiar with SMG suppressor options these days so I'll leave it at that.
+
+If you have one of those lever guns shortened at 16" (or even shorter as an SBR - respect!) and want a short compact suppressor, the Obsidian 45 is modular and can be used in a short configuration. It's definitely a bit louder that way though.
+
+One comment for 45/70 use though - Rugged doesn't say in their literature, but having designed and machined a number of F1 cans, and looking at how this one is made, I'd be a little worried about using it with full house 1895 Marlin loads. My guess is that rating is intended for Trapdoor level ammo, which most factory loads are. A few places like Buffalo Bore sell the hotter loads intended only for strong lever guns and Ruger #1s, so use caution if you want to suppress those; they put out a lot more gas volume and pressure at the muzzle.
+
+I think that Fly45 is a great option too, if it's in your budget.
+ 
+G
+Gasboater
+Private
+Minuteman
+Sep 29, 2023
+16
+15
+Cleveland TN
+Apr 25, 2024
+#8
+I have the Bushwhacker 46. Awesome can that works great on other calibers too because of the replaceable end caps.
+ 
+ 
+Reactions:
+JoeZ
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,236
+10,707
+Your Wife's Pussy
+Apr 25, 2024
+#9
+Yondering said:
+Yep, Rugged Obsidian 45 as said above - good balance of price vs performance, and rated as one of the quieter big bore pistol suppressors. Of course you could look at a dedicated SMG can (fixed mount, and generally larger than pistol cans) if you don't want to also use this on a semi-auto pistol, but I'm not as familiar with SMG suppressor options these days so I'll leave it at that.
+
+If you have one of those lever guns shortened at 16" (or even shorter as an SBR - respect!) and want a short compact suppressor, the Obsidian 45 is modular and can be used in a short configuration. It's definitely a bit louder that way though.
+
+One comment for 45/70 use though - Rugged doesn't say in their literature, but having designed and machined a number of F1 cans, and looking at how this one is made, I'd be a little worried about using it with full house 1895 Marlin loads. My guess is that rating is intended for Trapdoor level ammo, which most factory loads are. A few places like Buffalo Bore sell the hotter loads intended only for strong lever guns and Ruger #1s, so use caution if you want to suppress those; they put out a lot more gas volume and pressure at the muzzle.
+
+I think that Fly45 is a great option too, if it's in your budget.
+Click to expand...
+Rugged rates it as .45-70 safe, just as long as it’s 16” or longer barrel.
+
+
+https://ruggedsuppressors.com/suppressor-guide-cat/caliber-ratings/
+
+
+ 
+Y
+Yondering
+Sergeant
+Full Member
+Minuteman
+Mar 16, 2017
+2,432
+2,009
+Skagit Valley, WA
+Apr 26, 2024
+#10
+FuhQ said:
+Rugged rates it as .45-70 safe, just as long as it’s 16” or longer barrel.
+
+
+https://ruggedsuppressors.com/suppressor-guide-cat/caliber-ratings/
+
+View attachment 8404496
+
+Thanks captain obvious.
+
+Seriously dude, you should spend a little more time reading what other people have said before rushing to reply.
+ 
+felix5616
+Private
+Full Member
+Minuteman
+Sep 1, 2010
+236
+32
+New Hampshire
+Apr 26, 2024
+#11
+thanks all for the recommendations. i'll get whatever is in stock.
+ 
+You must log in or register to reply here.
+Similar threads
+	
+44 Magnum ammo question.
+Maggot Dec 4, 2024 The Armory
+20
+Dec 14, 2024
+W
+	
+357 Lever Action with Threaded Barrel Options?
+wcoats Jun 4, 2024 The Armory
+13
+Jun 7, 2024
+B
+	
+AR-10 Winchester Hunting Suppressor
+Brookky Dec 16, 2024 The Armory
+9
+Dec 19, 2024
+	
+Sticky
+Suppressors .30 or .22: Best First Suppressor?
+Lowlight Nov 21, 2024 The Armory
+35
+Thursday at 10:45 AM
+G
+	
+SOLD WTS B&T APC10 Pro NIB
+generalzip May 29, 2024 Buy - Sell - Trade
+15
+Jul 17, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+The Armory
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/suppressor-recommendation-for-lever-action-rifles.7216144/ 
+ ----- 

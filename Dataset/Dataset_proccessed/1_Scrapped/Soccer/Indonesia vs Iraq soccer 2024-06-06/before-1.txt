@@ -1,0 +1,334 @@
+Snowflake, Ticketmaster & Santander Breaches: A Live Timeline
+
+Date: 5 June 2024
+
+Santander Bank staff & 30 million customers' data has allegedly been breached. Ticketmaster has suffered what could potentially be the biggest data breach in history, with credentials of 530 million customers supposedly being compromised. Snowflake says it's not to be blamed. What exactly is going on and who is at fault? We try to make sense of this messy, complicated, seemingly intertwined cybersecurity breach saga in this Live Timeline. 
+
+This is a live document that we will keep updating as News on these inter-connected cybersecurity attacks unravel. We have only compiled all the information freely available in the public domain, with trusted news portals as our primary source. The idea is to merely make sense of the massive breaches that have come to light and how they're related to each other. As always, the goal is to educate you, the reader with information in an easy-to-read Cyber Attack Timeline format. We neither intend to vilify any victim nor take responsibility for information, inputs and opinions of the sources from which we've collated the updates. 
+
+This Live Timeline on the Snowflake Breach presents all the updates known so far in a chronological order. You might also want to consider downloading our FREE Snowflake Cyber Attack Timeline Visual Summary. This summary image presents all the facts in bite-sized, easy to consume nuggets for your quick reference. 
+
+You'll find below succinctly presented facts on: 
+
+1. What is Snowflake? 
+2. What is the Incident? 
+3. What is the Known Impact so far? 
+4. What actions have Snowflake, Ticketmaster & Santander taken?  
+
+If you'd like to add anything to this timeline or offer suggestions on fact accuracy, don't hesitate to let us know on info@cm-alliance.com. This is a collaborative, live document intended to empower the entire community with better knowledge and resources to bolster our cyber defences against attacks such as these in the future.   
+
+ 
+
+About Snowflake  
+Snowflake Inc (Snowflake) is a data cloud company. The company offers a cloud computing platform that is designed to consolidate data, drive insights, apply artificial intelligence to solve business problems, build data applications and facilitate data sharing. 
+It is a globally-distributed enterprise, with more than 6,780 employees working in over 40 offices worldwide (as of October 2023). 
+Its services consist of data warehouse modernisation, analytics, data exchange and engineering, data science and others. Snowflake's platform supports a wide range of workloads, including data warehousing, data lakes, data engineering, artificial intelligence and machine learning, applications, collaboration, cybersecurity and Unistore. 
+The company caters to government, financial services, healthcare and life sciences, media and entertainment, retail and consumer packaged goods, education and technology sectors. 
+It operates in the Asia-Pacific, Americas, and EMEA regions. Snowflake is headquartered in Bozeman, Montana, the US.  
+
+
+Snowflake's cloud services are used by 9,437 customers, including high-profile companies worldwide, such as Adobe, AT&T, Kraft Heinz, Mastercard, Micron, Capital One, DoorDash, HP, Nielsen, Novartis, Okta, PepsiCo, Siemens, Instacart, JetBlue, NBC Universal, US Foods, Western Union, Yamaha, and many others
+
+Back to Top
+
+ 
+
+ 
+
+What is the Incident? What Do We Know So Far?
+
+May 31, 2024: Threat Actor takes responsibility for Santander & Ticketmaster breaches. Says accomplished feat by hacking into Snowflake employee account. Snowflake denies the claim - According to BleepingComputer’s report, a threat actor claiming responsibility for the recent Santander and Ticketmaster breaches said they stole data after hacking into an employee's account at cloud storage company Snowflake. The source also said Snowflake disputed these claims, saying recent breaches were caused by poorly secured customer accounts. 
+
+
+May 31, 2024: Many more victims of the Snowflake breach, says threat actor - BleepingComputer said according to cybersecurity firm Hudson Rock, the threat actor claimed they also gained access to data from other high-profile companies using Snowflake's cloud storage services, including Anheuser-Busch, State Farm, Mitsubishi, Progressive, Neiman Marcus, Allstate, and Advance Auto Parts. 
+
+
+May 31, 2024: According to BleepingComputer’s report, Hudson Rock said hackers bypassed Okta's secure authentication process by signing into a Snowflake employee's ServiceNow account using stolen credentials. In addition, they claimed they could generate session tokens to exfiltrate data belonging to Snowflake customers. 
+
+
+Hudson Rock said: "To put it bluntly, a single credential resulted in the exfiltration of potentially hundreds of companies that stored their data using Snowflake, with the threat actor himself suggesting 400 companies are impacted.  [T]he threat actor shared with Hudson Rock's researchers, which shows the depth of their access to Snowflake servers. This file documents over 2,000 customer instances relating to Snowflake's Europe servers." 
+
+
+May 31, 2024: The SecurityWeek said overall, roughly 400 organisations were impacted allegedly by the Snowflake incident. The threat actor claimed that they wanted to receive $20 million from Snowflake in exchange for the data.
+
+
+May 31, 2024: Snowflake says bad actor only accessed Demo account, NOT containing any sensitive information- According to The Verge, Snowflake said that while a bad actor accessed a “demo account” belonging to a former employee, it didn’t contain sensitive information. It claimed that “To date, we do not believe this activity is caused by any vulnerability, misconfiguration, or malicious activity within the Snowflake product.” 
+
+
+May 31, 2024: The Verge said before Snowflake came to the picture, Live Nation’s subsidiary Ticketmaster confirmed the breach. Malware tracker vx-underground said it could assert “with a high degree of confidence” that the leaked data is legitimate. It noted that some of the leaked information dates back to the mid-2000s and includes full names, emails, addresses, phone numbers, hashed credit card numbers, and more. The Verge also said earlier this month, Santander published a statement to confirm that “certain information” of customers in Chile, Spain, and Uruguay had been accessed. The Verge reached out to Ticketmaster and Santander with requests for comment but didn’t immediately hear back. 
+
+
+June 01, 2024: According to the SecurityWeek, the Australian Cyber Security Center announced that it was aware of “successful compromises of several companies utilising Snowflake environments”, and that it was tracking increased threat activity relating to Snowflake customer environments. 
+
+
+June 02, 2024: Snowflake gives an update on the incident on its website - The statement said: “Snowflake recently observed and is investigating an increase in cyber threat activity targeting some of our customers’ accounts. We believe this is the result of ongoing industry-wide, identity-based attacks with the intent to obtain customer data. Research indicates that these types of attacks are performed with our customers’ user credentials that were exposed through unrelated cyber threat activity.” 
+
+Snowflake denies that the breach was caused by a vulnerability in its product - It added, “To date, we do not believe this activity is caused by any vulnerability, misconfiguration, or malicious activity within the Snowflake product. Throughout the course of our ongoing investigation, we have promptly informed the limited number of customers who we believe may have been impacted.” 
+
+
+June 02, 2024: The BBC said hackers attempted to sell what they say is confidential information belonging to millions of Santander staff and customers. They belong to the same gang which this also claimed to have hacked Ticketmaster. 
+
+
+June 02, 2024: Santander confirms massive data breach - The BBC reported that Santander confirmed data has been stolen as the bank has apologised for what it says is "the concern this will understandably cause" adding it is "proactively contacting affected customers and employees directly." It told the BBC that "UK customer data was not affected or lost in the hack". Santander also said its banking systems were unaffected so cthe ustomers could continue to "transact securely." 
+
+
+June 02, 2024: Cybersecurity researcher Kevin Beaumont says massive data exfiltration activity via Snowflake took place in May. Highlights the Ticketmaster breach that could be the largest yet - He said in a blog posted on DoublePulsar that there were several large data breaches playing out in the media currently. For example, Ticketmaster owner Live Nation filed an 8-K with the SEC for potentially the largest data breach ever, allegedly affecting 560 million customers. Additionally incidents are running at multiple other companies who are Snowflake customers where full databases have been taken - “I have spoken to people in multiple industries at large corporations where they’ve had significant data exfiltration in May via Snowflake,” he said. 
+
+
+June 02, 2024: Researchers say hacker's claims and Snowflake's own statement point to loopholes in the cloud  giant's story- The SecurityWeek said Snowflake may claim that it was not the victim of a data breach, but the attackers’ claims and Snowflake’s own statement show otherwise, security researcher Kevin Beaumont pointed out: One of their employees’ accounts was not properly secured and the employee was infected with an infostealer. Thus, the researcher said, while it tries to blame its customers for the activity of the threat actor, Snowflake too is responsible for the incident. He added: “Snowflake themselves fell into this trap, by both not using multi factor authentication on their demo environment and failing to disable a leaver’s access". 
+
+
+June 02, 2024: Snowflake, CrowdStrike & Mandiant issue a joint statement denying that the ongoing threat campaign had anything to do with a vulnerability in the Snowflake product -
+The statement said: “Snowflake and third-party cybersecurity experts, CrowdStrike and Mandiant, are providing a joint statement related to our ongoing investigation involving a targeted threat campaign against some Snowflake customer accounts. Our key preliminary findings identified to date are:
+We have not identified evidence suggesting this activity was caused by compromised credentials of current or former Snowflake personnel.
+This appears to be a targeted campaign directed at users with single-factor authentication.
+As part of this campaign, threat actors have leveraged credentials previously purchased or obtained through infostealer malware.
+We did find evidence that a threat actor obtained personal credentials to and accessed demo accounts belonging to a former Snowflake employee. It did not contain sensitive data. Demo accounts are not connected to Snowflake’s production or corporate systems. The access was possible because the demo account was not behind Okta or Multi-Factor Authentication (MFA), unlike Snowflake’s corporate and production systems. 
+
+
+
+June 04, 2024: The Register said Hudson Rock, citing legal pressure from Snowflake, removed its online report that claimed miscreants broke into the cloud storage and analytics giant's underlying systems and stole data from potentially hundreds of customers including Ticketmaster and Santander Bank.
+
+June 05, 2024: TechCrunch released a detailed report on the incident saying it did not test the stolen usernames and passwords, as doing so would break the law. Instead, TechCrunch worked to verify the authenticity of the exposed credentials in other ways. This includes checking the individual login pages of the Snowflake environments that were exposed by the infostealing malware, which were still active and online at the time of writing. The publication claims the credentials it saw included the employee’s email address (or username), their password, and the unique web address for logging in to their company’s Snowflake environment. TechCrunch also said when it checked the web addresses of the Snowflake environments - often made up of random letters and numbers - it found the listed Snowflake customer login pages are publicly accessible, even if not searchable online.
+
+
+
+June 05, 2024: Advance Auto Parts allegedly becomes a victim of the Snowflake Attack fallout - According to BleepingComputer, threat actors claimed to be selling 3 TB of data from Advance Auto Parts, a leading automotive aftermarket parts provider, stolen after breaching the company's Snowflake account. BleepingComputer claimed it was able to confirm that a large number of Advance Auto Parts customer records were legitimate.
+
+June 06, 2024: BleepingComputer said Los Angeles Unified School District (LAUSD) officials investigated a threat actor's claims that they're selling stolen databases containing records belonging to millions of students and thousands of teachers. The threat actor claimed that he/she was selling the allegedly stolen data for $1,000 saying the CSV files put up for sale contain over 11 GB of data, as first spotted by Dark Web Informer. These files included over 26 million records with student information, more than 24,000 teacher records, and around 500 containing staff information.
+
+
+June 07, 2024: TechCrunch confirmed that the Snowflake environments correspond to the companies whose employees’ logins were compromised. The source said it was able to do this because each login page it checked had two separate options to sign in. One way to log in relies on Okta, a single sign-on provider that allows Snowflake users to sign in with their own company’s corporate credentials using MFA. 
+
+
+June 07, 2024: In its checks, TechCrunch found that these Snowflake login pages redirected to Live Nation (for Ticketmaster) and Santander sign-in pages. TechCrunch added it also found a set of credentials belonging to a Snowflake employee, whose Okta login page still redirects to an internal Snowflake login page that no longer exists.
+
+
+June 07, 2024: LendingTree links data breach to Snowflake - After Ticketmaster, loan comparison site LendingTree confirmed its QuoteWizard subsidiary had data stolen through the Snowflake breach, as per TechCrunch. Megan Greuling, a spokesperson for LendingTree, told TechCrunch: 
+“We can confirm that we use Snowflake for our business operations, and that we were notified by them that our subsidiary, QuoteWizard, may have had data impacted by this incident,” 
+“We take these matters seriously, and immediately after hearing from [Snowflake] launched an internal investigation,” the spokesperson said. 
+“As of this time, it does not appear that consumer financial account information was impacted, nor information of the parent entity, LendingTree,” the spokesperson added, declining to comment further citing its ongoing investigation.
+
+
+June 07, 2024: TechCrunch also said that in a statement, Snowflake held strong on its response so far, stating its position “remains unchanged.” Citing its earlier statement, Snowflake chief information security officer Brad Jones said that this was a “targeted campaign directed at users with single-factor authentication” and using credentials stolen from info-stealing malware or obtained from previous data breaches. According to TechCrunch, the lack of MFA appeared to be how cybercriminals downloaded huge amounts of data from Snowflake customers’ environments, which weren’t protected by the additional security layer.
+
+
+June 10, 2024: The Register said the crew behind the Snowflake intrusions may have ties to Scattered Spider, aka UNC3944 - the notorious gang behind the mid-2023 Las Vegas casino breaches.
+
+
+June 10, 2024: Google owned threat intelligence firm Mandiant tracked the threat actor as UNC5537 as it said in its blog: 
+
+“Mandiant has identified a threat campaign targeting Snowflake customer database instances with the intent of data theft and extortion. Mandiant tracked this cluster of activity as UNC5537, a financially motivated threat actor suspected to have stolen a significant volume of records from Snowflake customer environments. UNC5537 is systematically compromising Snowflake customer instances using stolen customer credentials, advertising victim data for sale on cybercrime forums, and attempting to extort many of the victims”.
+
+
+June 10, 2024: Mandiant provided details on the incident in its blog as it said it identified that the threat actor used Snowflake customer credentials that were previously exposed via several infostealer malware variants, including; VIDAR, RISEPRO, REDLINE, RACOON STEALER, LUMMA and METASTEALER.
+
+
+June 10, 2024: For the organisations that directly engaged Mandiant for incident response services, Mandiant determined the root cause of their Snowflake instance compromise was exposed credentials. Further, according to Mandiant and Snowflake’s analysis, at least 79.7% of the accounts leveraged by the threat actor in this campaign had prior credential exposure. Mandiant said the earliest infostealer infection date observed associated with a credential leveraged by the threat actor dated back to November 2020. 
+
+
+June 10, 2024: According to Mandiant’s findings, it said that in several Snowflake related investigations, Mandiant observed that the initial compromise of infostealer malware occurred on contractor systems that were also used for personal activities, including gaming and downloads of pirated software.
+
+
+June 10, 2024: Initial access to Snowflake customer instances often occurred via the native web-based UI (SnowFlake UI AKA SnowSight) and/or command-line interface (CLI) tool (SnowSQL) running on Windows Server 2022. Mandiant identified additional access leveraging an attacker-named utility, “rapeflake”, which Mandiant tracks as FROSTBITE.
+
+
+June 11, 2024: Pure Storage confirms attackers breached its Snowflake workspace - According to BleepingComputer, Pure Storage, a leading provider of cloud storage systems and services - (More than 11,000 customers use Pure Storage's data storage platform, including high-profile companies and organisations like Meta, Ford, JP Morgan, NASA, NTT, AutoNation, Equinix, and Comcast.), confirmed that attackers breached its Snowflake workspace and gained access to what the company describes as telemetry information.
+
+Back to Top
+
+ 
+
+What has the Impact of the alleged Snowflake attack been so far?
+May 28, 2024: Santander confirms data breach - It shared details on its official website saying: 
+“We recently became aware of unauthorised access to a Santander database hosted by a third-party provider. We immediately implemented measures to contain the incident, including blocking the compromised access to the database and establishing additional fraud prevention controls to protect affected customers,” 
+“Following an investigation, we have now confirmed that certain information relating to customers of Santander Chile, Spain and Uruguay, as well as all current and some former Santander employees of the group had been accessed. Customer data in all other Santander markets and businesses are not affected.”
+
+
+
+May 28, 2024: BloombergLaw said according to a proposed class action, Ticketmaster LLC acted negligently in failing to protect consumers’ personally identifiable information from a reported breach. The private information of 560 million Ticketmaster customers was supposedly compromised by the hacker group “ShinyHunters” on or around May 28 and then placed for sale on dark-web forums, according to reports cited by the complaint filed in the U.S. District Court for the Central District of California on Wednesday. As per BloombergLaw’s report, the complaint highlighted that Ticketmaster hasn’t confirmed the breach and the company didn’t immediately respond to a request for comment. The lawsuit also named Ticketmaster’s parent company, Live Nation Entertainment, Inc. 
+
+May 31, 2024: According to BleepingComputer, Hudson Rocks’ report said the threat actor claimed they wanted to blackmail Snowflake into buying back the data they had allegedly stolen for $20 million, but the company didn't reply to their extortion attempts. 
+
+
+May 31, 2024: Hudson Rock added that a Snowflake employee was infected by a Lumma-type Infostealer in October. The malware stole their corporate credentials to Snowflake infrastructure, as seen in a screenshot shared by the threat actor and embedded below. Source: BleepingComputer. 
+
+
+May 31, 2024: Snowflake didn't confirm Hudson Rock's report, as per BleepingComputer. Instead the company stated that the attacker compromised customer accounts in these breaches, and didn't exploit any vulnerability or misconfiguration in the company's products. The cloud storage provider also warned customers on May 31 that it's investigating "an increase" in attacks targeting some of their accounts, with Snowflake CISO Brad Jones adding that some customer accounts were compromised on May 23.
+
+Key points from the CEO's statements are as follows: 
+"We became aware of potentially unauthorised access to certain customer accounts on May 23, 2024. During our investigation, we observed increased threat activity beginning mid-April 2024 from a subset of IP addresses and suspicious clients we believe are related to unauthorised access. 
+
+
+We notified all customers of the attacks and urged them to secure their accounts and data by enabling multi-factor authentication (MFA)."
+
+ 
+
+May 31, 2024: The massive Ticketmaster data breach is also apparently a fallout of the alleged Snowflake compromise. As per The Record, cybercriminals claimed to have information belonging to more than a half-billion customers, including partial credit card details. 
+
+
+May 31, 2024: Ticketmaster confirms data breach in 8k filing - According to The Record Future, Ticketmaster provided details of the incident in its SEC 8k filing as follows: 
+“On May 20, 2024, Live Nation Entertainment, Inc. (the “Company” or “we”) identified unauthorised activity within a third-party cloud database environment containing Company data (primarily from its Ticketmaster L.L.C. subsidiary) and launched an investigation with industry-leading forensic investigators to understand what happened. On May 27, 2024, a criminal threat actor offered what it alleged to be Company user data for sale via the dark web.
+We are working to mitigate risk to our users and the Company, and have notified and are cooperating with law enforcement. As appropriate, we are also notifying regulatory authorities and users with respect to unauthorised access to personal information. 
+As of the date of this filing, the incident has not had, and we do not believe it is reasonably likely to have, a material impact on our overall business operations or on our financial condition or results of operations.” 
+
+
+May 31, 2024: ShinyHunters allegedly stone 1.3 TB of Ticketmaster data - According to BleepingComputer, ShinyHunters attempted to sell the Ticketmaster data on a hacking forum for $500K. The allegedly stolen databases supposedly contained 1.3 TB of data, including customers' full details (i.e., names, home and email addresses, and phone numbers), as well as ticket sales, order, and event information for 560 million customers.
+
+
+June 02, 2024: The BBC reiterated that hackers claimed theft of information belonging to millions of Santander staff and customers. A post on a hacking forum spotted by researchers at Dark Web Informer said the group calling themselves ‘ShinyHunters’ posted an advert saying they had data including:
+30 million people’s bank account details
+6 million account numbers and balances
+28 million credit card numbers
+HR information for staff    
+
+
+June 05, 2024: A source with knowledge of cybercriminal operations apparently pointed TechCrunch to a website where would-be attackers can search through lists of credentials that have been stolen from various sources, such as infostealing malware on someone’s computer or collated from previous data breaches.
+
+
+June 05, 2024: TechCrunch said it, apparently, saw more than 500 credentials containing employee usernames and passwords, along with the web addresses of the login pages for the corresponding Snowflake environments. The exposed credentials appear to pertain to Snowflake environments belonging to Santander, Ticketmaster, at least two pharmaceutical giants, a food delivery service, a public-run freshwater supplier, and others.
+
+
+June 05, 2024: There is also, allegedly, some evidence to suggest that several employees with access to their company’s Snowflake environments had their computers previously compromised by infostealing malware, as per TechCrunch. According to a check on breach notification service Have I Been Pwned, several of the corporate email addresses used as usernames for accessing Snowflake environments were found in a recent data dump containing millions of stolen passwords scraped from various Telegram channels used for sharing stolen passwords.
+
+
+June 05, 2024: Snowflake said in a statement: 
+“It is suspending certain user accounts where there are strong indicators of malicious activity.” 
+Snowflake added: “Under Snowflake’s shared responsibility model, customers are responsible for enforcing MFA with their users.” 
+The spokesperson said Snowflake was “considering all options for MFA enablement, but we have not finalised any plans at this time.”
+
+
+June 05, 2024: BleepingComputer said as the threat actor (using the Sp1d3r handle) revealed, the massive archive of data stolen from Advance's Snowflake cloud storage environment includes:
+380 million customer profiles (name, email, mobile, phone, address, and more)
+140 million customer orders
+44 million Loyalty/Gas card numbers (with customer details)
+Auto parts/part numbers
+Sales history
+Employment candidate info with SSNs, driver's licence numbers, and demographic details
+Transaction tender details
+While they also mentioned they're selling the stolen information of 358,000 employees, the company currently has around 68,000. The difference could be old data belonging to former employees and associates.
+
+
+June 05, 2024: The threat actor selling Advance's data for $1.5 million on a hacking forum told BleepingComputer that the data had been stolen in recent attacks targeting cloud storage company Snowflake customers since at least mid-April 2024.
+
+
+June 05, 2024: The threat actor also told BleepingComputer that the automotive company is not the only Snowflake customer whose data was exfiltrated. Some Snowflake customers have also allegedly already paid to get their data back after being contacted by the attackers, according to the threat actor, but BleepingComputer has not been able to independently confirm if this was true.
+
+
+June 05, 2024: Darryl Carr, a spokesperson from Snowflake, told Wired: 
+“We are aware of reports that Advance may be involved in a security incident related to Snowflake,” 
+“We are investigating the matter and do not have further information to share at this time. We have not experienced any impact to our operations or systems.”
+
+
+June 05, 2024: Wired said there were some unclear origins as there was very limited information available regarding the Sp1d3r account advertising data on BreachForums, and it was not clear whether ShinyHunters obtained the data it was selling from another source or directly from victims’ Snowflake accounts - information about the Ticketmaster and Santander breaches was originally posted on another cybercrime forum by a new user called SpidermanData.
+
+
+June 05, 2024: The Sp1d3r account posted on BreachForums that the 2 terabytes of alleged LendingTree and QuoteWizard data was for sale for $2 million; while 3 TB of data allegedly from Advance Auto Parts would cost someone $1.5 million (Source: Wired). “The price set by the threat actor appears extremely high for a typical listing posted to BreachForums,” said Chris Morgan, a senior cyber-threat intelligence analyst at security firm ReliaQuest.
+
+
+June 05, 2024: According to Wired, Morgan said the legitimacy of Sp1d3r was not clear; however, he pointed out there was a nod to teenage hacking group Scattered Spider. “Interestingly, the threat actor's profile picture is taken from an article referencing the threat group Scattered Spider, although it is unclear whether this is to make an intentional association with the threat group.” 
+
+
+June 10, 2024: Mandiant said in its blog the threat campaign conducted by UNC5537 has resulted in numerous successful compromises due to three primary factors:
+“The impacted accounts were not configured with multi-factor authentication enabled, meaning successful authentication only required a valid username and password,”
+“Credentials identified in infostealer malware output were still valid, in some cases years after they were stolen, and had not been rotated or updated,”
+“The impacted Snowflake customer instances did not have network allow lists in place to only allow access from trusted locations”.
+June 11, 2024: As per BleepingComputer, the Pure Storage  data breach exposed information including customer names, usernames, and email addresses. It did not contain credentials for array access or any other data stored on customer systems. The storage company said: 
+"The (breached) workspace contained telemetry information that Pure uses to provide proactive customer support services. That information includes company names, LDAP usernames, email addresses, and the Purity software release version number."
+
+
+June 13, 2024: Bloomberg said in its report that Snowflake Inc. planned to close its own investigation week into the hacking campaign that ensnared as many as 165 of its customers.
+
+
+
+June 20, 2024: Los Angeles Unified School District confirms breach of Snowflake account - According to BleepingComputer, the Los Angeles Unified School District confirmed the data breach after threat actors stole student and employee data by breaching the company's Snowflake account.
+
+Back to Top
+
+ 
+
+Actions Taken by Snowflake, Santander & Ticketmaster
+May 31, 2024: Mandiant Consulting CTO Charles Carmakal told BleepingComputer that Mandiant has been assisting Snowflake customers over the past few weeks who were compromised. The company's investigations so far indicate that the threat actors likely used credentials stolen by information-stealing malware to gain access to the victim's Snowflake tenants.
+"Any SaaS solution that is configured without multifactor authentication is susceptible to be mass exploited by threat actors. We encourage all cloud users to implement 2factor or better and IP based restrictions," warned Carmakal.
+ "We anticipate threat actors will replicate this campaign across other SaaS solutions that contain sensitive enterprise data." 
+
+
+May 31, 2024: BleepingComputer contacted Snowflake about the threat actor's claims that an employee was breached, but a spokesperson said the company had "nothing else to add." Santander and Ticketmaster spokespeople were not immediately available for comment when contacted by BleepingComputer. BleepingComputer was able to confirm that both Santander and Ticketmaster are using Snowflake's cloud storage services. 
+
+
+May 31, 2024:The data cloud company published a security bulletin with Indicators of Compromise (IoCs), investigative queries, and advice on how potentially affected customers can secure their accounts. One of the IOCs indicates that the threat actors created a custom tool named 'RapeFlake' to exfiltrate data from Snowflake's databases. Another one showed the threat actors connecting to databases using the DBeaver Ultimate data management tools, with logs showing client connections from the 'DBeaver_DBeaverUltimate' user agent. 
+
+
+June 01, 2024: According to the SecurityWeek, the Australian Cyber Security Center announced that it was aware of “successful compromises of several companies utilising Snowflake environments”, and that it was tracking increased threat activity relating to Snowflake customer environments.
+
+
+
+June 05, 2024: Wired said the US Cybersecurity and Infrastructure Security Agency issued an alert about the Snowflake incident. 
+
+June 05, 2024: Wired reported that neither LendingTree nor Advance Auto Parts filed breach notifications with the Securities and Exchange Commission at the time of writing. Both companies were listed by Snowflake as customers previously.  
+
+
+June 10, 2024: Mandiant said it notified 165 potentially impacted organisations: "To date, Mandiant and Snowflake have notified approximately 165 potentially exposed organisations. Snowflake’s Customer Support has been directly engaged with these customers to ensure the safety of their accounts and data."
+
+
+June 11, 2024: Pure Storage, reportedly, took measures to prevent further unauthorised access to its Snowflake workspace and has yet to find evidence of malicious activity on other parts of its customer infrastructure. The company added: "We are currently in contact with customers who similarly have not detected unusual activity targeting their Pure systems". 
+
+
+
+June 20, 2024: BleepingComputer said the threat actor began selling the data of Los Angeles Unified for $150,000, claiming they stole it from Snowflake. The threat actor stated this data contains student names, addresses, family names, demographics, financials, grades, performance scoring, disability information, discipline details, and parent information. After reviewing a sample of the data, LAUSD confirmed to BleepingComputer that the data was stolen from its Snowflake account.
+
+Back to Top
+
+ 
+
+ 
+
+Show comments
+
+Related posts
+
+12 December 2024
+
+Power Automate: Enhance Compliance & Security in Automated Workflows
+
+5 December 2024
+
+How Cybersecurity Enhances CRM Efficiency: Building Trust & Compliance
+
+4 December 2024
+
+Virtual Phone Numbers for Telegram: Guide to Privacy and Convenience
+
+4 December 2024
+
+Enhancing Cybersecurity with Proxies: The Role of MarsProxies
+Simply fill in your details to request a FREE callback 
+Call us on
+
++44 (0) 203 189 1422
+
+Email us at
+
+info@cm-alliance.com
+
+Find us at
+
+71-75 Shelton Street, Covent Garden, London, WC2H 9JQ
+
+Quick links:
+
+See below list of our core services & free cybersecurity resources:
+
+Training
+Tabletop Exercises
+Consultancy
+Events
+Resources
+Blog
+About Us
+© 2024 Cyber Management Alliance   |   Privacy policy
+ 
+ 
+ ----- 
+ Source link : https://www.cm-alliance.com/cybersecurity-blog/snowflake-ticketmaster-santander-breaches-a-live-timeline 
+ ----- 

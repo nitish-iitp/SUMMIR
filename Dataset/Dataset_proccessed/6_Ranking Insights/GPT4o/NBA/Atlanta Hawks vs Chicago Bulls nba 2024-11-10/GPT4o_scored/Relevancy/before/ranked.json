@@ -1,0 +1,24 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "The Atlanta Hawks crushed the Chicago Bulls in a thrilling match on November 10, 2024.",
+            "score": 10
+        },
+        {
+            "sentence": "I can't wait to see how many three-pointers Trae Young will score against the Bulls!",
+            "score": 9
+        },
+        {
+            "sentence": "I bet the fans in Chicago won't be happy after that last quarter meltdown.",
+            "score": 7
+        },
+        {
+            "sentence": "The referees did a terrible job, obviously they were biased.",
+            "score": 6
+        },
+        {
+            "sentence": "Nike's new jerseys for the Hawks looked pretty nice.",
+            "score": 5
+        }
+    ]
+}

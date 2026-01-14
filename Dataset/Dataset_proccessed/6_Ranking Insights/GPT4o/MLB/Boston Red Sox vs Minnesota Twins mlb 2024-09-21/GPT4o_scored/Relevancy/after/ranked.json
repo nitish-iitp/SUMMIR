@@ -1,0 +1,16 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "The Boston Red Sox overcame a late deficit and won dramatically in the ninth inning!",
+            "score": 9.5
+        },
+        {
+            "sentence": "The Minnesota Twins had several highlight-reel catches, showcasing their strong defense.",
+            "score": 8.8
+        },
+        {
+            "sentence": "I guess the hot dogs at Fenway Park are better than those at Target Field, though I\u2019m not sure it matters.",
+            "score": 4.2
+        }
+    ]
+}

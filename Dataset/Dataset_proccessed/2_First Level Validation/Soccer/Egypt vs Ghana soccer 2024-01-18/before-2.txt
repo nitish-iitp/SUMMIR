@@ -1,0 +1,285 @@
+LALIGA
+03 JAN 22:00
+VAL
+RMA
+-
+-
+LIGUE 1
+03 JAN 22:00
+NICE
+REN
+-
+-
+PREMIER
+04 JAN 14:30
+TOT
+NEW
+-
+-
+SERIE A
+04 JAN 16:00
+VEN
+EMP
+-
+-
+PREMIER
+04 JAN 17:00
+SOU
+BRE
+-
+-
+PREMIER
+04 JAN 17:00
+MCI
+WHU
+-
+-
+PREMIER
+04 JAN 17:00
+CRY
+CHE
+-
+-
+PREMIER
+04 JAN 17:00
+AVL
+LEI
+-
+-
+PREMIER
+04 JAN 17:00
+BOU
+EVE
+-
+-
+LIGUE 1
+04 JAN 18:00
+SEN
+SDR
+-
+-
+SERIE A
+04 JAN 19:00
+FIO
+NAP
+-
+-
+PREMIER
+04 JAN 19:30
+BHA
+ARS
+-
+-
+LIGUE 1
+04 JAN 20:00
+LIL
+FCN
+-
+-
+SERIE A
+04 JAN 21:45
+VER
+UDI
+-
+-
+LIGUE 1
+04 JAN 22:00
+LYON
+MPL
+-
+-
+SERIE A
+05 JAN 13:30
+MON
+CGL
+-
+-
+PREMIER
+05 JAN 16:00
+FUL
+IPS
+-
+-
+LIGUE 1
+05 JAN 16:00
+SCO
+B29
+-
+-
+LIGUE 1
+05 JAN 16:00
+LENS
+TFC
+-
+-
+LIGUE 1
+05 JAN 16:00
+STR
+AJA
+-
+-
+LIVESCORE
+NIGERIA SPORTS
+HOME
+FOOTBALL
+Uganda
+Uganda Cranes
+Crested Cranes
+Ugandan Premier League
+International
+World Cup
+AFCON
+Women's World Cup
+International Clubs
+Premier League
+La Liga
+Serie A
+Ligue 1
+Bundesliga
+More leagues
+UEFA Champions League
+UEFA Europa League
+UEFA Conference League
+CAF Champions League
+BASKETBALL
+MOTORSPORTS
+RUGBY
+MORE SPORTS
+Athletics
+Boxing
+Cricket
+Esports
+MMA & Combat Sports
+Sports lifestyle
+Tennis
+BETTING
+MENU
+LIVE SCORES
+UGANDA CRANES
+CRESTED CRANES
+SPORTS GIST
+LIFESTYLE
+NEWSFEED
+
+AFCON 2023 Egypt vs Ghana match preview and betting tips | Imago
+
+ FOOTBALL
+AFCON 2023: EGYPT VS GHANA MATCH PREVIEW, PREDICTIONS, POSSIBLE LINEUPS, TIME AND WHERE TO WATCH
+AFCON 2023: Egypt vs Ghana match preview, predictions, possible lineups, time and where to watch
+Ayoola Kelechi • 20:39 - 16.01.2024
+Two heavyweights of African football lock horns as the 2023 Africa Cup of Nations enters its second round
+
+The upcoming Africa Cup of Nations (AFCON) match between Egypt and Ghana promises to be a highly anticipated encounter.
+
+FOOTBALL
+AFCON 2023: Ghana coach attacked after disappointing loss to Cape Verde
+FOOTBALL
+AFCON 2023’s day of upsets: How Equatorial Guinea and Mozambique held their ground against African giants Nigeria and Egypt
+
+Set to take place on January 18, 2024, at 9:00 PM WAT, the match will be hosted at the Felix Houphouet Boigny Stadium in Abidjan, Ivory Coast.
+
+Egypt vs Ghana team news
+
+Both Egypt and Ghana had less-than-ideal starts in their AFCON campaigns. Egypt, the seven-time African champions, managed a narrow escape from defeat against Mozambique, securing a point with a late penalty from Mohamed Salah.
+
+Mo Salah helped Egypt to escape Mozambique. (Photo Credit: CAF/X)
+
+On the other hand, Ghana suffered a 2-1 loss to Cape Verde after conceding a late goal by Garry Rodrigues in the 92nd minute.
+
+Egypt vs Ghana key players to watch
+
+Egypt's lineup is expected to include key players like Mohamed Salah, who is in excellent form this season, playing a crucial role in Liverpool's lineup. Other notable players in the Egyptian team are Trezeguet and Elneny.
+
+Mo Salah remains the main man for the Pharaohs. (Photo Credit: Imago)
+
+For Ghana, Mohammed Kudus is a player to watch, bringing creativity and goal-scoring ability to the team. The return of Kudus, who missed the opening match due to an injury, is a significant boost for Ghana.
+
+Egypt vs Ghana recent form and possible lineups
+
+Egypt's recent form has been relatively stable with a draw and three wins in their last five matches across all competitions. Their predicted lineup in a 4-3-3 formation includes El Shenawy; Gabr, Hegazi, Abdelmonem, Hamdy; Elneny, Fathy, Zizo; Salah, Mohamed, Trezeguet.
+
+var widgetLoaderConfig = widgetLoaderConfig || { CDN_URL: 'https://widgets.sportal365.com', APP_LINK: 'desktop', API_URL: 'https://africa.football.api.sportal365.com/', API_KEY: '2f852b4de2f3a5cf3188e74b33087bb4:2c18422f8e826a7d11aeed52edb2449e', LANG: 'en', REQUEST_INTERVAL: 30, ENABLE_BET_SLIP: false, AUTHOR: false, THEME: "light", TOURNAMENT_ORDER: "pulse_nigeria", LINK_OPTIONS_V2: { 'player' : { 'url': '/football/player/{playerId}' }, 'team' : { 'url': '/football/{teamId}' }, 'tournament': { 'url': '/football/competition/{tournamentId}' }, 'match': { 'url' : '/football/match/{matchId}', 'sort': { 'criteria': 'alphabetically', 'direction': 'asc' } }, 'configuration': { 'newWindow': false }, 'standings_tournament': { 'url': '/football/competition/{tournamentId}/standings' } } }; if (!document.querySelector('script[src="https://widgets.sportal365.com/loader.bundle.min.js"]')) { window.setTimeout(function () { let scriptCss = document.createElement('link'); scriptCss.href = 'https://www.pulsesports.ug/css/sport-widgets.css?v=1668785443'; scriptCss.rel = 'stylesheet'; scriptCss.type = 'text/css'; document.body.appendChild(scriptCss); let scriptTag = document.createElement('script'); scriptTag.src = 'https://widgets.sportal365.com/loader.bundle.min.js'; scriptTag.defer = true; scriptTag.onload = function () { window.setTimeout(function () { new SMPWidgetsLoader(widgetLoaderConfig); }, 200); }; document.head.appendChild(scriptTag); }, 0); } else { new SMPWidgetsLoader(widgetLoaderConfig); }
+var widgetLoaderConfig = widgetLoaderConfig || { CDN_URL: 'https://widgets.sportal365.com', APP_LINK: 'desktop', API_URL: 'https://africa.football.api.sportal365.com/', API_KEY: '2f852b4de2f3a5cf3188e74b33087bb4:2c18422f8e826a7d11aeed52edb2449e', LANG: 'en', REQUEST_INTERVAL: 30, ENABLE_BET_SLIP: false, AUTHOR: false, THEME: "light", TOURNAMENT_ORDER: "pulse_nigeria", LINK_OPTIONS_V2: { 'player' : { 'url': '/football/player/{playerId}' }, 'team' : { 'url': '/football/{teamId}' }, 'tournament': { 'url': '/football/competition/{tournamentId}' }, 'match': { 'url' : '/football/match/{matchId}', 'sort': { 'criteria': 'alphabetically', 'direction': 'asc' } }, 'configuration': { 'newWindow': false }, 'standings_tournament': { 'url': '/football/competition/{tournamentId}/standings' } } }; if (!document.querySelector('script[src="https://widgets.sportal365.com/loader.bundle.min.js"]')) { window.setTimeout(function () { let scriptCss = document.createElement('link'); scriptCss.href = 'https://www.pulsesports.ug/css/sport-widgets.css?v=1668785443'; scriptCss.rel = 'stylesheet'; scriptCss.type = 'text/css'; document.body.appendChild(scriptCss); let scriptTag = document.createElement('script'); scriptTag.src = 'https://widgets.sportal365.com/loader.bundle.min.js'; scriptTag.defer = true; scriptTag.onload = function () { window.setTimeout(function () { new SMPWidgetsLoader(widgetLoaderConfig); }, 200); }; document.head.appendChild(scriptTag); }, 0); } else { new SMPWidgetsLoader(widgetLoaderConfig); }
+
+Ghana, however, has been struggling with only one win in their last six matches. Their expected lineup in a 4-2-3-1 formation could be Ofori; Odoi, Djiku, Salisu, Mensah; Ashimeru, Baba; Williams, A.Ayew, J.Ayew; Semenyo.
+
+Egypt vs Ghana head-to-head record
+
+Historically, Egypt has had the upper hand in matches against Ghana going into their latest meeting at the 2023 Africa Cup of Nations.
+
+var widgetLoaderConfig = widgetLoaderConfig || { CDN_URL: 'https://widgets.sportal365.com', APP_LINK: 'desktop', API_URL: 'https://africa.football.api.sportal365.com/', API_KEY: '2f852b4de2f3a5cf3188e74b33087bb4:2c18422f8e826a7d11aeed52edb2449e', LANG: 'en', REQUEST_INTERVAL: 30, ENABLE_BET_SLIP: false, AUTHOR: false, THEME: "light", TOURNAMENT_ORDER: "pulse_nigeria", LINK_OPTIONS_V2: { 'player' : { 'url': '/football/player/{playerId}' }, 'team' : { 'url': '/football/{teamId}' }, 'tournament': { 'url': '/football/competition/{tournamentId}' }, 'match': { 'url' : '/football/match/{matchId}', 'sort': { 'criteria': 'alphabetically', 'direction': 'asc' } }, 'configuration': { 'newWindow': false }, 'standings_tournament': { 'url': '/football/competition/{tournamentId}/standings' } } }; if (!document.querySelector('script[src="https://widgets.sportal365.com/loader.bundle.min.js"]')) { window.setTimeout(function () { let scriptCss = document.createElement('link'); scriptCss.href = 'https://www.pulsesports.ug/css/sport-widgets.css?v=1668785443'; scriptCss.rel = 'stylesheet'; scriptCss.type = 'text/css'; document.body.appendChild(scriptCss); let scriptTag = document.createElement('script'); scriptTag.src = 'https://widgets.sportal365.com/loader.bundle.min.js'; scriptTag.defer = true; scriptTag.onload = function () { window.setTimeout(function () { new SMPWidgetsLoader(widgetLoaderConfig); }, 200); }; document.head.appendChild(scriptTag); }, 0); } else { new SMPWidgetsLoader(widgetLoaderConfig); }
+
+The two teams have faced each other 23 times, with Egypt winning 12, Ghana winning 5, and 6 matches ending in draws.
+
+Egypt vs Ghana injuries and suspensions
+
+Egypt has had to manage without players like Osama Galal and Ahmed Nabil Koita due to pre-tournament injuries, and there's also a concern over Mohamad Hany who was substituted in their opener against Mozambique due to an injury.
+
+Black Stars captain Andre Ayew celebrates a goal at the 2022 FIFA World Cup in Qatar | GFA Image
+
+Ghana, meanwhile has a fully fit squad with no new major injury concerns. They are expected to include Inaki Williams and Andre Ayew in their starting lineup.
+
+Egypt vs Ghana match analysis and prediction
+
+The match between these two African football powerhouses is anticipated to be closely contested. Egypt's recent form suggests a stronger position, especially with Salah's presence. Ghana, despite their recent struggles, cannot be underestimated, particularly with the potential inclusion of Kudus in their lineup.
+
+Ghana national team coach Chris Hughton was attacked by a fan after the Black Stars' loss | Imago
+
+Given both teams' performances in their opening matches and overall recent form, Egypt appears to be slightly favoured. However, football often defies predictions, and Ghana's talent and potential for improvement could lead to a competitive match.
+
+Egypt vs Ghana betting tips and possible outcomes
+
+Considering the factors above, a common betting tip could be to bet on Egypt to win, given their stronger recent form and historical dominance over Ghana.
+
+Egypt needed a late equaliser against Mozambique | Imago
+
+However, considering the unpredictable nature of football, a draw or a surprise win for Ghana cannot be completely ruled out.
+
+Where and how to watch Egypt vs Ghana
+
+The game will be televised live on local and satellite television in Nigeria. Fans can also stream the match live via the appropriate channels. Coverage will start at 9 PM WAT
+
+Top Stories
+‘I regret selling you’ — Pep Guardiola admits to ex-Manchester City star
+You know nothing: Fans slam Super Eagles icon Kanu after Enyimba ended 2024 with another draw
+Ademola Lookman storms Saudi Arabia: Super Eagles star set to lead Atalanta to 1st title in 2025
+'I've never watched them play again' — Mourinho hints at next job
+Osimhen personally breaks Napoli's heart with key January window decision
+'₦19bn or nothing' — French giants reject two bids for Super Eagles hopeful
+Loving life at Gala: Europe League celebrates Super Eagles star Osimhen
+Mikel Arteta reveals one thing he needs to do to win Premier League
+Recommended Content
+"Football Fans Rejoice! StarTimes Gives You the Chance to Be in Spain for LALIGA!"
+UPL: Vipers plotting to pile more misery on hapless Lugazi
+UPL: Vipers seek quick response from opening day blues as they host Express
+The Clause In Kasinde’s Move To NEC
+Exclusive: KCCA Bid For Kitara’s Omedi
+Baptism of fire for Kavazovic on maiden UPL game
+Vipers head coach Kavazovic anticipates “difficult season” ahead of tie with NEC
+Uganda Premier League: Top 10 performers to watch this season
+What are Uganda’s chances of qualifying for World Cup 2026
+Guinness to fly football fans to the UK to watch Premier League games
+Guinness match day set to unite football fans across the country in celebration of the beautiful game
+StarTimes And La Liga Bond Continues Ahead Of The 2024/25 Season
+FUFA SUPER 8: Vipers in rare showdown against Uganda Cranes
+Talented midfielder Kiwanuka keen on return to Uganda after UK exploits
+FUFA SUPER 8: Vipers in high spirits ahead of tricky NEC tie
+Clatous Chama to Yanga – A Good Move for all parties
+ 
+ 
+ 
+ 
+ 
+
+Football Sports BET Livescore Newsfeed
+
+How can we improve the website? Tell us here
+
+About us Terms of use Privacy policy Recommended sites
+
+Copyright © 2025 - Pulse.ng
+ 
+ 
+ ----- 
+ Source link : https://www.pulsesports.ug/football/story/afcon-2023-egypt-vs-ghana-match-preview-predictions-possible-lineups-time-and-where-to-watch-2024011619390575986 
+ ----- 

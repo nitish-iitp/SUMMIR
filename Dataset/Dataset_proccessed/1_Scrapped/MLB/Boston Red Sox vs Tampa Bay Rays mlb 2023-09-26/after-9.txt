@@ -1,0 +1,308 @@
+MLB
+
+Teams
+• • •
+Log In
+Subscribe
+Free Agent Big Board
+MLB’s wild-card tiebreakers are essentially settled. Where does your bubble team stand?
+By Andrew Baggarly
+Sep 26, 2023
+
+88
+
+You can’t call the final week of Major League Baseball’s regular season a pennant race. The term no longer applies now that teams might have to dispatch as many as three postseason opponents, win as many as nine games, and maintain a pulse for more than three additional weeks to clinch a pennant and represent their circuit in the World Series. The true pennant race hasn’t started yet.
+
+But pennant fever sounds a heck of a lot better than “figuring out who will have the sixth-best record and make the postseason as the third wild card.” So yeah, maybe we need to workshop the marketing a bit. Regardless of how you feel about it, the introduction of the third wild card is having the intended impact: keeping more teams alive and more fans engaged to the end of the season. As we’ve seen many times, once you’re in, weird stuff can happen.
+
+Weird stuff might be required just to get in the front door, though — especially now that Game 163 is a thing of the past and ties are no longer broken on the field. There’s still the potential for some three- and four-team wackiness, too.
+
+Here’s the good news: All the most plausible tiebreaker scenarios have been settled. And we tabulated them so you don’t have to. (We can expense Excedrin, right?)
+
+Let’s start by glancing at the wild-card standings through Monday’s games:
+
+National League
+TEAM
+	
+RECORD
+	
+GAMES BACK
+
+
+Phillies
+	
+87-69
+	
++5
+
+
+Diamondbacks
+	
+82-74
+	
+—
+
+
+Cubs
+	
+82-74
+	
+—
+
+
+Marlins
+	
+81-75
+	
+-1
+
+
+Reds
+	
+80-77
+	
+-2.5
+
+American League
+TEAM
+	
+RECORD
+	
+GAMES BACK
+
+
+Rays
+	
+95-62
+	
++9
+
+
+Blue Jays
+	
+87-69
+	
++1.5
+
+
+Astros
+	
+86-71
+	
+—
+
+
+Mariners
+	
+84-72
+	
+-1.5
+
+Next, let’s set up a couple assumptions: 1) The Philadelphia Phillies will clinch the NL’s top wild-card spot; 2) The Texas Rangers will hang on to win the AL West; 3) It doesn’t matter whether the Baltimore Orioles or Tampa Bay Rays win the AL East because the second-place finisher has clinched the top AL wild-card spot; 4) Neither the San Diego Padres nor San Francisco Giants, both technically alive, find a crumpled $100 bill in the street on the way to turning in the winning Powerball numbers.
+
+Now let’s remind you what the tiebreakers actually are. The first and simplest one is head-to-head record. The second one is intradivisional record, which only comes into play in two plausible instances (Seattle Mariners vs. Toronto Blue Jays, Miami Marlins vs. Cincinnati Reds). Remember this, too: the same tiebreakers also will be used to determine seeding in the event that two wild-card qualifiers finish with identical records.
+
+Got it? OK. Let’s begin by getting the easy stuff out of the way. First up, the National League. In the event of a two-team tie in the NL for the third wild card, here’s where things stand:
+
+• The Marlins are in a favorable position. They own the tiebreaker over the Cubs (4-2), Diamondbacks (4-2) and Reds (3-3, already clinched a superior intradivisional record).
+
+• The Reds own the tiebreaker over the Diamondbacks (4-3) and Cubs (7-6) and lose the tiebreaker to the Marlins (3-3, inferior intradivisional record).
+
+• The Diamondbacks own the tiebreaker over the Cubs (6-1) and lose the tiebreaker to the Marlins (2-4) and Reds (3-4).
+
+• The Cubs must clinch a wild-card spot outright. That’s because they lose the tiebreaker to the Diamondbacks (1-6), Reds (6-7) and Marlins (2-4).
+
+What if there’s a three-way tie for the first time in major-league history, you ask? Well, thankfully, those scenarios are all settled as well.
+
+The methodology, if you care to know, is this: If Team A has a better record than both Team B and Team C, then Team A advances. If no team has a better record against the other two, then teams will be ranked by overall winning percentage against the other clubs combined. Or maybe you don’t care to know what’s under the hood. That’s OK. We’ll bottom-line it for you.
+
+• If the Diamondbacks, Reds and Marlins tie for the third wild card, then the Marlins advance.
+
+• If the Diamondbacks, Cubs and Marlins tie for the third wild card, then the Marlins advance.
+
+• If the Marlins, Reds and Cubs tie for the third wild card, then the Marlins advance.
+
+• If the Diamondbacks, Reds and Cubs tie for the third wild card, then the Reds advance.
+
+Aha! But it’s also possible that three teams could tie for both the second and third wild card. Here’s how those ties would be broken:
+
+• If the Diamondbacks, Reds and Marlins tie for both the second and third wild card, then the Marlins and Reds advance.
+
+• If the Diamondbacks, Cubs and Marlins tie for both the second and third wild card, then the Marlins and Diamondbacks advance.
+
+• If the Marlins, Reds and Cubs tie for both the second and third wild card, then the Marlins and Reds advance.
+
+• If the Diamondbacks, Reds and Cubs tie for both the second and third wild card, then the Reds and Diamondbacks advance.
+
+Then there is the bananas-crazytown-dogs-and-cats-living-together scenario. What if the Diamondbacks, Reds, Marlins and Cubs finish in a four-way tie for the second and third wild card?
+
+I checked with MLB officials to be certain. Here’s what would happen: First, the four teams are ordered by cumulative winning percentage among the tied teams. So the Marlins (.611) would advance as the No. 2 wild card over the Diamondbacks (.550), Reds (.538) and Cubs (.346). But the Diamondbacks would not advance as the No. 3 wild card. That’s because once the Marlins advance, the remaining teams would be subject to the three-team tiebreaker criteria. And the Reds would advance because they hold both head-to-head tiebreakers against the remaining clubs.
+
+The American League is a little less convoluted, although the Rangers could muddy the waters if they fail to hold onto an AL West lead that stood at 2 1/2 games entering Tuesday night. Assuming that doesn’t happen, then the final two wild-card spots will come down to the Blue Jays, Mariners and Houston Astros.
+
+The Mariners and Astros are still playing each other this week, and while those two remaining games will be crucial, they won’t impact a season series that is already settled. The Mariners already clinched it, along with the tiebreaker, by beating the Astros in eight of 11 games. Here’s the takeaway: the Mariners might be 1 1/2 games back at the moment, but at least they don’t have to surpass the Astros in the final standings. They merely need to draw even with them.
+
+Let’s run through where the two-team AL tiebreakers stand:
+
+• The Mariners own the tiebreaker against the Astros (8-3+) and the Blue Jays (3-3, already clinched a superior intradivisional record).
+
+• The Blue Jays own the tiebreaker against the Astros (4-3) and lose the tiebreaker to the Mariners (3-3, inferior intradivisional record).
+
+• The Astros lose the tiebreaker to the Mariners (3-8+) and Blue Jays (3-4).
+
+Finally, in the event of a three-team tie between the Mariners, Blue Jays and Astros for the Nos. 2-3 wild-card spots, the Mariners advance as the No. 2 wild card and the Blue Jays advance as the No. 3 wild card.
+
+Wild card fever, catch it! But also, please continue to cough into your elbow and wash your hands.
+
+(Photo of an early-season Blue Jays-Mariners game: Nick Turchiaro / USA Today)
+
+Andrew Baggarly is a senior writer for The Athletic and covers the San Francisco Giants. He has covered Major League Baseball for more than two decades, including the Giants since 2004 for the Oakland Tribune, San Jose Mercury News and Comcast SportsNet Bay Area. He is the author of two books that document the most successful era in franchise history: “A Band of Misfits: Tales of the 2010 San Francisco Giants” and “Giant Splash: Bondsian Blasts, World Series Parades and Other Thrilling Moments By the Bay.” Follow Andrew on Twitter @extrabaggs
+
+National
+Boxing
+Bundesliga
+Champions League
+Championship
+College Football
+College Sports
+Copa America
+Copa del Rey
+Culture
+Europa League
+European Championship
+FA Cup
+Fantasy Baseball
+Fantasy Basketball
+Fantasy Football
+Fantasy Hockey
+Fantasy Premier League
+Formula 1
+Gaming
+Golf
+International Football
+La Liga
+League Cup
+League One
+League Two
+LNH
+Memorabilia & Collectibles
+Men's College Basketball
+Men's World Cup
+Mixed Martial Arts
+MLB
+MLS
+Motorsports
+NASCAR
+NBA
+NFL
+NHL
+NWSL
+Olympics
+Opinion
+Premier League
+Scottish Premiership
+Serie A
+Soccer
+Sports Betting
+Sports Business
+Tennis
+Top Sports News
+UK Women's Football
+WNBA
+Women's College Basketball
+Women's Euros
+Women's Hockey
+Women's World Cup
+The Athletic Ink
+Podcasts
+Headlines
+US
+Arizona
+Atlanta
+Baltimore
+Bay Area
+Boston
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Columbus
+Dallas
+Denver
+Detroit
+Houston
+Indiana
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles
+Memphis
+Miami
+Minnesota
+Nashville
+New Orleans
+New York
+Oklahoma
+Oregon
+Orlando
+Philadelphia
+Pittsburgh
+Sacramento
+San Antonio
+San Diego
+Seattle
+St. Louis
+Tampa Bay
+Utah
+Washington DC
+Wisconsin
+Canada
+Calgary
+Edmonton
+Montreal
+Montréal (français)
+Ottawa
+Toronto
+Vancouver
+Winnipeg
+Partners
+Collectibles by eBay
+Tickets by Viagogo
+Subscribe
+Start Subscription
+Group Subscriptions
+HQ
+About Us
+Careers
+Code of Conduct
+Editorial Guidelines
+Business Inquiries
+Press Inquiries
+Support
+FAQ
+Forgot Password?
+Redeem Gift
+Contact Us
+Terms of Service
+Newsletters
+The Pulse
+The Bounce
+The Windup
+Prime Tire
+Full Time
+Until Saturday
+Scoop City
+The Athletic FC
+MoneyCall
+©2025 The Athletic Media Company, A New York Times Company
+Manage Privacy Preferences
+Privacy Policy
+Your Ad Choices
+Support
+Sitemap
+ 
+ 
+ ----- 
+ Source link : https://www.nytimes.com/athletic/4902179/2023/09/26/mlb-wild-card-tiebreakers/ 
+ ----- 

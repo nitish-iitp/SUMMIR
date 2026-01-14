@@ -1,0 +1,606 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+New York Mets Schedule
+Boston Red Sox Schedule
+Boston Red Sox vs New York Mets Box Score: September 2, 2024
+MLB Scores — September 2, 2024
+STL	3	Final
+MIL	9	
+CHW	3	Final
+BAL	13	
+LAD	11	Final
+ARI	6	
+HOU	3	Final
+CIN	5	
+CLE	4	Final
+KCR	2	
+DET	0	Final
+SDP	3	
+MIN	5	Final
+TBR	4	
+SEA	4	Final
+OAK	5	
+BOS	1	Final
+NYM	4	
+PIT	5	Final
+CHC	3	
+NYY	8	Final
+TEX	4	
+MLB Scores & Standings on this Day
+Boston Red Sox
+1
+70-68
+Prev Game Next Game
+ 
+New York Mets
+4
+74-64
+Prev Game Next Game
+Monday, September 2, 2024
+Start Time: 7:10 p.m. Local
+Attendance: 35,064
+Venue: Citi Field
+Game Duration: 2:22
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Boston Red Sox	0	0	1	0	0	0	0	0	0	1	6	2
+
+	New York Mets	0	1	1	2	0	0	0	0	X	4	8	0
+WP: Luis Severino (10-6) • LP: Brayan Bello (12-7) • SV: Phil Maton (3)
+Boston Red Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Jarren Duran CF-LF	4	0	1	1	0	1	4	.292	.351	.524	.875	16	12	-0.027	0.90	0.022	-0.049	-0.01%	0.62	-0.4	2	0	
+Wilyer Abreu RF	3	0	1	0	0	1	3	.269	.334	.496	.830	12	7	-0.015	0.47	0.012	-0.027	-0.01%	0.33	-0.1	0	0	
+   Romy Gonzalez PH-SS	0	0	0	0	1	0	1	.280	.327	.433	.761	6	2	0.025	0.88	0.025	0.000	0.01%	0.60	0.3	2	1	
+Tyler O'Neill LF-RF	3	0	1	0	0	2	4	.254	.344	.519	.862	15	10	0.005	0.71	0.043	-0.039	0.00%	0.49	0.1	1	0	HBP
+Rafael Devers 3B	4	0	0	0	0	0	4	.281	.360	.552	.912	16	10	-0.137	1.28	0.000	-0.137	-0.06%	0.88	-1.4	0	2	
+Triston Casas 1B	3	0	1	0	1	1	4	.254	.350	.458	.807	20	12	0.036	0.69	0.067	-0.031	0.01%	0.48	0.3	9	1	
+Masataka Yoshida DH	3	0	1	0	1	1	4	.290	.359	.427	.786	18	9	0.030	1.04	0.077	-0.047	0.01%	0.72	0.3	0	0	
+Connor Wong C	3	0	0	0	0	0	3	.281	.336	.424	.760	9	7	-0.195	1.62	0.000	-0.195	-0.08%	1.12	-1.9	8	0	2·GDP
+   Mickey Gasper PH	1	0	0	0	0	1	1	.000	.250	.000	.250	3	3	-0.003	0.13	0.000	-0.003	-0.00%	0.09	-0.1	0	0	
+Enmanuel Valdez 2B	3	0	0	0	0	0	3	.218	.276	.391	.667	10	7	-0.054	0.68	0.000	-0.054	-0.02%	0.47	-0.5	0	4	
+Ceddanne Rafaela SS-CF	3	1	1	0	0	2	3	.255	.284	.405	.689	8	7	0.036	0.82	0.080	-0.044	0.01%	0.57	0.2	2	3	3B
+																							
+Brayan Bello P																					0	1	
+   Josh Winckowski P																					0	0	
+Team Totals	30	1	6	1	3	9	34	.200	.294	.267	.561	133	86	-0.299	0.89	0.326	-0.626	-0.12%	0.61	-3.3	24	12	
+3B: Ceddanne Rafaela (5, off Luis Severino).
+HBP: Tyler O'Neill (5, by Danny Young).
+TB: Ceddanne Rafaela 3; Wilyer Abreu; Jarren Duran; Tyler O'Neill; Triston Casas; Masataka Yoshida.
+GIDP: Connor Wong 2 (6).
+RBI: Jarren Duran (71).
+Team LOB: 6.
+With RISP: 1 for 4.
+Fielding
+DP: 2. Enmanuel Valdez-Ceddanne Rafaela-Triston Casas; Triston Casas-Romy Gonzalez-Triston Casas.
+E: Connor Wong (5); Tyler O'Neill (7).
+New York Mets 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Francisco Lindor SS	3	1	2	1	0	1	4	.271	.342	.493	.835	11	9	0.126	0.66	0.135	-0.010	0.09%	0.80	1.1	3	1	HBP
+Brandon Nimmo CF-LF	4	0	1	1	0	2	4	.231	.342	.405	.747	23	15	0.084	0.85	0.135	-0.051	0.06%	1.03	0.2	4	0	2B
+Pete Alonso 1B	3	0	0	0	1	1	4	.240	.324	.467	.791	14	5	-0.019	0.73	0.016	-0.034	-0.01%	0.89	-0.5	5	1	
+Jesse Winker DH	3	0	0	0	1	1	4	.270	.370	.427	.797	21	13	-0.074	0.81	0.004	-0.077	-0.05%	0.98	-0.6	0	0	
+Jose Iglesias 3B	4	1	1	0	0	1	4	.315	.365	.442	.807	15	11	-0.009	0.69	0.038	-0.047	-0.01%	0.83	-0.5	1	1	
+Jeff McNeil 2B	4	0	1	0	0	2	4	.239	.305	.388	.693	18	13	0.062	0.71	0.096	-0.033	0.04%	0.86	0.0	2	4	GDP
+Starling Marte RF	3	0	0	0	0	0	3	.274	.318	.404	.722	11	7	-0.076	0.82	0.000	-0.076	-0.06%	0.99	-1.0	1	1	GDP
+DJ Stewart LF	3	1	1	0	0	0	3	.175	.326	.299	.625	12	7	-0.002	0.31	0.011	-0.013	-0.00%	0.37	-0.1	1	0	
+   Harrison Bader CF	0	0	0	0	0	0	0	.246	.292	.381	.674										0	0	
+Luis Torrens C	3	1	2	0	0	0	3	.265	.321	.431	.753	14	10	0.108	0.66	0.132	-0.025	0.08%	0.80	1.5	9	0	2·2B
+																							
+Luis Severino P																					1	0	
+   Danny Young P																					0	0	
+   Phil Maton P																					0	0	
+Team Totals	30	4	8	2	2	8	33	.267	.333	.367	.700	139	90	0.200	0.71	0.567	-0.366	0.15%	0.85	0.2	27	8	
+2B: Brandon Nimmo (24, off Brayan Bello); Luis Torrens 2 (8, 1 off Josh Winckowski, 1 off Brayan Bello).
+HBP: Francisco Lindor (12, by Brayan Bello).
+TB: Luis Torrens 4; Francisco Lindor 2; Brandon Nimmo 2; Jose Iglesias; DJ Stewart; Jeff McNeil.
+GIDP: Jeff McNeil (6); Starling Marte (7).
+RBI: Brandon Nimmo (73); Francisco Lindor (81).
+2-out RBI: Francisco Lindor.
+Team LOB: 5.
+With RISP: 1 for 8.
+Fielding
+DP: 2. Jeff McNeil-Francisco Lindor-Pete Alonso; Jose Iglesias-Jeff McNeil-Pete Alonso.
+Outfield Assists: Starling Marte (Jarren Duran at 2nd base).
+Boston Red Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Brayan Bello, L (12-7)	5	7	4	4	1	4	0	4.75	23	91	58	36	9	13	8	9	5	0	40			-0.233	0.91	-0.10%	0.63	-1.6
+Josh Winckowski	3	1	0	0	1	4	0	4.16	10	48	32	18	6	8	3	2	1	0		0	0	0.033	0.22	0.01%	0.15	1.4
+Team Totals	8	8	4	4	2	8	0	4.50	33	139	90	54	15	21	11	11	6	0	40	0	0	-0.200	0.71	-0.08%	0.49	-0.2
+
+New York Mets 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Luis Severino, W (10-6)	7	6	1	1	2	5	0	3.84	26	100	66	34	12	20	6	13	7	0	64			0.229	0.94	0.17%	1.14	2.3
+Danny Young, H (5)	1	0	0	0	1	2	0	2.90	5	21	12	3	4	5	1	0	0	0		0	0	0.040	0.90	0.03%	1.09	0.5
+Phil Maton, S (3)	1	0	0	0	0	2	0	3.56	3	12	8	1	1	6	1	0	0	0		0	0	0.031	0.41	0.02%	0.50	0.5
+Team Totals	9	6	1	1	3	9	0	1.00	34	133	86	38	17	31	8	13	7	0	64	0	0	0.300	0.89	0.22%	1.07	3.3
+
+Balks: None.
+WP: Danny Young (4).
+HBP: Brayan Bello (9; Francisco Lindor); Danny Young (5; Tyler O'Neill).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Larry Vanover, 1B - Chris Segal, 2B - Nate Tomlinson, 3B - David Rackley, LF - (none), RF - (none).
+Time of Game: 2:22.
+Attendance: 35,064.
+Field Condition: Unknown.
+Start Time Weather: 75° F, Wind 11mph from Left to Right, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Red Sox
+1	Jarren Duran	CF
+2	Wilyer Abreu	RF
+3	Tyler O'Neill	LF
+4	Rafael Devers	3B
+5	Triston Casas	1B
+6	Masataka Yoshida	DH
+7	Connor Wong	C
+8	Enmanuel Valdez	2B
+9	Ceddanne Rafaela	SS
+	Brayan Bello	P
+Mets
+1	Francisco Lindor	SS
+2	Brandon Nimmo	CF
+3	Pete Alonso	1B
+4	Jesse Winker	DH
+5	Jose Iglesias	3B
+6	Jeff McNeil	2B
+7	Starling Marte	RF
+8	DJ Stewart	LF
+9	Luis Torrens	C
+	Luis Severino	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Boston Red Sox vs. New York Mets, September 2 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+NYM
+50%
+BOS
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.42
+6	0.45
+7	0.47
+8	0.5
+9	0.48
+10	0.5
+11	0.54
+12	0.45
+13	0.41
+14	0.32
+15	0.37
+16	0.38
+17	0.36
+18	0.44
+19	0.46
+20	0.45
+21	0.47
+22	0.44
+23	0.31
+24	0.29
+25	0.33
+26	0.37
+27	0.34
+28	0.32
+29	0.31
+30	0.31
+31	0.33
+32	0.34
+33	0.33
+34	0.22
+35	0.14
+36	0.15
+37	0.19
+38	0.12
+39	0.11
+40	0.12
+41	0.12
+42	0.13
+43	0.1
+44	0.09
+45	0.1
+46	0.12
+47	0.08
+48	0.09
+49	0.09
+50	0.1
+51	0.14
+52	0.1
+53	0.07
+54	0.05
+55	0.04
+56	0.05
+57	0.06
+58	0.07
+59	0.04
+60	0.03
+61	0.04
+62	0.06
+63	0.08
+64	0.03
+65	0.02
+66	0.03
+67	0.03
+68	0.01
+69	0
+70	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b3	1-1	1	1--	4,(1-2) 	R	NYM	Brandon Nimmo	Brayan Bello	13%	69%	Double to CF (Line Drive to Deep CF); F. Lindor Scores
+b4	2-1	2	1--	3,(0-2) 	R	NYM	Luis Torrens	Brayan Bello	12%	78%	Double to LF (Fly Ball to LF Line); D. Stewart Scores/Adv on E7/No RBI
+b2	0-0	0	1--	2,(0-1) 		NYM	Jeff McNeil	Brayan Bello	10%	68%	Single to 1B (Ground Ball); J. Iglesias to 3B
+t2	0-0	1	12-	3,(1-1) 	OO	BOS	Connor Wong	Luis Severino	9%	55%	Ground Ball Double Play: 2B-SS-1B
+t3	0-1	1	---	2,(1-0) 		BOS	Ceddanne Rafaela	Luis Severino	-8%	56%	Triple to CF (Line Drive to Deep CF-RF)
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Red Sox Batting, Tied 0-0, Mets' Luis Severino facing 1-2-3
+t1	0-0	0	---	2,(0-1) 	O	BOS	Jarren Duran	Luis Severino	2%	52%	Foul Popfly: 3B (3B-C into Foul Terr.)
+t1	0-0	1	---	3,(1-1) 	O	BOS	Wilyer Abreu	Luis Severino	2%	54%	Lineout: 2B (Deep 2B)
+t1	0-0	2	---	3,(0-2) 	O	BOS	Tyler O'Neill	Luis Severino	1%	55%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 0, Mets 0.
+Bottom of the 1st, Mets Batting, Tied 0-0, Red Sox' Brayan Bello facing 1-2-3
+b1	0-0	0	---	5,(1-2) 		NYM	Francisco Lindor	Brayan Bello	4%	58%	Hit By Pitch
+b1	0-0	0	1--	6,(3-2) 	O	NYM	Brandon Nimmo	Brayan Bello	-3%	55%	Flyball: LF (Deep LF)
+b1	0-0	1	1--	1,(0-0) 	O	NYM	Pete Alonso	Brayan Bello	-2%	53%	Groundout: 3B-1B (Short 3B Line); F. Lindor to 2B
+b1	0-0	2	-2-	6,(2-2) 	O	NYM	Jesse Winker	Brayan Bello	-3%	50%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 1 LOB. Red Sox 0, Mets 0.
+Top of the 2nd, Red Sox Batting, Tied 0-0, Mets' Luis Severino facing 4-5-6
+t2	0-0	0	---	1,(0-0) 	O	BOS	Rafael Devers	Luis Severino	2%	52%	Lineout: LF (Deep LF-CF)
+t2	0-0	1	---	2,(0-1) 		BOS	Triston Casas	Luis Severino	-3%	50%	Single to CF (Line Drive)
+t2	0-0	1	1--	5,(3-1) 		BOS	Masataka Yoshida	Luis Severino	-4%	46%	Walk; T. Casas to 2B
+t2	0-0	1	12-	3,(1-1) 	OO	BOS	Connor Wong	Luis Severino	9%	55%	Ground Ball Double Play: 2B-SS-1B
+									0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 0, Mets 0.
+Bottom of the 2nd, Mets Batting, Tied 0-0, Red Sox' Brayan Bello facing 5-6-7
+b2	0-0	0	---	3,(0-2) 		NYM	Jose Iglesias	Brayan Bello	4%	59%	Single to CF (Line Drive to Deep CF-RF)
+b2	0-0	0	1--	2,(0-1) 		NYM	Jeff McNeil	Brayan Bello	10%	68%	Single to 1B (Ground Ball); J. Iglesias to 3B
+b2	0-0	0	1-3	2,(1-0) 	ROO	NYM	Starling Marte	Brayan Bello	-6%	63%	Ground Ball Double Play: 2B-SS-1B; J. Iglesias Scores/No RBI
+b2	1-0	2	---	6,(3-2) 	O	NYM	DJ Stewart	Brayan Bello	-1%	62%	Groundout: 2B-1B
+									1 run, 2 hits, 0 errors, 0 LOB. Red Sox 0, Mets 1.
+Top of the 3rd, Red Sox Batting, Behind 0-1, Mets' Luis Severino facing 8-9-1
+t3	0-1	0	---	4,(1-2) 	O	BOS	Enmanuel Valdez	Luis Severino	3%	64%	Popfly: SS (Deep SS)
+t3	0-1	1	---	2,(1-0) 		BOS	Ceddanne Rafaela	Luis Severino	-8%	56%	Triple to CF (Line Drive to Deep CF-RF)
+t3	0-1	1	--3	3,(1-1) 	RO	BOS	Jarren Duran	Luis Severino	-2%	54%	Single to RF (Ground Ball); C. Rafaela Scores; J. Duran out at 2B/RF-SS
+t3	1-1	2	---	5,(2-2) 	O	BOS	Wilyer Abreu	Luis Severino	1%	55%	Strikeout Swinging
+									1 run, 2 hits, 0 errors, 0 LOB. Red Sox 1, Mets 1.
+Bottom of the 3rd, Mets Batting, Tied 1-1, Red Sox' Brayan Bello facing 9-1-2
+b3	1-1	0	---	6,(3-2) 	O	NYM	Luis Torrens	Brayan Bello	-2%	53%	Groundout: 2B-1B (SS-2B)
+b3	1-1	1	---	1,(0-0) 		NYM	Francisco Lindor	Brayan Bello	3%	56%	Single to RF (Line Drive to Short RF Line)
+b3	1-1	1	1--	4,(1-2) 	R	NYM	Brandon Nimmo	Brayan Bello	13%	69%	Double to CF (Line Drive to Deep CF); F. Lindor Scores
+b3	2-1	1	-2-	4,(3-0) 		NYM	Pete Alonso	Brayan Bello	2%	71%	Walk
+b3	2-1	1	12-	2,(0-1) 	O	NYM	Jesse Winker	Brayan Bello	-4%	67%	Flyball: CF (Deep LF)
+b3	2-1	2	12-	4,(1-2) 	O	NYM	Jose Iglesias	Brayan Bello	-4%	63%	Strikeout Swinging
+									1 run, 2 hits, 0 errors, 2 LOB. Red Sox 1, Mets 2.
+Top of the 4th, Red Sox Batting, Behind 1-2, Mets' Luis Severino facing 3-4-5
+t4	1-2	0	---	5,(2-2) 	O	BOS	Tyler O'Neill	Luis Severino	3%	66%	Strikeout Swinging
+t4	1-2	1	---	8,(2-2) 	O	BOS	Rafael Devers	Luis Severino	2%	68%	Flyball: CF
+t4	1-2	2	---	6,(2-2) 	O	BOS	Triston Casas	Luis Severino	1%	69%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Mets 2.
+Bottom of the 4th, Mets Batting, Ahead 2-1, Red Sox' Brayan Bello facing 6-7-8
+b4	2-1	0	---	7,(3-2) 		NYM	Jeff McNeil	Brayan Bello	0%	69%	E2 on Foul Ball
+b4	2-1	0	---	9,(3-2) 	O	NYM	Jeff McNeil	Brayan Bello	-2%	67%	Strikeout Swinging
+b4	2-1	1	---	4,(1-2) 	O	NYM	Starling Marte	Brayan Bello	-1%	66%	Groundout: P-1B (Front of Home)
+b4	2-1	2	---	2,(1-0) 		NYM	DJ Stewart	Brayan Bello	1%	67%	Single to RF (Line Drive)
+b4	2-1	2	1--	3,(0-2) 	R	NYM	Luis Torrens	Brayan Bello	12%	78%	Double to LF (Fly Ball to LF Line); D. Stewart Scores/Adv on E7/No RBI
+b4	3-1	2	-2-	2,(0-1) 	R	NYM	Francisco Lindor	Brayan Bello	7%	86%	Single to RF (Line Drive to CF-RF); L. Torrens Scores
+b4	4-1	2	1--	4,(1-2) 	O	NYM	Brandon Nimmo	Brayan Bello	-1%	85%	Strikeout Swinging
+									2 runs, 3 hits, 2 errors, 1 LOB. Red Sox 1, Mets 4.
+Top of the 5th, Red Sox Batting, Behind 1-4, Mets' Luis Severino facing 6-7-8
+t5	1-4	0	---	3,(0-2) 		BOS	Masataka Yoshida	Luis Severino	-4%	81%	Single to CF (Ground Ball thru SS-2B)
+t5	1-4	0	1--	4,(1-2) 	OO	BOS	Connor Wong	Luis Severino	8%	88%	Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t5	1-4	2	---	4,(2-1) 	O	BOS	Enmanuel Valdez	Luis Severino	1%	89%	Groundout: 1B-P
+									0 runs, 1 hit, 0 errors, 0 LOB. Red Sox 1, Mets 4.
+Bottom of the 5th, Mets Batting, Ahead 4-1, Red Sox' Brayan Bello facing 3-4-5
+b5	4-1	0	---	3,(2-0) 	O	NYM	Pete Alonso	Brayan Bello	-1%	88%	Groundout: SS-1B
+b5	4-1	1	---	6,(2-2) 	O	NYM	Jesse Winker	Brayan Bello	-1%	88%	Popfly: SS (Short CF)
+b5	4-1	2	---	6,(3-2) 	O	NYM	Jose Iglesias	Brayan Bello	0%	87%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Mets 4.
+Top of the 6th, Red Sox Batting, Behind 1-4, Mets' Luis Severino facing 9-1-2
+t6	1-4	0	---	3,(0-2) 	O	BOS	Ceddanne Rafaela	Luis Severino	2%	90%	Strikeout Swinging
+t6	1-4	1	---	7,(2-2) 	O	BOS	Jarren Duran	Luis Severino	1%	91%	Groundout: 2B-1B (Deep 2B)
+t6	1-4	2	---	4,(2-1) 		BOS	Wilyer Abreu	Luis Severino	-1%	90%	Single to LF (Line Drive)
+t6	1-4	2	1--	3,(1-1) 		BOS	Tyler O'Neill	Luis Severino	-2%	88%	Single to CF (Line Drive to Deep LF-CF); W. Abreu to 2B
+t6	1-4	2	12-	3,(2-0) 	O	BOS	Rafael Devers	Luis Severino	4%	92%	Lineout: CF (Deep CF)
+									0 runs, 2 hits, 0 errors, 2 LOB. Red Sox 1, Mets 4.
+Bottom of the 6th, Mets Batting, Ahead 4-1, Red Sox' Josh Winckowski facing 6-7-8
+									
+Josh Winckowski replaces Brayan Bello pitching
+
+b6	4-1	0	---	6,(2-2) 	O	NYM	Jeff McNeil	Josh Winckowski	-1%	91%	Strikeout Swinging
+b6	4-1	1	---	5,(2-2) 	O	NYM	Starling Marte	Josh Winckowski	-1%	91%	Groundout: SS-1B
+b6	4-1	2	---	4,(1-2) 	O	NYM	DJ Stewart	Josh Winckowski	0%	90%	Flyball: CF (Deep CF-RF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Mets 4.
+Top of the 7th, Red Sox Batting, Behind 1-4, Mets' Luis Severino facing 5-6-7
+									
+Brandon Nimmo moves from CF to LF
+Harrison Bader replaces DJ Stewart (LF) playing CF batting 8th
+
+t7	1-4	0	---	8,(3-2) 		BOS	Triston Casas	Luis Severino	-4%	86%	Walk
+t7	1-4	0	1--	5,(3-1) 	O	BOS	Masataka Yoshida	Luis Severino	4%	90%	Flyball: LF (Deep LF-CF)
+t7	1-4	1	1--	2,(0-1) 	O	BOS	Connor Wong	Luis Severino	3%	93%	Flyball: LF
+t7	1-4	2	1--	2,(0-1) 	O	BOS	Enmanuel Valdez	Luis Severino	2%	95%	Flyball: RF (Deep CF-RF)
+									0 runs, 0 hits, 0 errors, 1 LOB. Red Sox 1, Mets 4.
+Bottom of the 7th, Mets Batting, Ahead 4-1, Red Sox' Josh Winckowski facing 9-1-2
+b7	4-1	0	---	5,(1-2) 		NYM	Luis Torrens	Josh Winckowski	1%	96%	Double to LF (Line Drive to LF Line)
+b7	4-1	0	-2-	3,(0-2) 	O	NYM	Francisco Lindor	Josh Winckowski	-1%	95%	Strikeout Swinging
+b7	4-1	1	-2-	9,(3-2) 	O	NYM	Brandon Nimmo	Josh Winckowski	-1%	94%	Strikeout Looking
+b7	4-1	2	-2-	6,(3-2) 	O	NYM	Pete Alonso	Josh Winckowski	-1%	93%	Strikeout Looking
+									0 runs, 1 hit, 0 errors, 1 LOB. Red Sox 1, Mets 4.
+Top of the 8th, Red Sox Batting, Behind 1-4, Mets' Danny Young facing 9-1-2
+									
+Danny Young replaces Luis Severino pitching
+
+t8	1-4	0	---	3,(0-2) 	O	BOS	Ceddanne Rafaela	Danny Young	2%	96%	Strikeout Swinging
+t8	1-4	1	---	4,(1-2) 	O	BOS	Jarren Duran	Danny Young	1%	97%	Strikeout Looking
+									
+Romy Gonzalez pinch hits for Wilyer Abreu (RF) batting 2nd
+
+t8	1-4	2	---	6,(3-2) 		BOS	Romy Gonzalez	Danny Young	-1%	96%	Walk
+t8	1-4	2	1--	4,(1-2) 		BOS	Tyler O'Neill	Danny Young	-2%	94%	Hit By Pitch; R. Gonzalez to 2B
+t8	1-4	2	12-	1,(0-0) 		BOS	Rafael Devers	Danny Young	-1%	92%	Wild Pitch; R. Gonzalez to 3B; T. O'Neill to 2B
+t8	1-4	2	-23	4,(2-1) 	O	BOS	Rafael Devers	Danny Young	5%	97%	Groundout: 2B-1B
+									0 runs, 0 hits, 0 errors, 2 LOB. Red Sox 1, Mets 4.
+Bottom of the 8th, Mets Batting, Ahead 4-1, Red Sox' Josh Winckowski facing 4-5-6
+									
+Romy Gonzalez moves from PH to SS
+Jarren Duran moves from CF to LF
+Ceddanne Rafaela moves from SS to CF
+Tyler O'Neill moves from LF to RF
+
+b8	4-1	0	---	7,(3-2) 		NYM	Jesse Winker	Josh Winckowski	0%	98%	Walk
+b8	4-1	0	1--	2,(0-1) 	O	NYM	Jose Iglesias	Josh Winckowski	0%	97%	Groundout: 2B-SS/Forceout at 2B; J. Iglesias to 1B
+b8	4-1	1	1--	1,(0-0) 	OO	NYM	Jeff McNeil	Josh Winckowski	-1%	97%	Ground Ball Double Play: 1B-SS-1B (2B-1B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Mets 4.
+Top of the 9th, Red Sox Batting, Behind 1-4, Mets' Phil Maton facing 5-6-7
+									
+Phil Maton replaces Danny Young pitching
+
+t9	1-4	0	---	4,(2-1) 	O	BOS	Triston Casas	Phil Maton	2%	99%	Groundout: 1B unassisted
+t9	1-4	1	---	5,(2-2) 	O	BOS	Masataka Yoshida	Phil Maton	1%	100%	Strikeout Looking
+									
+Mickey Gasper pinch hits for Connor Wong (C) batting 7th
+
+t9	1-4	2	---	3,(0-2) 	O	BOS	Mickey Gasper	Phil Maton	0%	100%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Red Sox 1, Mets 4.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule New York Mets Schedule Boston Red Sox Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Boston Red Sox vs New York Mets Box Score: September 2, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/NYN/NYN202409020.shtml 
+ ----- 

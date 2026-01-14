@@ -1,0 +1,399 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Bolt Action Rifles
+MPA BA PMR Pro II Barrel Break in
+ 
+Thread starter
+MMH  
+Start date
+Jun 6, 2024
+M
+MMH
+Sergeant
+Full Member
+Minuteman
+Mar 17, 2013
+267
+43
+Jun 6, 2024
+#1
+I just got my MPA BA PMR Rifle II in 6.5 Creedmoor. Reading through their manual they recommend the following for a barrel break in procedure:
+
+
+
+This seems pretty intense & more than what most on this site do. Those of you that have MPA rifles, what kind of break in have you done?
+ 
+PinesAndProjectiles
+Formerly MinnesotaMulisha
+Full Member
+Minuteman
+ 
+ 
+Jul 30, 2013
+6,555
+12,863
+Solid Ground
+Jun 6, 2024
+#2
+I don’t own an MPA. Run a few patches with a cleaner down the bore to remove any residual oils and shoot it.
+ 
+ 
+Reactions:
+Superjet and 308pirate
+F
+Floridapanhandle
+Private
+Minuteman
+Sep 8, 2023
+39
+43
+Florida Panhandle
+Jun 9, 2024
+#3
+I followed MPA recommendations for barrel break in and with very little load development my rifle shoots 5 shot groups that are . 31 to .37. It is also chambered in 6.5 CM.
+ 
+Attachments
+IMG_20210712_131211559.jpg
+345.3 KB · Views: 79
+ 
+Reactions:
+xxflyingturtlexx
+M
+MMH
+Sergeant
+Full Member
+Minuteman
+Mar 17, 2013
+267
+43
+Jun 11, 2024
+#4
+I ended up shooting three founds cleaning after each round, then shooting 3 rounds & cleaning, shooting five rounds and cleaning, and then shot 25 rounds & cleaned.
+
+After the 3rd round I did not see much copper fouling which is why I went to 3 rounds, 5 rounds and then 25. After the 25 there was some copper but after the second copper cleanout the barrel was clean. I use Boretech products. Will probably shoot another 25 rounds before cleaning.
+
+the last 10 shots of the 25 (i.e. the last shot was the 36th out of the barrel) had an average velocity of 2663 FPS & I'm shooting Eagle Eye 140 Berger Hybrids. these should have a velocity of 2750 FPS so my barrel is still pretty slow. I'm guessing that it will take another 100 or 200 rounds for the barrel to speed up.
+
+Floridapanhandle said:
+I followed MPA recommendations for barrel break in and with very little load development my rifle shoots 5 shot groups that are . 31 to .37. It is also chambered in 6.5 CM.
+Very nice. Mine is shooting at .5 MOA at 200 yards.
+ 
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,710
+39,335
+Jun 11, 2024
+#5
+Floridapanhandle said:
+I followed MPA recommendations for barrel break in and with very little load development my rifle shoots 5 shot groups that are . 31 to .37. It is also chambered in 6.5 CM.
+How likely is it that it would have shot just as well without it?
+ 
+F
+Floridapanhandle
+Private
+Minuteman
+Sep 8, 2023
+39
+43
+Florida Panhandle
+Jun 12, 2024
+#6
+308pirate said:
+How likely is it that it would have shot just as well without it?
+No idea, but if you're spending 2500 on a rife why not do everything you can to make it shoot the best it can?
+ 
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,710
+39,335
+Jun 12, 2024
+#7
+Floridapanhandle said:
+No idea, but if you're spending 2500 on a rife why not do everything you can to make it shoot the best it can?
+There's a ton of folklore about the benefits and no real evidence that barrel break in works
+ 
+O
+OREGUN
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+Apr 29, 2014
+2,301
+3,884
+Out West
+Jun 12, 2024
+#8
+308pirate said:
+How likely is it that it would have shot just as well without it?
+100% likely.
+ 
+ 
+Reactions:
+Cody S and 308pirate
+DeathBeforeDismount
+Hey, give your balls a tug.
+Supporter
+Full Member
+Minuteman
+Nov 20, 2021
+5,589
+7,733
+IN YOUR HEAD
+Jun 12, 2024
+#9
+There is all kinds of different opinions about break in. I think most are BS and give the manufacture an excuse if the gun doesn't shoot.
+
+Think about whats happening.
+
+You have a fresh chambered (machined) barrel. There may be tool marks and very sharp edges. When you fire a round, that heat and pressure is going to smooth out and knock some of those sharp edges, and maybe even burrs left over from machining. When this happens, it can rip copper off the jacket and deposit that with the carbon. So the idea is as you break in, you want to keep the copper from getting deposited under the next layer of carbon and building up. As everything smooths out, you want to strip out all the shit so it doesn't just build up. Hard carbon can be difficult to strip without abrasives.
+
+I think the most important thing is to strip all the copper out, so as all the imperfection in the barrel smooth out, and friction reduces (which explains why velocity goes up after 50-200 rounds , which is what we call brake in), you get a barrel that is not imparting uneven forces on the bullet.
+
+I like to shoot about 10, then clean, then shoot 25, and clean every 25 or so shots until break in is complete around 125-150 for MOST barrels. The better the barrel quality (machined true, lapped well and chambered using a good reamer and experienced smith) the easier the brake in is IMO.
+
+For 6 and 6.5mm match guns, I will clean every 250-300 rounds. So that is cleaning every other 1 day or after every 2 day match. Then it takes about 5-10 shots to foul the barrel back in.
+
+The first shot in a freshly cleaned barrel is usually 75-100 fps slower than the rest. the next 5 settle in and I'm back to my usual SD/ES/Velocity.
+ 
+Last edited: Jun 12, 2024
+ 
+Reactions:
+FimRire RongLifle
+Rob01
+Moderator
+Staff member
+Moderator
+Full Member
+Minuteman
+ 
+Jul 9, 2001
+17,149
+13,686
+NC
+Jun 12, 2024
+#10
+I do very similar to the above. I usually clean the barrel when I get it to make sure there is nothing in there from the get go. Then head to the range and shoot 20 rounds while getting scope zeroed and then go hone and clean it. Then clean it after every 20 rounds for at least 100 rounds but no more than 160. Usually any decent custom barrel is done by then. The whole shoot one and clean is ridiculous to me and yes I did it decades ago and compared to how I do it now there was no difference in performance but more of a pain in the ass.
+ 
+ 
+Reactions:
+Metzger, Maggot, FimRire RongLifle and 1 other person
+C
+cyranis
+Private
+Minuteman
+Apr 24, 2024
+51
+44
+Nope
+Jun 12, 2024
+#11
+Barrel break in does nothing. Manufactures provide directions for it because people expect them to, and they got tired of being asked.
+
+Curious, how long did your order take?
+ 
+Last edited: Jun 12, 2024
+ 
+Reactions:
+Metzger and kilizyrag
+M
+MMH
+Sergeant
+Full Member
+Minuteman
+Mar 17, 2013
+267
+43
+Jun 12, 2024
+#12
+cyranis said:
+Barrel break in does nothing. Manufactures provide directions for it because people expect them to, and they got tired of being asked.
+
+Curious, how long did your order take?
+12 weeks. When I ordered they just ran a batch of the PMR II in 6.5 Creed. I think I missed the batch but since this caliber is so popular, I was at the top of the list for the next batch.
+ 
+O
+OREGUN
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+Apr 29, 2014
+2,301
+3,884
+Out West
+Jun 13, 2024
+#13
+Rob01 said:
+Usually any decent custom barrel is done by then.
+Rob, what do you mean by done? What is the expected outcome of the various shoot/clean “break-in” strategies?
+
+With all due respect, 10 years ago, my Fudd mentors had me doing a shoot and clean routine that took 20 rounds and hours of time…now I shoot so much more that I don’t spend any time doing anything with a new barrel except screwing it on and shooting. Hell if I can see any difference between the two methods. Accuracy is the same, barrel life is the same, frequency at which I clean and the methods I use are the same, barrel speed up around 150 rounds is the same, everything is the same.
+ 
+stevieb92
+Private
+Supporter
+Full Member
+Minuteman
+Aug 24, 2012
+923
+1,666
+50
+Pittsburgh, PA
+Jun 13, 2024
+#14
+I've done various styles of barrel break-ins in the past, but lately I'm leaning more to the side of clean it good before the first shot and then go shoot it. I'm not talking mag dumps or match pace, but a slow to moderate tempo. I may clean it every 50 or so during the first 200-250 ish rounds.
+
+I'm more concerned with watching for the velocity increase until it stabilizes and then it is ready for load development. I usually pick a random load to start and stick with that so the velocity increase is due to barrel speeding up and not the load changing. If you ask 10 different people about barrel break in, you will likely get 10 different answers.
+ 
+Rob01
+Moderator
+Staff member
+Moderator
+Full Member
+Minuteman
+ 
+Jul 9, 2001
+17,149
+13,686
+NC
+Jun 13, 2024
+#15
+OREGUN said:
+Rob, what do you mean by done? What is the expected outcome of the various shoot/clean “break-in” strategies?
+
+Done with the topic we are all talking about, break in. LOL Basically throat smoothed out and less coppering and any speeding up the barrel will have due to being new. That's all the shoot one, and clean BS is supposed to be doing anyways. Just a long waste of time as you learned to get to the same place.
+ 
+ 
+Reactions:
+OREGUN and DeathBeforeDismount
+A
+alnkal00
+Sergeant
+Full Member
+Minuteman
+May 26, 2011
+312
+27
+54
+Oldsmar,FL
+Jun 25, 2024
+#16
+M2008 w/Rock Creek mtu .308 16” suppressed
+Ballistol
+Point
+Shoot
+Laser to 1k
+Fun fun fun 
+
+New MPA w/cdg 6.5cm 26” suppressed
+Haven’t shot yet
+Ballistol Guncer this time around
+Point
+Shoot
+Don’t expect any different results then above
+Fun fun fun  
+ 
+Maggot
+"For we wrestle not against flesh and blood"
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 27, 2007
+26,293
+30,179
+Virginia
+Nov 22, 2024
+#17
+MMH said:
+I just got my MPA BA PMR Rifle II in 6.5 Creedmoor. Reading through their manual they recommend the following for a barrel break in procedure:
+
+
+
+This seems pretty intense & more than what most on this site do. Those of you that have MPA rifles, what kind of break in have you done?
+Click to expand...
+
+Pure foolishness. Nobody knows.
+
+
+ 
+You must log in or register to reply here.
+Similar threads
+R
+	
+MPA PMR Pro 2
+Rooster 24 Nov 12, 2024 Bolt Action Rifles
+8
+Nov 14, 2024
+M
+	
+MPA BA - Can a AW mag be used
+MMH Jul 10, 2024 Bolt Action Rifles
+2
+Jul 10, 2024
+	
+Firearms MPA PMR Pro II 6mm CM - unfired
+mrfishin86 Dec 10, 2024 Buy - Sell - Trade
+5
+Yesterday at 9:49 AM
+M
+	
+MPA BA PMR Pro Rifle II - Folder or not?
+MMH Mar 28, 2024 Bolt Action Rifles
+4
+Mar 30, 2024
+P
+	
+current production PMR Pro Rifles
+PRSDietitian Sep 10, 2024 Bolt Action Rifles
+7
+Sep 11, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Bolt Action Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/mpa-ba-pmr-pro-ii-barrel-break-in.7220958/ 
+ ----- 

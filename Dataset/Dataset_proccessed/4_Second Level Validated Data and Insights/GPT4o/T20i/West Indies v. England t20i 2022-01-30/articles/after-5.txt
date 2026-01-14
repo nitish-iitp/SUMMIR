@@ -1,0 +1,334 @@
+WI vs ENG
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+News
+Photos
+RESULT
+5th T20I (D/N), Bridgetown, January 30, 2022, England tour of West Indies
+WI
+179/4
+ENG
+(19.5/20 ov, T:180) 162
+
+West Indies won by 17 runs
+
+Powered by Smart Stats
+Win Probability
+WI 100%
+ENG 0.00%
+WI
+ENG
+100%
+50%
+100%
+WI Innings
+ENG Innings
+
+Over 20 • ENG 162/10
+
+Chris Jordan c sub (HR Walsh) b Holder 7 (10b 1x4 0x6 25m) SR: 70
+W
+Sam Billings c sub (HR Walsh) b Holder 41 (28b 1x4 2x6 44m) SR: 146.42
+W
+Adil Rashid c Smith b Holder 0 (1b 0x4 0x6 3m) SR: 0
+W
+Saqib Mahmood b Holder 0 (1b 0x4 0x6 4m) SR: 0
+W
+West Indies won by 17 runs
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+News
+Photos
+PLAYER OF THE MATCH
+Jason Holder
+, WI
+5/27
+CRICINFO'S MVP
+Akeal Hosein
+, WI
+120.71 pts
+Impact List
+West Indies
+England
+Match Flow
+Info
+West Indies  (20 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+Brandon King 
+\t34\t31\t2\t2\t109.67
+
+c Jordan b Livingstone
+
+
+Kyle Mayers 
+\t31\t19\t3\t2\t163.15
+
+c Salt b Rashid
+
+
+Romario Shepherd 
+\t6\t5\t0\t1\t120.00
+
+c Mahmood b Livingstone
+
+
+Nicholas Pooran †
+\t21\t24\t0\t1\t87.50
+
+b Rashid
+
+
+Kieron Pollard (c)
+\t41\t25\t1\t2\t164.00
+
+not out
+
+
+Rovman Powell 
+\t35\t17\t1\t4\t205.88
+
+not out
+
+Extras\t11\t(lb 3, nb 1, w 7)
+Total\t179/4\t
+20 Ov (RR: 8.95)
+
+
+Did not bat: 
+Jason Holder, 
+Fabian Allen, 
+Odean Smith, 
+Akeal Hosein, 
+Sheldon Cottrell 
+
+
+Fall of wickets: 1-59 (Kyle Mayers, 6.4 ov), 2-67 (Romario Shepherd, 7.5 ov), 3-89 (Brandon King, 10.4 ov), 4-105 (Nicholas Pooran, 14.4 ov)
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Reece Topley
+\t4\t0\t43\t0\t10.75\t1\t0
+
+Saqib Mahmood
+\t2\t0\t27\t0\t13.50\t1\t1
+
+Moeen Ali
+\t3\t0\t20\t0\t6.66\t1\t0
+
+Chris Jordan
+\t4\t0\t52\t0\t13.00\t1\t0
+
+Adil Rashid
+\t4\t0\t17\t
+2
+\t4.25\t0\t0
+
+Liam Livingstone
+\t3\t0\t17\t
+2
+\t5.66\t2\t0
+England  (T: 180 runs from 20 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+Jason Roy 
+\t8\t5\t2\t0\t160.00
+
+c †Pooran b Hosein
+
+
+Tom Banton 
+\t16\t12\t2\t1\t133.33
+
+c Holder b Smith
+
+
+James Vince 
+\t55\t35\t7\t1\t157.14
+
+c Allen b Hosein
+
+
+Moeen Ali (c)
+\t14\t19\t0\t0\t73.68
+
+c Mayers b Holder
+
+
+Liam Livingstone 
+\t6\t4\t1\t0\t150.00
+
+c Smith b Hosein
+
+
+Sam Billings †
+\t41\t28\t1\t2\t146.42
+
+c sub (HR Walsh) b Holder
+
+
+Phil Salt 
+\t3\t6\t0\t0\t50.00
+
+st †Pooran b Hosein
+
+
+Chris Jordan 
+\t7\t10\t1\t0\t70.00
+
+c sub (HR Walsh) b Holder
+
+
+Adil Rashid 
+\t0\t1\t0\t0\t0.00
+
+c Smith b Holder
+
+
+Saqib Mahmood 
+\t0\t1\t0\t0\t0.00
+
+b Holder
+
+
+Reece Topley 
+\t0\t0\t0\t0\t-
+
+not out
+
+Extras\t12\t(lb 4, nb 2, w 6)
+Total\t162\t
+19.5 Ov (RR: 8.16)
+
+
+Fall of wickets: 1-8 (Jason Roy, 0.5 ov), 2-40 (Tom Banton, 3.4 ov), 3-86 (Moeen Ali, 10.1 ov), 4-95 (Liam Livingstone, 11.2 ov), 5-112 (James Vince, 13.3 ov), 6-119 (Phil Salt, 15.1 ov), 7-162 (Chris Jordan, 19.2 ov), 8-162 (Sam Billings, 19.3 ov), 9-162 (Adil Rashid, 19.4 ov), 10-162 (Saqib Mahmood, 19.5 ov)
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Akeal Hosein
+\t4\t0\t30\t
+4
+\t7.50\t0\t0
+
+Jason Holder
+\t2.5\t0\t27\t
+5
+\t9.52\t0\t1
+
+Sheldon Cottrell
+\t3\t0\t21\t0\t7.00\t0\t1
+
+Odean Smith
+\t4\t0\t41\t
+1
+\t10.25\t3\t0
+
+Kieron Pollard
+\t2\t0\t15\t0\t7.50\t2\t0
+
+Romario Shepherd
+\t1\t0\t7\t0\t7.00\t1\t0
+
+Fabian Allen
+\t3\t0\t17\t0\t5.66\t0\t0
+Unlocking the magic of Statsguru
+Match Flow
+West Indies innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 58 runs, 0 wicket)
+West Indies: 50 runs in 5.1 overs (31 balls), Extras 2
+1st Wicket: 50 runs in 31 balls (BA King 24, KR Mayers 27, Ex 2)
+JJ Roy threw the ball to PD Salt to dismiss KR Mayers off a relay catch
+Drinks: West Indies - 86/2 in 10.0 overs (BA King 34, N Pooran 11)
+West Indies: 100 runs in 13.1 overs (79 balls), Extras 6
+West Indies: 150 runs in 18.1 overs (110 balls), Extras 8
+5th Wicket: 50 runs in 24 balls (KA Pollard 21, R Powell 28, Ex 2)
+Innings Break: West Indies - 179/4 in 20.0 overs (KA Pollard 41, R Powell 35)
+England innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 56 runs, 2 wickets)
+England: 50 runs in 4.6 overs (30 balls), Extras 3
+Drinks: England - 86/2 in 10.0 overs (JM Vince 42, MM Ali 14)
+England: 100 runs in 11.5 overs (71 balls), Extras 6
+JM Vince: 50 off 30 balls (6 x 4, 1 x 6)
+England: 150 runs in 17.6 overs (108 balls), Extras 8
+Over 18.4: Review by West Indies (Bowling), Umpire - GO Brathwaite, Batter - SW Billings (Struck down)
+JO Holder took 4 wickets with four consecutive deliveries, hat-trick included with the wickets of 7-162 (Jordan, 19.2 ov), 8-162 (Billings, 19.3 ov), 9-162 (Rashid, 19.4 ov), 10-162 (Mahmood, 19.5 ov)
+Match Details
+Kensington Oval, Bridgetown, Barbados
+
+Toss\tWest Indies, elected to bat first
+Series\t
+England tour of West Indies
+
+Season\t
+2021/22
+
+Player Of The Match\t
+Jason Holder
+
+Player Of The Series\t
+Jason Holder
+
+Series result\tWest Indies won the 5-match series 3-2
+Match number\t
+T20I no. 1457
+
+Match days\t30 January 2022 - daynight (20-over match)
+Umpires\t
+Gregory Brathwaite
+Nigel Duguid
+
+TV Umpire\t
+Patrick Gustard
+
+Reserve Umpire\t
+Leslie Reifer
+
+Match Referee\t
+Richie Richardson
+Discover
+\tSponsored Headlines
+找網紅合作？就交給 Kolr 讓品牌爆紅
+所有網紅行銷的煩惱，一次解決！
+KOL Radar
+|
+Sponsored
+立即試用
+【健康投資新思維：職場菁英的守護之選】
+在人生的黃金階段，您是否認真考慮過：●  如何在現有醫療保障基礎上，強化對潛在手術風險的準備？●  面對職場壓力和年齡增長帶來的健康挑戰，該如何做好全面防護？●  在追求事業成功的同時，如何確保自己的健康保障不留死角？
+凱基人壽
+|
+Sponsored
+了解更多
+在屈臣氏買的「全效合一水凝霜」只塗1個月！照鏡子嚇了一跳！
+在屈臣氏買的「全效合一水凝霜」只塗1個月！照鏡子嚇了一跳！
+YUKINOUE
+|
+Sponsored
+了解更多
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+Feedback
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/england-tour-of-west-indies-2021-22-1256716/west-indies-vs-england-5th-t20i-1256724/full-scorecard 
+ ----- 

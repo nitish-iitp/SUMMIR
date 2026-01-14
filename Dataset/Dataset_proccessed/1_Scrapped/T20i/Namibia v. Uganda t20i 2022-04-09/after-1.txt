@@ -1,0 +1,110 @@
+Sign in
+
+All Cricket Scores
+
+All Football Scores
+
+ /
+Economy rate in cricket, explained
+Economy rate in cricket, explained
+Lower economy rate means the bowler has been extremely effective in restricting the opposition.
+
+April 9, 2022
+
+Economy rate in cricket is the average number of runs conceded per over bowled. It is a significant indicator of how productive the bowler has been, especially in limited-overs. 
+
+Lower economy rate means the bowler has been extremely effective in stopping the opposition from scoring runs, and vice versa. Hence, this value typically has more substance in ODI as well as T20 cricket. This is because these formats expect bowlers to restrict the flow of runs as the opposition try to do otherwise. 
+
+While there are no set numbers, it is believed that an economy of under five is considered to be a decent return in ODI cricket. Similarly, in Twenty20, anything less than seven runs per over is a respectable figure.
+
+It must be noted that byes and leg byes are not counted in the bowler’s run tally. This means those extras have no effect on the player’s economy rate. However, extras like wides and no-balls are taken into consideration.
+
+How to calculate the economy rate in cricket?
+
+The economy rate in cricket is calculated by dividing the number of runs conceded by a bowler by the number of overs bowled.
+
+Economy rate = Runs conceded/Overs bowled
+
+To explain it in simple terms, take Mutthaiah Muralitharan’s career as an example. The Sri Lanka legend bowled a total of 18,811 deliveries in his ODI career which translates to as many as 3,135.2 overs.
+
+During his 50-overs career that spanned between 1993 to 2011, he conceded 12,326 runs. So his career economy would be calculated as follows:
+
+12,326 divided by 3,135.2, which is 3.93. 
+
+Who has the best economy rate in cricket?
+
+ODIs
+
+Taking into account players who have played at least 100 ODI matches in their career, former New Zealand bowler Richard Hadlee has the best economy rate in the format. During his 17-year career, he maintained an economy of 3.30.
+
+Overall, it’s Joel Garner of West Indies who tops the list for the best economy rate in ODI cricket. The former West Indies bowler finished his career with an economy of 3.09.
+
+Best economy rate in ODI
+Player	Team	Matches	Overs bowled	Runs conceded	Economy
+Joel Garner	West Indies	98	888.4	2752	3.09
+Max Walker	Australia	17	168.1	546	3.25
+Michael Hendrik	England	22	208	681	3.27
+Bob Willis	England	64	599.2	1968	3.28
+Richard Hadlee	New Zealand	115	1030.4	3407	3.30
+
+T20Is
+
+Former New Zealand captain Daniel Vettori has the best economy rate in T20I. The legendary spinner played 34 T20Is between 2007 and 2014, finishing with a figure of 5.70 runs per over.
+
+Best economy rate in T20I
+Player	Team	Matches	Overs bowled	Runs conceded	Economy
+Daniel Vettori	New Zealand	34	131.1	748	5.70
+Dinesh Nakrani	Uganda	28	93.4	543	5.79
+Bernard Scholtz	Namibia	29	90.4	534	5.88
+Sunil Narine	West Indies	51	183.4	1105	6.01
+Mujeeb Ur Rahman	Bangladesh	23	87.0	532	6.11
+
+Featured photo: AFP / William West
+
+Best Betting sites
+
+More
+Read Review
+Visit
+Read Review
+Visit
+Read Review
+Visit
+Read Review
+Visit
+Read Review
+Visit
+Cricket Updates
+South Africa vs Pakistan Dream11 prediction - get fantasy tips, pitch report for 2nd ODI, 2024
+News
+Sari Sari Sunrisers vs Titou Gorge Splashers Dream11 prediction - get fantasy tips, playing XI, pitch report, and weather update for Dream11 Nature Isle T10, 2nd Edition, 2024
+News
+The Valley Hikers vs Indian River Rowers Dream11 prediction - get fantasy tips, playing XI, pitch report, and weather update for Dream11 Nature Isle T10, 2nd Edition, 2024
+News
+West Indies vs Bangladesh Dream11 prediction - get fantasy tips, pitch report for 3rd T20I, 2024
+News
+Zimbabwe vs Afghanistan Dream11 prediction - get fantasy tips, pitch report for 2nd ODI, 2024
+News
+
+© SportsAdda | All Rights Reserved
+
+Contact Us | Terms & Conditions | Privacy Policy | Cookie Policy
+
+For more enquiries email us at info@sportsadda.com
+
+Home
+
+Cricket Scores
+
+Tips & Predictions
+
+Tips & Predictions
+
+Football
+
+More
+ 
+ 
+ ----- 
+ Source link : https://sportsadda.com/cricket/features/what-is-economy-rate-cricket/ 
+ ----- 

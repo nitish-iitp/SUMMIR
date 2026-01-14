@@ -1,0 +1,199 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+The Armory
+Suppressors Baffle Damage Effect on Accuracy
+ 
+Thread starter
+saddlerocker  
+Start date
+Jun 26, 2024
+S
+saddlerocker
+Private
+Full Member
+Minuteman
+Feb 23, 2013
+212
+127
+PA
+Jun 26, 2024
+#1
+22" Med Palma, Surefire FA556-212 can and MB556k Brake.
+
+Long story short, my alignment was slightly off (alignment rod not touching, but favoring 12 O'clock position).
+I had a couple rounds completely miss target and noticed what looked like an end cap strike.
+With the borescope I saw the deformation of the 2nd to last baffle as well. (Last baffle is fine for some reason).
+No other damage seen.
+
+Anyhow, I took the MB556K brake off and re mounted with a Precision Armament Accu-Washer.
+It is aligned near perfect now, but I am still throwing a round here and there. Once totally off target again. Once or twice every 100rnds it seems, so it takes a lot of ammo to troubleshoot the issue.
+Could it be from that deformed baffle and/or the end cap? Seems minimal, but im an idiot.
+
+Shooting more without the can will give me my answer, but I was wondering if anyone had experience with anything like this.
+I have read Surefire can rebuild the SOCOM cans, but I dont know about a legacy FA556-212.
+
+Suspected end cap strike originally noticed
+
+
+Borescope view of endcap damage
+
+
+1st baffle from endcap (No real damage)
+
+
+2nd from last baffle
+
+ 
+A
+AMGtuned
+Just white trash with money.....
+Supporter
+Full Member
+Minuteman
+Supporter
+May 6, 2018
+1,868
+2,289
+Maine
+Jun 27, 2024
+#2
+Is there a relief cut at the back of the muzzle threads? Are you sure that the shoulder face behind it is true? Muzzle threads concentric with bore?
+
+I'd wager that the SF stuff is fairly true and square. Admittedly having not handled a lot of it; but their tenure and use case shines in their favor, disregarding carbon complaints and such.
+
+If this is a new build, I'd start at the muzzle end of the barrel. Remove the MD, send your alignment rod, and measure all around. Or chuck it in a lathe, or whatever your means are. But if the shoulder is not square, or you have no relief cut; it will not matter what shim you use, as it would be mating to an out of square surface.
+
+Call SF about the can repair, and send them the MD to check, when they do it maybe 
+ 
+S
+saddlerocker
+Private
+Full Member
+Minuteman
+Feb 23, 2013
+212
+127
+PA
+Jun 27, 2024
+#3
+I have it aligned good now.
+It's wasn't terrible before, but the rod favored 12 o clock a little and that's where the damage is.
+I may not have had enough torque.
+
+I shot without the can today and still had some questionable groups where it looks like only 4 hits. It is possible 2 in the same hole, but doubtful.
+Previously I had 1st round of a group misses so could tell for sure a round was off target.
+
+I have an email in to surefire about repairs and their opinion if that damage would cause fliers.
+
+I am beginning to think it's the barrel somehow. Maybe a bad crown. If it continues with no can attached obviously it is something else.
+ 
+S
+saddlerocker
+Private
+Full Member
+Minuteman
+Feb 23, 2013
+212
+127
+PA
+Jul 1, 2024
+#4
+I sent an email to Surefire with photos asking if they can even do anything with the legacy cans, and if they thought the damage would cause any accuracy issues.
+
+They just gave an RMA and said send it in.
+Kinda bummed with that response.
+
+I am thinking about having my barrel cut down an inch and re crowned/threaded as I suspect that is the main issue at this point.
+Still need to shoot some more without the can, but last time out I am fairly certain I had a flier off target with just the brake.
+(Its hard to tell on paper sometimes if you have 2 in the same hole or not, unless it's a first round flier)
+ 
+kthomas
+Sergeant
+Full Member
+Minuteman
+Jun 17, 2009
+8,419
+11,750
+37
+Tucson, AZ
+Jul 1, 2024
+#5
+saddlerocker said:
+I sent an email to Surefire with photos asking if they can even do anything with the legacy cans, and if they thought the damage would cause any accuracy issues.
+
+They just gave an RMA and said send it in.
+Kinda bummed with that response.
+
+I am thinking about having my barrel cut down an inch and re crowned/threaded as I suspect that is the main issue at this point.
+Still need to shoot some more without the can, but last time out I am fairly certain I had a flier off target with just the brake.
+(Its hard to tell on paper sometimes if you have 2 in the same hole or not, unless it's a first round flier)
+Click to expand...
+
+I don't own any SureFire suppressors, but based on my experience with their CS for other products, they will take care of you.
+ 
+You must log in or register to reply here.
+Similar threads
+K
+	
+Suppressors .50 Cal Suppressor Alignment
+Kynoch2015 Jan 28, 2024 The Armory
+4
+Jun 15, 2024
+	
+Suppressors Tbac Ultra 338 Gen 2 strike
+JackOfAllTrades Jul 17, 2024 The Armory
+7
+Jul 21, 2024
+S
+	
+Suppressors Max Barrel Diameter for SF Suppressor
+saddlerocker Jan 14, 2024 The Armory
+2
+Jul 4, 2024
+	
+Suppressors TBAC Magnus RR-K vs Area419 Maverick vs Without Warning CHAD
+NiteQwill Sep 1, 2024 The Armory
+58
+Yesterday at 11:43 AM
+	
+Loctite 620 and my silencerco muzzle brake
+magman687 Oct 3, 2024 Bolt Action Rifles
+14
+Oct 5, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+The Armory
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/baffle-damage-effect-on-accuracy.7223184/ 
+ ----- 

@@ -1,0 +1,343 @@
+IND vs BAN
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+17th Match (D/N), Pune, October 19, 2023, ICC Cricket World Cup
+BAN
+256/8
+IND
+(41.3/50 ov, T:257) 261/3
+
+India won by 7 wickets (with 51 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+BAN 0.00%
+IND 100%
+BAN
+IND
+100%
+50%
+100%
+BAN Innings
+IND Innings
+
+Over 42 • IND 261/3
+
+India won by 7 wickets (with 51 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Virat Kohli
+, IND
+103* (97)
+CRICINFO'S MVP
+Virat Kohli
+, IND
+110.84 pts
+Impact List
+Bangladesh
+India
+Match Flow
+Info
+Bangladesh  (50 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+Tanzid Hasan 
+\t51\t43\t5\t3\t118.60
+
+lbw b Kuldeep Yadav
+
+
+Litton Das 
+\t66\t82\t7\t0\t80.48
+
+c Shubman Gill b Jadeja
+
+
+Najmul Hossain Shanto (c)
+\t8\t17\t0\t0\t47.05
+
+lbw b Jadeja
+
+
+Mehidy Hasan Miraz 
+\t3\t13\t0\t0\t23.07
+
+c †Rahul b Mohammed Siraj
+
+
+Towhid Hridoy 
+\t16\t35\t0\t0\t45.71
+
+c Shubman Gill b Thakur
+
+
+Mushfiqur Rahim †
+\t38\t46\t1\t1\t82.60
+
+c Jadeja b Bumrah
+
+
+Mahmudullah 
+\t46\t36\t3\t3\t127.77
+
+b Bumrah
+
+
+Nasum Ahmed 
+\t14\t18\t2\t0\t77.77
+
+c †Rahul b Mohammed Siraj
+
+
+Mustafizur Rahman 
+\t1\t7\t0\t0\t14.28
+
+not out
+
+
+Shoriful Islam 
+\t7\t3\t0\t1\t233.33
+
+not out
+
+Extras\t6\t(lb 1, w 5)
+Total\t256/8\t
+50 Ov (RR: 5.12)
+
+
+Did not bat: 
+Hasan Mahmud 
+
+
+Fall of wickets: 1-93 (Tanzid Hasan, 14.4 ov), 2-110 (Najmul Hossain Shanto, 19.6 ov), 3-129 (Mehidy Hasan Miraz, 24.1 ov), 4-137 (Litton Das, 27.4 ov), 5-179 (Towhid Hridoy, 37.2 ov), 6-201 (Mushfiqur Rahim, 42.3 ov), 7-233 (Nasum Ahmed, 46.5 ov), 8-248 (Mahmudullah, 49.2 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Jasprit Bumrah
+\t10\t1\t41\t
+2
+\t4.10\t1\t0
+
+Mohammed Siraj
+\t10\t0\t60\t
+2
+\t6.00\t3\t0
+
+Hardik Pandya
+\t0.3\t0\t8\t0\t16.00\t0\t0
+
+Virat Kohli
+\t0.3\t0\t2\t0\t4.00\t0\t0
+
+Shardul Thakur
+\t9\t0\t59\t
+1
+\t6.55\t0\t0
+
+Kuldeep Yadav
+\t10\t0\t47\t
+1
+\t4.70\t1\t0
+
+Ravindra Jadeja
+\t10\t0\t38\t
+2
+\t3.80\t0\t0
+India  (T: 257 runs from 50 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+Rohit Sharma (c)
+\t48\t40\t7\t2\t120.00
+
+c Towhid Hridoy b Hasan Mahmud
+
+
+Shubman Gill 
+\t53\t55\t5\t2\t96.36
+
+c Mahmudullah b Mehidy Hasan Miraz
+
+
+Virat Kohli 
+\t103\t97\t6\t4\t106.18
+
+not out
+
+
+Shreyas Iyer 
+\t19\t25\t2\t0\t76.00
+
+c Mahmudullah b Mehidy Hasan Miraz
+
+
+KL Rahul †
+\t34\t34\t3\t1\t100.00
+
+not out
+
+Extras\t4\t(nb 2, w 2)
+Total\t261/3\t
+41.3 Ov (RR: 6.28)
+
+
+Did not bat: 
+Hardik Pandya, 
+Ravindra Jadeja, 
+Shardul Thakur, 
+Jasprit Bumrah, 
+Kuldeep Yadav, 
+Mohammed Siraj 
+
+
+Fall of wickets: 1-88 (Rohit Sharma, 12.4 ov), 2-132 (Shubman Gill, 19.2 ov), 3-178 (Shreyas Iyer, 29.1 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Shoriful Islam
+\t8\t0\t54\t0\t6.75\t0\t0
+
+Mustafizur Rahman
+\t5\t0\t29\t0\t5.80\t0\t0
+
+Nasum Ahmed
+\t9.3\t0\t60\t0\t6.31\t0\t0
+
+Hasan Mahmud
+\t8\t0\t65\t
+1
+\t8.12\t1\t2
+
+Mehidy Hasan Miraz
+\t10\t0\t47\t
+2
+\t4.70\t1\t0
+
+Mahmudullah
+\t1\t0\t6\t0\t6.00\t0\t0
+Unlocking the magic of Statsguru
+Match Flow
+Bangladesh innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 63 runs, 0 wicket)
+Bangladesh: 50 runs in 9.2 overs (56 balls), Extras 2
+1st Wicket: 50 runs in 56 balls (Tanzid Hasan 30, Litton Das 21, Ex 2)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 126 runs, 5 wickets)
+Tanzid Hasan: 50 off 41 balls (5 x 4, 3 x 6)
+Drinks: Bangladesh - 90/0 in 14.0 overs (Tanzid Hasan 50, Litton Das 37)
+Bangladesh: 100 runs in 17.2 overs (104 balls), Extras 3
+Litton Das: 50 off 62 balls (5 x 4)
+Drinks: Bangladesh - 149/4 in 31.0 overs (Towhid Hridoy 9, Mushfiqur Rahim 8)
+Bangladesh: 150 runs in 31.1 overs (187 balls), Extras 4
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 67 runs, 3 wickets)
+Bangladesh: 200 runs in 42.1 overs (253 balls), Extras 5
+Over 49.1: Review by India (Bowling), Decision Challenged - Wicket, Umpire - AT Holdstock, Batter - Mahmudullah (Struck down)
+Bangladesh: 250 runs in 49.4 overs (298 balls), Extras 6
+Innings Break: Bangladesh - 256/8 in 50.0 overs (Mustafizur Rahman 1, Shoriful Islam 7)
+India innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 63 runs, 0 wicket)
+India: 50 runs in 8.6 overs (54 balls), Extras 0
+1st Wicket: 50 runs in 54 balls (RG Sharma 37, Shubman Gill 13, Ex 0)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 186 runs, 3 wickets)
+India: 100 runs in 12.5 overs (79 balls), Extras 2
+Drinks: India - 122/1 in 17.0 overs (Shubman Gill 47, V Kohli 25)
+Shubman Gill: 50 off 52 balls (5 x 4, 2 x 6)
+India: 150 runs in 22.4 overs (138 balls), Extras 2
+V Kohli: 50 off 48 balls (4 x 4, 1 x 6)
+India: 200 runs in 33.3 overs (203 balls), Extras 3
+Drinks: India - 201/3 in 34.0 overs (V Kohli 65, KL Rahul 13)
+4th Wicket: 50 runs in 52 balls (V Kohli 16, KL Rahul 33, Ex 1)
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 12 runs, 0 wicket)
+India: 250 runs in 40.1 overs (243 balls), Extras 4
+V Kohli: 100 off 97 balls (6 x 4, 4 x 6)
+Match Details
+Maharashtra Cricket Association Stadium, Pune
+
+Toss\tBangladesh, elected to bat first
+Series\t
+ICC Cricket World Cup
+
+Season\t
+2023/24
+
+Player Of The Match\t
+Virat Kohli
+
+Match number\t
+ODI no. 4674
+
+Hours of play (local time)\t14.00 start, First Session 14.00-17.30, Interval 17.30-18.00, Second Session 18.00-21.30
+Match days\t19 October 2023 - daynight (50-over match)
+Umpires\t
+Adrian Holdstock
+DRS
+Richard Kettleborough
+DRS
+
+TV Umpire\t
+Kumar Dharmasena
+
+Reserve Umpire\t
+Marais Erasmus
+
+Match Referee\t
+Andy Pycroft
+
+Points\tIndia 2, Bangladesh 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 874 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/india-vs-bangladesh-17th-match-1384408/full-scorecard 
+ ----- 

@@ -1,0 +1,916 @@
+Football
+Hockey
+Basketball
+Tennis
+Cricket
+Settings
+Home
+Live
+Favourites
+England
+Champions League
+Champions League 23/24
+Spain
+Italy
+Germany
+France
+Netherlands
+Scotland
+Turkiye
+Europa League
+Europa Conference League 23/24
+Euro 2024 Qualification
+Euro 2024
+UEFA Nations League
+International
+World Cup Qualification
+Africa Cup of Nations 2023
+UEFA Women's CL
+UEFA Nations League Women
+Copa Libertadores
+Copa Sudamericana
+Africa Cup of Nations Qualification
+African Nat. Champ.
+Club Friendlies
+Women's World Cup
+International Friendlies
+Women's World Cup Qualification
+Women's Euro
+Women's World Cup U20
+World Cup U20
+Women's World Youth Cup
+World Youth Cup
+Women's Euro U19
+Women's Euro U17
+Women's World Cup U17
+World Cup U17
+UEFA Youth League
+Euro U21 2025
+Euro U21
+Euro U19
+Euro U19 Qualification
+Euro U17
+CONCACAF Nat. League
+CONCACAF Championship U20
+Copa America
+AFC Asian Cup
+AFC Women's Club Championship
+CONCACAF Gold Cup
+Africa
+Asia
+CONCACAF
+Oceania
+South America
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Mali
+Malta
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Romania
+Rwanda
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+USA
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
+World Cup 2022
+Champions League 22/23
+Champions League 21/22
+Champions League 20/21
+Champions League 19/20
+Europa League 22/23
+Europa League 21/22
+Europa League 20/21
+Europa League 19/20
+Europa Conference League 22/23
+Europa Conference League 21/22
+Africa Cup of Nations 2021
+Euro 2020
+UEFA Women's CL 22/23
+Women's CAF Champions League
+CONCACAF Women Gold Cup
+UEFA Nations League 22/23
+Paris 2024 Women
+Europa League 23/24
+The Games - Men
+The Games - Women
+Conference League
+CONCACAF Women Champions Cup
+World Cup 2026
+DEC 25
+DEC 26
+DEC 27
+TODAY
+DEC 29
+DEC 30
+DEC 31
+ENGLAND - LEAGUE 2
+SEPTEMBER 2
+FT
+Salford City
+1 - 0
+MK Dons
+SPAIN - LALIGA 2
+SEPTEMBER 2
+FT
+Eibar
+2 - 2
+Levante
+FT
+Elche
+3 - 1
+Cordoba
+ARGENTINA - PRIMERA DIVISION 2024
+SEPTEMBER 2
+FT
+Banfield
+1 - 2
+Instituto Cordoba
+FT
+Gimnasia LP
+1 - 0
+Argentinos Juniors
+FT
+Godoy Cruz
+1 - 1
+Central Cordoba de Santiago
+MEXICO - LIGA MX: APERTURA
+SEPTEMBER 2
+FT
+Club Santos Laguna
+3 - 2
+Necaxa
+ROMANIA - LIGA 1
+SEPTEMBER 2
+FT
+FC Unirea 2004 Slobozia
+2 - 1
+FC Buzau
+FT
+Universitatea Cluj
+1 - 0
+Dinamo Bucuresti
+INTERNATIONAL FRIENDLIES - FRIENDLIES 2024
+SEPTEMBER 2
+FT
+Fiji
+1 - 0
+Solomon Islands
+CLUB FRIENDLIES - CLUB FRIENDLIES 2024
+SEPTEMBER 2
+FT
+Persikas Subang
+2 - 1
+Rans FC
+USA - NATIONAL WOMEN'S SOCCER LEAGUE
+SEPTEMBER 2
+FT
+San Diego Wave FC
+1 - 1
+Washington Spirit
+GERMANY - FRAUEN-BUNDESLIGA
+SEPTEMBER 2
+FT
+Wolfsburg W
+3 - 3
+Werder Bremen W
+WOMEN'S WORLD CUP U20 - GROUP E
+SEPTEMBER 2
+FT
+Ghana U20 W
+1 - 2
+Austria U20 W
+WOMEN'S WORLD CUP U20 - GROUP F
+SEPTEMBER 2
+FT
+North Korea U20 W
+6 - 2
+Argentina U20 W
+ARGENTINA - PRIMERA NACIONAL
+SEPTEMBER 2
+FT
+Club Atletico Colon
+1 - 0
+Deportivo Moron
+FT
+CA Defensores Unidos
+1 - 1
+Almagro
+FT
+CA San Miguel
+2 - 4
+Patronato de Parana
+FT
+San Telmo
+4 - 0
+Arsenal Sarandi
+FT
+CA Talleres Remedios de Escalada
+2 - 2
+All Boys
+FT
+Club Atletico Estudiantes
+1 - 0
+Agropecuario
+ARGENTINA - PRIMERA B METROPOLITANA: CLAUSURA
+SEPTEMBER 2
+FT
+Canuelas
+0 - 2
+Colegiales
+FT
+Sacachispas FC
+1 - 2
+Acassuso
+FT
+CA Ferrocarril Midland
+0 - 1
+CSD Flandria
+ARGENTINA - PRIMERA C: CLAUSURA
+SEPTEMBER 2
+FT
+General Lamadrid
+3 - 1
+El Porvenir
+BOSNIA AND HERZEGOVINA - PREMIER LEAGUE
+SEPTEMBER 2
+FT
+Borac Banja Luka
+3 - 0
+GOSK Gabela
+BRAZIL - SERIE B
+SEPTEMBER 2
+FT
+Sport Recife
+3 - 2
+Ituano FC
+BRAZIL - SERIE C: 2ND STAGE: GROUP C
+SEPTEMBER 2
+FT
+Londrina EC
+2 - 3
+Athletic Club
+BRAZIL - COPA RIO
+SEPTEMBER 2
+FT
+Volta Redonda
+1 - 1
+America RJ
+BULGARIA - VTORA LIGA
+SEPTEMBER 2
+FT
+Botev Plovdiv II
+0 - 2
+Lokomotiv Gorna Oryahovitsa
+FT
+Yantra
+2 - 2
+Dobrudzha Dobrich
+FT
+Ludogorets Razgrad II
+2 - 0
+Fratria
+FT
+Etar
+2 - 2
+Marek Dupnitsa
+CANADA - PREMIER LEAGUE
+SEPTEMBER 2
+FT
+HFX Wanderers FC
+2 - 1
+York United FC
+CHILE - PRIMERA DIVISIÓN
+SEPTEMBER 2
+FT
+Union La Calera
+2 - 1
+Audax Italiano
+COLOMBIA - PRIMERA A: CLAUSURA
+SEPTEMBER 2
+FT
+Atletico Junior
+1 - 1
+Santa Fe
+COLOMBIA - PRIMERA B: CLAUSURA
+SEPTEMBER 2
+FT
+Bogota FC
+5 - 0
+Cucuta
+COSTA RICA - PRIMERA DIVISIÓN: APERTURA
+SEPTEMBER 2
+FT
+Municipal Perez Zeledon
+1 - 1
+Guanacasteca
+COSTA RICA - LIGA DE ASCENSO: APERTURA: GROUP B
+SEPTEMBER 2
+FT
+CS Uruguay
+3 - 2
+Cariari
+DENMARK - 1ST DIVISION
+SEPTEMBER 2
+FT
+Hobro
+0 - 1
+B 93
+ENGLAND - NATIONAL LEAGUE: SOUTH
+SEPTEMBER 2
+FT
+Aveley
+3 - 1
+Dorking Wanderers
+FT
+Boreham Wood
+1 - 2
+Worthing
+FT
+Hemel Hempstead
+4 - 2
+Welling United
+ENGLAND - FA CUP: QUALIFICATION
+SEPTEMBER 2
+FT
+Bedford
+0 - 3
+Royston Town
+FT
+St. Ives Town
+5 - 2
+Harpenden Town
+ENGLAND - PREMIER LEAGUE 2
+SEPTEMBER 2
+FT
+Sunderland U21
+2 - 3
+Liverpool U21
+ENGLAND - PROFESSIONAL DEVELOPMENT LEAGUE: NORTH
+SEPTEMBER 2
+FT
+Crewe Alexandra U21
+0 - 3
+Ipswich Town U21
+FT
+Sheffield United U21
+8 - 2
+Watford U21
+GUATEMALA - LIGA NACIONAL: APERTURA
+SEPTEMBER 2
+FT
+Comunicaciones FC
+1 - 2
+Xinabajul
+HONDURAS - LIGA NACIONAL: APERTURA
+SEPTEMBER 2
+FT
+Real Espana
+2 - 0
+CD Olimpia
+ICELAND - WOMEN'S BESTA DEILD RELEGATION GROUP
+SEPTEMBER 2
+FT
+Stjarnan W
+1 - 2
+Fylkir Reykjavik W
+ISRAEL - LIGA LEUMIT
+SEPTEMBER 2
+FT
+Hapoel Kfar Saba
+2 - 1
+Maccabi Kabilio Jaffa
+FT
+Hapoel Umm al-Fahm
+0 - 3
+Hapoel Nir Ramat HaSharon
+FT
+Maccabi Herzliya
+2 - 2
+Hapoel Afula
+ITALY - SERIE C: GROUP A
+SEPTEMBER 2
+FT
+FC Arzignano Valchiampo
+1 - 1
+AlbinoLeffe
+ITALY - SERIE C: GROUP B
+SEPTEMBER 2
+FT
+Ascoli
+1 - 0
+Pianese
+FT
+Vis Pesaro
+3 - 0
+S.S. Arezzo
+ITALY - SERIE C: GROUP C
+SEPTEMBER 2
+FT
+Avellino
+1 - 1
+Giugliano
+FT
+Cavese
+2 - 1
+Crotone
+FT
+Team Altamura
+0 - 2
+Foggia
+FT
+Catania
+1 - 0
+Benevento
+KOSOVO - SUPERLEAGUE
+SEPTEMBER 2
+FT
+Drita
+3 - 1
+Ferizaj
+LITHUANIA - II LYGA
+SEPTEMBER 2
+FT
+Zalgiris Vilnius B
+3 - 0
+Dfk Dainava B
+FT
+FC Neptunas B
+4 - 0
+FC Dziugas B
+MEXICO - WOMEN'S LIGA MX: APERTURA
+SEPTEMBER 2
+FT
+Tigres W
+1 - 0
+Club Leon W
+FT
+Toluca W
+2 - 0
+CD Guadalajara W
+FT
+Queretaro FC W
+1 - 3
+Monterrey W
+MOZAMBIQUE - MOCAMBOLA
+SEPTEMBER 2
+FT
+Brera Tchumene
+3 - 1
+ENH de Vilankulo
+NICARAGUA - LIGA PRIMERA: APERTURA
+SEPTEMBER 2
+FT
+Unan Managua
+1 - 1
+Rancho Santana FC
+PERU - LIGA 2: RELEGATION GROUP
+SEPTEMBER 2
+FT
+Universidad Cesar Vallejo Moquegua
+6 - 1
+Carlos Stein
+PORTUGAL - U23 LIGA REVELACAO: GROUP A
+SEPTEMBER 2
+FT
+Famalicao U23
+1 - 0
+Vizela U23
+ROMANIA - LIGA II
+SEPTEMBER 2
+FT
+Steaua Bucuresti
+0 - 0
+U Craiova 1948
+SERBIA - PRVA LIGA
+SEPTEMBER 2
+FT
+Vozdovac
+5 - 0
+Sloven Ruma
+SWEDEN - DIVISION 1: NORTH
+SEPTEMBER 2
+FT
+Hammarby TFF
+0 - 1
+FC Stockholm Internazionale
+SWEDEN - DIVISION 1: SOUTH
+SEPTEMBER 2
+FT
+FC Trollhaettan
+1 - 1
+Ljungskile
+FT
+Joenkoepings Soedra
+1 - 0
+Norrby
+TURKIYE - 1ST LIG
+SEPTEMBER 2
+FT
+Amed Sportif
+3 - 0
+Kocaelispor
+USA - MLS NEXT PRO
+SEPTEMBER 2
+FT
+FC Cincinnati II
+0 - 2
+Toronto FC II
+AP
+North Texas SC
+2 - 2
+Colorado Rapids II
+FT
+St. Louis City II
+3 - 2
+Austin FC II
+USA - NCAA: WESTERN ATHLETIC CONFERENCE
+SEPTEMBER 2
+FT
+Air Force Falcons
+1 - 2
+Washington Huskies
+FT
+Cal State Fullerton Titans
+6 - 1
+Dixie State Trailblazers
+FT
+Evansville Purple Aces
+3 - 1
+Southern Indiana Screaming Eagles
+FT
+Indiana Hoosiers
+2 - 0
+Yale Bulldogs
+FT
+Oral Roberts Golden Eagles
+2 - 1
+UC Santa Barbara Gauchos
+FT
+Stanford Cardinal
+4 - 1
+Saint Marys Gaels
+FT
+Tulsa Golden Hurricane
+3 - 2
+Cal Poly Mustangs
+FT
+San Jose State Spartans
+2 - 1
+Sacramento State Hornets
+FT
+Cal State Northridge Matadors
+0 - 1
+California Golden Bears
+FT
+Gonzaga Bulldogs
+2 - 1
+Houston Baptist Huskies
+FT
+UC San Diego Tritons
+2 - 2
+Lipscomb Bisons
+FT
+UC Riverside Highlanders
+0 - 2
+Pacific Tigers
+FT
+Canisius Golden Griffins
+3 - 0
+Central Connecticut Blue Devils
+FT
+Georgetown Hoyas
+0 - 0
+Fiu Panthers
+FT
+Marshall Thundering Herd
+6 - 1
+Loyola Greyhounds
+FT
+Michigan State Spartans
+1 - 2
+Oregon State Beavers
+FT
+Rider Broncs
+3 - 1
+Saint Joseph´s Hawks
+FT
+Michigan Wolverines
+2 - 0
+Bowling Green Falcons
+FT
+Depaul Blue Demons
+1 - 2
+Drake Bulldogs
+FT
+Western Michigan Broncos
+5 - 1
+Villanova Wildcats
+20:00
+Detroit Mercy Titans
+-
+Chicago State Cougars
+FT
+Umass Minutemen
+1 - 2
+Providence Friars
+21:00
+Penn State Nittany Lions
+-
+Saint Bonaventure Bonnies
+21:00
+Umbc Retrievers
+-
+Fairleigh Dickinson Knights
+FT
+Hofstra Pride
+3 - 2
+Binghamton Bearcats
+FT
+Army Black Knights
+0 - 1
+Sacred Heart Pioneers
+FT
+Charleston Cougars
+3 - 2
+Stenson Hatters
+FT
+Davidson Wildcats
+0 - 0
+Campbell Fighting Camels
+22:00
+Lehigh Mountain Hawks
+-
+Rutgers Scarlet Knights
+FT
+Milwaukee Panthers
+1 - 1
+St Thomas (Mn) Tommies
+FT
+Akron Zips
+3 - 3
+Cleveland State Vikings
+FT
+American Eagles
+0 - 0
+Temple Owls
+FT
+Charlotte 49ers
+2 - 0
+Furman Paladins
+FT
+Elon Phoenix
+2 - 1
+Grand Canyon Antelopes
+FT
+Louisville Cardinals
+3 - 1
+Bellarmine Knights
+FT
+Maryland Terrapins
+1 - 1
+Virginia Cavaliers
+FT
+Navy Midshipmen
+3 - 0
+Niagara Purple Eagles
+FT
+Queens Charlotte Royals
+3 - 1
+Presbyterian Blue Hose
+FT
+Syracuse Orange
+0 - 1
+Le Moyne Dolphins
+FT
+Unc Wilmington Seahawks
+1 - 1
+South Florida Bulls
+FT
+Kentucky Wildcats
+2 - 2
+Virginia Tech Hokies
+FT
+North Carolina Tar Heels
+6 - 0
+East Tennessee State Buccaneers
+USA - WOMEN'S NCAA: WESTERN ATHLETIC CONFERENCE
+SEPTEMBER 2
+FT
+Lamar Lady Cardinals
+2 - 1
+Sam Houston State Bearkats W
+FT
+Texas AM Commerce Lion W
+0 - 1
+Tarleton State Texans W
+FT
+Utah Utes W
+7 - 1
+Weber State Wildcats
+FT
+Texas State Bobcats W
+2 - 3
+Houston Cougars W
+FT
+Memphis Tigers W
+4 - 2
+Iowa State Cyclones W
+FT
+SMU Mustangs W
+0 - 1
+TCU Horned Frogs W
+FT
+Fresno State Bulldogs W
+0 - 1
+Seattle Redhawks W
+FT
+Hawaii Rainbow Wahine W
+4 - 1
+North Dakota State Bison W
+FT
+Wofford Terriers W
+2 - 4
+Elon Phoenix W
+FT
+Detroit Mercy Titans W
+2 - 0
+Madonna Crusaders W
+FT
+Nebraska Cornhuskers W
+5 - 2
+Creighton Bluejays W
+19:00
+Duquesne Dukes W
+-
+Slippery Rock Lions W
+FT
+Northeastern Huskies W
+0 - 4
+Harvard Crimson W
+VENEZUELA - PRIMERA DIVISION: CLAUSURA
+SEPTEMBER 2
+FT
+Estudiantes Merida
+4 - 0
+Metropolitanos FC
+VENEZUELA - SEGUNDA DIVISIÓN: CENTRAL ORIENTAL APERTURA
+SEPTEMBER 2
+FT
+Bolívar Sport Club
+1 - 1
+Academia Anzoategui
+FT
+Deportivo Miranda
+2 - 0
+Deportivo Nueva Esparta
+FT
+Maritimo
+2 - 0
+Atletico La Cruz
+VENEZUELA - SEGUNDA DIVISIÓN: OCCIDENTAL APERTURA
+SEPTEMBER 2
+FT
+Academia Rey
+3 - 2
+Real Frontera
+FT
+Yaracuyanos FC
+1 - 0
+Atletico El Vigia
+FT
+Aragua FC
+1 - 2
+Trujillanos FC
+FT
+Urena SC
+2 - 3
+Heroes de Falcon FC
+Live Scores and fixtures for football on 2 September 2024
+Looking for the livescore today? See live scores and fixtures for football on 2 September 2024.
+LiveScore brings you the latest football fixtures, results and live score information for 2 September 2024. Revisit scores and statistics and look ahead for upcoming fixtures for your favourite sport team. Plus, find out the livescore today, 2 September 2024.
+© 1998-2024 LiveScore Limited
+CareersMobileAdvertiseContactPrivacy NoticeCookie PolicyTerms of UseCorporate
+ 
+ 
+ ----- 
+ Source link : https://www.livescore.mobi/football/2024-09-02/ 
+ ----- 

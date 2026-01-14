@@ -1,0 +1,311 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Doubleheader - Game 1 - Makeup from 9/6
+Nationals
+63-78, 31-41 Away
+5
+Final
+Pirates
+66-75, 33-37 Home
+3
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+WSH
+
+
+PIT
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t1\t0\t1\t0\t2\t0\t0\t1\t5\t7\t0
+0\t0\t0\t0\t0\t0\t2\t0\t1\t3\t5\t1
+WIN
+D. Herz
+3-7
+5.0 IP, 0 H, 0 ER, 5 K, 3 BB
+LOSS
+L. Ortiz
+6-5
+5.2 IP, 6 H, 3 ER, 2 K, 2 BB
+SAVE
+K. Finnegan
+35
+1.0 IP, 3 H, 1 ER, 0 K, 1 BB
+WSH
+Overview
+PIT
+Nationals Hitting
+HITTERS
+
+C. Abrams
+SS
+
+
+J. Wood
+LF
+
+
+A. Chaparro
+DH
+
+
+L. García Jr.
+2B
+
+
+K. Ruiz
+C
+
+
+J. Tena
+3B
+
+
+D. Crews
+RF
+
+
+J. Gallo
+1B
+
+
+J. Young
+CF
+
+TEAM
+AB\tR\tH\tRBI\tHR\tBB\tAVG
+4\t0\t0\t1\t0\t0\t.238
+4\t0\t1\t0\t0\t1\t.271
+4\t0\t1\t0\t0\t0\t.234
+3\t2\t1\t0\t0\t1\t.290
+2\t0\t0\t1\t0\t1\t.223
+4\t1\t2\t0\t0\t0\t.313
+3\t2\t2\t2\t1\t1\t.250
+2\t0\t0\t0\t0\t2\t.166
+4\t0\t0\t0\t0\t0\t.258
+30\t5\t7\t4\t1\t6\t
+BATTING
+2BL. García Jr. (25, Ortiz); Crews (3, Ortiz)
+HRCrews (3, 2nd inning off Ortiz 0 on, 2 Out)
+RBIRuiz (49), Abrams (63), Crews 2 (6)
+2Out RBICrews 2
+SFRuiz; Abrams
+GIDPL. García Jr. (2)
+Team LOB7
+Team RISP0-6 (Gallo 0-2, L. García Jr. 0-1, Chaparro 0-1, Young 0-1, Crews 0-1)
+BASERUNNING
+SBGallo (3, 2nd base off Bednar/Bart); Crews 2 (5, 2nd base off Bednar/Bart, 3rd base off Bednar/Bart)
+FIELDING
+DP1 (Abrams-L. García Jr.-Gallo)
+Pirates Hitting
+HITTERS
+
+I. Kiner-Falefa
+SS
+
+
+B. Reynolds
+LF
+
+
+J. Bart
+C
+
+
+A. McCutchen
+DH
+
+
+O. Cruz
+CF
+
+
+N. Gonzales
+2B
+
+
+C. Joe
+1B
+
+
+a
+R. Tellez
+PH-1B
+
+
+M. Taylor
+PR
+
+
+B. De La Cruz
+RF
+
+
+J. Triolo
+3B
+
+TEAM
+AB\tR\tH\tRBI\tHR\tBB\tAVG
+4\t0\t0\t0\t0\t0\t.215
+3\t0\t0\t0\t0\t1\t.278
+3\t1\t1\t0\t0\t1\t.273
+4\t0\t0\t0\t0\t0\t.234
+4\t0\t1\t0\t0\t0\t.268
+4\t1\t2\t1\t0\t0\t.267
+1\t0\t0\t0\t0\t1\t.233
+1\t1\t1\t2\t1\t1\t.257
+0\t0\t0\t0\t0\t0\t.188
+4\t0\t0\t0\t0\t0\t.194
+3\t0\t0\t0\t0\t0\t.204
+31\t3\t5\t3\t1\t4\t
+a-homered to right for Joe in the 7th
+BATTING
+HRTellez (13, 7th inning off Barnes 1 on, 2 Out)
+RBITellez 2 (54), N. Gonzales (45)
+2Out RBITellez 2
+GIDPDe La Cruz
+Team LOB5
+Team RISP1-2 (De La Cruz 0-1, N. Gonzales 1-1)
+FIELDING
+DP2 (N. Gonzales-Kiner-Falefa-Joe , Kiner-Falefa-Tellez)
+ECruz (26, throw)
+PBBart
+Nationals Pitching
+PITCHERS
+
+D. Herz
+(W, 3-7)
+
+
+R. Garcia
+
+
+J. Barnes
+
+
+D. Law
+(H, 13)
+
+
+K. Finnegan
+(S, 36)
+
+TEAM
+IP\tH\tER\tK\tPC-ST\tERA
+5.0\t0\t0\t5\t87-53\t3.82
+1.2\t1\t1\t1\t15-12\t4.44
+0.1\t1\t1\t0\t7-5\t4.01
+1.0\t0\t0\t1\t17-10\t2.77
+1.0\t3\t1\t0\t23-14\t3.54
+9.0\t5\t3\t7\t149-94\t
+PITCHING
+First-pitch strikes/Batters FacedLaw 1/3; Barnes 1/2; Finnegan 4/6; Herz 12/18; R. Garcia 5/6
+Called strikes-Swinging strikes-Foul balls-In play strikesLaw-2-3-3-2; Barnes-1-0-2-1; Finnegan-2-3-4-5; Herz-12-12-19-10; R. Garcia-3-1-3-5
+Ground Balls-Fly BallsLaw 2-0; Barnes 0-1; Finnegan 1-1; Herz 5-5; R. Garcia 1-3
+Game ScoresD Herz 69
+Pirates Pitching
+PITCHERS
+
+L. Ortiz
+(L, 6-5)
+
+
+J. Beeks
+
+
+K. Nicolas
+
+
+D. Bednar
+
+TEAM
+IP\tH\tER\tK\tPC-ST\tERA
+5.2\t6\t3\t2\t100-58\t3.26
+1.1\t0\t0\t1\t15-9\t4.24
+1.0\t1\t0\t1\t13-6\t3.48
+1.0\t0\t1\t0\t25-11\t6.12
+9.0\t7\t4\t4\t153-84\t
+PITCHING
+IBBWood (by Bednar).
+HBPChaparro (by Ortiz)
+First-pitch strikes/Batters FacedBeeks 3/4; Bednar 1/6; Nicolas 0/4; Ortiz 15/25
+Called strikes-Swinging strikes-Foul balls-In play strikesBeeks-2-1-3-2; Bednar-4-2-2-3; Nicolas-1-2-1-2; Ortiz-14-12-12-20
+Ground Balls-Fly BallsBeeks 1-2; Bednar 0-3; Nicolas 1-0; Ortiz 6-8
+Game ScoresL Ortiz 43
+Scoring Summary
+INNING
+\tWSH\tPIT
+\t\t2nd\tCrews homered to left center (404 feet).\t1\t0
+\t\t4th\tL. García Jr. scored, Tena to third on passed ball by Bart.\t2\t0
+\t\t6th\tRuiz hit sacrifice fly to right, L. García Jr. scored.\t3\t0
+\t\t6th\tCrews doubled to left, Tena scored.\t4\t0
+\t\t7th\tTellez homered to right (443 feet), N. Gonzales scored.\t4\t2
+\t\t9th\tAbrams hit sacrifice fly to center, Crews scored.\t5\t2
+\t\t9th\tN. Gonzales singled to left, Bart scored, Cruz to second.\t5\t3
+Full Play-By-Play
+Game Information
+PNC Park
+5:35 PM, September 7, 2024
+Pittsburgh, Pennsylvania
+Line: PIT -130
+Over/Under: 8.5
+Attendance: 13,687
+Game Time:
+2:36
+Umpires:
+Home Plate Umpire - Hunter Wendelstedt
+First Base Umpire - James Jean
+Second Base Umpire - Edwin Jimenez
+Third Base Umpire - Marvin Hudson
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401715708 
+ ----- 

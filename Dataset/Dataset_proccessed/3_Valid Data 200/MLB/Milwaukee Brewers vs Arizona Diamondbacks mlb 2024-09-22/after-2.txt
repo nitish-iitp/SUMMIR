@@ -1,0 +1,142 @@
+Skip to content
+
+SUBSCRIBE
+LOGIN
+UPGRADE YOUR FANDOM
+Join the Ultimate Arizona Diamondbacks Community for just $48 in your first year!
+Join for $4/mo*
+Do the Diamondbacks have a postseason-caliber bullpen?
+JESSE FRIEDMAN
+SEPTEMBER 22, 2024
+
+Over the weekend, the Diamondbacks fell one win short of a four-game sweep of the Milwaukee Brewers.
+
+Typically, that would hardly be cause for embarrassment. The Brewers already won the NL Central. They are pacing for more than 90 wins. They are arguably a top-five team in baseball.
+
+Nonetheless, “embarrassing” is still a fitting descriptor for the Diamondbacks’ loss on Sunday in Milwaukee.
+
+After taking an 8-0 lead in the third inning, the Diamondbacks suffered a stunning 10-9 loss. It was the first time in franchise history that they lost a game in which they led by eight runs.
+
+FIVE STRAIGHT HITS WITH TWO OUTS FOR THE LEAD https://t.co/5h9Eo1mEsO pic.twitter.com/1yJUvaDUmQ
+
+— Milwaukee Brewers (@Brewers) September 22, 2024
+
+As a result, the Diamondbacks dropped to the third and final wild card spot in the National League. The Braves are just two games behind them with six games remaining in the regular season.
+
+Time will tell if the Diamondbacks make the playoffs, but, for the sake of argument, let’s say they do. Could the bullpen that let an 8-0 lead slip away Sunday actually succeed once they got there?
+
+To be fair, even the best of bullpens have bad days from time to time, and the Diamondbacks’ best reliever, A.J. Puk, was presumably down after working three straight games. However, Sunday’s mess was not an isolated event.
+
+After allowing seven runs (six earned) as a unit in 3 2/3 innings on Sunday, the Diamondbacks bullpen had a major-league worst 6.84 bullpen ERA in September.
+
+If that figure were only elevated because of a few struggling low-leverage arms, it would be easy to overlook; teams generally rely on their best four or five bullpen arms in October anyway. But outside of Puk, all of the Diamondbacks’ high-leverage arms seem to be struggling at the same time:
+
+Player	IP	ERA	WHIP	BAA
+A.J. Puk	10.1	0.00	0.48	.088
+Justin Martinez	9.1	4.82	1.71	.282
+Ryan Thompson	8.0	7.88	2.00	.371
+Kevin Ginkel	6.2	10.80	2.10	.375
+Joe Mantiply	7.0	6.43	1.29	.250
+Diamondbacks high-leverage relievers, September 2024
+
+For as ugly as these September numbers are, the Diamondbacks’ bullpen stats for the season are not much better. In 2024, D-backs relievers rank 24th with a 4.42 ERA and are tied for 26th with a 1.38 WHIP. Those ERA and WHIP figures both rank dead last among teams that occupy playoff spots.
+
+So, is that it? The Diamondbacks have the worst bullpen among postseason contenders, and they are doomed to fail if they get there? Not necessarily.
+
+The Diamondbacks have scored the most runs in baseball in 2024. That’s the kind of asset that can cover up weaknesses in other areas.
+
+It also bears mentioning that the 2023 Diamondbacks went all the way to the World Series in spite of a bullpen that had a 4.22 ERA and 1.30 WHIP in the regular season.
+
+Granted, that bullpen evolved considerably throughout the season. Closer Paul Sewald was acquired at the trade deadline. Seventh-inning man Ryan Thompson did not make his Sedona red debut till Aug. 27. Kevin Ginkel was sent down to Triple-A Reno in June and did not emerge as a late-game weapon until the second half. Last September, the Diamondbacks’ bullpen had a 2.31 ERA, which ranked third in baseball.
+
+Much is made of getting hot at the right time when it comes to MLB postseason success, and last year’s D-backs bullpen certainly did. It was excellent in September, and it had plenty of success in October, too.
+
+The fact that this year’s September bullpen is allowing runs at roughly three times the rate of last year does not exactly inspire confidence.
+
+However, a quick glance at several peripheral stats paints a much different picture about how the D-backs bullpen compares this September versus last September:
+
+Year	K%	BB%	FIP	xFIP	BABIP
+Sept. 2023	22.3	7.7	4.00	4.32	.227
+Sept. 2024	25.3	8.3	4.12	3.67	.370
+Diamondbacks bullpen stats, September 2023 vs. September 2024
+
+Ironically, Diamondbacks relievers have a higher strikeout rate this September than they did last September, and ERA indicators such as FIP and xFIP suggest little difference in underlying performance.
+
+We do see a wide gap in BABIP, which stands for “batting average on balls in play.” The league-wide BABIP is .289, so last September’s .227 mark is very low and this September’s .370 is very high. That means that last September, the number of balls in play that went for hits against D-backs relievers was much lower than usual; this September, it’s been much higher than usual.
+
+While it might seem reasonable to attribute that gap solely to good luck last year and bad luck this year, underlying batted ball data suggests that D-backs relievers have given up more hard contact this September than they did last September. Some of that gap is due to luck, but not all.
+
+Frankly, even if that 6.84 ERA is not indicative of the true quality of the D-backs’ bullpen this month, there is no getting around the fact that it has struggled in September. Maybe it’s just a blip on the radar, but it also could be a sign of fatigue.
+
+Diamondbacks manager Torey Lovullo was asked last week if workload could be a factor in the team’s bullpen struggles.
+
+“Possibly,” Lovullo said on Tuesday. “I know that guys are creeping up. There’s some big numbers out there, and I want to be mindful of that. But we’ve got [12] more games. It’s time to go. These guys will answer the bell.”
+
+Here is a look at where the D-backs’ high-leverage arms stand in terms of workload:
+
+Player	2024 IP	2023 IP	Career-high IP
+A.J. Puk	72.2	60.1	129 (2017)
+Justin Martinez	76.2	59.1	59.1 (2023)
+Ryan Thompson	64.1	64.1	79.1 (2016)
+Kevin Ginkel	67.2	82	82 (2023)
+Joe Mantiply	58	64	82 (2014)
+Diamondbacks high-leverage reliever innings pitched (minor league/postseason innings included where applicable)
+
+Puk and Martinez have already exceeded their inning totals from last year, and Thompson has matched his. Martinez has also passed his career-high innings total while Puk has exceeded his major-league career high (69 major-league innings this year compared to 66.1 with the Oakland Athletics in 2022). Thompson is one out away from passing his major-league career high.
+
+While these workload numbers are noteworthy, none seem alarming, other than perhaps Martinez’s 76.2 innings compared to his career-high 59.1 innings last year. His situation is worth monitoring.
+
+Given the Diamondbacks’ subpar bullpen performance in recent days, it is reasonable to wonder how this group would fare in October. On paper, it is not a strength.
+
+Nonetheless, the Diamondbacks still have several relievers from last year’s National League pennant-winning club. Perhaps key arms such as Ginkel and Thompson could get hot again, as they were earlier this season. Puk looks like a better reliever than anyone on last year’s team, and Martinez has shown flashes.
+
+As the adage goes, anything can happen in October.
+
+The 2023 Texas Rangers — with whom Diamondbacks fans are quite familiar — posted a 4.77 bullpen ERA during the regular season and a 5.08 mark last September before going on to win the World Series.
+
+Right-hander Josh Sborz went from a 5.50 ERA in the regular season to a 0.75 ERA in the playoffs. Lefty Cody Bradford had a 5.38 ERA in the regular season followed by a 1.17 mark in the playoffs.
+
+Time will tell if the Diamondbacks can find their way in.
+
+Follow Jesse Friedman on X
+
+Top photo: Owen Ziliak/The Republic
+
+Listen to Sunday’s postgame show on your favorite podcast app here.
+Get Arizona's Best Sports Content In Your Inbox!
+Become a smarter Arizona sports fan with the latest game recaps, analysis and exclusive content from PHNX's writers and podcasters!
+Just drop your email below!
+Email *
+Sign Up Now!
+COMMENTS
+SHARE YOUR THOUGHTS
+JOIN THE CONVERSATION
+THE COMMENT SECTION IS ONLY FOR DIEHARD MEMBERS
+UNLOCK NOW
+Open comments +
+Scroll to next article
+Don't like ads?
+BECOME A DIEHARD
+Don't like ads?
+BECOME A DIEHARD
+Load More
+PHNX NEWSLETTER
+GET PHOENIX'S BEST SPORTS CONTENT IN YOUR INBOX!
+Email *
+Sign Up Now!
+All content included on this site is and shall continue to be the property of ALLCITY Network Inc. or its content suppliers and is protected under applicable copyright, trademark, and other proprietary rights. PHNX, the PHNX design marks, DIEHARD, ALLCITY NETWORK, and the ALLCITY NETWORK design marks are registered trademarks owned and controlled by ALLCITY Network Inc. This list is not exhaustive and ALLCITY Network Inc. does not waive its rights in regard to other trademarks not listed. ALLCITY Network, Inc. aka PHNX and PHNX Sports is in no way affiliated with or endorsed by the City of Phoenix.
+BECOME A DIEHARD today!
+ABOUT
+ADVERTISERS
+PRIVACY POLICY
+TERMS OF SERVICE
+SUPPORT
+CONTACT US
+HELP@GOPHNX.COM
+
+© 2025 ALLCITY Network Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://gophnx.com/diamondbacks-bullpen-succeed-mlb-postseason/ 
+ ----- 

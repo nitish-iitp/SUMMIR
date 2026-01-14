@@ -1,0 +1,402 @@
+ARCHITECTURE
+Open Source
+Cloud Native Ecosystem
+Containers
+Edge Computing
+Microservices
+Networking
+Serverless
+Storage
+ENGINEERING
+AI
+Large Language Models
+Frontend Development
+Software Development
+API Management
+Python
+JavaScript
+TypeScript
+WebAssembly
+Cloud Services
+Data
+Security
+OPERATIONS
+Platform Engineering
+Operations
+CI/CD
+Tech Careers
+Tech Culture
+DevOps
+Kubernetes
+Observability
+Service Mesh
+CHANNELS
+Podcasts
+Ebooks
+Events
+Newsletter
+TNS RSS Feeds
+THE NEW STACK
+About / Contact
+Sponsors
+Advertise With Us
+Contributions
+PODCASTS EBOOKS EVENTS NEWSLETTER CONTRIBUTE
+ARCHITECTURE ENGINEERING OPERATIONS
+FRONTEND DEVELOPMENT / JAVASCRIPT
+Introduction to Web Components and How to Start Using Them
+Bring some harmony to your organization's component library: here's our guide to web components and how to start defining your own.
+Feb 3rd, 2024 6:00am by David Eastman
+Photo by Blaz Erzetic on Unsplash
+
+While an open innovation platform like the web encourages a wide variety of uses, the drawbacks of the chaos come in the cacophony of voices defining what the web currently is. Usually at this point in a technology’s evolution, the industry leaders come together to create rules and regulations that (conveniently) solidify their own advantages, but also make things clearer for the consumer. That is why almost anyone can define the important components that make up a car, but might find this harder to do for a website.
+
+Simple things like drawing a circle or putting words in a box can be done in a wide variety of ways. This is because, for example, simple shapes are not first-class objects of the web. For instance, this is a circle defined in CSS:
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+	
+.circle 
+{ 
+  height: 150px; 
+  width: 150px;  
+  border: solid 1px; 
+  border-radius: 50%; 
+  display: inline-block; 
+}
+
+
+Followed on the page by:
+
+
+1
+	
+<span class="circle"/>
+
+
+Now, this produces a fine circle. While the word “circle” itself plays no part in the definition, it works as a synthesis of HTML and CSS to create the object I need. If you then asked “what color is it?”,  that would largely depend on inherited context and what contains what. I can use a sandpit like playcode.io to confirm that it works.
+
+I can also use playcode.io with the Tailwind CSS Framework and draw a circle with this code inside the App.jsx file:
+
+
+1
+2
+3
+	
+<div class="w-20 h-20 rounded-full border-2 
+            border-black flex justify-center 
+            items-center">
+
+
+The result is another fine circle:
+
+ Zoom
+
+TRENDING STORIES
+5 Technical Trends To Help Web Developers Stand Out in 2025
+Angular Shares ‘Potential Ideas’ for 2025 Improvements
+Rediscover the Joy of Early Web Development With XSLT
+How to Build a Server-Side React App Using Vite and Express
+Mastering Progressive Hydration for Enhanced Web Performance
+
+Tailwind is a nice framework. However, I then have to effectively continue using that library for everything else. And there is little guarantee how well these would work across browsers. Plus, like its predecessor Bootstrap, Tailwind is subject to the whims of fate. What we really want is an “official” way to express a component.
+
+Enter Web Components
+
+A web component is a way to “create an encapsulated, single-responsibility code block that can be reused on any page”. They are made of existing standards expressed as Web APIs, that vendors have been agreeing with and implementing over the years. They have enough use and maturity by now to challenge the existing popular frameworks. All modern browsers have supported the spec for some time.
+
+Web Components allow you to define custom elements (for example “my-circle”) and then register them.
+
+That’s great, but as I hinted, controlling these requires control of CSS everywhere else. To address this, a web component can contain its own set of rules in a shadow DOM. This is just a separate object tree that won’t clash with the main one.
+
+Finally, templates and slots allow you to define inert fragments that are not displayed when rendered but can later be re-used. So I can define this:
+
+
+1
+2
+3
+	
+<template id="my-paragraph"> 
+ <p>My paragraph</p> 
+</template>
+
+
+This won’t render, but it can be referred to indirectly later on and used as a common building block.
+
+Web components are built with JavaScript; and yes, I realize that some people want to use less JS on their sites. But right now, this is the way.
+
+How to Define Your Own Web Components
+
+ Zoom
+
+Web components are custom HTML elements such as <my-circle />. The name must contain a dash so that it never clashes with elements officially supported in the HTML specification. So we already start with a relationship: the browser will always know HTML tags but will respect new ones. How do they know about the new ones?
+
+After defining the components as a class, you register it with the CustomElementRegistry, like so:
+
+
+1
+	
+customElements.define( 'my-circle', MyCircle );
+
+
+The component then needs to be built with JavaScript. We know the name of the class because we just registered it. I cobbled this together, after taking note of the documentation example:
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+	
+class MyCicrle extends HTMLElement {
+  constructor() {
+    // Always call super first in constructor
+    super();
+  }
+ 
+  connectedCallback() {
+    // Create a shadow root
+    const shadow = this.attachShadow({ mode: "open" });
+ 
+    // Create spans
+    const wrapper = document.createElement("span");
+    wrapper.setAttribute("class", "smallcircle");
+ 
+    // Create some CSS to apply to the shadow dom
+    const style = document.createElement("style");
+    console.log(style.isConnected);
+ 
+    style.textContent = `
+ 
+      .smallcircle {
+        height: 150px;  
+        width: 150px; 
+        border: solid 1px;  
+        border-radius: 50%;  
+        display: inline-block;
+        color: #ffffff;
+      }
+    `;
+ 
+    // Attach the created elements to the shadow dom
+    shadow.appendChild(style);
+    console.log(style.isConnected);
+    shadow.appendChild(wrapper);
+  }
+}
+
+
+I got this running, as you can see, in Playcode without any packages. It is just a hand construction of our previous circle example but in JavaScript. It does prove that web components are operational, even in this sandpit. Those two log messages record the changes in the shadow DOM before and after we append the style element. The method connectedCallback is part of the lifecycle spec that is used to make web components work. This method is the inevitable “set up” call when an element is first added to the main document.
+
+So I just did a lot of work to draw a circle. To prove its component nature, let me do a little more. By reading an attribute, I can at least change the color:
+
+ Zoom
+
+There is no doubt that the cleanliness of defining a custom element does make using web components on the page a nice process. And the code change is straightforward enough:
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+	
+... 
+let clr; 
+if (this.hasAttribute("color")) 
+{ 
+  clr = this.getAttribute("color"); 
+} 
+else 
+{ 
+  clr = "white"; 
+} 
+style.textContent = ` 
+ .smallcircle { 
+   height: 150px; 
+   width: 150px; 
+   border: solid 1px; 
+   border-radius: 50%; 
+   display: inline-block; 
+   color: ${clr}; 
+ } 
+`; 
+...
+
+
+I haven’t used an example with templates, but using similar techniques you can grab and clone them, and then insert them into your shadow DOM. It is easier to define HTML in HTML, after all.
+
+In the same way I extended HTMLElement, I could have extended an existing HTML element and started from there.
+
+Web Components in the Wild
+
+But have web components arrived too late to push out the popular frameworks? In most cases, web components can work next to framework components, though a separate issue about server-side rendering is definitely a fly in the ointment (which I won’t go into here).
+
+The strength of web components really arrives when a small UX team wants to develop a library that they know will survive the test of time. Ideas crossing between the business and development team no longer have to be translated into Angular or React. Complex components that match a brand identity can be used like a normal tag. Instead of a “my-circle” tag, think of a “my-company-header” tag that can be used throughout an organization — the UX team controls development but without the risk of framework lock-in. This brings designers and builders much closer together.
+
+So with web components, an organization’s component library is not only more stable and less dependent on another layer defined elsewhere, but the language they use will be much more explicable beyond the development team. It brings a little bit of harmony to the Wild West of the web.
+
+David has been a London-based professional software developer with Oracle Corp. and British Telecom, and a consultant helping teams work in a more agile fashion. He wrote a book on UI design and has been writing technical articles ever since....
+Read more from David Eastman 
+SHARE THIS STORY
+ 
+ 
+ 
+ 
+TRENDING STORIES
+5 Technical Trends To Help Web Developers Stand Out in 2025
+Angular Shares ‘Potential Ideas’ for 2025 Improvements
+Rediscover the Joy of Early Web Development With XSLT
+How to Build a Server-Side React App Using Vite and Express
+Mastering Progressive Hydration for Enhanced Web Performance
+INSIGHTS FROM OUR SPONSORS
+Why software composition analysis is essential for open source security
+
+10 December 2024
+Demystifying VEX: Simplifying SBOMs with Sonatype SBOM Manager
+
+5 December 2024
+Secure your software supply chain with the Sonatype and GitHub integration
+
+4 December 2024
+Better LLM Agent Quality Through Code Generation and RAG
+
+10 December 2024
+Time-State Technology: The Key to Experience-Centric Operations
+
+11 November 2024
+What Every Business Can Learn From NBCUniversal’s Olympic Coverage
+
+5 November 2024
+Navigating a Changing World: Why Values, Adaptability, and Resilience Matter More Than Ever
+
+17 December 2024
+SAP Announces General Availability of SAP Green Ledger
+
+16 December 2024
+SAP Intelligent Asset Management Empowers the Future of Asset Excellence
+
+13 December 2024
+TNS DAILY NEWSLETTER
+Receive a free roundup of the most recent TNS articles in your inbox each day.
+SUBSCRIBE
+The New Stack does not sell your information or share it with unaffiliated third parties. By continuing, you agree to our Terms of Use and Privacy Policy.
+ARCHITECTURE
+Open Source
+Cloud Native Ecosystem
+Containers
+Edge Computing
+Microservices
+Networking
+Serverless
+Storage
+ENGINEERING
+AI
+Large Language Models
+Frontend Development
+Software Development
+API Management
+Python
+JavaScript
+TypeScript
+WebAssembly
+Cloud Services
+Data
+Security
+OPERATIONS
+Platform Engineering
+Operations
+CI/CD
+Tech Careers
+Tech Culture
+DevOps
+Kubernetes
+Observability
+Service Mesh
+CHANNELS
+Podcasts
+Ebooks
+Events
+Newsletter
+TNS RSS Feeds
+THE NEW STACK
+About / Contact
+Sponsors
+Advertise With Us
+Contributions
+roadmap.sh
+
+Community created roadmaps, articles, resources and journeys for developers to help you choose your path and grow in your career.
+
+Frontend Developer Roadmap 
+Backend Developer Roadmap 
+Devops Roadmap 
+© The New Stack 2024
+Disclosures Terms of Use Advertising Terms & Conditions Privacy Policy Cookie Policy
+FOLLOW TNS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://thenewstack.io/introduction-to-web-components-and-how-to-start-using-them/ 
+ ----- 

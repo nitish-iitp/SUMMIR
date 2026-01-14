@@ -1,0 +1,52 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "Andrew McCutchen and the Pittsburgh Pirates take the field on Sunday at Great American Ball Park against Hunter Greene, who is starting for the Cincinnati Reds.",
+            "score": 9.5
+        },
+        {
+            "sentence": "The Pittsburgh Pirates and the Cincinnati Reds meet Sunday in MLB action from Great American Ball Park.",
+            "score": 9
+        },
+        {
+            "sentence": "Hunter Greene will start for the Reds. This year Greene is 9-4 with a 2.83 ERA in 24 starts.",
+            "score": 8.5
+        },
+        {
+            "sentence": "Paul Skenes will start for the Pirates. So far Skenes is 10-3 with a 2.07 ERA in the first 21 starts of his career.",
+            "score": 8.5
+        },
+        {
+            "sentence": "The Pirates have the 21st-ranked team ERA among all MLB pitching staffs (4.20).",
+            "score": 8
+        },
+        {
+            "sentence": "The Reds have an 8.7 K/9 this season as a pitching staff, which ranks 11th in the majors.",
+            "score": 8
+        },
+        {
+            "sentence": "Pirates are the favorites with odds of -122, while the Reds are the underdogs with odds of +102.",
+            "score": 8
+        },
+        {
+            "sentence": "This will be the final installment in a three-game series.",
+            "score": 8
+        },
+        {
+            "sentence": "First pitch will be at 1:10 p.m. ET.",
+            "score": 7
+        },
+        {
+            "sentence": "The over/under for the game is set at 8.",
+            "score": 7
+        },
+        {
+            "sentence": "The Pirates lost the first three games against the St. Louis Cardinals before a 3-2 win Thursday.",
+            "score": 6.5
+        },
+        {
+            "sentence": "The Reds played the Atlanta Braves in their last set, winning 6-5 in the first game before a pair of losses to drop the series.",
+            "score": 6.5
+        }
+    ]
+}

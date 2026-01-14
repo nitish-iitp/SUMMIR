@@ -1,0 +1,363 @@
+Match Ticker
+Premier League
+Other Competitions
+Opta Football Stats
+Opta Football Predictions
+Newsletter
+American Football
+More
+NBA
+NCAA
+LA LIGA
+Athletic Club’s Homegrown Golden Generation Plots Return to the Champions League
+FEB 19, 2024
+ROBBIE DUNNE / AUTHOR, MATT SISNEROS / DESIGN
+Twitter
+WhatsApp
+Email
+Share
+
+Athletic Club are enjoying a tremendous season in 2023-24, with Ernesto Valverde’s men eyeing Copa del Rey success and a long-awaited return to the UEFA Champions League.
+
+In late January, Barcelona travelled to Bilbao to take on Athletic Club at San Mamés in the quarter-finals of the Copa del Rey. As Wednesday night edged closer to the early hours of Thursday morning and extra time beckoned, one thing became apparent: Barcelona had no chance.
+
+As the minutes ticked by, muscles grew more fatigued and the game opened up, it felt like Athletic Club were building towards a crescendo. They were playing with a 12th man, every attack roared on by a goal-thirsty Bilbao crowd, who seemed immune to fatigue.
+
+Two daggers straight to Barcelona’s heart in extra time, one by each of the Williams brothers, put Barcelona out of their misery as their legs turned into dust and their hopes of Copa glory evaporated. The hosts finished that game with 29 shots and seven on target to Barcelona’s seven total shots and four on target. Athletic Club almost tripled Barcelona’s expected goals (xG) total on the night in the process of running them off the field.
+
+This is the story of Athletic Club in 2023-24. Combative, relentless and ruthless. San Mamés has become a fortress and they’re eyeing a return to the UEFA Champions League for the first time since 2014-15 when, no surprise, Ernesto Valverde was the man in the dugout.
+
+Athletic Bilbao’s Basque-only policy means they are heavily reliant on the players their Lezama academy produces. It means when fallow years arrive, which inevitably they do, the club can’t sign their way out of the abyss. It also means that when a special crop of players break through, there’s a feeling of euphoria. It’s not just ‘we’re winning’, it’s ‘we’re winning with homegrown talent’.
+
+Add in a manager who inherently understands the club and the place, and it feels like a wave of momentum that cannot be stopped.
+
+Athletic Bilbao currently have a special crop of players. Oihan Sancet, Unai Simón and Nico Williams are all Spain internationals. They have another few who are knocking on the door and more still just breaking through at the club. Luis de la Fuente has asked his Spain team to play a more vertical style and football in the north is providing just that.
+
+At a time when Basque managers are making headlines from Birmingham to Bournemouth and Bayer Leverkusen, Athletic Club and Real Sociedad are providing the backbone of the Spanish national team. Along with the players mentioned above, Real Sociedad have also recently sent Álex Remiro, Robin Le Normand, Mikel Merino and Martín Zubimendi.
+
+They’re not the kind of players you think of when you conjure up images of Spain’s golden era between 2008 to 2012. These are todoterreno type players — a term used in Spanish to reference all-rounders but which also implies a physical edge to their game.
+
+Athletic Bilbao are built on this principle. They are a team filled with young, physical, technically excellent players with a manager who appreciates the nuance within each player and position.
+
+Their home form is where they’ve really made their mark this season. Athletic Club have won eight consecutive games across all competitions at San Mamés, their longest winning streak at home since September 1998 (also eight straight wins).
+
+Only Real Madrid have a higher share of xG in home games this season. Athletic have racked up 26.15 expected goals and 10.18 expected goals against, with their attacking output accounting for 72.0% of the total share. Real Madrid currently sit at 75.7% at the Santiago Bernabéu with Atlético Madrid in third with 68.7% at the Metropolitano.
+
+To understand Athletic’s strength, you have to take a holistic approach. There is no stand-out superstar but a good place to start is their backline. The pressure higher up the field is a factor that makes them an intimidating proposition for any team in the world and it’s impossible to disentangle the two, but improved attacking efficiency and an ability to press is built on the fact that they have a rock solid centre-back partnership.
+
+Aitor Paredes and Dani Vivian are both under 25 and have played the highest share of minutes individually across the league and cup for Athletic this season. Together, they have played 1,593 minutes this season, the most in La Liga for any centre-back partnership. They also have the best expected goals against per 90 together for centre-back pairing with 500+ mins played (1.07).
+
+The only other partnership with a higher winning percentage among those with more than 500 minutes played together is Antonio Rüdiger and David Alaba. Paredes and Vivian have won 57.8% of games they have started together (19 starts, 11 wins), while the Real Madrid pair have won 66.6% of games they have started (12 starts, 8 wins).
+
+Valverde’s side are the most aggressive team in the league in terms of trying to win the ball back high up the field and they do that knowing their two centre-backs have things covered if a team plays through them or over the top. They’ve recorded the most high turnovers in Spain’s top flight with 251; Sevilla are a long way behind in second with 217, while Athletic have turned their high turnovers into more goals (6) than any other team in the division. They start their attacks, on average, higher than any other team in La Liga and have more defensive actions than any team in Spain’s top flight too.
+
+But it’s not just a kick-and-rush approach. There is an added layer of nuance to their game that has been facilitated by some savvy recruitment and the emergence of players who were already at the club.
+
+One such signing is that of Íñigo Ruiz de Galarreta from Mallorca. If you were to make a list of the 100 most exciting transfers last summer, Ruiz de Galarreta to Athletic Bilbao on a free transfer might not even be considered a shortlist candidate. A 30-year-old midfielder, Ruiz de Galarreta was born in Eibar and has played for clubs like Barcelona’s second team and Las Palmas during his career, two clubs known for their desire to hold on to the ball. He has added a level of control to a side that has often struggled to find more balanced midfielders.
+
+Ander Herrera might be the best comparison but he turns 35 this year and can’t play the same amount of minutes as he once could. Ruiz de Galarreta is on the more technical side of the todoterrano scale but he isn’t shy either out of possession. On average, he’s winning 5.7 duels per 90, behind only Herrera for Athletic midfielders with over 1,000 minutes played this season.
+
+Ruiz de Galarreta’s influence can be seen best in Athletic Club’s results with him on the field. They’ve lost as many games when he’s not started in La Liga this season (2/7) as they have in the 17 games he’s been in the starting XI.
+
+The emergence of Sancet as a Spain international and one of the best attacking midfielders in the league has gone a long way to fixing what, for years, felt like a broken attack. As part of The Analyst 50, we wrote about Sancet being primed for a breakout year. He has been central to Athletic Club’s revitalised attack.
+
+He has 0.41 non-penalty xG and assists per 90 this season, which is fourth among Athletic players with at least 1,000 minutes. But his footprint is everywhere in the team’s attack. Only nine players have more attacking sequence involvements this season in La Liga and he’s also creating 2.14 chances from open play, behind only Iago Aspas in La Liga this term.
+
+The final piece of the puzzle has been the emergence of Gorka Guruzeta. At 27, without ever making an impact at the club where he began his career, it felt like Guruzeta’s opportunity had passed. There’s an argument now that Luis de la Fuente needs a player like Guruzeta in his Spain side.
+
+Guruzeta leads the team in non-penalty xG per 90 with 0.47. He has already played more minutes this season in La Liga than in any other season in his career. He has scored three more goals this season (9) than his previous best of six in the top flight, which he managed in 2022-23. He features among the top of most defensive metrics for forwards and he links play like a Basque Karim Benzema.
+
+Sancet and Guruzeta are the final pieces of a jigsaw puzzle that for years never seemed finished. Sancet plays as a traditional 10 as part of Valverde’s preferred 4-2-3-1 and Guruzeta spearheads the attack. That allows the Williams brothers, Nico on the left and Iñaki on the right, to play in their best positions.
+
+Iñaki has played 96% of his minutes in the league on the right this season. Last year, that number was just 42% with him spending 54% of his minutes as the number nine.
+
+He is currently on pace to beat his best goalscoring season ever (13 in La Liga in 2018-19) and both he and his brother can stretch teams vertically and horizontally on either side with Ruiz de Galarreta, Sancet and Guruzeta operating in the open spaces, ready to pounce with purpose if they lose the ball.
+
+Iñaki Williams’ current position accentuates his best traits and masks some of the deficiencies we have seen over the years, namely high-volume efficient finishing. Nico Williams is on the fast-track to superstardom with nary a dribbling or take-on metric that he isn’t among the top three of in La Liga this season. His 56 successful take-ons rank 8th among all players across Europe’s top five leagues and he is completing 3.35 dribbles per 90, behind only Vinícius Júnior in La Liga this season.
+
+Last Wednesday in the Copa del Rey semi-final first leg, Athletic became the first away side to keep a clean sheet (and win) at the Metropolitano in over a year. Atlético had scored 73 goals in the 28 games between those. They are 90 minutes away from the Copa del Rey final and just two points behind Atlético in fourth place in the league too. They welcome Girona to their fortress on Monday night with a return date against Atlético in the Copa semis on the horizon too.
+
+This season could turn into something special for Athletic Club.
+
+Enjoy this? Subscribe to our new football newsletter to receive exclusive weekly content. You should also follow our social accounts over on X, Instagram, TikTok and Facebook.
+
+RELATED ARTICLES
+LA LIGA
+Jesús Navas’ Final Game: Sevilla and La Liga Bid Farewell to a Legend
+3 WEEKS AGO RYAN BENSON
+LA LIGA
+‘This is Football, Papa’: The Curious Tactics of José Bordalás and Getafe
+1 MONTH AGO DAVID SEGAR
+LA LIGA
+Roberto Olabe: Arsenal-Linked Sporting Director the Brains Behind Real Sociedad’s Rise 
+2 MONTHS AGO ROBBIE DUNNE
+LA LIGA
+Barcelona’s Crazy High Line: The Freakish Statistical Anomaly That Ensnared Kylian Mbappé
+2 MONTHS AGO RYAN BENSON
+Subscribe
+
+Sign up and be the first to receive exclusive stats, news, and updates from Opta Analyst.
+
+Country*
+Select A Country
+Canada
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Afghanistan
+Åland Islands
+Albania
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia (Plurinational State of)
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+United States Minor Outlying Islands
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (Democratic Republic of the)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran (Islamic Republic of)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia (the former Yugoslav Republic of)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova (Republic of)
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Korea (Democratic People's Republic of)
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Kosovo
+Réunion
+Romania
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Korea (Republic of)
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suricontent
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela (Bolivarian Republic of)
+Viet Nam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I agree to receive emails from Opta Analyst.
+See our Privacy Policy for more details.
+Privacy Policy
+Terms of Use
+Do Not Sell My Information
+Advertising
+Cookie Policy
+© 2025 Opta Analyst. All Rights Reserved.
+ 
+ 
+ ----- 
+ Source link : https://theanalyst.com/2024/02/athletic-club-golden-generation-return-to-the-champions-league 
+ ----- 

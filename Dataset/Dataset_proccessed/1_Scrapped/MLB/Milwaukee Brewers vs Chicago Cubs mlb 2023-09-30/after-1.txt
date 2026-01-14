@@ -1,0 +1,309 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NBA
+NFL
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Cubs
+83-78, 38-42 Away
+10
+Final
+Brewers
+91-70, 48-32 Home
+6
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Cubs' playoff hopes vanish before they complete 10-6 victory over Brewers
+— The Chicago Cubs seemed to be on their way to a playoff spot after a summertime surge moved them into contention.
+Oct 1, 2023, 03:31 am - AP
+
+
+CHC
+
+
+MIL
+1	2	3	4	5	6	7	8	9	R	H	E
+6	0	0	2	1	1	0	0	0	10	13	1
+3	3	0	0	0	0	0	0	0	6	12	0
+WIN
+H. Wesneski
+3-5
+1.2 IP, 1 H, 0 ER, 3 K, 2 BB
+LOSS
+E. Lauer
+4-6
+4.0 IP, 9 H, 8 ER, 2 K, 4 BB
+SAVE
+J. Taillon
+1
+4.0 IP, 3 H, 0 ER, 3 K, 1 BB
+Scoring Summary
+INNING
+	CHC	MIL
+		1st	Morel homered to left (431 feet).	1	0
+		1st	Gomes homered to center (408 feet), Suzuki scored, Bellinger scored and Swanson scored.	5	0
+		1st	Wisdom homered to center (394 feet).	6	0
+		1st	Adames doubled to center, Canha scored and Contreras scored, Santana to third.	6	2
+		1st	Taylor grounded out to third, Santana scored.	6	3
+		2nd	Perkins homered to left center (422 feet), Monasterio scored.	6	5
+		2nd	Santana homered to left center (428 feet).	6	6
+		4th	Happ singled to left, Morel scored, Suzuki to second.	7	6
+		4th	Bellinger doubled to right, Suzuki scored, Happ to third.	8	6
+		5th	Canario tripled to right, Candelario scored.	9	6
+		6th	Gomes grounded out to first, Happ scored, Swanson to second, Bellinger to third.	10	6
+Full Play-By-Play
+Cubs
+Brewers
+HITTERS	H-AB	R	HR	RBI	AVG
+
+C. Morel
+2B
+	2-5	2	1	1	.245
+
+S. Suzuki
+RF
+	1-4	2	0	0	.285
+
+I. Happ
+LF
+	2-4	1	0	1	.248
+
+C. Bellinger
+CF
+	1-4	1	0	1	.307
+
+P. Crow-Armstrong
+CF
+	0-0	0	0	0	.000
+
+D. Swanson
+SS
+	0-3	1	0	0	.244
+
+Y. Gomes
+C
+	1-3	1	1	5	.267
+
+M. Amaya
+PH-C
+	0-1	0	0	0	.219
+
+J. Candelario
+3B
+	2-5	1	0	0	.251
+
+P. Wisdom
+1B
+	1-5	1	1	1	.205
+
+A. Canario
+DH
+	3-5	0	0	1	.385
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+J. Wicks
+	1.2	6	6	1	1	44-27	4.41
+
+H. Wesneski
+	1.2	1	0	2	3	42-22	4.63
+
+J. Assad
+	1.2	2	0	0	4	28-18	3.05
+
+J. Taillon
+	4.0	3	0	1	3	53-39	4.84
+HITTERS	H-AB	R	HR	RBI	AVG
+
+M. Canha
+LF
+	1-5	1	0	0	.262
+
+W. Contreras
+DH
+	2-4	1	0	0	.290
+
+C. Santana
+1B
+	1-2	2	1	1	.241
+
+R. Tellez
+PH-1B
+	0-1	0	0	0	.215
+
+W. Adames
+SS
+	3-5	0	0	2	.216
+
+J. Donaldson
+3B
+	0-4	0	0	0	.154
+
+B. Turang
+2B
+	0-1	0	0	0	.219
+
+T. Taylor
+RF
+	1-5	0	0	1	.233
+
+V. Caratini
+C
+	2-5	0	0	0	.255
+
+A. Monasterio
+2B-3B
+	1-4	1	0	0	.260
+
+B. Perkins
+CF
+	1-3	1	1	2	.218
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+E. Lauer
+	4.0	9	8	4	2	81-48	6.56
+
+T. Megill
+	1.0	2	1	0	2	16-10	3.63
+
+A. Uribe
+	1.0	1	1	2	1	27-12	1.76
+
+H. Milner
+	1.0	1	0	0	1	17-12	1.82
+
+J. Payamps
+	1.0	0	0	0	1	11-9	2.55
+
+D. Williams
+	1.0	0	0	0	2	12-10	1.53
+Full Box Score
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+CUBS
+BREWERS
+CHC 100
+%
+CHC 10MIL 6
+
+Bottom 9th
+Caratini grounded out to second.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+CHC
+MIL
+Hits
+13
+12
+Home Runs
+3
+2
+Total Bases
+28
+20
+Runners LOB
+8
+10
+Full Team Stats
+Regular Season Series
+Current Series
+MIL wins 2-1
+Cubs
+3
+Brewers
+4
+Game 1
+9/30
+Final/10
+Cubs
+10
+Brewers
+6
+Game 2
+9/30
+Final
+Cubs
+0
+Brewers
+4
+Game 3
+10/1
+Final
+Game Information
+American Family Field
+11:10 PM, September 30, 2023
+Milwaukee, Wisconsin
+Line: CHC -125
+Over/Under: 8.5
+Attendance: 42,652
+Game Time:
+3:02
+Umpires:
+Home Plate Umpire - Malachi Moore
+First Base Umpire - Bruce Dreckman
+Second Base Umpire - Stu Scheurwater
+Third Base Umpire - Mark Wegner
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401473419/cubs-brewers 
+ ----- 

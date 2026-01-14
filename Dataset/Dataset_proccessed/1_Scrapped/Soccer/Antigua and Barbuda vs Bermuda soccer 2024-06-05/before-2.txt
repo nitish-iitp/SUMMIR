@@ -1,0 +1,1185 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Night Vision Excelitas Thermal Optics!
+ 
+Thread starter
+DownRangeThermal  
+Start date
+Jun 4, 2024
+1
+	
+2
+Next
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 4, 2024
+#1
+DRT is excited to announce we are bringing a new brand to the US commercial market. UK based Excelitas/QIOPTIQ is a big player in the European/NATO defense arena. I first met them several yrs back at a border security expo. They had very nice products but unfortunately at the time they were not wanting or willing to enter the commercial space. Last yr I reached back out to my contact at Excelitas to chat about their submission for the new miniature thermal for SOCOM. Fortunately, they were also open to discussing the opportunity for DRT to start distributing their product line to US Law Enforcement and commercial end users. After months/yrs of getting this train moving we are finally there. We have an order placed that should be delivered in 4th quarter. We will have limited supply as they have multiple contracts that are rolling on these different products. We will be taking small deposits on these units similar to what we've done in the past with other units(x-elr etc)
+
+1. Excelitas Dragon-C12XR
+I'm probably most excited about this one personally. The size/performance ratio on this guy is outstanding. Fits in my hand but with an 8 degree fov it can easily take 10+ mag. It doubles at a stand alone optic (1280 amoled display in Stand alone mode). It has mil based reticle that scales with magnification. Full color display with outline modes(colored). 50 cal rated. Small enough lens that it has and inline (non folded optical bench) which helps reduce image shift. Stand alone mode has an optional PIP mode which is not common on mil sights. Utilizes the new BOSON PLUS core from FLIR. Has IBEAM protocol so will be able to link with LRFs. Can be ordered with the standard Larue mount or an optional locking Flip Mount....both of which are 1.54 Height mounts. Weighs 19.2 ounces with batteries. We ordered our units in FDE Cerakote. (the lighter one in the pics was rattle canned). These will come in at a $13,499 price point with the standard fixed Larue mount. This is the ultimate balance of small size/weight and performance. It is taylor made for a LPVO setup and small framed LR guns like a 6ARC gas gun.
+
+
+
+
+
+
+
+
+below is a cell phone pic of stand alone mode with pip enabled with mil reticle 2x main display 5x PIP (2.5x2)
+
+
+
+
+
+
+SIze comparison next to Gen 1 X-ELR eotech
+
+
+
+
+
+Cell phone video of clip on mode and color palettes through 1-10x vortex
+
+
+
+
+
+SPECS from Manf
+DRAGON-C12-XR is a high-performance
+multi-role system that delivers extended range
+performance in a compact and lightweight package,
+utilizing a 640X512 12um thermal core.
+DRAGON-C12-XR is well suited to longer range
+sharpshooter and machine gun support weapons,
+in particular platforms with restricted rail space
+Package
+• DRAGON C12-XR Weapon Sight
+• Lens Cap and Light Secure Shroud
+• Transportation Case and Field Pouch
+• Operator Manual
+• Lens Cleaning Kit
+Options
+• Multi-Function Remote Control
+• Interface cable
+Optical Parameters
+Horizontal Field of View: 8°
+Focus Range: 5m to infinity
+Magnification: x1
+Sensor
+Waveband: Long Wave IR
+Resolution: 640 x 512
+Pixel Pitch: 12μm
+Boresight and Image Shift
+Boresight Retention: <0.5mrad (retention of unmounting and remounting optic)
+Image Shift: <0.1mrad
+Power
+Battery Type: 2 x 1.5V LiFeS2 AA
+Battery Lifetime: > 6 hours @ 21°C
+Connectivity
+I/O Interface Port: External Power
+Composite Video
+USB Digital Video
+Remote Control Interface
+Serial Communication for peripheral devices
+Nominal Size and Weight
+Mass: 490 g
+Length: 145 mm
+Width: 70 mm
+Height: 70 mm
+Excludes batteries, lens cap and accessories
+Finish
+Various paint colors available
+Cerakote Paint Finish with color options
+DLC Optical Coating
+Lo-Glint Objective Coating available
+Environmental
+Complies with Military Standards
+Def Stan 00-35
+Def Stan 59-411
+MIL-STD-810
+MIL-STD-461
+
+
+
+
+2. TALON II Fused weapon sight
+
+This sight packs a bunch of tech into a small footprint. Its only 5.5 inches long and 20 ounces. It is fixed focus on both channels and it was designed around 1-6x optics. The thermal is considered an aid to the Image intensifier. It is a 320 FLIR BOSON plus sensor so that the FOV is matched to the 16mm high fom 4G photonis I2 and so the lenses remain small. It will operate in NV or thermal only modes but it is best used as a fusion sight. I'd say considering the small optics it is a 400 meter or less device. It is like an ADUNS for a carbine. At $22,750 its not inexpensive but its closest competition is the $60k FLIR ADUNS. We have a few of these arriving in Sept. These are a program of record with several EU Mil customers. Taking Deposits.
+
+
+
+
+
+Specs from Manf
+TALON is a dual channel optically Fused Weapon
+Sight from Excelitas.
+TALON provides the Dismounted Close Combat User
+with an enhanced, multi-waveband Detect,
+Recognize and Identify capability in a compact &
+lightweight housing.
+Package
+• TALON Weapon Sight
+• Lens Cap and Light Secure Shroud
+• Transportation Case and Field Pouch
+• Operator Manual
+• Lens Cleaning Kit
+Optical Parameters
+Horizontal Field of View: 9.3°
+Focus Range: 15m to infinity (fixed focus)
+Magnification: x1
+Sensor – Thermal
+Waveband: Long Wave IR
+Resolution: 320 x 256
+Pixel Pitch: 12μm
+Optical Parameters – Image Intensified
+Channel
+Circular Field of View: 10°
+Focus Range: 15m to infinity (fixed focus)
+Magnification: x1
+Sensor – Image Intensifier
+Format: 16mm Image Intensifier
+Phosphor: P45 (White), P43 (Green)
+Power
+Battery Type: 2 x 1.5V LiFeS2 AA
+Battery Lifetime: > 6 hours @ 21°C in Fused Mode
+Connectivity
+I/O Interface Port: External Power
+Composite Video (Thermal only)
+Serial Communication for peripheral devices
+Nominal Size and Weight
+Mass: 570 g
+Length: 124 mm
+Width: 82 mm
+Height: 64 mm (above the rail)
+Excludes batteries, lens cap and accessories
+Finish
+Various paint colors available
+Environmental
+Complies with Military Standards
+Def Stan 00-35
+Def Stan 59-411
+MIL-STD-810
+MIL-STD-461
+
+MORE Products to Follow
+ 
+Attachments
+talon 4.jpg
+60 KB · Views: 111
+talon 4small.jpg
+30 KB · Views: 100
+Last edited: Jun 10, 2024
+ 
+Reactions:
+LSUbeatUby40, Terry Cross, CrazyDoc and 12 others
+B
+Bri0242
+Sergeant
+Full Member
+Minuteman
+Supporter
+Jan 28, 2011
+1,265
+128
+DFW, TX
+Jun 4, 2024
+#2
+How do these compare in image quality, value, and weight compared to the 2nd gen Eotechs? These look very interesting...
+ 
+camocorvette
+Send it
+Full Member
+Minuteman
+Supporter
+Apr 1, 2010
+2,434
+2,408
+Minnesota
+Jun 4, 2024
+#3
+That looks and specs out nicely. I'd love to see some in the field video.
+ 
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 4, 2024
+#4
+camocorvette said:
+That looks and specs out nicely. I'd love to see some in the field video.
+Getting an accurate representation of image quality through a clip on is always a challenge. I'll work on it though.
+ 
+ 
+Reactions:
+camocorvette
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 4, 2024
+#5
+DownRangeThermal said:
+Getting an accurate representation of image quality through a clip on is always a challenge. I'll work on it though.
+Of course ..if anyone who is in the Austin /San Antonio area you're welcome to stop by our showroom and look through our demo units
+ 
+Last edited: Jun 11, 2024
+ 
+Reactions:
+stefan73 and camocorvette
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 4, 2024
+#6
+Bri0242 said:
+How do these compare in image quality, value, and weight compared to the 2nd gen Eotechs? These look very interesting...
+Well the closest comparison would be with the 2nd gen LR version of the EOTech. My main issue with the gen 2s is that, other than the xELR, they all have a rotating lens assembly. I'm not a fan of that generally. It can create issues of image shift when you refocus. It isn't an issue with lower mag(wide fov) units like the SR as much as it is with tighter fov units that will be used at extended ranges. The XR above is a fixed lens with a focus collar. All of the Excelitas units feature fixed lens assemblies. Beyond that, the XR utilizes the recently released BOSON + core....all of these are specd at sub 30netd so very sensitive and have latest chip tech.
+ 
+ 
+Reactions:
+rlsmith1
+Paris_Bulks
+Private
+Minuteman
+Supporter
+Sep 15, 2020
+76
+57
+North Carolina
+Jun 5, 2024
+#7
+DownRangeThermal said:
+Getting an accurate representation of image quality through a clip on is always a challenge. I'll work on it though.
+
+Are these the units or of the same pedigree that are in use by a Brit SMU?
+ 
+B
+Bri0242
+Sergeant
+Full Member
+Minuteman
+Supporter
+Jan 28, 2011
+1,265
+128
+DFW, TX
+Jun 5, 2024
+#8
+Any idea on warranty, & what batteries does this beauty take?
+ 
+stefan73
+Sergeant
+Full Member
+Minuteman
+ 
+Mar 6, 2006
+3,018
+2,783
+CENLA
+Jun 5, 2024
+#9
+DownRangeThermal said:
+Of courseif anyone who is in the Austin /San Antonio area you're welcome to stop by our showroom and look through our demo units
+I'll be north of you next week for a conference. If I can break away I'll try to stop by. What are your hours of operation?
+ 
+ 
+Reactions:
+Terry Cross
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 5, 2024
+#10
+stefan73 said:
+I'll be north of you next week for a conference. If I can break away I'll try to stop by. What are your hours of operation?
+10-5 m-f
+ 
+ 
+Reactions:
+stefan73
+stefan73
+Sergeant
+Full Member
+Minuteman
+ 
+Mar 6, 2006
+3,018
+2,783
+CENLA
+Jun 5, 2024
+#11
+DownRangeThermal said:
+10-5 m-f
+Thanks, hopefully I can get by there.
+ 
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,183
+4,867
+CONUS
+Jun 5, 2024
+#12
+Damnit, stop messing with my Voodoo plans!
+ 
+ 
+Reactions:
+Conqueror and stefan73
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 10, 2024
+#13
+Updated with TALON II
+ 
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,183
+4,867
+CONUS
+Jun 10, 2024
+#14
+DownRangeThermal said:
+Updated with TALON II
+mmmm…fusion clip-on goodness
+ 
+SkyScrapin
+Strictly Offensive Kit
+Commercial Supporter
+Full Member
+Minuteman
+Jan 31, 2010
+3,594
+4,403
+Dallas, TX
+strictlyoffensivekit.com
+Jun 10, 2024
+#15
+Still grabbed from Video. Will do a photo and video dump at some point. Really capable little guys.
+
+Tallon II beside Dragon-C12XR
+
+
+
+Tallon II
+
+
+
+ 
+ 
+Reactions:
+Concrete shooter, TheHorta, Bri0242 and 3 others
+TheHorta
+Nest-stirring pot-poker.
+Supporter
+Full Member
+Minuteman
+ 
+Jan 17, 2014
+5,305
+15,645
+NO AL
+Jun 10, 2024
+#16
+The overlay offset looks about as perfectly aligned as anything I’ve seen.
+
+Heart say 320 = BOO! But brain says “that actually looks pretty good!”
+ 
+ 
+Reactions:
+mikefraz and TheHebrewHammer
+SkyScrapin
+Strictly Offensive Kit
+Commercial Supporter
+Full Member
+Minuteman
+Jan 31, 2010
+3,594
+4,403
+Dallas, TX
+strictlyoffensivekit.com
+Jun 10, 2024
+#17
+TheHorta said:
+The overlay offset looks about as perfectly aligned as anything I’ve seen.
+
+Heart say 320 = BOO! But brain says “that actually looks pretty good!”
+
+Per usual, iPhone through LVPO through Talon II doesn't do it justice. I was struggling to get it to stay in focus while button pressing.
+
+While maintaining this small a form factor, you pretty much have to go with a 320. A 640 lens would be double the size which adds weight and mass.
+
+
+
+ 
+ 
+Reactions:
+NHPiper, mikefraz, Bravo6niner and 3 others
+SkyScrapin
+Strictly Offensive Kit
+Commercial Supporter
+Full Member
+Minuteman
+Jan 31, 2010
+3,594
+4,403
+Dallas, TX
+strictlyoffensivekit.com
+Jun 10, 2024
+#18
+Uploaded a snip it to IG. Everything else compresses seems to compress the image.
+
+
+ 
+ 
+Reactions:
+Bravo6niner, TheHorta, Vitali1342 and 2 others
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,337
+2,170
+Midwest
+Jun 10, 2024
+#19
+SkyScrapin said:
+Per usual, iPhone through LVPO through Talon II doesn't do it justice. I was struggling to get it to stay in focus while button pressing.
+
+While maintaining this small a form factor, you pretty much have to go with a 320. A 640 lens would be double the size which adds weight and mass.
+
+View attachment 8436145
+View attachment 8436150View attachment 8436151
+Click to expand...
+If the lens / final length is kept the same, wouldn’t a 640 sensor yield twice the FOV with the same resolution?
+
+Your pics really show how small that DRAGON is, looks awesome.
+
+Curious how you guys like that new FLIR core?
+ 
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,677
+1,436
+North Central FL
+Jun 11, 2024
+#20
+LaRue mount yuck
+
+Everything else yum
+ 
+ 
+Reactions:
+rlsmith1
+SkyScrapin
+Strictly Offensive Kit
+Commercial Supporter
+Full Member
+Minuteman
+Jan 31, 2010
+3,594
+4,403
+Dallas, TX
+strictlyoffensivekit.com
+Jun 11, 2024
+#21
+rlsmith1 said:
+If the lens / final length is kept the same, wouldn’t a 640 sensor yield twice the FOV with the same resolution?
+
+To keep FOV the same with a 640 sensor, you need twice~ the objective size of a comparable 320. It would be much larger.
+ 
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,337
+2,170
+Midwest
+Jun 11, 2024
+#22
+SkyScrapin said:
+To keep FOV the same with a 640 sensor, you need twice~ the objective size of a comparable 320. It would be much larger.
+All else equal, a larger sensor results in larger FOV though right?
+ 
+C
+CrazyDoc
+Private
+Supporter
+Full Member
+Minuteman
+Aug 28, 2013
+101
+82
+Flatland
+Jun 11, 2024
+#23
+How does the C12 XR compare to the UTC xii? I know you said it'll take 10x easily, I'd love to see how it looks on live targets at 600yd+ at 10x.
+ 
+ 
+Reactions:
+rlsmith1
+SkyScrapin
+Strictly Offensive Kit
+Commercial Supporter
+Full Member
+Minuteman
+Jan 31, 2010
+3,594
+4,403
+Dallas, TX
+strictlyoffensivekit.com
+Jun 11, 2024
+#24
+rlsmith1 said:
+All else equal, a larger sensor results in larger FOV though right?
+
+With like for like objective size as 320, yes. In this case, if Tallon II was 640 it would have a larger FOV than the i2.
+ 
+ 
+Reactions:
+rlsmith1
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 11, 2024
+#25
+CrazyDoc said:
+How does the C12 XR compare to the UTC xii? I know you said it'll take 10x easily, I'd love to see how it looks on live targets at 600yd+ at 10x.
+Utc xii is 6 degree this is 8 so utc will have better mag capabilities. This is more of a medium long range. But has shutter(auto nuc) 50 cal rating, smaller size, stand alone mode, etc comparatively.
+ 
+ 
+Reactions:
+Bravo6niner, CrazyDoc, rlsmith1 and 2 others
+Cshultzy999
+Supporter
+Supporter
+Minuteman
+Feb 7, 2019
+76
+17
+South West SoDak
+Jun 11, 2024
+#26
+Any chance jay at sure shot can retube with a high spec L3?  but in all seriousness I’m confused as to why we aren’t seeing a fusion clip on from the U.S.? I mean seriously, 4g photonis paired with a boson 320 sounds pretty cool but doesn’t 24ua L3 paired with a 640 bae core sound a lot cooler?
+ 
+ 
+Reactions:
+nikonNUT and mikefraz
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,677
+1,436
+North Central FL
+Jun 11, 2024
+#27
+It takes 16mm tubes and only Photonis makes those currently, so no L3 tubes sadly. And the fixed focus is a tough sell IMO, though I get it’s aimed at dismounted infantry with carbines.
+
+One day someone will make a fusion clip-on like you describe. One day. The trick is that it has to have a semi-reasonable price point. If it’s $60k I’d just buy one of those HISS XLRs on Gunbroker.
+ 
+Evolution 9
+Hurter of feelings
+Supporter
+Full Member
+Minuteman
+ 
+Mar 6, 2010
+1,267
+1,550
+Central Idaho
+Jun 11, 2024
+#28
+DownRangeThermal said:
+Utc xii is 6 degree this is 8 so utc will have better mag capabilities. This is more of a medium long range. But has shutter(auto nuc) 50 cal rating, smaller size, stand alone mode, etc comparatively.
+
+That’s half the answer, and THANK YOU!!!… but the other half of thermal performance is the subjective core performance that has had every core bent over by BAE for 20 years. Any insights here?
+ 
+ 
+Reactions:
+rlsmith1
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,677
+1,436
+North Central FL
+Jun 11, 2024
+#29
+@SkyScrapin any chance you can tell us more about their Saker clip-on? That thing looks stinkin’ cool.
+ 
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 12, 2024
+#30
+One of the reasons for a fixed focus fusion sight is that it can minimize parallax/misalignment between the 2 channels at all times. Otherwise , you'd need 2 independent focus controls. Can you imagine the workload of a soldier trying to tweak each focus control on a dynamic battlefield so that the NV and Therm channels were aligned together? On a sniper rifle that is probably acceptable but not on a carbine. You have to remember that while, we are offering these optics to the commercial market, they are designed first and foremost as battlefield devices.
+
+The FLIR ADUNS has a unique design to address the above. It has an adjustable focus for the nv channel but then has the thermal sensor pointing backwards and reflecting off of the NV lens so the focus stays the same between the two. Unfortunately this degrades the 640 thermal image significantly but again the thermal is utilized as an aide to the NV in fusion devices. I would say with confidence that the 320 image in the TALON is optically clearer that the thermal imagery you see through a 640 ADUNS. Most end users probably are utilizing edge/outline mode so the pixel count of the detector is less relevant.
+
+The other design parameter of why these use a 320 sensor is size/weight. As mentioned above you would need a lens double the size of this lens to yield the same FOV if a 640 was used. The FOV is important since this is a clip on and must be unity mag on both channels. At just 2x through a DVO the thermal overlay screen is edge to edge on the talon. What would you be gaining with a 640 sensor?.....1. fov that isn't utilized (since clip on) and small increase in thermal detail that isn't necessary since you have a very high resolution I2 channel for recognition/detail.
+ 
+Last edited: Jun 12, 2024
+ 
+Reactions:
+TheHebrewHammer, TheHorta, jstokes1 and 3 others
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 12, 2024
+#31
+The saker also uses a 320 flir boson plus for the above reasons. Thermal lens in center...I2 lens surrounding
+ 
+Last edited: Jun 12, 2024
+ 
+Reactions:
+Terry Cross, mikefraz, rlsmith1 and 2 others
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 12, 2024
+#32
+KAC had a $45k motorized focus fusion clip on a few yrs back that never saw full production....it also used a 320 to keep optics and FOV small.
+ 
+ 
+Reactions:
+mikefraz
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 12, 2024
+#33
+Evolution 9 said:
+That’s half the answer, and THANK YOU!!!… but the other half of thermal performance is the subjective core performance that has had every core bent over by BAE for 20 years. Any insights here?
+I still think BAE looks slightly better than anything else that is 640. But other newer cores do many things better and allow integrations of future tech...AI etc..
+ 
+ 
+Reactions:
+mikefraz, Bri0242, Bravo6niner and 1 other person
+J
+jstokes1
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+539
+985
+Monroe, Louisiana
+Jun 12, 2024
+#34
+DownRangeThermal said:
+Of course ..if anyone who is in the Austin /San Antonio area you're welcome to stop by our showroom and look through our demo units
+Send me one Dan and I'll do a video on it . Got a talon and the Dragon on order. Been off the video review wagon for a little while because of the move, but now I'm settled in AK so it's time to get back in the saddle.
+ 
+Last edited: Jun 12, 2024
+ 
+Reactions:
+Evolution 9 and rlsmith1
+J
+jstokes1
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+539
+985
+Monroe, Louisiana
+Jun 12, 2024
+#35
+Cshultzy999 said:
+Any chance jay at sure shot can retube with a high spec L3?  but in all seriousness I’m confused as to why we aren’t seeing a fusion clip on from the U.S.? I mean seriously, 4g photonis paired with a boson 320 sounds pretty cool but doesn’t 24ua L3 paired with a 640 bae core sound a lot cooler?
+Your issue would be FOV. You'd need a 10um sensor for the thermal channel to keep the size of the germanium objective down. A 320 core allows for twice the magnification of a 640 core with the same size sensor, keeping the size of the optic in check.
+
+For a fusion device, you don't have to depend on the resolution of the thermal channel for PID, since it's paired with I² (and that's way better than thermal for PID, as we all know). I promise you, you won't really notice the difference between a 320 fused image and 640 fused image; same concept with a COTI and an ECOTI.
+ 
+J
+jstokes1
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+539
+985
+Monroe, Louisiana
+Jun 12, 2024
+#36
+Evolution 9 said:
+That’s half the answer, and THANK YOU!!!… but the other half of thermal performance is the subjective core performance that has had every core bent over by BAE for 20 years. Any insights here?
+Judging from the video, it looks very Voodoo S like on human targets. I took a video of my buddy with my Voodoo s and it looks identical to Dan's video of the Dragon.
+
+To me, that Dragon is going to be what the TigIR 6z was suppose to be. Smallish size, same FOV, but better image with a focus able objective.
+ 
+Last edited: Jun 13, 2024
+ 
+Reactions:
+Bri0242, Evolution 9, Dogtown and 1 other person
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,677
+1,436
+North Central FL
+Jun 13, 2024
+#37
+jstokes1 said:
+To me, that Dragon is going to be what the TigIR 6z was suppose to be. Smaller, same FOV, but better image with a focus able objective.
+It looks a fair bit bigger than the Tig, I’d like to see pics of them side by side. You’re right though, otherwise it seems like an upgraded Tig (8° FOV, adjustable focus, FLIR Boson core, etc).
+ 
+ 
+Reactions:
+jstokes1
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,677
+1,436
+North Central FL
+Jun 13, 2024
+#38
+jstokes1 said:
+Your issue would be FOV. You'd need a 10um sensor for the thermal channel to keep the size of the germanium objective down. A 320 core allows for twice the magnification of a 640 core with the same size sensor, keeping the size of the optic in check.
+
+DRS has done exactly that. They have a fusion clip-on with a 10um 640x480 FPA and the objective is pretty small. Unfortunately the NV channel is digital rather than real I2 but size-wise the unit is quite compact.
+ 
+ 
+Reactions:
+Dogtown
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 13, 2024
+#39
+Conqueror said:
+DRS has done exactly that. They have a fusion clip-on with a 10um 640x480 FPA and the objective is pretty small. Unfortunately the NV channel is digital rather than real I2 but size-wise the unit is quite compact.
+MRDCS aka "MR DICKS"
+It has been an adventure engineering wise. I still think it isn't working the way the want. Very cool idea....the digital channel allows for some very high speed things that analog does not.
+ 
+ 
+Reactions:
+rlsmith1 and Conqueror
+DownRangeThermal
+scout alias hoginaustin
+Full Member
+Minuteman
+Commercial Supporter
+Feb 16, 2017
+542
+1,050
+Austin TX
+www.downrangethermal.com
+Jun 13, 2024
+#40
+Conqueror said:
+It looks a fair bit bigger than the Tig, I’d like to see pics of them side by side. You’re right though, otherwise it seems like an upgraded Tig (8° FOV, adjustable focus, FLIR Boson core, etc).
+xr is 5 inches front to back
+ 
+J
+jstokes1
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+539
+985
+Monroe, Louisiana
+Jun 13, 2024
+#41
+Conqueror said:
+It looks a fair bit bigger than the Tig, I’d like to see pics of them side by side. You’re right though, otherwise it seems like an upgraded Tig (8° FOV, adjustable focus, FLIR Boson core, etc).
+Oh yeah, the tig is going to be smaller. I meant a "smallish" sized unit.
+
+
+Also, here's some still shots from a video of the voodoo s looking at my buddy in the same conditions as Dan's video.
+ 
+Attachments
+Screenshot_20240613_104552_Gallery.jpg
+124 KB · Views: 61
+Screenshot_20240613_104607_Gallery.jpg
+164.1 KB · Views: 57
+J
+jstokes1
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+539
+985
+Monroe, Louisiana
+Jun 13, 2024
+#42
+And here's a collage with still capture from Dan's video.
+ 
+Attachments
+20240613_105839.jpg
+220.7 KB · Views: 70
+20240613_105810.jpg
+228 KB · Views: 64
+ 
+Reactions:
+Bri0242 and CrazyDoc
+I
+Ike1985
+Private
+Minuteman
+Apr 16, 2020
+13
+6
+Jul 13, 2024
+#43
+@DownRangeThermal
+
+I've been in the market for a monocular/clip on for over 3 years, I was between the POT Voodoo S and Skeet IRX, I was hoping you could help me with a few questions now that these units are on the market.
+
+Do you have any knowledge of how the POT voodoo S or Skeet IRX compare to the Excelitas unit? POT says it has 19 degree diagonal FOV, Dragon has 8 degree horizontal(napkin math says that's 22.6 degrees assuming it's an 8x8 screen), Skeet IRX has 28.1 degrees.-it would seem Dragon is in the middle between the two others in FOV.
+
+How does the Excelitas perform in a monocular when ran dual band with a PVS14? Does the Dragon allow you to digitally collimate it so that it can be aligned with the NVG monocular?
+
+How much do the C, C12 and C12XR weigh and which unit is best for HMT and clip on(dual purpose)?
+
+TY
+ 
+Last edited: Jul 13, 2024
+ 
+Reactions:
+Bravo6niner
+T
+tekmann2377
+Private
+Full Member
+Minuteman
+Nov 18, 2011
+180
+201
+40
+OH
+Jul 13, 2024
+#44
+I don't have experience with the Excelitas stuff, but I can tell you a true "all in one" unit for clip on and HMT use still has compromises. The Skeet IRX is the ultimate HMT unit, the FOV is incredibly wide and without demag or distortion. It is the superior choice for HMT, and would also work with a PVS-14 better than other units. It doesn't work that well as a clip on.
+
+As for a combo handheld mono and clip on unit, the Voodoo S is outstanding. It looks like the image quality of the Voodoo S is at least the same, if not better, compared to the Dragon but the FOV is wider.
+
+The Dragon is quite large and I don't think it would make a good HMT unit.
+ 
+ 
+Reactions:
+Evolution 9
+Evolution 9
+Hurter of feelings
+Supporter
+Full Member
+Minuteman
+ 
+Mar 6, 2010
+1,267
+1,550
+Central Idaho
+Jul 13, 2024
+#45
+Per someone who has had hands on with Dragon and Voodoo-S (not me), dragon looks very nice but can’t compete with the Voodoo-S for image.
+
+I’ve used the Voodoo-S helmet mounted and bridged with a 14. It works well, but a Skeetir works better due to FOV and size.
+
+Dragon wouldn’t work at all for that - too big to fit beside a 14 unless your eyes are set REALLY wide, and it doesn’t have mount options that would allow it.
+
+So if you don’t need helmet mounted, Dragon is a clip on that’s not quite as good as a Voodoo-S, but is cheaper which matters. Cheaper clip on thermals are very welcome in my opinion.
+
+Just 4 years ago, nothing good was meaningfully available to civilians, and now we’re nitpicking over details of which military clip on we prefer. It’s a great time to be a thermal enthusiasts… nerd… nut. 
+ 
+Last edited: Jul 13, 2024
+ 
+Reactions:
+rlsmith1, Squibbler and Bravo6niner
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,677
+1,436
+North Central FL
+Jul 13, 2024
+#46
+Dragon doesn’t appear to be intended for helmet mounting at all. They advertise it takes 10x or higher magnification so it must have a demag lens in the eyepiece. It is much more comparable to a TigIR than a Voodoo-S or SkeetIR.
+ 
+J
+jstokes1
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+539
+985
+Monroe, Louisiana
+Jul 13, 2024
+#47
+The Dragon is not an HMT or handheld at all, it is solely a dedicated clip on and TWS.
+ 
+ 
+Reactions:
+Conqueror and SkyScrapin
+C
+CrazyDoc
+Private
+Supporter
+Full Member
+Minuteman
+Aug 28, 2013
+101
+82
+Flatland
+Jul 15, 2024
+#48
+Evolution 9 said:
+Per someone who has had hands on with Dragon and Voodoo-S (not me), dragon looks very nice but can’t compete with the Voodoo-S for image.
+
+I’ve used the Voodoo-S helmet mounted and bridged with a 14. It works well, but a Skeetir works better due to FOV and size.
+
+Dragon wouldn’t work at all for that - too big to fit beside a 14 unless your eyes are set REALLY wide, and it doesn’t have mount options that would allow it.
+
+So if you don’t need helmet mounted, Dragon is a clip on that’s not quite as good as a Voodoo-S, but is cheaper which matters. Cheaper clip on thermals are very welcome in my opinion.
+
+Just 4 years ago, nothing good was meaningfully available to civilians, and now we’re nitpicking over details of which military clip on we prefer. It’s a great time to be a thermal enthusiasts… nerd… nut. 
+Click to expand...
+So the Dragon, that can handle "10X" mag doesn't look as good as the VooDoo-S under the same mag? That's either amazing on the VooDoo-S or really shitty on the Dragon's part.
+ 
+Evolution 9
+Hurter of feelings
+Supporter
+Full Member
+Minuteman
+ 
+Mar 6, 2010
+1,267
+1,550
+Central Idaho
+Jul 15, 2024
+#49
+Dragon doesn’t look as good within the appropriate mag ranges for dragon as the voodoo does within the appropriate mag ranges for voodoo.
+
+And yes, that’s still a win for Voodoo.
+
+If you want voodoo image with less FOV (more magnification), get the Voodoo-M.
+
+This will not complete with the POT Voodoo line.
+
+It will be cheaper, and that will fill a spot in the market.
+ 
+ 
+Reactions:
+Conqueror and CrazyDoc
+J
+jstokes1
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+539
+985
+Monroe, Louisiana
+Jul 22, 2024
+#50
+CrazyDoc said:
+So the Dragon, that can handle "10X" mag doesn't look as good as the VooDoo-S under the same mag? That's either amazing on the VooDoo-S or really shitty on the Dragon's part.
+The Dragon will look better than the voodoo s at 10x optical due solely to the lesser FOV on the Dragon C12xr.
+ 
+ 
+Reactions:
+CrazyDoc
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+M
+	
+Night Vision Day optic reticle is out of focus when paired with thermal clip-on
+mikefraz Mar 10, 2024 Observation & Sighting Devices
+16
+Mar 13, 2024
+	
+Optics AGM Clarion 384 & 640 Dual Base Magnification Thermals IN STOCK!
+Simonsza1 Sep 11, 2024 Buy - Sell - Trade
+27
+Yesterday at 8:30 AM
+	
+Athlon Enters Thermal Optics In A Grand Way
+gr8fuldoug Nov 9, 2023 Observation & Sighting Devices
+0
+Nov 9, 2023
+	
+Athlon Winners Chosen - Enter to Win a Pulsar Thermal
+gr8fuldoug Apr 3, 2024 Observation & Sighting Devices
+0
+Apr 3, 2024
+	
+Night Vision Now @ SOK: Guide Sensmart Thermals
+SkyScrapin Mar 8, 2024 Observation & Sighting Devices
+43
+Oct 31, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/excelitas-thermal-optics.7220713/ 
+ ----- 

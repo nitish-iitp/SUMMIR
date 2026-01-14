@@ -1,0 +1,28 @@
+{
+    "results": [
+        {
+            "sentence": "Relevant",
+            "score": 7
+        },
+        {
+            "sentence": "Relevant",
+            "score": 7
+        },
+        {
+            "sentence": "Relevant",
+            "score": 7
+        },
+        {
+            "sentence": "Relevant",
+            "score": 7
+        },
+        {
+            "sentence": "Relevant",
+            "score": 7
+        },
+        {
+            "sentence": "Irrelevant",
+            "score": 0
+        }
+    ]
+}

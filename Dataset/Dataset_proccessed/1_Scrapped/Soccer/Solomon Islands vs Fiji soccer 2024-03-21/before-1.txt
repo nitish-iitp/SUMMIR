@@ -1,0 +1,1055 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+16” 6.5 creedmoor?
+ 
+Thread starter
+steve101610  
+Start date
+Mar 19, 2024
+1
+	
+2
+Next
+steve101610
+Sergeant of the Hide
+Full Member
+Minuteman
+Jan 13, 2019
+138
+96
+Mar 19, 2024
+#1
+Anyone mess around with a 16” 6.5 creedmoor? I keep eyeballing a craddock 16” with rifle gas and it seems like it would make a really handy deer rifle. I’m curious how bad the port erosion would be and how bad it will beat brass.
+ 
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,663
+1,603
+USA
+Mar 19, 2024
+#2
+Nope not in a 16" barrel...my 6.5 CM in AR is 24".
+But I have a 16" barreled 6 lb 2 oz 308 AR 10 that is a delight to shoot and carry.
+It is also accurate, and fast with the right powders. Running 168eldm at 2756 fps with .5" accuracy.
+Made with magnesium upper, titanium bolt carrier, titanium muzzle brake, carbon fiber hand guard, but not a pencil barrel... But a light fluted 16" Wilson Combat Recon.
+Running 155s in photo at 2813 fps, but went to 2922 fps, but that load was inaccurate, settled on 2877 for the 155 Palma. But the 168, 169, & 177 are the accuracy bullets. Or 208s at 2442 fps, The 168 eldm at 2756 ave velocity is good to 1200 yds...
+And it doesn't beat up brass.
+You could build a 6.5 CM, AR 10 with the same components, the hole in the barrel being smaller will add a few ounces.
+ 
+Attachments
+20230905_150313.jpg
+752.6 KB · Views: 101
+20230913_143419.jpg
+341.1 KB · Views: 101
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 19, 2024
+#3
+If you are going that short, I would consider going even shorter to 13.7-14.5”, use a 45˚ angle gas port, and locate the gas port out far enough to reduce the plug dwell for optimum cycling for the projectile weights you intend to shoot.
+
+I would also suppress it. Port size, steel hardness, how cleanly the port is cut, what powder and bullet weights you use, and rate of fire especially will all contribute to port erosion.
+
+How well or poorly it treats the brass will depend on plug dwell relative to lock time on the bolt (staying locked up), how cleanly your feeding system is tuned with feed ramps, how you de-edge the sharp corners on the extractor shelf on the bolt and the ejector channel mouth, the extractor, and what pressures you try to push. Ejection impacts with the upper receiver/brass defector will also factor into brass treatment.
+
+If I was doing it, I would use either a rifle speed gas block or the new Bootleg LR-308 bolt carrier. Feed ramps would be de-edged, blended, and polished. Tune-up the bolt, bolt face, ejector, extractor, gas tube, carrier key, bed the barrel, and all the normal little accuracy build techniques. A5 RET, rifle spring, AR-15 H3 carbine buffer.
+ 
+ 
+Reactions:
+Earnhardt, Generations, Jsp556 and 1 other person
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 19, 2024
+#4
+With 129gr SST at 2594fps, you’ll have expansion out to 475yds with ~900ft-lbs.
+
+With 130gr ELD-M, 525yds for 1809fps and 945ft-lbs
+
+129gr ABLR 575yds for simialr numbers, but that bullet will expand out much further.
+ 
+ 
+Reactions:
+Jsp556
+sboone
+Safety off make boom
+Full Member
+Minuteman
+Feb 14, 2021
+199
+175
+67133
+Mar 19, 2024
+#5
+I built one using a faxon big gunner barrel. I liked the size and weight savings it offered. I will not ever be buying a Faxon barrel again though. The chamber is rough as hell and overall just not a nice barrel, shouldve sent it back immediately but impatience bit me in the ass. I have a 20" proof stainless to replace it eventually. Go 16", it's fun.
+ 
+ 
+Reactions:
+PappyM3, smcfarland and 45-90
+Jsp556
+Private
+Full Member
+Minuteman
+Feb 27, 2017
+1,121
+1,714
+Mar 19, 2024
+#6
+I rebarreled my SP10 with a melonited 16” Criterion 6.5 Creedmoor barrel and have a couple of rifle gassed 16” 308’s(Criterion & a chopped SS LMT). They’re all a pleasure to shoot. They all have a smooth recoil impulse and are easy on brass. I’ve been busy as heck with work so I haven’t got a lot of time on the 6.5 yet. I’ve got the gas block wide open and it’s been 100% reliable unsuppressed so far. The only one I’ve had to lighten up buffer weight on is the chopped LMT barrel. I haven’t looked through any of them with a bore scope so I can’t comment on the port erosion.
+ 
+ 
+Reactions:
+Earnhardt and PappyM3
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,663
+1,603
+USA
+Mar 20, 2024
+#7
+Faxon seems to have been putting out crappy barrels for quite some time, I bought 2... The first one wasn't that good, made a mistake of trying another, and it was of unacceptable quality, unworthy of even putting it on a plinker.
+I Will buy no more from them.
+ 
+ 
+Reactions:
+GhostFace
+S
+stcrab
+Banhammer
+Banned !
+Minuteman
+Nov 21, 2022
+13
+4
+USA
+Mar 20, 2024
+#8
+6.5 creedmoor is still ballistically superior to 308, even out of a 16" barrel.
+ 
+ 
+Reactions:
+themightytimmah and 45-90
+steve101610
+Sergeant of the Hide
+Full Member
+Minuteman
+Jan 13, 2019
+138
+96
+Mar 20, 2024
+#9
+Thanks for all the info guys. I will go with the craddock rock creek for now to see if it works out as planned then probably have craddock make me a bartlein.
+ 
+ 
+Reactions:
+jh2785
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,663
+1,603
+USA
+Mar 20, 2024
+#10
+stcrab said:
+6.5 creedmoor is still ballistically superior to 308, even out of a 16" barrel.
+I have both 2 6.5 CM's and 8 308's ...so I know what they are capable of ...if you handload, and chamber your own rifles, use heavy high BC bullets, 9 and 8 twist barrels, the 308 can easily out perform the 6.5 CM.
+You need hybrid cases to bring the CM back into contention. Then it's pretty good again. I use the both, but dropped the 6.5 CM for awhile, because it couldn't keep up...until I acquired hybrid cases, and run high pressure handloads with RL 26, so now it's back in the lineup...plus a new 26" Bartlein 6.5 CM barrel, ready to go.
+ 
+ 
+Reactions:
+whiskeytower, GhostFace, supercorndogs and 1 other person
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,327
+19,445
+Colorado
+Mar 20, 2024
+#11
+Now that's funny right there. 6.5 creeds not keeping up with the 308s ballistically.  let me see here which one can run the highest BC bullet fastest...
+ 
+ 
+Reactions:
+whiskeytower and DeathBeforeDismount
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,142
+3,364
+PNW
+Mar 20, 2024
+#12
+How do you run high pressure in 6.5CM with RL26?
+ 
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,327
+19,445
+Colorado
+Mar 20, 2024
+#13
+Grind it into a fine powder...
+ 
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,142
+3,364
+PNW
+Mar 20, 2024
+#14
+supercorndogs said:
+Grind it into a fine powder...
+
+Lines of RL26? It's making more sense now.
+ 
+ 
+Reactions:
+supercorndogs
+Bigjake83
+Golden Shellback
+Full Member
+Minuteman
+Supporter
+May 19, 2013
+5,000
+4,011
+Southern Idaho
+Mar 20, 2024
+#15
+45-90 said:
+I have both 2 6.5 CM's and 8 308's ...so I know what they are capable of ...if you handload, and chamber your own rifles, use heavy high BC bullets, 9 and 8 twist barrels, the 308 can easily out perform the 6.5 CM.
+You need hybrid cases to bring the CM back into contention. Then it's pretty good again. I use the both, but dropped the 6.5 CM for awhile, because it couldn't keep up...until I acquired hybrid cases, and run high pressure handloads with RL 26, so now it's back in the lineup...plus a new 26" Bartlein 6.5 CM barrel, ready to go.
+Click to expand...
+
+Could you elaborate on these hybrid 6.5 cases? And where you are acquiring them from. I'd like to see yours.
+ 
+Last edited: Mar 20, 2024
+ 
+Reactions:
+LRRPF52
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,327
+19,445
+Colorado
+Mar 20, 2024
+#16
+Cascade Hemi said:
+Lines of RL26? It's making more sense now.
+Drugs are cheaper and easier to find. Just sayin. 
+ 
+T
+themightytimmah
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 12, 2010
+426
+232
+38
+New Orleans, LA
+Mar 20, 2024
+#17
+Cascade Hemi said:
+How do you run high pressure in 6.5CM with RL26?
+RL26 ran some wildly fast numbers for me in 6.5 with no pressure signs, although out of a 22” barrel with a Sandman L.
+
+Worked up load was 2850 with a 140 Hybrid. Book max shot 2925 although the primer looked like an accident waiting to happen. Berger stated over the phone their max was 2917 FPS with a 140 with a 24” barrel, but real world came out faster. Probably temp related - RL26 is very temp sensitive and I live in Louisiana.
+
+Data was direct from Berger off the phone and some of it was close to 6.5 PRC territory. I think it let you stuff 10-20% more powder in than H4350 while remaining within Capstone’s published (sort of) data.
+
+It’s a slow powder though - surprised it worked well with a 16” barrel. Accuracy was mediocre compared to the one hole groups Varget and 4350 were capable of - ultimately decided I didn’t need all that speed and I could just reach for a bigger rifle if I wanted the horsepower.
+
+But back to the 6.5 vs 308 debate - I’m building an 18” 6.5 right now, the numbers substantially favor 6.5 for the range at least. A 16” 308 might hit harder, but you don’t need the extra bullet weight for deer. You’ll want a can or double hearing protection though. Lots of unburnt powder traveling out of that barrel.
+ 
+Last edited: Mar 20, 2024
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,142
+3,364
+PNW
+Mar 20, 2024
+#18
+bigjake83 said:
+Could you elaborate on these hybrid 6.5 cases? And where you are acquiring them from. I'd like to seem yours.
+
+277 Fury brass from American Reloading.
+ 
+XP1K
+Private
+Full Member
+Minuteman
+Jul 20, 2017
+1,809
+3,767
+Texas
+Mar 20, 2024
+#19
+45-90 said:
+Nope not in a 16" barrel...my 6.5 CM in AR is 24".
+But I have a 16" barreled 6 lb 2 oz 308 AR 10 that is a delight to shoot and carry.
+It is also accurate, and fast with the right powders. Running 168eldm at 2756 fps with .5" accuracy.
+Made with magnesium upper, titanium bolt carrier, titanium muzzle brake, carbon fiber hand guard, but not a pencil barrel... But a light fluted 16" Wilson Combat Recon.
+Running 155s in photo at 2813 fps, but went to 2922 fps, but that load was inaccurate, settled on 2877 for the 155 Palma. But the 168, 169, & 177 are the accuracy bullets. Or 208s at 2442 fps, The 168 eldm at 2756 ave velocity is good to 1200 yds...
+And it doesn't beat up brass.
+You could build a 6.5 CM, AR 10 with the same components, the hole in the barrel being smaller will add a few ounces.
+Click to expand...
+What powder are you running to get 2750 with a 168 out of a 16" barrel ?
+
+The best I've ever done with a 16" gasser and 168's is at least 200 fps slower than that.
+ 
+ 
+Reactions:
+Gtscotty, matt33, DeathBeforeDismount and 2 others
+WhoIsPat
+Candy Man
+Minuteman
+Jan 28, 2023
+55
+29
+Ohio
+Mar 20, 2024
+#20
+I ended up picking Wilson Combat's 16" 6.5cm barrel with their/KAC length intermediate gas port. Its a nice barrel but I still polished the feed ramps to match my upper receiver. I would 100% recommend getting a JP high pressure bolt or RCA HP bolt. I'm using a SprinCo orange spring with a 5 3/8" 6.1oz buffer with a superlative arms gas block at setting 5 or 6 from closed with a Hyperion. They can definitely get gassy quick
+ 
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,663
+1,603
+USA
+Mar 20, 2024
+#21
+bigjake83 said:
+Could you elaborate on these hybrid 6.5 cases? And where you are acquiring them from. I'd like to see yours.
+I have a couple thousand, and I purchased the last 300 available...for now.
+I use them for 8.6 blackout, 6.5 CM, 308 Win, and 358 Win.
+Here are some pics, and one string of 308 Win 200 gr SMK .715 BC at 2874 fps ave, probably out shoots your factory 6.5 CM, in every category, and they have been up to 2952 fps in the long barrel.
+So that's why the cases are needed to bring my anemic 6.5 CM back in contention with the 308, using 150gr SMK or 153 Atip bullets.
+ 
+Attachments
+20230519_125022.jpg
+1.1 MB · Views: 127
+20240102_152143.jpg
+486.7 KB · Views: 124
+20240222_132408.jpg
+440 KB · Views: 125
+20240216_213144.jpg
+506.5 KB · Views: 127
+ 
+Reactions:
+Jsp556, whiskeytower and GhostFace
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,292
+2,451
+38
+Mar 20, 2024
+#22
+What kind of sorcery gets you 2650 FPS out of a 16in 308 in a gasser ?
+I was getting. 2550 out of my DTA with 175 TMKs
+ 
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,292
+2,451
+38
+Mar 20, 2024
+#23
+XP1K said:
+What powder are you running to get 2750 with a 168 out of a 16" barrel ?
+
+The best I've ever done with a 16" gasser and 168's is at least 200 fps slower than that.
+Same
+ 
+ 
+Reactions:
+matt33
+Bigjake83
+Golden Shellback
+Full Member
+Minuteman
+Supporter
+May 19, 2013
+5,000
+4,011
+Southern Idaho
+Mar 20, 2024
+#24
+45-90 said:
+I have a couple thousand, and I purchased the last 300 available...for now.
+I use them for 8.6 blackout, 6.5 CM, 308 Win, and 358 Win.
+Here are some pics, and one string of 308 Win 200 gr SMK .715 BC at 2874 fps ave, probably out shoots your factory 6.5 CM, in every category, and they have been up to 2952 fps in the long barrel.
+So that's why the cases are needed to bring my anemic 6.5 CM back in contention with the 308, using 150gr SMK or 153 Atip bullets.
+Click to expand...
+So does the steel case head provide more powder capacity?
+ 
+ 
+Reactions:
+Earnhardt and 45-90
+just browsing
+overkill is underrated
+Supporter
+Full Member
+Minuteman
+Supporter
+Feb 18, 2017
+2,248
+2,519
+NE PA
+Mar 20, 2024
+#25
+Hope you’ll be shooting it suppressed. 16” large frames are for masochists.
+ 
+ 
+Reactions:
+whiskeytower
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,663
+1,603
+USA
+Mar 20, 2024
+#26
+bigjake83 said:
+So does the steel case head provide more powder capacity?
+Yes...
+ 
+ 
+Reactions:
+whiskeytower
+S
+smcfarland
+Private
+Full Member
+Minuteman
+Feb 26, 2011
+252
+291
+48
+Georgetown, TX
+Mar 21, 2024
+#27
+Also did the Faxon 16” originally for weight savings. Mine actually shot pretty well, buddy who did similar build did not shoot as well. Very handy setup, especially running suppressed. Eventually switched to 20” Proof with +2 gas. Much better setup. Appreciate the velocity increase and very soft shooting.
+ 
+ 
+Reactions:
+AZLONGRIDER
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,142
+3,364
+PNW
+Mar 21, 2024
+#28
+themightytimmah said:
+RL26 ran some wildly fast numbers for me in 6.5 with no pressure signs, although out of a 22” barrel with a Sandman L.
+
+Worked up load was 2850 with a 140 Hybrid. Book max shot 2925 although the primer looked like an accident waiting to happen. Berger stated over the phone their max was 2917 FPS with a 140 with a 24” barrel, but real world came out faster. Probably temp related - RL26 is very temp sensitive and I live in Louisiana.
+
+Data was direct from Berger off the phone and some of it was close to 6.5 PRC territory. I think it let you stuff 10-20% more powder in than H4350 while remaining within Capstone’s published (sort of) data.
+
+It’s a slow powder though - surprised it worked well with a 16” barrel. Accuracy was mediocre compared to the one hole groups Varget and 4350 were capable of - ultimately decided I didn’t need all that speed and I could just reach for a bigger rifle if I wanted the horsepower.
+
+But back to the 6.5 vs 308 debate - I’m building an 18” 6.5 right now, the numbers substantially favor 6.5 for the range at least. A 16” 308 might hit harder, but you don’t need the extra bullet weight for deer. You’ll want a can or double hearing protection though. Lots of unburnt powder traveling out of that barrel.
+Click to expand...
+
+You may have reached some pressure due to chamber shape/size/whatever but that isn't "high pressure" as it pertains to what @45-90 is doing. It's pretty difficult to reach 70kPSI+ in 6.5CM with 140's, traditional brass, and RL26. Even adding two grains extra doesn't get you there.
+
+I'd be pretty concerned running 70kPSI in an AR10. Mauser actions have the safety margin, AR10's don't.
+ 
+ 
+Reactions:
+Gustav7
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,663
+1,603
+USA
+Mar 21, 2024
+#29
+Cascade Hemi said:
+You may have reached some pressure due to chamber shape/size/whatever but that isn't "high pressure" as it pertains to what @45-90 is doing. It's pretty difficult to reach 70kPSI+ in 6.5CM with 140's, traditional brass, and RL26. Even adding two grains extra doesn't get you there.
+
+I'd be pretty concerned running 70kPSI in an AR10. Mauser actions have the safety margin, AR10's don't.
+Click to expand...
+For your information:
+The 16" 308 168 eldm at 2756 fps is .5 gr under max in the Speer loading manual, and their fastest powder listed.
+It only loses less the 16 fps per inch compared to 16" and 24" they are not hybrid cases.
+The hybrid case loads can actually handle and is designed to handle 80,000 psi and will run there for the military in full auto weapons.
+Some Hybrids loads reach close to 70,000 psi and operate just fine there, and hybrid cases have more capacity for powder. Some have been loaded 4 times and snug primer pockets,.. with regular dies.
+My equalizing 308 load for 6.5 CM RL 26 153 gr Atip is 2953 fps from a 24" barrel at my COAL, with my chamber, and hybrid case capacity.
+QL says I'm at 67,593 psi, but I believe it to be right at 70,000 psi.
+Many of todays magnums run at 65,000 psi with larger square inch surface area for more bolt thrust on the action.
+I run the hybrid cases by the hundreds in various calibers. They offer a significant improvement in performance.
+My standard 308 Lapua brass long barreled load offers over 3600 ft/lbs but hybrid case has reached 4000 ft- lbs of energy out of a 308 case and the 6.5 CM hybrid can reach over 2900 ft-lb.of energy.
+
+You don't have to do any of it, I don't care, but the information and the availability to do so is.
+
+So yes the 6.5 CM in normal factory, & handloads loads is way behind the 308 Win cased handloads in performance with modern components, 9, and 8 twist barrels starting at 200 gr .715 BC SMK and moving to the 230 gr Atip...then add the hybrid cases for and even greater increase in performance, where the 6.5 CM benefits the most, where RL 26 and hybrid cases and 2 high BC bullets 150 SMK and 153 Atip bring it back to compete with my 308s..and why I have so many 308s.
+ 
+ 
+Reactions:
+whiskeytower
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 21, 2024
+#30
+The newer bullets for .30 cal with more modern shaping and high BCs really brought the .308 back in capability, though self-spotting isn’t as easy. When I eventually get down to loading for my 16” .308, I’ll be looking at some of the newer bullets for sure.
+ 
+ 
+Reactions:
+whiskeytower and 45-90
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,142
+3,364
+PNW
+Mar 21, 2024
+#31
+45-90 said:
+For your information:
+The 16" 308 168 eldm at 2756 fps is .5 gr under max in the Speer loading manual, and their fastest powder listed.
+It only loses less the 16 fps per inch compared to 16" and 24" they are not hybrid cases.
+The hybrid case loads can actually handle and is designed to handle 80,000 psi and will run there for the military in full auto weapons.
+Some Hybrids loads reach close to 70,000 psi and operate just fine there, and hybrid cases have more capacity for powder. Some have been loaded 4 times and snug primer pockets,.. with regular dies.
+My equalizing 308 load for 6.5 CM RL 26 153 gr Atip is 2953 fps from a 24" barrel at my COAL, with my chamber, and hybrid case capacity.
+QL says I'm at 67,593 psi, but I believe it to be right at 70,000 psi.
+Many of todays magnums run at 65,000 psi with larger square inch surface area for more bolt thrust on the action.
+I run the hybrid cases by the hundreds in various calibers. They offer a significant improvement in performance.
+My standard 308 Lapua brass long barreled load offers over 3600 ft/lbs but hybrid case has reached 4000 ft- lbs of energy out of a 308 case and the 6.5 CM hybrid can reach over 2900 ft-lb.of energy.
+
+You don't have to do any of it, I don't care, but the information and the availability to do so is.
+
+So yes the 6.5 CM in normal factory, & handloads loads is way behind the 308 Win cased handloads in performance with modern components, 9, and 8 twist barrels starting at 200 gr .715 BC SMK and moving to the 230 gr Atip...then add the hybrid cases for and even greater increase in performance, where the 6.5 CM benefits the most, where RL 26 and hybrid cases and 2 high BC bullets 150 SMK and 153 Atip bring it back to compete with my 308s..and why I have so many 308s.
+Click to expand...
+
+I have some of the hybrid cases. Your post doesn't contradict my post.
+ 
+ 
+Reactions:
+45-90
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,292
+2,451
+38
+Mar 21, 2024
+#32
+How do you fit a 230 atip in a 2.80in coal AR10 magazine ?
+ 
+ 
+Reactions:
+Earnhardt
+P
+PappyM3
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2019
+417
+472
+Mar 21, 2024
+#33
+just browsing said:
+Hope you’ll be shooting it suppressed. 16” large frames are for masochists.
+My 16” Criterion 6.5 CM AR10 is very pleasant to shoot. It wears a BCM Mod 1 comp.
+
+steve101610 said:
+Anyone mess around with a 16” 6.5 creedmoor? I keep eyeballing a craddock 16” with rifle gas and it seems like it would make a really handy deer rifle. I’m curious how bad the port erosion would be and how bad it will beat brass.
+My rifle gassed 16” chrome lined Criterion is great. Relatively easy to reach out to 1k with 140gr+ ELDs. 2520 -2550 fps with factory 143gr ELD-X depending on lot/temperature.
+
+If you go with a 16”, definitely go with a rifle length gas system. I’m sure a craddock setup would shoot. But if you’re fine with 0.75-1.25 MOA factory loads without tuning, then the Criterion will get you there and should have a good bit longer barrel life. Note their newer 6.5 Creedmoor are nitrided rather than chrome lined. But they should still have a good barrel life.
+
+
+
+sboone said:
+I built one using a faxon big gunner barrel. I liked the size and weight savings it offered. I will not ever be buying a Faxon barrel again though. The chamber is rough as hell and overall just not a nice barrel, shouldve sent it back immediately but impatience bit me in the ass. I have a 20" proof stainless to replace it eventually. Go 16", it's fun.
+Me too. Got it for the weight, but what a piece of garbage. Failures to extract all over the place.
+ 
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,142
+3,364
+PNW
+Mar 21, 2024
+#34
+st1650 said:
+How do you fit a 230 atip in a 2.80in coal AR10 magazine ?
+You don't.
+ 
+ 
+Reactions:
+Jdowns0415
+DeathBeforeDismount
+Hey, give your balls a tug.
+Supporter
+Full Member
+Minuteman
+Nov 20, 2021
+5,592
+7,738
+IN YOUR HEAD
+Mar 21, 2024
+#35
+LRRPF52 said:
+The newer bullets for .30 cal with more modern shaping and high BCs really brought the .308 back in capability, though self-spotting isn’t as easy. When I eventually get down to loading for my 16” .308, I’ll be looking at some of the newer bullets for sure.
+Which ones? The 185 jugger / hybrid is probably the the best 308 bullet out there but once you go above that in BC (and grains) you loose way too much velocity to take advantage of the higher BC.
+
+You are also going to get into OAL and mag length issues with the longer bullets.
+ 
+ 
+Reactions:
+matt33 and st1650
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 21, 2024
+#36
+DeathBeforeDismount said:
+Which ones? The 185 jugger / hybrid is probably the the best 308 bullet out there but once you go above that in BC (and grains) you loose way too much velocity to take advantage of the higher BC.
+
+You are also going to get into OAL and mag length issues with the longer bullets.
+I’ve been eyeballing 168gr and 178gr ELD-Ms, 169gr SMKs, 155gr Scenars, 175gr TMKs, 168gr Bergers, 185gr Bergers.
+
+Not a priority other than to have another loaner carbine for courses and a demo gun to show how the .308 differs from the other cartridges.
+
+I’ve watched so much 168gr SMK, 173gr M118, and 175gr SMK go downrange over the past 30 years that I feel very confident when spotting for people who are shooting it, even in full-value winds. I used to shoot 155gr Scenars in competition before we knew about the BC games companies were playing, but I verified my data at distance as much as I could.
+ 
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,292
+2,451
+38
+Mar 21, 2024
+#37
+Cascade Hemi said:
+You don't.
+That's my point. If the argument is that 308 is superior at range to a 6.5 creed out of a gasser because of the 200gr+ 30cal projectile then I beg to disagree.
+168 eld-m & 185 Berger would be about the longer I'd go for a 308 gasser (.263 G7 BC for the 168 ) and .284 G7 BC and then comparing to 130 eld-m (0.279 G7 BC) and 140 eld-m (0.326 G7 ), I don't understand how it makes the case for 308 over 6.5.
+I'd be happy to be wrong about this
+ 
+ 
+Reactions:
+whiskeytower and themightytimmah
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,663
+1,603
+USA
+Nov 8, 2024
+#38
+Here's a 200 gr SMK .360 G7 or .715 G1 BC at 2673 fps from a 18" 308 AR 10. You'd have to go 2700 fps with the 153 gr Atip at the same speed to match this AR 10 18" load with the 6.5 CM in an 18" AR.
+And thats not including any bolt guns or hybrid cases. Those can reach 2620 fps with 230 Atips, then enter hybrid cases for even more speed.
+It's all there for those who care to take advantage of new bullets and powders, and hybrid cases.
+ 
+Attachments
+20220609_150027_001.jpg
+747.6 KB · Views: 47
+ 
+Reactions:
+st1650
+roostercogburn98
+Fudd gun collector extraordinaire
+Full Member
+Minuteman
+Supporter
+Nov 3, 2010
+9,913
+21,009
+Nov 8, 2024
+#39
+Old ish thread, but @powdahound76 runs a shorter 6.5 manbun iffin I recall correctly
+ 
+ 
+Reactions:
+powdahound76
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,292
+2,451
+38
+Nov 8, 2024
+#40
+45-90 said:
+Here's a 200 gr SMK .360 G7 or .715 G1 BC at 2673 fps from a 18" 308 AR 10. You'd have to go 2700 fps with the 153 gr Atip at the same speed to match this AR 10 18" load with the 6.5 CM in an 18" AR.
+And thats not including any bolt guns or hybrid cases. Those can reach 2620 fps with 230 Atips, then enter hybrid cases for even more speed.
+It's all there for those who care to take advantage of new bullets and powders, and hybrid cases.
+Click to expand...
+What kind of AR10 bolt can support these pressure ?
+ 
+ 
+Reactions:
+Earnhardt and PappyM3
+F
+FUNCTIONAL
+Dirty Civilian
+Full Member
+Minuteman
+Feb 19, 2012
+2,167
+2,348
+Eastern, NC
+Nov 8, 2024
+#41
+Here is a 16" 308 vs 16" 6.4crees. 308 running 175smk at 2497 and 6.5 running 140smk at 2542 . You can get a but better performance out of say a 169smk/178bthp/185jugg etc and a 142smk for the 6.5 but the 140/175 are in my opinion equally anemic in terms of bc for their calibers.
+
+You can see the 308 doesn't even stay super to 1k. Only .1 mil different at 1k for a 3mph wind and a significant drop difference.
+
+6.5creed
+
+
+308 win
+
+ 
+ 
+Reactions:
+45-90
+P
+PappyM3
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2019
+417
+472
+Nov 8, 2024
+#42
+45-90 said:
+Here's a 200 gr SMK .360 G7 or .715 G1 BC at 2673 fps from a 18" 308 AR 10. You'd have to go 2700 fps with the 153 gr Atip at the same speed to match this AR 10 18" load with the 6.5 CM in an 18" AR.
+And thats not including any bolt guns or hybrid cases. Those can reach 2620 fps with 230 Atips, then enter hybrid cases for even more speed.
+It's all there for those who care to take advantage of new bullets and powders, and hybrid cases.
+Click to expand...
+And what kind of COAL are you at with those 200gr SMKs? That certainly looks like a single feed cartridge.
+
+What kind of pressure?
+ 
+powdahound76
+Old tired dad
+Full Member
+Minuteman
+Sep 7, 2011
+10,318
+27,551
+Denver CO
+Nov 8, 2024
+#43
+roostercogburn98 said:
+Old ish thread, but @powdahound76 runs a shorter 6.5 manbun iffin I recall correctly
+
+Ran 123 Scenars at 2840 in a 16.5” from PVA.
+H4350 about 0.5 gr below Hodgdon’s book max if memory serves.
+
+New one coming.
+Hope it is similar. Prolly gonna try similar weight in Hammer Hunters
+ 
+ 
+Reactions:
+roostercogburn98
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,663
+1,603
+USA
+Nov 8, 2024
+#44
+You are running the wrong components in your 308...
+Most of my 16" 308 loads are good for 1300 yds in a 6 lb AR 10, without scope.
+Dependes on what altitude I shoot it at, most if the state is high desert, or mountains.
+But at the 4200 altitude of much of the high desert the 16" 308 loaded with 208 eldm is good to 1500 yds, with Hornadys G7 and a muzzle velocity of 2442 fps...the ballistic numbers, it looks like this.
+1000 yards
+Drop Wind 1k yd velocity 1k energy
+34.8 moa 60.7 in. 1489 fps. 1023 ft/ lbs
+
+This is just mag length 208 eldm bullets in a light 6 lb 16" 308 AR 10.
+More than enough energy for 500 yd elk, cause many will be at higher elevation, so the range could actually be extended.
+It is, what it is... just change components or use the same old inferior components and same tired arguments...makes no difference to me. But facts still exist that you can greatly improve the 308 performance with modern components.
+ 
+Attachments
+20230904_173736.jpg
+351.6 KB · Views: 38
+ 
+Reactions:
+LRRPF52
+2
+260shooter
+Full Member
+Full Member
+Minuteman
+Feb 25, 2013
+333
+99
+South Illinois
+Nov 8, 2024
+#45
+Cascade Hemi said:
+How do you run high pressure in 6.5CM with RL26?
+RL16
+ 
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,663
+1,603
+USA
+Nov 8, 2024
+#46
+260shooter said:
+RL16
+Nope, RL 26 and heavy bullets, in the 6.5 CM you can reach 80,000 psi ...and more,
+The 308 Win not so much, but did hit 2712 fps with RL 26 & 200 gr SMK.
+But...the 250 gr Atip might be a place where a case full of RL 26 might be worthwhile...doing so to make it work would require extending the throat in the 308 LA barrel, ruining it for shorter 230 to 200 gr bullets....yet another experiment, but I would expect 2500 fps from this combination.
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Nov 9, 2024
+#47
+It would be cool if someone made a factory load with those hybrid cases for .308 that are gas gun port pressure friendly.
+
+7mm SAW with that hybrid case would be a treat with 180s and above.
+ 
+ 
+Reactions:
+st1650
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,292
+2,451
+38
+Nov 9, 2024
+#48
+LRRPF52 said:
+It would be cool if someone made a factory load with those hybrid cases for .308 that are gas gun port pressure friendly.
+
+7mm SAW with that hybrid case would be a treat with 180s and above.
+Absolutely. Even with the 162 eld-M, imagine getting 7 PRC speed out of a short action standard bolt face.
+ 
+ 
+Reactions:
+LRRPF52
+Gtscotty
+Major Hide Member
+Full Member
+Minuteman
+Jul 22, 2018
+1,018
+1,055
+Nov 9, 2024
+#49
+45-90 said:
+For your information:
+The 16" 308 168 eldm at 2756 fps is .5 gr under max in the Speer loading manual, and their fastest powder listed.
+It only loses less the 16 fps per inch compared to 16" and 24" they are not hybrid cases.
+
+
+45-90 said:
+Here's a 200 gr SMK .360 G7 or .715 G1 BC at 2673 fps from a 18" 308 AR 10. You'd have to go 2700 fps with the 153 gr Atip at the same speed to match this AR 10 18" load with the 6.5 CM in an 18" AR.
+
+Why not include the actual information here, what are your loads for these, powder and charge?
+ 
+ 
+Reactions:
+PappyM3 and Earnhardt
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,327
+19,445
+Colorado
+Nov 10, 2024
+#50
+Because others might try it too. If you drive a 6.5 creed to 80k psi it will once again handily whip the flying pig.
+ 
+ 
+Reactions:
+PappyM3 and Earnhardt
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+	
+Barrel Options for a SBR 308 rifle?
+LilGucci Oct 21, 2024 Semi-Automatic Rifles
+23
+Oct 28, 2024
+S
+	
+Mid-length gas port length - 6.5 creedmoor
+Steven Martin Aug 17, 2024 Semi-Automatic Rifles
+2
+Aug 17, 2024
+Z
+	
+Accessories FN SCAR 20S Barrel Assembly 16" .308 and 6.5 Creedmoor
+zekers7 Dec 19, 2024 Buy - Sell - Trade
+2
+Dec 22, 2024
+	
+POI SHIFT SEEKINS IRMT VS RIDGELINE DEFENSE
+MaximusDecimusMeidius Dec 15, 2024 Semi-Automatic Rifles
+107
+Today at 11:18 AM
+	
+LaRue LT-10 6.5 Creedmoor cycling issues
+david walter Aug 31, 2024 Semi-Automatic Rifles
+10
+Sep 2, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/16%E2%80%9D-6-5-creedmoor.7211970/ 
+ ----- 

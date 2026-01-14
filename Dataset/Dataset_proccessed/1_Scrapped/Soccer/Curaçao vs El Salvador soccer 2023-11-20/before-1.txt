@@ -1,0 +1,356 @@
+[SOLVED] Edit Customer Details -- Lose Region every time?
+HOME
+ 
+ FORUM LOGIN 
+ POST REPLY
+ 
+SEARCH
+ ADVANCED SEARCH
+6 POSTS
+PAGE 1 OF 1
+[SOLVED] Edit Customer Details -- Lose Region every time?
+kev0
+Newbie
+Posts
+6
+Joined
+Thu Nov 16, 2023 3:36 am
+QUOTE
+
+Post
+ by kev0 » Thu Nov 16, 2023 5:07 am
+
+Hi, I'm a little new to OC and my boss kinda threw this task at me for me to sort out. I have a background in CS, so I have tried to look at the backend of our OC instance to try and figure this out. Not much luck.
+
+OC info
+Version: 3.0.3.2
+Theme: Custom theme (it shouldn't be causing problems? It's just different CSS from what I can tell).
+Extensions: we have a few 3rd party extensions installed from the marketplace, but I can't tell which ones are 3rd party and which ones are OC native.
+
+The issue I need to resolve is that when editing customer details, the region / state keeps getting lost. EG:
+
+1. Customers -> Customers
+2. Edit client
+3. change details / reset password from admin panel
+4. Save details to get error: !Warning: Please check the form carefully for errors!
+5. We find that the region/ state is blank and no options available
+
+The current workaround I have found is select another country, reselect the customer's actual country, then select the correct region / state. But this means referential information needs to be available to the admin staff, which our client is not happy about (a lot of cross referencing, human errors occurring).
+
+I have tried googling around to find other solutions or workarounds. The only other solution I've found was to remove zone or region requirement. This is not a valid solution since the client does require the address for shipping information.
+
+I should also mention, if a customer has multiple addresses, this issue exists for all addresses (not just default).
+Last edited by kev0 on Fri Nov 24, 2023 5:40 am, edited 1 time in total.
+Top
+Re: Edit Customer Details -- Lose Region every time?
+paulfeakins
+Guru Member
+Online
+Posts
+9764
+Joined
+Mon Aug 22, 2011 11:01 pm
+Location
+London Gatwick, United Kingdom
+ CONTACT 
+QUOTE
+
+Post
+ by paulfeakins » Thu Nov 16, 2023 8:16 pm
+
+kev0 wrote: ↑
+Thu Nov 16, 2023 5:07 am
+Extensions: we have a few 3rd party extensions installed from the marketplace, but I can't tell which ones are 3rd party and which ones are OC native.
+
+The issue I need to resolve is that when editing customer details, the region / state keeps getting lost. EG:
+I don't think this is a bug in a fresh install of that version of OpenCart, so it must be a custom code change or extension.
+
+You could try disabling the extensions one-by-one until the problem disappears and then the one that you disabled last is the problem.
+
+UK OpenCart Hosting | OpenCart Audits | OpenCart Support - please email info@antropy.co.uk
+
+Top
+Re: Edit Customer Details -- Lose Region every time?
+kev0
+Newbie
+Posts
+6
+Joined
+Thu Nov 16, 2023 3:36 am
+QUOTE
+
+Post
+ by kev0 » Thu Nov 16, 2023 11:45 pm
+
+Okay, thanks for confirming this isn't a bug. I'll try troubleshooting the modules today (there appears to be a lot). Thanks for the advice!
+Top
+Re: Edit Customer Details -- Lose Region every time?
+paulfeakins
+Guru Member
+Online
+Posts
+9764
+Joined
+Mon Aug 22, 2011 11:01 pm
+Location
+London Gatwick, United Kingdom
+ CONTACT 
+QUOTE
+
+Post
+ by paulfeakins » Fri Nov 17, 2023 8:05 pm
+
+kev0 wrote: ↑
+Thu Nov 16, 2023 11:45 pm
+Okay, thanks for confirming this isn't a bug. I'll try troubleshooting the modules today (there appears to be a lot). Thanks for the advice!
+It can be worth having an OpenCart support agency on hand if there are on-going things that need to be fixed/added.
+
+UK OpenCart Hosting | OpenCart Audits | OpenCart Support - please email info@antropy.co.uk
+
+Top
+Re: Edit Customer Details -- Lose Region every time?
+kev0
+Newbie
+Posts
+6
+Joined
+Thu Nov 16, 2023 3:36 am
+QUOTE
+
+Post
+ by kev0 » Mon Nov 20, 2023 10:42 pm
+
+paulfeakins wrote: ↑
+Fri Nov 17, 2023 8:05 pm
+kev0 wrote: ↑
+Thu Nov 16, 2023 11:45 pm
+Okay, thanks for confirming this isn't a bug. I'll try troubleshooting the modules today (there appears to be a lot). Thanks for the advice!
+It can be worth having an OpenCart support agency on hand if there are on-going things that need to be fixed/added.
+We generally are able to manage on our own, it's just that I'm taking over for this client and I'm learning OpenCart. I don't think my boss wants to spend money on support.
+
+That being said, my senior found the issue, turns out CloudFlare's RocketLoader addon was causing the issue. Apparently it rearranges how the JS is loaded and so it doesn't load customer profiles properly, turning off the addon for this client fixed the issue.
+
+Thanks so much for your time and for responding to my query!
+Top
+Re: Edit Customer Details -- Lose Region every time?
+paulfeakins
+Guru Member
+Online
+Posts
+9764
+Joined
+Mon Aug 22, 2011 11:01 pm
+Location
+London Gatwick, United Kingdom
+ CONTACT 
+QUOTE
+
+Post
+ by paulfeakins » Tue Nov 21, 2023 11:53 pm
+
+kev0 wrote: ↑
+Mon Nov 20, 2023 10:42 pm
+That being said, my senior found the issue, turns out CloudFlare's RocketLoader addon was causing the issue. Apparently it rearranges how the JS is loaded and so it doesn't load customer profiles properly, turning off the addon for this client fixed the issue.
+
+Thanks so much for your time and for responding to my query!
+And thanks for updating this post with the cause - that will help the community!
+
+If you could now add [SOLVED] to the start of the post title that would be great.
+
+UK OpenCart Hosting | OpenCart Audits | OpenCart Support - please email info@antropy.co.uk
+
+Top
+ POST REPLY
+ 
+Display
+All posts
+1 day
+7 days
+2 weeks
+1 month
+3 months
+6 months
+1 year
+Sort by
+Author
+Post time
+Subject
+Direction
+Ascending
+Descending
+ 
+6 POSTS
+PAGE 1 OF 1
+Jump to
+Forum Rules
+General
+» News & Announcements
+» Hot Patches
+» General Discussion
+» FAQ & Tutorials
+» Troubleshooting
+» Install & Upgrades
+» Install/Upgrade FAQ
+» General
+» Configuration
+» Payment
+» Themes
+» Language & Currency
+» Shipping
+» Order Total
+» Security & Server
+Opencart 4.0 Support
+» General Support
+» Bug Reports
+» Installation, Upgrade, & Config Support
+» Extensions Support
+» Feedback
+OpenCart 3.0 Support
+» General Support
+» Bug Reports
+» Installation, Upgrade, & Config Support
+» Extensions Support
+» Feedback
+OpenCart Cloud Support
+» General Support
+» Bug Reports
+» Installation, Upgrade, & Config Support
+» Feedback
+OpenCart 2.0 Support
+» General Support
+» Bug Reports
+» Installation, Upgrade, & Config Support
+» Template Support
+» Extensions Support
+» Modules
+» Payments
+» Shipping
+» Order Totals
+» Feeds
+» Languages
+OpenCart 1.5+ Support
+» General Support
+» Bug Reports
+» Installation, Upgrade, & Config Support
+» Template Support
+» Extension Support
+» Modules
+» Payments
+» Shipping
+» Order Totals
+» Feeds
+» Languages
+Development
+» Release candidates
+» Feature Requests
+» Concepts
+» Integration
+» Free Contributions
+» Modifications
+» Extensions
+» Themes
+» Languages
+» vQmods
+» Commercial Contributions
+» Extensions
+» Themes
+» vQmods
+České forum
+Deutsches Forum
+» Recht & Steuern
+» OpenCart 4.x
+» OpenCart 3.x
+» OpenCart 2.x
+» OpenCart 1.x
+» Sonstiges
+Foro Español
+Forum français
+Fórum Português
+Ελληνικό φόρουμ
+Türkçe Forum
+Italian Forum
+Svenskt forum
+Nederlands Forum
+» Installatie & Configuratie
+» Extensies & Modificaties
+» Uiterlijk
+Norsk Forum
+Magyar fórum
+Polskie forum
+Български Форум
+Forumul Român
+lietuvių Forumas
+Український форум
+Русский форум
+Suomi Foorumi
+Srpski forum
+Malaysia Forum
+日本語形式のフォーラム
+한국어 포럼
+Diễn Đàn Tiếng Việt
+Philippines Forum
+香港論壇
+» 香港商品
+» 國際商品
+中文論壇
+भारत फोरम
+القسم العربى
+انجمن فارسی
+ภาษาไทย
+Forum Berbahasa Indonesia
+OpenCart v0.x
+» Installation & Upgrade Support
+» General Support
+» Bug Reports
+» Template Support
+» Extension Support
+» Contributions
+» Development
+» FAQs
+Other
+» Commercial Support
+» Live Shops
+» Website Suggestions
+» Fraud Report
+» Off-Topic
+ RETURN TO “GENERAL SUPPORT”
+ Who is online
+
+Users browsing this forum: Bing [Bot], HAO and 11 guests
+
+ OpenCart Community Forum All times are UTC+08:00 Delete cookies
+Powered by phpBB® Forum Software © phpBB Limited
+OPENCART
+Features
+Showcase
+Demo
+Download
+Marketplace
+Login
+COMPANY
+Contact Us
+About Us
+Extension Developer
+SUPPORT
+Community Forum
+Dedicated Support
+OpenCart Partners
+Marketplace Support
+Migrate to OpenCart
+RESOURCES
+OpenCart Blog
+OpenCart Documentation
+OpenCart Books
+Github Bug Tracker
+Developer
+NEWSLETTER
+
+Subscribe to our newsletters and stay informed of new releases and other OpenCart events.
+
+ © Copyright 2018 OpenCart
+Facebook Google Plus Twitter
+ 
+ 
+ ----- 
+ Source link : https://forum.opencart.com/viewtopic.php?t=232469 
+ ----- 

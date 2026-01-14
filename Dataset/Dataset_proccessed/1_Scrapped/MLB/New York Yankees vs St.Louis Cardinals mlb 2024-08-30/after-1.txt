@@ -1,0 +1,291 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Cardinals
+67-68, 31-36 Away
+3
+Final
+Yankees
+79-56, 37-29 Home
+6
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+STL
+
+
+NYY
+1	2	3	4	5	6	7	8	9	R	H	E
+0	0	2	0	0	0	0	1	0	3	10	0
+0	1	3	0	0	0	0	2	-	6	6	1
+WIN
+M. Stroman
+10-6
+7.0 IP, 9 H, 2 ER, 5 K, 0 BB
+LOSS
+E. Fedde
+8-8
+5.1 IP, 4 H, 4 ER, 8 K, 1 BB
+SAVE
+C. Holmes
+29
+1.0 IP, 0 H, 0 ER, 0 K, 0 BB
+STL
+Overview
+NYY
+Cardinals Hitting
+HITTERS
+
+M. Winn
+SS
+
+
+A. Burleson
+DH
+
+
+N. Arenado
+3B
+
+
+B. Donovan
+2B
+
+
+P. Goldschmidt
+1B
+
+
+L. Nootbaar
+LF
+
+
+J. Walker
+RF
+
+
+P. Pages
+C
+
+
+V. Scott II
+CF
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	0	0	0	0	0	.285
+4	1	2	0	0	0	.280
+4	2	2	1	1	0	.272
+4	0	1	1	0	0	.263
+4	0	3	1	0	0	.240
+4	0	1	0	0	0	.233
+4	0	1	0	0	0	.151
+3	0	0	0	0	0	.241
+3	0	0	0	0	0	.171
+34	3	10	3	1	0	
+BATTING
+2BGoldschmidt (22, Stroman)
+HRArenado (15, 8th inning off Cousins 0 on, 2 Out)
+RBIGoldschmidt (55), Arenado (62), Donovan (58)
+2Out RBIGoldschmidt, Arenado, Donovan
+GIDPPagés; Nootbaar (2)
+Team LOB4
+Team RISP3-6 (Goldschmidt 1-1, Donovan 1-1, Pagés 0-1, Nootbaar 1-2, Walker 0-1)
+Yankees Hitting
+HITTERS
+
+G. Torres
+2B
+
+
+J. Soto
+RF
+
+
+A. Judge
+CF
+
+
+A. Wells
+C
+
+
+G. Stanton
+DH
+
+
+J. Chisholm Jr.
+3B
+
+
+A. Volpe
+SS
+
+
+B. Rice
+1B
+
+
+A. Verdugo
+LF
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+3	2	1	0	0	1	.241
+4	1	2	1	0	0	.293
+4	0	0	0	0	0	.331
+4	2	2	4	2	0	.256
+4	1	1	0	0	0	.238
+3	0	0	0	0	0	.293
+1	0	0	1	0	1	.252
+3	0	0	0	0	0	.174
+3	0	0	0	0	0	.232
+29	6	6	6	2	2	
+BATTING
+2BStanton (14, Fedde); Soto (26, Fedde)
+HRWells 2 (12, 3rd inning off Fedde 1 on, 2 Out, 8th inning off O'Brien 1 on, 2 Out)
+RBISoto (96), Volpe (49), Wells 4 (42)
+2Out RBIWells 4
+SFVolpe
+Team LOB2
+Team RISP1-5 (Judge 0-1, Verdugo 0-1, Chisholm Jr. 0-1, Wells 1-1, Rice 0-1)
+FIELDING
+DP3 (Volpe-Torres-Rice , Stroman-Volpe-Rice , Volpe-Rice)
+EVolpe (14, fielding)
+AssistsSoto (Burleson at 2nd base)
+Cardinals Pitching
+PITCHERS
+
+E. Fedde
+(L, 8-8)
+
+
+J. King
+
+
+R. O'Brien
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+5.1	4	4	8	96-58	3.43
+1.2	0	0	2	32-22	3.00
+1.0	2	2	3	23-15	12.00
+8.0	6	6	13	151-95	
+PITCHING
+WPKing
+First-pitch strikes/Batters FacedFedde 12/21; O'Brien 1/5; King 6/6
+Called strikes-Swinging strikes-Foul balls-In play strikesFedde-16-13-17-11; O'Brien-4-6-3-2; King-5-4-10-3
+Ground Balls-Fly BallsFedde 3-5; King 2-1
+Game ScoresE Fedde 51
+Yankees Pitching
+PITCHERS
+
+M. Stroman
+(W, 10-6)
+
+
+J. Cousins
+(H, 5)
+
+
+T. Kahnle
+(H, 13)
+
+
+C. Holmes
+(S, 29)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+7.0	9	2	5	98-70	3.81
+0.2	1	1	1	15-9	1.97
+0.1	0	0	0	3-2	1.56
+1.0	0	0	0	8-7	2.67
+9.0	10	3	6	124-88	
+PITCHING
+First-pitch strikes/Batters FacedKahnle 1/1; Stroman 18/27; Holmes 2/3; Cousins 3/3
+Called strikes-Swinging strikes-Foul balls-In play strikesKahnle-1-0-0-1; Stroman-19-11-18-22; Holmes-1-1-2-3; Cousins-3-1-3-2
+Ground Balls-Fly BallsKahnle 1-0; Stroman 7-6; Holmes 2-1; Cousins 0-1
+Game ScoresM Stroman 56
+Scoring Summary
+INNING
+	STL	NYY
+		2nd	Volpe hit sacrifice fly to right, Stanton scored.	0	1
+		3rd	Donovan singled to right, Burleson scored, Arenado to second.	1	1
+		3rd	Goldschmidt singled to center, Arenado scored, Donovan to second.	2	1
+		3rd	Soto doubled to center, Torres scored.	2	2
+		3rd	Wells homered to right center (399 feet), Soto scored.	2	4
+		8th	Arenado homered to left center (378 feet).	3	4
+		8th	Wells homered to right center (413 feet), Torres scored.	3	6
+Full Play-By-Play
+Game Information
+Yankee Stadium
+11:05 PM, August 30, 2024
+Bronx, New York
+Line: NYY -185
+Over/Under: 8.5
+Attendance: 47,103
+Game Time:
+2:25
+Umpires:
+Home Plate Umpire - CB Bucknor
+First Base Umpire - Ben May
+Second Base Umpire - Adam Beck
+Third Base Umpire - Dan Iassogna
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570498 
+ ----- 

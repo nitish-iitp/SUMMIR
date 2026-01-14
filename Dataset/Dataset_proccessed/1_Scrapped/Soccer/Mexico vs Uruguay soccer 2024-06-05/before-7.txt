@@ -1,0 +1,314 @@
+Get a demo
+Alation at Snowflake's AI Data Cloud Summit 2024
+
+June 3, 2024
+
+-
+
+June 6, 2024
+
+Moscone Center
+
+Booth #1330
+
+Connect with Alation at Snowflake Summit
+
+We're excited to see you at Snowflake AI Data Cloud Summit this year! Swing by booth #1330 to explore how Alation powers AI-readiness, governance, analytics, cloud migration, and workload optimization for your Snowflake platform. Attend our insightful sessions including our Hands-on-Labs, and most importantly, be sure to give yourself time in between all the learning and networking to power up at Alation's very own smoothie bar on the 2nd floor terrace.
+
+Meet us there
+CUSTOMER SESSION WITH USAA
+Learn how USAA created a data culture with Alation to empower data users within the organization to get the trusted insights they need from their Snowflake Data Cloud by guiding them to the governed use of that data. Discover how USAA is poised to tap into the power of AI with models built on trusted data from their governed data foundation.
+CUSTOMER SESSION WITH FISERV
+Identifying the most/least popular data assets and workloads is a key first step for building a migration and cost optimization strategy for the Snowflake Data Cloud. Learn how Fiserv put the Alation Data Intelligence Platform at the center of its data modernization strategy, cataloging and delivering data to end users across multiple business units.
+BREAKOUT SESSION WITH NTT DOCOMO
+In this presentation, you'll see how the NTT docomo data team extracts insights from the d-POINT loyalty program’s 99 million members to strengthen customer ties and boost sales. They will also walk through our major project, called “SnowCamp in docomo,” that uses Streamlit to enhance data accessibility and democratize data analysis for all users within the company.
+CUSTOMER SESSION WITH THOMSON REUTERS
+In this session, Uma Elaguppillai, Director of Data Platform at Thomson Reuters, will discuss how to build a scalable enterprise data platform. You’ll see how Thomson Reuters integrated Immuta, Alation and SailPoint with Snowflake to streamline and automate data access - accelerating time to data without sacrificing security or resources.
+FIRESIDE CHAT WITH ALKERMES
+This fireside chat explores how Alkermes, a pharmaceutical company addressing unmet mental health needs in vulnerable populations, is using the Alation Data Intelligence Platform to support a federated, people-first approach to governance. You will learn how this approach enables Alkermes to empower data consumers to get the data they need, find the answers they seek, and innovate using data in the Snowflake Data Cloud.
+TRUSTED AI NEEDS TRUSTED DATA
+The companies that will win are those that unlock Snowflake Data Cloud to blend public and private data sets to build their own LLMs. In this context, trusted and governed data becomes key for high-quality, trusted AI models. Join this session to learn why data intelligence is the key enabler for delivering on the promise of GenAI with Snowflake and preview how Alation embeds AI to accelerate the delivery of data initiatives.
+HANDS-ON-LABS
+In this lab you’ll learn how Alation users access and work with data in Snowflake; how to apply governance to data within Snowflake leveraging Snowflake Horizon capabilities; and ways to help users find, understand and trust their data.
+How USAA Delivers An Exceptional Customer Experience with Well-Governed Data
+
+June 3, 2024
+
+3:00 PM PDT
+
+Learn how USAA created a data culture with Alation to empower data users within the organization to get the trusted insights they need from their Snowflake Data Cloud by guiding them to the governed use of that data. Discover how USAA is poised to tap into the power of AI with models built on trusted data from their governed data foundation.
+
+Learn more
+
+Steve Wooledge
+
+VP, Product Marketing
+
+Alation
+
+Adam Udell
+
+Chief Data Architect
+
+USAA
+
+Fiserv: Intelligent Cloud Migration and Optimization with Alation
+
+June 5, 2024
+
+12:00 PM PDT
+
+Identifying the most/least popular data assets and workloads is a key first step for building a migration and cost optimization strategy for the Snowflake Data Cloud. Learn how Fiserv put the Alation Data Intelligence Platform at the center of its data modernization strategy, cataloging and delivering data to end users across multiple business units.
+
+Learn More
+
+Jim Haas
+
+Sr. Director, Chief Data Architect
+
+Fiserv
+
+Allen Goldschmidt
+
+Director of Data Management
+
+Fiserv
+
+Democratizing Data Across Ntt Docomo With Streamlit
+
+June 5, 2024
+
+4:00 PM PDT
+
+In this presentation, you'll see how the NTT docomo data team extracts insights from the d-POINT loyalty program’s 99 million members to strengthen customer ties and boost sales. They will also walk through our major project, called “SnowCamp in docomo,” that uses Streamlit to enhance data accessibility and democratize data analysis for all users within the company.
+
+Learn More
+
+Takashi Suzuki
+
+General Manager of Data Platform Department
+
+NTT DOCOMO, Inc.
+
+Naoharu Yamada
+
+Senior Manager
+
+NTT DOCOMO, Inc.
+
+Data Governance Best Practices in Life Sciences
+
+June 5, 2024
+
+12:30 PM PDT
+
+This fireside chat explores how Alkermes, a pharmaceutical company addressing unmet mental health needs in vulnerable populations, is using the Alation Data Intelligence Platform to support a federated, people-first approach to governance. You will learn how this approach enables Alkermes to empower data consumers to get the data they need, find the answers they seek, and innovate using data in the Snowflake Data Cloud.
+
+Learn More
+
+David Sweenor
+
+Director, Product Marketing
+
+Alation
+
+Bo Yang
+
+Commercial Data Strategy & Governance
+
+Alkermes
+
+Trusted AI Needs Trusted Data
+
+June 6, 2024
+
+11:00 AM PDT
+
+The companies that will win are those that unlock Snowflake Data Cloud to blend public and private data sets to build their own LLMs. In this context, trusted and governed data becomes key for high-quality, trusted AI models. Join this session to learn why data intelligence is the key enabler for delivering on the promise of GenAI with Snowflake and preview how Alation embeds AI to accelerate the delivery of data initiatives.
+
+Learn More
+
+David Sweenor
+
+Director, Product Marketing
+
+Alation
+
+Salima Mangalji
+
+Product Marketing Manager
+
+Alation
+
+How Automating Data Access Accelerates Insights at Thomson Reuters
+
+June 6, 2024
+
+11:30 AM PDT
+
+In this session, Uma Elaguppillai, Director of Data Platform at Thomson Reuters, will discuss how to build a scalable enterprise data platform. You’ll see how Thomson Reuters integrated Immuta, Alation and SailPoint with Snowflake to streamline and automate data access - accelerating time to data without sacrificing security or resources.
+
+Learn More
+
+Scalable AI and Data Governance with Snowflake and Alation
+
+In this lab you’ll learn how Alation users access and work with data in Snowflake; how to apply governance to data within Snowflake leveraging Snowflake Horizon capabilities; and ways to help users find, understand and trust their data.
+
+Hands-on-lab #1: June 3, 2024 at 1:00 PM PDT
+
+Hands-on-lab #2: June 4, 2024 at 1:30 PM PDT
+
+Ravi Kumar
+
+Data Governance Specialist PSE
+
+Snowflake
+
+Michael Meyer
+
+Sr. Technical Product Marketing Manager
+
+Alation
+
+Nick Jewell
+
+Sr. Principal Product Marketing Manager
+
+Alation
+
+June 4th | The AI Data Stack Executive Panel & Dinner
+
+June 4, 2024
+
+6:30PM - 10PM PDT
+
+Alation and Sapphire invite you to a thought-provoking exclusive panel and dinner following the conclusion of Day 2 at Snowflake Summit. This intimate dinner aims to bring together like-minded data leaders to discuss data intelligence as a foundation for the AI Data Stack.
+
+Please reach out to Emmy.Marinova@alation.com if you're interested in joining.
+
+Anders Ranum
+
+Managing Director
+
+Sapphire Ventures
+
+Haleh Tabrizi
+
+Head of People Data/AI
+
+ServiceNow
+
+Ahmad Raza Khan
+
+Head of AI/ML Strategy
+
+Snowflake
+
+Satyen Sangani
+
+CEO & Co-Founder
+
+Alation
+
+Matthew Lynley
+
+Data Analyst and Journalist
+
+Supervised
+
+New to Alation?
+
+About Alation
+
+News & Press Releases
+
+Media Center
+
+Alation Partners
+
+Data Intelligence Project
+
+Alation Community
+
+Products
+
+Data Intelligence Platform
+
+Data Catalog
+
+Data Governance
+
+Data Lineage
+
+Alation Compose
+
+Alation Anywhere
+
+Alation Analytics
+
+Resources
+
+Resource Center
+
+Upcoming Events
+
+Blog
+
+Data Culture Maturity Model
+
+Data Radicals Podcast
+
+Developer Documentation
+
+Alation Brilliance Badges
+
+Featured Blogs
+
+What is a Data Catalog?
+
+What is Data Governance?
+
+What is Data Intelligence?
+
+What is Data Culture?
+
+What is Data Quality?
+
+Connect
+
+Careers
+
+Contact Us
+
+Take a Product Tour
+
+Get a Personalized Demo
+
+Alation Help Center
+
+Alation Pricing
+
+Expert Services
+
+Terms and Conditions
+
+Privacy Policy
+
+Event Policy
+
+CSR Policy
+
+Cookie Policy
+
+Security
+
+Trust Center
+
+Your Privacy Choices
+
+© 2024 Alation, Inc.
+ 
+ 
+ ----- 
+ Source link : https://www.alation.com/events/snowflake-summit/ 
+ ----- 

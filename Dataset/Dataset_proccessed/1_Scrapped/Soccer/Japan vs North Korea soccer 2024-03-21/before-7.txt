@@ -1,0 +1,529 @@
+liquipedia
+
+Rainbow Six
+ Trending
+ Tournaments
+ Contribute
+ 
+ 
+Close top ad
+North America League 2024 - Stage 1
+vde
+ BLAST R6 2024 Stage 1
+
+Major	
+ BLAST R6 Major Manchester 2024
+
+League	
+ Europe North America Brazil Japan South Korea  LATAM Asia Oceania  MENA
+
+Last Chance Qualifiers	
+ Europe North America Brazil Japan South Korea
+Overview
+Closed League
+LCQ
+Qualifiers Playoffs
+Open Qualifiers
+Stage 1
+Stage 2
+[e][h]
+North America League 2024 - Stage 1
+League Information
+Series:
+ North America League
+Organizers:
+Ubisoft
+Blast
+Type:
+Online
+Location:
+ North America
+
+Prize Pool:
+$200,000 USD
+Start Date:
+2024-03-14
+End Date:
+2024-04-14
+Teams:
+10
+Game:
+Tom Clancy's Rainbow Six Siege
+Platform:
+PC
+Liquipedia Tier:
+A-Tier
+Links
+   
+Maps
+Bank • Border • Chalet • Clubhouse • Consulate • Kafe Dostoyevsky • Nighthaven Labs • Oregon • Skyscraper
+Chronology
+ 2023 - Stage 2
+Stage 2 
+
+
+
+
+Contents
+1	About
+1.1	Broadcast Talent
+1.2	Format
+1.3	Prize Pool
+2	Roster Moves
+3	Participants
+4	Results
+4.1	Group Stage
+4.1.1	Group Stage
+4.1.2	Group Stage CrossTable
+4.2	Playoffs
+4.3	LCQ Seeding Phase
+5	Statistics
+5.1	Operator Statistics
+5.2	Maps Picked
+5.3	Side Statistics
+5.4	Maps Banned
+5.5	Maps Picked
+5.6	Maps Banned
+6	Additional Content
+6.1	Country Representation
+7	References
+About[edit]
+
+On March 19th, it was announced that Mirage's competition license has been revoked, and that the North America League has been reduced to nine teams.[1] Beastcoast's week 1 forfeit win against Mirage has been nullified.[2]
+
+Broadcast Talent[edit]
+English Broadcast
+Other Languages Broadcast
+Other Credits
+Show All
+Host:
+ CaliberJacob (Jacob Anderson)
+Ingame Director:
+ ThatBattery (Andrew Aub)
+Observers:
+ Easy (Stephan Kemink)
+ iMajorNova (Priyank Patel)
+ 
+Commentators:
+ Flynn (Rob Flynn)
+ Interro (Parker Mackay)
+ Jzwills (Jonah Zwillinger)
+ Lynnx (Carter Hanefeld)
+ Pengu (Niclas Mouritzen)
+ Stoax (Samuel Stewart)
+ 
+Analysts:
+ FoxA (Davide Bucci)
+ Jesse Chick
+ Jzwills (Jonah Zwillinger)
+ LaXInG (Gabriel Mirelez)
+Format[edit]
+Group Stage:
+Round-Robin format
+All games are Bo1
+Top 6 teams advance to Playoffs
+Bottom 2 teams join the Open Qualifiers Playoffs
+Playoffs:
+Modified GSL format
+All games are Bo3
+Placement
+Top 3 teams qualify to the Major
+4th to 8th teams goes to the Last Chance Qualifier
+Prize Pool[edit]
+$200,000 USD are spread among the participants as seen below:
+
+Place
+$ 
+USD
+Qualifies To
+ 
+SI
+Participant
+ 1st
+$62,000
+ BLAST R6 Major Manchester 2024
+100
+beastcoast
+ 2nd
+$30,000
+ BLAST R6 Major Manchester 2024
+95
+M80
+ 3rd
+$25,000
+ BLAST R6 Major Manchester 2024
+90
+DarkZero
+ 4th
+$25,000
+ Last Chance Qualifiers
+85
+Oxygen Esports
+place 5 to 10 
+ 
+MVP Wins
+Player	#MVPs
+ Spoit 
+	4
+ Ashn 
+	3
+ CTZN 
+	3
+ dfuzr 
+	3
+ Nafe 
+	3
+place 6 to 29 
+Roster Moves[edit]
+
+
+
+
+[show]
+Roster Moves since the end of Six Invitational 2024.
+Participants[edit]
+Show Players
+ beastcoast
+1	 dfuzr
+2	 Gaveni
+3	 Gunnar
+4	 Hotancold
+5	 SpiriTz
+Staff
+
+Invited
+ 
+ DarkZero Esports
+1	 njr
+2	 Panbazou
+3	 Canadian
+4	 Beaulo
+5	 Nafe
+Staff
+
+Invited
+ 
+ M80
+1	 Spoit
+2	 CTZN
+3	 cameram4n
+4	 Kyno
+5	 nudl
+Staff
+
+Invited
+ 
+ Oxygen Esports
+1	 Nuers
+2	 Dream
+3	 Yoggah
+4	 DiasLucasBr
+5	 GMZ
+Staff
+
+Invited
+ 
+ Wildcard Gaming
+1	 Bosco
+2	 Kanzen
+3	 Rampy
+4	 Spiker
+5	 VertcL
+Staff
+
+Invited
+ 
+ Soniqs
+1	 Rexen
+2	 Geometrics
+3	 Ambi
+4	 Atom
+5	 Merc
+Staff
+
+Invited
+ 
+ Spacestation Gaming
+1	 Fultz
+2	 Forrest
+3	 J9O
+4	 Ashn
+5	 iconic
+Staff
+
+Invited
+ 
+ Luminosity Gaming
+1	 Eddy
+2	 Silent
+3	 Kixhro
+4	 Wifi
+5	 Hat
+Staff
+
+Invited
+ 
+ LOS
+1	 Bersa
+2	 fxrias
+3	 Legacy
+4	 rhZ
+5	 xS3xyCake
+Staff
+
+Invited
+[show]
+Former Participants
+Results[edit]
+Group Stage[edit]
+[edit]
+Group Stage
+Playday 9
+
+#	Team	Record	RND	RD	Pts
+1.	 beastcoast
+▲2
+	5-0-1-2	49-32	+17	16p
+2.	 Oxygen Esports
+▼1
+	5-0-1-2	46-40	+6	16p
+3.	 M80
+▼1
+	4-2-0-2	50-45	+5	16p
+4.	 DarkZero
+▲3
+	3-1-1-3	42-39	+3	12p
+5.	 Luminosity Gaming
+▼1
+	4-0-0-4	43-43	0	12p
+6.	 Spacestation Gaming	3-1-0-4	45-45	0	11p
+7.	 Wildcard Gaming
+▼2
+	3-1-0-4	40-44	-4	11p
+8.	 Soniqs	3-0-1-4	42-48	-6	10p
+9.	 LOS	1-0-1-6	34-55	-21	4p
+DQ.	 Mirage	0-0-0-9	0-63	-63	0p
+Group Stage Matches
+[show]
+ 
+[edit]
+Show Duplicates
+	6-8
+Mar 21
+	5-7
+Mar 29	7-5
+Mar 22
+	7-1
+Apr 04	7-3
+Mar 29	7-5
+Apr 04
+	7-8
+Apr 05	7-3
+Mar 30	3-7
+Apr 05	7-3
+Mar 22
+	4-7
+Mar 28	2-7
+Mar 15	6-8
+Mar 22	1-7
+Mar 29	7-1
+Apr 03
+	4-7
+Mar 15	7-4
+Apr 04	7-1
+Mar 30	8-7
+Mar 23	3-7
+Mar 21	1-7
+Apr 05
+	7-5
+Mar 22	5-7
+Apr 06	3-7
+Mar 16	7-4
+Mar 21	5-7
+Mar 28	2-7
+Mar 29	7-3
+Apr 03
+	5-7
+Apr 03	5-7
+Mar 23	7-5
+Mar 28	0-7
+Apr 05	4-7
+Mar 15	6-8
+Mar 22	4-7
+Mar 29	3-7
+Apr 04
+								
+Playoffs[edit]
+Upper Bracket Quarterfinals
+Upper Bracket Semifinals
+Upper Bracket Final
+Qualified
+M80
+2
+Spacestation
+0
+Oxygen Esports
+1
+M80
+2
+DarkZero
+2
+Luminosity
+0
+beastcoast
+2
+DarkZero
+1
+M80
+0
+beastcoast
+2
+beastcoast
+M80
+Major Qualification Match
+Qualified
+Oxygen Esports
+0
+DarkZero
+2
+DarkZero
+LCQ Seeding Phase[edit]
+5th Place Seeding Match
+Spacestation
+1
+Luminosity
+2
+Statistics[edit]
+Operator Statistics
+#B	%B	Banned Attackers
+36×	63.2%	
+26×	45.6%	
+20×	35.1%	
+4×	7.0%	
+3×	5.3%	 
+2×	3.5%	   
+1×	1.8%	     
+ 
+#B	%B	Banned Defenders
+32×	56.1%	
+28×	49.1%	
+13×	22.8%	
+10×	17.5%	
+8×	14.0%	
+6×	10.5%	
+4×	7.0%	
+1×	1.8%	    
+Maps Picked
+Map	Total
+Bank	7×
+Border	5×
+Chalet	7×
+Clubhouse	12×
+Consulate	7×
+Kafe Dostoyevsky	3×
+Nighthaven Labs	5×
+Oregon	7×
+Skyscraper	4×
+Grand Total	57×
+ 
+Side Statistics
+Map	#R	Atk Wins	Def Wins
+Bank	83	45 (54.2%)	38 (45.8%)
+Border	50	27 (54.0%)	23 (46.0%)
+Chalet	56	25 (44.6%)	31 (55.4%)
+Clubhouse	128	59 (46.1%)	69 (53.9%)
+Consulate	64	24 (37.5%)	40 (62.5%)
+Kafe Dostoyevsky	38	17 (44.7%)	21 (55.3%)
+Nighthaven Labs	56	19 (33.9%)	37 (66.1%)
+Oregon	72	29 (40.3%)	43 (59.7%)
+Skyscraper	33	10 (30.3%)	23 (69.7%)
+Total	580	255 (44.0%)	325 (56.0%)
+ 
+Maps Banned
+Map	Total
+Bank	36×
+Border	37×
+Chalet	36×
+Clubhouse	31×
+Consulate	37×
+Kafe Dostoyevsky	40×
+Nighthaven Labs	38×
+Oregon	36×
+Skyscraper	39×
+Grand Total	330×
+Maps Picked
+ 
+Maps Banned
+
+
+
+
+
+
+
+Additional Content[edit]
+Country Representation[edit]
+Players only
+With Staff
+Show All
+#	Country / Region	Representation	Players
+1	 United States	34 / 52 (65%)	dfuzr, Gaveni, Gunnar, Hotancold, njr, Panbazou, Beaulo, Silent, Kixhro, Wifi, Hat, Poison, Spiff, Nick, Azian, Indy, doq, Nuers, Dream, Yoggah, Rexen, Ambi, Atom, Merc, Fultz, Forrest, J9O, Ashn, iconic, Bosco, Kanzen, Rampy, Spiker, VertcL
+2	 Brazil	9 / 52 (17%)	Bersa, fxrias, Legacy, rhZ, xS3xyCake, cameram4n, Kyno, DiasLucasBr, GMZ
+3	 Canada	2 / 52 (4%)	SpiriTz, Canadian
+4	 United Kingdom	2 / 52 (4%)	Nafe, CTZN
+5	 Cuba	1 / 52 (2%)	Eddy
+6	 Mexico	1 / 52 (2%)	Geometrics
+7	 Poland	1 / 52 (2%)	nudl
+8	 Sweden	1 / 52 (2%)	Spoit
+9	 Vietnam	1 / 52 (2%)	Ryce
+
+
+
+
+References[edit]
+↑ 
+Jump up to:
+1.00 1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 Ubisoft (2024-03-19). "An Update on the BLAST R6 North America League".
+↑ TatlFail (2024-03-19). "Match results are nullified, past and future".
+↑ 
+Jump up to:
+3.0 3.1 3.2 3.3 3.4 Ubisoft (2024-03-14). "March 14th matches rescheduled due to server issues.".
+vde
+North America League Events
+
+Upcoming Events	
+Stage 1 - Qual Playoffs
+
+Ongoing Events	
+Stage 1
+
+Recent Events	
+Stage 1 - Phase 2Stage 1 - Phase 1 Q2Stage 1 - Phase 1 Q1
+
+
+[show]
+Click on the "Show" link on the right to see the full list
+Categories: North American TournamentsA-Tier TournamentsTom Clancy's Rainbow Six Siege CompetitionsPC TournamentsOnline TournamentsPages with Bracket/4L2DS-2QL-U-2-1QPages with extension bracketsPages with Bracket/2
+Send an email
+Chat with us
+Contact
+ABOUT
+Privacy policy
+About Liquipedia Rainbow Six Wiki
+Disclaimers
+API
+AFFILIATED SITES
+TL.net
+This page was last edited on 3 May 2024, at 09:48.
+Text/code is available under CC-BY-SA. Licenses for other media varies.
+×
+Install the Liquipedia mobile app!
+Follow your favorite teams, tournaments and players
+Personalize your own feed
+Receive match notifications
+Localization in 12+ languages
+ 
+ 
+ ----- 
+ Source link : https://liquipedia.net/rainbowsix/North_America_League/2024/Stage_1 
+ ----- 

@@ -1,0 +1,954 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+DD M4A1 RIII vs LWRC DI vs Geissele Super Duty
+ 
+Thread starter
+yeshuascoming  
+Start date
+Mar 16, 2024
+Y
+yeshuascoming
+Private
+Minuteman
+Feb 18, 2023
+25
+16
+Maine
+Mar 16, 2024
+#1
+Hey guys. I’m buying a new rifle with the idea that it will not let me down. Budget is 2K (optic not included). I have a BCM, Aero, some PSA’s. I’ve got ammo. Got a range and range time. I’ve narrowed it down to these but will consider others. Thanks!
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 16, 2024
+#2
+Any of the 3 is a good pick.
+
+LWRC
+I like the fit/feel/finish and features of the LWRC the most, especially their upper receiver design and the fact that they have ambi controls. I should have jumped on one when they were on sale at Sportsman’s for $1600, but I have more 5.56 ARs than I need already and would have just Grendelized it. They have a nice ambi charge handle already. I just saw them for $1800 last night at Sportsman’s. I just saw a sale on the Tungsten Cerakote model for $1120.
+
+
+
+Geissele, if you’re already used to dealing with AR-15 upper assembly and have the tools, I would skip the complete rifle and get:
+
+* one of their blem upper receiver/handguard sets for $353
+* Order a stripped lower for $160 matching the anodized color of the upper/HG. Sportsman’s has them for $150.
+* Barrels from G are $299 from Brownell’s now.
+* Geissele super gas blocks are $70 at Brownell’s.
+* Gas tubes are $11-$15
+* Geissele labeled bolt carriers with Nanoweapon finish are $145
+* Bolts are $89 - $250 depending on whether you go TDP M4 bolt or G’s stress-proof bolt.
+* For Geissele triggers, there are all kinds of deals you can wait for and get a steal
+* SOPMOD stock for $95
+* If you want the G RET (Buffer tube) they are $70 at Brownell’s right now
+* Extra power action springs from SpringCo or Wolff are under $20.
+* Get a standard carbine buffer
+
+Pick the charge handle and LPK of your choice. I’m at $1660 before charge handle and LPK. If you get the Geissele LPK and CH, you’ll be well over $2000 with shipping.
+
+The Super Duty G rifles are $2300.
+
+
+
+DD
+Forged receiver set, standard charge handle, nice slim MLOK HG, stock trigger, nice coatings, polymer ejection port door. I don’t see the value in the subcomponents adding up though.
+
+
+
+
+To me, the LWRC brings the most value to the table and leaves you room to upgrade the trigger if you really feel you need lighter than a 4-5lb single stage. Each of the 3 options have proven themselves in the durability/longevity metrics over the years in high-volume courses.
+
+That Tungsten LWRC is the easy winner in this, and I think the normal price ones are as well, even though I like some of the features of the Geissele subcomponents. The DD is the easy loser in this comparison, not that it’s a bad option, just doesn’t have the features or correct valuation.
+ 
+Last edited: Mar 16, 2024
+ 
+Reactions:
+yeshuascoming, simonp and ut755ln
+Bigjake83
+Golden Shellback
+Full Member
+Minuteman
+Supporter
+May 19, 2013
+5,000
+4,012
+Southern Idaho
+Mar 16, 2024
+#3
+I'm running the LWRC DI in 16" and have been very pleased with its accuracy and overall performance. It shoots AAC 77gr and 55gr Black tip saber at .75 MOA or under.
+
+The only mods I've made are a TriggerTech Duty 3.5 two stage trigger and a Precision Armament Efab Muzzle device and a magpul CTR, all of which has made it a pleasure to shoot.
+
+
+ 
+ 
+Reactions:
+dogman, tucaz, camocorvette and 3 others
+ut755ln
+Rub some dirt on it
+Supporter
+Full Member
+Minuteman
+Mar 24, 2011
+743
+638
+Houston Texas
+Mar 16, 2024
+#4
+yeshuascoming said:
+Hey guys. I’m buying a new rifle with the idea that it will not let me down. Budget is 2K (optic not included). I have a BCM, Aero, some PSA’s. I’ve got ammo. Got a range and range time. I’ve narrowed it down to these but will consider others. Thanks!
+I have owned all three manufacturers so I will give you my opinion.
+
+1) Daniel Defense - I have had a MK18 since around 2011. Over the course of 18ish thousand rounds the only changes that I have made is that I replaced the muzzle device a couple times. I changed to a heavier buffer when I started shooting with a can to slow down the rifle. I broke the firing pin somewhere along the way. It is a well made highly reliable rifle.
+
+2) I have the 14.5" Geissele URGI clone. I do not have as many rounds through it as the DD but I have had zero issues with it. If I do my part, it shoots pretty close to 1 MOA with good ammo. I have shot multiple kinds of ammo though it and they all fed, it prefers heavier bullets. I have used various parts from Geissele including their braided spring buffer kits, the maritime latch, several triggers, several rails. No failures, everything worked really well.
+
+3) LMT - for the money you are talking about I like the LMT MARS L the best. I bought the 16" version with the 9ish inch rail as a starting point. I changed the grip because it was A2 and like it more vertical, I think it is BCM MK1. I changed the trigger to the Geissele SSA-E, it is just my personal favorite. I bought another un-barreled upper with the 13" mlok rail. I have two 5.56 barrels, one 300 blackout barrel and just ordered a converted proof barrel done by D. Wilson. I have two of their enhanced BCG, I ordered and have ordered bolt parts from JP Enterprises. With one small frame full ambi lower, I have three calibers and two operating systems (DI and Piston) and can use it at ranges from point blank to over 1,000 yards. The monolithic frame along with the easy and highly reliable barrel swap make switching things a breeze. It is the most versatile of the three rifles.
+
+All three of them are good manufacturers and all will work well. It depends what you want to do.
+
+Apparently I am also ADHD, you said LWRC and I processed LMT. I have no experience with LWRC.
+ 
+ 
+Reactions:
+Pappasniper and simonp
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 16, 2024
+#5
+I love the way the upper receiver and handguard transition on the LWRCs. Beautiful aesthetics that also have functional advantages, namely optics mounting without concerns over bridging.
+
+I would probably own several LWRCs if they were Grendel. Their PDW in Grendel would be sick.
+ 
+Milf Dots
+Poontificator
+Supporter
+Full Member
+Minuteman
+Supporter
+Oct 21, 2019
+4,198
+8,153
+Mar 16, 2024
+#6
+ADM/American Defense Manufacturing- looks to be the best Ambi lower on the market other than the much more expensive Radian
+LWRCi - full ambi
+Geissele - another great brand
+
+You already own a BCM, so the DD doesn't bring anything different.
+ 
+Y
+yeshuascoming
+Private
+Minuteman
+Feb 18, 2023
+25
+16
+Maine
+Mar 16, 2024
+#7
+Man, you guys are great…..not just stating which but including a thorough explanation of why. I really appreciate it! I’ve decided to go with the LWRC. I found one in FDE for $1675. Gonna put a eotech on it (I believe). I’ve never had one but for the purpose of a patrol/defensive rifle (mostly close range out to 300) I think it would be ideal. Maybe I’ll just make a post about that. Thanks again!
+ 
+ 
+Reactions:
+FuhQ, LRRPF52 and Milf Dots
+j-dubya
+A-Driver for Doobby’s Taxiola
+Full Member
+Minuteman
+May 10, 2011
+616
+223
+Atlanta area
+Mar 17, 2024
+#8
+bigjake83 said:
+I'm running the LWRC DI in 16" and have been very pleased with its accuracy and overall performance. It shoots AAC 77gr and 55gr Black tip saber at .75 MOA or under.
+
+The only mods I've made are a TriggerTech Duty 3.5 two stage trigger and a Precision Armament Efab Muzzle device and a magpul CTR, all of which has made it a pleasure to shoot.
+
+View attachment 8373866
+Click to expand...
+
+Jake, who makes that little bag rider add-on for the CTR?
+ 
+RUTGERS95
+Private
+Full Member
+Minuteman
+Nov 2, 2009
+5,454
+6,865
+NJ
+Mar 17, 2024
+#9
+yeshuascoming said:
+Hey guys. I’m buying a new rifle with the idea that it will not let me down. Budget is 2K (optic not included). I have a BCM, Aero, some PSA’s. I’ve got ammo. Got a range and range time. I’ve narrowed it down to these but will consider others. Thanks!
+first off , DD supported anti 2A activities so considering them is like rooting for Russia during the Cold War
+
+I'd forget them all and go with Centurion Arms CM4........you are welcome as this will be your most accurate and reliable option with the best CS on the planet. Criminally underrated
+
+
+Firearms - Centurion Arms CM4 Rifles - Centurion Arms
+ centurionarms.com
+ 
+Last edited: Mar 17, 2024
+ 
+Reactions:
+Genesis1984
+Bigjake83
+Golden Shellback
+Full Member
+Minuteman
+Supporter
+May 19, 2013
+5,000
+4,012
+Southern Idaho
+Mar 17, 2024
+#10
+j-dubya said:
+Jake, who makes that little bag rider add-on for the CTR?
+
+It's a cheap 3D printed bag rider, I thought I'd give them a go and see if it holds up. So far no complaints honestly better quality than expected, seems to be doing the job well enough.
+
+I haven't beat it on anything to see if it will take the punishment. I have noticed if you over torque the screws it spreads the gap where the the two pieces come together but I'm sure that normal due to it being a polymer rider.
+
+
+Bag Rider V2 for Magpul CTR - Subrevtech
+Improve shooting stability with the Bag Rider V2 for CTR by Subrevtech. Designed for precision shooting, this accessory provides enhanced support and control.
+ subrevtech.com
+ 
+ 
+Reactions:
+natehansen66
+Charmingmander
+Well-read Lurker
+Full Member
+Minuteman
+ 
+Aug 26, 2019
+1,004
+1,509
+31
+Pine Tree State
+Mar 18, 2024
+#11
+Brownells DD SOCOM uppers are probably the best deal going right now.
+ 
+ 
+Reactions:
+Pappasniper and 1911hombre
+1911hombre
+Old School
+Supporter
+Full Member
+Minuteman
+ 
+Apr 13, 2019
+1,270
+1,538
+East Central Minnesota
+Mar 18, 2024
+#12
+RUTGERS95 said:
+first off , DD supported anti 2A activities so considering them is like rooting for Russia during the Cold War
+True, but as I remember it Marty walked that back within a day or two after a social media shitstorm. I got rid of the DD I had at the time, but since forgave him and have three and a half DD's now. Solid rifles without a doubt. Bill Geissele doesn't have the best 2A record, either, IIRC.
+ 
+ 
+Reactions:
+simonp, RUTGERS95 and Charmingmander
+P
+Pappasniper
+Sergeant
+Full Member
+Minuteman
+Nov 13, 2011
+1,083
+312
+62
+AZ
+Mar 18, 2024
+#13
+I have DD, Geissele SD and LMT. All three are great guns (ut755ln) Freudian LMT slip is solid advise. LMT would be my goto. I have no experience with LWRC so there is no opinion. If you want to look for a LMT take a peak at V1Tactical and Titan Defense because there are hard to source. Others have had some issues with G-SD barrels but my gun has been a laser, and I also have it set up for precision. I think many AR's would be considered more accurate if we shot high quality ammo and used rifle scopes but we run Aimpoints/ ACOGS and blast away with good justification. I have DD uppers and no full guns but wish I did. DD is great kit too.
+
+God luck Brother.
+
+PB
+ 
+Last edited: Mar 18, 2024
+ 
+Reactions:
+ut755ln
+P
+Pappasniper
+Sergeant
+Full Member
+Minuteman
+Nov 13, 2011
+1,083
+312
+62
+AZ
+Mar 18, 2024
+#14
+Charmingmander said:
+Brownells DD SOCOM uppers are probably the best deal going right now.
+Fuck yes, I bought a 14.5 with FSP.
+DD Upper
+
+
+G-SD 
+LMT 
+
+PB
+ 
+ 
+Reactions:
+Happiness Is A Warm Gun, simonp and Charmingmander
+RUTGERS95
+Private
+Full Member
+Minuteman
+Nov 2, 2009
+5,454
+6,865
+NJ
+Mar 18, 2024
+#15
+1911hombre said:
+True, but as I remember it Marty walked that back within a day or two after a social media shitstorm. I got rid of the DD I had at the time, but since forgave him and have three and a half DD's now. Solid rifles without a doubt. Bill Geissele doesn't have the best 2A record, either, IIRC.
+I can't, he only walked back due to shitstorm but his true intent and care for 2A was on display
+
+Besides, CA is better and imho, more accurate plus CA is owned by a true patriot with real trigger experience and worked with Crane.
+
+Bill is just a grade A asshole, one of the reasons I can't go G aside from the qc issues past few years. No doubt he's come a long way though and his rigs do perform
+ 
+ 
+Reactions:
+1911hombre
+sboone
+Safety off make boom
+Full Member
+Minuteman
+Feb 14, 2021
+199
+175
+67133
+Mar 18, 2024
+#16
+I've never touched or seen a geissele, but I went through some similar mental gymnastics last year. I have shot DD quite a bit but don't own one. I think they're a bit chunky. I ultimately settled on the LWRC IC "E" which is just the IC DI without the ambi stuff. The only thing I don't like is the proprietary mount stuff, but with a little ingenuity, you can make MLOK work with it. I also just acquired a LMT upper on a built lower and it is top notch as well, although I don't have many rounds through it and it was lightly used when I got it.
+
+Mostly I'm just glad that you got the LWRC because that was my first choice of which you've vindicated by making it your choice...and that makes me happy 
+ 
+ 
+Reactions:
+yeshuascoming and 1911hombre
+N
+natehansen66
+Private
+Minuteman
+Nov 29, 2020
+5
+0
+Minnesota
+Mar 18, 2024
+#17
+bigjake83 said:
+It's a cheap 3D printed bag rider, I thought I'd give them a go and see if it holds up. So far no complaints honestly better quality than expected, seems to be doing the job well enough.
+
+I haven't beat it on anything to see if it will take the punishment. I have noticed if you over torque the screws it spreads the gap where the the two pieces come together but I'm sure that normal due to it being a polymer rider.
+
+
+Bag Rider V2 for Magpul CTR - Subrevtech
+Improve shooting stability with the Bag Rider V2 for CTR by Subrevtech. Designed for precision shooting, this accessory provides enhanced support and control.
+ subrevtech.com
+Click to expand...
+Hey that's my company - glad you like it! Have some updates to the bag rider line that will eliminate the spreading due to over-torque that I've learned from the upcoming XL version of the bag rider. Updates will also give better surface finishes and fit. I'm not a registered vendor on the hide or anything so not sure how much I can say here without stepping on my dick and don't want to derail the thread. Ya'll have any questions feel free to shoot me a message.
+ 
+ironpony52
+Sergeant of the Hide
+Full Member
+Minuteman
+Sep 24, 2023
+224
+739
+Mid Ohio
+Mar 18, 2024
+#18
+SIG M400 DH3 Custom Works.
+The M400-DH3 Features Include:
+
+
+DH3 Adjustable Stock
+2-Stage Adjustable Timney Daniel Horner Signature Trigger
+Low Profile 3-Gun Handguard
+Ambidextrous Controls Including Bolt Catch/Release
+Fluted Competition Barrel
+Make: Sig Sauer
+Model: M400-Dh3
+Caliber: .223 Wylde
+Action: Semi-Auto
+Barrel Length: 16 in (406.4 mm)
+Capacity: 30
+Twist Rate: 1:8
+Stock: DH3 Adjustable Stock
+Weight: 7 lbs (3.18 kg)
+
+
+ 
+ 
+Reactions:
+Pappasniper, Milf Dots and simonp
+Milf Dots
+Poontificator
+Supporter
+Full Member
+Minuteman
+Supporter
+Oct 21, 2019
+4,198
+8,153
+Mar 19, 2024
+#19
+ironpony52 said:
+SIG M400 DH3 Custom Works.
+The M400-DH3 Features Include:
+
+
+DH3 Adjustable Stock
+2-Stage Adjustable Timney Daniel Horner Signature Trigger
+Low Profile 3-Gun Handguard
+Ambidextrous Controls Including Bolt Catch/Release
+Fluted Competition Barrel
+Make: Sig Sauer
+Model: M400-Dh3
+Caliber: .223 Wylde
+Action: Semi-Auto
+Barrel Length: 16 in (406.4 mm)
+Capacity: 30
+Twist Rate: 1:8
+Stock: DH3 Adjustable Stock
+Weight: 7 lbs (3.18 kg)
+
+View attachment 8376063
+Click to expand...
+Sweet!
+ 
+MK20
+Major Member
+Supporter
+Full Member
+Minuteman
+ 
+Apr 17, 2018
+4,621
+9,009
+The land of many waters
+Mar 19, 2024
+#20
+I have used both DD and LWRC professionally, and by that I don't mean sitting in a cop car.
+
+Our LWRC barrels were keyholing in 5000 rounds. That right, not a typo. The triggers were going full auto due to premature wear. The handguard screws that held the piston cover on were falling out or shearing off. The guns were complete and utter pieces of shit. I would take the cheapest PSA over them all day.
+
+The DD I had showed no, and I mean absolutely NO, issues at all after 3 years of HARD use on 2 continents, to include jungle service.
+
+Never used a Geissele.
+ 
+ 
+Reactions:
+Diesel79, simonp, Happiness Is A Warm Gun and 2 others
+GUNNER10
+Sergeant
+Full Member
+Minuteman
+Mar 10, 2005
+1,348
+1,227
+44
+Va
+Mar 19, 2024
+#21
+I think it's really hard to go wrong with any of the choices that you listed. I would boil it down to availability.
+
+Personally, I shoot mostly LMT stuff, but have been considering picking up a geisselle URG-I upper.
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,636
+SLC, Utah
+Mar 19, 2024
+#22
+MK20 said:
+I have used both DD and LWRC professionally, and by that I don't mean sitting in a cop car.
+
+Our LWRC barrels were keyholing in 5000 rounds. That right, not a typo. The triggers were going full auto due to premature wear. The handguard screws that held the piston cover on were falling out or shearing off. The guns were complete and utter pieces of shit. I would take the cheapest PSA over them all day.
+
+The DD I had showed no, and I mean absolutely NO, issues at all after 3 years of HARD use on 2 continents, to include jungle service.
+
+Never used a Geissele.
+Click to expand...
+What timeframe was that? Was it before LWRC became LWRCi?
+
+They make standard Stoner internal expansion gas guns as well. I wonder if there are any high round count reviews of the Stoner gassed guns.
+ 
+ 
+Reactions:
+Charmingmander
+MK20
+Major Member
+Supporter
+Full Member
+Minuteman
+ 
+Apr 17, 2018
+4,621
+9,009
+The land of many waters
+Mar 19, 2024
+#23
+I don't know timeframe. I just know they sucked big old donkey dick.
+ 
+sboone
+Safety off make boom
+Full Member
+Minuteman
+Feb 14, 2021
+199
+175
+67133
+Mar 19, 2024
+#24
+MK20 said:
+I don't know timeframe. I just know they sucked big old donkey dick.
+Donkey needs love too, don't be hatin.
+ 
+Attachments
+Screenshot_20240319_195549_Chrome.jpg
+238 KB · Views: 67
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,247
+10,716
+Your Wife's Pussy
+Mar 19, 2024
+#25
+yeshuascoming said:
+Hey guys. I’m buying a new rifle with the idea that it will not let me down. Budget is 2K (optic not included). I have a BCM, Aero, some PSA’s. I’ve got ammo. Got a range and range time. I’ve narrowed it down to these but will consider others. Thanks!
+LWRC hands-down.  Had my M6A1 since 2009, and it's been a phenomenal rifle. Their CHF barrels are on point. Mine is superbly accurate for a 5.56 AR, even with cheap ammo.
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,247
+10,716
+Your Wife's Pussy
+Mar 19, 2024
+#26
+LRRPF52 said:
+What timeframe was that? Was it before LWRC became LWRCi?
+
+They make standard Stoner internal expansion gas guns as well. I wonder if there are any high round count reviews of the Stoner gassed guns.
+Couldn't have been... I have an original private sector first-run 2009 LWRC M6A1, long before it became LWRCi, and it's been one of the best AR's I've owned. Thousands of rounds, no issues. His story sounds like some bootlicker DD post, but that's my personal opinion.
+ 
+ 
+Reactions:
+1911hombre and Jsp556
+cruiserweight
+Supporter
+Supporter
+Full Member
+Minuteman
+Aug 13, 2020
+192
+138
+CO
+Mar 19, 2024
+#27
+I have used the LWRC, Geissele super duty, and DD Mk18 overseas, and currently own a Super Duty and the M4A1 RISIII. So I have some opinions lol, that I’ve probably shared before in other posts.
+
+LWRC: no one liked these. We got the piston guns (M6-IC or something?) with the proprietary rail and the spiral fluted barrel. Guns came with a mil spec trigger. Had op rods break at fairly low count, and since the proprietary rail required you to screw in sections of pic rail, the screws promptly were stripped out (not LWRC’s fault). Guys considered them to be unreliable in the dirt and sand. We did not run cans on these and they were longer barreled. (16in)
+
+Geissele: everyone loved them. Light, and fully upgraded with every geissele part. Great trigger, and ran well with a can. Unfortunately we weren’t able to keep these guns for too long due to Afghanistan shutting down logistics having to get sorted out and items having to go their rightful owners etc. I went out and bought one, and for $1600 it was a deal, but at $2200 I don’t think I’d be so eager.
+
+DD: they work and are reliable. Nothing mind blowing about these guns, just solid workhorses. Touch gassy with a can, not super light either. Ours came with geissele triggers but the factory trigger that came with my m4a1 was hot garbage. My m4a1 risiii also came with a non functioning safety out of the box, safety was impossible to manipulate one handed. Replaced it with a different safety and problem solved, it was just crappy that some asshole signed his name on the inspection card included in the box when the rifle was unusable.
+
+And thus concludes my essay.
+ 
+ 
+Reactions:
+Bluedog82, hafejd30, simonp and 3 others
+MK20
+Major Member
+Supporter
+Full Member
+Minuteman
+ 
+Apr 17, 2018
+4,621
+9,009
+The land of many waters
+Mar 20, 2024
+#28
+FuhQ said:
+Couldn't have been... I have an original private sector first-run 2009 LWRC M6A1, long before it became LWRCi, and it's been one of the best AR's I've owned. Thousands of rounds, no issues. His story sounds like some bootlicker DD post, but that's my personal opinion.
+
+My story is based on my experiences running these guns overseas and stateside, with the only bias being that the gun has to work.
+
+The LWRC rifles that I ran into were unreliable and not made well. They broke quickly. They were way too heavy for something less reliable than a standard AR.
+
+They limit where you can mount optics and lasers because the piston gas vent will kill optics over time with the gas venting burning and eroding the optics.
+
+They are just shit guns.
+
+Buy DD or BCM or Geissele or whatever. Hell, buy a PSA budget blaster before a LWRC. I'm serious.
+ 
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,144
+3,365
+PNW
+Mar 20, 2024
+#29
+LWRC has been shitty since Paul was Hipfiredgun.
+ 
+wvfarrier
+Ignorant wretch
+Full Member
+Minuteman
+Dec 7, 2012
+2,894
+5,478
+West (By GOD) Virginia
+Mar 20, 2024
+#30
+No love for PWS?
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,247
+10,716
+Your Wife's Pussy
+Mar 20, 2024
+#31
+MK20 said:
+My story is based on my experiences running these guns overseas and stateside, with the only bias being that the gun has to work.
+
+The LWRC rifles that I ran into were unreliable and not made well. They broke quickly. They were way too heavy for something less reliable than a standard AR.
+
+They limit where you can mount optics and lasers because the piston gas vent will kill optics over time with the gas venting burning and eroding the optics.
+
+They are just shit guns.
+
+Buy DD or BCM or Geissele or whatever. Hell, buy a PSA budget blaster before a LWRC. I'm serious.
+Click to expand...
+Yeah, I’m still not buying it…But whatever.
+ 
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,144
+3,365
+PNW
+Mar 20, 2024
+#32
+Way way back I shot the Ironman with the, at the time, marketing director of LWRC (Paul was still the owner). They had announced their monolithic upper on Arfcom and were telling everyone it would be out in two weeks. The marketing director swore up and down it wasn't vapor wear. It never came out.
+
+That company is such shit, with or without PLW. Remember when bolt carriers were hogging our receiver extensions? Or how they told everyone DI was dead? Or their shitty subgun? But somehow their M6 isn't dogshit like the rest of the crap they make? I'd be more comfortable with POF, and I was buying HK contract parts kits from them when they were still the Pakistani Ordnance Factory importer.
+ 
+Charmingmander
+Well-read Lurker
+Full Member
+Minuteman
+ 
+Aug 26, 2019
+1,004
+1,509
+31
+Pine Tree State
+Mar 20, 2024
+#33
+Cascade Hemi said:
+Way way back I shot the Ironman with the, at the time, marketing director of LWRC (Paul was still the owner). They had announced their monolithic upper on Arfcom and were telling everyone it would be out in two weeks. The marketing director swore up and down it wasn't vapor wear. It never came out.
+
+That company is such shit, with or without PLW. Remember when bolt carriers were hogging our receiver extensions? Or how they told everyone DI was dead? Or their shitty subgun? But somehow their M6 isn't dogshit like the rest of the crap they make? I'd be more comfortable with POF, and I was buying HK contract parts kits from them when they were still the Pakistani Ordnance Factory importer.
+Click to expand...
+I thought POF and POF were two different companies? I didn't know they were related at all.
+ 
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,144
+3,365
+PNW
+Mar 20, 2024
+#34
+Charmingmander said:
+I thought POF and POF were two different companies? I didn't know they were related at all.
+POF USA was the US importer of POF contract parts in the 90's and early 00's. GWOT kinda got in the way so they designed a janky ARMS rip off AR-15 rail.
+ 
+ 
+Reactions:
+1911hombre
+Charmingmander
+Well-read Lurker
+Full Member
+Minuteman
+ 
+Aug 26, 2019
+1,004
+1,509
+31
+Pine Tree State
+Mar 20, 2024
+#35
+Cascade Hemi said:
+POF USA was the US importer of POF contract parts in the 90's and early 00's. GWOT kinda got in the way so they designed a janky ARMS rip off AR-15 rail.
+Is this also Patriot Ordnance Factory or is that where my confusion is lol
+ 
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,144
+3,365
+PNW
+Mar 20, 2024
+#36
+Charmingmander said:
+Is this also Patriot Ordnance Factory or is that where my confusion is lol
+"Patriot" was the rebranding.
+ 
+Charmingmander
+Well-read Lurker
+Full Member
+Minuteman
+ 
+Aug 26, 2019
+1,004
+1,509
+31
+Pine Tree State
+Mar 20, 2024
+#37
+Cascade Hemi said:
+"Patriot" was the rebranding.
+That makes sense.
+ 
+Milf Dots
+Poontificator
+Supporter
+Full Member
+Minuteman
+Supporter
+Oct 21, 2019
+4,198
+8,153
+Mar 20, 2024
+#38
+It's really important to remember the majority of opinions will be from people who are Di fanbois because that's what they own and/or used in the Mil- a very small percentage of semi-auto carbine owners have a Piston AR... Of the three brands the OP mentioned, only one, LWRCi, offers both Piston and Di. The new/LWRCi are GTG for both Piston and Di- the old LWRC ownership was a bit inconsistent on QA/QC.
+
+I'm a fan of both Piston and Di ARs- Hk, Sig, LMT, Barrett, LWRCi, Geissele, ADM, PWS, BCM, DD, Radian, Hodge Def, KAC.
+
+You really couldn't go wrong with any of the above brands.
+ 
+Last edited: Mar 20, 2024
+ 
+Reactions:
+GUNNER10, ut755ln and cruiserweight
+ut755ln
+Rub some dirt on it
+Supporter
+Full Member
+Minuteman
+Mar 24, 2011
+743
+638
+Houston Texas
+Mar 20, 2024
+#39
+Milf Dots said:
+It's really important to remember the majority of opinions will be from people who are Di fanbois because that's what they own and/or used in the Mil- a very small percentage of semi-auto carbine owners have a Piston gun... Of the three brands the OP mentioned only one, LWRCi, offers both Piston and Di. The new/LWRCi are GTG for both Piston and Di- the old LWRC ownership was a bit inconsistent on QA/QC.
+
+I'm a fan of both Piston and Di ARs- Hk, Sig, LMT, Barrett, LWRCi, Geissele, ADM, PWS, BCM, DD, Radian, Hodge Def, KAC.
+
+You really couldn't go wrong with any of the above brands.
+Click to expand...
+To disclose, I liked your post. For me the Sig is not quite yet in the circle of trust (LT and Spear).
+ 
+ 
+Reactions:
+Milf Dots
+GUNNER10
+Sergeant
+Full Member
+Minuteman
+Mar 10, 2005
+1,348
+1,227
+44
+Va
+Mar 21, 2024
+#40
+Milf Dots said:
+It's really important to remember the majority of opinions will be from people who are Di fanbois because that's what they own and/or used in the Mil- a very small percentage of semi-auto carbine owners have a Piston AR... Of the three brands the OP mentioned, only one, LWRCi, offers both Piston and Di. The new/LWRCi are GTG for both Piston and Di- the old LWRC ownership was a bit inconsistent on QA/QC.
+
+I'm a fan of both Piston and Di ARs- Hk, Sig, LMT, Barrett, LWRCi, Geissele, ADM, PWS, BCM, DD, Radian, Hodge Def, KAC.
+
+You really couldn't go wrong with any of the above brands.
+Click to expand...
+This,
+
+I was heavily biased against piston AR's until I made a random 2am purchase of an LMT 12 inch piston upper on night and damn, it really changed my perspective on DI vs Piston.
+
+It really doesn't matter at this point, really good guns are really good guns.
+ 
+ 
+Reactions:
+RUTGERS95, Happiness Is A Warm Gun, 1911hombre and 1 other person
+ut755ln
+Rub some dirt on it
+Supporter
+Full Member
+Minuteman
+Mar 24, 2011
+743
+638
+Houston Texas
+Mar 21, 2024
+#41
+GUNNER10 said:
+This,
+
+I was heavily biased against piston AR's until I made a random 2am purchase of an LMT 12 inch piston upper on night and damn, it really changed my perspective on DI vs Piston.
+
+It really doesn't matter at this point, really good guns are really good guns.
+Click to expand...
+I know he ordered the LWRC DI already but, I so agree with you. I love my LMT which is growing all the time. I currently have one MARS L lower, two uppers (9 and 13 inch), a DI 16 barrel in 5.56, a piston 16" in 5.56, a 16" 6 ARC (DI) and I am about to pull the trigger on a shovelnose.
+ 
+ 
+Reactions:
+Jsp556 and Milf Dots
+Jsp556
+Private
+Full Member
+Minuteman
+Feb 27, 2017
+1,121
+1,714
+Mar 21, 2024
+#42
+I’ve owned a couple DD rifles. They were solid guns that just worked. I still have some LMT 5.56 di guns. They’re a little heavy but shoot better than any other chrome lined guns I’ve owned. Never shot an LWRC so no comment. I bought a few Centurion Arms chrome lined hammer forged barrels because everyone raved about how well they shot good ammo but they didn’t live up to the hype. I’ve never owned one of their complete carbines.
+ 
+ 
+Reactions:
+Charmingmander and 1911hombre
+You must log in or register to reply here.
+Similar threads
+	
+(Concluded) AR-15 Custom Build
+DangerDave Jul 10, 2024 Semi-Automatic Rifles
+36
+Jul 12, 2024
+P
+	
+AR-10 Precision Rifle Shopping - Need Some Input & Advice
+pittfurg Oct 1, 2024 Semi-Automatic Rifles
+22
+Nov 7, 2024
+C
+	
+Moving on Need ideas on larger caliber small frame 6.8/grendel/ARC LWRC, DD, Wilson, Custom
+chadwickz71 Sep 10, 2023 Semi-Automatic Rifles
+38
+Sep 11, 2024
+	
+Geissele GFR Maritime Reconnaissance 6mm arc write up and review
+JohnDeereGuy1996 Mar 24, 2024 Semi-Automatic Rifles
+103
+Aug 7, 2024
+	
+Firearms WTS Geissele 14.5 Super Duty with Colt Lower
+Scipio Jan 3, 2023 Buy - Sell - Trade
+8
+Nov 20, 2023
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/dd-m4a1-riii-vs-lwrc-di-vs-geissele-super-duty.7211594/ 
+ ----- 

@@ -1,0 +1,1234 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Reloading Depot
+SD and ES inconsistencies
+ 
+Thread starter
+Gd33333  
+Start date
+Mar 11, 2024
+1
+	
+2
+Next
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 11, 2024
+#1
+So I’ve been pulling my hair out trying to figure out why I can’t get consistent SD’s or ES’s with a current load I’ve been working on. The gun is a RPR in 6.5 CM. I’ve done my OCW a couple times settling on a velocity node with 41.5 gr H4350 pushing 140 ELDM’s out of new (full length sized and mandrel sent through case neck) Starline brass with CCI small magnum primers. .020 headspace and a CBTO of 2.2150 which is .015 from the lands. I’m getting anywhere from 10-60 SD’s with ES’s as bad as 100fps. I’m weighing each charge with two different scales to verify. What am I missing? I will say I am using a new Caldwell chronograph and I have come to question if that’s my problem. Any thoughts would be greatly appreciated. Thanks!
+ 
+Vivacious Stallion
+Public Health Authority for the Shadow Gov
+Full Member
+Minuteman
+Supporter
+Feb 27, 2019
+710
+782
+The Streets of USA
+Mar 11, 2024
+#2
+Have you shot any factory ammo through that chronograph and seen high SDs? Whats your level of experience with reloading?
+As someone who bought a new magnetospeed once that was busted, it is possible the chronograph is the issue.
+ 
+ 
+Reactions:
+RegionRat and Rocketvapor
+Rocketvapor
+Major Hide Member
+Full Member
+Minuteman
+ 
+Dec 10, 2018
+2,305
+1,727
+South East Louisiana
+Mar 11, 2024
+#3
+Time to start do repeat measuring.
+.020 headspace is probably a typo.
+
+FL Sizing,
+Measure base to datum on new then once fired cases.
+Fired cases will probably still chamber in the RPR with a harder bolt lift.
+Full length size a MINIMUM amount to get easy bolt lift.
+Measure.
+
+Mandrel,
+Measurement exercise:
+Fired case neck diameter,
+FL Sized neck diameter Without Mandrel,
+Fl Sized neck diameter WITH Mandrel.
+Neck Diameter with a seated bullet.
+
+Charge:
+What is your estimate of charge accuracy?
+
+Chronograph,
+Optical accuracy is maybe 0.5 percent, at best.
+
+Try to produce 10 rounds measuring every step with each component as equal as possible.
+ 
+ 
+Reactions:
+Ben4867, WasNH4X and RegionRat
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 11, 2024
+#4
+Vivacious Stallion said:
+Have you shot any factory ammo through that chronograph and seen high SDs? Whats your level of experience with reloading?
+As someone who bought a new magnetospeed once that was busted, it is possible the chronograph is the issue.
+I have not shot any factory ammo through the chronograph. I’ve been reloading for about five years now. I’ve been thinking of trying to locate someone local with a lab radar to verify.
+ 
+ 
+Reactions:
+biggershooter
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,312
+4,394
+Texas
+Mar 11, 2024
+#5
+If possible, invest in a Garmin Chrono.
+ 
+ 
+Reactions:
+Ben4867, misser, Ledzep and 4 others
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 11, 2024
+#6
+Rocketvapor said:
+Time to start do repeat measuring.
+.020 headspace is probably a typo.
+
+FL Sizing,
+Measure base to datum on new then once fired cases.
+Fired cases will probably still chamber in the RPR with a harder bolt lift.
+Full length size a MINIMUM amount to get easy bolt lift.
+Measure.
+
+Mandrel,
+Measurement exercise:
+Fired case neck diameter,
+FL Sized neck diameter Without Mandrel,
+Fl Sized neck diameter WITH Mandrel.
+Neck Diameter with a seated bullet.
+
+Charge:
+What is your estimate of charge accuracy?
+
+Chronograph,
+Optical accuracy is maybe 0.5 percent, at best.
+
+Try to produce 10 rounds measuring every step with each component as equal as possible.
+Click to expand...
+Yes, typo. .002 shoulder bump. What am I looking for with the different sizing/mandrel measurements? Charge accuracy of +/-.1 grn.
+ 
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 11, 2024
+#7
+Rio Precision Gunworks said:
+If possible, invest in a Garmin Chrono.
+I really want one. Someday 
+ 
+Rocketvapor
+Major Hide Member
+Full Member
+Minuteman
+ 
+Dec 10, 2018
+2,305
+1,727
+South East Louisiana
+Mar 11, 2024
+#8
+Chronograph position/angle errors should be consistently wrong for the same setup.
+Lighting errors could change with cloud movement.
+
+The measurement exercises are to confirm consistent, repeatable processing.
+ 
+ 
+Reactions:
+RegionRat and Gd33333
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,791
+2,140
+AZ
+Mar 11, 2024
+#9
+Gd33333 said:
+So I’ve been pulling my hair out trying to figure out why I can’t get consistent SD’s or ES’s with a current load I’ve been working on. The gun is a RPR in 6.5 CM. I’ve done my OCW a couple times settling on a velocity node with 41.5 gr H4350 pushing 140 ELDM’s out of new (full length sized and mandrel sent through case neck) Starline brass with CCI small magnum primers. .020 headspace and a CBTO of 2.2150 which is .015 from the lands. I’m getting anywhere from 10-60 SD’s with ES’s as bad as 100fps. I’m weighing each charge with two different scales to verify. What am I missing? I will say I am using a new Caldwell chronograph and I have come to question if that’s my problem. Any thoughts would be greatly appreciated. Thanks!
+Click to expand...
+Which Caldwell chrono are you using?
+
+Which scales are you using?
+
+What neck tension are you using?
+
+Are you annealing your cases?
+
+It could be that your load in that gun doesn't like magnum primers. Have you tried any other primers?
+
+Have you tried measure case volumes (like ~10) to get an idea of their volumes and how consistent they might be?
+
+How many rounds down the barrel?
+ 
+ 
+Reactions:
+RegionRat
+J
+jmac1911
+Private
+Minuteman
+Apr 18, 2019
+34
+18
+New Hampshire
+Mar 11, 2024
+#10
+Your post said new brass, use the same process and load with once fired brass from your chamber and see what the results are.
+ 
+ 
+Reactions:
+ShtrRdy and RegionRat
+Rocketmandb
+Old Salt
+Full Member
+Minuteman
+ 
+ 
+Nov 2, 2018
+2,517
+2,729
+Mar 11, 2024
+#11
+Gd33333 said:
+So I’ve been pulling my hair out trying to figure out why I can’t get consistent SD’s or ES’s with a current load I’ve been working on. The gun is a RPR in 6.5 CM. I’ve done my OCW a couple times settling on a velocity node with 41.5 gr H4350 pushing 140 ELDM’s out of new (full length sized and mandrel sent through case neck) Starline brass with CCI small magnum primers. .020 headspace and a CBTO of 2.2150 which is .015 from the lands. I’m getting anywhere from 10-60 SD’s with ES’s as bad as 100fps. I’m weighing each charge with two different scales to verify. What am I missing? I will say I am using a new Caldwell chronograph and I have come to question if that’s my problem. Any thoughts would be greatly appreciated. Thanks!
+Click to expand...
+
+I'll list a few things below, but they would not be solely (or even primarily) responsible for a mid-double digit SDs. There is something dramatic going on with your process, so...
+
+1) Please post your full reloading process
+
+2) Starline is just okay brass. If you can get some Lapua, get some Lapua.
+
+3) Your SDs are bad, but they get exasperated with new brass. Someone else mentioned that you should measure them against once-fired.
+
+4) How many rounds through the rifle?
+
+5) When and how do you clean the rifle?
+
+6) Have you cleaned the brake?
+ 
+ 
+Reactions:
+Ben4867 and RegionRat
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 11, 2024
+#12
+straightshooter1 said:
+Which Caldwell chrono are you using?
+
+Which scales are you using?
+
+What neck tension are you using?
+
+Are you annealing your cases?
+
+It could be that your load in that gun doesn't like magnum primers. Have you tried any other primers?
+
+Have you tried measure case volumes (like ~10) to get an idea of their volumes and how consistent they might be?
+
+How many rounds down the barrel?
+Click to expand...
+The G2 chrono
+Running the FA Intellidropper and cross referencing with FA precision electronic scale
+Running a .262 mandrel for neck tension
+No need to anneal as they are new
+Haven’t tried standard primers so could most definitely try that
+I have not measured case volume
+About 300-400 rounds
+ 
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 11, 2024
+#13
+jmac1911 said:
+Your post said new brass, use the same process and load with once fired brass from your chamber and see what the results are.
+I plan to do this and am hoping to see a difference. Haven’t had much luck finding any information regarding new brass and possible affects on SD’s. Have you had similar issues with new brass?
+ 
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 12, 2024
+#14
+Rocketmandb said:
+I'll list a few things below, but they would not be solely (or even primarily) responsible for a mid-double digit SDs. There is something dramatic going on with your process, so...
+
+1) Please post your full reloading process
+
+2) Starline is just okay brass. If you can get some Lapua, get some Lapua.
+
+3) Your SDs are bad, but they get exasperated with new brass. Someone else mentioned that you should measure them against once-fired.
+
+4) How many rounds through the rifle?
+
+5) When and how do you clean the rifle?
+
+6) Have you cleaned the brake?
+Click to expand...
+Ok here goes:
+With new brass, I full length sized without expander ball and then ran a .262 mandrel through neck. I trimmed and deburred any over length cases. Primed with hand primer. Dispensing powder with FA Intellidropper and cross referencing with FA precision electronic scale (both +/- .1 grn accuracy). Measured every CBTO while bullet seating to verify within .001.
+
+This is the first I’ve tried Starline so I’m hoping that’s not the problem. Was hoping it would be alright as Lapua is twice the price.
+
+I plan to load some once fired exactly the same to see if there is a change.
+
+Probably 300-400 rounds
+
+Clean every 100 rounds or so
+
+Break is brand new Fat Bastard
+ 
+ 
+Reactions:
+simonp
+Rocketmandb
+Old Salt
+Full Member
+Minuteman
+ 
+ 
+Nov 2, 2018
+2,517
+2,729
+Mar 12, 2024
+#15
+Gd33333 said:
+Ok here goes:
+With new brass, I full length sized without expander ball and then ran a .262 mandrel through neck. I trimmed and deburred any over length cases. Primed with hand primer. Dispensing powder with FA Intellidropper and cross referencing with FA precision electronic scale (both +/- .1 grn accuracy). Measured every CBTO while bullet seating to verify within .001.
+
+I wouldn't expect to get single-digit SDs with what you're doing, but it shouldn't be driving the numbers you're seeing either.
+
+
+Gd33333 said:
+This is the first I’ve tried Starline so I’m hoping that’s not the problem. Was hoping it would be alright as Lapua is twice the price.
+
+Lapua could very well last twice as long, and it is that much better. I use Starline for some pistol-caliber reloading, but would never use it for precision rifle.
+
+
+Gd33333 said:
+I plan to load some once fired exactly the same to see if there is a change.
+
+I will be surprised if it suddenly drops to anything resembling the "good" range, but it should go down quite a bit.
+
+
+Gd33333 said:
+Probably 300-400 rounds
+
+Likely not enough to have a sizeable carbon ring form, but not out of the question either. If you have a borescope, it would be worth taking a look.
+
+
+Gd33333 said:
+Clean every 100 rounds or so
+
+What is your cleaning process?
+
+
+Gd33333 said:
+Break is brand new Fat Bastard
+
+Good brake.
+ 
+ 
+Reactions:
+RegionRat
+R
+RegionRat
+Gunny Sergeant
+Full Member
+Minuteman
+Aug 10, 2019
+760
+863
+Mar 12, 2024
+#16
+All of the above advice, plus...
+
+Have a good hard look at your primer seating and the firing pin assembly.
+Have a good hard look at the spring.
+Make sure the rig has no issues or irregularities with the firing pin fall or protuberance.
+
+Uneven primer seating or uneven firing pin strike can cause as many or more problems as the ammo.
+
+If at all possible to try some ammo from a reputable source for reference, it might tell us if the rig is more worth investigating than the ammo, but sometimes we are still left with questions.
+To look at this the other way, if the rig does produce good SD/ES values from some different ammo, then we at least know to focus on your loads and not the rifle. ES values of 100 from small samples are very poor, so at least we are not in a marginal situation.
+
+Good Luck and don't give up.
+ 
+ 
+Reactions:
+WasNH4X, Rocketvapor and straightshooter1
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,791
+2,140
+AZ
+Mar 12, 2024
+#17
+Gd33333 said:
+The G2 chrono
+You might be right, that this is the problem, or some part of the problem. Best thing to do there is check it against someone else's chrono (preferably, a radar type).
+
+
+Gd33333 said:
+Running the FA Intellidropper and cross referencing with FA precision electronic scale
+Using these two scale together as you've described wouldn't be responsible to that much inconsistency. Just don't expect single digit SD's, though you might get some with low round counts.
+
+
+Gd33333 said:
+Running a .262 mandrel for neck tension
+That really doesn't tell you what your neck tension is do to an unknown amount of springback. Need to measure the necks before seating then after seating.
+
+
+Gd33333 said:
+No need to anneal as they are new
+OK. New brass can certainly contribute to the variations you're seeing . . . even after running a mandrel through them. The interference between the neck and bullet surfaces can be a lot and reduced some using some kind of lube to ease that interference.
+
+
+Gd33333 said:
+Haven’t tried standard primers so could most definitely try that
+You might be surprise how a "standard primer" might help a lot with consistency. It's worth a try.
+
+
+Gd33333 said:
+I have not measured case volume
+Any time you get new brass, it's a good idea to measure some case volumes as there can be significant differences between lot. Hopefully, you not mixing lots.
+
+
+Gd33333 said:
+About 300-400 rounds
+Barrel should be stable by now; sometimes it take 150 to 200 rounds. Just be thorough in check the chamber and bore that nothing unusual is going on there. And as RegionRat suggests, it good to also check your firing pin and bolt assembly.
+ 
+ 
+Reactions:
+RegionRat
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 12, 2024
+#18
+Rocketmandb said:
+I wouldn't expect to get single-digit SDs with what you're doing, but it shouldn't be driving the numbers you're seeing either.
+
+
+
+Lapua could very well last twice as long, and it is that much better. I use Starline for some pistol-caliber reloading, but would never use it for precision rifle.
+
+
+
+I will be surprised if it suddenly drops to anything resembling the "good" range, but it should go down quite a bit.
+
+
+
+Likely not enough to have a sizeable carbon ring form, but not out of the question either. If you have a borescope, it would be worth taking a look.
+
+
+
+What is your cleaning process?
+
+
+
+Good brake.
+Click to expand...
+What would you recommend for single digit SD’s? Is there additional steps I should be doing? I use the same process for my 6.5PRC and repeatedly get single digits. I will say that I do use Lapua brass for those though.
+
+As far as cleaning, I run a copper cleaner through the bore, followed by a brass brush and then clean patches until dry. Then another wet patch that sits overnight. Dry patches until they come out clean and then finish with a lubricant.
+
+Thanks
+ 
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 12, 2024
+#19
+straightshooter1 said:
+You might be right, that this is the problem, or some part of the problem. Best thing to do there is check it against someone else's chrono (preferably, a radar type).
+
+
+Using these two scale together as you've described wouldn't be responsible to that much inconsistency. Just don't expect single digit SD's, though you might get some with low round counts.
+
+
+That really doesn't tell you what your neck tension is do to an unknown amount of springback. Need to measure the necks before seating then after seating.
+
+
+OK. New brass can certainly contribute to the variations you're seeing . . . even after running a mandrel through them. The interference between the neck and bullet surfaces can be a lot and reduced some using some kind of lube to ease that interference.
+
+
+You might be surprise how a "standard primer" might help a lot with consistency. It's worth a try.
+
+
+Any time you get new brass, it's a good idea to measure some case volumes as there can be significant differences between lot. Hopefully, you not mixing lots.
+
+
+Barrel should be stable by now; sometimes it take 150 to 200 rounds. Just be thorough in check the chamber and bore that nothing unusual is going on there. And as RegionRat suggests, it good to also check your firing pin and bolt assembly.
+Click to expand...
+So measuring case neck before and after seating tells me what exactly? All 200 pieces of brass are same lot. I’ve thought about trying a dry lube and will definitely give the regular primers a shot. Thanks
+ 
+ 
+Reactions:
+straightshooter1
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 12, 2024
+#20
+RegionRat said:
+All of the above advice, plus...
+
+Have a good hard look at your primer seating and the firing pin assembly.
+Have a good hard look at the spring.
+Make sure the rig has no issues or irregularities with the firing pin fall or protuberance.
+
+Uneven primer seating or uneven firing pin strike can cause as many or more problems as the ammo.
+
+If at all possible to try some ammo from a reputable source for reference, it might tell us if the rig is more worth investigating than the ammo, but sometimes we are still left with questions.
+To look at this the other way, if the rig does produce good SD/ES values from some different ammo, then we at least know to focus on your loads and not the rifle. ES values of 100 from small samples are very poor, so at least we are not in a marginal situation.
+
+Good Luck and don't give up.
+Click to expand...
+Good call with comparing to factory reputable ammo to make sure it’s not the gun. I will try that. As far as primer seating, do you think I need to seat primers differently? I know they make units where you can set your primer depth. Is that what you’re referring to? Thanks for the help
+ 
+BuildingConceptsllc
+Don't Start None, won't be none.
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+ 
+Nov 13, 2020
+7,320
+7,529
+Alabama
+Mar 12, 2024
+#21
+I have no trouble getting very good numbers with Starline in 6.5cm so I very much doubt it's the brass but brass fired in your chamber and bumped consistently will give you better SD.
+ 
+M
+Maurygold
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+1,809
+1,331
+Mar 12, 2024
+#22
+Starline brass is a big part of the problem. Switch to lapua brass and you’ll drop sd by a bit. Primer seating depth won’t make any drastic differences
+ 
+ 
+Reactions:
+Gd33333
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 12, 2024
+#23
+BuildingConceptsllc said:
+I have no trouble getting very good numbers with Starline in 6.5cm so I very much doubt it's the brass but brass fired in your chamber and bumped consistently will give you better SD.
+I’m hoping so. Thanks
+ 
+BuildingConceptsllc
+Don't Start None, won't be none.
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+ 
+Nov 13, 2020
+7,320
+7,529
+Alabama
+Mar 12, 2024
+#24
+Gd33333 said:
+I’m hoping so. Thanks
+You need to use fired brass. Also make sure you have a good chamfer, consistent bump, ect.... and are getting good readings on your chrono. I love me some lapua but the Starline 6.5cm I've tested a good bit and it's done very very well for consistent SD and low SD. Now mine is all LRP so perhaps there's a difference there. Lapua is the better brass but case capacity consistency is good for Starline I've shot and tested and SD is great for them. All of mine is at least a few years old so perhaps there's a difference in the new? I'd bet if you're careful and use fired brass you will see those numbers go in half. Check the difference in your fired brass vs virgin and check and see how consistent your fired brass is in size.
+ 
+Rocketmandb
+Old Salt
+Full Member
+Minuteman
+ 
+ 
+Nov 2, 2018
+2,517
+2,729
+Mar 12, 2024
+#25
+Gd33333 said:
+What would you recommend for single digit SD’s? Is there additional steps I should be doing? I use the same process for my 6.5PRC and repeatedly get single digits. I will say that I do use Lapua brass for those though.
+
+My process starting from post-firing:
+
+1) Deprime
+2) Clean in ultrasonic
+3) Anneal
+4) FL Size
+5) Neck lube with moly
+6) Mandrel
+7) Trim
+8) Neck lube again
+9) Charge
+10) Seat with an arbor press and LE Wilson seaters
+
+
+Gd33333 said:
+As far as cleaning, I run a copper cleaner through the bore, followed by a brass brush and then clean patches until dry. Then another wet patch that sits overnight. Dry patches until they come out clean and then finish with a lubricant.
+
+Thanks
+
+Three things:
+
+1) If you're not using something that attacks carbon, then it is likely you've got some buildup going that could be causing what you're seeing. Get a good carbon cleaner and run patches through using the process I outline below - but let sit longer. Or you could plug the end of the barrel, stand it up with muzzle down, fill it with some carbon solvent, and let sit overnight, then do the process.
+
+2) I only use brass brushes when absolutely necessary. If you scrub a barrel enough with them, it will negatively affect the barrel. Same thing with abrasive cleaners.
+
+3) You might be getting some copper buildup as well. The process you're using will get some copper out, but certainly not all.
+
+My process:
+
+1) Run two wet patches soaked in Boretech Eliminator - I mean SOAKED
+2) Let sit for 15 minutes or so
+3) Run a couple dry patches through
+4) Repeat the above steps until you get only very light blue (or none) and very light/no carbon.
+
+Then:
+5) Clean behind the lugs
+6) Mop the chamber
+
+If I'm fighting carbon, then putting patches around a used nylon brush (vs. a jag) will put more uniform pressure against the barrel and seems to be more effective in pulling the carbon out.
+
+If I'm fighting a carbon ring in the chamber, then I put in a +1 size nylon brush (e.g. for my 300, I use a 338 brush) into the chamber with a patch around it soaked in carbon cleaner. The bigger brush + patch will be too big to get into the barrel, so stops at the end of the chamber. I let that sit for a long time (overnight usually), then twist it in the chamber. Repeat as necessary. Carbon rings are a bitch to remove, but I've found this to be at least somewhat effective.
+
+Lastly, I just reread your original post. You mention finding a velocity node. I do a lot more ELR than anything else, so I care about SDs more than someone doing PRS, as an example. My definition of a velocity "node" is one that gives me the best SDs, not the best group size. Once you find that SD sweet spot, then tune for group size using seating depth.
+
+On my 300's new barrel, I found a velocity range that's delivering good SDs, then on my last trip to the range I did a seating depth test (then validated at 500 yards with 5 shots - then 850 with a bunch - no grouping pic because it was a frikking bog out there and I couldn't get to the target):
+
+
+
+
+ 
+spife7980
+Luchador
+Full Member
+Minuteman
+Feb 10, 2017
+13,657
+16,565
+Central TX
+Mar 12, 2024
+#26
+Put it on paper and see if it shoots to your satisfaction and work from there.
+Numbers on a digital screen don’t equal results.
+ 
+ 
+Reactions:
+ma smith, Emerson0311 and Doom
+M
+Maurygold
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+1,809
+1,331
+Mar 12, 2024
+#27
+spife7980 said:
+Put it on paper and see if it shoots to your satisfaction and work from there.
+Numbers on a digital screen don’t equal results.
+those numbers on a screen matter a ton if you're shooting at distance (800+ yards)
+ 
+spife7980
+Luchador
+Full Member
+Minuteman
+Feb 10, 2017
+13,657
+16,565
+Central TX
+Mar 12, 2024
+#28
+Maurygold said:
+those numbers on a screen matter a ton if you're shooting at distance (800+ yards)
+Then put your paper out there too.
+ 
+ 
+Reactions:
+ma smith and WasNH4X
+M
+Maurygold
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+1,809
+1,331
+Mar 12, 2024
+#29
+spife7980 said:
+Then put your paper out there too.
+don't need to if the numbers on the screen are good 
+ 
+spife7980
+Luchador
+Full Member
+Minuteman
+Feb 10, 2017
+13,657
+16,565
+Central TX
+Mar 12, 2024
+#30
+Maurygold said:
+don't need to if the numbers on the screen are good 
+And if they don’t bear out the “good” with real tangible results then what good are they?
+ 
+ 
+Reactions:
+BuildingConceptsllc
+M
+Maurygold
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+1,809
+1,331
+Mar 12, 2024
+#31
+spife7980 said:
+And if they don’t bear out the “good” with real tangible results then what good are they?
+those are the results. a low sd group with less precision at 100 yards will shoot better at a distance than a higher sd group with better precision at 100 yards.
+
+nearly none of us are shooting enough groups for their to be statistical relevance when shooting a bunch of 100 yards groups. No I am not saying a .5 inch group vs a 3' group will shoot the same at distance but .3" group with high sd will be outperformed by .5" group and low sd at distance.
+ 
+ 
+Reactions:
+Gd33333 and Rocketvapor
+Rocketvapor
+Major Hide Member
+Full Member
+Minuteman
+ 
+Dec 10, 2018
+2,305
+1,727
+South East Louisiana
+Mar 12, 2024
+#32
+Sounds like a low SD will result in a smaller groups at range, A low ES will drop fewer points.
+ 
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,312
+4,394
+Texas
+Mar 12, 2024
+#33
+Rocketvapor said:
+Sounds like a low SD will result in a smaller groups at range, A low ES will drop fewer points.
+
+SD and ES are connected at the hip. They aren't independent of one another. One won't do something on target that another will such as smaller groups vs dropping fewer points.
+
+Whatever your true SD is, your ES will be six times that amount for 99.7% of your shots. The other .3% will consist of increasingly larger ES, but obviously will be pretty rare since it's 0.3%.
+ 
+ 
+Reactions:
+Gd33333
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,312
+4,394
+Texas
+Mar 12, 2024
+#34
+Rocketvapor said:
+Sounds like a low SD will result in a smaller groups at range, A low ES will drop fewer points.
+
+For a visual example of how SD and ES work:
+
+
+ 
+ 
+Reactions:
+Gd33333
+Rocketvapor
+Major Hide Member
+Full Member
+Minuteman
+ 
+Dec 10, 2018
+2,305
+1,727
+South East Louisiana
+Mar 12, 2024
+#35
+Your graph is for a large sample of a process "IN CONTROL".
+While we HOPE that our reloading and shooting processes are in control,
+any rogue variable introduced will skew that curve.
+Bullet making is a process.
+Case making is a process.
+Primers have their own distribution (which may or may not have an impact).
+Powder charge, the one thing we try to control is a process.
+Independently they may skew the final process of making rounds.
+ 
+M
+Maurygold
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+1,809
+1,331
+Mar 12, 2024
+#36
+Rocketvapor said:
+Your graph is for a large sample of a proces "IN CONTROL".
+While we HOPE that are reloading and shooting processes are in control,
+any rogue variable introduced will skew that curve.
+
+He’s smug and condescending but the graph is true for all stats. That’s just how sd works. You’re pretty close though - keep your sd and es low and it will shoot better at distance.
+
+It’s best not to engage with him he doesn’t try to help people just talk over them so he can feel smart for once
+ 
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,312
+4,394
+Texas
+Mar 12, 2024
+#37
+Rocketvapor said:
+Your graph is for a large sample of a proces "IN CONTROL".
+While we HOPE that are reloading and shooting processes are in control,
+any rogue variable introduced will skew that curve.
+
+That doesn't change how SD and ES work. There's a reason no one outside of the firearms community uses ES. It's all but worthless and SD tells you about where your ES is going to be.
+
+Your scenario of "sd is smaller groups but ES is more points" isn't possible. It's not the way it works.
+ 
+ 
+Reactions:
+kthomas and Emerson0311
+Rocketvapor
+Major Hide Member
+Full Member
+Minuteman
+ 
+Dec 10, 2018
+2,305
+1,727
+South East Louisiana
+Mar 12, 2024
+#38
+Most manufacturing process use SD and production LIMITS (that's ES).
+ 
+W
+WasNH4X
+Master of Sparks
+Full Member
+Minuteman
+Jan 17, 2024
+199
+317
+Dixie
+Mar 12, 2024
+#39
+Adding thoughts to post #16: Primer seating....primer is seated correct when ,after firing and deprimed ,the primer pocket will look like 3 perfect pizza slices . Iffin the primer pocket is blacked all over the bottom....it ain't right imo.
+
+I've used a hand primer, but couldn't get consistent results described above. "Shootin Buddy" gave me a rcbs ram primer and consistency improved greatly,resulting in a lot less "what da hell " happened there moments.All the " little" things done during handloading ,that some think unnecessary, add up to more consistent ammo ,for me.......and that's what we are trying to accomplish, right?
+Last thought: as stated in noted post, if yo firing mechanism is out of wack.......you gonna be chasing your tail,until it is corrected.
+ 
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,312
+4,394
+Texas
+Mar 12, 2024
+#40
+Deleted post to give better explanation.
+
+A production limit is absolutely *NOT* the same as extreme spread. A production limit is a limit of what is acceptable. Extreme Spread is simply the highest and lowest value in a sample or population.
+
+By definition, a production limit can't be extreme spread. If it was extreme spread, then you wouldn't need a limit as extreme spread would encapsulate all the the values.
+
+
+For example, let's say you are manufacturing product X. You make 1,000 pieces. You decide to set your production limit as two standard deviations. Anything larger than that is not an acceptable product. That is definitely not your extreme spread. Your extreme spread would be three standard deviations.
+
+In this case, you would have 95% of product X that is acceptable.....and 5% that is not. The 95% isn't your Extreme Spread (the 95% is your production limit). The 5% is your Extreme Spread.
+ 
+ 
+Reactions:
+Rocketvapor
+M
+Maurygold
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+1,809
+1,331
+Mar 12, 2024
+#41
+Rio Precision Gunworks said:
+Deleted post to give better explanation.
+
+A production limit is absolutely *NOT* the same as extreme spread. A production limit is a limit of what is acceptable. Extreme Spread is simply the highest and lowest value in a sample or population.
+
+By definition, a production limit can't be extreme spread. If it was extreme spread, then you wouldn't need a limit as extreme spread would encapsulate all the the values.
+
+
+For example, let's say you are manufacturing product X. You make 1,000 pieces. You decide to set your production limit as two standard deviations. Anything larger than that is not an acceptable product. That is definitely not your extreme spread. Your extreme spread would be three standard deviations.
+
+In this case, you would have 95% of product X that is acceptable.....and 5% that is not. The 95% isn't your Extreme Spread. The 5% is.
+Click to expand...
+No one cares about your rudimentary understanding of stats. No one is impressed by you conflating a non-issue to feel smart.
+ 
+Rocketvapor
+Major Hide Member
+Full Member
+Minuteman
+ 
+Dec 10, 2018
+2,305
+1,727
+South East Louisiana
+Mar 12, 2024
+#42
+I care 
+ 
+ 
+Reactions:
+TheOfficeT-Rex and Rio Precision Gunworks
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,312
+4,394
+Texas
+Mar 12, 2024
+#43
+Rocketvapor said:
+I care 
+
+I do agree though.....using production limits and/or acceptable ES is a good thing to incorporate into your load development.
+
+You decide that say.....7fps is your maximum acceptable SD.
+
+You can do a couple things now.
+
+-If you're shooting 5 shot strings to test, you can run sims or calculate the max SD that is acceptable for a 5 shot string. It would be somewhere in the neighborhood of 12 fps.
+
+-You can use and ES of 42fps (6*7)
+
+
+Now you have two production limits for your load development. If at anytime during a 5 shot string, your ES is over 42, you stop shooting that combination of components and move to the next.
+
+Once you shoot all your 5 shot strings, you can eliminate the combinations that were over the ES, and you can eliminate the combinations that were over 12sd. You wouldn't throw those 12sd strings in the trash, since they are within the limit of what's significantly possible with a 7sd and 5 shot strings.
+
+
+Then you go back and load up more of each combination that were under the 42es and the 12sd. You then do the exact same thing with your production limits and the combinations that made it past the first round. And continue the process until you only have a few combinations to choose from for your ammo going forward.
+ 
+M
+Maurygold
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+1,809
+1,331
+Mar 12, 2024
+#44
+That’s a great way to just waste time and not find the ideal load for your gun.
+ 
+Rocketvapor
+Major Hide Member
+Full Member
+Minuteman
+ 
+Dec 10, 2018
+2,305
+1,727
+South East Louisiana
+Mar 12, 2024
+#45
+If you consider that velocity has something to do with elevation, faster hits higher, slower hits lower,
+an estimate of elevation vs velocity would be one way of setting acceptable upper and lower limits.
+
+If for example, 25 fps gives you 1/2 MOA variance at some range, say 600yd, puts you right on the 9/10 line,
+a 65 shot string (F-Open),
+
+52@ 2950fps, 13@ 2925, SD of 10.1, ES 25, 1/2 moa just from velocity.
+61@ 2950fps, 4 @ 2910, SD of 9.69, ES 40, 4 shots greater than 1/2 moa (4 lost points?)
+63@ 2950fps, Just 2 @ 2900, SD 8.7, ES 50, 2 shots outside 1/2 moa for sure.
+(primer weight outliers slipped into your load?)
+Single digit SD and maybe a clean some other day 
+
+Not real life to have shots at exactly the same velocity, but ES limits sounds like a good idea.
+ 
+Last edited: Mar 12, 2024
+Emerson0311
+Old Salt
+Full Member
+Minuteman
+Feb 17, 2018
+3,152
+5,892
+Dawson Creek BC
+Mar 12, 2024
+#46
+spife7980 said:
+Put it on paper and see if it shoots to your satisfaction and work from there.
+Numbers on a digital screen don’t equal results.
+This. What does it show on paper at 400-500? What the OP is describing is watching porn instead of having sex with the willing woman in front of you.
+ 
+TheOfficeT-Rex
+Small N, small x̄
+Full Member
+Minuteman
+May 19, 2019
+1,521
+1,512
+Mar 12, 2024
+#47
+Rocketvapor said:
+52@ 2950fps, 13@ 2925, SD of 10.1, ES 25, 1/2 moa just from velocity.
+61@ 2950fps, 4 @ 2910, SD of 9.69, ES 40, 4 shots greater than 1/2 moa (4 lost points?)
+63@ 2950fps, Just 2 @ 2900, SD 8.7, ES 50, 2 shots outside 1/2 moa for sure.
+(primer weight outliers slipped into your load?)
+Single digit SD and maybe a clean some other day 
+Click to expand...
+
+...wouldn't the ES be double that, since you'd expect some to be equally higher than average?
+
+Or is this just a theoretical "hey where did those spare kernels on my loading block come from" scenario?
+
+It makes more sense to me, to punch your speed and SD into a hit probability calc and recognize that scenario number two still hits within a half MOA 69% of the time and almost all within 1 MOA.
+ 
+M
+Maurygold
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 17, 2018
+1,809
+1,331
+Mar 12, 2024
+#48
+The difference between 5sd and 10sd at the barrel at 1k yards for my 300 win mag is 100% vs 84%.
+
+
+Hit Probability Calculator
+A free hit probability calculator for long range shooting.
+ bisonballistics.com
+ 
+ 
+Reactions:
+Rocketvapor
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,791
+2,140
+AZ
+Mar 12, 2024
+#49
+Gd33333 said:
+So measuring case neck before and after seating tells me what exactly? All 200 pieces of brass are same lot. I’ve thought about trying a dry lube and will definitely give the regular primers a shot. Thanks
+Measuring before and after gives you a measurement of the "neck tension" without considering the neck wall thickness. Like, if the before measurement is .280" and after seating it measures .282", then you've got .002" "neck tension".
+ 
+ 
+Reactions:
+Gd33333
+Gd33333
+Private
+Minuteman
+Jan 19, 2019
+60
+10
+Mar 12, 2024
+#50
+BuildingConceptsllc said:
+You need to use fired brass. Also make sure you have a good chamfer, consistent bump, ect.... and are getting good readings on your chrono. I love me some lapua but the Starline 6.5cm I've tested a good bit and it's done very very well for consistent SD and low SD. Now mine is all LRP so perhaps there's a difference there. Lapua is the better brass but case capacity consistency is good for Starline I've shot and tested and SD is great for them. All of mine is at least a few years old so perhaps there's a difference in the new? I'd bet if you're careful and use fired brass you will see those numbers go in half. Check the difference in your fired brass vs virgin and check and see how consistent your fired brass is in size.
+Click to expand...
+Will do. Thanks again!
+ 
+ 
+Reactions:
+BuildingConceptsllc
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+	
+Higher than expected SD/ES with new brass
+King_beardsly Mar 31, 2024 Reloading Depot
+12
+Apr 1, 2024
+M
+	
+30-06 and 190-208 grain bullets powder selection?
+Marv_2101 Nov 29, 2024 Reloading Depot
+3
+Nov 29, 2024
+N
+	
+Do these number look right to you? 223 reloading data.
+NJRaised Mar 28, 2024 Reloading Depot
+25
+Jul 8, 2024
+V
+	
+Garmin Chrono Software Glitch (Or Am I Missing Something)?
+vh20 Nov 11, 2024 The Armory
+30
+Nov 15, 2024
+T
+	
+Super low SD but crappy groups, what to do
+tylerradke Aug 4, 2024 Reloading Depot
+20
+Aug 5, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Reloading Depot
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/sd-and-es-inconsistencies.7211073/ 
+ ----- 

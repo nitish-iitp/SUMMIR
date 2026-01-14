@@ -46,10 +46,10 @@ graph TD
         ROOT --> SF["📋 supplementary_files/"]
         ROOT --> DOCS["📄 Documentation"]
         
-        DS --> CRICKET["Cricket (ODI, T20)/"]
-        DS --> MLB["MLB/"]
-        DS --> NBA["NBA/"]
-        DS --> SOCCER["Soccer/"]
+        DS --> DS_JSONL["Dataset_jsonl/"]
+        DS --> DS_PROC["Dataset_proccessed/"]
+        DS_JSONL --> DS_SPORTS["📁 Sport Corpora"]
+        DS_PROC --> DS_PIPE["📁 6-Stage Pipeline"]
         
         DG --> PROMPTS["prompt_for_each_sport/"]
         DG --> DG_CODE["🐍 Codes: Data Generation"]
@@ -85,6 +85,10 @@ graph TD
     style EC_CODE fill:#fecaca,stroke:#dc2626,color:#000
     style SF_CODE fill:#bfdbfe,stroke:#2563eb,color:#000
     style SF_DATA fill:#a5f3fc,stroke:#0891b2,color:#000
+    style DS_JSONL fill:#86efac,stroke:#16a34a,color:#000
+    style DS_PROC fill:#86efac,stroke:#16a34a,color:#000
+    style DS_SPORTS fill:#bbf7d0,stroke:#22c55e,color:#000
+    style DS_PIPE fill:#bbf7d0,stroke:#22c55e,color:#000
 ```
 
 ## Quick Navigation

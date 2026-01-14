@@ -1,0 +1,39 @@
+We value your privacy
+We and our partners store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised advertising and content, advertising and content measurement, audience research and services development. With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our 1467 partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences or withdraw your consent at any time by returning to this site and clicking the "Privacy" button at the bottom of the webpage.
+Please note that this website/app uses one or more Google services and may gather and store information including but not limited to your visit or usage behaviour. You may click to grant or deny consent to Google and its third-party tags to use your data for below specified purposes in below Google consent section.
+MORE OPTIONS
+AGREE
+	CricClubs
+Home
+Players
+Matches
+Teams
+Statistics
+Series
+League
+ Log in
+Player Batting Records
+Player:	Imam Ul Haq
+Series:	ICC Cricket World cup 2023
+Start Date:	10/05/2023	
+
+
+No.  	Match Date  	Team  	Against  	Winner  	Batting Position  	Runs  	Balls 	SR  	4's  	6's  	Points  	 
+1	10/27/2023	Pakistan	South Africa	South Africa	2	12	18	66.67	2	0	24	Scorecard
+2	10/23/2023	Pakistan	Afghanistan	Afghanistan	2	17	22	77.27	2	0	29	Scorecard
+3	10/20/2023	Pakistan	Australia	Australia	2	70	71	98.59	10	0	220	Scorecard
+4	10/14/2023	Pakistan	India	India	2	36	38	94.74	6	0	72	Scorecard
+5	10/10/2023	Pakistan	Sri Lanka	Pakistan	2	12	12	100.00	1	0	33	Scorecard
+6	10/06/2023	Pakistan	Netherlands	Pakistan	2	15	19	78.95	2	0	27	Scorecard
+
+© Copyright 2025 CricClubs.com. All Rights Reserved.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://cricclubs.com/InternationalScores/playerBattingRecords.do?playerId=1299221&league=1468&clubId=11707 
+ ----- 

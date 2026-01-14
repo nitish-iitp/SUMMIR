@@ -1,0 +1,327 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Doubleheader - Game 2
+Yankees
+74-73, 35-37 Away
+8
+Final
+Red Sox
+74-73, 38-38 Home
+5
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Aaron Judge hits grand slam to help Yankees beat Red Sox 8-5 for doubleheader split
+— Aaron Judge hit a grand slam, DJ LeMahieu broke an eighth-inning tie with an RBI double, and the New York Yankees beat the Boston Red Sox 8-5 on Thursday night to split a doubleheader.
+Sep 15, 2023, 03:49 am - AP
+
+
+NYY
+
+
+BOS
+1	2	3	4	5	6	7	8	9	R	H	E
+0	5	0	0	0	0	0	1	2	8	12	2
+2	0	1	0	1	0	1	0	0	5	9	0
+WIN
+W. Peralta
+4-2
+1.0 IP, 1 H, 0 ER, 0 K, 0 BB
+LOSS
+M. Llovera
+1-2
+1.0 IP, 3 H, 1 ER, 0 K, 1 BB
+SAVE
+T. Kahnle
+2
+2.0 IP, 0 H, 0 ER, 4 K, 1 BB
+Scoring Summary
+INNING
+	NYY	BOS
+		1st	Verdugo grounded into fielder's choice to first, Rafaela scored on throwing error by shortstop Volpe, Devers out at second.	0	1
+		1st	Abreu singled to left, Verdugo scored, Casas to second.	0	2
+		2nd	LeMahieu reached on infield single to second, Florial scored, Cabrera to second, Peraza to third.	1	2
+		2nd	Judge homered to center (418 feet), Peraza scored, Cabrera scored and LeMahieu scored.	5	2
+		3rd	Devers homered to right (382 feet).	5	3
+		5th	Urías scored, Casas safe at first on throwing error by shortstop Volpe, Verdugo to second.	5	4
+		7th	Casas grounded out to third, Rafaela scored, Verdugo to second.	5	5
+		8th	LeMahieu doubled to left, Volpe scored, Cabrera to third.	6	5
+		9th	Peraza homered to center (403 feet), Florial scored.	8	5
+Full Play-By-Play
+Yankees
+Red Sox
+HITTERS	H-AB	R	HR	RBI	AVG
+
+D. LeMahieu
+1B
+	3-5	1	0	2	.242
+
+A. Judge
+DH
+	1-2	1	1	4	.254
+
+G. Torres
+2B
+	1-5	0	0	0	.272
+
+G. Stanton
+LF
+	0-3	0	0	0	.196
+
+I. Kiner-Falefa
+LF
+	0-1	0	0	0	.240
+
+E. Florial
+CF
+	1-4	2	0	0	.200
+
+A. Volpe
+SS
+	2-5	1	0	0	.211
+
+O. Peraza
+3B
+	2-5	2	1	2	.208
+
+O. Cabrera
+RF
+	1-4	1	0	0	.212
+
+K. Higashioka
+C
+	1-4	0	0	0	.234
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+C. Schmidt
+	5.1	7	3	3	3	88-58	4.56
+
+Z. McAllister
+	0.2	1	1	0	1	18-15	5.40
+
+W. Peralta
+	1.0	1	0	0	0	14-10	2.83
+
+T. Kahnle
+	2.0	0	0	1	4	29-19	2.25
+HITTERS	H-AB	R	HR	RBI	AVG
+
+C. Rafaela
+SS
+	2-5	2	0	0	.368
+
+R. Devers
+DH
+	3-3	1	1	1	.276
+
+A. Verdugo
+RF
+	0-5	1	0	0	.274
+
+T. Casas
+1B
+	0-2	0	0	1	.263
+
+M. Yoshida
+LF
+	0-4	0	0	0	.289
+
+W. Abreu
+CF
+	1-2	0	0	1	.367
+
+R. Refsnyder
+PH-CF
+	0-1	0	0	0	.243
+
+P. Reyes
+2B
+	1-4	0	0	0	.297
+
+R. McGuire
+C
+	1-4	0	0	0	.277
+
+L. Urias
+3B
+	1-4	1	0	0	.192
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+N. Robertson
+	1.0	0	0	1	1	15-11	5.71
+
+B. Bernardino
+	1.0	5	5	2	1	38-22	3.52
+
+Z. Weiss
+	2.0	1	0	1	0	34-23	4.50
+
+B. Walter
+	3.0	2	0	0	2	42-26	6.26
+
+M. Llovera
+	1.0	3	1	1	0	28-16	4.30
+
+J. Schreiber
+	1.0	1	2	0	2	22-15	3.73
+Full Box Score
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+YANKEES
+RED SOX
+NYY 100
+%
+NYY 8BOS 5
+
+Bottom 9th
+Verdugo struck out looking.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+NYY
+BOS
+Hits
+12
+9
+Home Runs
+2
+1
+Total Bases
+22
+12
+Runners LOB
+9
+7
+Full Team Stats
+Regular Season Series
+Current Series
+NYY win 3-1
+Yankees
+-
+Red Sox
+-
+Game 1
+9/11
+Postponed
+Yankees
+3
+Red Sox
+2
+Game 1
+9/12
+Final
+Yankees
+4
+Red Sox
+1
+Game 2
+9/12
+Final
+Yankees
+-
+Red Sox
+-
+Game 3
+9/13
+Postponed
+Yankees
+0
+Red Sox
+5
+Game 3
+9/14
+Final
+Yankees
+8
+Red Sox
+5
+Game 4
+9/14
+Final
+Game Information
+Fenway Park
+11:15 PM, September 14, 2023
+Coverage: FOX
+Boston, Massachusetts
+Line: NYY -120
+Over/Under: 9.5
+Attendance: 35,507
+Game Time:
+3:12
+Umpires:
+Home Plate Umpire - Dan Merzel
+First Base Umpire - Alex Tosi
+Second Base Umpire - Brian Knight
+Third Base Umpire - John Bacon
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401473213/yankees-red-sox 
+ ----- 

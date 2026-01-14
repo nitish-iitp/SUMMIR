@@ -1,0 +1,456 @@
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Allow selection
+Allow all
+Market Place Sourcing Support
+Login
+Find Suppliers : API/FDF
+Services
+Excipients
+Drugs in Dev.
+News
+Blog
+Budesonide
+ACCESS ALL DATA
+Browse all information
+CHEMISTRY
+Discover Molecule Insights
+ACTIVE PHARMA INGREDIENTS
+67 API Suppliers, 24 USDMF, 28 CEP/COS, 7 JDMF, 7 EU WC, 15 KDMF, 36 NDC API, 42 Listed Suppliers, $ API Reference Price
+DEVELOPMENTS
+72 Drugs in Development
+INTERMEDIATES
+7 Intermediates Suppliers
+FINISHED DOSAGE FORMULATIONS
+613 FDF Dossiers, 54 FDA Orange Book, 429 Europe, 23 Canada, 19 Australia, 35 South Africa, 53 Listed Dossiers
+DRUG PRODUCT COMPOSITIONS
+TABLET, EXTENDED RELEASE;ORAL - 9MG, AEROSOL, FOAM;RECTAL - 2MG/ACTUATION, SPRAY, METERED;NASAL - 0.032MG/SPRAY, SUSPENSION;INHALATION - 0.25MG/2ML, SUSPENSION;INHALATION - 0.5MG/2ML, SUSPENSION;INHALATION - 1MG/2ML, CAPSULE, DELAYED RELEASE;ORAL - 6MG, CAPSULE, DELAYED RELEASE;ORAL - 9MG, CAPSULE, DELAYED RELEASE;ORAL - 3MG, AEROSOL, METERED;INHALATION - 0.08MG/INH;0.0045MG/INH, AEROSOL, METERED;INHALATION - 0.16MG/INH;0.0045MG/INH
+RELATED EXCIPIENT COMPANIES
+1 Evonik, 1 Rochem International Inc, 5 SPI Pharma, 2 Seqens, 9 DKSH, 4 Faran Shimi Pharmaceutical, 10 Gangwal Healthcare, 6 Nanjing Well Pharmaceutical, 1 Pfanstiehl, 4 ACG Worldwide, 11 Actylis, 1 Aeon Procare, 1 Alcedo Pharmachem, 5 Anhui Sunhere Pharmaceutical Excipients Co.,Ltd, 23 BASF, 1 Clariant, 14 Corel Pharma Chem, 4 DFE Pharma, 3 Doshion Polyscience, 2 Finar, 10 Gangwal Chemicals, 9 Ideal Cures Pvt Ltd, 2 Ingredion Pharma Solutions, 31 Kerry, 5 Kima Chemical, 6 Lonza Capsugel, 16 Microlex e.U, 1 Nanjing Bold Chemical, 2 Nomisma Healthcare, 1 Novo Excipients, 1 Pharmatrans-Sanaq, 5 Pluviaendo, 2 Prachin Chemical, 1 Qianhao Chemical (Hebei) Co., Ltd, 2 Qualicaps, 18 Roquette, 14 Seppic, 4 Shanghai Shenmei Pharmaceutical Technology Co., Ltd, 10 Sigachi Industries, 4 The Dow Chemical Company, 2 Valens Pharmachem, 2 Vasa Pharmachem, 2 Vertellus
+EXCIPIENTS BY APPLICATIONS
+68 Coating Systems & Additives, 67 Fillers, Diluents & Binders, 41 Controlled & Modified Release, 33 Thickeners and Stabilizers, 30 Direct Compression, 24 Solubilizers, 20 Film Formers & Plasticizers, 20 Granulation, 19 Lubricants & Glidants, 19 Taste Masking, 18 Topical, 15 Parenteral, 15 Co-Processed Excipients, 11 Disintegrants & Superdisintegrants, 9 Empty Capsules, 9 Emulsifying Agents, 6 Rheology Modifiers, 6 Chewable & Orodispersible Aids, 5 API Stability Enhancers, 5 Coloring Agents, 4 Vegetarian Capsules, 4 Surfactant & Foaming Agents
+DIGITAL CONTENT
+5 DATA COMPILATION, 1 STOCK RECAP, 129 NEWS
+GLOBAL SALES INFORMATION
+5 US Medicaid Prescriptions, 232 Finished Drug Prices, 37 Annual Reports
+MARKET PLACE
+18 APIs, 17 FDF Dossiers, 1 EXCIPIENTS
+PATENTS & EXCLUSIVITIES
+53 US Patents, 5 US Exclusivities, 2 Health Canada Patents
+REF. STANDARDS & IMPURITIES
+2 EDQM, 4 USP, 13 Others
+ANALYTICAL
+3 BioAnalytical Methods
+
+SYNOPSIS
+
+ACTIVE PHARMA INGREDIENTS
+
+67
+
+API Suppliers
+
+24
+
+USDMF
+
+28
+
+CEP/COS
+
+7
+
+JDMF
+
+7
+
+EU WC
+
+15
+
+KDMF
+
+36
+
+NDC API
+
+0
+
+VMF
+
+42
+
+Listed Suppliers
+
+API REF. PRICE (USD/KG)
+$
+$ 3,431
+MARKET PLACE
+
+18
+
+API
+
+17
+
+FDF
+
+7INTERMEDIATES
+FINISHED DOSAGE FORMULATIONS
+
+613
+
+FDF Dossiers
+
+54
+
+FDA Orange Book
+
+429
+
+Europe
+
+23
+
+Canada
+
+19
+
+Australia
+
+35
+
+South Africa
+
+53
+
+Listed Dossiers
+
+72DRUGS IN DEVELOPMENT
+DRUG PRODUCT COMPOSITIONS
+REF. STANDARDS OR IMPURITIES
+
+2
+
+EDQM
+
+4
+
+USP
+
+0
+
+JP
+
+13
+
+Others
+
+PATENTS & EXCLUSIVITIES
+
+53
+
+US Patents
+
+5
+
+US Exclusivities
+
+2
+
+Health Canada Patents
+
+DIGITAL CONTENT
+
+5
+
+Data Compilation #PharmaFlow
+
+1
+
+Stock Recap #PipelineProspector
+
+0
+
+Weekly News Recap #Phispers
+
+129
+
+News #PharmaBuzz
+
+GLOBAL SALES INFORMATION
+
+US Medicaid (USD)
+
+2,014,814,297
+
+Annual Reports (USD Million)
+
+34,164
+
+Finished Drug Prices
+
+258 RELATED EXCIPIENT COMPANIES
+448EXCIPIENTS BY APPLICATIONS
+
+CHEMISTRY
+
+Click the arrow to open the dropdown
+Click the button for full data set
+
+API SUPPLIERS
+
+USDMF
+
+CEP/COS
+
+JDMF
+
+EU WC
+
+KDMF
+
+NDC API
+
+LISTED SUPPLIERS
+
+API REFERENCE PRICE
+
+DRUGS IN DEVELOPMENT
+
+INTERMEDIATES SUPPLIERS
+
+FDF DOSSIERS
+
+FDA ORANGE BOOK
+
+EUROPE
+
+CANADA
+
+AUSTRALIA
+
+SOUTH AFRICA
+
+LISTED DOSSIERS
+
+DRUG PRODUCT COMPOSITIONS
+
+DOSAGE - TABLET, EXTENDED RELEASE;ORAL - 9MG
+
+DOSAGE - AEROSOL, FOAM;RECTAL - 2MG/ACTUATION
+
+DOSAGE - SPRAY, METERED;NASAL - 0.032MG/SPRAY
+
+DOSAGE - SUSPENSION;INHALATION - 0.25MG/2ML
+
+DOSAGE - SUSPENSION;INHALATION - 0.5MG/2ML
+
+DOSAGE - SUSPENSION;INHALATION - 1MG/2ML
+
+DOSAGE - CAPSULE, DELAYED RELEASE;ORAL - 6MG
+
+DOSAGE - CAPSULE, DELAYED RELEASE;ORAL - 9MG
+
+DOSAGE - CAPSULE, DELAYED RELEASE;ORAL - 3MG
+
+DOSAGE - AEROSOL, METERED;INHALATION - 0.08MG...
+
+DOSAGE - AEROSOL, METERED;INHALATION - 0.16MG...
+
+RELATED EXCIPIENT COMPANIES
+
+Evonik
+
+Rochem International Inc
+
+SPI Pharma
+
+Seqens
+
+DKSH
+
+Faran Shimi Pharmaceutical
+
+Gangwal Healthcare
+
+Nanjing Well Pharmaceutical
+
+Pfanstiehl
+
+ACG Worldwide
+
+Actylis
+
+Aeon Procare
+
+Alcedo Pharmachem
+
+Anhui Sunhere Pharmaceutical Excipients Co.,Ltd
+
+BASF
+
+Clariant
+
+Corel Pharma Chem
+
+DFE Pharma
+
+Doshion Polyscience
+
+Finar
+
+Gangwal Chemicals
+
+Ideal Cures Pvt Ltd
+
+Ingredion Pharma Solutions
+
+Kerry
+
+Kima Chemical
+
+Lonza Capsugel
+
+Microlex e.U
+
+Nanjing Bold Chemical
+
+Nomisma Healthcare
+
+Novo Excipients
+
+Pharmatrans-Sanaq
+
+Pluviaendo
+
+Prachin Chemical
+
+Qianhao Chemical (Hebei) Co., Ltd
+
+Qualicaps
+
+Roquette
+
+Seppic
+
+Shanghai Shenmei Pharmaceutical Technology Co., Ltd
+
+Sigachi Industries
+
+The Dow Chemical Company
+
+Valens Pharmachem
+
+Vasa Pharmachem
+
+Vertellus
+
+EXCIPIENTS BY APPLICATIONS
+
+Coating Systems & Additives
+
+Fillers, Diluents & Binders
+
+Controlled & Modified Release
+
+Thickeners and Stabilizers
+
+Direct Compression
+
+Solubilizers
+
+Film Formers & Plasticizers
+
+Granulation
+
+Lubricants & Glidants
+
+Taste Masking
+
+Topical
+
+Parenteral
+
+Co-Processed Excipients
+
+Disintegrants & Superdisintegrants
+
+Empty Capsules
+
+Emulsifying Agents
+
+Rheology Modifiers
+
+Chewable & Orodispersible Aids
+
+API Stability Enhancers
+
+Coloring Agents
+
+Vegetarian Capsules
+
+Surfactant & Foaming Agents
+
+DIGITAL CONTENT
+
+DATA COMPILATION #PharmaFlow
+
+STOCK RECAP #PipelineProspector
+
+NEWS #PharmaBuzz
+
+GLOBAL SALES INFORMATION
+
+US MEDICAID PRESCRIPTIONS
+
+FINISHED DRUG PRICES
+
+ANNUAL REPORTS
+
+MARKET PLACE
+
+APIs
+
+FDF DOSSIERS
+
+EXCIPIENTS
+
+PATENTS & EXCLUSIVITIES
+
+US PATENTS
+
+US EXCLUSIVITIES
+
+HEALTH CANADA PATENTS
+
+REF. STANDARDS & IMPURITIES
+
+EDQM
+
+USP
+
+OTHERS
+
+ANALYTICAL
+
+BIOANALYTICAL METHODS
+
+ABOUT THIS PAGE
+
+Privacy policy
+Terms and conditions
+Disclaimers
+
+LOOKING FOR A SUPPLIER?
+ 
+ 
+ ----- 
+ Source link : https://www.pharmacompass.com/active-pharmaceutical-ingredients/budesonide 
+ ----- 

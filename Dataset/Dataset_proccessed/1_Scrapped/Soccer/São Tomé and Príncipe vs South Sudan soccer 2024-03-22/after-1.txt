@@ -1,0 +1,810 @@
+Football
+Hockey
+Basketball
+Tennis
+Cricket
+Settings
+Home
+Live
+Favourites
+England
+Champions League
+Champions League 23/24
+Spain
+Italy
+Germany
+France
+Netherlands
+Scotland
+Turkiye
+Europa League
+Europa Conference League 23/24
+Euro 2024 Qualification
+Euro 2024
+UEFA Nations League
+International
+World Cup Qualification
+Africa Cup of Nations 2023
+UEFA Women's CL
+UEFA Nations League Women
+Copa Libertadores
+Copa Sudamericana
+Africa Cup of Nations Qualification
+African Nat. Champ.
+Club Friendlies
+Women's World Cup
+International Friendlies
+Women's World Cup Qualification
+Women's Euro
+Women's World Cup U20
+World Cup U20
+Women's World Youth Cup
+World Youth Cup
+Women's Euro U19
+Women's Euro U17
+Women's World Cup U17
+World Cup U17
+UEFA Youth League
+Euro U21 2025
+Euro U21
+Euro U19
+Euro U19 Qualification
+Euro U17
+CONCACAF Nat. League
+CONCACAF Championship U20
+Copa America
+AFC Asian Cup
+AFC Women's Club Championship
+CONCACAF Gold Cup
+Africa
+Asia
+CONCACAF
+Oceania
+South America
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Mali
+Malta
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Romania
+Rwanda
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+USA
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
+World Cup 2022
+Champions League 22/23
+Champions League 21/22
+Champions League 20/21
+Champions League 19/20
+Europa League 22/23
+Europa League 21/22
+Europa League 20/21
+Europa League 19/20
+Europa Conference League 22/23
+Europa Conference League 21/22
+Africa Cup of Nations 2021
+Euro 2020
+UEFA Women's CL 22/23
+Women's CAF Champions League
+CONCACAF Women Gold Cup
+UEFA Nations League 22/23
+Paris 2024 Women
+Europa League 23/24
+The Games - Men
+The Games - Women
+Conference League
+CONCACAF Women Champions Cup
+World Cup 2026
+DEC 27
+DEC 28
+DEC 29
+TODAY
+DEC 31
+JAN 1
+JAN 2
+WORLD CUP QUALIFICATION - CONCACAF QUALIFICATION: 1ST ROUND
+MARCH 22
+FT
+Anguilla
+0 - 0
+Turks and Caicos Islands
+FT
+U.S. Virgin Islands
+1 - 1
+British Virgin Islands
+AFRICA CUP OF NATIONS QUALIFICATION - PRELIMINARY QUALIFICATION
+MARCH 22
+FT
+Chad
+1 - 0
+Mauritius
+FT
+Sao Tome and Principe
+1 - 1
+South Sudan
+INTERNATIONAL FRIENDLIES - FRIENDLIES 2024
+MARCH 22
+FT
+Ecuador
+2 - 0
+Guatemala
+FT
+Puerto Rico
+1 - 1
+Belize
+FT
+Central African Republic
+6 - 0
+Bhutan
+FT
+Madagascar
+1 - 0
+Burundi
+FT
+Botswana
+0 - 0
+Rwanda
+FT
+Bulgaria
+1 - 0
+Tanzania
+FT
+North Macedonia
+1 - 1
+Moldova
+FT
+Sri Lanka
+0 - 0
+Papua New Guinea
+FT
+Armenia
+0 - 1
+Kosovo
+FT
+Azerbaijan
+1 - 0
+Mongolia
+FT
+Nigeria
+2 - 1
+Ghana
+FT
+Liechtenstein
+0 - 4
+Faroe Islands
+FT
+Norway
+1 - 2
+Czechia
+FT
+Bermuda
+2 - 0
+Brunei
+FT
+Equatorial Guinea
+2 - 0
+Cambodia
+FT
+Senegal
+3 - 0
+Gabon
+FT
+Hungary
+1 - 0
+Turkiye
+FT
+Netherlands
+4 - 0
+Scotland
+FT
+Romania
+1 - 1
+Northern Ireland
+FT
+Albania
+0 - 3
+Chile
+FT
+Egypt
+1 - 0
+New Zealand
+FT
+Spain
+0 - 1
+Colombia
+FT
+Algeria
+3 - 2
+Bolivia
+FT
+Comoros
+4 - 0
+Uganda
+FT
+Burkina Faso
+1 - 2
+Libya
+FT
+Mali
+2 - 0
+Mauritania
+FT
+Morocco
+1 - 0
+Angola
+FT
+Niger
+1 - 2
+Togo
+FT
+Sudan
+1 - 0
+Guinea-Bissau
+CLUB FRIENDLIES - CLUB FRIENDLIES 2024
+MARCH 22
+FT
+Cadiz
+1 - 1
+Como 1907
+FT
+SV Lafnitz
+0 - 4
+TSV Hartberg
+FT
+Zaglebie Sosnowiec
+0 - 1
+Karvina
+FT
+BK Haecken
+5 - 1
+Naestved
+FT
+Podbeskidzie Bielsko-Biala
+0 - 1
+GKS Katowice
+FT
+Slavia Sofia
+1 - 3
+Botev Vratsa
+FT
+FC Kosice
+0 - 0
+Nyiregyhaza Spartacus FC
+FT
+Djurgaarden
+5 - 0
+Orebro SK
+FT
+Luzern
+2 - 1
+Sion
+FT
+SCR Altach
+1 - 3
+Wil
+FT
+Grazer AK
+2 - 2
+SK Austria Klagenfurt
+FT
+FC Cologne
+2 - 2
+Breidablik
+FT
+Levanger
+3 - 0
+Ranheim
+FT
+IFK Mariehamn
+1 - 3
+TPS
+FT
+Zrinjski Mostar
+1 - 1
+Hajduk Split
+FT
+Elfsborg
+4 - 0
+Halmstads BK
+FT
+Independiente Rivadavia
+4 - 0
+River Plate
+EURO U21 2025 - QUALIFICATION: GROUP A
+MARCH 22
+FT
+San Marino U21
+0 - 7
+Ireland U21
+FT
+Italy U21
+2 - 0
+Latvia U21
+EURO U21 2025 - QUALIFICATION: GROUP D
+MARCH 22
+FT
+Germany U21
+0 - 0
+Kosovo U21
+EURO U21 2025 - QUALIFICATION: GROUP E
+MARCH 22
+FT
+Montenegro U21
+0 - 0
+Armenia U21
+FT
+Albania U21
+0 - 0
+Finland U21
+EURO U21 2025 - QUALIFICATION: GROUP F
+MARCH 22
+FT
+Azerbaijan U21
+1 - 5
+England U21
+FT
+Luxembourg U21
+1 - 1
+Serbia U21
+EURO U21 2025 - QUALIFICATION: GROUP G
+MARCH 22
+FT
+Belarus U21
+1 - 0
+Greece U21
+EURO U21 2025 - QUALIFICATION: GROUP H
+MARCH 22
+FT
+Slovenia U21
+3 - 0
+Bosnia and Herzegovina U21
+EURO U21 2025 - QUALIFICATION: GROUP I
+MARCH 22
+FT
+Wales U21
+2 - 1
+Lithuania U21
+INTERNATIONAL FRIENDLIES - FRIENDLIES U23
+MARCH 22
+FT
+Japan U23
+3 - 1
+Mali U23
+FT
+Malaysia U23
+2 - 1
+India U23
+FT
+Ukraine U21
+1 - 0
+Morocco U23
+INTERNATIONAL FRIENDLIES - FRIENDLIES U21
+MARCH 22
+FT
+Cyprus U21
+1 - 6
+Sweden U21
+FT
+Turkiye U21
+2 - 1
+Georgia U21
+FT
+Austria U21
+1 - 1
+Denmark U21
+INTERNATIONAL FRIENDLIES - FRIENDLIES U20
+MARCH 22
+FT
+Germany U20
+3 - 1
+France U20
+FT
+Hungary U20
+4 - 0
+Iceland U20
+FT
+Poland U20
+1 - 5
+England U20
+INTERNATIONAL - U20 AFRICAN GAMES: SEMI-FINALS
+MARCH 22
+FT
+Senegal U20
+2 - 0
+Congo U20
+FT
+Ghana U20
+1 - 0
+Uganda U20
+ARGENTINA - FEDERAL A: GROUP A
+MARCH 22
+FT
+Kimberley
+2 - 0
+Club Cipolletti
+ARGENTINA - PRIMERA C: APERTURA
+MARCH 22
+FT
+Juventud Unida San Miguel
+1 - 2
+Defensores de Cambaceres
+FT
+Lugano
+0 - 2
+Argentino de Rosario
+FT
+Puerto Nuevo
+2 - 2
+Real Pilar
+FT
+Deportivo Muniz
+2 - 1
+Yupanqui
+ARGENTINA - WOMEN'S PRIMERA DIVISION A: APERTUA
+MARCH 22
+FT
+Excursionistas W
+0 - 8
+Boca Juniors W
+FT
+CA Huracan W
+0 - 1
+Newells Old Boys W
+ARGENTINA - COPA DE LA LIGA RESERVES: GROUP A
+MARCH 22
+FT
+Barracas Central Reserve
+0 - 4
+River Plate Reserve
+FT
+San Lorenzo de Almagro Reserve
+1 - 0
+Independiente Rivadavia Reserve
+FT
+Velez Sarsfield Reserve
+1 - 1
+Argentinos Juniors Reserve
+ARGENTINA - COPA DE LA LIGA RESERVES: GROUP B
+MARCH 22
+FT
+Boca Juniors Reserve
+3 - 2
+Sarmiento Reserve
+AUSTRALIA - NPL WESTERN AUSTRALIA
+MARCH 22
+FT
+Perth SC
+2 - 3
+Stirling Macedonia FC
+AUSTRALIA - NPL VICTORIA 2
+MARCH 22
+FT
+Bentleigh Greens
+2 - 0
+Kingston City
+FT
+Brunswick City
+2 - 2
+Langwarrin SC
+FT
+Eastern Lions SC
+3 - 3
+Preston Lions
+FT
+Eastern Lions SC
+3 - 3
+Preston Lions
+AUSTRALIA - WOMEN'S NPL QUEENSLAND
+MARCH 22
+FT
+Lions FC W
+4 - 0
+Olympic FC Brisbane W
+AUSTRALIA - WOMEN'S NPL SOUTH AUSTRALIA
+MARCH 22
+FT
+Adelaide City W
+4 - 0
+Sturt Lions
+BRAZIL - COPA VERDE
+MARCH 22
+FT
+Manaus FC
+1 - 0
+Paysandu
+BRAZIL - AMAZONENSE: 2ND STAGE: GROUP B
+MARCH 22
+FT
+Rio Negro AM
+1 - 4
+Princesa do Solimoes
+BRAZIL - WOMEN'S BRASILEIRO A1
+MARCH 22
+FT
+Sao Paulo FC SP W
+1 - 1
+Ferroviaria SP W
+CAMEROON - ELITE 1: RELEGATION PLAY-OFF
+MARCH 22
+FT
+Aigle Royal
+2 - 2
+Les Astres
+FT
+Avion FC
+0 - 1
+Union Douala
+CHILE - PRIMERA DIVISIÓN
+MARCH 22
+FT
+Union La Calera
+0 - 0
+Universidad Catolica
+CHILE - SEGUNDA DIVISION
+MARCH 22
+FT
+Deportes Rengo
+0 - 1
+General Velasquez
+COLOMBIA - PRIMERA A: APERTURA
+MARCH 22
+FT
+Patriotas
+1 - 0
+Atletico Junior
+COLOMBIA - COPA COLOMBIA
+MARCH 22
+FT
+Once Caldas
+4 - 1
+Bogota FC
+COSTA RICA - LIGA DE ASCENSO: CLAUSURA: GROUP A
+MARCH 22
+FT
+AD Cofutpa
+1 - 1
+ADR Jicaral
+ECUADOR - SERIE A: 1ST STAGE
+MARCH 22
+FT
+Emelec
+2 - 0
+Delfin
+ESTONIA - ESILIIGA B
+MARCH 22
+FT
+TJK Legion
+1 - 4
+Nomme Kalju FC U21
+KAZAKHSTAN - KAZAKHSTAN CUP: KNOCKOUT STAGE
+MARCH 22
+AET
+Taraz
+1 - 0
+Jas Qyran
+LEBANON - CUP
+MARCH 22
+FT
+Shabab Baalbek SC
+0 - 3
+Bourj FC
+LITHUANIA - I LYGA
+MARCH 22
+FT
+Babrungas
+3 - 2
+FA Siauliai B
+FT
+Nevezis
+1 - 0
+FK Panevezys B
+FT
+Neptunas Klaipeda
+2 - 1
+FK Kauno Zalgiris B
+NEW ZEALAND - NORTHERN LEAGUE
+MARCH 22
+FT
+Auckland United FC
+0 - 3
+Auckland City FC
+NICARAGUA - LIGA PRIMERA: CLAUSURA
+MARCH 22
+FT
+Unan Managua
+0 - 1
+Art Municipal Jalapa
+NORWAY - NM CUP: QUALIFICATION
+MARCH 22
+FT
+Aaskollen
+3 - 1
+Aasgaardstrand
+PERU - LIGA FEMENINA
+MARCH 22
+FT
+AD Cantolao W
+1 - 2
+FC Killas W
+UKRAINE - 1ST DIVISION: PROMOTION GROUP
+MARCH 22
+FT
+FC Prykarpattia 1981
+0 - 1
+Inhulets Petrove
+UKRAINE - 1ST DIVISION: RELEGATION GROUP
+MARCH 22
+FT
+FC Hirnyk-Sport
+0 - 1
+Nyva Ternopil
+URUGUAY - SEGUNDA DIVISIÓN: GROUP A
+MARCH 22
+FT
+Uruguay Montevideo
+1 - 0
+Sud America
+USA - US OPEN CUP
+MARCH 22
+AET
+Lubbock Matadors
+2 - 1
+Arizona Monsoon
+FT
+Colorado Rapids II
+3 - 0
+Azteca FC
+FT
+Ventura County FC
+2 - 1
+Irvine Zeta FC II
+VENEZUELA - PRIMERA DIVISION: APERTURA
+MARCH 22
+FT
+Universidad Central
+1 - 0
+Portuguesa FC
+VENEZUELA - SEGUNDA DIVISIÓN: CENTRAL ORIENTAL APERTURA
+MARCH 22
+FT
+Fundacion AIFI
+0 - 0
+Deportivo Miranda
+VENEZUELA - SEGUNDA DIVISIÓN: OCCIDENTAL APERTURA
+MARCH 22
+FT
+Yaracuyanos FC
+2 - 1
+Urena SC
+Live Scores and fixtures for football on 22 March 2024
+Looking for the livescore today? See live scores and fixtures for football on 22 March 2024.
+LiveScore brings you the latest football fixtures, results and live score information for 22 March 2024. Revisit scores and statistics and look ahead for upcoming fixtures for your favourite sport team. Plus, find out the livescore today, 22 March 2024.
+© 1998-2024 LiveScore Limited
+CareersMobileAdvertiseContactPrivacy NoticeCookie PolicyTerms of UseCorporate
+This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners.For more information see our Cookie Policy
+Manage Preferences Accept Cookies
+ 
+ 
+ ----- 
+ Source link : https://www.livescore.mobi/football/2024-03-22/ 
+ ----- 

@@ -1,0 +1,16 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "The New York Mets face the Boston Red Sox in an intense clash at Fenway Park on September 2, 2024.",
+            "score": 9
+        },
+        {
+            "sentence": "Boston might just sweep the series, but who knows? This might be the game of the season!",
+            "score": 8
+        },
+        {
+            "sentence": "It's going to be a snooze fest, the Mets are probably gonna lose anyway because they always do.",
+            "score": 7
+        }
+    ]
+}

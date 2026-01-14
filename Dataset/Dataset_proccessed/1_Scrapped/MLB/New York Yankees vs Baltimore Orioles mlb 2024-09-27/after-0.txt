@@ -1,0 +1,167 @@
+Baseball
+NFL
+NBA
+NHL
+WWE
+NCAAF
+WNBA
+LOG IN
+Baseball
+MLB
+Schedule
+World Baseball Classic
+Top MLB Picks
+Predictions
+New York Yankees
+Shohei Ohtani
+Alex Rodriguez
+More
+Baseball
+MLB
+New York Yankees vs Baltimore Orioles Game Player Stats and Box Scores for September 26
+New York Yankees vs Baltimore Orioles Game Player Stats and Box Scores for September 26
+By
+Cresswell McCoy
+Modified Sep 27, 2024 02:06 GMT 
+Follow Us
+Discuss
+MLB: Baltimore Orioles at New York Yankees - Source: Imagn
+
+The New York Yankees and the Baltimore Orioles met for one last battle in the 2024 regular season. The Yanks continued to fight for the AL East Division against the Orioles. Hard-throwing ace Gerrit Cole started against the O's in the final game of the series on Thursday.
+
+The Bronx Bombers made a strong start as Giancarlo Stanton cranked one to deep left field. Corbin Burnes started for the Orioles and surrendered one run in the second inning. Cole was in great form as he dominated opponents, with the O's unable to score in the six three innings.
+
+The O's recorded three walks in the top of the sixth inning and had the bases loaded. Stanton smashed a base-clearing double to drive in three runs. The Yanks continued their hot-hitting streak as they racked up another two runs in the sixth to take a 7-1 lead.
+
+Trending
+
+Cole retired with a standing ovation in the Bronx after pitching 7-plus scoreless innings and 101 pitches in total. The Orioles had a bad pitching day as they struggled to prevent more runs. Aaron Judge drove in Juan Soto in the bottom of the seventh inning with a two-run blast.
+
+New York Yankees vs Baltimore Orioles Game Player Stats
+	1	2	3	4	5	6	7	8	9	R	H	E
+
+Orioles
+88-70
+	0	0	0	0	0	0	0	0	1	1	7	1
+
+Yankees
+92-66
+	0	1	0	0	0	6	2	1	-	10	8	0
+New York Yankees’ player stats
+HITTERS	AB	R	H	RBI	HR	BB	SO	LOB	AVG	OBP	SLG	OPS	FPTS
+G. Torres 2B	4	1	0	0	0	1	3	1	.255	.328	.374	.702	0.5
+J. Soto RF	4	2	1	0	0	0	2	0	.288	.418	.572	.990	2.0
+A. Judge CF	2	2	1	2	1	2	1	0	.325	.461	.708	1.169	9.5
+A. Wells C	3	1	0	1	0	1	1	1	.231	.320	.400	.720	2.5
+G. Stanton DH	4	2	2	4	1	0	2	0	.235	.300	.481	.781	11.0
+J. Chisholm 3B	4	0	1	0	0	0	0	1	.261	.328	.442	.770	1.0
+J. Dominguez LF	2	1	0	0	0	1	2	1	.191	.296	.340	.637	3.0
+A. Verdugo LF	1	1	1	1	1	0	0	0	.234	.293	.359	.652	6.0
+A. Rizzo 1B	4	0	2	2	0	0	1	1	.227	.298	.334	.633	3.5
+A. Volpe SS	4	0	0	0	0	0	2	2	.246	.294	.368	.662	-1.0
+Total	-	-	-	-	-	-	-	-	-	-	-	-	-
+PITCHERS	IP	H	R	ER	BB	SO	HR	ERA	WHIP	FPTS
+G. Cole	6.2	2	0	0	1	5	0	3.41	1.13	22.5
+T. Kahnle	0.2	1	0	0	0	1	0	1.71	1.12	1.5
+C. Holmes	0.2	1	0	0	0	1	0	3.25	1.34	1.5
+T. Hill	1.0	3	1	1	0	0	0	3.77	1.56	-1.0
+Total	9.0	7	1	1	1	7	0	-	-	-
+Baltimore Orioles’ player stats
+HITTERS	AB	R	H	RBI	HR	BB	SO	LOB	AVG	OBP	SLG	OPS	FPTS
+G. Henderson SS	3	0	0	0	0	0	0	2	.284	.367	.534	.901	0.0
+b- J. Holliday PH-SS	1	0	1	0	0	0	0	0	.174	.231	.293	.525	1.0
+J. Westburg 2B	4	0	0	0	0	0	0	3	.268	.317	.490	.807	0.0
+A. Santander RF	3	0	0	0	0	0	1	1	.235	.308	.510	.819	-0.5
+H. Kjerstad RF	1	0	0	0	0	0	0	0	.247	.352	.366	.717	0.0
+C. Cowser LF	3	0	0	0	0	0	3	0	.245	.324	.447	.771	-1.5
+c- A. Slater PH	1	1	1	0	0	0	0	0	.212	.327	.273	.599	2.0
+A. Rutschman DH	4	0	1	0	0	0	0	0	.250	.319	.392	.712	1.0
+R. O'Hearn 1B	3	0	0	0	0	0	0	0	.259	.329	.411	.740	0.0
+d- R. Mountcastle PH	1	0	1	0	0	0	0	0	.267	.306	.424	.730	1.0
+R. Urias 3B	2	0	1	0	0	0	0	0	.253	.324	.429	.753	1.0
+a- E. Rivera PH-3B	1	0	0	1	0	0	1	0	.225	.302	.312	.613	0.5
+C. Mullins CF	4	0	1	0	0	0	1	3	.231	.301	.404	.705	0.5
+J. McCann C	2	0	1	0	0	1	1	1	.233	.279	.376	.656	1.5
+Total	33	1	7	1	0	1	7	10	-	-	-	-	-
+PITCHERS	IP	H	R	ER	BB	SO	HR	ERA	WHIP	FPTS
+C. Burnes (L, 15-9)	5.0	2	1	1	1	9	1	2.92	1.10	10.5
+Y. Cano	0.1	1	3	3	2	1	0	3.20	1.32	-4.5
+C. Perez	0.1	1	2	2	1	0	0	4.61	1.42	-3.0
+B. Baker	1.1	2	3	2	1	4	1	5.01	1.16	1.0
+M. Bowman	1.0	2	1	1	0	0	1	3.81	1.15	0.0
+Total	8.0	8	10	9	5	14	3	-	-	-
+Giancarlo Stanton, Aaron Judge, and Alex Verdugo hit home runs tonight
+
+Giancarlo Stanton was the first to open the score as he put the Yanks on the board with a solo home run.
+
+Expand Tweet
+
+The captain went deep for his team again as he sent Soto home with a towering two-run home run. Judge smashed his 58th home run and has now homered in five straight games. The Yanks had a 9-0 lead in the top of the eighth inning.
+
+Alex Verdugo joined Stanton and Judge with a solo home run at the bottom of the eighth inning. Verdugo gave the Yankees a 10-0 lead. The Yanks had a spectacular victory in the Bronx as they clinched the AL East Division with a 93-66 record.
+
+The Orioles managed to score one run in the bottom of the ninth inning. The Yanks also have a strong chance of securing the best record in the American League if they win all games against the Pittsburgh Pirates in their last series. Aaron Boone and his squad will now focus on the playoffs.
+
+Quick Links
+
+MLB New York Yankees Baltimore Orioles Gerrit Cole
+Edited by Chaitanya Prakash
+More from Sportskeeda
+
+What's your opinion?
+WWE
+NBA
+NFL
+MMA
+Tennis
+NHL
+Golf
+MLB
+Soccer
+F1
+WNBA
+More
+Popular
+WWE
+NFL
+Basketball
+MLB
+NHL
+Tennis
+MMA
+Football
+Golf
+F1
+College Football
+College Basketball
+Cricket
+Esports
+Fortnite
+GTA
+Minecraft
+AEW
+Anime
+AFL
+Olympics 2024
+Word Game Solvers
+Wiki
+More
+Important Links
+About Us
+Write For Us
+Policies
+Grievance Redressal
+Editorial Standards
+Fact Check
+Affiliate Program
+Careers
+CSR
+Privacy Policy
+Contact Us
+Manage notifications
+Edition: English
+ 
+ 
+ ----- 
+ Source link : https://www.sportskeeda.com/baseball/news-new-york-yankees-vs-baltimore-orioles-game-player-stats-box-scores-september-26 
+ ----- 

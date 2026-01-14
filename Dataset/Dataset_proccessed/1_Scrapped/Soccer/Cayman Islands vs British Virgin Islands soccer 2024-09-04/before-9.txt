@@ -1,0 +1,1174 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Precision AR -15 10 shot moa groups
+ 
+Thread starter
+Rimfire77  
+Start date
+Sep 2, 2024
+1
+	
+2
+Next
+Rimfire77
+Private
+Minuteman
+Feb 9, 2024
+8
+5
+Tennessee
+Sep 2, 2024
+#1
+So I put together a non clone correct SPR type upper and have been struggling to get the groups I had hoped for. Trying to get some feedback from some more seasoned shooters regarding gas gun accuracy shooting. I mainly have shot bolt action when trying for precision and so I’m not sure what to expect realistically. I’m trying to do some basic load development using 77 gr OTM from Mid South Shooters. I’m loading new Starline brass with Varget and CCI 400 primers. Rifle is 18 inch PRI Douglas stainless MK 12 barrel 1:8 twist Geissele Mark 18 Arca handguard on BCM upper receiver matched to my BCM lower with Geissele 2 stage trigger. Using B5 Sopmod stock with a bag rider. Shooting prone with bipod on front and rear bag. Optic is Meopta Optika 6 3-18X 50 in ADM Recon mount. taking my time and shooting groups at 100 yards, checking all the boxes of solid position, breathing, trigger control, follow through,ect…most groups have been larger than moa. I have one sub moa 10 shot group so far in 200 rounds of attempting my best. I can shoot in the 3’s with my Tikka CTR 308, but don’t know what the deal is so far with this gun ammo optic and shooter combination. Any thoughts? Maybe I should try some 75 gr Hornady or some 69 SMK, but not really blown away so far with this barrel. I’m not saying it’s not just me shooting poorly. I hear a lot of people online claiming 1/2 moa groups with precision gas guns so I’m thinking I have a dud, but then I watch 9 hole reviews comparing a PRI douglas to a BCM 18 inch 1:8 and their best 9 shot group was 1.3 inches with factory Match ammo…I’m fairly new to precision shooting, reloading and especially precision gas guns, so what’s some thoughts dudes of the more seasoned variety? What should I focus on?
+ 
+V
+VargmatII
+Gunny Sergeant
+Full Member
+Minuteman
+Sep 16, 2020
+525
+903
+Southern Sweden
+Sep 2, 2024
+#2
+I am new to gas guns too. For the better part of 10 years my poison has been precision rifles with an incline for long range shooting. Which led me to start compeating in field shooting. This was the only way to stretch out to and sometimes beyond 1000 meters.
+With my fully decked out Sako TRG 22 I was able to shoot about 0.5 moa back to back with handloads. With my new AR, not so much...
+
+For the past year, I have dived into gas guns and have tried alot of stuff to get things going. The difference from a tuning fork stiff TRG to an AR with some play here and there has been detrimental at times. That and the fact that the locktime on an AR is completly different to that of a precision bolt rifle.
+I have been able to go down to 1.1-1.2 MOA groups at 100 meters at times. But no where near on a regular basis, around 1.5 MOA would be closer to the truth. But I am thinking that this is the nature of the beast. An AR was never ment to be a TRG, and never will be.
+I am however still curious to just how tight I can get my AR to shoot. Thats why I ordered a WOA SPR barrel for it, and I think it will get here this week.
+
+My AR is pretty much a faux Mk12 mod H as it is. But will get a 18" barrel with rifle lenght gas now when the WOA gets here. I have also shot friends DD Mk12, DD M4pro, IWI Zion SPR and a few others. My roundcount is just below 2000 rounds shooting ARs since this past october.
+
+Will report back as soon as possible.
+ 
+Last edited: Sep 3, 2024
+ 
+Reactions:
+Rimfire77, Jsp556 and simonp
+sinister
+Rifle Pointer
+Full Member
+Minuteman
+Apr 16, 2002
+2,704
+2,099
+Midland, Georgia
+Sep 3, 2024
+#3
+Take off the bipod and shoot off of bags.
+
+The longer lock time of an AR hammer trigger compared to a striker-fired bolt action is enough to throw off new precision AR shooters. Couple that with a wobbly bipod and you're giving away stability.
+ 
+ 
+Reactions:
+PappyM3, hkguns, matt33 and 7 others
+V
+VargmatII
+Gunny Sergeant
+Full Member
+Minuteman
+Sep 16, 2020
+525
+903
+Southern Sweden
+Sep 3, 2024
+#4
+sinister said:
+Take off the bipod and shoot off of bags.
+
+The longer lock time of an AR hammer trigger compared to a striker-fired bolt action is enough to throw off new precision AR shooters. Couple that with a wobbly bipod and you're giving away stability.
+That did make a difference before I got the PRI parts. PRIs forend is stiff enough to handle a bipod.
+
+Will shoot some more from bags with the new barrel.
+ 
+E
+ekaphoto
+Private
+Full Member
+Minuteman
+Jan 12, 2006
+67
+36
+Northern California
+Sep 3, 2024
+#5
+Here is a good head start. This guy is good
+
+
+https://ultimatereloader.com/2022/02/13/re-creating-bergers-amazing-77-otm-223-load/
+
+With your shooting concentrate on your follow through and watch the improvement. Also have a buddy that really knows how to shoot try it. If he gets the same results you know it is the ammo or the rifle. Remember change one thing at a time.
+ 
+ 
+Reactions:
+Jsp556, camocorvette and sinister
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,142
+5,632
+SLC, Utah
+Sep 3, 2024
+#6
+How was your barrel installed?
+
+If your expectations are to shoot 10 rounds into MOA or less.....
+
+Your upper receiver should have a square face and tight barrel extension tunnel, which are pretty standard for BCM, but I would prefer a different upper and handguard combo than the one you have, even though both of those companies are great and staples for me for other things.
+
+Use an upper/handguard combo that doesn’t touch the barrel nut. LaRue, Seekins, and Ridgeline Defense make upper/handguard combos that fit this description and eliminate contact between the barrel nut and the handguard.
+
+If you really want to achieve this, have a precision rifle builder or exceptional machinist true-up your barrel nut, barrel extension, and bolt so there are no variations in squareness of lug engagement and bolt face orientation to the chamber.
+
+Consider using a match bolt carrier with adjustable guides on the tail so the carrier stays almost perfectly true inside the raceway and RET as it cycles.
+
+Bed the barrel into the extension tunnel either with a thermal fit or Green Loc-tite.
+
+Since your barrel is a heavier profile, use less torque in the 35-40ft-lbs region to where it "feels dull", not like a tuning fork when you tap on the barreled upper. You’ll want the mating of the barrel and upper to be dampened, not resonant. If the barreled upper resonates like a tuning fork, it will encourage more deviant harmonics that will increase the likelihood of larger grouping.
+
+Make sure your muzzle device has little or no torque when installed, as this can slightly warp the last .625” of the bore. Do you have a Mk.12 collar brake for the AEM suppressor?
+
+To chase extreme precision with 10rd groups, it might be better to get a heavier bull profile barrel, a Bartlein or Krieger, turned and chambered by one of the few people who know what they’re doing. Use a longer gas system and tune the gas so that you have reliable function, but not such secondary reciprocating mass effects that the rifle breaks your position with each shot.
+
+If you can find one, get an Alexander Arms tri-lobal firing pin that doesn’t drag inside of the FP channel like a normal AR firing pin.
+
+If you can’t find one, you can use a JP Titanium FP, but just understand that Ti FPs don’t hold up to high volume well without special surface treatments. They are notorious for pitting, and then piercing primers. But for limited sessions, it will help reduce lock time.
+
+Use balanced torque on your ring fasteners and cross bolts on the scope mount. A torque wrench will help you measure each fastener torque value and ensure each is the same.
+
+Use a Geissele High-Speed National Match trigger adjusted so it doesn’t double on you.
+
+Use a Magpul PRS stock with the cheek piece set up so you have no facial muscle twitching or need to adjust your head when behind the scope.
+
+Do what Sinister said and ditch the bipod supported position. You’re already doing well with that as it is.
+
+Get a Bulls Bag and tuck it up close to the magazine well, with the handguard nestled into it really well.
+
+
+
+Use a good rear bag that allows you to adjust, but maintains good stability on the back end.
+
+Load the Sierra 69gr SMK on top of Varget using CCI 450s, Rem 7 1/2, or Fed GM205AR, in weighed and sorted Lapua brass, all uniformed.
+
+You’re basically going to need to build a rifle specifically for shooting extremely tight 10rd groups.
+
+The above formula will get you on your way to chasing that in the AR-15.
+ 
+ 
+Reactions:
+Kalani Laker, Coffee_and_Pipes, Boatninja and 9 others
+Rimfire77
+Private
+Minuteman
+Feb 9, 2024
+8
+5
+Tennessee
+Sep 3, 2024
+#7
+LRRPF52 said:
+How was your barrel installed?
+
+If your expectations are to shoot 10 rounds into MOA or less.....
+
+Your upper receiver should have a square face and tight barrel extension tunnel, which are pretty standard for BCM, but I would prefer a different upper and handguard combo than the one you have, even though both of those companies are great and staples for me for other things.
+
+Use an upper/handguard combo that doesn’t touch the barrel nut. LaRue, Seekins, and Ridgeline Defense make upper/handguard combos that fit this description and eliminate contact between the barrel nut and the handguard.
+
+If you really want to achieve this, have a precision rifle builder or exceptional machinist true-up your barrel nut, barrel extension, and bolt so there are no variations in squareness of lug engagement and bolt face orientation to the chamber.
+
+Consider using a match bolt carrier with adjustable guides on the tail so the carrier stays almost perfectly true inside the raceway and RET as it cycles.
+
+Bed the barrel into the extension tunnel either with a thermal fit or Green Loc-tite.
+
+Since your barrel is a heavier profile, use less torque in the 35-40ft-lbs region to where it "feels dull", not like a tuning fork when you tap on the barreled upper. You’ll want the mating of the barrel and upper to be dampened, not resonant. If the barreled upper resonates like a tuning fork, it will encourage more deviant harmonics that will increase the likelihood of larger grouping.
+
+Make sure your muzzle device has little or no torque when installed, as this can slightly warp the last .625” of the bore. Do you have a Mk.12 collar brake for the AEM suppressor?
+
+To chase extreme precision with 10rd groups, it might be better to get a heavier bull profile barrel, a Bartlein or Krieger, turned and chambered by one of the few people who know what they’re doing. Use a longer gas system and tune the gas so that you have reliable function, but not such secondary reciprocating mass effects that the rifle breaks your position with each shot.
+
+If you can find one, get an Alexander Arms tri-lobal firing pin that doesn’t drag inside of the FP channel like a normal AR firing pin.
+
+If you can’t find one, you can use a JP Titanium FP, but just understand that Ti FPs don’t hold up to high volume well without special surface treatments. They are notorious for pitting, and then piercing primers. But for limited sessions, it will help reduce lock time.
+
+Use balanced torque on your ring fasteners and cross bolts on the scope mount. A torque wrench will help you measure each fastener torque value and ensure each is the same.
+
+Use a Geissele High-Speed National Match trigger adjusted so it doesn’t double on you.
+
+Use a Magpul PRS stock with the cheek piece set up so you have no facial muscle twitching or need to adjust your head when behind the scope.
+
+Do what Sinister said and ditch the bipod supported position. You’re already doing well with that as it is.
+
+Get a Bulls Bag and tuck it up close to the magazine well, with the handguard nestled into it really well.
+
+
+
+Use a good rear bag that allows you to adjust, but maintains good stability on the back end.
+
+Load the Sierra 69gr SMK on top of Varget using CCI 450s, Rem 7 1/2, or Fed GM205AR, in weighed and sorted Lapua brass, all uniformed.
+
+You’re basically going to need to build a rifle specifically for shooting extremely tight 10rd groups.
+
+The above formula will get you on your way to chasing that in the AR-15.
+Click to expand...
+Wow, that’s a lot of really good info! I probably didn’t really clarify what my end goal is with the rifle. Shooting 10 round groups for me is just part of load development for the most part and I’m not really wanting this to be a dedicated paper puncher per se. I mainly am trying to figure out what the gun likes as it sits mainly an accurate blaster for some long range adventures, and maybe eventually some gas gun competition. I have other bolt guns that I shoot more for groups. I may eventually upgrade some aspects of the rifle for enhanced accuracy, and the info above is very detailed and I appreciate that for sure.
+ 
+Jsp556
+Private
+Full Member
+Minuteman
+Feb 27, 2017
+1,119
+1,713
+Sep 3, 2024
+#8
+Hard to follow up Sinister and LRRPF52.
+ 
+ 
+Reactions:
+WasNH4X
+camocorvette
+Send it
+Full Member
+Minuteman
+Supporter
+Apr 1, 2010
+2,434
+2,408
+Minnesota
+Sep 3, 2024
+#9
+I can't add to the great info above.
+
+Just remember ar's are inherently harder to shoot accurately.
+
+You need to have everything on point with your shooting fundamentals. Try to eliminate any slop in the lower and and slop in the butt stock.
+ 
+ 
+Reactions:
+simonp
+Near miss
+Major Hide Member
+Full Member
+Minuteman
+ 
+ 
+Apr 8, 2019
+1,342
+696
+Finland
+Sep 4, 2024
+#10
+Add a can. Desert tech tested multiple rifles while doing their own can made ground-up for precision work and they noticed the can improved precision noticeably (over statistic noise)
+ 
+Rimfire77
+Private
+Minuteman
+Feb 9, 2024
+8
+5
+Tennessee
+Sep 4, 2024
+#11
+VargmatII said:
+I am new to gas guns too. For the better part of 10 years my poison has been precision rifles with an incline for long range shooting. Which led me to start compeating in field shooting. This was the only way to stretch out to and sometimes beyond 1000 meters.
+With my fully decked out Sako TRG 22 I was able to shoot about 0.5 moa back to back with handloads. With my new AR, not so much...
+
+For the past year, I have dived into gas guns and have tried alot of stuff to get things going. The difference from a tuning fork stiff TRG to an AR with some play here and there has been detrimental at times. That and the fact that the locktime on an AR is completly different to that of a precision bolt rifle.
+I have been able to go down to 1.1-1.2 MOA groups at 100 meters at times. But no where near on a regular basis, around 1.5 MOA would be closer to the truth. But I am thinking that this is the nature of the beast. An AR was never ment to be a TRG, and never will be.
+I am however still curious to just how tight I can get my AR to shoot. Thats why I ordered a WOA SPR barrel for it, and I think it will get here this week.
+
+My AR is pretty much a faux Mk12 mod H as it is. But will get a 18" barrel with rifle lenght gas now when the WOA gets here. I have also shot friends DD Mk12, DD M4pro, IWI Zion SPR and a few others. My roundcount is just below 2000 rounds shooting ARs since this past october.
+
+Will report back as soon as possible.
+Click to expand...
+Yes, please do let us know how the WOA barrel performs for you, I have heard nothing but good thing regarding their quality. I thought about building another upper with their 16 inch DMR barrel and throwing a good low power optic on it
+ 
+Last edited: Sep 4, 2024
+ 
+Reactions:
+simonp
+Rimfire77
+Private
+Minuteman
+Feb 9, 2024
+8
+5
+Tennessee
+Sep 4, 2024
+#12
+camocorvette said:
+I can't add to the great info above.
+
+Just remember ar's are inherently harder to shoot accurately.
+
+You need to have everything on point with your shooting fundamentals. Try to eliminate any slop in the lower and and slop in the butt stock.
+Yeah the B5 stock is good for a general purpose build but I need something more solid for this gun, maybe a PRS. For now this upper is sharing a lower with my BCM basic 16 inch.
+ 
+ 
+Reactions:
+camocorvette
+camocorvette
+Send it
+Full Member
+Minuteman
+Supporter
+Apr 1, 2010
+2,434
+2,408
+Minnesota
+Sep 4, 2024
+#13
+Rimfire77 said:
+Yeah the B5 stock is good for a general purpose build but I need something more solid for this gun, maybe a PRS. For now this upper is sharing a lower with my BCM basic 16 inch.
+I agree. I use a b5 on mine for prs. I've modified it by drilling a hole in the stock adjustment lever to allow me to lock it into position. I've had the stock close when shooting off a bag. Now it's pretty solid and will only move when I want it too.
+
+ 
+ 
+Reactions:
+232593, S197, NHPiper and 2 others
+Rimfire77
+Private
+Minuteman
+Feb 9, 2024
+8
+5
+Tennessee
+Sep 4, 2024
+#14
+camocorvette said:
+I agree. I use a b5 on mine for prs. I've modified it by drilling a hole in the stock adjustment lever to allow me to lock it into position. I've had the stock close when shooting off a bag. Now it's pretty solid and will only move when I want it too.
+View attachment 8494775View attachment 8494777
+Man that’s an awesome looking camo job!
+ 
+ 
+Reactions:
+camocorvette
+camocorvette
+Send it
+Full Member
+Minuteman
+Supporter
+Apr 1, 2010
+2,434
+2,408
+Minnesota
+Sep 5, 2024
+#15
+Thanks @Rimfire77 I've already lost the bipod once, after tossing it in the grass for a stage. So it must work.
+ 
+MK20
+Major Member
+Supporter
+Full Member
+Minuteman
+ 
+Apr 17, 2018
+4,620
+9,008
+The land of many waters
+Sep 5, 2024
+#16
+I have been told by a very knowledgeable builder that he uses barrel nut torque that is much higher than recommended and his uppers are known to consistently shoot well.
+ 
+T
+TimK
+Gunny Sergeant
+Full Member
+Minuteman
+Jan 13, 2010
+1,453
+430
+58
+Woodland Park, CO
+www.timkulincabinetry.com
+Sep 5, 2024
+#17
+If you're not already, trap the trigger to the rear and control the reset. I'll hold the trigger rearward for a solid second after breaking the shot, then slowly let it forward until it just resets. If I find myself missing targets I would normally hit at a match, 10 times out of 10 it's because I'm slapping the trigger and not controlling the reset.
+ 
+ 
+Reactions:
+B Man
+bfoosh006
+Sergeant
+Full Member
+Minuteman
+Jun 13, 2007
+2,094
+1,307
+PNW
+Sep 5, 2024
+#18
+Correct me if I misunderstood... but if you have only tried one bullet / load, I would most certainly try other 77gr bullets and loads.
+
+I have one FN CHF 1n7 twist 20" SS, that only likes one specific 77gr load.
+ 
+ 
+Reactions:
+BCP
+M
+MontanaMan
+Private
+Full Member
+Minuteman
+Apr 26, 2007
+800
+619
+Sep 5, 2024
+#19
+Rimfire77 said:
+So I put together a non clone correct SPR type upper and have been struggling to get the groups I had hoped for. Trying to get some feedback from some more seasoned shooters regarding gas gun accuracy shooting. I mainly have shot bolt action when trying for precision and so I’m not sure what to expect realistically. I’m trying to do some basic load development using 77 gr OTM from Mid South Shooters. I’m loading new Starline brass with Varget and CCI 400 primers. Rifle is 18 inch PRI Douglas stainless MK 12 barrel 1:8 twist Geissele Mark 18 Arca handguard on BCM upper receiver matched to my BCM lower with Geissele 2 stage trigger. Using B5 Sopmod stock with a bag rider. Shooting prone with bipod on front and rear bag. Optic is Meopta Optika 6 3-18X 50 in ADM Recon mount. taking my time and shooting groups at 100 yards, checking all the boxes of solid position, breathing, trigger control, follow through,ect…most groups have been larger than moa. I have one sub moa 10 shot group so far in 200 rounds of attempting my best. I can shoot in the 3’s with my Tikka CTR 308, but don’t know what the deal is so far with this gun ammo optic and shooter combination. Any thoughts? Maybe I should try some 75 gr Hornady or some 69 SMK, but not really blown away so far with this barrel. I’m not saying it’s not just me shooting poorly. I hear a lot of people online claiming 1/2 moa groups with precision gas guns so I’m thinking I have a dud, but then I watch 9 hole reviews comparing a PRI douglas to a BCM 18 inch 1:8 and their best 9 shot group was 1.3 inches with factory Match ammo…I’m fairly new to precision shooting, reloading and especially precision gas guns, so what’s some thoughts dudes of the more seasoned variety? What should I focus on?
+Click to expand...
+Before you do anything else, I'd suggest getting some Sierra 69 & 77 gr. SMK bullet as they are a know commodity so far as generally being accurate bullets.
+
+And the concentrate on the trigger control shooting from bags.
+
+If all that fails, then you're into new parts/assembly technique.
+
+YMMV
+
+MM
+ 
+ 
+Reactions:
+bfoosh006
+E
+ekaphoto
+Private
+Full Member
+Minuteman
+Jan 12, 2006
+67
+36
+Northern California
+Sep 6, 2024
+#20
+Another thing is buy a couple boxes of match ammo. Federal gold metal 77 gr and winchester 69 gr match or another good match ammo. Try a couple with diffrent weights and bullets And see how it shoots. If it shoots crap then it is either you or the rifle then go from there.
+
+No way to know until you start eliminating possible problems one at a time. There are no shortcuts and you are just wasting time and money until you have a systematic process to find out
+
+Now just because people claim 1/2 MOA does not make it so.
+
+Also the proper way to measure groups is with calipers on paper. Get outside to outside measurements then subtract the diameter of the bullet and you have your center to center grouping. In this case if your group measures 1.224 inches subtract .224 and your group size is 1 inch.
+ 
+ 
+Reactions:
+simonp
+V
+VargmatII
+Gunny Sergeant
+Full Member
+Minuteman
+Sep 16, 2020
+525
+903
+Southern Sweden
+Sep 6, 2024
+#21
+My WOA SPR barrel finally came in. So now its mounted, headspace checked and I will be going to the range in a few hours.
+Pictures and range report will follow.
+ 
+ 
+Reactions:
+ekaphoto, simonp and bfoosh006
+B Man
+Little Sergeant
+Full Member
+Minuteman
+Dec 23, 2010
+672
+899
+South side of Big River
+Sep 6, 2024
+#22
+A lot of great info above. I’m just going to hit a few short things.
+
+Gas guns are different, they will tell on you if you get sloppy.
+Focus on your technique, same pressures, very slight push into the bipod and a very slight pull on the grip into shoulder. Follow through every shot the same. Holding the trigger back for 1-2 seconds then slowly resetting helped me to pull it all together coming from bolt guns.
+Have you cleaned your barrel? My Douglas would foul up quicker than my rifle cut barrels in the beginning and found cleaning it brought it back quick from over moa to sub moa (solid .75-1 moa shooter on avg.).
+Even though SMK’s are very jump tolerant it seems like every barrel I have likes 2.245-2.250” oal range on SMK’s and shaves about .25 moa off the groups.
+
+Last thing, don’t believe all the wild fairy tales on rifles you see online. Are they capable of 1/2 moa, yes. But it’s not easy and it’s usually not consistent and cherry picked. I have some that have and do shoot some nice tiny little clusters but I’ve come to realize if mine print .75 moa 10 shots between me and the rifle I’m very content.
+ 
+ 
+Reactions:
+matt33 and simonp
+BCP
+Lt. Colonel
+Full Member
+Minuteman
+ 
+ 
+Dec 4, 2008
+10,157
+6,192
+123
+AZ: Land of wind, dirt and angry old people
+Sep 6, 2024
+#23
+I'd say 10rd into 3/4-1MOA is peak performance for an AR that isn't built as a purely match rifle
+
+You could try different seating depths for your bullets and weight sort them if you aren't doing so already
+
+Shooting inside of 500 yards a flat base varmint/match bullet would be an easy choice and they group really well on paper
+ 
+ 
+Reactions:
+PappyM3, matt33 and LRRPF52
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,654
+1,599
+USA
+Sep 7, 2024
+#24
+ARs are a bit strange...sometimes a cheap barrel will shoot good... but that would not be the start for a precision rifle.
+I took a 8000 rd bolt 308 W with lots of firecracking. Cut & Profiled the barrel for AR 15, made it rifle gas, put it together with used and leftover parts, including a used barrel extension. Chambered it for 30 RAR an obsolete cartridge. Total cost $340 including the reamer. So how does the 8000 rd 308 barrel shoot as a AR 15 30 RAR. Very good with the same bullet as it liked when it was a 308 W.
+But I'd never suggest this for a competition rifle. I start with a premium barrel. True reciever face. Glue in with green high temp bearing sleeve loctite, wax the reciever in that area for removal. Always tighten barrel nut to 60 ft/lbs. Mill a gas tube slot to make it so.
+Some Will start at say 38 ft/ lbs and work up, tighting the barrel at the range...shooting their match ammo to see if the groups tighten up...I don't do that.
+I center the bolt carrier requiring a lathe, mill, and inspection equipment.
+Also have a bore scope to check your barrel and chamber interior.
+You may have a burr at the gas port like this. Recut with the next size up, new sharp number drill, with dark heavy cutting fluid.
+Then lapp and inspect before installing. I generally lapp all barrels,..keep the muzzle tight. If a 5.56 consider not having it threaded for a muzzle device. The more one cuts down the OD for a muzzle device the more the bore opens up in that area...especially button rifled.
+ 
+Attachments
+20230818_222525.jpg
+278.4 KB · Views: 70
+20210102_195713.jpg
+554.9 KB · Views: 71
+20201228_205709.jpg
+512 KB · Views: 65
+20210103_031623.jpg
+638.6 KB · Views: 64
+ 
+Reactions:
+bfoosh006, LRRPF52 and simonp
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,142
+5,632
+SLC, Utah
+Sep 7, 2024
+#25
+30 RAR is a great little cartridge. It just needs some extensive magazine development and would really benefit from being done in .257”, 6.5mm, .277”, and maybe 7mm. It would do well with a larger magazine well in both axes. As it is, they made a new upper for it with larger extension tunnel that is AR-10 sized, with an AR-15 outer form factor and AR-15 bolt carrier raceway.
+
+From an industry/production standpoint, it was easier for DPMS and Remington to make a small frame .308 Win that already has decades of magazine development, without any need to encroach on the ammunition production SKU schedule.
+ 
+ 
+Reactions:
+bfoosh006 and 45-90
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,654
+1,599
+USA
+Sep 7, 2024
+#26
+LRRPF52 said:
+30 RAR is a great little cartridge. It just needs some extensive magazine development and would really benefit from being done in .257”, 6.5mm, .277”, and maybe 7mm. It would do well with a larger magazine well in both axes. As it is, they made a new upper for it with larger extension tunnel that is AR-10 sized, with an AR-15 outer form factor and AR-15 bolt carrier raceway.
+
+From an industry/production standpoint, it was easier for DPMS and Remington to make a small frame .308 Win that already has decades of magazine development, without any need to encroach on the ammunition production SKU schedule.
+Click to expand...
+There are alot of ways to improve on the AR 15 platform.... if it was only dimensionally a bit larger, with 308 bolt and barrel extension.
+But the whole industry would have to adapt to new cartridges with higher performance.
+The 30 RAR uses 450 Bushmaster mags, no alteration needed, feeds 100% , limited to 2.3" COAL.
+Necking it down to 22, 24, 25, would give the AR 15 platform more power, just as it is, without the alterations.
+30 RAR in 450 Bushmaster mag.
+30 RAR, 6 ARC, 300 BLk...for comparison.
+ 
+Attachments
+20240907_113131.jpg
+385.9 KB · Views: 42
+20240907_120044.jpg
+637.5 KB · Views: 44
+ 
+Reactions:
+bfoosh006 and LRRPF52
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,142
+5,632
+SLC, Utah
+Sep 7, 2024
+#27
+I was thinking in a double stack magazine, which may or may not be desirable.
+
+If I was hunting in dangerous game area, I would want capacity and want it to run reliably.
+
+As it was, they had a great hunting AR-15 set-up with some pretty impressive velocities with the lighter .30 cal pills from an AR-15:
+
+
+
+
+
+My buddy found a case of ammo sitting in the back of one of our popular LGSs and cleaned them out for a song, since there are no rifles or uppers to be found for it anymore.
+
+Would be interesting to Ackley that case and neck it down, though in its standard configuration puts a lot of slap onto medium game and steel within the closer ranges.
+ 
+ 
+Reactions:
+bfoosh006
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,654
+1,599
+USA
+Sep 7, 2024
+#28
+Comparison: here is a 6 mm Dasher 110 SMK running 2953 fps in long barreld bolt action, with the 30 RAR case.
+So Ackley improved 30 RAR has a .500" body dia compared to the .470" of the Dasher, would hold more powder.
+The 450 Bushmaster mags are totally reliable with 5 rds plus one in the chamber.
+1 more than the original 30 RAR at 4 rds.
+All that is allowed is 5 rds for hunting in autoloaders for big game here.
+If serious dangerous game were on the menu I'd just go with the fast 16 twist 450 Bushmaster and 5 quick shots of 502 grains plus 1 in the chamber. Or resize any .458" bullet to .452" for close range smack down, this is hard to beat from a standard 16" AR.
+But a 6mm X 30 RAR Ackley would be interesting...
+ 
+Attachments
+20240907_142000.jpg
+546 KB · Views: 29
+20230110_174353.jpg
+482.3 KB · Views: 33
+ 
+Reactions:
+camotoe, bfoosh006 and B Man
+bfoosh006
+Sergeant
+Full Member
+Minuteman
+Jun 13, 2007
+2,094
+1,307
+PNW
+Sep 9, 2024
+#29
+After rereading this thread, and there is a ton of great info in this... a few more suggestions come to mind.
+
+How snug is your upper to lower fit ? If it is loose, it might result in failure to wield the AR consistently. Especially if you "fidget" while shooting those 10rd groups. So after settling in at the bench, don't move... no resetting the cheek, no shifting the shoulder contact, no shifting your butt ....nothing....etc.
+
+Make sure your parallax is set properly.
+
+And.. If these are the bullets you are using... https://www.midsouthshooterssupply....at-tail-hollow-point-with-cannelure-250-count
+
+Try the Sierra Match Kings.
+
+The above linked 77gr bullets, "might" be the "New" Hornady 77gr OTM's... and the link above photo sure looks like the Hornady 77gr OTM. ( Cannelure placement, and depth, and just eyeballing it )
+
+FWIW... https://www.ar15.com/forums/ar-15/F...-/16-787367/?r=-1&page=1&anc=8678440#i8678440
+ 
+Last edited: Sep 9, 2024
+ 
+Reactions:
+sinister
+W
+Wizard1183
+Sergeant of the Hide
+Full Member
+Minuteman
+Jul 14, 2018
+289
+106
+Sep 10, 2024
+#30
+Wow only one person posted actual target?
+100yrds 10rd group in the middle. Rest were 5 rds. Basically 1moa and could probably get a hair better in sub moa category if practiced enough.
+
+Scar17 + hand loads
+ 
+Attachments
+IMG_6165.jpeg
+608.6 KB · Views: 119
+BCP
+Lt. Colonel
+Full Member
+Minuteman
+ 
+ 
+Dec 4, 2008
+10,157
+6,192
+123
+AZ: Land of wind, dirt and angry old people
+Sep 10, 2024
+#31
+Oddly enough I did go shoot today and got 1.5moa for 10rds of American eagle 55gr. Its a green mountain barrel rifle I put together that was giving me issues until I realized the flash hider was loose. So 1-1.2ish with handloads should be possible which would be fine for it.
+ 
+ 
+Reactions:
+Wizard1183
+W
+Wizard1183
+Sergeant of the Hide
+Full Member
+Minuteman
+Jul 14, 2018
+289
+106
+Sep 10, 2024
+#32
+BCP said:
+Oddly enough I did go shoot today and got 1.5moa for 10rds of American eagle 55gr. Its a green mountain barrel rifle I put together that was giving me issues until I realized the flash hider was loose. So 1-1.2ish with handloads should be possible which would be fine for it.
+Ought to get better then that with hand loads being there’s no recoil with that
+ 
+B Man
+Little Sergeant
+Full Member
+Minuteman
+Dec 23, 2010
+672
+899
+South side of Big River
+Sep 10, 2024
+#33
+Wizard1183 said:
+Wow only one person posted actual target?
+100yrds 10rd group in the middle. Rest were 5 rds. Basically 1moa and could probably get a hair better in sub moa category if practiced enough.
+
+Scar17 + hand loads
+
+Were we belong to…?
+ 
+ 
+Reactions:
+BCP
+W
+Wizard1183
+Sergeant of the Hide
+Full Member
+Minuteman
+Jul 14, 2018
+289
+106
+Sep 10, 2024
+#34
+B Man said:
+Were we belong to…?
+Wut?
+ 
+B Man
+Little Sergeant
+Full Member
+Minuteman
+Dec 23, 2010
+672
+899
+South side of Big River
+Sep 10, 2024
+#35
+Wizard1183 said:
+Wow only one person posted actual target?
+
+
+Wizard1183 said:
+Wut?
+
+Again, were we belong to
+ 
+Last edited: Sep 10, 2024
+ 
+Reactions:
+BCP
+W
+Wizard1183
+Sergeant of the Hide
+Full Member
+Minuteman
+Jul 14, 2018
+289
+106
+Sep 12, 2024
+#36
+B Man said:
+Again, were we belong to
+When your woman wakes up and texts you your colon smelled good. See how spelling is important?
+ 
+ 
+Reactions:
+Big-wals, simonp and ToKeepAndBear
+B Man
+Little Sergeant
+Full Member
+Minuteman
+Dec 23, 2010
+672
+899
+South side of Big River
+Sep 14, 2024
+#37
+Wizard1183 said:
+Wut?
+Like this ^^ . Let’s not be a hypocrite
+
+Wizard1183 said:
+When your woman wakes up and texts you your colon smelled good. See how spelling is important?
+
+Offended I did not like your group picture? OP asked for advice on his situation and all you posted was some half ass groups. Offer something of importance to the discussion next time.
+ 
+W
+Wizard1183
+Sergeant of the Hide
+Full Member
+Minuteman
+Jul 14, 2018
+289
+106
+Sep 14, 2024
+#38
+B Man said:
+Like this ^^ . Let’s not be a hypocrite
+
+
+Offended I did not like your group picture? OP asked for advice on his situation and all you posted was some half ass groups. Offer something of importance to the discussion next time.
+Half ass group? A ten shot 1.04” group with a semi auto is half ass? I don’t care if you don’t like my pic. I figured OP was asking to post groups. I’d imagine fundamentals play the most important role on producing consistent results…
+ 
+ 
+Reactions:
+simonp and stanley_white
+B Man
+Little Sergeant
+Full Member
+Minuteman
+Dec 23, 2010
+672
+899
+South side of Big River
+Sep 14, 2024
+#39
+Wizard1183 said:
+I’d imagine fundamentals play the most important role on producing consistent results…
+Reading comprehension is a thing. Thanks for adding something of value to his question.
+ 
+ 
+Reactions:
+BCP and Wizard1183
+W
+Wizard1183
+Sergeant of the Hide
+Full Member
+Minuteman
+Jul 14, 2018
+289
+106
+Sep 14, 2024
+#40
+B Man said:
+Reading comprehension is a thing. Thanks for adding something of value to his question.
+It’s not comprehension. It was laziness as I didn’t want to read the entire post.
+
+As for my “wut?” Question, well that was sarcasm. Not a misspelling
+ 
+mudholestomper
+Just a dumb kid learning from the smart kids.
+Full Member
+Minuteman
+Jan 6, 2024
+184
+483
+Texas
+Sep 17, 2024
+#41
+LRRPF52 said:
+How was your barrel installed?
+
+If your expectations are to shoot 10 rounds into MOA or less.....
+
+Your upper receiver should have a square face and tight barrel extension tunnel, which are pretty standard for BCM, but I would prefer a different upper and handguard combo than the one you have, even though both of those companies are great and staples for me for other things.
+
+Use an upper/handguard combo that doesn’t touch the barrel nut. LaRue, Seekins, and Ridgeline Defense make upper/handguard combos that fit this description and eliminate contact between the barrel nut and the handguard.
+
+If you really want to achieve this, have a precision rifle builder or exceptional machinist true-up your barrel nut, barrel extension, and bolt so there are no variations in squareness of lug engagement and bolt face orientation to the chamber.
+
+Consider using a match bolt carrier with adjustable guides on the tail so the carrier stays almost perfectly true inside the raceway and RET as it cycles.
+
+Bed the barrel into the extension tunnel either with a thermal fit or Green Loc-tite.
+
+Since your barrel is a heavier profile, use less torque in the 35-40ft-lbs region to where it "feels dull", not like a tuning fork when you tap on the barreled upper. You’ll want the mating of the barrel and upper to be dampened, not resonant. If the barreled upper resonates like a tuning fork, it will encourage more deviant harmonics that will increase the likelihood of larger grouping.
+
+Make sure your muzzle device has little or no torque when installed, as this can slightly warp the last .625” of the bore. Do you have a Mk.12 collar brake for the AEM suppressor?
+
+To chase extreme precision with 10rd groups, it might be better to get a heavier bull profile barrel, a Bartlein or Krieger, turned and chambered by one of the few people who know what they’re doing. Use a longer gas system and tune the gas so that you have reliable function, but not such secondary reciprocating mass effects that the rifle breaks your position with each shot.
+
+If you can find one, get an Alexander Arms tri-lobal firing pin that doesn’t drag inside of the FP channel like a normal AR firing pin.
+
+If you can’t find one, you can use a JP Titanium FP, but just understand that Ti FPs don’t hold up to high volume well without special surface treatments. They are notorious for pitting, and then piercing primers. But for limited sessions, it will help reduce lock time.
+
+Use balanced torque on your ring fasteners and cross bolts on the scope mount. A torque wrench will help you measure each fastener torque value and ensure each is the same.
+
+Use a Geissele High-Speed National Match trigger adjusted so it doesn’t double on you.
+
+Use a Magpul PRS stock with the cheek piece set up so you have no facial muscle twitching or need to adjust your head when behind the scope.
+
+Do what Sinister said and ditch the bipod supported position. You’re already doing well with that as it is.
+
+Get a Bulls Bag and tuck it up close to the magazine well, with the handguard nestled into it really well.
+
+
+
+Use a good rear bag that allows you to adjust, but maintains good stability on the back end.
+
+Load the Sierra 69gr SMK on top of Varget using CCI 450s, Rem 7 1/2, or Fed GM205AR, in weighed and sorted Lapua brass, all uniformed.
+
+You’re basically going to need to build a rifle specifically for shooting extremely tight 10rd groups.
+
+The above formula will get you on your way to chasing that in the AR-15.
+Click to expand...
+Great info, thank you for taking the time to type it out.
+ 
+S197
+Major Hide Member
+Full Member
+Minuteman
+Nov 22, 2019
+1,037
+897
+Sep 18, 2024
+#42
+Rimfire77 said:
+So I put together a non clone correct SPR type upper and have been struggling to get the groups I had hoped for. Trying to get some feedback from some more seasoned shooters regarding gas gun accuracy shooting. I mainly have shot bolt action when trying for precision and so I’m not sure what to expect realistically. I’m trying to do some basic load development using 77 gr OTM from Mid South Shooters. I’m loading new Starline brass with Varget and CCI 400 primers. Rifle is 18 inch PRI Douglas stainless MK 12 barrel 1:8 twist Geissele Mark 18 Arca handguard on BCM upper receiver matched to my BCM lower with Geissele 2 stage trigger. Using B5 Sopmod stock with a bag rider. Shooting prone with bipod on front and rear bag. Optic is Meopta Optika 6 3-18X 50 in ADM Recon mount. taking my time and shooting groups at 100 yards, checking all the boxes of solid position, breathing, trigger control, follow through,ect…most groups have been larger than moa. I have one sub moa 10 shot group so far in 200 rounds of attempting my best. I can shoot in the 3’s with my Tikka CTR 308, but don’t know what the deal is so far with this gun ammo optic and shooter combination. Any thoughts? Maybe I should try some 75 gr Hornady or some 69 SMK, but not really blown away so far with this barrel. I’m not saying it’s not just me shooting poorly. I hear a lot of people online claiming 1/2 moa groups with precision gas guns so I’m thinking I have a dud, but then I watch 9 hole reviews comparing a PRI douglas to a BCM 18 inch 1:8 and their best 9 shot group was 1.3 inches with factory Match ammo…I’m fairly new to precision shooting, reloading and especially precision gas guns, so what’s some thoughts dudes of the more seasoned variety? What should I focus on?
+Click to expand...
+I would try shooting the rifle off a rest to eliminate user error. After that you will know what the build is capable of.
+ 
+ 
+Reactions:
+simonp
+D
+Detroit_1
+Private
+Full Member
+Minuteman
+Apr 17, 2006
+157
+253
+Sep 20, 2024
+#43
+Rimfire77 said:
+Wow, that’s a lot of really good info! I probably didn’t really clarify what my end goal is with the rifle. Shooting 10 round groups for me is just part of load development for the most part and I’m not really wanting this to be a dedicated paper puncher per se. I mainly am trying to figure out what the gun likes as it sits mainly an accurate blaster for some long range adventures, and maybe eventually some gas gun competition. I have other bolt guns that I shoot more for groups. I may eventually upgrade some aspects of the rifle for enhanced accuracy, and the info above is very detailed and I appreciate that for sure.
+Click to expand...
+If your shooting minute at 100 / sporadically shooting better at 200, and are a consistent bolt gunner....you might play with some little things like hand pressure / push pull tension. Bags are much better than a bipod, a rear bag is better than hookin a thumb in your collar. Regardless, wind will push that little bullet around.
+
+
+ 
+ 
+Reactions:
+camocorvette
+mudholestomper
+Just a dumb kid learning from the smart kids.
+Full Member
+Minuteman
+Jan 6, 2024
+184
+483
+Texas
+Sep 28, 2024
+#44
+I just wanted to say that, after spending a lot of money to put nice bipods on a couple of my guns, this thread has caused me to buy a Bull’s bag like in the picture that was shared.
+
+Mine is Caldwell though. I bought it unfilled since I had a bag of sand in the garage. Caldwell included a cardboard funnel in the box. I appreciated that very much.
+
+The bipods will stay in the rifle case when I’m shooting groups.
+ 
+ 
+Reactions:
+VargmatII
+mudholestomper
+Just a dumb kid learning from the smart kids.
+Full Member
+Minuteman
+Jan 6, 2024
+184
+483
+Texas
+Sep 28, 2024
+#45
+@Rimfire77 Were you able to get your snazzy new barrel out for testing?
+ 
+Edsel
+Gunny Sergeant
+Full Member
+Minuteman
+Jun 9, 2013
+982
+532
+Sep 28, 2024
+#46
+45-90 said:
+ARs are a bit strange...sometimes a cheap barrel will shoot good...
+
+Three AR Stoner bull barrels on sale still cost only 3/5 to 1/2 of a fancy boutique barrel (back when I bought mine, anyway).
+
+And odds are, one of those three will shoot so incredibly well.
+
+Even with two junker barrels, you still come out ahead.
+ 
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,654
+1,599
+USA
+Sep 28, 2024
+#47
+Edsel said:
+Three AR Stoner bull barrels on sale still cost only 3/5 to 1/2 of a fancy boutique barrel (back when I bought mine, anyway).
+
+And odds are, one of those three will shoot so incredibly well.
+
+Even with two junker barrels, you still come out ahead.
+Whether one comes out ahead or not would be up to the individual. The 1in 3 was fairly accurate for me, to get a cheap barrel that shoots up to expectations on at least some level.
+But today I usually pass them up for moderate to expensive barrels, because it takes time and money testing cheap barrels that won't shoot or a one load barrel, with a bullet you do not want to use. Then take them off and run components through another cheap barrel, then repeat...it gets time consuming and expensive.
+But it's up to the individual if that's worth it to them, or they get lucky, on the gamble.
+Maybe you could sell the bad ones to your brother-in-law, he can't shoot and won't know the difference. 
+ 
+ 
+Reactions:
+simonp and Edsel
+W
+Wizard1183
+Sergeant of the Hide
+Full Member
+Minuteman
+Jul 14, 2018
+289
+106
+Sep 28, 2024
+#48
+mudholestomper said:
+I just wanted to say that, after spending a lot of money to put nice bipods on a couple of my guns, this thread has caused me to buy a Bull’s bag like in the picture that was shared.
+
+Mine is Caldwell though. I bought it unfilled since I had a bag of sand in the garage. Caldwell included a cardboard funnel in the box. I appreciated that very much.
+
+The bipods will stay in the rifle case when I’m shooting groups.
+Click to expand...
+I use the lower legs of jeans filled with polymer balls. Sew them up with a leather sewing kit. Cheap and a little time making them.
+ 
+P
+PappyM3
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2019
+417
+472
+Sep 28, 2024
+#49
+There is some good advice on fine tuning things, but l’ll keep it simple to start:
+
+1. Use bags or a supported hand for the handgrip… with CONSISTENT placement and pressure
+
+2. Dime drills… lots of them.
+
+3. Try some 69 SMK loads to start. With a Douglas barrel I would be shocked if it couldn’t do 3/4-1 MOA 10 shot groups with 69 SMK.
+ 
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,323
+19,441
+Colorado
+Sep 29, 2024
+#50
+Here is where I landed on bipods. Am I going to take a rest or giant sand bag into the field? AM I going to always take sand bags or a rest to shoot the rifle at the range? For me both those answers were no. So I learned to shoot everything off a bipod by practicing shooting off a bipod.
+
+Buying three cheap barrel at the same cost as an expensive barrel to get one barrel that shoots ok in spite of who made it is not saving money.
+ 
+ 
+Reactions:
+bfoosh006, camocorvette and simonp
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+D
+	
+AR10 Precision
+DeadEyeAkc Thursday at 12:47 PM Semi-Automatic Rifles
+4
+Today at 9:14 AM
+B
+	
+22 ARC gas gun success.
+Brandon Caudle Sunday at 1:49 PM Semi-Automatic Rifles
+22
+Thursday at 11:07 PM
+W
+	
+22 arc gas
+walkerjon0 Wednesday at 5:26 PM Semi-Automatic Rifles
+2
+Thursday at 4:49 PM
+	
+Question for the accurized AR-15 crowd...
+kthomas Oct 11, 2024 Semi-Automatic Rifles
+57
+Oct 22, 2024
+	
+Firearms CLE 223 Bartlein Barreled AR-15
+NLS7162 Wednesday at 6:34 PM Buy - Sell - Trade
+0
+Wednesday at 6:34 PM
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/precision-ar-15-10-shot-moa-groups.7230026/ 
+ ----- 

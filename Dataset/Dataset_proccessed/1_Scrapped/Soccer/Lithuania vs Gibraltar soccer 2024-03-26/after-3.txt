@@ -1,0 +1,844 @@
+Football
+Hockey
+Basketball
+Tennis
+Cricket
+Settings
+Home
+Live
+Favourites
+England
+Champions League
+Champions League 23/24
+Spain
+Italy
+Germany
+France
+Netherlands
+Scotland
+Turkiye
+Europa League
+Europa Conference League 23/24
+Euro 2024 Qualification
+Euro 2024
+UEFA Nations League
+International
+World Cup Qualification
+Africa Cup of Nations 2023
+UEFA Women's CL
+UEFA Nations League Women
+Copa Libertadores
+Copa Sudamericana
+Africa Cup of Nations Qualification
+African Nat. Champ.
+Club Friendlies
+Women's World Cup
+International Friendlies
+Women's World Cup Qualification
+Women's Euro
+Women's World Cup U20
+World Cup U20
+Women's World Youth Cup
+World Youth Cup
+Women's Euro U19
+Women's Euro U17
+Women's World Cup U17
+World Cup U17
+UEFA Youth League
+Euro U21 2025
+Euro U21
+Euro U19
+Euro U19 Qualification
+Euro U17
+CONCACAF Nat. League
+CONCACAF Championship U20
+Copa America
+AFC Asian Cup
+AFC Women's Club Championship
+CONCACAF Gold Cup
+Africa
+Asia
+CONCACAF
+Oceania
+South America
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Mali
+Malta
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Romania
+Rwanda
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+USA
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
+World Cup 2022
+Champions League 22/23
+Champions League 21/22
+Champions League 20/21
+Champions League 19/20
+Europa League 22/23
+Europa League 21/22
+Europa League 20/21
+Europa League 19/20
+Europa Conference League 22/23
+Europa Conference League 21/22
+Africa Cup of Nations 2021
+Euro 2020
+UEFA Women's CL 22/23
+Women's CAF Champions League
+CONCACAF Women Gold Cup
+UEFA Nations League 22/23
+Paris 2024 Women
+Europa League 23/24
+The Games - Men
+The Games - Women
+Conference League
+CONCACAF Women Champions Cup
+World Cup 2026
+DEC 27
+DEC 28
+DEC 29
+TODAY
+DEC 31
+JAN 1
+JAN 2
+WORLD CUP QUALIFICATION - CONCACAF QUALIFICATION: 1ST ROUND
+MARCH 26
+AP
+British Virgin Islands
+0 - 0
+U.S. Virgin Islands
+AP
+Turks and Caicos Islands
+1 - 1
+Anguilla
+EURO 2024 QUALIFICATION - LEAGUE A: EURO 2024 PLAY-OFF
+MARCH 26
+AP
+Wales
+0 - 0
+Poland
+EURO 2024 QUALIFICATION - LEAGUE B: EURO 2024 PLAY-OFF
+MARCH 26
+FT
+Ukraine
+2 - 1
+Iceland
+EURO 2024 QUALIFICATION - LEAGUE C: EURO 2024 PLAY-OFF
+MARCH 26
+AP
+Georgia
+0 - 0
+Greece
+UEFA NATIONS LEAGUE 22/23 - LEAGUE C: RELEGATION PLAY-OFF
+MARCH 26
+FT
+Lithuania
+1 - 0
+Gibraltar
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP A
+MARCH 26
+FT
+India
+1 - 2
+Afghanistan
+FT
+Kuwait
+1 - 2
+Qatar
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP B
+MARCH 26
+AW
+North Korea
+0 - 3
+Japan
+FT
+Syria
+7 - 0
+Myanmar
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP C
+MARCH 26
+FT
+China
+4 - 1
+Singapore
+FT
+Thailand
+0 - 3
+South Korea
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP D
+MARCH 26
+FT
+Kyrgyzstan
+5 - 1
+Chinese Taipei
+FT
+Malaysia
+0 - 2
+Oman
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP E
+MARCH 26
+FT
+Uzbekistan
+3 - 0
+Hong Kong
+FT
+Turkmenistan
+0 - 1
+Iran
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP F
+MARCH 26
+FT
+Philippines
+0 - 5
+Iraq
+FT
+Vietnam
+0 - 3
+Indonesia
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP G
+MARCH 26
+FT
+Tajikistan
+1 - 1
+Saudi Arabia
+FT
+Jordan
+7 - 0
+Pakistan
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP H
+MARCH 26
+FT
+Bahrain
+3 - 0
+Nepal
+FT
+Yemen
+0 - 3
+UAE
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP I
+MARCH 26
+FT
+Lebanon
+0 - 5
+Australia
+FT
+Bangladesh
+0 - 1
+Palestine
+AFRICA CUP OF NATIONS QUALIFICATION - PRELIMINARY QUALIFICATION
+MARCH 26
+FT
+Eswatini
+2 - 2
+Somalia
+FT
+Mauritius
+1 - 2
+Chad
+FT
+Liberia
+0 - 0
+Djibouti
+FT
+South Sudan
+0 - 0
+Sao Tome and Principe
+INTERNATIONAL FRIENDLIES - FRIENDLIES 2024
+MARCH 26
+FT
+Zambia
+2 - 1
+Malawi
+FT
+Cayman Islands
+0 - 4
+Moldova
+FT
+Zimbabwe
+1 - 3
+Kenya
+FT
+Uganda
+2 - 2
+Ghana
+FT
+Finland
+2 - 1
+Estonia
+FT
+Latvia
+1 - 1
+Liechtenstein
+FT
+Hungary
+2 - 0
+Kosovo
+FT
+Malta
+0 - 0
+Belarus
+FT
+Norway
+1 - 1
+Slovakia
+FT
+Czechia
+2 - 1
+Armenia
+FT
+Guyana
+4 - 1
+Cambodia
+FT
+Vanuatu
+2 - 3
+Brunei
+FT
+Denmark
+2 - 0
+Faroe Islands
+FT
+Ivory Coast
+2 - 1
+Uruguay
+FT
+Romania
+2 - 3
+Colombia
+FT
+Senegal
+1 - 0
+Benin
+FT
+Austria
+6 - 1
+Turkiye
+FT
+England
+2 - 2
+Belgium
+FT
+Germany
+2 - 1
+Netherlands
+FT
+Ireland
+0 - 1
+Switzerland
+FT
+Luxembourg
+2 - 1
+Kazakhstan
+FT
+Scotland
+0 - 1
+Northern Ireland
+FT
+Slovenia
+2 - 0
+Portugal
+FT
+Egypt
+2 - 4
+Croatia
+FT
+France
+3 - 2
+Chile
+FT
+New Zealand
+0 - 0
+Tunisia
+FT
+Spain
+3 - 3
+Brazil
+FT
+Algeria
+3 - 3
+South Africa
+FT
+Mali
+2 - 0
+Nigeria
+FT
+Burkina Faso
+1 - 1
+Niger
+FT
+Morocco
+0 - 0
+Mauritania
+FT
+Togo
+1 - 1
+Libya
+CLUB FRIENDLIES - CLUB FRIENDLIES 2024
+MARCH 26
+FT
+Istanbul Basaksehir
+4 - 1
+Tuzlaspor
+FT
+FC Copenhagen
+3 - 2
+B 93
+FT
+Samsunspor
+6 - 1
+Corum FK
+FT
+Istanbul Basaksehir
+5 - 2
+Kocaelispor
+FT
+AIK
+4 - 0
+Vaalerenga
+EURO U21 2025 - QUALIFICATION: GROUP A
+MARCH 26
+FT
+Norway U21
+4 - 0
+San Marino U21
+FT
+Italy U21
+1 - 1
+Turkiye U21
+EURO U21 2025 - QUALIFICATION: GROUP B
+MARCH 26
+FT
+Kazakhstan U21
+0 - 3
+Hungary U21
+FT
+Spain U21
+1 - 0
+Belgium U21
+EURO U21 2025 - QUALIFICATION: GROUP C
+MARCH 26
+FT
+Gibraltar U21
+0 - 2
+Georgia U21
+FT
+North Macedonia U21
+0 - 2
+Sweden U21
+EURO U21 2025 - QUALIFICATION: GROUP D
+MARCH 26
+FT
+Poland U21
+0 - 1
+Bulgaria U21
+FT
+Germany U21
+2 - 0
+Israel U21
+EURO U21 2025 - QUALIFICATION: GROUP E
+MARCH 26
+FT
+Armenia U21
+0 - 1
+Romania U21
+FT
+Montenegro U21
+1 - 2
+Finland U21
+FT
+Albania U21
+1 - 3
+Switzerland U21
+EURO U21 2025 - QUALIFICATION: GROUP F
+MARCH 26
+FT
+Azerbaijan U21
+0 - 3
+Ukraine U21
+FT
+Serbia U21
+1 - 2
+Northern Ireland U21
+FT
+England U21
+7 - 0
+Luxembourg U21
+EURO U21 2025 - QUALIFICATION: GROUP G
+MARCH 26
+FT
+Greece U21
+1 - 0
+Andorra U21
+FT
+Portugal U21
+5 - 1
+Croatia U21
+EURO U21 2025 - QUALIFICATION: GROUP H
+MARCH 26
+FT
+Austria U21
+2 - 2
+Cyprus U21
+EURO U21 2025 - QUALIFICATION: GROUP I
+MARCH 26
+FT
+Czechia U21
+4 - 1
+Iceland U21
+FT
+Denmark U21
+3 - 0
+Lithuania U21
+INTERNATIONAL FRIENDLIES - FRIENDLIES U23
+MARCH 26
+FT
+Mexico U23
+3 - 0
+Argentina U23
+Aband.
+Paraguay U23
+-
+Dominican Republic U23
+INTERNATIONAL FRIENDLIES - FRIENDLIES U20
+MARCH 26
+FT
+Portugal U20
+1 - 4
+Denmark U20
+FT
+Czechia U20
+1 - 3
+England U20
+FT
+Romania U20
+1 - 1
+Poland U20
+ARGENTINA - PRIMERA NACIONAL
+MARCH 26
+FT
+Atlanta
+0 - 0
+Nueva Chicago
+FT
+Atletico Rafaela
+0 - 0
+Brown de Adrogue
+FT
+CA Chaco For Ever
+3 - 0
+CA Defensores de Belgrano
+FT
+Estudiantes de Rio Cuarto
+0 - 0
+Club Atletico Mitre
+FT
+Club Atletico Colon
+1 - 0
+Gimnasia y Tiro
+ARGENTINA - PRIMERA B METROPOLITANA: APERTURA
+MARCH 26
+FT
+CA Ferrocarril Midland
+0 - 1
+Argentino de Merlo
+ARGENTINA - WOMEN'S PRIMERA DIVISION A: APERTUA
+MARCH 26
+FT
+CA Platense W
+1 - 1
+Racing Club W
+FT
+CD UAI Urquiza W
+0 - 1
+CA Estudiantes de Caseros W
+ARGENTINA - COPA DE LA LIGA RESERVES: GROUP A
+MARCH 26
+FT
+Argentinos Juniors Reserve
+2 - 2
+Racing Club Reserve
+FT
+Instituto Cordoba Reserve
+2 - 2
+Velez Sarsfield Reserve
+ARGENTINA - COPA DE LA LIGA RESERVES: GROUP B
+MARCH 26
+FT
+Estudiantes de la Plata Reserve
+2 - 1
+Defensa y Justicia Reserve
+BRAZIL - COPA ALAGOAS: KNOCKOUT STAGE
+MARCH 26
+FT
+Murici
+0 - 3
+CS Alagoano
+BRAZIL - AMAZONENSE: 2ND STAGE: GROUP A
+MARCH 26
+FT
+Unidos Do Alvorada AM
+0 - 2
+Amazonas FC
+BRAZIL - CEARENSE: SERIE B
+MARCH 26
+FT
+Guarani de Juazeiro
+2 - 0
+Pacatuba EC
+BRAZIL - GAUCHO: PLAY-OFF
+MARCH 26
+AP
+Internacional
+1 - 1
+Juventude
+BRAZIL - RORAIMENSE: 1ST STAGE: GROUP B
+MARCH 26
+FT
+AE Real
+1 - 2
+GAS
+COLOMBIA - PRIMERA B: APERTURA
+MARCH 26
+FT
+Atletico Huila
+1 - 0
+Deportes Quindio
+FT
+Real Cartagena
+1 - 1
+Barranquilla FC
+COSTA RICA - LIGA DE ASCENSO: CLAUSURA: GROUP A
+MARCH 26
+FT
+Antioquia
+0 - 5
+AD Cofutpa
+COSTA RICA - LIGA DE ASCENSO: CLAUSURA: GROUP B
+MARCH 26
+FT
+AD Aserri
+1 - 1
+Guadalupe FC
+ECUADOR - SERIE A: 1ST STAGE
+MARCH 26
+FT
+Orense
+1 - 1
+Emelec
+EURO U17 - ELITE ROUND: GROUP 1
+MARCH 26
+FT
+France U17
+2 - 1
+England U17
+FT
+Northern Ireland U17
+3 - 1
+Hungary U17
+EURO U17 - ELITE ROUND: GROUP 2
+MARCH 26
+FT
+Bulgaria U17
+1 - 2
+Wales U17
+FT
+Romania U17
+1 - 1
+Sweden U17
+EURO U17 - ELITE ROUND: GROUP 3
+MARCH 26
+FT
+Belgium U17
+2 - 2
+Netherlands U17
+FT
+Italy U17
+2 - 2
+Finland U17
+EURO U17 - ELITE ROUND: GROUP 5
+MARCH 26
+FT
+Germany U17
+2 - 3
+Portugal U17
+FT
+Ireland U17
+0 - 5
+Croatia U17
+EURO U17 - ELITE ROUND: GROUP 6
+MARCH 26
+FT
+Denmark U17
+7 - 0
+Georgia U17
+FT
+Serbia U17
+3 - 0
+Turkiye U17
+EURO U17 - ELITE ROUND: GROUP 7
+MARCH 26
+FT
+Austria U17
+3 - 1
+Spain U17
+FT
+Norway U17
+2 - 1
+Slovenia U17
+EURO U17 - ELITE ROUND: GROUP 8
+MARCH 26
+FT
+Bosnia and Herzegovina U17
+3 - 1
+Belarus U17
+FT
+Czechia U17
+1 - 2
+Poland U17
+USA - NISA
+MARCH 26
+Postp.
+Georgia Lions FC
+-
+Irvine Zeta FC
+Postp.
+Michigan Stars
+-
+Capo
+UZBEKISTAN - PRO LEAGUE
+MARCH 26
+FT
+FK Aral Samali
+1 - 3
+Kokand 1912
+Live Scores and fixtures for football on 26 March 2024
+Looking for the livescore today? See live scores and fixtures for football on 26 March 2024.
+LiveScore brings you the latest football fixtures, results and live score information for 26 March 2024. Revisit scores and statistics and look ahead for upcoming fixtures for your favourite sport team. Plus, find out the livescore today, 26 March 2024.
+© 1998-2024 LiveScore Limited
+CareersMobileAdvertiseContactPrivacy NoticeCookie PolicyTerms of UseCorporate
+ 
+ 
+ ----- 
+ Source link : https://www.livescore.mobi/football/2024-03-26/ 
+ ----- 

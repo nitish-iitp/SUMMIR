@@ -1,0 +1,402 @@
+NBA
+Games
+Schedule
+Watch
+News
+All-Star
+Stats
+Standings
+Teams
+Players
+NBA Play
+Fantasy
+NBA Bet
+League Pass
+Store
+Tickets
+Affiliates
+Sign In
+All-Star
+League Pass
+Games
+Schedule
+Watch
+News
+Stats
+Standings
+Teams
+Players
+NBA Play
+NBA Bet
+Fantasy
+Store
+Tickets
+Affiliates
+
+Sun, Jan 05
+Mon, Jan 06
+Tue, Jan 07
+Wed, Jan 08
+Thu, Jan 09
+Fri, Jan 10
+Sat, Jan 11
+Sun, Jan 12
+Mon, Jan 13
+Tue, Jan 14
+Hide Scores
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:00 AM UTC (SATURDAY)
+
+LP
+
+NOP
+7-31
+PHI
+15-20
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:00 AM UTC (SATURDAY)
+
+LP
+
+MIL
+19-16
+ORL
+22-17
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:00 AM UTC (SATURDAY)
+
+LP
+
+GSW
+19-18
+IND
+20-18
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:30 AM UTC (SATURDAY)
+
+NBA TV
+
+OKC
+30-6
+NYK
+25-13
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:30 AM UTC (SATURDAY)
+
+LP
+
+SAC
+18-19
+BOS
+27-10
+PREVIEW
+TICKETS
+GAME CHARTS
+
+1:00 AM UTC (SATURDAY)
+
+LP
+
+WAS
+6-29
+CHI
+17-20
+PREVIEW
+TICKETS
+GAME CHARTS
+
+2:00 AM UTC (SATURDAY)
+
+LP
+
+BKN
+13-24
+DEN
+21-15
+
+SAT
+
+JAN 11
+
+PREVIEW
+TICKETS
+GAME CHARTS
+
+8:00 PM UTC
+
+LP
+
+HOU
+25-12
+ATL
+19-19
+PREVIEW
+TICKETS
+GAME CHARTS
+
+10:00 PM UTC
+
+LP
+
+UTA
+9-27
+PHX
+17-19
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:00 AM UTC (SUNDAY)
+
+LP
+
+TOR
+8-30
+DET
+19-19
+PREVIEW
+TICKETS
+GAME CHARTS
+
+1:00 AM UTC (SUNDAY)
+
+LP
+
+MEM
+24-14
+MIN
+20-17
+PREVIEW
+TICKETS
+GAME CHARTS
+
+3:00 AM UTC (SUNDAY)
+
+LP
+
+MIA
+19-17
+POR
+13-24
+PREVIEW
+TICKETS
+GAME CHARTS
+
+3:30 AM UTC (SUNDAY)
+
+LP
+
+SAS
+18-19
+LAL
+20-16
+PREVIEW
+TICKETS
+GAME CHARTS
+
+3:30 AM UTC (SUNDAY)
+
+LP
+
+CHA
+8-27
+LAC
+20-17
+SEE ALL GAMES
+ 
+OKC
+
+102
+
+FINAL
+
+87
+
+DEN
+Summary
+Box Score
+Game Charts
+Play-By-Play
+
+Traditional
+Advanced
+Misc
+Scoring
+Usage
+Four Factors
+Player Tracking
+Hustle
+Defense
+Matchups
+
+All Periods
+Q1
+Q2
+Q3
+Q4
+1st Half
+2nd Half
+Range Filter
+OKLAHOMA CITY THUNDER
+
+Click on any linked stat to view the Video and/or Shot Chart
+
+PLAYER\tMIN\tFGM\tFGA\tFG%\t3PM\t3PA\t3P%\tFTM\tFTA\tFT%\tOREB\tDREB\tREB\tAST\tSTL\tBLK\tTO\tPF\tPTS\t+/-
+
+Jalen Williams
+F
+\t33:43\t5\t16\t31.3\t2\t8\t25.0\t0\t1\t0.0\t1\t2\t3\t3\t0\t2\t5\t3\t12\t0
+
+Luguentz Dort
+F
+\t28:35\t2\t7\t28.6\t0\t2\t0.0\t1\t1\t100\t1\t1\t2\t0\t3\t1\t0\t3\t5\t-1
+
+Chet Holmgren
+C
+\t35:47\t11\t18\t61.1\t0\t5\t0.0\t3\t5\t60.0\t4\t10\t14\t5\t2\t4\t2\t2\t25\t9
+
+Isaiah Joe
+G
+\t20:25\t3\t10\t30.0\t1\t6\t16.7\t0\t0\t0.0\t1\t1\t2\t1\t0\t0\t0\t0\t7\t3
+
+Shai Gilgeous-Alexander
+G
+\t36:12\t11\t24\t45.8\t2\t6\t33.3\t4\t5\t80.0\t2\t5\t7\t8\t2\t3\t2\t2\t28\t8
+
+Cason Wallace
+\t23:02\t2\t7\t28.6\t0\t1\t0.0\t0\t0\t0.0\t2\t2\t4\t0\t2\t0\t0\t1\t4\t18
+
+Ousmane Dieng
+\t13:15\t2\t4\t50.0\t2\t3\t66.7\t0\t0\t0.0\t0\t3\t3\t0\t0\t1\t0\t1\t6\t14
+
+Alex Caruso
+\t19:06\t0\t2\t0.0\t0\t1\t0.0\t0\t0\t0.0\t2\t4\t6\t4\t0\t0\t1\t2\t0\t19
+
+Aaron Wiggins
+\t19:31\t7\t9\t77.8\t1\t2\t50.0\t0\t0\t0.0\t0\t6\t6\t1\t0\t2\t1\t1\t15\t6
+
+Ajay Mitchell
+\t6:51\t0\t3\t0.0\t0\t1\t0.0\t0\t0\t0.0\t0\t1\t1\t1\t0\t0\t1\t0\t0\t-1
+
+Dillon Jones
+\t1:11\t0\t1\t0.0\t0\t1\t0.0\t0\t0\t0.0\t0\t1\t1\t0\t0\t0\t0\t0\t0\t0
+
+Adam Flagler
+\t1:11\t0\t0\t0.0\t0\t0\t0.0\t0\t0\t0.0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0
+
+Alex Ducas
+\t1:11\t0\t0\t0.0\t0\t0\t0.0\t0\t0\t0.0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0
+
+Alex Reese
+\t
+DNP - Coach's Decision
+
+
+TOTALS
+\t \t43\t101\t42.6\t8\t36\t22.2\t8\t12\t66.7\t13\t36\t49\t23\t9\t13\t12\t15\t102\t15
+DENVER NUGGETS
+
+Click on any linked stat to view the Video and/or Shot Chart
+
+PLAYER\tMIN\tFGM\tFGA\tFG%\t3PM\t3PA\t3P%\tFTM\tFTA\tFT%\tOREB\tDREB\tREB\tAST\tSTL\tBLK\tTO\tPF\tPTS\t+/-
+
+Michael Porter Jr.
+F
+\t32:11\t5\t17\t29.4\t3\t10\t30.0\t2\t2\t100\t1\t7\t8\t2\t1\t0\t1\t2\t15\t-2
+
+Aaron Gordon
+F
+\t32:33\t5\t12\t41.7\t0\t1\t0.0\t2\t2\t100\t5\t4\t9\t2\t1\t0\t2\t1\t12\t-4
+
+Nikola Jokić
+C
+\t35:12\t6\t13\t46.2\t1\t3\t33.3\t3\t4\t75.0\t4\t8\t12\t13\t2\t1\t3\t3\t16\t-9
+
+Christian Braun
+G
+\t29:07\t8\t15\t53.3\t0\t3\t0.0\t0\t0\t0.0\t2\t5\t7\t1\t2\t2\t3\t1\t16\t8
+
+Jamal Murray
+G
+\t38:27\t4\t13\t30.8\t2\t5\t40.0\t2\t2\t100\t2\t4\t6\t4\t2\t0\t3\t2\t12\t-2
+
+Julian Strawther
+\t17:16\t3\t6\t50.0\t0\t2\t0.0\t0\t0\t0.0\t0\t0\t0\t1\t1\t0\t1\t2\t6\t-23
+
+Russell Westbrook
+\t21:16\t2\t10\t20.0\t1\t6\t16.7\t1\t4\t25.0\t1\t4\t5\t5\t1\t2\t2\t0\t6\t-24
+
+Peyton Watson
+\t14:47\t1\t7\t14.3\t0\t4\t0.0\t0\t0\t0.0\t2\t4\t6\t1\t0\t2\t0\t0\t2\t-13
+
+Dario Šarić
+\t11:02\t1\t2\t50.0\t0\t1\t0.0\t0\t0\t0.0\t0\t1\t1\t0\t1\t0\t0\t1\t2\t-6
+
+Vlatko Čančar
+\t1:38\t0\t0\t0.0\t0\t0\t0.0\t0\t0\t0.0\t0\t1\t1\t0\t0\t0\t0\t0\t0\t0
+
+Zeke Nnaji
+\t1:38\t0\t1\t0.0\t0\t1\t0.0\t0\t0\t0.0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0
+
+Hunter Tyson
+\t1:38\t0\t1\t0.0\t0\t1\t0.0\t0\t0\t0.0\t0\t1\t1\t0\t0\t0\t0\t0\t0\t0
+
+Jalen Pickett
+\t1:38\t0\t1\t0.0\t0\t1\t0.0\t0\t0\t0.0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0
+
+Trey Alexander
+\t1:38\t0\t0\t0.0\t0\t0\t0.0\t0\t0\t0.0\t0\t1\t1\t0\t0\t0\t0\t0\t0\t0
+
+DeAndre Jordan
+\t
+DNP - Coach's Decision
+
+
+TOTALS
+\t \t35\t98\t35.7\t7\t38\t18.4\t10\t14\t71.4\t17\t40\t57\t29\t11\t7\t15\t12\t87\t-15
+INACTIVE PLAYERS
+
+OKC: Nikola Topić, Jaylin Williams, Kenrich Williams, Isaiah Hartenstein
+
+DEN: Spencer Jones, DaRon Holmes II, PJ Hall
+
+NBA ORGANIZATION
+NBA INITIATIVES
+ACROSS THE LEAGUE
+SHOP
+SUBSCRIPTIONS
+© 2025 NBA Media Ventures, LLC. All rights reserved.
+Privacy Policy
+EEA/UK Privacy Statement
+Brazil Privacy Statement 
+Colorado Consumer Privacy Statement
+California Consumer Privacy Statement
+Terms of Use
+Cookie Policy
+Accessibility and Closed Captions
+Customer Support
+Manage Preferences
+
+If you are having difficulty accessing any content on this website, please visit our Accessibility page.
+
+NBA.com is part of Warner Media, LLC’s Turner Sports & Entertainment Digital Network
+ 
+ 
+ ----- 
+ Source link : https://www.nba.com/game/okc-vs-den-0022400075/box-score 
+ ----- 

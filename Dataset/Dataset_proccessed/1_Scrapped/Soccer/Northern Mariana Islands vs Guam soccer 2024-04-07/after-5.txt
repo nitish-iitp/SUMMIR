@@ -1,0 +1,437 @@
+Match Ticker
+Premier League
+Other Competitions
+Opta Football Stats
+Opta Football Predictions
+Newsletter
+American Football
+More
+NBA
+NCAA
+PREMIER LEAGUE
+Manchester United vs Liverpool: The Lessons Each Team Can Learn From Their FA Cup Clash
+APR 7, 2024
+RYAN BENSON / AUTHOR, DAVID SEGAR / AUTHOR, MATT SISNEROS / DESIGN, JONATHAN MANUEL / DATA VIZ
+Twitter
+WhatsApp
+Email
+Share
+
+Just three weeks on from an FA Cup classic, Manchester United and Liverpool tussle again at Old Trafford, this time in the Premier League. So, what learnings will they have taken from their last meeting?
+
+The FA Cup quarter-final between Manchester United and Liverpool was such an instant classic that they’ve decided to do it all again just three weeks later.
+
+Fair enough, the Premier League fixture schedulers also had a hand in it, but the neutrals will be hoping for another contest as exciting as United’s 4-3 extra-time victory over Liverpool last month, which ended the Reds’ hopes of a historic quadruple.
+
+Old Trafford will once again be the venue on Sunday, with plenty on the line again for both sides of this historic rivalry. Erik ten Hag’s men are hoping to force their way back into the race for UEFA Champions League qualification, and will also be looking to bounce back from being on the wrong end of another 4-3 after their dramatic late loss at Chelsea on Thursday night.
+
+Jürgen Klopp’s side are in the middle of a fierce title race with Arsenal and Manchester City, and survived a brief scare themselves on Thursday before eventually overcoming Sheffield United 3-1 at Anfield.
+
+With everything that occurred in their FA Cup match, it will be fascinating to see how both teams approach this league encounter, so we thought we’d look at what Manchester United and Liverpool can take from that chaotic game last month into this one.
+
+As Liverpool are the ones who need to force a different outcome here, we’ll look at them first.
+
+The Lessons Liverpool Can Learn
+Make More of Dominant Periods
+
+Despite sitting top of the Premier League, a theme of Liverpool’s season has been slow starts. They have conceded the first goal of a game 19 times in all competitions and did so again in the FA Cup defeat to Man Utd as Scott McTominay prodded United ahead in the 10th minute.
+
+That was no fluke as the hosts amassed six shots at goal to Liverpool’s two in the opening 13 minutes of the game. The visitors faced 11 shots in total in the first half, their second-most in a game this season after the FA Cup third-round win at Arsenal (13). However, once Alexis Mac Allister and Mohamed Salah made it 2-1 and turned the game on its head before half-time, the visitors seemed to settle.
+
+Liverpool had eight shots to United’s two between the start of the second half and the 73rd minute but were unable to add to their lead. They were ultimately made to pay for it when Antony fired in an equaliser with three minutes of normal time remaining. In the second half of normal time, Liverpool had 61.3% possession, despite leading for the vast majority of the time, but never really produced the necessary intensity and ruthlessness to kill off the game.
+
+Overall, Klopp’s men outshot United 23-19 in normal time, hitting the target 10 times, but only amassed 2.12 expected goals (xG). Of those 23 shots, only six had an xG higher than 0.1.
+
+In normal time, Liverpool recorded 64 final-third entries to United’s 36, but simply didn’t make the most of it. One standout moment that didn’t even go down as a chance because they failed to get a shot away was a five-on-two attacking scenario with just over 10 minutes of normal time remaining. It summed up Liverpool’s second half and seemed to be a momentum shifter in the contest as United stepped things up, worked their way back into the game and ultimately won.
+
+Shot volume is rarely a problem for Liverpool. In the Premier League this season they have attempted the most shots by some distance, with their 430 shots (excluding blocks), 61 more than the next most (369 – Manchester City), while they also have the highest overall xG at 68.07 (ahead of City’s 62.05).
+
+They had 83.1% possession against Sheffield United on Thursday, the most by a team on record in a Premier League game (since 2006-07), but it still took a while for them to make it count. Take their chances when they come and be more clinical with their finishing and this time they might not give Man Utd a chance to get back into the game.
+
+Get Salah and Núñez Closer Together
+
+Following on from that, it was particularly noticeable how – despite, in theory, playing next to each other – Salah and Darwin Núñez at times felt as though they could have been on separate pitches.
+
+The Egyptian and the Uruguayan were motoring as a partnership earlier this season, seemingly assisting each other for goals on a weekly basis. In fact, Núñez didn’t assist anyone else for a goal until December’s 2-0 win at Sheffield United.
+
+However, at Old Trafford, Salah and Núñez only passed to each other four times (twice each) in the 77 minutes they spent on the pitch together.
+
+It should be noted that in the 30 minutes they played together in the 1-1 draw with Manchester City last month they combined six times, but only did so five times in the 2-1 win over Brighton last Sunday when they shared the pitch for 83 minutes and another five against Sheffield United in their hour together.
+
+With some of the wide-open spaces Liverpool enjoyed at Old Trafford last time, you feel if those two can find the connection that flourished in the first half of the campaign again, they can punish United far more than they did in the cup game. As you can see from their attacking touches in the final third below, they did seem to focus more on the left where Luis Díaz was carrying the threat, and finding more balance in this game could help to pull United out of their defensive shape a bit more.
+
+Give the Ball to Mac Allister
+
+That said, if Mac Allister continues his run of form, perhaps he can be the key to unlocking both Núñez and Salah. The World Cup winner has been playing at the top of his game of late, and as well as scoring, he created four chances from open play for Liverpool in the FA Cup game at United, the joint-most for his side along with Díaz.
+
+He went one better in the league win over Brighton at the weekend, making five chances from open play, including a delightful assist for Salah to win the game for Liverpool in the second half when he controlled Dominik Szoboszlai’s fierce ball into him and slid the Egyptian in for a routine finish.
+
+Mac Allister was influencing things again on Thursday, with his stunning strike against Sheffield United also turning that game in Liverpool’s favour.
+
+Mac Allister has been involved in at least one goal in each of his last six Premier League appearances (3 goals, 4 assists), while he’s been involved in 10 goals in his last 10 appearances for Liverpool in all competitions (5 goals, 5 assists).
+
+The former Brighton midfielder has become one of Klopp’s most important players in the last few months, even though he has sometimes had to play a little deeper than usual. His manager said after Thursday’s win: “I prefer him as well [playing higher up] but we are not living in dreamland, so we had the problem on the position tonight and, in the end, it worked out. But yes, the impact, we saw as well that it would be helpful to have him between the lines, between the right lines, their last line. That’s why we changed.
+
+“But then we changed back to a double six – there he was deeper again. I don’t even exactly know when he scored – if it was from the double six, probably, where we played already 4-4-2, I think, and it was not [as an] eight. But the impact he can have is massive everywhere.”
+
+Wataru Endo missed the Sheffield United game but should be back on Sunday, meaning Mac Allister should be able to play higher again. Will he be the difference maker once more?
+
+Stop Rashford
+
+Marcus Rashford has come in for a lot of criticism recently. If you only ever watched him play against Liverpool at Old Trafford, though, you would probably wonder why.
+
+The England international has played against Liverpool 17 times in all competitions and has scored seven goals. All seven have come at United’s home in the space of nine games. It is the most Rashford has scored against any single opponent at the Theatre of Dreams, having scored five there against Leicester City and four against each of Bournemouth, Chelsea and Arsenal.
+
+Rashford scored again in the 4-3 FA Cup win, equalising in extra-time before Amad Diallo’s dramatic late winner. It showed his resilience as it came following a late miss in normal time where he failed to score what would have been a winner from a chance that Opta recorded at 0.62 xG.
+
+Liverpool struggled generally with stopping United’s left side, as the zones of control graphic below shows. Rashford created five chances – the joint-most of any player in the game along with Alejandro Garnacho – and only McTominay had as many as his two shots on target of United players.
+
+Having scored 30 goals in 56 games in all competitions last season, Rashford has undoubtedly regressed in form in 2023-24, scoring just eight times in 37 games so far. When it comes to facing Liverpool at Old Trafford, though, Klopp’s side will have to prepare for the best of him and, at the very least, manage that side of the pitch better than they did three weeks ago.
+
+What Manchester United Did Well
+Overloading the Left
+
+We’ve just mentioned that it was an issue for Liverpool, but key to United’s attacking threat, which was fairly significant across the full 120 minutes, was the danger they created from their left flank.
+
+Rashford might not be having his best season but his pace, use of the ball and desire to get into the box caused Liverpool real issues last month.
+
+It wasn’t as if Garnacho – who technically started from the right (more on that later) – didn’t cause Liverpool problems too, because he did. But when United were on the front foot, much of their team shifted towards the left as they attempted to overload their visitors, especially in the first half as the passing network below shows.
+
+Jonathan Manuel / Data Analyst
+
+That might have been partly down to the fact the players who started on the right side of Liverpool’s defence were Joe Gomez and the inexperienced – albeit still impressive for his age – Jarell Quansah, as opposed to the far more established duo of Virgil van Dijk and Andy Robertson on the left side.
+
+The attacks for each of United’s first two goals emanated from the left wing. Those contributed to seven out of 14 chances in the regulation 90 minutes coming from that side of the pitch.
+
+Similarly, over the full 120 minutes, 50.3% of their attacking touches came in the left third of the Liverpool half.
+
+As such, it would be reasonable to expect a similar approach from United, and perhaps that makes them a little predictable; but just because you can predict something doesn’t mean you can stop it.
+
+McTominay From Deep
+
+Of course, United’s attacking threat didn’t just boil down to Rashford running fast and kicking the ball towards goal. The inroads they made in the final third were most successful down the left, but that helped create space and opportunities for others.
+
+McTominay was particularly effective with his forward runs from midfield, as we’ve seen in the past. He put United in front early on when he followed up on a saved Garnacho shot, nudging over the line from close range, though that wasn’t the only time he threatened.
+
+He should have made it 2-0 soon after when latching on to Rashford’s cut-back just in front of the penalty spot, but he smashed his effort straight at Caoimhín Kelleher.
+
+Then, in extra-time, he charged forward and fed Rashford perfectly to make it 3-3, before another late dart onto an exquisite pass from the England international saw McTominay prod agonisingly wide when a goal looked a certainty.
+
+The issue with McTominay is he doesn’t offer great protection defensively and that was part of the reason United looked so exposed and open at times. You have to accept there are sacrifices to be made if you want to exploit what he offers in attack, unless Fernandes is shifted towards the right and McTominay takes up an advanced position in midfield ahead of Casemiro and Kobbie Mainoo.
+
+In reality, McTominay is the least likely to start this Sunday out of the front six who lined up in the FA Cup clash. He came off the bench in Thursday’s defeat at Chelsea, but he’s proven time and time again this season that he only needs a cameo appearance to make an impact, and Liverpool’s last visit to Old Trafford provided plenty of warnings in the event Ten Hag turns to the Scotland midfielder.
+
+Unpredictable and Adaptable Garnacho
+
+Garnacho has given United another dimension since taking over from the largely ineffective Antony on the right flank in December. Although they might not have attacked anywhere near as frequently down his side as they did on Rashford’s wing in the March FA Cup classic, he was still very prominent.
+
+This was because Garnacho almost seemed to be given free rein to roam, meaning he regularly popped up in the middle or alongside Rashford on the left flank, with their heat maps highlighting this well. He was even doing this before Rashford went through the middle after Rasmus Højlund’s withdrawal in the second half.
+
+One instance of them combining proved crucial for the opening goal, as Garnacho made an off-ball run into the left side of the Liverpool area and was fed by Rashford. The Argentina international’s shot was saved, but McTominay followed up and knocked it over the line.
+
+Later, a more direct run of his on the ball from the left led to Antony’s swivel and shot, which levelled the game at 2-2.
+
+Garnacho and Rashford each ended the game with a match-high five chances created, and the young forward’s ability to be a danger across the frontline undoubtedly helped to sow the discord and chaos that United thrived on in last month’s win.
+
+A rather laboured-looking performance against Brentford on Saturday might have Ten Hag contemplating giving Garnacho a rest, particularly with United’s FA Cup matchwinner Amad Diallo set to return from the suspension that resulted from his ‘excessive’ celebration against Liverpool.
+
+Having said that, he was very lively in the midweek defeat at Chelsea, scoring twice, and if there’s any match that can energise a player through sheer adrenaline, it’s this one.
+
+Quick Out the Blocks
+
+The effectiveness of the likes of Rashford, McTominay and Garnacho in the FA Cup victory were indicative of a refreshing urgency United started that game with, and one that arguably isn’t associated with them in general.
+
+Although it wouldn’t be accurate to say United kept that level of intensity up, as they faded even before half-time, it provided a glimpse of their potential and what they can do to good teams.
+
+They ‘parked the bus’ at Anfield, but not in this game.
+
+Erik ten Hag called the opening half hour “the best of our whole season”, and it’s easy to see why.
+
+In the first half, United recorded seven shots on target; going back as far as 2006-07, they’ve only had more attempts on target in the first 45 minutes of a game in any competition on two occasions – against lesser opposition in Norwich City in October 2019 and Burton Albion in September 2017.
+
+They could have been smarter and tighter in midfield, but fans want to see United attack at Old Trafford, and they certainly did that.
+
+They rode their luck at times, for sure, and a similar approach this weekend certainly won’t guarantee anything, but United showed what they’re capable of on their day. Can they do so again?
+
+Enjoy this? Subscribe to our football newsletter to receive exclusive weekly content. You should also follow our social accounts over on X, Instagram, TikTok and Facebook.
+
+RELATED ARTICLES
+STAT, VIZ, QUIZ
+Mohamed Salah at It Again for Liverpool, and Boxing Day Bonanzas
+5 HOURS AGO DAVID SEGAR
+PREMIER LEAGUE
+Premier League Match Predictions
+1 DAY AGO CHRIS MYSON
+PREMIER LEAGUE
+Arsenal vs Ipswich Prediction
+1 DAY AGO MATT FURNISS
+PREMIER LEAGUE
+Bottom of the Premier League at Christmas: What Does It Mean?
+1 DAY AGO RYAN BENSON
+Subscribe
+
+Sign up and be the first to receive exclusive stats, news, and updates from Opta Analyst.
+
+Country*
+Select A Country
+Canada
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Afghanistan
+Åland Islands
+Albania
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia (Plurinational State of)
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+United States Minor Outlying Islands
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (Democratic Republic of the)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran (Islamic Republic of)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia (the former Yugoslav Republic of)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova (Republic of)
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Korea (Democratic People's Republic of)
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Kosovo
+Réunion
+Romania
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Korea (Republic of)
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suricontent
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela (Bolivarian Republic of)
+Viet Nam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I agree to receive emails from Opta Analyst.
+See our Privacy Policy for more details.
+Privacy Policy
+Terms of Use
+Do Not Sell My Information
+Advertising
+Cookie Policy
+© 2024 Opta Analyst. All Rights Reserved.
+ 
+ 
+ ----- 
+ Source link : https://theanalyst.com/2024/04/manchester-united-vs-liverpool-lessons-learned 
+ ----- 

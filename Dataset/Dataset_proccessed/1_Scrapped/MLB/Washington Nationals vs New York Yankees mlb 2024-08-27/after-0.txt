@@ -1,0 +1,630 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Washington Nationals Schedule
+New York Yankees Schedule
+New York Yankees vs Washington Nationals Box Score: August 27, 2024
+MLB Scores — August 27, 2024
+TEX	3	Final
+CHW	1	
+OAK	5	Final
+CIN	4	
+KCR	6	Final
+CLE	1	
+LAA	2	Final
+DET	6	
+HOU	0	Final
+PHI	5	
+CHC	9	Final
+PIT	5	
+NYY	2	Final
+WSN	4	
+TOR	3	Final
+BOS	6	
+ATL	8	Final
+MIN	6	(10)
+SDP	7	Final
+STL	5	
+SFG	5	Final
+MIL	4	
+MIA	9	Final
+COL	8	
+NYM	8	Final
+ARI	3	
+TBR	3	Final
+SEA	2	
+BAL	3	Final
+LAD	2	
+MLB Scores & Standings on this Day
+New York Yankees
+2
+78-55
+Prev Game Next Game
+ 
+Washington Nationals
+4
+60-73
+Prev Game Next Game
+Tuesday, August 27, 2024
+Start Time: 6:45 p.m. Local
+Attendance: 34,334
+Venue: Nationals Park
+Game Duration: 2:31
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	New York Yankees	0	0	0	0	0	0	0	1	1	2	8	4
+
+	Washington Nationals	0	1	0	2	0	1	0	0	X	4	7	1
+WP: Patrick Corbin (4-12) • LP: Gerrit Cole (5-3) • SV: Kyle Finnegan (33)
+New York Yankees 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Gleyber Torres 2B	4	0	1	0	1	1	5	.242	.321	.363	.683	23	13	-0.057	1.20	0.059	-0.117	-0.04%	1.39	-0.2	0	3	
+Juan Soto RF	4	0	0	0	0	1	4	.294	.424	.595	1.019	19	13	0.024	0.97	0.080	-0.056	0.02%	1.12	0.3	1	0	
+Aaron Judge CF	3	0	1	0	1	1	4	.333	.465	.732	1.197	18	9	-0.128	1.23	0.034	-0.162	-0.09%	1.42	-0.9	3	0	2B,GDP
+Giancarlo Stanton DH	4	0	1	0	0	1	4	.241	.301	.485	.786	22	15	-0.043	0.87	0.032	-0.075	-0.03%	1.00	-0.6	0	0	
+Jazz Chisholm Jr. 3B	4	1	1	0	0	2	4	.255	.324	.446	.769	20	12	-0.027	1.04	0.047	-0.074	-0.02%	1.20	0.2	0	1	2B
+Anthony Volpe SS	4	0	1	1	0	0	4	.250	.301	.387	.688	15	9	-0.073	0.89	0.016	-0.090	-0.05%	1.03	-0.3	0	3	
+Jose Trevino C	2	0	0	0	0	0	2	.231	.300	.390	.691	8	5	-0.033	0.66	0.000	-0.033	-0.02%	0.76	-0.3	8	0	
+   Austin Wells PH-C	1	0	1	0	1	0	2	.256	.347	.426	.773	7	1	0.077	0.82	0.077	0.000	0.05%	0.96	0.6	1	0	
+Alex Verdugo LF	4	0	1	0	0	1	4	.233	.294	.362	.656	11	6	-0.021	1.29	0.077	-0.098	-0.01%	1.50	-0.9	0	0	GDP
+DJ LeMahieu 1B	4	1	1	0	0	0	4	.200	.267	.256	.523	17	13	-0.092	1.35	0.023	-0.115	-0.06%	1.57	-0.3	11	0	
+																							
+Gerrit Cole P																					0	0	
+   Tim Mayza P																					0	1	
+   Tim Hill P																					0	2	
+   Phil Bickford P																					0	0	
+Team Totals	34	2	8	1	3	7	37	.235	.297	.294	.591	160	96	-0.373	1.07	0.445	-0.820	-0.26%	1.24	-2.4	24	10	
+2B: Aaron Judge (31, off Patrick Corbin); Jazz Chisholm Jr. (17, off Kyle Finnegan).
+TB: Jazz Chisholm Jr. 2; Aaron Judge 2; DJ LeMahieu; Alex Verdugo; Austin Wells; Gleyber Torres; Giancarlo Stanton; Anthony Volpe.
+GIDP: Alex Verdugo (12); Aaron Judge (20).
+RBI: Anthony Volpe (48).
+Team LOB: 8.
+With RISP: 0 for 8.
+Fielding
+E: Jose Trevino (6); Jazz Chisholm Jr. (8); DJ LeMahieu (2); Gleyber Torres (15).
+Washington Nationals 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+CJ Abrams SS	4	0	0	0	0	0	4	.245	.316	.434	.750	19	11	-0.068	0.65	0.000	-0.068	0%	0.00	-1.2	1	6	
+James Wood LF	4	0	0	0	0	2	4	.275	.374	.429	.803	14	10	0.015	0.56	0.040	-0.026	0%	0.00	-0.2	0	0	SB
+Luis García Jr. 2B	3	0	1	0	1	1	4	.292	.328	.456	.784	11	6	-0.007	0.48	0.029	-0.036	0%	0.00	0.0	3	4	SB
+Keibert Ruiz C	4	0	0	0	0	1	4	.223	.255	.359	.614	14	10	-0.066	0.61	0.000	-0.066	0%	0.00	-1.0	6	2	
+Andrés Chaparro DH	4	1	1	1	0	3	4	.265	.308	.469	.777	21	12	0.061	0.61	0.103	-0.042	0%	0.00	0.2	0	0	HR
+José Tena 3B	4	2	2	1	0	0	4	.314	.340	.451	.791	12	9	0.091	0.41	0.100	-0.009	0%	0.00	0.9	0	3	HR
+Dylan Crews RF	4	1	2	0	0	0	4	.286	.375	.429	.804	16	10	0.104	0.46	0.115	-0.011	0%	0.00	1.2	2	0	2B,SB
+Joey Gallo 1B	3	0	1	1	0	0	3	.168	.286	.317	.602	10	5	0.050	0.65	0.050	0.000	0%	0.00	1.1	13	0	2B,SB
+Jacob Young CF	3	0	0	0	0	2	3	.255	.314	.338	.651	11	10	-0.052	0.66	0.000	-0.052	0%	0.00	-1.0	2	0	
+																							
+Patrick Corbin P																					0	1	
+   Eduardo Salazar P																					0	0	
+   Jose A. Ferrer P																					0	0	
+   Jacob Barnes P																					0	0	
+   Kyle Finnegan P																					0	0	
+Team Totals	33	4	7	3	1	9	34	.212	.235	.455	.690	128	83	0.128	0.57	0.437	-0.310	0.00%	0.00	0.1	27	16	
+2B: Dylan Crews (1, off Gerrit Cole); Joey Gallo (9, off Gerrit Cole).
+HR: Andrés Chaparro (1, off Gerrit Cole, 4th inn, 0 on, 0 outs to Deep LF Line); José Tena (2, off Gerrit Cole, 4th inn, 0 on, 0 outs to Deep CF-RF).
+TB: José Tena 5; Andrés Chaparro 4; Dylan Crews 3; Joey Gallo 2; Luis García Jr..
+RBI: José Tena (7); Joey Gallo (13); Andrés Chaparro (4).
+Team LOB: 6.
+With RISP: 0 for 10.
+Fielding
+DP: 2. CJ Abrams-Luis García Jr.-Joey Gallo 2.
+E: Luis García Jr. (8).
+Baserunning
+SB: James Wood (8, 2nd base off Gerrit Cole/Jose Trevino); Luis García Jr. (21, 2nd base off Gerrit Cole/Jose Trevino); Dylan Crews (1, 3rd base off Tim Mayza/Jose Trevino); Joey Gallo (2, 2nd base off Tim Mayza/Jose Trevino).
+New York Yankees 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Gerrit Cole, L (5-3)	5	6	3	3	1	7	2	3.86	23	91	56	32	10	14	7	8	4	0	49			-0.110	0.74	-0.08%	0.86	-0.6
+Tim Mayza	1	1	1	0	0	1	0	7.34	5	15	11	7	1	3	4	0	0	0		0	0	-0.029	0.32	-0.02%	0.37	-0.5
+Tim Hill	1	0	0	0	0	0	0	3.79	3	6	5	3	0	2	3	0	0	0		0	0	0.006	0.08	0.00%	0.09	0.5
+Phil Bickford	1	0	0	0	0	1	0	12.00	3	16	11	5	2	4	1	1	0	0		0	0	0.006	0.08	0.00%	0.09	0.5
+Team Totals	8	7	4	3	1	9	2	3.38	34	128	83	47	13	23	15	9	4	0	49	0	0	-0.127	0.57	-0.09%	0.66	-0.1
+
+Washington Nationals 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Patrick Corbin, W (4-12)	6	2	0	0	2	6	0	5.50	22	104	64	34	11	19	9	5	4	0	72			0.307	0.78	0.00%	0.00	2.9
+Eduardo Salazar	0.1	1	0	0	1	1	0	1.29	3	9	5	2	1	2	1	0	0	0		0	0	-0.030	0.55	0.00%	0.00	-0.4
+Jose A. Ferrer, H (1)	0.2	0	0	0	0	0	0	4.91	1	2	1	1	0	0	1	0	0	0		2	0	0.058	1.47	0.00%	0.00	0.9
+Jacob Barnes	0.2	2	1	0	0	0	0	3.43	4	15	9	8	0	1	4	0	0	0		0	0	-0.015	1.55	0.00%	0.00	-0.9
+Kyle Finnegan, S (33)	1.1	3	1	1	0	0	0	3.59	7	30	17	10	2	5	4	3	1	0		1	0	0.054	1.78	0.00%	0.00	-0.2
+Team Totals	9	8	2	1	3	7	0	1.00	37	160	96	55	14	27	19	8	5	0	72	3	0	0.374	1.07	0.00%	0.00	2.4
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Phil Cuzzi, 1B - Tony Randazzo, 2B - Alex Tosi, 3B - Dan Bellino, LF - (none), RF - (none).
+Time of Game: 2:31.
+Attendance: 34,334.
+Field Condition: Unknown.
+Start Time Weather: 88° F, Wind 5mph out to Rightfield, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Yankees
+1	Gleyber Torres	2B
+2	Juan Soto	RF
+3	Aaron Judge	CF
+4	Giancarlo Stanton	DH
+5	Jazz Chisholm Jr.	3B
+6	Anthony Volpe	SS
+7	Jose Trevino	C
+8	Alex Verdugo	LF
+9	DJ LeMahieu	1B
+	Gerrit Cole	P
+Nationals
+1	CJ Abrams	SS
+2	James Wood	LF
+3	Luis García Jr.	2B
+4	Keibert Ruiz	C
+5	Andrés Chaparro	DH
+6	José Tena	3B
+7	Dylan Crews	RF
+8	Joey Gallo	1B
+9	Jacob Young	CF
+	Patrick Corbin	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - New York Yankees vs. Washington Nationals, August 27 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+WSN
+50%
+NYY
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.48
+5	0.45
+6	0.47
+7	0.45
+8	0.43
+9	0.47
+10	0.5
+11	0.48
+12	0.46
+13	0.45
+14	0.47
+15	0.45
+16	0.36
+17	0.35
+18	0.38
+19	0.36
+20	0.34
+21	0.35
+22	0.33
+23	0.35
+24	0.36
+25	0.35
+26	0.37
+27	0.34
+28	0.38
+29	0.34
+30	0.31
+31	0.21
+32	0.13
+33	0.14
+34	0.12
+35	0.14
+36	0.16
+37	0.13
+38	0.12
+39	0.11
+40	0.12
+41	0.11
+42	0.1
+43	0.11
+44	0.13
+45	0.11
+46	0.09
+47	0.1
+48	0.08
+49	0.09
+50	0.08
+51	0.06
+52	0.05
+53	0.05
+54	0.05
+55	0.04
+56	0.06
+57	0.08
+58	0.03
+59	0.03
+60	0.03
+61	0.03
+62	0.06
+63	0.1
+64	0.18
+65	0.05
+66	0.03
+67	0.03
+68	0.03
+69	0.03
+70	0.07
+71	0.08
+72	0.03
+73	0.08
+74	0.16
+75	0.07
+76	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+t8	0-4	0	123	5,(3-1) 	ROO	NYY	Aaron Judge	Jacob Barnes	13%	95%	Ground Ball Double Play: SS-2B-1B; D. LeMahieu Scores/No RBI/unER; G. Torres to 3B
+b4	1-0	0	---	5,(2-2) 	R	WSN	Andrés Chaparro	Gerrit Cole	10%	79%	Home Run (Fly Ball to Deep LF Line)
+b2	0-0	1	1--	3,(2-0) 		WSN	Dylan Crews	Gerrit Cole	9%	64%	Double to LF (Line Drive to Deep LF); J. Tena to 3B
+t9	2-4	1	12-	3,(1-1) 	O	NYY	DJ LeMahieu	Kyle Finnegan	9%	93%	Foul Popfly: RF (Short RF into Foul Terr.)
+t8	0-4	0	12-	4,(1-2) 		NYY	Juan Soto	Jacob Barnes	-8%	82%	Fielder's Choice 2B; D. LeMahieu to 3B; G. Torres to 2B/Adv on E4 (throw); J. Soto to 1B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, Nationals' Patrick Corbin facing 1-2-3
+t1	0-0	0	---	2,(0-1) 	O	NYY	Gleyber Torres	Patrick Corbin	2%	52%	Groundout: 3B-1B
+t1	0-0	1	---	6,(3-2) 	O	NYY	Juan Soto	Patrick Corbin	2%	54%	Lineout: CF (Deep CF)
+t1	0-0	2	---	3,(1-1) 		NYY	Aaron Judge	Patrick Corbin	-2%	52%	Double to RF (Line Drive to Deep RF Line)
+t1	0-0	2	-2-	4,(1-2) 	O	NYY	Giancarlo Stanton	Patrick Corbin	3%	55%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Nationals 0.
+Bottom of the 1st, Nationals Batting, Tied 0-0, Yankees' Gerrit Cole facing 1-2-3
+b1	0-0	0	---	2,(1-0) 	O	WSN	CJ Abrams	Gerrit Cole	-2%	53%	Groundout: 2B-1B
+b1	0-0	1	---	2,(0-1) 		WSN	James Wood	Gerrit Cole	2%	55%	Reached on E5 (throw) (Ground Ball to Weak SS); J. Wood to 1B
+b1	0-0	1	1--	1,(0-0) 		WSN	Luis García Jr.	Gerrit Cole	2%	57%	J. Wood Steals 2B
+b1	0-0	1	-2-	4,(1-2) 	O	WSN	Luis García Jr.	Gerrit Cole	-3%	53%	Strikeout Swinging
+b1	0-0	2	-2-	3,(1-1) 	O	WSN	Keibert Ruiz	Gerrit Cole	-3%	50%	Lineout: CF (Deep CF)
+									0 runs, 0 hits, 1 error, 1 LOB. Yankees 0, Nationals 0.
+Top of the 2nd, Yankees Batting, Tied 0-0, Nationals' Patrick Corbin facing 5-6-7
+t2	0-0	0	---	7,(3-2) 	O	NYY	Jazz Chisholm Jr.	Patrick Corbin	2%	52%	Groundout: P-1B (P's Left)
+t2	0-0	1	---	4,(2-1) 	O	NYY	Anthony Volpe	Patrick Corbin	2%	54%	Groundout: SS-1B
+t2	0-0	2	---	5,(3-1) 	O	NYY	Jose Trevino	Patrick Corbin	1%	55%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Nationals 0.
+Bottom of the 2nd, Nationals Batting, Tied 0-0, Yankees' Gerrit Cole facing 5-6-7
+b2	0-0	0	---	5,(2-2) 	O	WSN	Andrés Chaparro	Gerrit Cole	-2%	53%	Strikeout Swinging
+b2	0-0	1	---	3,(1-1) 		WSN	José Tena	Gerrit Cole	3%	55%	Single to CF (Line Drive to Deep CF)
+b2	0-0	1	1--	3,(2-0) 		WSN	Dylan Crews	Gerrit Cole	9%	64%	Double to LF (Line Drive to Deep LF); J. Tena to 3B
+b2	0-0	1	-23	2,(1-0) 	RO	WSN	Joey Gallo	Gerrit Cole	1%	65%	Groundout: 2B-1B (2B-1B); J. Tena Scores; D. Crews to 3B
+b2	1-0	2	--3	3,(0-2) 	O	WSN	Jacob Young	Gerrit Cole	-3%	62%	Strikeout Looking
+									1 run, 2 hits, 0 errors, 1 LOB. Yankees 0, Nationals 1.
+Top of the 3rd, Yankees Batting, Behind 0-1, Nationals' Patrick Corbin facing 8-9-1
+t3	0-1	0	---	6,(3-2) 	O	NYY	Alex Verdugo	Patrick Corbin	3%	64%	Strikeout Looking
+t3	0-1	1	---	5,(1-2) 	O	NYY	DJ LeMahieu	Patrick Corbin	2%	66%	Groundout: 2B-1B (2B-1B)
+t3	0-1	2	---	6,(3-2) 		NYY	Gleyber Torres	Patrick Corbin	-1%	65%	Walk
+t3	0-1	2	1--	4,(1-2) 	O	NYY	Juan Soto	Patrick Corbin	3%	67%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Nationals 1.
+Bottom of the 3rd, Nationals Batting, Ahead 1-0, Yankees' Gerrit Cole facing 1-2-3
+b3	1-0	0	---	6,(3-2) 	O	WSN	CJ Abrams	Gerrit Cole	-2%	65%	Lineout: CF (Deep LF-CF)
+b3	1-0	1	---	5,(2-2) 	O	WSN	James Wood	Gerrit Cole	-1%	64%	Strikeout Looking
+b3	1-0	2	---	1,(0-0) 		WSN	Luis García Jr.	Gerrit Cole	1%	65%	Single to LF (Ground Ball)
+b3	1-0	2	1--	3,(0-2) 	O	WSN	Keibert Ruiz	Gerrit Cole	-2%	63%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Nationals 1.
+Top of the 4th, Yankees Batting, Behind 0-1, Nationals' Patrick Corbin facing 3-4-5
+t4	0-1	0	---	4,(1-2) 	O	NYY	Aaron Judge	Patrick Corbin	3%	66%	Strikeout Swinging
+t4	0-1	1	---	8,(3-2) 		NYY	Giancarlo Stanton	Patrick Corbin	-3%	62%	Single to LF (Line Drive to Deep LF)
+t4	0-1	1	1--	7,(3-2) 	O	NYY	Jazz Chisholm Jr.	Patrick Corbin	4%	66%	Strikeout Swinging
+t4	0-1	2	1--	2,(1-0) 	O	NYY	Anthony Volpe	Patrick Corbin	3%	69%	Groundout: SS-2B/Forceout at 2B; A. Volpe to 1B
+									0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Nationals 1.
+Bottom of the 4th, Nationals Batting, Ahead 1-0, Yankees' Gerrit Cole facing 5-6-7
+b4	1-0	0	---	5,(2-2) 	R	WSN	Andrés Chaparro	Gerrit Cole	10%	79%	Home Run (Fly Ball to Deep LF Line)
+b4	2-0	0	---	1,(0-0) 	R	WSN	José Tena	Gerrit Cole	7%	87%	Home Run (Fly Ball to Deep CF-RF)
+b4	3-0	0	---	5,(2-2) 	O	WSN	Dylan Crews	Gerrit Cole	-1%	86%	Groundout: SS-1B
+b4	3-0	1	---	6,(3-2) 		WSN	Joey Gallo	Gerrit Cole	2%	88%	Double to RF (Fly Ball to Deep RF)
+b4	3-0	1	-2-	3,(0-2) 	O	WSN	Jacob Young	Gerrit Cole	-1%	86%	Groundout: 1B unassisted; J. Gallo to 3B
+b4	3-0	2	--3	8,(3-2) 	O	WSN	CJ Abrams	Gerrit Cole	-2%	84%	Flyball: CF
+									2 runs, 3 hits, 0 errors, 1 LOB. Yankees 0, Nationals 3.
+Top of the 5th, Yankees Batting, Behind 0-3, Nationals' Patrick Corbin facing 7-8-9
+t5	0-3	0	---	3,(0-2) 	O	NYY	Jose Trevino	Patrick Corbin	2%	87%	Groundout: 3B-1B
+t5	0-3	1	---	2,(1-0) 	O	NYY	Alex Verdugo	Patrick Corbin	1%	88%	Lineout: CF (Deep CF)
+t5	0-3	2	---	5,(1-2) 	O	NYY	DJ LeMahieu	Patrick Corbin	1%	89%	Groundout: 2B-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Nationals 3.
+Bottom of the 5th, Nationals Batting, Ahead 3-0, Yankees' Gerrit Cole facing 2-3-4
+b5	3-0	0	---	6,(2-2) 	O	WSN	James Wood	Gerrit Cole	-1%	88%	Strikeout Swinging
+b5	3-0	1	---	5,(3-1) 		WSN	Luis García Jr.	Gerrit Cole	1%	89%	Walk
+b5	3-0	1	1--	2,(1-0) 		WSN	Keibert Ruiz	Gerrit Cole	1%	90%	L. García Steals 2B
+b5	3-0	1	-2-	4,(2-1) 	O	WSN	Keibert Ruiz	Gerrit Cole	-1%	89%	Groundout: 2B-1B (2B-1B); L. García to 3B
+b5	3-0	2	--3	6,(3-2) 	O	WSN	Andrés Chaparro	Gerrit Cole	-2%	87%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Nationals 3.
+Top of the 6th, Yankees Batting, Behind 0-3, Nationals' Patrick Corbin facing 1-2-3
+t6	0-3	0	---	6,(2-2) 	O	NYY	Gleyber Torres	Patrick Corbin	2%	89%	Strikeout Swinging
+t6	0-3	1	---	5,(1-2) 	O	NYY	Juan Soto	Patrick Corbin	1%	91%	Groundout: C-1B
+t6	0-3	2	---	6,(3-2) 		NYY	Aaron Judge	Patrick Corbin	-1%	90%	Walk
+t6	0-3	2	1--	4,(1-2) 	O	NYY	Giancarlo Stanton	Patrick Corbin	2%	92%	Popfly: SS
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Nationals 3.
+Bottom of the 6th, Nationals Batting, Ahead 3-0, Yankees' Tim Mayza facing 6-7-8
+									
+Tim Mayza replaces Gerrit Cole pitching
+
+b6	3-0	0	---	1,(0-0) 	O	WSN	José Tena	Tim Mayza	-1%	91%	Bunt Groundout: P-1B (Front of Home)
+b6	3-0	1	---	4,(1-2) 		WSN	Dylan Crews	Tim Mayza	1%	92%	Single to C (Ground Ball); D. Crews to 2B/Adv on E2 (throw)
+b6	3-0	1	-2-	1,(0-0) 		WSN	Joey Gallo	Tim Mayza	1%	94%	D. Crews Steals 3B
+b6	3-0	1	--3	2,(1-0) 	R	WSN	Joey Gallo	Tim Mayza	2%	95%	Reached on E3 (Ground Ball); D. Crews Scores/No RBI/unER; J. Gallo to 1B
+b6	4-0	1	1--	5,(1-2) 	O	WSN	Jacob Young	Tim Mayza	0%	95%	Strikeout Swinging, J. Gallo Steals 2B; J. Gallo to 3B/Adv on E4
+b6	4-0	2	--3	3,(1-1) 	O	WSN	CJ Abrams	Tim Mayza	-1%	95%	Groundout: 3B-1B (Weak 3B)
+									1 run, 1 hit, 3 errors, 1 LOB. Yankees 0, Nationals 4.
+Top of the 7th, Yankees Batting, Behind 0-4, Nationals' Eduardo Salazar facing 5-6-7
+									
+Eduardo Salazar replaces Patrick Corbin pitching
+
+t7	0-4	0	---	3,(0-2) 	O	NYY	Jazz Chisholm Jr.	Eduardo Salazar	1%	96%	Strikeout Swinging; J. Chisholm out at 1B/C-1B
+t7	0-4	1	---	2,(0-1) 		NYY	Anthony Volpe	Eduardo Salazar	-2%	94%	Single to CF (Ground Ball thru SS-2B)
+									
+Austin Wells pinch hits for Jose Trevino (C) batting 7th
+
+t7	0-4	1	1--	4,(3-0) 		NYY	Austin Wells	Eduardo Salazar	-3%	92%	Walk; A. Volpe to 2B
+									
+Jose A. Ferrer replaces Eduardo Salazar pitching
+
+t7	0-4	1	12-	2,(1-0) 	OO	NYY	Alex Verdugo	Jose A. Ferrer	6%	97%	Ground Ball Double Play: SS-2B-1B
+									0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Nationals 4.
+Bottom of the 7th, Nationals Batting, Ahead 4-0, Yankees' Tim Hill facing 2-3-4
+									
+Tim Hill replaces Tim Mayza pitching
+Austin Wells moves from PH to C
+
+b7	4-0	0	---	1,(0-0) 	O	WSN	James Wood	Tim Hill	0%	97%	Groundout: P-1B (P's Left)
+b7	4-0	1	---	1,(0-0) 	O	WSN	Luis García Jr.	Tim Hill	0%	97%	Bunt Groundout: P-1B
+b7	4-0	2	---	4,(1-2) 	O	WSN	Keibert Ruiz	Tim Hill	0%	97%	Groundout: SS-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Nationals 4.
+Top of the 8th, Yankees Batting, Behind 0-4, Nationals' Jacob Barnes facing 9-1-2
+									
+Jacob Barnes replaces Jose A. Ferrer pitching
+
+t8	0-4	0	---	4,(1-2) 		NYY	DJ LeMahieu	Jacob Barnes	-2%	94%	Single to SS (Ground Ball to Weak SS-2B)
+t8	0-4	0	1--	2,(1-0) 		NYY	Gleyber Torres	Jacob Barnes	-4%	90%	Single to LF (Ground Ball thru SS-3B Hole); D. LeMahieu to 2B
+t8	0-4	0	12-	4,(1-2) 		NYY	Juan Soto	Jacob Barnes	-8%	82%	Fielder's Choice 2B; D. LeMahieu to 3B; G. Torres to 2B/Adv on E4 (throw); J. Soto to 1B
+t8	0-4	0	123	5,(3-1) 	ROO	NYY	Aaron Judge	Jacob Barnes	13%	95%	Ground Ball Double Play: SS-2B-1B; D. LeMahieu Scores/No RBI/unER; G. Torres to 3B
+									
+Kyle Finnegan replaces Jacob Barnes pitching
+
+t8	1-4	2	--3	6,(2-2) 	O	NYY	Giancarlo Stanton	Kyle Finnegan	2%	97%	Groundout: SS-1B
+									1 run, 2 hits, 1 error, 1 LOB. Yankees 1, Nationals 4.
+Bottom of the 8th, Nationals Batting, Ahead 4-1, Yankees' Phil Bickford facing 5-6-7
+									
+Phil Bickford replaces Tim Hill pitching
+
+b8	4-1	0	---	5,(2-2) 	O	WSN	Andrés Chaparro	Phil Bickford	0%	97%	Strikeout Swinging
+b8	4-1	1	---	7,(2-2) 	O	WSN	José Tena	Phil Bickford	0%	97%	Flyball: RF (Deep CF-RF)
+b8	4-1	2	---	4,(1-2) 	O	WSN	Dylan Crews	Phil Bickford	0%	97%	Groundout: SS-1B (SS-2B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 1, Nationals 4.
+Top of the 9th, Yankees Batting, Behind 1-4, Nationals' Kyle Finnegan facing 5-6-7
+t9	1-4	0	---	3,(2-0) 		NYY	Jazz Chisholm Jr.	Kyle Finnegan	-4%	93%	Double to RF (Line Drive to Deep CF-RF)
+t9	1-4	0	-2-	3,(0-2) 		NYY	Anthony Volpe	Kyle Finnegan	0%	92%	Defensive Indifference; J. Chisholm to 3B
+t9	1-4	0	--3	7,(3-2) 	RO	NYY	Anthony Volpe	Kyle Finnegan	4%	97%	Groundout: SS-1B; J. Chisholm Scores
+t9	2-4	1	---	3,(2-0) 		NYY	Austin Wells	Kyle Finnegan	-5%	92%	Single to LF (Ground Ball)
+t9	2-4	1	1--	1,(0-0) 		NYY	Alex Verdugo	Kyle Finnegan	-8%	84%	Single to CF (Ground Ball thru SS-2B); A. Wells to 2B
+t9	2-4	1	12-	3,(1-1) 	O	NYY	DJ LeMahieu	Kyle Finnegan	9%	93%	Foul Popfly: RF (Short RF into Foul Terr.)
+t9	2-4	2	12-	7,(3-2) 	O	NYY	Gleyber Torres	Kyle Finnegan	7%	100%	Flyball: RF (Deep CF-RF)
+									1 run, 3 hits, 0 errors, 2 LOB. Yankees 2, Nationals 4.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Washington Nationals Schedule New York Yankees Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > New York Yankees vs Washington Nationals Box Score: August 27, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Monday, January 13, 10:45AM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/WAS/WAS202408270.shtml 
+ ----- 

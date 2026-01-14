@@ -1,0 +1,873 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Split case with blown primer
+ 
+Thread starter
+RobertM  
+Start date
+Jan 16, 2024
+R
+RobertM
+Private
+Full Member
+Minuteman
+Jun 5, 2011
+54
+4
+77
+Hawaii
+Jan 16, 2024
+#1
+Doing some range time with my frankengun LR308. Barrel is a Fulton Criterion 18.5 " mated with old style DPMS Upper and lowers Adjustable gas block.
+
+Ammo was Privi Partisan 165 gr. Have had mildly crater primes on some commercial ammo, never on surplus M80.
+
+This round sounded and shot about right but caused an ejection jam and some smoke seeping from the receiver. No other retrieved case showed anything but the primer like on the right.
+
+I gather a timing issue could cause the bolt to unlock prematurely, but a few hundred rounds, never seen this.
+
+Anyone got an idea? Just put in a JP high pressure bolt to maybe stop the primer cratering.
+ 
+Attachments
+PPcases.jpg
+340.4 KB · Views: 252
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Jan 16, 2024
+#2
+Did this happen with the JP bolt or one that you were using previously? What action system are you using, specifically the buffer length and weight?
+ 
+R
+RobertM
+Private
+Full Member
+Minuteman
+Jun 5, 2011
+54
+4
+77
+Hawaii
+Jan 16, 2024
+#3
+Original bolt and carrier from DPMS. Not shot the JP bolt yet.
+Rifle length gas, rifle rcvr extension and .308 rifle buffer and spring. JP adj gas turned down to reliably cycle.
+ 
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Jan 16, 2024
+#4
+Your brass is clean and I don't see any ejector marks on the one piece of brass, do the rest look good like that one? If they look like that, that seems "normal" to me.
+
+The one that split, seems like an anomaly but you could increase buffer weight slightly. If you have a lot of that ammo or milspec ammo at the same pressures it would be a good thing to try.
+
+Look on the inside edge of the rim to see if the extractor imprinted.
+
+I think it was just a bad case
+ 
+Last edited: Jan 16, 2024
+J
+J. W.
+Sergeant of the Hide
+Full Member
+Minuteman
+Jan 1, 2023
+216
+213
+NW LA
+Jan 16, 2024
+#5
+Is it just me or does the primer on the unsplit case look pretty cratered?
+ 
+U
+UpSideDown
+↑ → ↓
+Supporter
+Full Member
+Minuteman
+Sep 24, 2019
+2,056
+1,518
+Jan 16, 2024
+#6
+Have you checked headspace? Those look like really hot loads. I haven't experienced that kind of issue with a .308, normally 6.5/6mm are where pressure issues come up. I would headspace the action for sure, and then if it passes you might try a different factory load to see if those ones are hot.
+ 
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,493
+Colorado
+Jan 16, 2024
+#7
+I woukd suspect a bad peice of brass.
+ 
+ 
+Reactions:
+oldrifleman and mettee
+R
+RobertM
+Private
+Full Member
+Minuteman
+Jun 5, 2011
+54
+4
+77
+Hawaii
+Jan 17, 2024
+#8
+Been watching that cratering for some time, why I finally bought the JP High Pressure bolt to try. Just off the shelf .308 ammo, no handloads. Some surplus Fn marked ammo does not show cratering. Read that factory ammo is a bit hot in gas guns.
+
+Ejector made a faint mark, extractor as well on the underside of the rim. As I recall, it did not fully eject from the receiver, caused a jam.
+
+Received some headspace gauges, now need to get punches to remove the ejector. Found out real fast that trying to close the bolt on the go gauge without removing the extractor and ejector is a good way to lock things up.
+ 
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,672
+1,621
+USA
+Jan 17, 2024
+#9
+RobertM said:
+Been watching that cratering for some time, why I finally bought the JP High Pressure bolt to try. Just off the shelf .308 ammo, no handloads. Some surplus Fn marked ammo does not show cratering. Read that factory ammo is a bit hot in gas guns.
+
+Ejector made a faint mark, extractor as well on the underside of the rim. As I recall, it did not fully eject from the receiver, caused a jam.
+
+Received some headspace gauges, now need to get punches to remove the ejector. Found out real fast that trying to close the bolt on the go gauge without removing the extractor and ejector is a good way to lock things up.
+Click to expand...
+Just slip the gauge case head under the extractor claw and push back against the ejector to insert headspace gauge. Rotate slightly to lock to the barrel extension.
+ 
+R
+RobertM
+Private
+Full Member
+Minuteman
+Jun 5, 2011
+54
+4
+77
+Hawaii
+Jan 17, 2024
+#10
+With an AR, the rotation has to come from the bolt carrier, no way I can grab the bolt and turn by itself. I tried and thought of getting a stick to shove into the firing pin hole to rotate it.
+Am I missing something?
+ 
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,672
+1,621
+USA
+Jan 17, 2024
+#11
+Here is a freshly chambered barrel, with the correct headspace. The go gauge is inserted in the chamber, the bolt itself is completely assembled.
+I just went out and got the go gauge.
+Do as described before gauge under the extractor, push against the ejector, guide into chamber ...close chamber
+As seen here
+Slowly extract
+Remove go gauge.
+It's that simple .
+ 
+Attachments
+20230810_194053.jpg
+657.3 KB · Views: 82
+20240117_122915.jpg
+512 KB · Views: 82
+20240117_122854.jpg
+445.2 KB · Views: 79
+20240117_122844.jpg
+414.1 KB · Views: 76
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Jan 17, 2024
+#12
+Unless you're running a high back pressure suppressor, your gas length, dwell, AGB, buffer all seem ideal. Nothing that I would do different as far as building/tuning for timing. Replacing the bolt is probably the best solution and go from there, keeping an eye out on the condition of the spent brass with the new bolt.
+
+The legacy DPMS/Panther Arms bolts/firing pins were known for cratering non Mil-Spec type primers. Checking the headspace with the old bolt would be interesting, but a "Field" gauge might be the only one of importance. Checking the headspace on the new bolt/barrel is highly recommended, but you should be aware of how "No-Go" dimensions vary. I would not use headspace gauges in the way that is shown in the pictures above with a carrier.
+ 
+ 
+Reactions:
+mettee
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Jan 17, 2024
+#13
+Based off what you said, I would also consider trying alternative buffer weights with the same spring. Not lighter weight, if it's an extra power spring, try a normal power spring like the popular armalite rifle spring.
+ 
+tucaz
+Private
+Full Member
+Minuteman
+May 11, 2012
+473
+415
+The Dirty T, AZ
+Jan 18, 2024
+#14
+RobertM said:
+Doing some range time with my frankengun LR308. Barrel is a Fulton Criterion 18.5 " mated with old style DPMS Upper and lowers Adjustable gas block.
+
+Ammo was Privi Partisan 165 gr. Have had mildly crater primes on some commercial ammo, never on surplus M80.
+
+This round sounded and shot about right but caused an ejection jam and some smoke seeping from the receiver. No other retrieved case showed anything but the primer like on the right.
+
+I gather a timing issue could cause the bolt to unlock prematurely, but a few hundred rounds, never seen this.
+
+Anyone got an idea? Just put in a JP high pressure bolt to maybe stop the primer cratering.
+Click to expand...
+
+
+just curious how many rounds you have thru that barrel and how it was with other ammo.
+
+i only ask because i had 2 crit barrels ( a 308 and a 223) that had really tight chambers and showed it on cratered primers and and hard extraction marks on the rims. this was 4-5 years ago though.
+
+that split case probably wouldnt be caused by a tight chamber i am guessing... or could it?
+ 
+ 
+Reactions:
+Thud
+L
+longshooter
+Private
+Full Member
+Minuteman
+Nov 23, 2009
+190
+98
+MI, USA
+Jan 18, 2024
+#15
+The blown case looks greater in diameter throughout. Have you taken any comparison measurements.
+
+Might just be an overload.
+ 
+R
+RobertM
+Private
+Full Member
+Minuteman
+Jun 5, 2011
+54
+4
+77
+Hawaii
+Jan 18, 2024
+#16
+msgriff said:
+Unless you're running a high back pressure suppressor, your gas length, dwell, AGB, buffer all seem ideal. Nothing that I would do different as far as building/tuning for timing. Replacing the bolt is probably the best solution and go from there, keeping an eye out on the condition of the spent brass with the new bolt.
+
+The legacy DPMS/Panther Arms bolts/firing pins were known for cratering non Mil-Spec type primers. Checking the headspace with the old bolt would be interesting, but a "Field" gauge might be the only one of importance. Checking the headspace on the new bolt/barrel is highly recommended, but you should be aware of how "No-Go" dimensions vary. I would not use headspace gauges in the way that is shown in the pictures above with a carrier.
+Click to expand...
+Pretty much my plan at this point. I did try to do the hook under the extractor thing, but it would not hold on.
+
+Got suspicious just what buffer spring I had in the rifle after starting to build a mouse gun. Gof a "Neverwear" AR-10 flatwire spring. Had to tweak the GB adjustment slightly, so there was a difference.
+ 
+R
+RobertM
+Private
+Full Member
+Minuteman
+Jun 5, 2011
+54
+4
+77
+Hawaii
+Jan 18, 2024
+#17
+tucaz said:
+just curious how many rounds you have thru that barrel and how it was with other ammo.
+
+i only ask because i had 2 crit barrels ( a 308 and a 223) that had really tight chambers and showed it on cratered primers and and hard extraction marks on the rims. this was 4-5 years ago though.
+
+that split case probably wouldnt be caused by a tight chamber i am guessing... or could it?
+Click to expand...
+At least 300 rounds through the barrel at this point. After bedding the barrel, it is easily a MOA rifle even with some inexpensive commercial ammo. No cratering seen on mil surplus M80 ammo which is what I shot mostly when I built the gun. Been collecting the brass as I was nervous about pierced primers showing up.
+
+No extraction issues or marked up brass since I went to a better barrel and and GB. Range session coming up with a variety of ammo. Even some PP stuff just to see what happens.
+ 
+Attachments
+308.jpg
+659.9 KB · Views: 55
+ 
+Reactions:
+mettee and tucaz
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,493
+Colorado
+Jan 18, 2024
+#18
+longshooter said:
+The blown case looks greater in diameter throughout. Have you taken any comparison measurements.
+
+Might just be an overload.
+That's not what a high-pressure load does to a case.
+ 
+ 
+Reactions:
+whatsupdoc
+L
+longshooter
+Private
+Full Member
+Minuteman
+Nov 23, 2009
+190
+98
+MI, USA
+Jan 18, 2024
+#19
+OP,
+
+Would you stand those cases vertically, side by side, and provide a photo for us?
+ 
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,493
+Colorado
+Jan 18, 2024
+#20
+longshooter said:
+OP,
+
+Would you stand those cases vertically, side by side, and provide a photo for us?
+Like one peice of brass came out of the chamber noticeably bigger in diameter top to bottom than all the others? How would that happen?
+ 
+L
+longshooter
+Private
+Full Member
+Minuteman
+Nov 23, 2009
+190
+98
+MI, USA
+Jan 18, 2024
+#21
+I cannot claim that it is larger because of the angularity of the cases to camera. That is why I asked for a side by side photo, hopefully with the camera horizontal to the cases for good viewing.
+ 
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,493
+Colorado
+Jan 18, 2024
+#22
+Why though? What's the point? How could it possibly change the diagnosis of the problem? And they are the same diameter. They came out of the same chamber.
+ 
+whatsupdoc
+Old Salt
+Full Member
+Minuteman
+Dec 12, 2017
+3,191
+4,904
+Jan 18, 2024
+#23
+I think its either a bad piece of brass or there is tolerance stack up where the back of the chamber is oversize and the case
+is undersized.
+ 
+L
+longshooter
+Private
+Full Member
+Minuteman
+Nov 23, 2009
+190
+98
+MI, USA
+Jan 18, 2024
+#24
+supercorndogs said:
+Why though? What's the point? How could it possibly change the diagnosis of the problem? And they are the same diameter. They came out of the same chamber.
+scd,
+
+You seem to enjoy asking ME alot of questions. Allow me to ask you a question;
+
+What would cause a ruptured case at the web AND a blown primer at the same time?
+ 
+L
+longshooter
+Private
+Full Member
+Minuteman
+Nov 23, 2009
+190
+98
+MI, USA
+Jan 18, 2024
+#25
+scd,
+
+How do you know they are the same diameter? And, have you noticed the apparent expansion of the case above the extractor groove?
+ 
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,672
+1,621
+USA
+Jan 18, 2024
+#26
+Micrometer...measure each fired case head, then measure an unfired case ... then you will know the exact difference, and if your chamber diameter is oversize. Drop into a Wilson case gauge see how far they stick out of the gauge.
+ 
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,493
+Colorado
+Jan 18, 2024
+#27
+longshooter said:
+scd,
+
+You seem to enjoy asking ME alot of questions. Allow me to ask you a question;
+
+What would cause a ruptured case at the web AND a blown primer at the same time?
+I was asking rhetorical questions hoping you could catcha clue.
+
+Vertically like that and through the solid peice of brass at the base unsupported by the chamber. And only 1 in 300 rounds. A bad peice of brass. I don't think anything else would split one like that, that low. Pressure makes brass flow in all directions.
+
+In what possible scenario do you think you could eye ball the difference in the diameter of two cases fired from the same chamber?
+ 
+L
+longshooter
+Private
+Full Member
+Minuteman
+Nov 23, 2009
+190
+98
+MI, USA
+Jan 18, 2024
+#28
+I asked for measurements. I have asked for photos. Neither has been forthcoming.
+
+It could be overpressure, it could be brass anomaly occuring in the primer tunnel, or area of the web, could be overpressure, it could be something allowing an out of battery event, or perhaps something else. Who knows? Do you know?
+
+The cases from that view do not look consistent. Indeed, I have measured them from that view.
+
+Some have mentioned headspace, some chamber dimensions. Some have mentioned timing.
+
+What have you done except chastise me after you have proclaimed it was a bad case (which it might be).
+
+What is it? Do you know?
+ 
+ 
+Reactions:
+supercorndogs
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,493
+Colorado
+Jan 19, 2024
+#29
+No it couldn't be an over-pressure case. Because that's not what happens. No that's not what happens in an out of battery. No that's not how they split from headspace. No timing does not split a case like that either. Those are called wild ass guesses.
+
+" An Anamoly in the primer tunnel."  you mean a BAD PEICE OF BRASS. had to quote that one for posterity.
+
+primer pocket and flash hole. BTW
+
+Yes, I do know what happened and basically the only thing that could have caused this 1 case to split out of 300. Especially where as the crack went into the solid case head unsupported by the chamber and there is no bump at the .2 line from an over pressure and there is no brass extrusion where the extractor and ejector were not supporting the case head. You can also see the line at the .2 line from when it was properly chambered and fired. An out of battery will blow up the gun and the case.
+
+
+
+longshooter said:
+I asked for measurements. I have asked for photos. Neither has been forthcoming.
+
+It could be overpressure, it could be brass anomaly occuring in the primer tunnel, or area of the web, could be overpressure, it could be something allowing an out of battery event, or perhaps something else. Who knows? Do you know?
+
+The cases from that view do not look consistent. Indeed, I have measured them from that view.
+
+Some have mentioned headspace, some chamber dimensions. Some have mentioned timing.
+
+What have you done except chastise me after you have proclaimed it was a bad case (which it might be).
+
+What is it? Do you know?
+Click to expand...
+ 
+tucaz
+Private
+Full Member
+Minuteman
+May 11, 2012
+473
+415
+The Dirty T, AZ
+Jan 19, 2024
+#30
+the burn hole in his rifle brass reminds me of my reloading days. i would reuse 44mag brass until it would split down the sides. as i recall, it would be anywhere on the side.
+
+looked alot like this piece of brass
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 19, 2024
+#31
+J. W. said:
+Is it just me or does the primer on the unsplit case look pretty cratered?
+It’s “blanked”, where the large aperture on DPMS bolts allows the primer to flow under pressure into that space.
+
+Cratering and blanking are often mistaken for each other.
+ 
+ 
+Reactions:
+mettee and J. W.
+J
+J. W.
+Sergeant of the Hide
+Full Member
+Minuteman
+Jan 1, 2023
+216
+213
+NW LA
+Jan 19, 2024
+#32
+LRRPF52 said:
+It’s “blanked”, where the large aperture on DPMS bolts allows the primer to flow under pressure into that space.
+
+Cratering and blanking are often mistaken for each other.
+Gotcha. I have zero experience with the AR-10 platform. Is it normal to have so much clearance between the pin and the bolt? Seems like a hotdog in a hallway situation.
+ 
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Jan 19, 2024
+#33
+Blank
+
+
+
+Over pressure
+
+
+ 
+ 
+Reactions:
+longshooter, J. W. and LRRPF52
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 19, 2024
+#34
+J. W. said:
+Gotcha. I have zero experience with the AR-10 platform. Is it normal to have so much clearance between the pin and the bolt? Seems like a hotdog in a hallway situation.
+Yes, especially on DPMS bolts for the LR-308 and early production GII. (This doesn’t have anything to do with the OP’s PPU brass failure though from what I can see.)
+
+Off the top of my head, I think DPMS used a 0.086” firing pin aperture in the bolt with a lot of clearance for the pin. With a lot of primers, you would see blanking like this, so some other companies (Like JP) started making bolts with firing pin apertures that are much smaller at 0.068” if I recall.
+
+Someone with calipers or gauges can measure it again to check my memory. It’s been a while since I measured all of mine. I think a guy here actually sent me an enlarged firing pin to fill in that space in my .260 Rem, which was built off a DPMS receiver set and BCG that I sent GAP before they came out with the GAP-10. I was experiencing blanking and cratering with certain loads.
+
+.308 Win, 7mm-08, .260 Rem, and 6.5 Creedmoor are running pretty substantial chamber pressures. A lot of the factory ammo is NOT made under the assumption that it needs to function within a certain set of specs for gas gun chambers and gas ports, whereas military M80, M80A1, M118, and M118LR had to function in the M14, M21, and later the M110.
+
+.308 is more forgiving because there is generous bore volume and appropriate powders have long been established for its performance with 147-168gr, but as you get into 175gr and higher, you can see some of the same issues with 6.5-08 class of cartridges.
+
+I suspect the OP’s issue is just an instance of soft PPU brass that failed at a weak space in the case. When I load .308, I prefer Lapua or Lake City brass that I have a chain of custody over from new to fired, preferably not having been run through machine-guns. Lapua .308 brass will last a long time within reason. Palma brass even longer.
+ 
+ 
+Reactions:
+longshooter and J. W.
+R
+RobertM
+Private
+Full Member
+Minuteman
+Jun 5, 2011
+54
+4
+77
+Hawaii
+Jan 19, 2024
+#35
+mettee said:
+mettee said:
+View attachment 8327160
+My cases with commercial .308 Win look like that first photo. Not being familiar with cratering, I got interested in my brass.
+Gun has gotten so accurate, starting to examine everything.
+ 
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Jan 19, 2024
+#36
+Accurate or inaccurate?
+
+Yeah that first picture is totally acceptable for brass condition. I believe that is federal gold medal match 175 in case it matters.
+
+I believe you said the extractor had indented on the inside of the rim, I might have mentioned adding buffer weight.
+ 
+R
+RobertM
+Private
+Full Member
+Minuteman
+Jun 5, 2011
+54
+4
+77
+Hawaii
+Jan 20, 2024
+#37
+mettee said:
+Accurate or inaccurate?
+Accurate. the upper left group came from cheap Federal 147 gr ammo while sighting in a new scope and experimenting with bench positions and supports. Have yet to shoot match grade ammo through it or try for best groups. Had a scope go weird and been getting back to square 1.
+
+Gas block is set to just lock back on empty plus a half turn. Will look into what sort of heavier buffers for the AR308 are available. It seems a heavier buffer can affect unlocking time, assuming that has any bearing on this.
+
+No micrometer, but a dial caliper indicates the two cases in the photo were within .001" other than the split area. Both PPU 165gr
+ 
+Attachments
+100yds.jpg
+333.7 KB · Views: 53
+Last edited: Jan 20, 2024
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Jan 20, 2024
+#38
+Okay. Those are decent groups, just keep doing what you are doing, you seem to be on the right path fundamentals wise. Get a good rear bag, and a bipod and follow the basics. Figure out what forward load your rifle likes, if any, and follow through well.
+
+If you are getting case expansion or extractor marks(yes) or dirty brass(your brass is pretty clean) the heavier buffer will slow unlock and help fight that initial speed. The highest carrier velocity happens right after unlock. Controlling the peak velocity is important. You can adjust gas block settings while you test more buffer, you will find a balance. Weigh your buffer, and keep in mind you can get tungsten weight sets for about $40, and swap them out as needed, or buy complete buffers.
+
+
+Tungsten H3 Recoil Rifle Buffer Weights 3-Pack, 1.43 oz each | AR-15
+Tungsten buffer weights made from aerospace grade tungsten! Simply replace the stock weights with the new tungsten weights for improved stability.
+ shop.tungsten.com
+
+I do think it was just a bad piece of brass.
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 21, 2024
+#39
+Main thing I wanted to say is that when you see a blown primer and case failure with eschar leaking from the failure node, that’s almost always a sign of significant excess pressure, which makes me suspect the manufacturer.
+
+I would be inclined to contact PPU and let them know what happened and what lot the ammunition is from.
+ 
+ 
+Reactions:
+longshooter
+L
+longshooter
+Private
+Full Member
+Minuteman
+Nov 23, 2009
+190
+98
+MI, USA
+Jan 23, 2024
+#40
+LRRPF52 said:
+Main thing I wanted to say is that when you see a blown primer and case failure with eschar leaking from the failure node, that’s almost always a sign of significant excess pressure, which makes me suspect the manufacturer.
+
+I would be inclined to contact PPU and let them know what happened and what lot the ammunition is from.
+I agree with your assessment. There is sufficient number of indicators here that this was caused by an overpressure event.
+ 
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,493
+Colorado
+Jan 23, 2024
+#41
+This is what an overpressure case looks like. Note the .200 line. Note the extrusion into areas unsupported by the bolt. The case in OP does not show signs of being any sort of signficant overpressure. Note also he found it on the ground that way. It didn't lock up his gyn or spit gas in his face.
+
+ 
+ 
+Reactions:
+mettee
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Jan 23, 2024
+#42
+OP should file away a cross sectional view of the web and show it. That should have some indication of where it truly started. Showing the path of the rupture...
+ 
+R
+RobertM
+Private
+Full Member
+Minuteman
+Jun 5, 2011
+54
+4
+77
+Hawaii
+Jan 26, 2024
+#43
+I got the new JP high pressure bolt in and ran it yesterday. Flawless, and not the slightest hint of primer cratering now.
+Shot off the rest of the PP ammo without incident.
+Do think I will avoid buying more of that stuff.
+ 
+ 
+Reactions:
+msgriff and mettee
+You must log in or register to reply here.
+Similar threads
+R
+	
+blown primer in factory fgmm 6.5cm ar10 question
+rockwind1 Nov 28, 2023 Reloading Depot
+9
+Nov 30, 2023
+N
+	
+First Timer Help! LR Hunting 308 Handloads
+NoahV Aug 28, 2024 Reloading Depot
+44
+Oct 19, 2024
+P
+	
+6.5 Grendel - Early Pressure Signs
+penguinofsleep Dec 14, 2023 Reloading Depot
+0
+Dec 14, 2023
+R
+	
+AR10 Ejector Swipes Journey
+RldrNewby May 1, 2023 Semi-Automatic Rifles
+16
+May 13, 2023
+S
+	
+Blown primers with min starting load
+Spatcher Jun 2, 2022 Reloading Depot
+60
+Sep 29, 2022
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/split-case-with-blown-primer.7203853/ 
+ ----- 

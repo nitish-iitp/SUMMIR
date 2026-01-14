@@ -1,0 +1,160 @@
+Baseball
+NFL
+NBA
+NHL
+WWE
+NCAAF
+WNBA
+LOG IN
+Baseball
+MLB
+Schedule
+World Baseball Classic
+Top MLB Picks
+Predictions
+New York Yankees
+Shohei Ohtani
+Alex Rodriguez
+More
+Baseball
+MLB Wild Card
+San Diego Padres vs Atlanta Braves Game Player Stats and Box Scores for October 2
+San Diego Padres vs Atlanta Braves Game Player Stats and Box Scores for October 2
+By
+Cresswell McCoy
+Modified Oct 03, 2024 03:33 GMT 
+Follow Us
+Discuss
+MLB: Atlanta Braves vs. San Diego Padres - Source: Imagn
+
+On Wednesday, the San Diego Padres and the Atlanta Braves entered their 2nd NL Wild Card game at Petco Park. Both teams continued their intense battle to qualify for the NLDS. The Braves had Max Fried take the mound against Joe Musgrove.
+
+Musgrove had a shaky start as Michael Harris II scored in the first inning with an RBI double by Marcell Ozuna. San Diego started out well as they loaded the bases at the bottom of the first, but Fried worked his way out of the jam.
+
+Kyle Higashioka stepped up to the plate to send one deep to left field, and in no time, the Padres were on the board to tie the game in the bottom of the second inning. Manny Machado stepped in for the second time with the bases loaded and smashed a base hit, driving in two runs for his team.
+
+Trending
+
+Jackson Merrill made things worse for the Braves by driving another two runs. The Braves trailed their opponent with a 5-1 score after just two innings. Unfortunately, Musgrove was forced to leave the game with an injury in the fourth inning.
+
+Jorge Soler smashed a home run in the top of the fifth inning against Bryan Hoeing to get the second run for his team.
+
+San Diego Padres vs Atlanta Braves Game Player Stats
+1	2	3	4	5	6	7	8	9	R	H	E
+
+Braves
+	1	0	0	0	1	0	0	2	0	4	6	0
+
+Padres 2-0
+	0	5	0	0	0	0	0	0	X	5	10	0
+San Diego Padres’ player stats
+HITTERS	AB	R	H	RBI	HR	BB	SO	LOB	AVG	OBP	SLG	OPS	FPTS
+L. Arraez DH	5	1	2	0	0	0	0	1	.333	.333	.333	.667	3.0
+F. Tatis RF	3	1	3	0	0	1	0	0	.667	.750	1.167	1.917	5.0
+J. Profar LF	4	1	1	0	0	0	0	4	.143	.143	.143	.286	2.0
+M. Machado 3B	4	1	1	2	0	0	2	4	.143	.143	.286	.429	4.0
+J. Merrill CF	4	0	2	2	0	0	0	3	.429	.429	.857	1.286	7.0
+X. Bogaerts SS	4	0	0	0	0	0	0	5	.000	.000	.000	.000	0.0
+D. Solano 1B	4	0	0	0	0	0	1	1	.143	.143	.143	.286	-0.5
+J. Cronenworth 2B	4	0	0	0	0	0	3	1	.000	.143	.000	.143	-1.5
+K. Higashioka C	3	1	1	1	1	1	0	0	.400	.429	1.600	2.029	7.0
+Total	35	5	10	5	1	2	6	19	-	-	-	-	-
+PITCHERS	IP	H	R	ER	BB	SO	HR	ERA	WHIP	FPTS
+J. Musgrove	3.2	1	1	1	0	4	0	2.45	0.27	11.0
+B. Hoeing (W, 1-0)	1.1	1	1	1	0	1	1	6.75	0.75	9.5
+J. Estrada (H, 1)	0.2	2	0	0	0	0	0	0.00	3.00	0.0
+T. Scott (H, 1)	1.1	0	0	0	1	2	0	0.00	0.75	4.0
+J. Adam (H, 2)	1.0	2	2	2	0	1	1	9.00	1.50	-0.5
+R. Suarez (S, 1)	1.0	0	0	0	0	0	0	0.00	0.50	10.0
+Total	9.0	6	4	4	1	8	2	-	-	-
+Atlanta Braves’ player stats
+HITTERS	AB	R	H	RBI	HR	BB	SO	LOB	AVG	OBP	SLG	OPS	FPTS
+M. Harris CF	4	2	3	2	1	0	0	0	.625	.625	1.125	1.750	11.0
+O. Albies 2B	4	0	0	0	0	0	1	2	.125	.125	.125	.250	-0.5
+M. Ozuna DH	3	0	1	1	0	0	1	0	.286	.250	.286	.536	1.5
+M. Olson 1B	4	0	0	0	0	0	0	2	.125	.125	.125	.250	0.0
+J. Soler RF	3	1	1	1	1	1	0	0	.286	.375	.714	1.089	7.0
+R. Laureano LF	4	0	0	0	0	0	2	1	.000	.000	.000	.000	-1.0
+G. Urshela 3B	3	0	0	0	0	0	1	1	.000	.000	.000	.000	-0.5
+a- T. d'Arnaud PH	1	0	0	0	0	0	0	0	.200	.200	.400	.600	0.0
+S. Murphy C	3	0	0	0	0	0	2	1	.000	.000	.000	.000	-1.0
+O. Arcia SS	3	1	1	0	0	0	1	0	.167	.167	.167	.333	1.5
+Total	32	4	6	4	2	1	8	7	-	-	-	-	-
+PITCHERS	IP	H	R	ER	BB	SO	HR	ERA	WHIP	FPTS
+M. Fried (L, 0-1)	2.0	8	5	5	0	2	1	22.50	4.00	-11.0
+D. Lee	1.2	1	0	0	0	0	0	0.00	0.60	4.0
+D. Hernandez	2.1	1	0	0	1	3	0	0.00	0.86	6.5
+P. Johnson	1.0	0	0	0	0	0	0	0.00	0.00	3.0
+J. Jimenez	1.0	0	0	0	1	1	0	0.00	1.00	2.5
+Total	8.0	10	5	5	2	6	1	-	-	-
+Kyle Higashioka, Jorge Soler, and Michael Harris II hit home runs tonight
+
+Kyle Higashioka smashed a towering home run against Fried to put his team back in the race. Jorge Soler sent one to deep center field, but the Braves continued their struggle.
+
+The Braves put up a hard fight at the top of the eighth inning as Michael Harris II went deep with a two-run shot. Harris smashed a towering shot against Jason Adam to make it a one-run ball game.
+
+The Braves gave their opponent a tough challenge, but they fell short as San Diego proved to be the better team. San Diego will meet the Los Angeles Dodgers as they advance to the NLDS. The AL West rivalry will continue as they face the Dodgers in a best-of-five series.
+
+Quick Links
+
+MLB Wild Card Atlanta Braves San Diego Padres Max Fried Joe Musgrove
+Edited by Chaitanya Prakash
+More from Sportskeeda
+
+What's your opinion?
+WWE
+NBA
+NFL
+MMA
+Tennis
+NHL
+Golf
+MLB
+Soccer
+F1
+WNBA
+More
+Popular
+WWE
+NFL
+Basketball
+MLB
+NHL
+Tennis
+MMA
+Football
+Golf
+F1
+College Football
+College Basketball
+Cricket
+Esports
+Fortnite
+GTA
+Minecraft
+AEW
+Anime
+AFL
+Olympics 2024
+Word Game Solvers
+Wiki
+More
+Important Links
+About Us
+Write For Us
+Policies
+Grievance Redressal
+Editorial Standards
+Fact Check
+Affiliate Program
+Careers
+CSR
+Privacy Policy
+Contact Us
+Manage notifications
+Edition: English
+ 
+ 
+ ----- 
+ Source link : https://www.sportskeeda.com/baseball/news-san-diego-padres-vs-atlanta-braves-game-player-stats-box-scores-october-2 
+ ----- 

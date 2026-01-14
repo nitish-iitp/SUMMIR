@@ -1,0 +1,354 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NBA
+NFL
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Rockies
+55-92, 23-55 Away
+4
+Final
+Tigers
+75-72, 37-35 Home
+2
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Jacob Stallings' RBI double in the ninth helps Rockies beat Tigers 4-2
+— Jacob Stallings’ RBI double in the ninth inning helped the Colorado Rockies beat the Detroit Tigers 4-2 on Thursday.
+Sep 12, 2024, 09:20 pm - AP
+
+
+COL
+
+
+DET
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t0\t1\t0\t0\t0\t1\t0\t2\t4\t9\t0
+0\t0\t0\t2\t0\t0\t0\t0\t0\t2\t4\t0
+WIN
+S. Halvorsen
+1-0
+1.0 IP, 0 H, 0 ER, 1 K, 0 BB
+LOSS
+J. Foley
+3-6
+1.0 IP, 2 H, 2 ER, 0 K, 0 BB
+SAVE
+T. Kinley
+12
+1.0 IP, 1 H, 0 ER, 2 K, 1 BB
+Scoring Summary
+INNING
+\tCOL\tDET
+\t\t3rd\tBeck homered to left center (417 feet).\t1\t0
+\t\t4th\tTorkelson doubled to left, Jung scored and Greene scored.\t1\t2
+\t\t7th\tBlackmon reached on infield single to second, Stallings scored, Goodman to third.\t2\t2
+\t\t9th\tStallings doubled to right, Rodgers scored.\t3\t2
+\t\t9th\tCave hit sacrifice fly to center, Jones scored.\t4\t2
+Full Play-By-Play
+Rockies
+Tigers
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+E. Tovar
+SS
+\t0-4\t0\t0\t0\t.266
+
+B. Doyle
+CF
+\t1-4\t0\t0\t0\t.266
+
+R. McMahon
+DH-3B
+\t1-4\t0\t0\t0\t.247
+
+M. Toglia
+1B
+\t0-4\t0\t0\t0\t.217
+
+B. Rodgers
+2B
+\t1-4\t1\t0\t0\t.270
+
+J. Stallings
+C
+\t2-4\t1\t0\t1\t.260
+
+N. Jones
+PR-LF
+\t0-0\t1\t0\t0\t.214
+
+H. Goodman
+RF-C
+\t1-4\t0\t0\t0\t.179
+
+J. Beck
+LF
+\t1-3\t1\t1\t1\t.201
+
+J. Cave
+PH-RF
+\t0-0\t0\t0\t1\t.260
+
+A. Schunk
+3B
+\t1-2\t0\t0\t0\t.182
+
+C. Blackmon
+PH
+\t1-1\t0\t0\t1\t.249
+
+V. Vodnik
+P
+\t0-0\t0\t0\t0\t.000
+
+S. Halvorsen
+P
+\t0-0\t0\t0\t0\t.000
+
+S. Hilliard
+PH
+\t0-1\t0\t0\t0\t.240
+
+T. Kinley
+P
+\t0-0\t0\t0\t0\t.000
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+R. Feltner
+\t5.2\t3\t2\t2\t6\t92-57\t4.89
+
+L. Peralta
+\t0.1\t0\t0\t0\t1\t3-3\t0.00
+
+V. Vodnik
+\t1.0\t0\t0\t1\t1\t14-8\t3.92
+
+S. Halvorsen
+\t1.0\t0\t0\t0\t1\t12-7\t0.00
+
+T. Kinley
+\t1.0\t1\t0\t1\t2\t25-17\t5.89
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+P. Meadows
+CF
+\t0-3\t0\t0\t0\t.232
+
+K. Carpenter
+DH
+\t0-4\t0\t0\t0\t.288
+
+R. Greene
+LF
+\t1-4\t1\t0\t0\t.265
+
+C. Keith
+2B
+\t0-3\t0\t0\t0\t.261
+
+J. Jung
+3B
+\t0-1\t1\t0\t0\t.227
+
+M. Vierling
+PH-RF
+\t0-2\t0\t0\t0\t.260
+
+S. Torkelson
+1B
+\t2-3\t0\t0\t2\t.216
+
+Z. McKinstry
+RF-3B
+\t0-4\t0\t0\t0\t.223
+
+T. Sweeney
+SS
+\t0-3\t0\t0\t0\t.231
+
+J. Rogers
+C
+\t1-2\t0\t0\t0\t.195
+
+W. Perez
+PH
+\t0-1\t0\t0\t0\t.241
+
+D. Dingler
+C
+\t0-0\t0\t0\t0\t.141
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+T. Skubal
+\t6.0\t4\t1\t0\t6\t84-60\t2.50
+
+B. Hanifee
+\t0.2\t2\t1\t0\t2\t17-12\t1.83
+
+S. Guenther
+\t1.1\t1\t0\t0\t2\t20-15\t0.82
+
+J. Foley
+\t1.0\t2\t2\t0\t0\t16-12\t3.15
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Colorado Rockies (55-92, 23-55 Away)
+Ryan Feltner (3-10, 4.49)
+o6.5
+-190
++240
+o7.5
++110
++1.5
++120
+Detroit Tigers (75-72, 37-35 Home)
+Tarik Skubal (18-4, 2.39)
+-250
+ML
+-300
+u7.5
+-130
+-1.5
+-145
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+ROCKIES
+TIGERS
+COL 100
+%
+COL 4DET 2
+
+Bottom 9th
+McKinstry struck out swinging.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+COL
+DET
+Hits
+9
+4
+Home Runs
+1
+0
+Total Bases
+14
+5
+Runners LOB
+5
+5
+Full Team Stats
+Regular Season Series
+Current Series
+DET wins 2-1
+Rockies
+0
+Tigers
+11
+Game 1
+9/10
+Final
+Rockies
+4
+Tigers
+7
+Game 2
+9/11
+Final
+Rockies
+4
+Tigers
+2
+Game 3
+9/12
+Final
+Game Information
+Comerica Park
+5:10 PM, September 12, 2024
+Detroit, Michigan
+Attendance: 19,538
+Game Time:
+2:33
+Umpires:
+Home Plate Umpire - Alfonso Marquez
+First Base Umpire - Lance Barrett
+Second Base Umpire - Jeremy Riggs
+Third Base Umpire - Mark Ripperger
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570663/rockies-tigers 
+ ----- 

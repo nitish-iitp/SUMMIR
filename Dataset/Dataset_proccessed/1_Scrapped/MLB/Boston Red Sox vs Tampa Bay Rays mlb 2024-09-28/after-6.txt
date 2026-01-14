@@ -1,0 +1,621 @@
+MENU
+Home Teams Only Have an Advantage in Cold Weather Cities
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Boston Red Sox Schedule
+Tampa Bay Rays Schedule
+Tampa Bay Rays vs Boston Red Sox Box Score: September 28, 2024
+MLB Scores — September 28, 2024
+PIT	9	Final
+NYY	4	
+CHW	4	Final
+DET	0	
+CIN	0	Final
+CHC	3	
+MIA	8	Final
+TOR	1	
+STL	5	Final
+SFG	6	
+PHI	3	Final
+WSN	6	
+TBR	7	Final
+BOS	2	
+HOU	4	Final
+CLE	3	
+NYM	0	Final
+MIL	6	
+BAL	9	Final
+MIN	2	
+KCR	1	Final
+ATL	2	
+SDP	5	Final
+ARI	0	
+LAD	13	Final
+COL	2	
+TEX	9	Final
+LAA	8	
+OAK	6	Final
+SEA	7	(10)
+MLB Scores & Standings on this Day
+Tampa Bay Rays
+7
+80-81
+Prev Game Next Game
+ 
+Boston Red Sox
+2
+80-81
+Prev Game Next Game
+Saturday, September 28, 2024
+Start Time: 4:10 p.m. Local
+Attendance: 35,333
+Venue: Fenway Park
+Game Duration: 2:28
+Day Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Tampa Bay Rays	0	0	2	0	4	0	1	0	0	7	10	0
+
+	Boston Red Sox	1	0	0	0	0	1	0	0	0	2	5	1
+WP: Shane Baz (4-3) • LP: Kutter Crawford (9-16)
+Tampa Bay Rays 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Yandy Díaz DH	3	2	1	0	2	1	5	.281	.341	.414	.755	25	13	0.117	0.67	0.122	-0.005	0%	0.00	0.8	0	0	
+Brandon Lowe 2B	5	2	3	0	0	1	5	.244	.311	.473	.783	18	14	0.074	0.94	0.114	-0.040	0%	0.00	1.4	2	3	
+Junior Caminero 3B	5	2	3	3	0	0	5	.255	.306	.435	.741	11	8	0.271	1.13	0.280	-0.009	0%	0.00	2.5	2	4	HR
+Jonathan Aranda 1B	4	1	1	1	1	1	5	.240	.309	.440	.749	13	8	0.072	0.80	0.089	-0.017	0%	0.00	0.7	12	1	
+Christopher Morel LF	5	0	1	1	0	0	5	.194	.287	.345	.631	10	7	-0.083	0.86	0.016	-0.099	0%	0.00	-0.6	0	0	
+Josh Lowe RF	4	0	1	2	1	3	5	.241	.303	.393	.695	26	18	0.045	1.01	0.126	-0.081	0%	0.00	0.4	0	0	
+Jose Siri CF	4	0	0	0	0	2	4	.187	.255	.366	.620	14	10	-0.113	0.72	0.000	-0.113	0%	0.00	-1.8	0	0	
+Ben Rortvedt C	3	0	0	0	0	1	4	.228	.317	.303	.621	11	7	-0.030	0.34	0.003	-0.033	0%	0.00	-0.1	9	1	HBP
+Taylor Walls SS	4	0	0	0	0	1	4	.183	.282	.248	.529	15	10	-0.041	0.40	0.000	-0.041	0%	0.00	-0.9	2	2	
+																							
+Shane Baz P																					0	1	
+   Kevin Kelly P																					0	1	
+   Drew Rasmussen P																					0	0	
+Team Totals	37	7	10	7	4	10	42	.270	.357	.351	.708	143	95	0.312	0.78	0.750	-0.438	0.00%	0.00	2.3	27	13	
+HR: Junior Caminero (6, off Kutter Crawford, 3rd inn, 1 on, 1 out to Deep LF Line).
+HBP: Ben Rortvedt (4, by Lucas Sims).
+TB: Junior Caminero 6; Brandon Lowe 3; Yandy Díaz; Jonathan Aranda; Josh Lowe; Christopher Morel.
+RBI: Junior Caminero 3 (18); Josh Lowe 2 (34); Jonathan Aranda (14); Christopher Morel (60).
+2-out RBI: Josh Lowe 2.
+Team LOB: 8.
+With RISP: 5 for 13.
+Boston Red Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Jarren Duran CF	3	1	0	0	0	0	4	.285	.342	.493	.836	13	8	0.001	0.64	0.048	-0.047	0%	0.00	0.6	4	1	HBP
+Trevor Story SS	3	0	2	0	1	1	4	.255	.340	.394	.733	17	8	0.033	0.65	0.086	-0.053	0%	0.00	0.9	0	0	2B,CS
+Triston Casas 1B	4	1	1	1	0	1	4	.240	.339	.466	.805	17	13	0.020	0.83	0.102	-0.081	0%	0.00	-0.2	7	0	HR
+Tyler O'Neill LF	3	0	1	0	0	2	4	.241	.336	.511	.847	18	14	-0.002	0.56	0.044	-0.046	0%	0.00	0.0	1	0	HBP
+Mickey Gasper DH	4	0	0	0	0	2	4	.000	.200	.000	.200	15	11	-0.090	0.89	0.000	-0.090	0%	0.00	-1.2	0	0	
+Romy Gonzalez 3B	4	0	0	0	0	1	4	.266	.306	.417	.723	17	12	-0.063	0.58	0.000	-0.063	0%	0.00	-1.0	1	1	
+Wilyer Abreu RF	4	0	1	0	0	0	4	.255	.323	.462	.785	10	7	-0.012	0.32	0.011	-0.023	0%	0.00	-0.7	2	0	
+Danny Jansen C	3	0	0	0	0	0	3	.205	.309	.349	.658	10	7	-0.033	0.40	0.000	-0.033	0%	0.00	-0.5	10	0	
+Vaughn Grissom 2B	3	0	0	0	0	2	3	.186	.236	.206	.442	11	7	-0.042	0.54	0.000	-0.042	0%	0.00	-0.6	2	1	
+																							
+Kutter Crawford P																					0	0	
+   Greg Weissert P																					0	1	
+   Luis García P																					0	1	
+   Lucas Sims P																					0	0	
+   Chase Shugart P																					0	0	
+Team Totals	31	2	5	1	1	9	34	.161	.235	.290	.526	128	87	-0.188	0.61	0.291	-0.478	0.00%	0.00	-2.7	27	5	
+2B: Trevor Story (7, off Drew Rasmussen).
+HR: Triston Casas (13, off Shane Baz, 1st inn, 0 on, 2 outs to Deep LF-CF).
+HBP: Tyler O'Neill (7, by Shane Baz); Jarren Duran (6, by Shane Baz).
+TB: Triston Casas 4; Trevor Story 3; Wilyer Abreu; Tyler O'Neill.
+RBI: Triston Casas (31).
+2-out RBI: Triston Casas.
+Team LOB: 5.
+With RISP: 0 for 6.
+Fielding
+DP: 1. Jarren Duran-Triston Casas.
+PB: Danny Jansen (3).
+E: Vaughn Grissom (3).
+Outfield Assists: Jarren Duran (Josh Lowe at 1st base).
+Baserunning
+CS: Trevor Story (3, 2nd base by Shane Baz POCS).
+Tampa Bay Rays 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Shane Baz, W (4-3)	6	3	2	2	1	7	1	3.06	23	86	58	27	13	18	8	5	1	0	64			0.143	0.79	0.00%	0.00	1.1
+Kevin Kelly	1	0	0	0	0	0	0	2.67	3	12	8	4	0	4	3	0	0	0		0	0	0.021	0.27	0.00%	0.00	0.5
+Drew Rasmussen	2	2	0	0	0	2	0	2.83	8	30	21	11	2	8	5	1	0	0		0	0	0.024	0.22	0.00%	0.00	1.0
+Team Totals	9	5	2	2	1	9	1	2.00	34	128	87	42	15	30	16	6	1	0	64	0	0	0.188	0.61	0.00%	0.00	2.7
+
+Boston Red Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Kutter Crawford, L (9-16)	4.1	5	6	6	4	6	1	4.36	22	86	52	31	9	12	4	8	4	0	31			-0.238	1.24	0.00%	0.00	-2.3
+Greg Weissert	1.2	1	0	0	0	2	0	3.13	6	20	16	6	4	6	1	3	2	0		2	2	-0.060	0.45	0.00%	0.00	-0.6
+Luis García	1	3	1	1	0	1	0	4.88	6	14	10	8	2	0	5	0	0	0		0	0	-0.021	0.29	0.00%	0.00	-0.5
+Lucas Sims	1	1	0	0	0	0	0	4.38	5	16	11	6	1	4	1	3	0	0		0	0	0.004	0.09	0.00%	0.00	0.5
+Chase Shugart	1	0	0	0	0	1	0	4.15	3	7	6	4	1	1	0	2	1	0		0	0	0.002	0.02	0.00%	0.00	0.5
+Team Totals	9	10	7	7	4	10	1	7.00	42	143	95	55	17	23	11	16	7	0	31	2	2	-0.313	0.78	0.00%	0.00	-2.3
+
+Balks: None.
+WP: Shane Baz (2); Drew Rasmussen (1).
+HBP: Shane Baz 2 (4; Tyler O'Neill, Jarren Duran); Lucas Sims (2; Ben Rortvedt).
+IBB: None.
+Pickoffs: Shane Baz (1; Trevor Story, 2nd base (CS)).
+Other Info 
+Umpires: HP - Bill Miller, 1B - Doug Eddings, 2B - Chad Whitson, 3B - Brian Walsh, LF - (none), RF - (none).
+Time of Game: 2:28.
+Attendance: 35,333.
+Field Condition: Unknown.
+Start Time Weather: 71° F, Wind 8mph from Right to Left, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Rays
+1	Yandy Díaz	DH
+2	Brandon Lowe	2B
+3	Junior Caminero	3B
+4	Jonathan Aranda	1B
+5	Christopher Morel	LF
+6	Josh Lowe	RF
+7	Jose Siri	CF
+8	Ben Rortvedt	C
+9	Taylor Walls	SS
+	Shane Baz	P
+Red Sox
+1	Jarren Duran	CF
+2	Trevor Story	SS
+3	Triston Casas	1B
+4	Tyler O'Neill	LF
+5	Mickey Gasper	DH
+6	Romy Gonzalez	3B
+7	Wilyer Abreu	RF
+8	Danny Jansen	C
+9	Vaughn Grissom	2B
+	Kutter Crawford	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Tampa Bay Rays vs. Boston Red Sox, September 28 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+BOS
+50%
+TBR
+Inning	Win Pct
+1	0.5
+2	0.54
+3	0.59
+4	0.58
+5	0.6
+6	0.52
+7	0.45
+8	0.47
+9	0.45
+10	0.49
+11	0.39
+12	0.4
+13	0.37
+14	0.36
+15	0.34
+16	0.36
+17	0.38
+18	0.37
+19	0.39
+20	0.43
+21	0.39
+22	0.59
+23	0.57
+24	0.56
+25	0.59
+26	0.61
+27	0.62
+28	0.66
+29	0.58
+30	0.57
+31	0.6
+32	0.57
+33	0.61
+34	0.64
+35	0.61
+36	0.64
+37	0.66
+38	0.71
+39	0.78
+40	0.85
+41	0.84
+42	0.93
+43	0.92
+44	0.94
+45	0.95
+46	0.95
+47	0.95
+48	0.94
+49	0.94
+50	0.92
+51	0.86
+52	0.91
+53	0.94
+54	0.92
+55	0.94
+56	0.95
+57	0.96
+58	0.96
+59	0.98
+60	0.97
+61	0.96
+62	0.97
+63	0.98
+64	0.98
+65	0.98
+66	0.98
+67	0.98
+68	0.98
+69	0.98
+70	0.99
+71	0.99
+72	0.99
+73	0.99
+74	0.99
+75	0.99
+76	0.99
+77	0.98
+78	0.99
+79	0.99
+80	1
+81	1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+t3	0-1	1	1--	2,(1-0) 	RR	TBR	Junior Caminero	Kutter Crawford	20%	59%	Home Run (Fly Ball to Deep LF Line); Y. Díaz Scores
+b1	0-0	2	---	8,(3-2) 	R	BOS	Triston Casas	Shane Baz	-10%	39%	Home Run (Fly Ball to Deep LF-CF)
+t5	4-1	2	-23	5,(2-2) 	RR	TBR	Josh Lowe	Greg Weissert	9%	93%	Single to RF (Line Drive to CF-RF); J. Caminero Scores; J. Aranda Scores
+t5	3-1	1	12-	2,(0-1) 	R	TBR	Jonathan Aranda	Kutter Crawford	8%	85%	Single to LF (Line Drive to Short LF-CF); B. Lowe Scores; J. Caminero to 2B
+t4	2-1	0	1--	4,(2-1) 	OO	TBR	Jose Siri	Kutter Crawford	-8%	58%	Double Play: Lineout: CF; J. Lowe out at 1B/CF-1B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Rays Batting, Tied 0-0, Red Sox' Kutter Crawford facing 1-2-3
+t1	0-0	0	---	7,(3-2) 		TBR	Yandy Díaz	Kutter Crawford	4%	54%	Walk
+t1	0-0	0	1--	4,(1-2) 		TBR	Brandon Lowe	Kutter Crawford	5%	59%	Fielder's Choice 2B; Y. Díaz to 2B/Adv on E4 (throw); B. Lowe to 1B
+t1	0-0	0	12-	4,(1-2) 	O	TBR	Junior Caminero	Kutter Crawford	-1%	58%	Groundout: 3B-1B (Weak 3B); Y. Díaz to 3B; B. Lowe to 2B
+t1	0-0	1	-23	4,(3-0) 		TBR	Jonathan Aranda	Kutter Crawford	1%	60%	Walk
+t1	0-0	1	123	3,(1-1) 	O	TBR	Christopher Morel	Kutter Crawford	-7%	52%	Popfly: 2B (Short CF)
+t1	0-0	2	123	5,(0-2) 	O	TBR	Josh Lowe	Kutter Crawford	-7%	45%	Strikeout Looking
+									0 runs, 0 hits, 1 error, 3 LOB. Rays 0, Red Sox 0.
+Bottom of the 1st, Red Sox Batting, Tied 0-0, Rays' Shane Baz facing 1-2-3
+b1	0-0	0	---	2,(1-0) 	O	BOS	Jarren Duran	Shane Baz	2%	47%	Popfly: 3B (Deep 3B)
+b1	0-0	1	---	4,(3-0) 		BOS	Trevor Story	Shane Baz	-2%	45%	Walk
+b1	0-0	1	1--	1,(0-1) 	O	BOS	Triston Casas	Shane Baz	4%	49%	T. Story Caught Stealing (PO) 2B (P-1B-SS)
+b1	0-0	2	---	8,(3-2) 	R	BOS	Triston Casas	Shane Baz	-10%	39%	Home Run (Fly Ball to Deep LF-CF)
+b1	1-0	2	---	4,(0-2) 	O	BOS	Tyler O'Neill	Shane Baz	1%	40%	Strikeout Swinging
+									1 run, 1 hit, 0 errors, 0 LOB. Rays 0, Red Sox 1.
+Top of the 2nd, Rays Batting, Behind 0-1, Red Sox' Kutter Crawford facing 7-8-9
+t2	0-1	0	---	4,(1-2) 	O	TBR	Jose Siri	Kutter Crawford	-2%	37%	Strikeout Swinging
+t2	0-1	1	---	1,(0-0) 	O	TBR	Ben Rortvedt	Kutter Crawford	-2%	36%	Groundout: 2B-1B (Deep 2B-1B)
+t2	0-1	2	---	1,(0-0) 	O	TBR	Taylor Walls	Kutter Crawford	-1%	34%	Flyball: CF (Deep CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Rays 0, Red Sox 1.
+Bottom of the 2nd, Red Sox Batting, Ahead 1-0, Rays' Shane Baz facing 5-6-7
+b2	1-0	0	---	5,(2-2) 	O	BOS	Mickey Gasper	Shane Baz	2%	36%	Groundout: 3B-1B
+b2	1-0	1	---	3,(0-2) 	O	BOS	Romy Gonzalez	Shane Baz	1%	38%	Strikeout Swinging
+b2	1-0	2	---	3,(2-0) 		BOS	Wilyer Abreu	Shane Baz	-1%	37%	Single to RF (Line Drive to CF-RF)
+b2	1-0	2	1--	3,(1-1) 	O	BOS	Danny Jansen	Shane Baz	2%	39%	Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); D. Jansen to 1B
+									0 runs, 1 hit, 0 errors, 1 LOB. Rays 0, Red Sox 1.
+Top of the 3rd, Rays Batting, Behind 0-1, Red Sox' Kutter Crawford facing 1-2-3
+t3	0-1	0	---	5,(3-1) 		TBR	Yandy Díaz	Kutter Crawford	4%	43%	Walk
+t3	0-1	0	1--	5,(1-2) 	O	TBR	Brandon Lowe	Kutter Crawford	-4%	39%	Strikeout Swinging
+t3	0-1	1	1--	2,(1-0) 	RR	TBR	Junior Caminero	Kutter Crawford	20%	59%	Home Run (Fly Ball to Deep LF Line); Y. Díaz Scores
+t3	2-1	1	---	3,(0-2) 	O	TBR	Jonathan Aranda	Kutter Crawford	-2%	57%	Strikeout Looking
+t3	2-1	2	---	2,(1-0) 	O	TBR	Christopher Morel	Kutter Crawford	-1%	56%	Flyball: CF (Short CF)
+									2 runs, 1 hit, 0 errors, 0 LOB. Rays 2, Red Sox 1.
+Bottom of the 3rd, Red Sox Batting, Behind 1-2, Rays' Shane Baz facing 9-1-2
+b3	1-2	0	---	5,(2-2) 	O	BOS	Vaughn Grissom	Shane Baz	3%	59%	Strikeout Looking
+b3	1-2	1	---	2,(0-1) 	O	BOS	Jarren Duran	Shane Baz	2%	61%	Groundout: SS-1B (SS-2B)
+b3	1-2	2	---	5,(2-2) 	O	BOS	Trevor Story	Shane Baz	1%	62%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Rays 2, Red Sox 1.
+Top of the 4th, Rays Batting, Ahead 2-1, Red Sox' Kutter Crawford facing 6-7-8
+t4	2-1	0	---	7,(3-2) 		TBR	Josh Lowe	Kutter Crawford	4%	66%	Walk
+t4	2-1	0	1--	4,(2-1) 	OO	TBR	Jose Siri	Kutter Crawford	-8%	58%	Double Play: Lineout: CF; J. Lowe out at 1B/CF-1B
+t4	2-1	2	---	5,(2-2) 	O	TBR	Ben Rortvedt	Kutter Crawford	-1%	57%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Rays 2, Red Sox 1.
+Bottom of the 4th, Red Sox Batting, Behind 1-2, Rays' Shane Baz facing 3-4-5
+b4	1-2	0	---	3,(0-2) 	O	BOS	Triston Casas	Shane Baz	3%	60%	Groundout: 2B-1B (2B-1B)
+b4	1-2	1	---	4,(1-2) 		BOS	Tyler O'Neill	Shane Baz	-3%	57%	Hit By Pitch
+b4	1-2	1	1--	1,(0-0) 	O	BOS	Mickey Gasper	Shane Baz	4%	61%	Groundout: 2B-SS/Forceout at 2B (2B-1B); M. Gasper to 1B
+b4	1-2	2	1--	4,(1-2) 	O	BOS	Romy Gonzalez	Shane Baz	3%	64%	Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); R. Gonzalez to 1B
+									0 runs, 0 hits, 0 errors, 1 LOB. Rays 2, Red Sox 1.
+Top of the 5th, Rays Batting, Ahead 2-1, Red Sox' Kutter Crawford facing 9-1-2
+t5	2-1	0	---	7,(3-2) 	O	TBR	Taylor Walls	Kutter Crawford	-2%	61%	Strikeout Swinging
+t5	2-1	1	---	5,(2-2) 		TBR	Yandy Díaz	Kutter Crawford	3%	64%	Single to CF (Line Drive to Deep CF-RF)
+t5	2-1	1	1--	2,(0-1) 		TBR	Brandon Lowe	Kutter Crawford	2%	66%	Passed Ball; Y. Díaz to 2B
+t5	2-1	1	-2-	3,(1-1) 		TBR	Brandon Lowe	Kutter Crawford	5%	71%	Single to RF (Line Drive); Y. Díaz to 3B
+t5	2-1	1	1-3	3,(1-1) 	R	TBR	Junior Caminero	Kutter Crawford	7%	78%	Single to P (Ground Ball to Front of Home); Y. Díaz Scores; B. Lowe to 2B
+t5	3-1	1	12-	2,(0-1) 	R	TBR	Jonathan Aranda	Kutter Crawford	8%	85%	Single to LF (Line Drive to Short LF-CF); B. Lowe Scores; J. Caminero to 2B
+									
+Greg Weissert replaces Kutter Crawford pitching
+
+t5	4-1	1	12-	2,(0-1) 	O	TBR	Christopher Morel	Greg Weissert	-2%	84%	Groundout: P-1B (Front of Home); J. Caminero to 3B; J. Aranda to 2B
+t5	4-1	2	-23	5,(2-2) 	RR	TBR	Josh Lowe	Greg Weissert	9%	93%	Single to RF (Line Drive to CF-RF); J. Caminero Scores; J. Aranda Scores
+t5	6-1	2	1--	4,(0-2) 	O	TBR	Jose Siri	Greg Weissert	-1%	92%	Strikeout Swinging
+									4 runs, 5 hits, 0 errors, 1 LOB. Rays 6, Red Sox 1.
+Bottom of the 5th, Red Sox Batting, Behind 1-6, Rays' Shane Baz facing 7-8-9
+b5	1-6	0	---	2,(0-1) 	O	BOS	Wilyer Abreu	Shane Baz	1%	94%	Popfly: 3B (Weak SS)
+b5	1-6	1	---	2,(0-1) 	O	BOS	Danny Jansen	Shane Baz	1%	95%	Groundout: SS-1B
+b5	1-6	2	---	4,(1-2) 	O	BOS	Vaughn Grissom	Shane Baz	1%	95%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Rays 6, Red Sox 1.
+Top of the 6th, Rays Batting, Ahead 6-1, Red Sox' Greg Weissert facing 8-9-1
+t6	6-1	0	---	2,(0-1) 	O	TBR	Ben Rortvedt	Greg Weissert	0%	95%	Flyball: CF
+t6	6-1	1	---	4,(2-1) 	O	TBR	Taylor Walls	Greg Weissert	0%	94%	Lineout: LF (Deep LF-CF)
+t6	6-1	2	---	3,(0-2) 	O	TBR	Yandy Díaz	Greg Weissert	0%	94%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Rays 6, Red Sox 1.
+Bottom of the 6th, Red Sox Batting, Behind 1-6, Rays' Shane Baz facing 1-2-3
+b6	1-6	0	---	4,(0-2) 		BOS	Jarren Duran	Shane Baz	-2%	92%	Hit By Pitch
+b6	1-6	0	1--	6,(3-2) 		BOS	Trevor Story	Shane Baz	-6%	86%	Single to RF (Ground Ball thru 2B-1B); J. Duran to 3B
+b6	1-6	0	1-3	2,(0-1) 	O	BOS	Triston Casas	Shane Baz	4%	91%	Foul Popfly: 1B (1B into Foul Terr.)
+b6	1-6	1	1-3	5,(1-2) 	O	BOS	Tyler O'Neill	Shane Baz	4%	94%	Strikeout Swinging
+b6	1-6	2	1-3	2,(0-1) 	R	BOS	Mickey Gasper	Shane Baz	-3%	92%	Wild Pitch; J. Duran Scores/No RBI; T. Story to 2B
+b6	2-6	2	-2-	5,(2-2) 	O	BOS	Mickey Gasper	Shane Baz	2%	94%	Strikeout Swinging
+									1 run, 1 hit, 0 errors, 1 LOB. Rays 6, Red Sox 2.
+Top of the 7th, Rays Batting, Ahead 6-2, Red Sox' Luis García facing 2-3-4
+									
+Luis García replaces Greg Weissert pitching
+
+t7	6-2	0	---	2,(0-1) 		TBR	Brandon Lowe	Luis García	1%	95%	Single to 2B (Ground Ball)
+t7	6-2	0	1--	1,(0-0) 		TBR	Junior Caminero	Luis García	1%	96%	Single to RF (Ground Ball); B. Lowe to 2B
+t7	6-2	0	12-	3,(1-1) 	O	TBR	Jonathan Aranda	Luis García	0%	96%	Groundout: P-1B (Weak 2B); B. Lowe to 3B; J. Caminero to 2B
+t7	6-2	1	-23	2,(1-0) 	R	TBR	Christopher Morel	Luis García	2%	98%	Single to SS (Ground Ball to SS-2B); B. Lowe Scores; J. Caminero to 3B
+t7	7-2	1	1-3	4,(1-2) 	O	TBR	Josh Lowe	Luis García	-1%	97%	Strikeout Swinging
+t7	7-2	2	1-3	2,(1-0) 	O	TBR	Jose Siri	Luis García	-1%	96%	Groundout: 1B unassisted (Short 1B Line)
+									1 run, 3 hits, 0 errors, 2 LOB. Rays 7, Red Sox 2.
+Bottom of the 7th, Red Sox Batting, Behind 2-7, Rays' Kevin Kelly facing 6-7-8
+									
+Kevin Kelly replaces Shane Baz pitching
+
+b7	2-7	0	---	4,(1-2) 	O	BOS	Romy Gonzalez	Kevin Kelly	1%	97%	Groundout: P-1B
+b7	2-7	1	---	3,(1-1) 	O	BOS	Wilyer Abreu	Kevin Kelly	1%	98%	Groundout: 1B unassisted
+b7	2-7	2	---	5,(2-2) 	O	BOS	Danny Jansen	Kevin Kelly	0%	98%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Rays 7, Red Sox 2.
+Top of the 8th, Rays Batting, Ahead 7-2, Red Sox' Lucas Sims facing 8-9-1
+									
+Lucas Sims replaces Luis García pitching
+
+t8	7-2	0	---	3,(1-1) 		TBR	Ben Rortvedt	Lucas Sims	0%	98%	Hit By Pitch
+t8	7-2	0	1--	3,(0-2) 	O	TBR	Taylor Walls	Lucas Sims	0%	98%	Flyball: 2B (Short CF-RF)
+t8	7-2	1	1--	5,(2-2) 	O	TBR	Yandy Díaz	Lucas Sims	0%	98%	Foul Popfly: 1B (1B into Foul Terr.)
+t8	7-2	2	1--	4,(1-2) 		TBR	Brandon Lowe	Lucas Sims	0%	98%	Single to 3B (Ground Ball to SS-3B Hole); B. Rortvedt to 2B
+t8	7-2	2	12-	1,(0-0) 	O	TBR	Junior Caminero	Lucas Sims	0%	98%	Popfly: 3B (Front of Home)
+									0 runs, 1 hit, 0 errors, 2 LOB. Rays 7, Red Sox 2.
+Bottom of the 8th, Red Sox Batting, Behind 2-7, Rays' Drew Rasmussen facing 9-1-2
+									
+Drew Rasmussen replaces Kevin Kelly pitching
+
+b8	2-7	0	---	2,(1-0) 	O	BOS	Vaughn Grissom	Drew Rasmussen	1%	99%	Groundout: C-1B
+b8	2-7	1	---	5,(3-1) 	O	BOS	Jarren Duran	Drew Rasmussen	0%	99%	Groundout: 1B unassisted
+b8	2-7	2	---	2,(0-1) 		BOS	Trevor Story	Drew Rasmussen	0%	99%	Double to LF (Fly Ball to Deep LF-CF)
+b8	2-7	2	-2-	4,(1-2) 	O	BOS	Triston Casas	Drew Rasmussen	1%	99%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Rays 7, Red Sox 2.
+Top of the 9th, Rays Batting, Ahead 7-2, Red Sox' Chase Shugart facing 4-5-6
+									
+Chase Shugart replaces Lucas Sims pitching
+
+t9	7-2	0	---	1,(0-0) 	O	TBR	Jonathan Aranda	Chase Shugart	0%	99%	Flyball: RF (Deep CF-RF)
+t9	7-2	1	---	1,(0-0) 	O	TBR	Christopher Morel	Chase Shugart	0%	99%	Lineout: RF (Deep RF Line)
+t9	7-2	2	---	5,(1-2) 	O	TBR	Josh Lowe	Chase Shugart	0%	99%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Rays 7, Red Sox 2.
+Bottom of the 9th, Red Sox Batting, Behind 2-7, Rays' Drew Rasmussen facing 4-5-6
+b9	2-7	0	---	5,(1-2) 		BOS	Tyler O'Neill	Drew Rasmussen	-1%	98%	Single to LF (Ground Ball)
+b9	2-7	0	1--	4,(0-2) 	O	BOS	Mickey Gasper	Drew Rasmussen	1%	99%	Strikeout Looking
+b9	2-7	1	1--	5,(2-2) 		BOS	Romy Gonzalez	Drew Rasmussen	0%	99%	Wild Pitch; T. O'Neill to 2B
+b9	2-7	1	-2-	6,(3-2) 	O	BOS	Romy Gonzalez	Drew Rasmussen	1%	100%	Groundout: 2B-1B; T. O'Neill to 3B
+b9	2-7	2	--3	2,(0-1) 	O	BOS	Wilyer Abreu	Drew Rasmussen	0%	100%	Groundout: 1B unassisted
+									0 runs, 1 hit, 0 errors, 1 LOB. Rays 7, Red Sox 2.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Boston Red Sox Schedule Tampa Bay Rays Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Tampa Bay Rays vs Boston Red Sox Box Score: September 28, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/BOS/BOS202409280.shtml 
+ ----- 

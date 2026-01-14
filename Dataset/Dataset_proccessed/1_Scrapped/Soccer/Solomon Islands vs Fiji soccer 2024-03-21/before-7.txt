@@ -1,0 +1,225 @@
+Skip to content
+
+Free lower 48 U.S. Shipping on orders over $60
+
+Log in
+0
+0 items
+Home
+Blog
+Where Is An Eye Wash Station Needed? Common Locations & Hazards
+Where Is An Eye Wash Station Needed? Common Locations & Hazards
+March 20, 2024
+Share this article
+Contents
+Where are eyewash stations required?
+Eyewash Station: Common Locations & Hazards
+Janitorial Closet
+Boiler Room
+Battery Charging Station
+Laboratories
+Chemical Storage
+FAQs on Eye Wash Station Locations & Hazards
+
+An eye wash station is a crucial safety feature in workplaces where employees are exposed to hazardous substances. These stations provide immediate decontamination, allowing workers to flush away harmful materials from their eyes, which can prevent serious injuries or even blindness. Given the diverse range of environments and the different types of hazards present, the eye wash station requirements vary across industries. In settings such as laboratories, manufacturing plants, and anywhere chemicals are used or stored, the presence of an eye wash station is not just a safety measure but a regulatory requirement.
+
+The importance of these stations extends beyond compliance; they represent a fundamental aspect of workplace safety culture, ensuring that employees are protected and that risks are minimized. As we delve into the specifics of where and why eyewash stations are necessary, we will explore various common locations where these safety installations are placed and the typical hazards that necessitate their presence.
+
+ 
+
+Where are eyewash stations required?
+
+The eye wash station requirements are meticulously outlined by the Occupational Safety and Health Administration (OSHA) to ensure worker safety in environments with hazardous substances. According to OSHA Standard 1910.151(c) for general industry, "Where the eyes or body of any person may be exposed to injurious corrosive materials, suitable facilities for quick drenching or flushing of the eyes and body shall be provided within the work area for immediate emergency use." This mandate underlines the necessity of having an eye wash station or emergency showers readily available in areas where corrosive chemicals are used or handled.
+
+Similarly, for the construction industry, OSHA Standard 1926.50(g) stipulates the same requirement, emphasizing the need for immediate access to facilities that can provide quick drenching or flushing for both eyes and body if exposed to harmful corrosive materials. The inclusion of these standards across different sectors highlights the universal need for safety measures to protect workers from potential chemical injuries.
+
+The specification of "injurious corrosive materials" points to substances that can cause damage to skin or eyes upon contact, necessitating the presence of an eye wash station or shower equipment in areas where such materials are present. This includes environments where chemicals are processed, handled, or stored, ensuring that employees have the means to mitigate the effects of accidental exposure.
+
+Moreover, the stipulation for "suitable facilities" within the work area implies that the eyewash station must not only exist but also be accessible, functional, and well-maintained, ready for immediate use in an emergency. These eye wash station requirements are critical components of workplace safety protocols, ensuring that effective first aid measures are available to prevent serious injuries or health issues resulting from exposure to hazardous substances.
+
+ 
+
+Eyewash Station: Common Locations & Hazards
+
+Recognizing the environments where eye wash stations are crucial forms a key aspect of workplace safety. These stations are strategically located to offer immediate relief from hazardous exposures. Below is a checklist of common places and their corresponding hazards where eye wash stations are necessary:
+
+ Common Location	Common Hazard
+Battery Charging Stations	Battery Acid, Starter Fluid, Oils, Hydraulic Fluid
+Boiler Room	Steam, Caustic Water Treatment Chemicals
+Buildings and Grounds	Pesticides, Insecticides, Herbicides, Fumigants
+Chemical Storage	Acids, Bases, Solvents
+Doctors/Dentist Office	Bloodborne Pathogens, Blood, Bodily Fluids
+Fuel Storage	Gasoline, Diesel Fuel, Flammable Liquids
+Grinding	Metal Shavings, Concrete, Cement Chips
+HVAC Shop	Smoke, Flammable or Poisonous Gasses
+Housekeeping/Janitor Closets	Bleach, Chlorine, Ammonia, Cleaning Solvents
+Laboratories	Laboratory Chemicals, Biohazards
+Loading Dock	Dust, Dirt, Cardboard
+Machine Shop	Metal Shavings, Oil, Lubricants
+Maintenance Shop	Oils, Grease, Mechanical Hazards
+Paint Shop	Paints, Thinners, Flammable Liquids
+Pharmacy	Medicinal Chemicals, Solvents
+Quality Control	Chemicals used in testing and analysis
+Research & Development	Experimental Chemicals, Biohazards
+Sanitizing Areas	Disinfectants, Sterilants, Cleaning Chemicals
+Welding Shop	Smoke, Gases, Metal Filings
+Janitorial Closet
+
+In the context of workplace safety, janitorial closets represent significant areas of chemical hazard, necessitating the presence of an eye wash station, usually combined with an emergency shower as well. Historical data indicates that a considerable percentage of janitorial worker injuries are related to eye and skin irritations or burns, primarily due to exposure to cleaning chemicals.
+
+OSHA has actively cited facilities for failing to install suitable eyewash stations in janitorial closets, as mandated by 29 CFR 1910.151(c). These citations are considered serious violations due to the high risk of injury from chemical exposure:
+
+Resort & Casino Case: Cited for not ensuring eye wash station installation or maintenance in janitor's closets, where workers used phosphoric acid tile & grout cleaner without adequate eye wash facilities.
+Public School: Lacked an eye wash station where employees handled a degreaser with a high pH level, posing serious risks to eye safety.
+
+Janitorial staff frequently handle potent cleaning agents like phosphoric acid tile and grout cleaners, degreasers with high pH levels, and other chemicals that can cause severe damage upon contact. These substances, if mishandled or misapplied, can lead to eye irritation, burns, or even more severe ocular injuries. Consequently, the installation and maintenance of an eyewash station in janitorial closets are not merely compliance measures but critical safety necessities.
+
+Boiler Room
+
+The boiler room, a critical area in many industrial and commercial facilities, necessitates stringent safety measures, including the fulfillment of eye wash station requirements. The nature of work in these environments often involves exposure to extreme heat, steam, pressurized water systems, and chemicals used in water treatment processes, all of which pose significant risks to eye safety.
+
+The eye wash station in a boiler room is vital due to the potential hazards such as:
+
+Chemical Exposure: Boiler water treatments involve chemicals like scale inhibitors, corrosion inhibitors, and anti-foaming agents, which can be hazardous upon contact with eyes.
+Thermal and Steam Burns: The high temperatures and steam emissions in boiler rooms can cause severe eye injuries.
+Particulate Matter: Small particles from fuel, ash, or scale can become airborne, posing a risk to eye health.
+
+An example showing the importance of an eye wash station in a boiler room could involve a maintenance technician conducting routine boiler inspections. During the inspection, a steam line unexpectedly leaks, spraying hot water and steam. The technician’s eyes are exposed to the hot steam, causing immediate pain and potential thermal damage. Quick access to an eyewash station allows the technician to flush out the eyes with tepid water, significantly reducing the severity of the injury and preventing long-term ocular damage.
+
+This scenario underscores the eye wash station requirements in boiler rooms, highlighting the need for immediate emergency response capabilities to mitigate the risks associated with the high-risk environment. Ensuring that these stations are easily accessible, properly maintained, and fully operational is crucial in providing a safe workspace and protecting employees from the inherent dangers of boiler room operations.
+
+Battery Charging Station
+
+At battery charging stations, particularly where forklifts and other industrial vehicles are powered, the potential for hazardous exposure necessitates the presence of an eye wash station. According to OSHA Standard 1926.441(a)(6), such stations must be within 25 feet of the battery handling area to ensure immediate access in case of chemical exposure.
+
+To comply with OSHA regulations and ensure worker safety, eye wash stations near battery charging areas must meet specific criteria:
+
+Placement: The eye wash station must be immediately adjacent to the charging area to ensure quick access in case of an emergency.
+Height: The flushing fluid source should be positioned 33 to 53 inches from the floor, allowing users of different heights to access it comfortably.
+Clearance: It must be installed at least 6 inches away from a wall or any nearest obstruction to facilitate unobstructed usage.
+Flow Rate: The station should deliver at least 3 gallons per minute (GPM) of tepid flushing liquid, ensuring an effective flush for at least 15 minutes.
+Accessibility: The eye wash station should have a stay-open valve that activates in one second or less, which leaves the user’s hands free and ensures that the valve remains open until intentionally shut off by the user.
+Contamination Protection: The heads and flushing liquid must be protected from airborne contaminants, ensuring cleanliness and reliability of the wash solution.
+
+These specifications are designed to ensure that in the event of exposure to hazardous substances at a forklift charging station, employees have immediate and effective access to an eye wash station, mitigating the risks of serious injuries or chemical burns.
+
+Laboratories
+
+In the diverse and often hazardous environment of laboratories, the presence of an eye wash station is crucial. Laboratories, whether they are in educational, medical, or industrial settings, handle a myriad of substances that can pose significant risks to eye health. The common hazards in these environments necessitate stringent safety measures, including the availability of an eyewash station.
+
+Hazards in laboratories include:
+
+Chemical Spills and Splashes: The use of acids, bases, solvents, and various reactive agents can lead to accidental splashes or spills, endangering eye safety.
+Vapors and Fumes: Many chemical reactions generate vapors or fumes that can irritate or burn the eyes upon exposure.
+Particulate Matter: Operations like grinding, cutting, or milling can release small particles that can cause eye irritation or damage.
+
+An example highlighting the importance of an eye wash station in a laboratory setting might involve a researcher working with a volatile chemical that reacts unexpectedly, causing a splash that reaches the eyes. Immediate access to an eyewash station enables the researcher to flush the eyes thoroughly and quickly, minimizing the chemical's contact time with the eye tissue and reducing the risk of serious injury.
+
+This example illustrates the critical role that an eye wash station plays in laboratory safety, providing an essential first line of defense against chemical exposures. The prompt and effective washing of the eyes can prevent severe injuries and long-term health consequences, underscoring the necessity of eye wash stations in laboratory environments.
+
+Chemical Storage
+
+In areas dedicated to chemical storage, the installation of an eye wash station is a fundamental safety requirement. These locations are filled with various chemicals, each with potential hazards that can cause severe eye injuries. The nature of stored chemicals, whether they are volatile, corrosive, or simply irritants, mandates the presence of an eyewash station to address potential eye exposure incidents effectively.
+
+Common hazards in chemical storage areas include:
+
+Chemical Spills: Even with stringent safety protocols, spills can occur, leading to the risk of splash injuries to the eyes.
+Leaking Containers: Over time, containers may degrade, leak, or break, releasing harmful substances.
+Fumes and Vapors: Many chemicals emit fumes that can irritate or damage the eyes, even without direct contact.
+
+Consider a scenario in a chemical storage facility: an employee is inspecting shelves when a previously unnoticed leak in a container of caustic soda becomes apparent. The chemical splashes onto the employee’s face, threatening serious eye damage. Immediate access to an adjacent eye wash station allows for rapid flushing of the eyes, crucially limiting the chemical’s harmful effects and potentially saving the employee’s sight.
+
+This example underscores the importance of having an accessible eyewash station in chemical storage areas. The ability to quickly and effectively rinse the eyes can drastically reduce the severity of injuries from chemical exposures. Therefore, maintaining properly functioning eye wash stations in these high-risk areas is essential for ensuring the safety and well-being of individuals who work with or around hazardous chemicals.
+
+The need for an eye wash station across various work environments highlights the imperative to prioritize eye safety in the face of occupational hazards. From the operations of boiler rooms and battery charging stations to the meticulous work in laboratories and the routine risks in janitorial closets, the common factor is the presence of substances and conditions that could endanger eyesight.
+
+Reflecting on the diverse settings we've explored, the question arises: Is your workplace equipped with the necessary eye wash stations to safeguard against the specific hazards it faces? This question serves as a reminder of the critical role these stations play in occupational health and safety. Employers and safety officers should regularly assess their facilities to ensure compliance with OSHA standards and the well-being of their workforce.
+
+ 
+
+FAQs on Eye Wash Station Locations & Hazards
+Where should an eyewash station be located?
+
+An eye wash station should be located within 10 seconds or roughly 55 feet of hazardous areas, ensuring unobstructed and immediate access for individuals exposed to harmful substances. The station must be on the same level as the hazard, without doors or stairs in the direct path to facilitate quick and easy access.
+
+What are the OSHA requirements for eyewash stations?
+
+OSHA eyewash requirements note that eye wash stations should be readily accessible in areas where employees are exposed to injurious corrosive materials. They must provide a continuous flow of clean water for at least 15 minutes and be located within 25 feet of the hazardous area. OSHA standards also mandate regular maintenance to ensure proper operation.
+
+Where is the eye wash station located in a lab?
+
+In a laboratory, the eye wash station should be situated close to the areas where chemicals are handled or stored, typically within the immediate work area. This placement ensures quick access in case of a chemical splash or exposure, minimizing the time to commence flushing the eyes.
+
+What are the ANSI requirements for eye wash station?
+
+ANSI standards for eye wash stations include a minimum flow rate of 0.4 gallons per minute for 15 minutes, tepid flushing fluid temperature (between 60°F and 100°F), and a location within 10 seconds’ walk from the hazard or hazardous materials. The units must be well-maintained, easily accessible, free of obstructions, and clearly marked with signage.
+
+Tags:
+Eyewash stations
+Herbert Post
+Industry Insights
+Share this article
+March 19, 2024
+4 Best Combination Eyewash Shower Station: Features and Buying Guide
+March 21, 2024
+How To Fix A Leaky Hose Bib - Expert Repair & Maintenance Tips
+Herbert Post
+Born in the Philadelphia area and raised in Houston by a family who was predominately employed in heavy manufacturing. Herb took a liking to factory processes and later safety compliance where he has spent the last 13 years facilitating best practices and teaching updated regulations. He is married with two children and a St Bernard named Jose. Herb is a self-described compliance geek. When he isn’t studying safety reports and regulatory interpretations he enjoys racquetball and watching his favorite football team, the Dallas Cowboys.
+Contact Us
+Reno, Nevada 89502
+(316) 247-1270
+hello@trdsf.com
+Absorbent Supplies
+Oil Only
+Pads
+Pillows
+Socks
+Spill Kits
+Sweep Off
+Universal
+Eyewash Stations
+Pedestal Mount
+Portable
+Wall Mount
+Lockout Tagout
+Breaker Locks
+Electrical Lockout
+Hasps
+Kits
+Lock Boxes
+LOTO Devices
+Padlocks
+Plug & Socket Lockout
+Push Button Lockout
+Spigot Lockout
+Stations
+Supplies
+Tags
+Valve Lockout
+Workplace Signs
+Floor Signs
+Safety Scoreboards
+Spanish Signs
+Wall Signs
+More
+About
+Blog
+Privacy
+Terms of Use
+Contact Us
+FAQ
+Shipping
+Warranty
+Warranty Registration
+Where to Buy
+Facebook
+Instagram
+YouTube
+Linkedin
+Payment methods
+© 2024, TRADESAFE Powered by Shopify
+ 
+ 
+ ----- 
+ Source link : https://trdsf.com/blogs/news/where-is-an-eye-wash-station-required?srsltid=AfmBOoqX441j_G4fMFWZiNHA32XZQ0mub_nt5J8Be124pf-QKKfPVAAd 
+ ----- 

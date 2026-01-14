@@ -1,0 +1,317 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Mariners
+73-71, 32-43 Away
+10
+Final
+Cardinals
+72-71, 37-34 Home
+4
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+SEA
+
+
+STL
+1	2	3	4	5	6	7	8	9	R	H	E
+5	2	0	0	2	0	0	0	1	10	14	0
+0	2	0	0	0	0	0	2	0	4	9	0
+WIN
+T. Thornton
+4-3
+2.0 IP, 1 H, 0 ER, 2 K, 0 BB
+LOSS
+M. Mikolas
+8-11
+2.0 IP, 9 H, 6 ER, 3 K, 0 BB
+SEA
+Overview
+STL
+Mariners Hitting
+HITTERS
+
+J. Rodriguez
+CF
+
+
+C. Raleigh
+DH
+
+
+R. Arozarena
+LF
+
+
+L. Raley
+RF
+
+
+J. Turner
+1B
+
+
+D. Moore
+1B
+
+
+J. Polanco
+2B
+
+
+L. Rivas
+2B
+
+
+J.P. Crawford
+SS
+
+
+M. Garver
+C
+
+
+J. Rojas
+3B
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+5	2	2	0	0	0	.262
+5	1	1	1	0	0	.213
+5	2	2	2	1	0	.244
+4	2	2	2	0	1	.239
+3	2	2	0	0	1	.240
+1	0	0	0	0	0	.207
+4	1	1	2	1	0	.204
+0	0	0	0	0	1	.250
+4	0	2	1	0	1	.198
+4	0	1	2	0	0	.168
+5	0	1	0	0	0	.231
+40	10	14	10	2	4	
+BATTING
+2BTurner (20, Mikolas); Crawford (14, Roycroft); Raley 2 (17, Roycroft, Mikolas); Rodríguez (14, Mikolas)
+HRPolanco (14, 5th inning off Matz 1 on, 1 Out); Arozarena (19, 2nd inning off Mikolas 1 on, 1 Out)
+RBIPolanco 2 (39), Crawford (33), Garver 2 (46), Arozarena 2 (52), Raley 2 (49), Raleigh (90)
+2Out RBICrawford, Garver 2
+GIDPGarver
+Team LOB8
+Team RISP5-12 (Turner 1-1, Polanco 0-2, Crawford 1-2, Garver 1-1, Raley 1-1, Moore 0-1, Rojas 0-1, Rodríguez 0-1, Raleigh 1-2)
+FIELDING
+DP1 (Polanco-Crawford-Turner)
+Cardinals Hitting
+HITTERS
+
+M. Winn
+SS
+
+
+a
+V. Scott II
+PH
+
+
+A. Burleson
+DH
+
+
+P. Goldschmidt
+1B
+
+
+L. Baker
+1B
+
+
+N. Arenado
+3B
+
+
+M. Carpenter
+3B
+
+
+L. Nootbaar
+LF
+
+
+I. Herrera
+C
+
+
+J. Walker
+RF
+
+
+J. Fermin
+2B
+
+
+M. Siani
+CF
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	0	1	0	0	0	.273
+1	0	0	0	0	0	.164
+5	0	1	0	0	0	.273
+3	0	1	0	0	0	.244
+1	0	0	0	0	0	.200
+2	1	1	0	0	1	.266
+1	1	1	0	0	0	.238
+2	0	0	0	0	2	.244
+4	2	2	0	0	0	.281
+4	0	1	2	0	0	.180
+4	0	1	2	0	0	.148
+4	0	0	0	0	0	.247
+35	4	9	4	0	3	
+a-struck out swinging for Winn in the 9th
+BATTING
+2BCarpenter (6, Bazardo); Herrera (9, Castillo); Walker (5, Bazardo)
+RBIFermín 2 (2), Walker 2 (10)
+2Out RBIFermín 2, Walker 2
+GIDPBurleson
+Team LOB7
+Team RISP2-10 (Fermín 1-3, Siani 0-2, Herrera 0-1, Nootbaar 0-1, Walker 1-3)
+BASERUNNING
+SBFermín (2, 2nd base off Castillo/Garver); Herrera (5, 2nd base off Castillo/Garver)
+FIELDING
+DP1 (Winn-Fermín-Goldschmidt)
+PBHerrera
+Mariners Pitching
+PITCHERS
+
+L. Castillo
+
+
+T. Thornton
+(W, 4-3)
+
+
+T. Saucedo
+
+
+E. Bazardo
+
+
+J. Chargois
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+3.0	5	2	3	59-38	3.64
+2.0	1	0	2	28-21	3.99
+2.0	1	0	2	26-17	3.82
+0.2	2	2	1	20-11	6.64
+1.1	0	0	2	18-11	2.37
+9.0	9	4	10	151-98	
+PITCHING
+First-pitch strikes/Batters FacedChargois 3/4; Castillo 11/15; Thornton 5/7; Bazardo 3/5; Saucedo 4/7
+Called strikes-Swinging strikes-Foul balls-In play strikesChargois-2-5-2-2; Castillo-8-9-10-11; Thornton-5-4-7-5; Bazardo-4-2-2-3; Saucedo-8-3-2-3
+Ground Balls-Fly BallsChargois 0-2; Castillo 3-3; Thornton 2-2; Bazardo 1-0; Saucedo 2-1
+Game ScoresL Castillo 43
+Cardinals Pitching
+PITCHERS
+
+M. Mikolas
+(L, 8-11)
+
+
+S. Matz
+
+
+R. O'Brien
+
+
+C. Roycroft
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+2.0	9	6	3	54-43	5.55
+4.0	2	2	4	56-36	5.94
+1.1	1	0	2	27-12	12.00
+1.2	2	1	4	35-23	4.22
+9.0	14	9	13	172-114	
+PITCHING
+HBPGarver (by Roycroft)
+First-pitch strikes/Batters FacedMikolas 11/15; Matz 9/14; O'Brien 3/7; Roycroft 6/9
+Called strikes-Swinging strikes-Foul balls-In play strikesMikolas-6-8-17-11; Matz-10-6-11-9; O'Brien-4-4-1-2; Roycroft-8-5-7-2
+Ground Balls-Fly BallsMikolas 0-3; Matz 5-2; O'Brien 0-2; Roycroft 0-1
+Game ScoresM Mikolas 15
+Scoring Summary
+INNING
+	SEA	STL
+		1st	Raleigh singled to center, Rodríguez scored.	1	0
+		1st	Raley doubled to center, Arozarena scored and Raleigh scored.	3	0
+		1st	Garver singled to left, Raley scored and Turner scored.	5	0
+		2nd	Arozarena homered to left (390 feet), Rodríguez scored.	7	0
+		2nd	Fermín singled to center, Arenado scored and Herrera scored.	7	2
+		5th	Polanco homered to center (419 feet), Turner scored.	9	2
+		8th	Walker doubled to left, Carpenter scored and Herrera scored.	9	4
+		9th	Crawford doubled to left, Raley scored, Rivas to third.	10	4
+Full Play-By-Play
+Game Information
+Busch Stadium
+6:15 PM, September 8, 2024
+St. Louis, Missouri
+Line: SEA -135
+Over/Under: 7.5
+Attendance: 41,302
+Game Time:
+2:51
+Umpires:
+Home Plate Umpire - Nestor Ceja
+First Base Umpire - Derek Thomas
+Second Base Umpire - Nic Lentz
+Third Base Umpire - Will Little
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570618 
+ ----- 

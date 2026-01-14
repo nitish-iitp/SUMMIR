@@ -1,0 +1,1181 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Rifle Scopes Best High-Magnification LPVO for my use case?
+ 
+Thread starter
+jst4kix  
+Start date
+Jun 18, 2024
+1
+	
+2
+Next
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 18, 2024
+#1
+Hello All! I've been reading through all of the previous posts on this and similar subjects, and would like to ask for your guidance on a new LPVO for my particular use case...
+
+What you need to know: This LPVO will be going on a 12.5" ADM AR-15 build with a .223 Wylde Criterion Core barrel and all the fixins. I will be shooting a mixture of ammo types, from 55gr bulk 5.56 for plinking to 77gr 2.23 match ammo for groups at 100 yards. The rifle will be suppressed 100% of the time, using a SiCo Omega 36M in the "short" configuration. I will be predominantly on a flat range, on the East Coast (i.e., surrounded by foliage), at distances less than or equal to 300 yards, during high-sun daylight hours (no dawn/dusk/twilight shooting currently). I do not hunt, nor do I compete (at least not yet); this rig will be for range use only (i.e., not a "truck gun" or anything where it would get beat around too much). The range I have access to has steel at 50 yards, 75 yards, 100 yards, and is being extended to 300 yards this fall. My use case is two-fold: 1) To use the LPVO's illuminated reticle @1X as a pseudo-red dot for quick off-hand shooting of steel targets at 50, 75, and 100 yards, and 2) to then be able to transition to maximum magnification (with minimal illumination) for precision shots at 100 yards on paper and further distances (out to 300 yards) as available. Use case #2 will happen either seated, prone, or off a tripod whereas use case #1 will be more dynamic in nature (e.g., standing, kneeling, moving, etc...).
+
+My current optic setup: I started out with a red dot / magnifier combo on this build, but the magnification range didn't get me where I wanted to be. I was fine with the dynamic "shooting steel" portion of the use case, but could not see the target well enough at 100 yards for precision work with my 3X magnifier. I then went to an old Primary Arms SLx 1-6 I had in my parts bin to try to see if increasing the magnification to 6X would help. Unfortunately, with my aging eyes, and likely the lower quality of the PA SLx glass, moving to a 1-6 helped, but not enough. I lost my "nuclear bright" red dot at 1X, and I didn't gain enough fidelity at 6X to put down small groups, see my misses, etc... So, next I took my Athlon Helos Gen2 2-12 X 42 scope off of my 300 Blackout build and mounted it up on the 12.5. Now we're getting somewhere, LOL! Sure, it looks a little funny on the 12.5", but it's semi-daylight bright @1x (NOT bright enough to be fast off-hand), and at 12X I can make short work of 100 yard paper targets. So, I'm currently sporting an MPVO 2-12 on a 12.5" build, and it's OK, but it needs an offset/piggyback red dot for true, fast, 1X operation in a dynamic shooting environment.
+
+My conundrum: I started searching for a "goldilocks" LPVO - one with nuclear bright 1X illumination for running and gunning on steel, enough magnification range to poke little holes in paper targets at 100 yards, and the clarity to continue on steel to 300 yards in the future. My LGS has the Vortex Razor HD G3 1-10x24 in stock, as well as the Nightforce NX8 1-8, and they both seem like good options, but I'm not sure they're the best option. I've read dozens of different reviews, on here as well as the interwebs, and watched hours of videos on YouTube, and I've got it narrowed down to a handful of scopes. Unfortunately, after all of this research, I've given myself analysis paralysis and don't know what to pick. There are a number of scopes that have great features - on paper - that I haven't been able to handle yet, so I don't know how they translate to actual practice in the real world. I'm hoping that you can share your insights on what you think may be the best for my particular situation. To aid the process, I've made a "Top 10" list of features that I'm most interested in, from most important to least important:
+
+
+
+
+Additionally, I've compiled a list of scopes that are "in the running" for my money. Note: I've also included a few MPVO's as alternates, assuming I can't get everything I want in an LPVO, I'll settle for an MPVO/Red Dot combo. I do not want to pair a red dot with an LPVO as I feel the 1X LPVO should be sufficient, assuming the illumination gets bright enough for quick target acquisition. I'm also not crazy about the chevron center aiming point in the Primary Arms offerings, but I may be able to "learn to love it" if it's the otherwise best choice...
+
+Given the list of criteria above, and the list of scopes, below, which would you choose and why? If you know of something that should be on this list that isn't, and is within my budget (I'm looking at you, March Shorty), please also chime in.
+
+
+
+
+I sincerely appreciate you taking the time to read all of the above, and I look forward to your comments! Please let me know if I can clarify anything or augment the info provided.
+ 
+71firebird400
+Sergeant
+Full Member
+Minuteman
+Mar 28, 2009
+760
+49
+Bellingham, WA
+Jun 18, 2024
+#2
+A used ATACR 1-8 is your best option.
+ 
+ 
+Reactions:
+Makinchips208, 1911hombre and jst4kix
+Burdy
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 10, 2013
+1,879
+1,793
+Jun 18, 2024
+#3
+S&B Short Dot Dual CC
+ 
+ 
+Reactions:
+91Eunozs, fx77, Bakwa and 4 others
+ClangClang
+Private
+Full Member
+Minuteman
+Aug 10, 2017
+385
+361
+UT
+Jun 18, 2024
+#4
+Burdy said:
+S&B Short Dot Dual CC
+You selling one for under $2k to meet OP's budget? If so, ill buy it and bring it to Legion!
+ 
+ 
+Reactions:
+91Eunozs, Bakwa and jst4kix
+Burdy
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 10, 2013
+1,879
+1,793
+Jun 18, 2024
+#5
+ClangClang said:
+You selling one for under $2k to meet OP's budget? If so, ill buy it and bring it to Legion!
+I swear I read his requirement list at least 3 times. Doh!
+ 
+ 
+Reactions:
+simonp and jst4kix
+1911hombre
+Old School
+Supporter
+Full Member
+Minuteman
+ 
+Apr 13, 2019
+1,268
+1,535
+East Central Minnesota
+Jun 18, 2024
+#6
+71firebird400 said:
+A used ATACR 1-8 is your best option.
+THIS. A nice one sold yesterday in the PX for $2K which is a steal for the FC-Dmx reticle. Vortex 1-10 was meh for me. I had two different NX8's which I liked, but I really really like my ATACR. $2K used is tough to come by, but you can find them at $2300 frequently. FC-Dmx reticle is your friend.
+ 
+ 
+Reactions:
+Makinchips208, simonp and jst4kix
+charnicus
+I dwell in the desert.
+Full Member
+Minuteman
+Supporter
+Oct 29, 2018
+2,038
+1,252
+Mos Eisley
+Jun 18, 2024
+#7
+An Atacr for 2k.
+ 
+ 
+Reactions:
+jst4kix
+ironpony52
+Sergeant of the Hide
+Full Member
+Minuteman
+Sep 24, 2023
+220
+731
+Mid Ohio
+Jun 18, 2024
+#8
+SIG"s LPVO's are very nice I have 3 of them I am happy with. Mount is included which is adds to the value.
+ 
+ 
+Reactions:
+sgtsmmiii and jst4kix
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 18, 2024
+#9
+It seems the ATACR 1-8 is getting a lot of love in the comments so far! On paper, it is longer and heavier than the NX8, has the same eye relief and reticle, but has superior exit pupil numbers.
+
+Please educate me on why this scope is valued, not just monetarily but by the community as well, so much higher than the ones I was considering. Is the glass that much better? Is it easier/faster to get behind? Are there other intangibles that I can’t see from just looking at specs on a computer?
+
+I plan to call my LGS tomorrow morning to see if they have an ATACR in the case. Assuming they do, I’ll compare it side by side with the Razor and the two NX8’s (1-8 and 2.5-20) to see if I can discern the differences. If you would, please chime in with any specific things to make special note of when I do the comparison tomorrow.
+
+Thanks again for the information, and please keep the guidance coming!
+ 
+Burdy
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 10, 2013
+1,879
+1,793
+Jun 18, 2024
+#10
+jst4kix said:
+It seems the ATACR 1-8 is getting a lot of love in the comments so far! On paper, it is longer and heavier than the NX8, has the same eye relief and reticle, but has superior exit pupil numbers.
+
+Please educate me on why this scope is valued, not just monetarily but by the community as well, so much higher than the ones I was considering. Is the glass that much better? Is it easier/faster to get behind? Are there other intangibles that I can’t see from just looking at specs on a computer?
+
+I plan to call my LGS tomorrow morning to see if they have an ATACR in the case. Assuming they do, I’ll compare it side by side with the Razor and the two NX8’s (1-8 and 2.5-20) to see if I can discern the differences. If you would, please chime in with any specific things to make special note of when I do the comparison tomorrow.
+
+Thanks again for the information, and please keep the guidance coming!
+Click to expand...
+The eyebox of the ATACR is far more forgiving at all magnifications and the NX8 1-8 has been known to have been plagued with edge clarity and distortion/pincushioning issues. You would also want the FC-DMX reticle in the NX8 which I believe would force you to get the capped turret model.
+Personally, I bought two NX8 at the same time and both had edge distortion and super tight eyeboxes at 8x. They got sold immediately.
+I have a 4-32 NX8 however and do like it quite well so far with what limited use it has had.
+ 
+ 
+Reactions:
+tanders11, flogxal, CSTactical and 1 other person
+clcustom1911
+Muppet Extraordinaire
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Oct 23, 2017
+9,962
+33,644
+In a van, down by the river.
+Jun 18, 2024
+#11
+If you want to use the saved 1200$ for ammo amd a training class...get a Vortex Strike Eagle 1-8 with EBR-8 reticle.
+
+People want the best equipment, but don't have the skills to actually use the equipment properly.
+
+I have one and it's got a center dot for pretty precise aiming out to 500-600. 50y zero gives very reasonable BDC reticle drops out to 600.
+ 
+Last edited: Jun 21, 2024
+ 
+Reactions:
+smcfarland, Makinchips208, ironpony52 and 2 others
+H
+Hoody2shoes
+Sergeant of the Hide
+Full Member
+Minuteman
+May 10, 2020
+315
+336
+Jun 19, 2024
+#12
+Atacr 1-8
+Up your budget and maybe the gen2 march 1-10 shorty
+ 
+ 
+Reactions:
+Hesperidins, RayDBonz, Makinchips208 and 1 other person
+I
+Ikeman83
+Private
+Minuteman
+Oct 20, 2017
+81
+60
+Jun 19, 2024
+#13
+K18i-2
+ 
+ 
+Reactions:
+Rockworx
+Burdy
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 10, 2013
+1,879
+1,793
+Jun 19, 2024
+#14
+Ikeman83 said:
+K18i-2
+I would hope that FFP/DFP would be a requirement considering the use case.
+ 
+ 
+Reactions:
+jst4kix
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 19, 2024
+#15
+Burdy said:
+I would hope that FFP/DFP would be a requirement considering the use case.
+You are correct, Sir! As noted in the second pic, all of the contenders I’m considering are FFP, though I’m certainly not averse to the concept of a dual-focal-plane optic (except to the effect on my wallet, lol).
+ 
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 19, 2024
+#16
+Burdy said:
+The eyebox of the ATACR is far more forgiving at all magnifications and the NX8 1-8 has been known to have been plagued with edge clarity and distortion/pincushioning issues. You would also want the FC-DMX reticle in the NX8 which I believe would force you to get the capped turret model.
+Personally, I bought two NX8 at the same time and both had edge distortion and super tight eyeboxes at 8x. They got sold immediately.
+I have a 4-32 NX8 however and do like it quite well so far with what limited use it has had.
+Click to expand...
+@Burdy - Thanks for this rundown. I’ve spent the morning researching the ATACR, and plan to look through one this afternoon at my LGS.
+
+Follow-on questions: How do you feel about the magnification ring being the whole back of the scope body? I assume you don’t run yours with a rear scope cap as it would spin every time you changed magnification, though I may be completely wrong. Also, was setting the diopter difficult by comparison to a more traditional scope design? Have you had any issues with the diopter ring coming loose as you work the magnification on the scope? Again, thanks for your insight!
+ 
+R
+Realwar
+Private
+Minuteman
+Dec 4, 2022
+65
+43
+CA
+Jun 19, 2024
+#17
+Also the new PA PLxC 1-8X24 SFP Illuminated ACSS Nova Fiber Wire Reticle Scope will be out this July.
+
+https://www.primaryarms.com/primary-arms-compact-plxc-1-8x24-sfp-rifle-scope-illuminated-acss-nova-fiber-wire-reticle?avad=234121_d3a6e8e81&utm_source=affiliate-referral&utm_medium=social&utm_campaign=184213&utm_content=product-review
+
+
+
+
+
+ 
+Last edited: Jun 19, 2024
+ 
+Reactions:
+Moose, Bakwa and jst4kix
+I
+Ikeman83
+Private
+Minuteman
+Oct 20, 2017
+81
+60
+Jun 19, 2024
+#18
+Burdy said:
+I would hope that FFP/DFP would be a requirement considering the use case.
+
+Why? Orient the throw lever so it's vertical at 4x. Hold values are 2 mils instead of 1 at 4.
+
+Field at 8x is so wide it's like shooting a 6 so you don't need to come off 8x much.
+
+Can always just dial your correction with the exposed turret.
+ 
+db2000
+Supporter
+Supporter
+Full Member
+Minuteman
+Mar 27, 2020
+5,027
+4,576
+Jun 19, 2024
+#19
+I like PLx 1-8 Griffin reticle or similar mil dot from them not BDC. Great glass. Day bright illumination. Can’t compare to NF but definitely cheaper. New models are very light and compact
+ 
+ 
+Reactions:
+jst4kix
+mrtoyz
+Armchair Commando
+Full Member
+Minuteman
+Jul 11, 2009
+1,608
+1,105
+Western WA
+Jun 19, 2024
+#20
+jst4kix said:
+@Burdy - Thanks for this rundown. I’ve spent the morning researching the ATACR, and plan to look through one this afternoon at my LGS.
+
+Follow-on questions: How do you feel about the magnification ring being the whole back of the scope body? I assume you don’t run yours with a rear scope cap as it would spin every time you changed magnification, though I may be completely wrong. Also, was setting the diopter difficult by comparison to a more traditional scope design? Have you had any issues with the diopter ring coming loose as you work the magnification on the scope? Again, thanks for your insight!
+Click to expand...
+Personally, I'm not a fan of the whole back of the scope twisting on all of the ATACR models. In and of it self not a deal breaker but annoying for sure. Your mileage may vary.
+I’ve owned or at least played with the majority of LPVO’s. I ended up with multiples of 3 different models. NX8 1-8 (dmx), EoTech 1-10 (sr5) and S&B Dual CC
+ 
+Last edited: Jun 20, 2024
+ 
+Reactions:
+Bakwa and jst4kix
+db2000
+Supporter
+Supporter
+Full Member
+Minuteman
+Mar 27, 2020
+5,027
+4,576
+Jun 19, 2024
+#21
+mrtoyz said:
+Personally, I'm not a fan of the whole back of the scope twisting on all of the ATACR models. In and of it self not a deal breaker but annoying for sure. Your mileage may vary.
+I’ve owned or at least played with the majority of LPVO’s. I ended up with multiples of 3 different models. NX8 1-8 (MilXT), EoTech 1-10 (sr5) and S&B Dual CC
+Frankly that’s why I don’t even bother. I’m not having my entire ocular piece twisting. Just not gonna happen.
+ 
+ 
+Reactions:
+jst4kix
+Burdy
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 10, 2013
+1,879
+1,793
+Jun 19, 2024
+#22
+jst4kix said:
+@Burdy - Thanks for this rundown. I’ve spent the morning researching the ATACR, and plan to look through one this afternoon at my LGS.
+
+Follow-on questions: How do you feel about the magnification ring being the whole back of the scope body? I assume you don’t run yours with a rear scope cap as it would spin every time you changed magnification, though I may be completely wrong. Also, was setting the diopter difficult by comparison to a more traditional scope design? Have you had any issues with the diopter ring coming loose as you work the magnification on the scope? Again, thanks for your insight!
+Click to expand...
+No issues with the diopter ring, and it appears I am in the minority, but I do not mind at all if the whole ocular housing turns...in fact, I almost prefer it. I have a couple of Vudu 1-10's and when I go from using that to something that does not operate in the same way it kind of annoys me. Why? Because I do not need a throw lever which digs into my chest or back, or snags/hangs on equipment, and it is far easier under stress to just grab the whole housing with my entire hand and twist it. There is a bit more thought and dexterity required when it doesn't operate that way, but I I think the difference is much more noticeable after you have spent some real time with a scope where the entire housing turns. The S&B does not turn the entire thing, but there is a huge rubber ring that is very close to the same feel, and works in the same way. I run no throw lever on that either.
+
+The downside is of course, scope caps but there are a number of different ways to resolve that if you wish you keep it covered.
+
+
+Ikeman83 said:
+Why? Orient the throw lever so it's vertical at 4x. Hold values are 2 mils instead of 1 at 4.
+
+Field at 8x is so wide it's like shooting a 6 so you don't need to come off 8x much.
+
+Can always just dial your correction with the exposed turret.
+
+All that is fine and dandy until you are stressed the freak out, HR at 191, can barely breathe and must make decisions RIGHT NOW.
+If it is a dynamic/fighting rifle and you want SFP for the FOV and wonderful 1X eyebox, I highly suggest sticking to a 6x max magnification where you can operate the scope almost binary...1x or 6x.
+
+I have owned the K16 and K18. I have not owned the K18-2. The K16 was a better fighting optic than the K18. If you need to be at 5x or 6x on the K18 so that you can see/analyze the ENTIRE range fan and make shots at various distances you would need to constantly adjust magnification to ensure the correct holds. It was annoying and ate up time. I went so far as to order the external turret for it, which of course, spun around on me while running with the rifle and nearly cost me a stage:
+
+
+
+
+So then I went through all kinds of trouble to source the euro-only flip top turret so that it would be protected:
+
+
+While that worked really well, the rifles these go on and the use cases they see, holding is typically a priority over dialing and much faster. You are typically engaging larger sized targets. Ultimately, I had to make a decision to go back to the K16 or go FFP. I ended up putting the K18 on a short-ish range hunting rifle because the glass is so good, I couldn't let it go completely.
+
+
+With that being said, my requirement is an exposed elevation turrets because there are times where you have the time and you want to be precise. The S&B has the best one on the market since it is single turn and you will never get lost in it. Also there are hard "thunks" at each whole mil that you can feel and hear. Helen Keller could go straight to 5 MILs just as fast as you could. That is NOT hyperbole.
+
+
+With that being said. No scope is perfect. The S&B reticle while very precise is a bit thin for my aging eyes (but that's my problem) and I do wish the Illumination had the OFF-1-OFF-2-OFF-3...etc layout that the OP likes.
+ 
+ 
+Reactions:
+HD1911, clcustom1911, flogxal and 1 other person
+mrtoyz
+Armchair Commando
+Full Member
+Minuteman
+Jul 11, 2009
+1,608
+1,105
+Western WA
+Jun 19, 2024
+#23
+Burdy said:
+No issues with the diopter ring, and it appears I am in the minority, but I do not mind at all if the whole ocular housing turns...in fact, I almost prefer it. I have a couple of Vudu 1-10's and when I go from using that to something that does not operate in the same way it kind of annoys me. Why? Because I do not need a throw lever which digs into my chest or back, or snags/hangs on equipment, and it is far easier under stress to just grab the whole housing with my entire hand and twist it. There is a bit more thought and dexterity required when it doesn't operate that way, but I I think the difference is much more noticeable after you have spent some real time with a scope where the entire housing turns. The S&B does not turn the entire thing, but there is a huge rubber ring that is very close to the same feel, and works in the same way. I run no throw lever on that either.
+
+The downside is of course, scope caps but there are a number of different ways to resolve that if you wish you keep it covered.
+
+
+
+All that is fine and dandy until you are stressed the freak out, HR at 191, can barely breathe and must make decisions RIGHT NOW.
+If it is a dynamic/fighting rifle and you want SFP for the FOV and wonderful 1X eyebox, I highly suggest sticking to a 6x max magnification where you can operate the scope almost binary...1x or 6x.
+
+I have owned the K16 and K18. I have not owned the K18-2. The K16 was a better fighting optic than the K18. If you need to be at 5x or 6x on the K18 so that you can see/analyze the ENTIRE range fan and make shots at various distances you would need to constantly adjust magnification to ensure the correct holds. It was annoying and ate up time. I went so far as to order the external turret for it, which of course, spun around on me while running with the rifle and nearly cost me a stage:
+
+View attachment 8442234
+
+
+So then I went through all kinds of trouble to source the euro-only flip top turret so that it would be protected:
+View attachment 8442235
+
+While that worked really well, the rifles these go on and the use cases they see, holding is typically a priority over dialing and much faster. You are typically engaging larger sized targets. Ultimately, I had to make a decision to go back to the K16 or go FFP. I ended up putting the K18 on a short-ish range hunting rifle because the glass is so good, I couldn't let it go completely.
+
+
+With that being said, my requirement is an exposed elevation turrets because there are times where you have the time and you want to be precise. The S&B has the best one on the market since it is single turn and you will never get lost in it. Also there are hard "thunks" at each whole mil that you can feel and hear. Helen Keller could go straight to 5 MILs just as fast as you could. That is NOT hyperbole.
+View attachment 8442245
+
+With that being said. No scope is perfect. The S&B reticle while very precise is a bit thin for my aging eyes (but that's my problem) and I do wish the Illumination had the OFF-1-OFF-2-OFF-3...etc layout that the OP likes.
+Click to expand...
+Totally agree on the off positions between setting on the Dual CC. It’s the one thing I don’t like about it.
+ 
+ 
+Reactions:
+jst4kix
+I
+Ikeman83
+Private
+Minuteman
+Oct 20, 2017
+81
+60
+Jun 19, 2024
+#24
+Burdy said:
+No issues with the diopter ring, and it appears I am in the minority, but I do not mind at all if the whole ocular housing turns...in fact, I almost prefer it. I have a couple of Vudu 1-10's and when I go from using that to something that does not operate in the same way it kind of annoys me. Why? Because I do not need a throw lever which digs into my chest or back, or snags/hangs on equipment, and it is far easier under stress to just grab the whole housing with my entire hand and twist it. There is a bit more thought and dexterity required when it doesn't operate that way, but I I think the difference is much more noticeable after you have spent some real time with a scope where the entire housing turns. The S&B does not turn the entire thing, but there is a huge rubber ring that is very close to the same feel, and works in the same way. I run no throw lever on that either.
+
+The downside is of course, scope caps but there are a number of different ways to resolve that if you wish you keep it covered.
+
+
+
+All that is fine and dandy until you are stressed the freak out, HR at 191, can barely breathe and must make decisions RIGHT NOW.
+If it is a dynamic/fighting rifle and you want SFP for the FOV and wonderful 1X eyebox, I highly suggest sticking to a 6x max magnification where you can operate the scope almost binary...1x or 6x.
+
+I have owned the K16 and K18. I have not owned the K18-2. The K16 was a better fighting optic than the K18. If you need to be at 5x or 6x on the K18 so that you can see/analyze the ENTIRE range fan and make shots at various distances you would need to constantly adjust magnification to ensure the correct holds. It was annoying and ate up time. I went so far as to order the external turret for it, which of course, spun around on me while running with the rifle and nearly cost me a stage:
+
+View attachment 8442234
+
+
+So then I went through all kinds of trouble to source the euro-only flip top turret so that it would be protected:
+View attachment 8442235
+
+While that worked really well, the rifles these go on and the use cases they see, holding is typically a priority over dialing and much faster. You are typically engaging larger sized targets. Ultimately, I had to make a decision to go back to the K16 or go FFP. I ended up putting the K18 on a short-ish range hunting rifle because the glass is so good, I couldn't let it go completely.
+
+
+With that being said, my requirement is an exposed elevation turrets because there are times where you have the time and you want to be precise. The S&B has the best one on the market since it is single turn and you will never get lost in it. Also there are hard "thunks" at each whole mil that you can feel and hear. Helen Keller could go straight to 5 MILs just as fast as you could. That is NOT hyperbole.
+View attachment 8442245
+
+With that being said. No scope is perfect. The S&B reticle while very precise is a bit thin for my aging eyes (but that's my problem) and I do wish the Illumination had the OFF-1-OFF-2-OFF-3...etc layout that the OP likes.
+Click to expand...
+
+K18i is not even in the same discussion as the K18i-2. The K18i shoots like a 1-6 on 1 and an sfp 8 on 8. The K18i-2 shoots better at 1x than a 1-6 and like a 6x on 8.
+
+I haven't had that experience with the turret at all
+ 
+ 
+Reactions:
+jst4kix
+Burdy
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 10, 2013
+1,879
+1,793
+Jun 19, 2024
+#25
+Ikeman83 said:
+K18i is not even in the same discussion as the K18i-2. The K18i shoots like a 1-6 on 1 and an sfp 8 on 8. The K18i-2 shoots better at 1x than a 1-6 and like a 6x on 8.
+
+I haven't had that experience with the turret at all
+If it had a 180 degree FOV it wouldn't change my mind on SFP vs FFP for this use case. YMMV.
+ 
+ 
+Reactions:
+jst4kix
+I
+Ikeman83
+Private
+Minuteman
+Oct 20, 2017
+81
+60
+Jun 19, 2024
+#26
+Burdy said:
+If it had a 180 degree FOV it wouldn't change my mind on SFP vs FFP for this use case. YMMV.
+
+
+That doesn't really make much sense. The reason to want a FFP scope on powers over 6x is typically that you have too much mag to use the reticle for holds. If you have enough FOV, you don't need to back down the power to do fast target transitions.
+
+Reading his use case, he wants to shoot fast close, and shoot for precision at 100 and 300 yds. That's the exact best use case for a 2nd focal plane scope. An 8 MOA dot makes picking up targets at 1x in a big FOV easy, then transitioning to 8x for bench/prone gives you an easy to read reticle.
+ 
+ 
+Reactions:
+Mute and jst4kix
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 19, 2024
+#27
+Well, gents, as I mentioned I would do in a post yesterday, I went back to my LGS today and had the opportunity to try out a few of the optics discussed above. Today, I was able to play with the NX8 1-8 DMx, the NX8 2.5-20 Mil-XT, the ATACR 1-8 DMx, and the Razor 1-10 EBR-9 in both Mil and MOA reticles. I spent a few hours going back and forth, doing side-by-side comparisons, and even was able to mount up (for demonstration purposes, not fully torqued down or anything) the Razor onto my 12.5 in a Vortex 1.54” 34mm cantilever mount. They also had the NX8 mounted to a rifle, so I was able to get a good feel for it as well.
+
+Please take the below observations with a MASSIVE grain of salt, as they are completely subjective based on limited time/experience within a well-lit store at a maximum distance of ~50 yards (according to the range finder they let me also play with to check distance from the counter to the far wall). Again, I’m just some random “guy on the Internet”, and the below shouldn’t be taken as anything other than my personal opinion. Your mileage will certainly vary.
+
+First, the NX8 2.5-20: I didn’t prefer the Mil-XT reticle when compared to the DMx or the EBR-9. While the reticle itself wasn’t my favorite, I did like the fact that the illumination was selectable between green and red as my eye typically picks up green better (almost all of my red dot pistol optics are green), but the 5 brightness levels per color didn’t get the dot bright enough to qualify as “nuclear bright” like the other offerings. I also wasn’t keen on the push-button brightness control, as it required going through the entire range to get back to where you want to be. Everything else with the optic was fine, but would definitely require a secondary red dot for CQB-ish distances, IMO. After spending additional time with it today, this optic would not be my first choice for my use case.
+
+NX8 1-8 DMx: The reticle was the star of the show with this optic. I found the illumination insanely bright inside the well-lit store, and the overall reticle design was just “easy”. However, even after fiddling with the diopter, I felt the image through the scope wasn’t in the same class as the ATACR and the Razor. I have absolutely no scientific basis for this feeling; things just didn’t look as bright/clear/crisp as with the other two. Nothing was bad, per se, just not as good… Again, after today’s experience, I don’t have the NX8 1-8 on the top of my list.
+
+Vortex Razor 1-10: I wasn’t a fan of the MOA tree, so I quickly switched away from it for the MIL reticle. The illumination was excellent, most certainly bright enough on 1x to use as a pseudo-red dot, though not nearly as bright as the illumination found in the NF DMx. I played with the dot intensity settings between the Razor and the ATACR, and the Razor on 11 (I.e., the highest setting) was about the equivalent of the ATACR on 7 (out of 10). The diopter was easy to set to my liking, and the result at 1x was a beautiful, bright image with very little scope body encroaching on the sight picture with both eyes open. I found the reticle design to be very good in my opinion. I’ve seen others stating that the “T lines” at 1x were quite thin, and that the 1x reticle, when not illuminated, was only good for bracketing targets close in. I would tend to agree with this assessment. However, as I will be running the optic with the reticle illumination on “full blast” at 1x while at the range, I don’t see this as a deal breaker. If this were going on a “battle rifle” that I needed to be 100% even if the battery failed, I would probably feel differently. Before arriving today, I was genuinely concerned that the view through the scope at 10x would be too tight based on what I’d read and watched on YouTube. Luckily, with the scope mounted on the rifle and my head in a fairly natural position, I felt the visibility was perfectly fine. Since I’ll be leveraging 10x for bench/prone work as opposed to more dynamic situations, this seems to me to be completely acceptable. Only time will tell if this is actually the case. I should also mention the size of the center dot at 10x. I’ve read that folks feel it’s too large for precision work. The dot, I believe, is .3mils (which as I understand it would equate to approximately 1” (1 MOA) at 100yards). It certainly appears larger than the center dot of the DMx when comparing them side-by-side, and I believe the dot in the DMx is only .1mil in size, IIRC. While this is certainly a differentiator between the two reticles, and a point in favor of the DMx, it’s interesting that Vortex has made the center dot and surrounding ring translucent. I was able to “see through” the dot on various “targets” in the store with the illumination off, which has me wondering if the larger dot of the EBR-9 is actually a detriment at all. I’d love to hear feedback from the group on whether or not the translucent dot has value in actual practice or if it’s more of a gimmick… The magnification ring felt really good, with excellent resistance without being difficult to move. The same can be said for the illumination ring, which has “off” positions between each intensity setting and can be locked if desired. The turrets were as to be expected, and felt fine IMO (.1 mil adjustments as opposed to .2 mil adjustments on the NX8). Overall, I liked the Razor quite a bit, with the exception of the absolutely awful “Stealth Shadow” coloration, lol.
+
+NF ATACR 1-8: I went to the store expressly to experience this optic in comparison to the others, per the recommendations from the group, and it did not disappoint. Basically the ATACR has the same dimensions as the Razor, with the same overall length, and it’s .5 oz lighter. The weight belies the fact that the ATACR “feels” more robust than the Razor, which feels more delicate than the “tank-like” feeling of the ATACR. As mentioned previously, the DMx reticle was the standout feature on the optic. The illumination was simply outstanding at 1x, and I liked the overall reticle design at least as well if not slightly better than the Razor. The illumination knob was good, with nice resistance and “off” positions between the intensity levels, however the “off” positions did not have detents and I wonder if bumping the control knob might inadvertently knock the setting back to “on” and kill the battery if you’re not careful. The scope was easy to get behind and look through, but I did not prefer the way you have to adjust the diopter to get it perfect for your eye. I was afraid this might be the case based on researching the scope, and may be a complete non-issue once it’s set, but I definitely preferred the “fast focus” diopter of the Razor. While I didn’t personally experience any issues with the diopter ring becoming loose as I worked the scope through its magnification range today at the store, I’ve seen a number of people on YouTube putting electrical tape or scope wrap around the diopter ring to keep it in place. This has me mildly concerned with respect to the overall design of the diopter interface and I would love to hear any feedback from those that have the ATACR if it’s actually an issue in practice. I also did not prefer the way the whole housing rotates when adjusting the magnification. As mentioned previously in this thread, it seems to be a good design, as gross movements under stress are easier than fine adjustments, but I’m just not a fan. The ATACR I played with today had the Tenebrex scope caps on it, and I can see the rear cap becoming a nuisance when trying to switch magnification with the scope mounted on the rifle. Again, this may completely be a non-issue and it’s just my ignorance/limited experience with the optic, but I preferred the Razor controls. Regarding the optical qualities of the ATACR, I though it was really good from 1-8x. The scope image seemed to not be as “bright” as the Razor, but the image seemed “flat” to my eye and the contrast seemed just as good if not better. One thing of note, however, was how much more of the scope body you see when at 1x with both eyes open. Whereas the Razor’s bezel is nearly invisible, the ATACR’s bezel is definitely noticeable. Overall, I loved the reticle, loved the illumination, but was less than fond of the controls.
+
+All that being said, I’m currently leaning toward the Razor for this build. However, if I was able to find an ATACR for the same price as the Razor, it may sway me the other direction. I just don’t see the ATACR being *that* much better than the Razor to command the higher asking price.
+
+It certainly isn’t lost on me how many people in this thread and others have said that they’ve “had” the Razor, past tense, as opposed to still having the 1-10, so I’m all ears to hear the negatives of the platform before shelling out the funds to buy one. Thanks for reading this, and please feel free to set me straight on anything I got wrong above.
+ 
+ 
+Reactions:
+Makinchips208
+Makinchips208
+Major Hide Member
+Full Member
+Minuteman
+Sep 20, 2021
+2,348
+3,601
+Idaho
+Jun 19, 2024
+#28
+Burdy said:
+No issues with the diopter ring, and it appears I am in the minority, but I do not mind at all if the whole ocular housing turns...in fact, I almost prefer it. I have a couple of Vudu 1-10's and when I go from using that to something that does not operate in the same way it kind of annoys me. Why? Because I do not need a throw lever which digs into my chest or back, or snags/hangs on equipment, and it is far easier under stress to just grab the whole housing with my entire hand and twist it. There is a bit more thought and dexterity required when it doesn't operate that way, but I I think the difference is much more noticeable after you have spent some real time with a scope where the entire housing turns. The S&B does not turn the entire thing, but there is a huge rubber ring that is very close to the same feel, and works in the same way. I run no throw lever on that either.
+
+The downside is of course, scope caps but there are a number of different ways to resolve that if you wish you keep it covered.
+
+
+
+All that is fine and dandy until you are stressed the freak out, HR at 191, can barely breathe and must make decisions RIGHT NOW.
+If it is a dynamic/fighting rifle and you want SFP for the FOV and wonderful 1X eyebox, I highly suggest sticking to a 6x max magnification where you can operate the scope almost binary...1x or 6x.
+
+I have owned the K16 and K18. I have not owned the K18-2. The K16 was a better fighting optic than the K18. If you need to be at 5x or 6x on the K18 so that you can see/analyze the ENTIRE range fan and make shots at various distances you would need to constantly adjust magnification to ensure the correct holds. It was annoying and ate up time. I went so far as to order the external turret for it, which of course, spun around on me while running with the rifle and nearly cost me a stage:
+
+View attachment 8442234
+
+
+So then I went through all kinds of trouble to source the euro-only flip top turret so that it would be protected:
+View attachment 8442235
+
+While that worked really well, the rifles these go on and the use cases they see, holding is typically a priority over dialing and much faster. You are typically engaging larger sized targets. Ultimately, I had to make a decision to go back to the K16 or go FFP. I ended up putting the K18 on a short-ish range hunting rifle because the glass is so good, I couldn't let it go completely.
+
+
+With that being said, my requirement is an exposed elevation turrets because there are times where you have the time and you want to be precise. The S&B has the best one on the market since it is single turn and you will never get lost in it. Also there are hard "thunks" at each whole mil that you can feel and hear. Helen Keller could go straight to 5 MILs just as fast as you could. That is NOT hyperbole.
+View attachment 8442245
+
+With that being said. No scope is perfect. The S&B reticle while very precise is a bit thin for my aging eyes (but that's my problem) and I do wish the Illumination had the OFF-1-OFF-2-OFF-3...etc layout that the OP likes.
+Click to expand...
+I’m with you. I like the entire ocular turning. Easy with gloves or adverse condition.
+I really like the atacr 1-8.
+
+No issues with the eyepiece coming loose, crank the lock ring down tight.
+
+And I ditch the rear tenebrex cover completely.
+
+Also never had an issue with illumination getting inadvertently turned on, suppose it could happen though.
+ 
+Last edited: Jun 19, 2024
+ 
+Reactions:
+jst4kix
+Burdy
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 10, 2013
+1,879
+1,793
+Jun 20, 2024
+#29
+jst4kix said:
+Well, gents, as I mentioned I would do in a post yesterday, I went back to my LGS today and had the opportunity to try out a few of the optics discussed above. Today, I was able to play with the NX8 1-8 DMx, the NX8 2.5-20 Mil-XT, the ATACR 1-8 DMx, and the Razor 1-10 EBR-9 in both Mil and MOA reticles. I spent a few hours going back and forth, doing side-by-side comparisons, and even was able to mount up (for demonstration purposes, not fully torqued down or anything) the Razor onto my 12.5 in a Vortex 1.54” 34mm cantilever mount. They also had the NX8 mounted to a rifle, so I was able to get a good feel for it as well.
+
+Please take the below observations with a MASSIVE grain of salt, as they are completely subjective based on limited time/experience within a well-lit store at a maximum distance of ~50 yards (according to the range finder they let me also play with to check distance from the counter to the far wall). Again, I’m just some random “guy on the Internet”, and the below shouldn’t be taken as anything other than my personal opinion. Your mileage will certainly vary.
+
+First, the NX8 2.5-20: I didn’t prefer the Mil-XT reticle when compared to the DMx or the EBR-9. While the reticle itself wasn’t my favorite, I did like the fact that the illumination was selectable between green and red as my eye typically picks up green better (almost all of my red dot pistol optics are green), but the 5 brightness levels per color didn’t get the dot bright enough to qualify as “nuclear bright” like the other offerings. I also wasn’t keen on the push-button brightness control, as it required going through the entire range to get back to where you want to be. Everything else with the optic was fine, but would definitely require a secondary red dot for CQB-ish distances, IMO. After spending additional time with it today, this optic would not be my first choice for my use case.
+
+NX8 1-8 DMx: The reticle was the star of the show with this optic. I found the illumination insanely bright inside the well-lit store, and the overall reticle design was just “easy”. However, even after fiddling with the diopter, I felt the image through the scope wasn’t in the same class as the ATACR and the Razor. I have absolutely no scientific basis for this feeling; things just didn’t look as bright/clear/crisp as with the other two. Nothing was bad, per se, just not as good… Again, after today’s experience, I don’t have the NX8 1-8 on the top of my list.
+
+Vortex Razor 1-10: I wasn’t a fan of the MOA tree, so I quickly switched away from it for the MIL reticle. The illumination was excellent, most certainly bright enough on 1x to use as a pseudo-red dot, though not nearly as bright as the illumination found in the NF DMx. I played with the dot intensity settings between the Razor and the ATACR, and the Razor on 11 (I.e., the highest setting) was about the equivalent of the ATACR on 7 (out of 10). The diopter was easy to set to my liking, and the result at 1x was a beautiful, bright image with very little scope body encroaching on the sight picture with both eyes open. I found the reticle design to be very good in my opinion. I’ve seen others stating that the “T lines” at 1x were quite thin, and that the 1x reticle, when not illuminated, was only good for bracketing targets close in. I would tend to agree with this assessment. However, as I will be running the optic with the reticle illumination on “full blast” at 1x while at the range, I don’t see this as a deal breaker. If this were going on a “battle rifle” that I needed to be 100% even if the battery failed, I would probably feel differently. Before arriving today, I was genuinely concerned that the view through the scope at 10x would be too tight based on what I’d read and watched on YouTube. Luckily, with the scope mounted on the rifle and my head in a fairly natural position, I felt the visibility was perfectly fine. Since I’ll be leveraging 10x for bench/prone work as opposed to more dynamic situations, this seems to me to be completely acceptable. Only time will tell if this is actually the case. I should also mention the size of the center dot at 10x. I’ve read that folks feel it’s too large for precision work. The dot, I believe, is .3mils (which as I understand it would equate to approximately 1” (1 MOA) at 100yards). It certainly appears larger than the center dot of the DMx when comparing them side-by-side, and I believe the dot in the DMx is only .1mil in size, IIRC. While this is certainly a differentiator between the two reticles, and a point in favor of the DMx, it’s interesting that Vortex has made the center dot and surrounding ring translucent. I was able to “see through” the dot on various “targets” in the store with the illumination off, which has me wondering if the larger dot of the EBR-9 is actually a detriment at all. I’d love to hear feedback from the group on whether or not the translucent dot has value in actual practice or if it’s more of a gimmick… The magnification ring felt really good, with excellent resistance without being difficult to move. The same can be said for the illumination ring, which has “off” positions between each intensity setting and can be locked if desired. The turrets were as to be expected, and felt fine IMO (.1 mil adjustments as opposed to .2 mil adjustments on the NX8). Overall, I liked the Razor quite a bit, with the exception of the absolutely awful “Stealth Shadow” coloration, lol.
+
+NF ATACR 1-8: I went to the store expressly to experience this optic in comparison to the others, per the recommendations from the group, and it did not disappoint. Basically the ATACR has the same dimensions as the Razor, with the same overall length, and it’s .5 oz lighter. The weight belies the fact that the ATACR “feels” more robust than the Razor, which feels more delicate than the “tank-like” feeling of the ATACR. As mentioned previously, the DMx reticle was the standout feature on the optic. The illumination was simply outstanding at 1x, and I liked the overall reticle design at least as well if not slightly better than the Razor. The illumination knob was good, with nice resistance and “off” positions between the intensity levels, however the “off” positions did not have detents and I wonder if bumping the control knob might inadvertently knock the setting back to “on” and kill the battery if you’re not careful. The scope was easy to get behind and look through, but I did not prefer the way you have to adjust the diopter to get it perfect for your eye. I was afraid this might be the case based on researching the scope, and may be a complete non-issue once it’s set, but I definitely preferred the “fast focus” diopter of the Razor. While I didn’t personally experience any issues with the diopter ring becoming loose as I worked the scope through its magnification range today at the store, I’ve seen a number of people on YouTube putting electrical tape or scope wrap around the diopter ring to keep it in place. This has me mildly concerned with respect to the overall design of the diopter interface and I would love to hear any feedback from those that have the ATACR if it’s actually an issue in practice. I also did not prefer the way the whole housing rotates when adjusting the magnification. As mentioned previously in this thread, it seems to be a good design, as gross movements under stress are easier than fine adjustments, but I’m just not a fan. The ATACR I played with today had the Tenebrex scope caps on it, and I can see the rear cap becoming a nuisance when trying to switch magnification with the scope mounted on the rifle. Again, this may completely be a non-issue and it’s just my ignorance/limited experience with the optic, but I preferred the Razor controls. Regarding the optical qualities of the ATACR, I though it was really good from 1-8x. The scope image seemed to not be as “bright” as the Razor, but the image seemed “flat” to my eye and the contrast seemed just as good if not better. One thing of note, however, was how much more of the scope body you see when at 1x with both eyes open. Whereas the Razor’s bezel is nearly invisible, the ATACR’s bezel is definitely noticeable. Overall, I loved the reticle, loved the illumination, but was less than fond of the controls.
+
+All that being said, I’m currently leaning toward the Razor for this build. However, if I was able to find an ATACR for the same price as the Razor, it may sway me the other direction. I just don’t see the ATACR being *that* much better than the Razor to command the higher asking price.
+
+It certainly isn’t lost on me how many people in this thread and others have said that they’ve “had” the Razor, past tense, as opposed to still having the 1-10, so I’m all ears to hear the negatives of the platform before shelling out the funds to buy one. Thanks for reading this, and please feel free to set me straight on anything I got wrong above.
+Click to expand...
+If your conclusion is you like the Razor, you should probably look at the Vudu 1-10. No, the illumination is not as bright, but I don't even leave a battery in either of mine as the reticle is very usable on 1x without it. I also prefer the Vudu's tree reticle over the Razor, mainly due to the Razors horrible font selection for the numbers.
+ 
+ 
+Reactions:
+mrtoyz and jst4kix
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 20, 2024
+#30
+Burdy said:
+If your conclusion is you like the Razor, you should probably look at the Vudu 1-10. No, the illumination is not as bright, but I don't even leave a battery in either of mine as the reticle is very usable on 1x without it. I also prefer the Vudu's tree reticle over the Razor, mainly due to the Razors horrible font selection for the numbers.
+Thank you, Sir! I’ll do that. I wish I could look through a Vudu here locally, but I haven’t found anywhere that has one in stock, at least not yet. Looks like it’s back to looking at stock images on the Internet and watching YouTube videos! I sincerely appreciate the feedback!
+ 
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 20, 2024
+#31
+Makinchips208 said:
+I’m with you. I like the entire ocular turning. Easy with gloves or adverse condition.
+I really like the atacr 1-8.
+
+No issues with the eyepiece coming loose, crank the lock ring down tight.
+
+And I ditch the rear tenebrex cover completely.
+
+Also never had an issue with illumination getting inadvertently turned on, suppose it could happen though.
+Click to expand...
+Thank you, Sir! I appreciate the insight and I’m happy that none of the items I was concerned about are actual issues in practice!
+ 
+D
+Deepwoods
+Private
+Full Member
+Minuteman
+Mar 14, 2013
+145
+78
+Mid-Atlantic
+Jun 20, 2024
+#32
+For those of you commenting about not liking that the ATACR's ocular piece moves, NF sells an extended lever that makes it a bit easier to rotate the zoom if youre just leveraging the lever. I also prefer just the zoom ring to move, and the longer lever helps.
+
+OP, if "bright reticle" is that important (it often is for me), the NF options and then the Vortex options are best within your budget. I am constantly awed by how bright the NF gets. I know you tried it and didn't love it, but if you can get the NX8 set up properly, and can forgive it being harder/ tighter to use than the others, it check most of the boxes. But yes, the ATACR has all the awesome with an easier user experience.
+
+I had an early NX8 with the MOA reticle and 2 more recent ones with the DMx reticle/ capped turrets. The early one was very fish eye-y, while the newer ones were much better. .
+
+The NF reticle sans light is bigger enough than the Vortex to be a bit easier to pick up.
+
+My experience with the PA PLxC is that it is resoundingly daylight meh. That with the reticle cross lines being a bit thin for my eyes placed it on the unused pile of scope. It is otherwise quite good.
+
+My experience with the K16i is with the SI1 reticle (which I have come to like less than when I got it, and which I think is a less popular option anyway...). It is bright, though not like the NF, and I wish the outer ring didn't light up as I find it distracting (I think bc of its thickness).
+ 
+ 
+Reactions:
+mrtoyz and jst4kix
+F
+flogxal
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2024
+130
+116
+western montana
+Jun 20, 2024
+#33
+Ikeman83 said:
+That doesn't really make much sense. The reason to want a FFP scope on powers over 6x is typically that you have too much mag to use the reticle for holds. If you have enough FOV, you don't need to back down the power to do fast target transitions.
+
+Reading his use case, he wants to shoot fast close, and shoot for precision at 100 and 300 yds. That's the exact best use case for a 2nd focal plane scope. An 8 MOA dot makes picking up targets at 1x in a big FOV easy, then transitioning to 8x for bench/prone gives you an easy to read reticle.
+Click to expand...
+I have not run anything better/more expensive than Delta Stryker 1-6x, but I think that scope fits his needs perfectly. Two different reticle choices, for whichever your brain prefers. Very clean glass. Dot will melt your retinas. My range's 300yds bay has a plates rack at 304yds, I can watch plate smacks on 6x with my weak eyes, in compromised (mid-winter, blowing snow, foggy sky otherwise, late afternoon) very very flat light.
+ 
+ 
+Reactions:
+jst4kix
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 20, 2024
+#34
+Deepwoods said:
+For those of you commenting about not liking that the ATACR's ocular piece moves, NF sells an extended lever that makes it a bit easier to rotate the zoom if youre just leveraging the lever. I also prefer just the zoom ring to move, and the longer lever helps.
+
+OP, if "bright reticle" is that important (it often is for me), the NF options and then the Vortex options are best within your budget. I am constantly awed by how bright the NF gets. I know you tried it and didn't love it, but if you can get the NX8 set up properly, and can forgive it being harder/ tighter to use than the others, it check most of the boxes. But yes, the ATACR has all the awesome with an easier user experience.
+
+I had an early NX8 with the MOA reticle and 2 more recent ones with the DMx reticle/ capped turrets. The early one was very fish eye-y, while the newer ones were much better. .
+
+The NF reticle sans light is bigger enough than the Vortex to be a bit easier to pick up.
+
+My experience with the PA PLxC is that it is resoundingly daylight meh. That with the reticle cross lines being a bit thin for my eyes placed it on the unused pile of scope. It is otherwise quite good.
+
+My experience with the K16i is with the SI1 reticle (which I have come to like less than when I got it, and which I think is a less popular option anyway...). It is bright, though not like the NF, and I wish the outer ring didn't light up as I find it distracting (I think bc of its thickness).
+Click to expand...
+Thanks for the insight! I’m trying to see how close I can get an ATACR to my budget, but I’ll also revisit the NX8 during my next visit to the LGS per your recommendation. I also greatly appreciate the feedback on the brightness of the reticle of the PLxC; it saves me from buying it and having to return it to PA.
+ 
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 20, 2024
+#35
+flogxal said:
+I have not run anything better/more expensive than Delta Stryker 1-6x, but I think that scope fits his needs perfectly. Two different reticle choices, for whichever your brain prefers. Very clean glass. Dot will melt your retinas. My range's 300yds bay has a plates rack at 304yds, I can watch plate smacks on 6x with my weak eyes, in compromised (mid-winter, blowing snow, foggy sky otherwise, late afternoon) very very flat light.
+Thanks for this! I had briefly considered the Delta Stryker 1-10 with the side parallax adjustment, but hadn’t really pursued it. I’ll add the Delta back into the research rotation!
+ 
+F
+flogxal
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2024
+130
+116
+western montana
+Jun 20, 2024
+#36
+No problem. I have a Stryker 3.5-21 that is also impressive, but a bit more than the 1-6 in cost, and more magnification and complexity than you might want for your use. I would not suggest it could be a substitute as 3.5x reticle brightness/pattern are not intended to replace a red dot. You'd have to add a piggyback/offset RDS.
+ 
+ 
+Reactions:
+jst4kix
+F
+flogxal
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2024
+130
+116
+western montana
+Jun 20, 2024
+#37
+Also if you think about the Delta Stryker, I would say talk to Annex Defense when you want to buy one.
+ 
+D
+Deepwoods
+Private
+Full Member
+Minuteman
+Mar 14, 2013
+145
+78
+Mid-Atlantic
+Jun 21, 2024
+#38
+jst4kix said:
+Thanks for the insight! I’m trying to see how close I can get an ATACR to my budget, but I’ll also revisit the NX8 during my next visit to the LGS per your recommendation. I also greatly appreciate the feedback on the brightness of the reticle of the PLxC; it saves me from buying it and having to return it to PA.
+
+
+I will say that if you go from looking through the NX8 to looking through the ATACR (or many others listed), you will "see" some of the limitations many have commented on. A sort of "looker's remorse," maybe.
+
+That said, if you work on the reps, find the right mount (I like 1.7" but have read taller/ longer necked folks like the 1.9") and can get the eye piece focus right, it is a pretty good little scope.
+
+Regarding the brightness... This is my sample of a few. I know others have commented that they find the PA bright, but mine--with fresh batteries--was much more on the "visible" side. I did a side by side comparison at one point a while back and I think the PA at max was somewhere on the 5-6 for the NF. Don't quote me on that but...
+ 
+ 
+Reactions:
+flogxal and jst4kix
+Burdy
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 10, 2013
+1,879
+1,793
+Jun 21, 2024
+#39
+Deepwoods said:
+
+
+I will say that if you go from looking through the NX8 to looking through the ATACR (or many others listed), you will "see" some of the limitations many have commented on. A sort of "looker's remorse," maybe.
+
+That said, if you work on the reps, find the right mount (I like 1.7" but have read taller/ longer necked folks like the 1.9") and can get the eye piece focus right, it is a pretty good little scope.
+
+Regarding the brightness... This is my sample of a few. I know others have commented that they find the PA bright, but mine--with fresh batteries--was much more on the "visible" side. I did a side by side comparison at one point a while back and I think the PA at max was somewhere on the 5-6 for the NF. Don't quote me on that but...
+Click to expand...
+I should note that my poor copies of the NX8 8 1-8 were some of the very first ever. It could be that the one shipping today are much better. We certainly have proof that the NX8 2.5-20s that are shipping today are much better than the originals.
+ 
+ 
+Reactions:
+flogxal, jst4kix and mrtoyz
+D
+Deepwoods
+Private
+Full Member
+Minuteman
+Mar 14, 2013
+145
+78
+Mid-Atlantic
+Jun 21, 2024
+#40
+Burdy said:
+I should note that my poor copies of the NX8 8 1-8 were some of the very first ever. It could be that the one shipping today are much better. We certainly have proof that the NX8 2.5-20s that are shipping today are much better than the originals.
+Id agree with that, with the 3 that I have had. The first was meh (although it could have been that I never quite got the ocular set up right; I did send it in and NF checked it out as within spec), while the 2 capped, DMx versions have been much better...
+
+You say the current 2.5-20 are good... hmmmm. 
+ 
+ 
+Reactions:
+jst4kix
+O
+owtlaw
+Private
+Full Member
+Minuteman
+Feb 27, 2013
+242
+192
+Jun 23, 2024
+#41
+Get the best of both worlds. March Optics 1-10 DFP.
+ 
+D
+Deepwoods
+Private
+Full Member
+Minuteman
+Mar 14, 2013
+145
+78
+Mid-Atlantic
+Jun 23, 2024
+#42
+owtlaw said:
+Get the best of both worlds. March Optics 1-10 DFP.
+I think the budget takes this out of the running, but It is--otherwise--an interesting option. The 34mm tube and heft gives it ATACR feeling in NX8 length.
+
+It is easier to be behind than the NX8, though Ive not spent enough time at various non-1x magnification to compare to the upper zoom ranges for the ATACR or Vortex
+
+It is not as bright as the NF options, though I haven't decided if that is because it is actually less bright, or because the NF is very bright *and* has more reticle illuminated, and so "seems" brighter. (The March has a small, single dot illuminated.)
+
+If *bright* is the goal, I feel like the NF is still better/ brighter.
+
+But the March is pretty good/ bright and has enough non-illuminated reticle to guide your eye. My opinion is its a good mix of thin and thick vs, say, the PLXc which is a but thin.
+ 
+ 
+Reactions:
+jst4kix
+J
+JWG
+Private
+Full Member
+Minuteman
+May 6, 2017
+358
+234
+Jun 24, 2024
+#43
+jst4kix said:
+It seems the ATACR 1-8 is getting a lot of love in the comments so far! On paper, it is longer and heavier than the NX8, has the same eye relief and reticle, but has superior exit pupil numbers.
+
+Please educate me on why this scope is valued, not just monetarily but by the community as well, so much higher than the ones I was considering. Is the glass that much better? Is it easier/faster to get behind? Are there other intangibles that I can’t see from just looking at specs on a computer?
+
+I plan to call my LGS tomorrow morning to see if they have an ATACR in the case. Assuming they do, I’ll compare it side by side with the Razor and the two NX8’s (1-8 and 2.5-20) to see if I can discern the differences. If you would, please chime in with any specific things to make special note of when I do the comparison tomorrow.
+
+Thanks again for the information, and please keep the guidance coming!
+Click to expand...
+I had an atacr and nx8. The atacr has slightly better depth of focus, and a flatter image especially at 1x. The reticles are the same. Light gathering isn't appreciably a big deal different. Clarity of the atacr at 8x is a hair better. Ultimately I sold the atacr and bought another nx8. Money was zero factor in this. I did it because the nx8 is lighter, 90% as good at magnification, and better st 1x because it was closer to 1:1 with both diopters properly adjusted.
+ 
+ 
+Reactions:
+flogxal and jst4kix
+E
+ExtremeMemer
+Private
+Minuteman
+Jun 29, 2023
+26
+31
+Wisconsin
+Jun 24, 2024
+#44
+JWG said:
+I had an atacr and nx8. The atacr has slightly better depth of focus, and a flatter image especially at 1x. The reticles are the same. Light gathering isn't appreciably a big deal different. Clarity of the atacr at 8x is a hair better. Ultimately I sold the atacr and bought another nx8. Money was zero factor in this. I did it because the nx8 is lighter, 90% as good at magnification, and better st 1x because it was closer to 1:1 with both diopters properly adjusted.
+Click to expand...
+How is the eyebox on the NX8 vs the ATACR?
+ 
+ 
+Reactions:
+jst4kix
+J
+JWG
+Private
+Full Member
+Minuteman
+May 6, 2017
+358
+234
+Jun 24, 2024
+#45
+ExtremeMemer said:
+How is the eyebox on the NX8 vs the ATACR?
+Smaller but not enough to matter.
+ 
+ 
+Reactions:
+ExtremeMemer, flogxal and jst4kix
+J
+JWG
+Private
+Full Member
+Minuteman
+May 6, 2017
+358
+234
+Jun 24, 2024
+#46
+
+
+Ultimately, it is the 1x performance and form factor that made me choose the NX8 over the ATACR and its slightly better eyebox and superior (I'd say 10% or so) optical properties otherwise.
+
+
+
+
+The NX8 is pretty much a true 1x in Zone 1-2. The ATACR is very flat, but never achieves unity for me, once diopters are all correctly set. The true unity of the NX8 > The flatness of the ATACR, to my eyes/brain for rapid 1x use with the bright lit reticle being the center focus.
+
+ATACR left, NX8 right.
+ 
+Last edited: Jun 24, 2024
+ 
+Reactions:
+ExtremeMemer and jst4kix
+Fig
+Tenor in the howler choir
+Full Member
+Minuteman
+Mar 15, 2018
+10,306
+26,465
+The Most Dangerous City in the USA
+Jun 24, 2024
+#47
+" Best High-Magnification LPVO for my use case?"​
+
+Am I the only one who cares he asked for a "High-Magnification" LPVO? Y'all are just going to pretend we're offering advice in Oxymoronistan?
+ 
+ 
+Reactions:
+jst4kix
+koshkin
+Dark Lord Of Optics
+Supporter
+Full Member
+Minuteman
+Feb 22, 2006
+4,976
+8,891
+New Mexico
+www.opticsthoughts.com
+Jun 24, 2024
+#48
+If you are staying within 300 yards, FFP is an unnecessary complication. inside of 300, a goos SFP LPVO with a bright fiber dot will do the job without any issues. The new Primary Arms PLxC 1-8x24 with Nova reticle will do the trick.
+If you insist of FFP, I would lean toward the Razor Gen3 1-10x24. ATACR is a good scope, but it throttles down the FOV on 1x which irritates me.
+
+ILya
+ 
+ 
+Reactions:
+TheMammoth, Mute, Bazooka and 4 others
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 24, 2024
+#49
+Fig said:
+" Best High-Magnification LPVO for my use case?"​
+
+Am I the only one who cares he asked for a "High-Magnification" LPVO? Y'all are just going to pretend we're offering advice in Oxymoronistan?
+Click to expand...
+I, of course, meant high for the given range of options, as opposed to a “standard” 1-6. However, you make a valid point - I could’ve worded the title differently. Thanks for the chuckle!
+ 
+J
+jst4kix
+Private
+Minuteman
+Aug 3, 2023
+27
+6
+U.S.A.
+Jun 24, 2024
+#50
+koshkin said:
+If you are staying within 300 yards, FFP is an unnecessary complication. inside of 300, a goos SFP LPVO with a bright fiber dot will do the job without any issues. The new Primary Arms PLxC 1-8x24 with Nova reticle will do the trick.
+If you insist of FFP, I would lean toward the Razor Gen3 1-10x24. ATACR is a good scope, but it throttles down the FOV on 1x which irritates me.
+
+ILya
+Click to expand...
+Thank you, Sir! Your guidance is greatly appreciated!
+ 
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+	
+ED-AR 1-8x: LPVO with parallax
+TheMoondog Sep 1, 2024 Observation & Sighting Devices
+13
+Sep 29, 2024
+	
+Vortex Razor HD GenIII 1-10x24
+TheMoondog Feb 25, 2024 Observation & Sighting Devices
+6
+Feb 27, 2024
+F
+	
+Nx8 1-8 vs Vudu 1-10 ?
+FUNCTIONAL Nov 3, 2024 Observation & Sighting Devices
+18
+Dec 15, 2024
+	
+Athlon Helos BTR 1-4.5x24
+TheMoondog Sep 15, 2024 Observation & Sighting Devices
+0
+Sep 15, 2024
+J
+	
+AR hunting LVPO
+Jmeier1981 Dec 17, 2024 Observation & Sighting Devices
+2
+Dec 17, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/best-high-magnification-lpvo-for-my-use-case.7222277/ 
+ ----- 

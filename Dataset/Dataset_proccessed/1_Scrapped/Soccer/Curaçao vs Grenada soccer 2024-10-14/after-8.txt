@@ -1,0 +1,408 @@
+Match Ticker
+Premier League
+Other Competitions
+Opta Football Stats
+Opta Football Predictions
+Newsletter
+American Football
+More
+NBA
+NCAA
+FOOTBALL
+The Strongest Leagues in the World: What the Opta Power Rankings Say
+OCT 14, 2024
+RYAN BENSON / AUTHOR, ANDREW SKWERES / DESIGN, JONATHAN MANUEL / DATA VIZ
+Twitter
+WhatsApp
+Email
+Share
+
+Do you want to know which men’s leagues are statistically the strongest in the world? Or are you curious about whether Lionel Messi or Cristiano Ronaldo is currently playing at a higher level? The Opta Power Rankings can provide the answers…
+
+This is an updated version of an Opta Power Rankings article we published in March. If you want to look back at how things stood back then, you can find that article here.
+
+With the 2024-25 season in full swing for many of the world’s major men’s football leagues, it’s the perfect opportunity to assess the overall strength of those competitions by revisiting the Opta Power Rankings.
+
+You can find an explainer on the Opta Power Rankings below, but in simple terms, they rank thousands of clubs sides around the world, and from that we can judge the strength of the leagues they’re in.
+
+OPTA POWER RANKINGS EXPLAINED
+FOOTBALL
+Opta Power Rankings: Who Are the Best Football Teams in the World?
+3 MONTHS AGO PETER MCKEEVER
+
+We did a similar analysis on a couple of occasions last season, but it’s time to revisit the key talking points now that 2024-25 has built up a head of steam.
+
+So, without further ado, this is what the Opta Power Rankings tell us about league strength around the globe…
+
+Top Five Leagues
+
+The ‘top five European leagues’ is now very much a part of everyday football parlance, becoming increasingly identifiable as those competitions developed a financial and popularity gulf between themselves and the rest.  
+
+While there have been instances of certain leagues threatening to upset the status quo and gatecrash the top five as defined by UEFA coefficients, in the Opta Power Rankings they’re pretty much as you’d expect for the majority of the time. 
+
+Of course, you could argue the ‘Big Five’ – as this group of leagues is sometimes known – has ceased to be a thing more recently because, really, the English Premier League is the ‘Big One’ that dwarfs the other four competitions with respect to financial might. And on that note, it won’t be a surprise to anyone that England’s top flight continues to lead the way.
+
+The average team rating of the 20 current Premier League clubs on a scale of zero to 100 (where 100 is the best-ranked team in the world and zero is the worst) is 87.9; that means it’s gone up by 0.6 since our last update in March, with Manchester City (100), Arsenal (96.9) and Liverpool (95.9) all in the top five of the global club rankings.
+
+Across the 2023-24 season, La Liga, Serie A and the German Bundesliga were all tussling over second place; Germany’s top flight sat there at the start of the campaign, but it dropped down to fourth by March.
+
+However, the Bundesliga has risen to second once again, with its clubs having an average rating of 86.2. That’s actually the same as Serie A, but the Bundesliga gets the nod by virtue of having more clubs in the top 10 in the team rankings (two – Bayern Munich and Bayer Leverkusen – to Serie A’s one – Inter).
+
+The Bundesliga has also been helped the fact that last season it had the lowest-ranked side of all from the top five leagues in Darmstadt, but they’ve since been relegated.
+
+Jonathan Manuel / Data Analyst
+
+La Liga is now only on a par with France’s Ligue 1; both competitions have an average Opta Power Rating of 85.1. Spain’s top tier won’t have been helped by the largely underwhelming performances of its representatives in European competition last term.
+
+Yes, yes, Real Madrid won the UEFA Champions League again, but otherwise Spanish clubs disappointed. No La Liga teams got beyond the Europa Conference League knockout play-offs, none were in the Europa League quarter-finals, and Carlo Ancelotti’s men were the only ones to get past the Champions League last eight.
+
+Nevertheless, with Los Blancos and Barcelona ranked second and ninth respectively, La Liga has more clubs in the top 10 than Ligue 1, with only Paris Saint-Germain (seventh) that high.
+
+Top 10 Leagues Across the World
+
+As you might expect, European competitions dominate the rankings for the best 10 top-tier leagues in world football according to the Opta Power Rankings.
+
+However, the Brazilian Serie A – or the Campeonato Brasileirão – is the highest-ranked non-European league in the world, slotting in just outside the top five in sixth.
+
+With Brasileirão clubs having an average Opta Power Rating of 80.8, they rank higher than the Portuguese Primeira Liga (80.1), the Dutch Eredivisie (77.3) and the Belgian Pro League (79.2), among many others.
+
+When we last looked at the rankings in March, Brazilian clubs had been at a disadvantage because they would have only been competing in their local state championships. The Brasileirão and Copa Libertadores both began in April, and Brazil has two representatives in the continental competition’s semi-finals: Atlético Mineiro and Botafogo, who also lead the Brasileirão. Botafogo (58th) still trail Palmeiras (52nd) as the highest-ranked Brazilian club in the Opta Power Rankings, though there’s another non-European club even higher – but more on that later.
+
+The second non-European league among the 10 highest-rated top-tier competitions is Major League Soccer (MLS) in ninth. Last season, we analysed remarkable surge of MLS from being ranked 29th to 10th in world football, in the process storming ahead of regional rival Liga MX of Mexico. That was in part the result of their teams’ respective performances in the 2023 Leagues Cup, which is contested by MLS and Liga MX clubs. We suggested Liga MX might bounce back on the basis of Mexican clubs doing well in duels with MLS sides in the CONCACAF Champions Cup, but it appears MLS has consolidated its position as top dog in the region. Liga MX sits 13th with an average club rating of 76.7.
+
+Argentina’s Primera División – or Superliga – is the third non-European league among the 10 highest-ranked top-tiers in world football, rounding things off in 10th. That means they have also leapt ahead of Liga MX, with their clubs boasting an average rating of 77.5.
+
+Jonathan Manuel / Data Analyst
+
+But back to Europe now; Portugal’s Primeira Liga (80.1) and the Pro League (79.2) of Belgium retain places in the top 10, even if the latter has dropped down a couple of spots since we last analysed the data.
+
+Nevertheless, it might still surprise some to see the Pro League so high, especially considering many probably regard the Eredivisie as being of a higher quality historically. But what we have to bear in mind here is the weaker end of both competitions. For instance, 12 current Eredivisie clubs are ranked lower than 300th in the Opta Power Rankings,  whereas only seven clubs from Belgian’s top tier rank lower than 300th.
+
+It’s also worth noting that the Pro League contains only 16 clubs, so naturally they’re likely to be ranked a bit higher than the top 18 Dutch teams purely on average. It’s a similar story for the Danish Superligaen, which ranks a place above the Eredivisie in 11th. Denmark’s top tier has only 12 teams, therefore it’s easier for its average ranking to be greater.
+
+Jonathan Manuel / Data Analyst
+
+This is one of the chief reasons why it’s difficult to compare different leagues fairly, but an alternative approach would be to look at the mean rankings of the teams ranked in the top 10 for each competition.
+
+They may not be huge, but there are differences. Serie A and the Bundesliga swap places, as do the Primeira Liga and Brasileirão, and the Eredivisie shoots ahead of the Danish Superligaen and the Argentine Superliga, putting it just inside the top 10.
+
+But as the eagle-eyed among you will have noticed, we included the caveat of top-tier leagues in this section. Some of you have definitely come here seeking answers about the English Championship; don’t worry, we shan’t disappoint.
+
+If we analyse the Opta Power Rankings of all clubs in each league – and not just top-tier ones – the Championship breaks into the top 10 worldwide.
+
+While still behind MLS in terms of average team ratings, the Championship leaves a host of top-tier competitions in its wake. This is of course partly down to the aforementioned disparity in quality that certain top-tier leagues have, while England’s second tier is renowned for being unpredictable.
+
+The situation is exemplified quite well by comparing the Championship with the Eredivisie, which has a much greater variety in ability, as shown below.
+
+Jonathan Manuel / Data Analyst
+
+The next-highest ranked second tier in the world is the German 2.Bundesliga, which is 17th, followed closely by Italy’s Serie B in 19th.
+
+MLS vs Saudi Pro League – The Latest Messi vs Ronaldo Debate
+
+With Cristiano Ronaldo in the Saudi Pro League and Lionel Messi in MLS with Inter Miami, the past year or so has seen the intrigue around these competitions increase immeasurably.
+
+With that comes the inevitable – tiresome, you might say – back and forth from Ronaldo and Messi superfans about which is playing in the better league or at a higher level.
+
+Tiresome it may be, but in the name of content, we’re going to lean into it and hopefully provide some statistical context to the debate.
+
+Let’s start with the simple headline fact: MLS is ranked as the ninth-best league in world football according to the Opta Power Rankings, whereas the Saudi Pro League is only as high as 33rd. To give you a better idea of what that means, the average Opta Power Rating of top-tier Saudi teams of 73.6 puts it just behind Colombia’s Primera A and on a level footing with the Greek Super League.
+
+Furthermore, MLS is a tighter competition when it comes to team quality according to the Opta Power Rankings. There’s a difference of 638 places in the ranking between the highest- and lowest-ranked MLS teams; for the Saudi Pro League, the difference is a whopping 1,130 places.
+
+Jonathan Manuel / Data Analyst
+
+However, the highest-ranked non-European team in the Opta Power Rankings is a Saudi Arabian side. Al Hilal are 34th, putting them just behind Athletic Club and Manchester United, but 35 spots ahead of the best-ranked MLS team, Columbus Crew.
+
+Interestingly, Ronaldo’s Al Nassr and Messi’s Inter Miami are almost side by side in the rankings, with the former 92nd and the latter 98th.
+
+So, while the very best of the Saudi Pro League’s ceiling would appear to be higher than MLS’s, the Opta Power Rankings would consider the worst teams in MLS to be considerably better than the worst of the Pro League.
+
+Furthermore, the Pro League’s average rating of 73.6 shows it still has a long way to go – though it’s an increase of 1.6 since March, so some progress seems to have been made.
+
+The Opta Power Rankings
+
+Below, you’ll find the Opta Power Rankings. Use the interactive to find club rankings; you can search for specific teams, countries, leagues and confederations to create your own ranking lists for men’s or women’s football.
+
+Enjoy this? Subscribe to our football newsletter to receive exclusive weekly content. You should also follow our social accounts over on X, Instagram, TikTok and Facebook.
+
+RELATED ARTICLES
+CHAMPIONS LEAGUE
+Kylian Mbappé Becomes the Second Youngest to Reach Champions League Landmark
+8 HOURS AGO MATT FURNISS
+PREMIER LEAGUE
+Unshackling Enzo Fernández Has Unleashed His Potential
+8 HOURS AGO ALI TWEEDALE
+PREMIER LEAGUE
+Is Ruben Amorim’s Heavy Rotation Helping or Hurting Man Utd?
+8 HOURS AGO RYAN BENSON
+PREMIER LEAGUE
+Party Time: Brentford Is the Place to Be for Goals This Season
+8 HOURS AGO DAVID SEGAR
+Subscribe
+
+Sign up and be the first to receive exclusive stats, news, and updates from Opta Analyst.
+
+Country*
+Select A Country
+Canada
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Afghanistan
+Åland Islands
+Albania
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia (Plurinational State of)
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+United States Minor Outlying Islands
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (Democratic Republic of the)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran (Islamic Republic of)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia (the former Yugoslav Republic of)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova (Republic of)
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Korea (Democratic People's Republic of)
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Kosovo
+Réunion
+Romania
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Korea (Republic of)
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suricontent
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela (Bolivarian Republic of)
+Viet Nam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I agree to receive emails from Opta Analyst.
+See our Privacy Policy for more details.
+Privacy Policy
+Terms of Use
+Do Not Sell My Information
+Advertising
+Cookie Policy
+© 2024 Opta Analyst. All Rights Reserved.
+ 
+ 
+ ----- 
+ Source link : https://theanalyst.com/2024/10/strongest-leagues-world-football-opta-power-rankings 
+ ----- 

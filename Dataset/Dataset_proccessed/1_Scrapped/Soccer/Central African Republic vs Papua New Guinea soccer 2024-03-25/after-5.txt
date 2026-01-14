@@ -1,0 +1,383 @@
+Match Ticker
+Premier League
+Other Competitions
+Opta Football Stats
+Opta Football Predictions
+Newsletter
+American Football
+More
+NBA
+NCAA
+PREMIER LEAGUE
+From Rock-Solid Arsenal to Manchester United’s Instability: Premier League Centre-Back Partnerships in Review
+MAR 25, 2024
+OLIVER HOPKINS / AUTHOR, MATT SISNEROS / DESIGN, ROBBIE DUNNE / DATA VIZ, JONATHAN MANUEL / DATA VIZ
+Twitter
+WhatsApp
+Email
+Share
+
+With Arsenal’s title charge built on the foundation of Gabriel Magalhães and William Saliba, we investigate the current state of Premier League centre-backs. We analyse the most effective combinations, look at which teams can barely field the same partnership from week to week, and ask whether we’re seeing the death of the back three.
+
+A rock-solid centre-back partnership has been the foundation of many of the Premier League’s greatest ever sides.
+
+From Tony Adams and Martin Keown, Rio Ferdinand and Nemanja Vidic, John Terry and Ricardo Carvalho, to even the undeniable importance of Wes Morgan and Robert Huth; a settled, reliable centre-back partnership is at the heart of any great side.
+
+With Arsenal’s title charge underpinned by a dominant defence led by Gabriel and Saliba, we investigate the current crop of Premier League centre-backs.
+
+We answer questions like: who are the most effective combinations? Which teams can barely field the same partnership from week to week? And are we seeing the death of the back three?
+
+Consistency or Instability?
+
+Much of Arsenal’s failure to sustain their title bid last term was put down to losing Saliba, who picked up a season-ending injury in March 2023.
+
+Saliba’s injury coincided with Arsenal’s subsequent implosion, and the drop in quality between him and his deputy Rob Holding was evident. The Gunners lost just three of the 27 games that Saliba and Gabriel started together, winning 21 of those (78%). That win percentage dropped to just 33% when Holding and Gabriel were partners.
+
+This season, the Gabriel-Saliba axis is once again powering Arsenal’s title tilt. At the heart of that has been consistency: the pair have started 24 Premier League games together this season, which, along with Everton’s James Tarkowski and Jarrad Branthwaite, is the most of any centre-back partnership in 2023-24.  
+
+When Gabriel and Saliba have been on the pitch, Arsenal’s defensive numbers are absurdly good. Mikel Arteta’s side have conceded just 0.76 expected goals per game – the lowest rate of any centre-back partnership in the league – while they’ve kept more clean sheets (9) and conceded the joint-fewest shots per 90 minutes (0.9).
+
+Arsenal and Everton’s consistency is followed by Crystal Palace, who’ve used the Joachim Andersen and Marc Guéhi combination 20 times, Bournemouth (Illia Zabarnyi and Marcos Senesi 19 times) and Tottenham (Cristian Romero and Micky van de Ven 18 times).
+
+Romero and Van de Ven’s number would surely be higher if it weren’t for the bad hamstring injury the Dutchman suffered in November last year.
+
+When fit, Van de Ven has transformed the way Tottenham can defend, with his lightning-quick recovery pace enabling Ange Postecoglou’s side to play a high, smothering defensive line. He is also the perfect foil for the aggressive and combative Romero. Spurs have won 12 out of the 18 games (66.7%) those two have started together, compared to just four of 10 (40%) without one of them starting.
+
+­­At the other end of the consistency spectrum is a trio of Nottingham Forest, Sheffield United and Manchester United (spot the odd one out).
+
+Each of those sides’ most common centre-back partnerships have started together just six times this season.
+
+For United, their most common centre-back duo has been 36-year-old Jonny Evans and the injury-prone Raphaël Varane, which speaks to the inconsistency that has plagued Erik ten Hag’s squad this season.
+
+Jonathan Manuel / Data Analyst
+
+In total, Ten Hag has used 11 different centre-back combinations this season. For a team who have exclusively played with just two central defenders, that is a lot.
+
+Only two sides have used more unique centre-back combinations this season, and both of those teams (Luton 14 and Man City 13) are ones that have deployed three centre-halves often this campaign.
+
+Furthermore, Ten Hag’s starting centre-back partnership has finished the game in just nine of United’s 28 matches this season. At a rate of 32%, that’s the lowest rate in the league.
+
+With inconsistency at the heart of Manchester United’s defence, is it any surprise that they have given up 15 or more shots in well over half of their matches (57%) this campaign?
+
+The Most Successful Centre-Back Partnerships
+
+Gabriel and Saliba have won 17 of the 24 games they’ve started together this season (70.8%), which is almost exactly in line with Arsenal as a team (20 wins from 28 – 71.4%). That makes them one of the most successful centre-back partnerships this season, but not quite the most.
+
+That honour goes to Aston Villa’s Ezri Konsa and Pau Torres, who’ve started eight games together and won seven of them (87.5%). Of other centre-back partnerships to have started five or more games together this season, Liverpool’s Jarell Quansah and Virgil van Dijk (80%) are the only other pair to have won 80% or more of their games.
+
+Spare a thought for Nottingham Forest’s Murillo and Willy Boly, as well as Sheffield United’s Anel Ahmedhodzic, Jack Robinson and John Egan, who’ve started the most games in defence together (six) without winning a single one of them.
+
+Oh, and Murillo’s also started five games with Andrew Omobamidele without winning one either. Tough going.
+
+The Death of the Back Three?
+
+After seeing a gradual rise in the number of teams playing with three centre-halves and wing-backs in recent years, the last two Premier League seasons have seen sides prefer to go with the traditional two-man pairing.   
+
+Jonathan Manuel / Data Analyst
+
+The rise of the three-man centre-half combination slowly reached its peak in the late 2010s, with Antonio Conte famously deploying that system at Chelsea and three-at-the-back devotees Sheffield United winning promotion to the Premier League ahead of the 2019-20.
+
+It peaked in 2021-22 with Graham Potter (Brighton), Nuno Espírito Santo (Wolves) and Thomas Tuchel (Chelsea) all using three centre-halves regularly.
+
+But that trend has now reversed. As the below graphic shows, in 2023-24 arguably over half of the league – all the way from Arsenal down to Brighton – now play almost exclusively with two centre-backs in a back four, while a further three in Chelsea, Crystal Palace (although that will change with Oliver Glasner) and Nottingham Forest (ditto with Nuno) have mainly opted for two centre-backs.
+
+Jonathan Manuel / Data Analyst
+
+Three teams are flexible in their style – Brentford, Wolves and to some extent Sheffield United. Luton are firmly in the three centre-back camp.
+
+Manchester City are a unique case, with Pep Guardiola often deploying as many as four recognised centre-backs across his back line. For the most part he’s used two centre-backs this season (68.0%), but has occasionally used three (32.0%). It’s not in a conventional way though, with Guardiola pushing another one of his defenders forwards into the midfield to create a 3-2 shape in build-up, rather than utilising wing-backs.
+
+The Underlying Numbers
+
+Lastly, we can isolate the playing time of centre-back partnerships and look at how the expected goals against numbers stack up when those players are on the pitch.
+
+As mentioned before, Arsenal’s Gabriel and Saliba lead the way here, conceding an outstandingly-low 0.79 xG against while both are on the pitch. Villa’s duo of Konsa and Torres have also been watertight, giving up just 0.97 xG per 90 minutes, with the former hoping to force his way into Gareth Southgate’s European Championship squad.
+
+Elsewhere, it is perhaps surprising to see Forest’s duo of Murillo and Boly rank so well here – particularly given they’re yet to win a game together as a centre-back partnership – but the pair have been excellent when given the opportunity to play together.
+
+Given their positions in the table, it’s certainly less surprising to see defensive combinations from Sheffield United and Luton make up some of the most defensively porous partnerships. The trio of Ahmedhodzic, Robinson and Egan is the only centre-back partnership to have conceded over 3.0+ xG per 90 minutes.
+
+It remains to be seen whether Arsenal fans will ever utter the names “Gabriel and Saliba” with the same deference as “Keown and Adams”. But one thing’s for sure: if the pair can both stay fit, continue to maintain their excellent levels, and guide Arsenal to a first league title in 20 years, that potential reality comes ever closer.
+
+Enjoy this? Subscribe to our football newsletter to receive exclusive weekly content. You should also follow our social accounts over on X, Instagram, TikTok and Facebook.
+
+RELATED ARTICLES
+STAT, VIZ, QUIZ
+Mohamed Salah at It Again for Liverpool, and Boxing Day Bonanzas
+1 DAY AGO DAVID SEGAR
+PREMIER LEAGUE
+Premier League Match Predictions
+2 DAYS AGO CHRIS MYSON
+PREMIER LEAGUE
+Arsenal vs Ipswich Prediction
+2 DAYS AGO MATT FURNISS
+PREMIER LEAGUE
+Bottom of the Premier League at Christmas: What Does It Mean?
+2 DAYS AGO RYAN BENSON
+Subscribe
+
+Sign up and be the first to receive exclusive stats, news, and updates from Opta Analyst.
+
+Country*
+Select A Country
+Canada
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Afghanistan
+Åland Islands
+Albania
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia (Plurinational State of)
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+United States Minor Outlying Islands
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (Democratic Republic of the)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran (Islamic Republic of)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia (the former Yugoslav Republic of)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova (Republic of)
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Korea (Democratic People's Republic of)
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Kosovo
+Réunion
+Romania
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Korea (Republic of)
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suricontent
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela (Bolivarian Republic of)
+Viet Nam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I agree to receive emails from Opta Analyst.
+See our Privacy Policy for more details.
+Privacy Policy
+Terms of Use
+Do Not Sell My Information
+Advertising
+Cookie Policy
+© 2024 Opta Analyst. All Rights Reserved.
+ 
+ 
+ ----- 
+ Source link : https://theanalyst.com/2024/03/premier-league-centre-back-partnerships-arsenal-manchester-united 
+ ----- 

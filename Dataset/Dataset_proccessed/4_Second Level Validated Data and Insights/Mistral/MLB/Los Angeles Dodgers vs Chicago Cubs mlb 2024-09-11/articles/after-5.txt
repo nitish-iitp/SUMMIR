@@ -1,0 +1,680 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Los Angeles Dodgers Schedule
+Chicago Cubs Schedule
+Chicago Cubs vs Los Angeles Dodgers Box Score: September 11, 2024
+MLB Scores — September 11, 2024
+MIA	1	Final
+PIT	3	
+CLE	6	Final
+CHW	4	
+NYM	6	Final
+TOR	2	
+TEX	4	Final
+ARI	14	
+COL	4	Final
+DET	7	
+TBR	2	Final
+PHI	3	
+ATL	1	Final
+WSN	5	
+KCR	3	Final
+NYY	4	(11)
+BAL	3	Final
+BOS	5	(10)
+LAA	4	Final
+MIN	6	
+CIN	1	Final
+STL	2	
+OAK	5	Final
+HOU	4	
+SDP	2	Final
+SEA	5	
+MIL	2	Final
+SFG	13	
+CHC	8	Final
+LAD	10	
+MLB Scores & Standings on this Day
+Chicago Cubs
+8
+75-71
+Prev Game Next Game
+ 
+Los Angeles Dodgers
+10
+87-59
+Prev Game Next Game
+Wednesday, September 11, 2024
+Start Time: 7:10 p.m. Local
+Attendance: 48,691
+Venue: Dodger Stadium
+Game Duration: 2:56
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Chicago Cubs	2	0	1	0	4	0	0	0	1	8	6	0
+
+	Los Angeles Dodgers	5	0	2	0	0	0	1	2	X	10	12	1
+WP: Alex Vesia (3-4) • LP: Shawn Armstrong (3-3) • SV: Michael Kopech (13)
+Chicago Cubs 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Ian Happ LF	5	1	1	0	0	1	5	.243	.341	.452	.793	19	13	-0.060	0.84	0.029	-0.089	-0.01%	0.16	-0.3	2	0	
+Dansby Swanson SS	3	2	0	0	2	1	5	.234	.306	.377	.683	18	10	0.027	0.86	0.087	-0.060	0.00%	0.16	0.4	0	2	
+Seiya Suzuki DH	3	2	1	1	2	0	5	.274	.352	.481	.832	27	13	-0.018	1.47	0.168	-0.186	-0.00%	0.28	0.5	0	0	HR,CS
+Cody Bellinger RF	3	2	1	3	2	0	5	.266	.330	.431	.761	23	12	0.279	1.49	0.334	-0.055	0.03%	0.28	3.0	2	0	HR
+Isaac Paredes 3B	1	1	1	2	3	0	5	.231	.344	.400	.743	26	12	0.094	1.78	0.198	-0.105	0.01%	0.34	1.3	0	2	SF
+Michael Busch 1B	4	0	1	1	1	1	5	.249	.335	.430	.766	22	14	0.044	1.49	0.152	-0.108	0.01%	0.28	0.7	9	0	2B
+Nico Hoerner 2B	4	0	0	0	0	1	4	.261	.328	.353	.681	17	11	-0.013	1.62	0.088	-0.101	-0.00%	0.31	-0.4	0	3	
+Pete Crow-Armstrong CF	4	0	1	1	0	1	4	.240	.287	.391	.678	14	10	-0.092	1.80	0.000	-0.092	-0.01%	0.34	-0.7	6	0	
+Christian Bethancourt C	3	0	0	0	0	1	3	.213	.250	.393	.643	8	6	-0.077	1.01	0.000	-0.077	-0.01%	0.19	-0.7	5	0	
+   Mike Tauchman PH	1	0	0	0	0	0	1	.245	.348	.358	.706	2	2	-0.038	1.55	0.000	-0.038	-0.00%	0.29	-0.2	0	0	
+   Miguel Amaya C	0	0	0	0	0	0	0	.228	.282	.347	.629										0	0	
+																							
+Jordan Wicks P																					0	0	
+   Ethan Roberts P																					0	0	
+   Keegan Thompson P																					0	0	
+   Tyson Miller P																					0	0	
+   Shawn Armstrong P																					0	0	
+   Trey Wingenter P																					0	0	
+Team Totals	31	8	6	8	10	6	42	.194	.381	.419	.800	176	103	0.146	1.38	1.056	-0.911	0.02%	0.26	3.7	24	7	
+2B: Michael Busch (27, off Bobby Miller).
+HR: Seiya Suzuki (20, off Bobby Miller, 3rd inn, 0 on, 1 out to Deep CF-RF); Cody Bellinger (17, off Bobby Miller, 5th inn, 2 on, 1 out to Deep CF).
+SF: Isaac Paredes (5, off Michael Kopech).
+TB: Cody Bellinger 4; Seiya Suzuki 4; Michael Busch 2; Ian Happ; Isaac Paredes; Pete Crow-Armstrong.
+RBI: Cody Bellinger 3 (66); Isaac Paredes 2 (74); Seiya Suzuki (66); Michael Busch (56); Pete Crow-Armstrong (43).
+2-out RBI: Isaac Paredes; Michael Busch.
+Team LOB: 7.
+With RISP: 4 for 9.
+Baserunning
+CS: Seiya Suzuki (6, 3rd base by Michael Kopech/Will Smith).
+Los Angeles Dodgers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Shohei Ohtani DH	4	1	2	3	1	0	5	.292	.375	.617	.992	14	9	0.160	1.06	0.241	-0.081	0.13%	1.44	2.4	0	0	HR,SB
+Mookie Betts RF	4	0	0	0	1	0	5	.303	.395	.514	.909	16	11	-0.080	0.75	0.006	-0.086	-0.07%	1.02	-0.8	2	1	
+Freddie Freeman 1B	5	0	0	0	0	1	5	.282	.380	.481	.860	20	12	-0.078	0.63	0.000	-0.078	-0.06%	0.87	-1.2	7	2	
+Teoscar Hernández LF	4	2	2	0	1	2	5	.267	.333	.488	.821	29	17	0.010	0.47	0.033	-0.023	0.01%	0.65	0.1	3	0	SB
+   Enrique Hernández LF	0	0	0	0	0	0	0	.216	.272	.346	.618										0	0	
+Tommy Edman CF	5	2	2	4	0	1	5	.300	.321	.500	.821	23	18	0.241	0.84	0.308	-0.068	0.20%	1.15	2.8	2	0	2·HR
+Will Smith C	5	2	2	1	0	1	5	.245	.324	.429	.753	21	14	0.152	0.45	0.171	-0.020	0.12%	0.62	1.0	5	4	HR,2B
+Max Muncy 3B	2	2	1	1	2	0	4	.230	.346	.513	.859	16	6	0.093	1.01	0.143	-0.050	0.08%	1.38	1.3	3	1	HR
+Miguel Rojas SS	3	1	2	0	1	0	4	.290	.332	.406	.739	11	4	0.001	1.41	0.044	-0.044	0.00%	1.91	0.3	2	4	
+Chris Taylor 2B	2	0	0	0	0	0	2	.176	.279	.264	.544	5	5	-0.031	0.86	0.000	-0.031	-0.03%	1.18	-0.5	2	0	
+   Gavin Lux PH-2B	2	0	1	1	0	0	2	.251	.311	.390	.700	3	3	0.180	2.38	0.202	-0.022	0.15%	3.25	0.7	0	0	
+																							
+Bobby Miller P																					0	0	
+   Daniel Hudson P																					0	0	
+   Blake Treinen P																					1	0	
+   Alex Vesia P																					0	0	
+   Evan Phillips P																					0	0	
+   Michael Kopech P																					0	0	
+Team Totals	36	10	12	10	6	5	42	.333	.429	.778	1.206	158	99	0.648	0.88	1.148	-0.503	0.53%	1.20	6.2	27	12	
+2B: Will Smith (24, off Shawn Armstrong).
+HR: Shohei Ohtani (47, off Jordan Wicks, 1st inn, 0 on, 0 outs to Deep CF-RF); Tommy Edman 2 (4, 1 off Jordan Wicks, 1st inn, 1 on, 2 outs to Deep LF, 1 off Trey Wingenter, 8th inn, 1 on, 2 outs to Deep RF); Will Smith (18, off Jordan Wicks, 1st inn, 0 on, 2 outs to Deep LF); Max Muncy (14, off Jordan Wicks, 1st inn, 0 on, 2 outs to Deep RF).
+TB: Tommy Edman 8; Will Smith 6; Shohei Ohtani 5; Max Muncy 4; Miguel Rojas 2; Teoscar Hernández 2; Gavin Lux.
+RBI: Tommy Edman 4 (13); Shohei Ohtani 3 (104); Gavin Lux (47); Max Muncy (39); Will Smith (70).
+2-out RBI: Tommy Edman 4; Shohei Ohtani 2; Max Muncy; Will Smith; Gavin Lux.
+Team LOB: 8.
+With RISP: 3 for 10.
+Fielding
+E: Chris Taylor (2).
+Outfield Assists: Mookie Betts (Michael Busch at home plate).
+Baserunning
+SB: Shohei Ohtani (48, 2nd base off Jordan Wicks/Christian Bethancourt); Teoscar Hernández (11, 2nd base off Trey Wingenter/Miguel Amaya).
+Chicago Cubs 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Jordan Wicks	3	8	7	7	4	2	4	5.27	21	78	44	29	3	12	4	11	4	0	13			-0.535	0.65	-0.06%	0.12	-5.6
+Ethan Roberts	1	0	0	0	0	2	0	2.33	3	21	14	7	3	4	1	0	0	0		0	0	0.014	0.18	0.00%	0.03	0.5
+Keegan Thompson	1	0	0	0	1	0	0	2.42	4	11	6	3	2	1	1	2	0	0		0	0	0.065	1.57	0.01%	0.30	0.5
+Tyson Miller	1	0	0	0	0	1	0	2.45	3	11	8	5	1	2	2	0	0	0		0	0	0.074	0.99	0.01%	0.19	0.5
+Shawn Armstrong, L (3-3)	1	2	1	1	1	0	0	4.71	6	17	12	9	1	2	1	4	2	0		0	0	-0.168	2.01	-0.02%	0.38	-0.5
+Trey Wingenter	1	2	2	2	0	0	1	18.69	5	20	15	10	1	4	2	3	1	0		0	0	-0.097	0.42	-0.01%	0.08	-1.5
+Team Totals	8	12	10	10	6	5	5	11.25	42	158	99	63	11	25	11	20	7	0	13	0	0	-0.647	0.88	-0.07%	0.17	-6.2
+
+Los Angeles Dodgers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Bobby Miller	4.1	5	6	6	4	2	2	8.17	22	90	55	38	5	12	5	11	3	0	27			-0.344	0.86	-0.28%	1.17	-3.9
+Daniel Hudson	0.2	1	1	1	2	1	0	2.57	5	22	13	7	2	4	2	0	0	0		0	0	-0.112	2.31	-0.09%	3.15	-0.7
+Blake Treinen	1	0	0	0	0	1	0	2.27	3	16	11	5	2	4	2	0	0	0		0	0	0.074	0.99	0.06%	1.34	0.5
+Alex Vesia, W (3-4)	1	0	0	0	1	0	0	1.82	4	17	9	5	3	1	0	3	0	0		0	0	0.086	1.55	0.07%	2.11	0.5
+Evan Phillips, H (7)	1	0	0	0	0	1	0	2.96	3	9	7	4	2	1	0	2	0	0		0	0	0.118	1.57	0.10%	2.14	0.5
+Michael Kopech, S (13)	1	0	1	1	3	1	0	3.65	5	22	8	2	1	5	0	1	0	0		0	0	0.031	2.51	0.03%	3.42	-0.5
+Team Totals	9	6	8	8	10	6	2	8.00	42	176	103	61	15	27	9	17	3	0	27	0	0	-0.147	1.38	-0.12%	1.88	-3.7
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Manny Gonzalez, 1B - Rob Drake, 2B - Todd Tichenor, 3B - Cory Blaser, LF - (none), RF - (none).
+Time of Game: 2:56.
+Attendance: 48,691.
+Field Condition: Unknown.
+Start Time Weather: 70° F, Wind 7mph out to Centerfield, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Cubs
+1	Ian Happ	LF
+2	Dansby Swanson	SS
+3	Seiya Suzuki	DH
+4	Cody Bellinger	RF
+5	Isaac Paredes	3B
+6	Michael Busch	1B
+7	Nico Hoerner	2B
+8	Pete Crow-Armstrong	CF
+9	Christian Bethancourt	C
+	Jordan Wicks	P
+Dodgers
+1	Shohei Ohtani	DH
+2	Mookie Betts	RF
+3	Freddie Freeman	1B
+4	Teoscar Hernández	LF
+5	Tommy Edman	CF
+6	Will Smith	C
+7	Max Muncy	3B
+8	Miguel Rojas	SS
+9	Chris Taylor	2B
+	Bobby Miller	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Chicago Cubs vs. Los Angeles Dodgers, September 11 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+LAD
+50%
+CHC
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.47
+5	0.49
+6	0.6
+7	0.7
+8	0.66
+9	0.56
+10	0.58
+11	0.6
+12	0.58
+13	0.38
+14	0.29
+15	0.21
+16	0.2
+17	0.21
+18	0.19
+19	0.18
+20	0.17
+21	0.15
+22	0.17
+23	0.16
+24	0.18
+25	0.17
+26	0.2
+27	0.17
+28	0.25
+29	0.24
+30	0.25
+31	0.23
+32	0.24
+33	0.23
+34	0.2
+35	0.22
+36	0.11
+37	0.1
+38	0.11
+39	0.1
+40	0.09
+41	0.08
+42	0.09
+43	0.09
+44	0.1
+45	0.12
+46	0.17
+47	0.13
+48	0.32
+49	0.36
+50	0.41
+51	0.5
+52	0.49
+53	0.43
+54	0.39
+55	0.43
+56	0.45
+57	0.5
+58	0.47
+59	0.44
+60	0.43
+61	0.46
+62	0.48
+63	0.5
+64	0.46
+65	0.5
+66	0.45
+67	0.41
+68	0.45
+69	0.38
+70	0.43
+71	0.41
+72	0.21
+73	0.25
+74	0.19
+75	0.15
+76	0.13
+77	0.14
+78	0.15
+79	0.14
+80	0.14
+81	0.03
+82	0.03
+83	0.07
+84	0.14
+85	0.26
+86	0.16
+87	0.04
+88	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b1	1-2	2	1--	1,(0-0) 	RR	LAD	Tommy Edman	Jordan Wicks	20%	62%	Home Run (Fly Ball to Deep LF); T. Hernández Scores
+b7	7-7	2	1-3	1,(0-0) 	R	LAD	Gavin Lux	Shawn Armstrong	20%	79%	Single to CF (Line Drive to Deep CF); W. Smith Scores; M. Rojas to 2B
+t5	3-7	1	12-	7,(2-2) 	RRR	CHC	Cody Bellinger	Bobby Miller	-20%	68%	Home Run (Fly Ball to Deep CF); I. Happ Scores; D. Swanson Scores
+t9	8-10	1	12-	2,(0-1) 	O	CHC	Michael Busch	Michael Kopech	12%	96%	S. Suzuki Caught Stealing 3B (C-3B); C. Bellinger to 2B
+t9	7-10	0	12-	5,(3-1) 		CHC	Cody Bellinger	Michael Kopech	-12%	74%	Walk; D. Swanson to 3B; S. Suzuki to 2B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Cubs Batting, Tied 0-0, Dodgers' Bobby Miller facing 1-2-3
+t1	0-0	0	---	3,(1-1) 	O	CHC	Ian Happ	Bobby Miller	2%	52%	Lineout: LF (Deep LF-CF)
+t1	0-0	1	---	3,(0-2) 	O	CHC	Dansby Swanson	Bobby Miller	2%	54%	Groundout: SS-1B
+t1	0-0	2	---	5,(3-1) 		CHC	Seiya Suzuki	Bobby Miller	-1%	53%	Walk
+t1	0-0	2	1--	5,(3-1) 		CHC	Cody Bellinger	Bobby Miller	-2%	51%	Walk; S. Suzuki to 2B
+t1	0-0	2	12-	5,(1-2) 	R	CHC	Isaac Paredes	Bobby Miller	-11%	40%	Single to RF (Line Drive to RF Line); S. Suzuki Scores; C. Bellinger to 3B
+t1	1-0	2	1-3	6,(1-2) 	R	CHC	Michael Busch	Bobby Miller	-10%	30%	Double to RF (Line Drive to Short RF Line); C. Bellinger Scores; I. Paredes to 3B
+t1	2-0	2	-23	5,(2-2) 	O	CHC	Nico Hoerner	Bobby Miller	4%	34%	Flyball: 2B (Deep 2B)
+									2 runs, 2 hits, 0 errors, 2 LOB. Cubs 2, Dodgers 0.
+Bottom of the 1st, Dodgers Batting, Behind 0-2, Cubs' Jordan Wicks facing 1-2-3
+b1	0-2	0	---	4,(1-2) 	R	LAD	Shohei Ohtani	Jordan Wicks	10%	44%	Home Run (Line Drive to Deep CF-RF)
+b1	1-2	0	---	2,(0-1) 	O	LAD	Mookie Betts	Jordan Wicks	-2%	42%	Flyball: CF (Deep CF)
+b1	1-2	1	---	5,(2-2) 	O	LAD	Freddie Freeman	Jordan Wicks	-2%	40%	Strikeout Looking
+b1	1-2	2	---	5,(2-2) 		LAD	Teoscar Hernández	Jordan Wicks	1%	42%	Single to RF (Ground Ball thru 2B-1B)
+b1	1-2	2	1--	1,(0-0) 	RR	LAD	Tommy Edman	Jordan Wicks	20%	62%	Home Run (Fly Ball to Deep LF); T. Hernández Scores
+b1	3-2	2	---	4,(2-1) 	R	LAD	Will Smith	Jordan Wicks	10%	71%	Home Run (Fly Ball to Deep LF)
+b1	4-2	2	---	5,(2-2) 	R	LAD	Max Muncy	Jordan Wicks	8%	79%	Home Run (Fly Ball to Deep RF)
+b1	5-2	2	---	3,(2-0) 		LAD	Miguel Rojas	Jordan Wicks	1%	80%	Single to LF (Line Drive to Deep LF-CF)
+b1	5-2	2	1--	3,(0-2) 	O	LAD	Chris Taylor	Jordan Wicks	-1%	79%	Lineout: LF (Deep LF-CF)
+									5 runs, 6 hits, 0 errors, 1 LOB. Cubs 2, Dodgers 5.
+Top of the 2nd, Cubs Batting, Behind 2-5, Dodgers' Bobby Miller facing 8-9-1
+t2	2-5	0	---	5,(3-1) 	O	CHC	Pete Crow-Armstrong	Bobby Miller	2%	81%	Flyball: LF (Deep LF-CF)
+t2	2-5	1	---	3,(1-1) 	O	CHC	Christian Bethancourt	Bobby Miller	1%	82%	Groundout: SS-1B
+t2	2-5	2	---	2,(0-1) 	O	CHC	Ian Happ	Bobby Miller	1%	83%	Groundout: SS-1B (SS-2B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 2, Dodgers 5.
+Bottom of the 2nd, Dodgers Batting, Ahead 5-2, Cubs' Jordan Wicks facing 1-2-3
+b2	5-2	0	---	6,(3-2) 		LAD	Shohei Ohtani	Jordan Wicks	2%	85%	Walk
+b2	5-2	0	1--	1,(0-0) 	O	LAD	Mookie Betts	Jordan Wicks	-2%	83%	Flyball: RF (Short RF Line)
+b2	5-2	1	1--	2,(0-1) 		LAD	Freddie Freeman	Jordan Wicks	1%	84%	S. Ohtani Steals 2B
+b2	5-2	1	-2-	4,(2-1) 	O	LAD	Freddie Freeman	Jordan Wicks	-2%	82%	Lineout: CF (Deep LF-CF); S. Ohtani to 3B
+b2	5-2	2	--3	6,(3-2) 		LAD	Teoscar Hernández	Jordan Wicks	1%	83%	Walk
+b2	5-2	2	1-3	5,(2-2) 	O	LAD	Tommy Edman	Jordan Wicks	-3%	80%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 2 LOB. Cubs 2, Dodgers 5.
+Top of the 3rd, Cubs Batting, Behind 2-5, Dodgers' Bobby Miller facing 2-3-4
+t3	2-5	0	---	4,(0-2) 	O	CHC	Dansby Swanson	Bobby Miller	2%	83%	Groundout: C-1B
+t3	2-5	1	---	2,(0-1) 	R	CHC	Seiya Suzuki	Bobby Miller	-8%	75%	Home Run (Fly Ball to Deep CF-RF)
+t3	3-5	1	---	3,(1-1) 	O	CHC	Cody Bellinger	Bobby Miller	2%	76%	Popfly: SS (Deep SS-2B)
+t3	3-5	2	---	6,(3-2) 		CHC	Isaac Paredes	Bobby Miller	-1%	75%	Walk
+t3	3-5	2	1--	1,(0-0) 	O	CHC	Michael Busch	Bobby Miller	2%	77%	Flyball: LF (Deep LF Line)
+									1 run, 1 hit, 0 errors, 1 LOB. Cubs 3, Dodgers 5.
+Bottom of the 3rd, Dodgers Batting, Ahead 5-3, Cubs' Jordan Wicks facing 6-7-8
+b3	5-3	0	---	3,(1-1) 	O	LAD	Will Smith	Jordan Wicks	-2%	76%	Flyball: CF (Deep CF)
+b3	5-3	1	---	4,(3-0) 		LAD	Max Muncy	Jordan Wicks	2%	77%	Walk
+b3	5-3	1	1--	1,(0-0) 		LAD	Miguel Rojas	Jordan Wicks	2%	80%	Single to CF (Ground Ball thru SS-2B); M. Muncy to 2B
+b3	5-3	1	12-	2,(0-1) 	O	LAD	Chris Taylor	Jordan Wicks	-2%	78%	Groundout: 2B-1B; M. Muncy to 3B; M. Rojas to 2B
+b3	5-3	2	-23	1,(0-0) 	RR	LAD	Shohei Ohtani	Jordan Wicks	11%	89%	Single to CF (Ground Ball thru SS-2B); M. Muncy Scores; M. Rojas Scores
+b3	7-3	2	1--	8,(3-2) 		LAD	Mookie Betts	Jordan Wicks	1%	90%	Walk; S. Ohtani to 2B
+b3	7-3	2	12-	5,(2-2) 	O	LAD	Freddie Freeman	Jordan Wicks	-1%	89%	Flyball: LF (LF-CF)
+									2 runs, 2 hits, 0 errors, 2 LOB. Cubs 3, Dodgers 7.
+Top of the 4th, Cubs Batting, Behind 3-7, Dodgers' Bobby Miller facing 7-8-9
+t4	3-7	0	---	5,(2-2) 	O	CHC	Nico Hoerner	Bobby Miller	2%	90%	Strikeout Swinging
+t4	3-7	1	---	5,(1-2) 	O	CHC	Pete Crow-Armstrong	Bobby Miller	1%	91%	Strikeout Swinging
+t4	3-7	2	---	1,(0-0) 	O	CHC	Christian Bethancourt	Bobby Miller	1%	92%	Groundout: SS-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 3, Dodgers 7.
+Bottom of the 4th, Dodgers Batting, Ahead 7-3, Cubs' Ethan Roberts facing 4-5-6
+									
+Ethan Roberts replaces Jordan Wicks pitching
+
+b4	7-3	0	---	8,(3-2) 	O	LAD	Teoscar Hernández	Ethan Roberts	-1%	91%	Strikeout Swinging
+b4	7-3	1	---	7,(1-2) 	O	LAD	Tommy Edman	Ethan Roberts	0%	91%	Groundout: SS-1B (Weak SS-2B)
+b4	7-3	2	---	6,(3-2) 	O	LAD	Will Smith	Ethan Roberts	0%	90%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 3, Dodgers 7.
+Top of the 5th, Cubs Batting, Behind 3-7, Dodgers' Bobby Miller facing 1-2-3
+t5	3-7	0	---	4,(1-2) 		CHC	Ian Happ	Bobby Miller	-3%	88%	Single to LF (Fly Ball to Short LF Line)
+t5	3-7	0	1--	4,(3-0) 		CHC	Dansby Swanson	Bobby Miller	-5%	83%	Walk; I. Happ to 2B
+t5	3-7	0	12-	6,(3-2) 	O	CHC	Seiya Suzuki	Bobby Miller	5%	87%	Flyball: 2B (Deep 2B-1B)
+t5	3-7	1	12-	7,(2-2) 	RRR	CHC	Cody Bellinger	Bobby Miller	-20%	68%	Home Run (Fly Ball to Deep CF); I. Happ Scores; D. Swanson Scores
+									
+Daniel Hudson replaces Bobby Miller pitching
+
+t5	6-7	1	---	8,(3-2) 		CHC	Isaac Paredes	Daniel Hudson	-4%	64%	Walk
+t5	6-7	1	1--	6,(3-2) 		CHC	Michael Busch	Daniel Hudson	-5%	59%	Walk; I. Paredes to 2B
+t5	6-7	1	12-	2,(0-1) 		CHC	Nico Hoerner	Daniel Hudson	-9%	50%	Fielder's Choice 2B; I. Paredes to 3B; M. Busch to 2B/Adv on E4; N. Hoerner to 1B
+t5	6-7	1	123	2,(0-1) 	RO	CHC	Pete Crow-Armstrong	Daniel Hudson	1%	51%	Single to RF (Ground Ball); I. Paredes Scores; M. Busch out at Hm/RF-1B-C-3B; N. Hoerner to 2B
+t5	7-7	2	12-	4,(1-2) 	O	CHC	Christian Bethancourt	Daniel Hudson	6%	57%	Strikeout Swinging
+									4 runs, 3 hits, 1 error, 2 LOB. Cubs 7, Dodgers 7.
+Bottom of the 5th, Dodgers Batting, Tied 7-7, Cubs' Keegan Thompson facing 7-8-9
+									
+Keegan Thompson replaces Ethan Roberts pitching
+
+b5	7-7	0	---	6,(3-2) 		LAD	Max Muncy	Keegan Thompson	5%	61%	Walk
+b5	7-7	0	1--	2,(1-0) 	O	LAD	Miguel Rojas	Keegan Thompson	-4%	57%	Flyball: CF (Short CF)
+									
+Gavin Lux pinch hits for Chris Taylor (2B) batting 9th
+
+b5	7-7	1	1--	2,(0-1) 	O	LAD	Gavin Lux	Keegan Thompson	-2%	55%	Groundout: 2B-1B (2B-1B); M. Muncy to 2B
+b5	7-7	2	-2-	1,(0-0) 	O	LAD	Shohei Ohtani	Keegan Thompson	-5%	50%	Flyball: CF (Front of Home)
+									0 runs, 0 hits, 0 errors, 1 LOB. Cubs 7, Dodgers 7.
+Top of the 6th, Cubs Batting, Tied 7-7, Dodgers' Blake Treinen facing 1-2-3
+									
+Blake Treinen replaces Daniel Hudson pitching
+Gavin Lux moves from PH to 2B
+
+t6	7-7	0	---	5,(2-2) 	O	CHC	Ian Happ	Blake Treinen	3%	53%	Groundout: 1B-P
+t6	7-7	1	---	3,(0-2) 	O	CHC	Dansby Swanson	Blake Treinen	2%	56%	Strikeout Swinging
+t6	7-7	2	---	8,(3-2) 	O	CHC	Seiya Suzuki	Blake Treinen	2%	57%	Groundout: 3B-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Dodgers 7.
+Bottom of the 6th, Dodgers Batting, Tied 7-7, Cubs' Tyson Miller facing 2-3-4
+									
+Tyson Miller replaces Keegan Thompson pitching
+
+b6	7-7	0	---	1,(0-0) 	O	LAD	Mookie Betts	Tyson Miller	-3%	54%	Groundout: 3B-1B (SS-3B Hole)
+b6	7-7	1	---	5,(2-2) 	O	LAD	Freddie Freeman	Tyson Miller	-2%	52%	Groundout: 2B-1B
+b6	7-7	2	---	5,(1-2) 	O	LAD	Teoscar Hernández	Tyson Miller	-2%	50%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Dodgers 7.
+Top of the 7th, Cubs Batting, Tied 7-7, Dodgers' Alex Vesia facing 4-5-6
+									
+Alex Vesia replaces Blake Treinen pitching
+
+t7	7-7	0	---	3,(0-2) 	O	CHC	Cody Bellinger	Alex Vesia	4%	54%	Foul Popfly: 3B (3B into Foul Terr.)
+t7	7-7	1	---	4,(3-0) 		CHC	Isaac Paredes	Alex Vesia	-4%	50%	Walk
+t7	7-7	1	1--	5,(2-2) 	O	CHC	Michael Busch	Alex Vesia	5%	55%	Popfly: SS (SS-2B)
+t7	7-7	2	1--	5,(2-2) 	O	CHC	Nico Hoerner	Alex Vesia	4%	59%	Flyball: CF
+									0 runs, 0 hits, 0 errors, 1 LOB. Cubs 7, Dodgers 7.
+Bottom of the 7th, Dodgers Batting, Tied 7-7, Cubs' Shawn Armstrong facing 5-6-7
+									
+Shawn Armstrong replaces Tyson Miller pitching
+
+b7	7-7	0	---	5,(1-2) 	O	LAD	Tommy Edman	Shawn Armstrong	-4%	55%	Popfly: 1B (2B-1B)
+b7	7-7	1	---	3,(0-2) 		LAD	Will Smith	Shawn Armstrong	8%	62%	Double to CF (Line Drive to Deep CF-RF)
+b7	7-7	1	-2-	1,(0-0) 	O	LAD	Max Muncy	Shawn Armstrong	-5%	57%	Groundout: 1B unassisted; W. Smith to 3B
+b7	7-7	2	--3	5,(3-1) 		LAD	Miguel Rojas	Shawn Armstrong	1%	59%	Walk
+b7	7-7	2	1-3	1,(0-0) 	R	LAD	Gavin Lux	Shawn Armstrong	20%	79%	Single to CF (Line Drive to Deep CF); W. Smith Scores; M. Rojas to 2B
+b7	8-7	2	12-	2,(0-1) 	O	LAD	Shohei Ohtani	Shawn Armstrong	-4%	75%	Flyball: RF (Deep RF)
+									1 run, 2 hits, 0 errors, 2 LOB. Cubs 7, Dodgers 8.
+Top of the 8th, Cubs Batting, Behind 7-8, Dodgers' Evan Phillips facing 8-9-1
+									
+Evan Phillips replaces Alex Vesia pitching
+
+t8	7-8	0	---	2,(0-1) 	O	CHC	Pete Crow-Armstrong	Evan Phillips	5%	81%	Flyball: CF (Deep CF)
+									
+Mike Tauchman pinch hits for Christian Bethancourt (C) batting 9th
+
+t8	7-8	1	---	2,(0-1) 	O	CHC	Mike Tauchman	Evan Phillips	4%	85%	Flyball: RF (Deep RF)
+t8	7-8	2	---	5,(2-2) 	O	CHC	Ian Happ	Evan Phillips	3%	87%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Cubs 7, Dodgers 8.
+Bottom of the 8th, Dodgers Batting, Ahead 8-7, Cubs' Trey Wingenter facing 2-3-4
+									
+Trey Wingenter replaces Shawn Armstrong pitching
+Miguel Amaya replaces Mike Tauchman (PH) playing C batting 9th
+
+b8	8-7	0	---	4,(1-2) 	O	LAD	Mookie Betts	Trey Wingenter	-1%	86%	Groundout: 3B-1B
+b8	8-7	1	---	1,(0-0) 	O	LAD	Freddie Freeman	Trey Wingenter	-1%	85%	Groundout: SS-1B (SS-2B)
+b8	8-7	2	---	5,(2-2) 		LAD	Teoscar Hernández	Trey Wingenter	1%	86%	Single to LF (Line Drive)
+b8	8-7	2	1--	3,(1-1) 		LAD	Tommy Edman	Trey Wingenter	1%	86%	T. Hernández Steals 2B
+b8	8-7	2	-2-	5,(1-2) 	RR	LAD	Tommy Edman	Trey Wingenter	11%	97%	Home Run (Fly Ball to Deep RF); T. Hernández Scores
+b8	10-7	2	---	5,(1-2) 	O	LAD	Will Smith	Trey Wingenter	0%	97%	Flyball: CF (Deep CF)
+									2 runs, 2 hits, 0 errors, 0 LOB. Cubs 7, Dodgers 10.
+Top of the 9th, Cubs Batting, Behind 7-10, Dodgers' Michael Kopech facing 2-3-4
+									
+Michael Kopech replaces Evan Phillips pitching
+Enrique Hernández replaces Teoscar Hernández playing LF batting 4th
+
+t9	7-10	0	---	4,(3-0) 		CHC	Dansby Swanson	Michael Kopech	-4%	93%	Walk
+t9	7-10	0	1--	6,(3-2) 		CHC	Seiya Suzuki	Michael Kopech	-8%	86%	Walk; D. Swanson to 2B
+t9	7-10	0	12-	5,(3-1) 		CHC	Cody Bellinger	Michael Kopech	-12%	74%	Walk; D. Swanson to 3B; S. Suzuki to 2B
+t9	7-10	0	123	3,(2-1) 	RO	CHC	Isaac Paredes	Michael Kopech	10%	84%	Flyball: RF/Sacrifice Fly (Deep RF); D. Swanson Scores
+t9	8-10	1	12-	2,(0-1) 	O	CHC	Michael Busch	Michael Kopech	12%	96%	S. Suzuki Caught Stealing 3B (C-3B); C. Bellinger to 2B
+t9	8-10	2	-2-	4,(1-2) 	O	CHC	Michael Busch	Michael Kopech	4%	100%	Strikeout Swinging; M. Busch out at 1B/C-1B
+									1 run, 0 hits, 0 errors, 1 LOB. Cubs 8, Dodgers 10.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Los Angeles Dodgers Schedule Chicago Cubs Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Chicago Cubs vs Los Angeles Dodgers Box Score: September 11, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/LAN/LAN202409110.shtml 
+ ----- 

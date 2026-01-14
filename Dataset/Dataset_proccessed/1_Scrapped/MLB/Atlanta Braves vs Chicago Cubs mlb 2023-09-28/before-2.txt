@@ -1,0 +1,210 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+Manage Preferences
+MENU
+Bryce Harper vs. Pittsburgh Pirates
+Compare players and teams or see head to head results between teams, players, player vs. team, or batter vs. pitcher. • Tutorial Video • Sample Searches • Data Coverage
+THIS QUESTION WAS ANSWERED USING
+POWERED BY
+YOUR ALL ACCESS PASS TO THE
+BASEBALL DATABASE
+GO BEYOND THE BASICS. BECOME A STATHEAD
+Start Your FREE Trial
+ Show Criteria ➦ Share Results
+Bryce Harper vs. Pittsburgh Pirates
+
+Regular Season: 68 GP, 11 HR, 33 RBI, 15 2B, 6 SB
+
+Playoffs: 0 GP
+
+Bryce Harper vs. Pittsburgh Pirates: Batting
+Bryce Harper vs. Pittsburgh Pirates: Current Pitchers 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Rk	Player	T	PA	AB	H	2B	3B	HR	RBI	BB	SO	BA	OBP	SLG	OPS	SH	SF	IBB	HBP	GIDP
+1	Mitch Keller	R	15	12	4	2	0	0	2	2	4	.333	.400	.500	.900	0	1	0	0	0
+2	Johan Oviedo	R	5	5	2	2	0	0	0	0	2	.400	.400	.800	1.200	0	0	0	0	0
+3	David Bednar	R	4	4	2	0	0	1	2	0	2	.500	.500	1.250	1.750	0	0	0	0	0
+4	Joey Wentz	L	4	4	2	0	0	0	1	0	0	.500	.500	.500	1.000	0	0	0	0	0
+5	Colin Holderman	R	3	3	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0
+6	Jared Jones	R	3	3	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	1
+7	Dennis Santana	R	2	2	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0
+8	Caleb Ferguson	L	2	2	1	0	0	0	1	0	0	.500	.500	.500	1.000	0	0	0	0	0
+9	Carmen Mlodzinski	R	2	2	1	0	0	0	1	0	0	.500	.500	.500	1.000	0	0	0	0	0
+10	Bailey Falter	L	2	2	1	0	0	0	0	0	0	.500	.500	.500	1.000	0	0	0	0	0
+11	Kyle Nicolas	R	1	1	0	0	0	0	1	0	0	.000	.000	.000	.000	0	0	0	0	0
+Bryce Harper vs. Pittsburgh Pirates: Totals 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Regular Season
+Rk	Season	Team	GP	PA	AB	R	H	1B	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	TB	GIDP	HBP	SH	SF	IBB
+1	2012	WSN	5	21	18	4	3	1	1	1	0	0	0	0	3	4	.167	.286	.333	.619	6	0	0	0	0	0
+2	2013	WSN	6	24	22	4	7	5	1	0	1	2	0	1	1	4	.318	.375	.500	.875	11	0	1	0	0	0
+3	2014	WSN	3	13	10	1	2	2	0	0	0	2	0	0	2	2	.200	.385	.200	.585	2	0	1	0	0	0
+4	2015	WSN	6	25	23	5	7	3	2	0	2	4	0	0	2	5	.304	.360	.652	1.012	15	0	0	0	0	0
+5	2016	WSN	6	28	25	1	7	5	1	1	0	3	1	0	2	3	.280	.321	.400	.721	10	1	0	0	1	0
+6	2017	WSN	6	26	24	4	4	3	0	0	1	2	1	0	2	8	.167	.231	.292	.522	7	1	0	0	0	0
+7	2018	WSN	7	30	25	5	5	1	1	0	3	7	1	0	5	9	.200	.333	.600	.933	15	0	0	0	0	2
+8	2019	PHI	6	29	26	6	7	4	2	0	1	3	1	0	3	8	.269	.345	.462	.806	12	1	0	0	0	0
+9	2021	PHI	7	30	20	6	7	2	4	0	1	3	0	1	10	6	.350	.567	.700	1.267	14	0	0	0	0	2
+10	2022	PHI	3	12	10	1	3	3	0	0	0	2	0	0	2	1	.300	.417	.300	.717	3	0	0	0	0	2
+11	2023	PHI	6	25	17	3	5	2	2	0	1	3	1	0	7	9	.294	.480	.588	1.068	10	0	0	0	1	0
+12	2024	PHI	7	31	30	2	5	3	1	0	1	2	1	0	1	5	.167	.194	.300	.494	9	2	0	0	0	0
+	Totals		68	294	250	42	62	34	15	2	11	33	6	2	40	64	.248	.354	.456	.810	114	5	2	0	2	6
+Bryce Harper vs. Pittsburgh Pirates: Game Logs 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Regular Season
+Subscribe to Stathead Baseball for full results.
+
+Go inside the Baseball Reference database and access the sports search engine that was made for fans like you. Subscriptions start at just $9/month. Learn More.
+
+Get your first month FREE
+
+Already a paid subscriber? Log in for full results.
+
+Rk	Date	Age	Team		Opp	Result	GS	InnPl	BOP	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	TB	GIDP	HBP	SH	SF	IBB	aLI	WPA	acLI	cWPA	RE24	DFS(DK)	DFS(FD)	Pos
+1	2024-07-21	31-279	PHI	@	PIT	W 6-0	*	9	3	5	5	0	1	0	0	0	1	1	0	0	0	.200	.200	.200	.400	1	0	0	0	0	0	0.70	0.009	0.49	0.00%	-0.14	10.00	12.50	1B
+2	2024-07-20	31-278	PHI	@	PIT	L 1-4	*	9	3	4	4	1	1	0	0	1	1	0	0	0	0	.250	.250	1.000	1.250	4	0	0	0	0	0	0.63	-0.054	0.40	-0.02%	0.49	14.00	18.70	1B
+3	2024-07-19	31-277	PHI	@	PIT	L 7-8	*	9	3	5	5	1	1	0	0	0	0	0	0	0	0	.200	.200	.200	.400	1	0	0	0	0	0	0.81	-0.035	0.44	-0.01%	-0.47	5.00	6.20	1B
+4	2024-04-14	31-181	PHI		PIT	L 2-9	*	9	3	4	4	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	0	1	0	0	0	0	0.70	-0.082	0.72	-0.05%	-1.23	0.00	0.00	1B
+5	2024-04-13	31-180	PHI		PIT	W 4-3	*	9	3	5	4	0	0	0	0	0	0	0	0	1	3	.000	.200	.000	.200	0	0	0	0	0	0	1.69	-0.142	1.69	-0.09%	-1.26	2.00	3.00	1B
+6	2024-04-12	31-179	PHI		PIT	L 2-5	*	9	3	4	4	0	2	1	0	0	0	0	0	0	0	.500	.500	.750	1.250	3	0	0	0	0	0	0.89	-0.004	0.92	0.00%	-0.30	8.00	9.00	1B
+7	2024-04-11	31-178	PHI		PIT	W 5-1	*	9	3	4	4	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	0	1	0	0	0	0	0.84	-0.139	0.81	-0.08%	-1.65	0.00	0.00	1B
+8	2023-09-28	30-347	PHI		PIT	L 2-3	*	4	3	2	1	0	0	0	0	0	0	0	0	1	1	.000	.500	.000	.500	0	0	0	0	0	0	0.87	0.006	0.04	0.00%	0.21	2.00	3.00	1B
+9	2023-09-27	30-346	PHI		PIT	W 7-6	*	9	3	4	4	2	3	2	0	1	1	1	0	0	1	.750	.750	2.000	2.750	8	0	0	0	0	0	0.83	0.330	0.03	0.01%	1.58	31.00	39.90	1B
+10	2023-09-26	30-345	PHI		PIT	W 3-2 (10)	*	10	3	4	1	0	0	0	0	0	1	0	0	2	0	.000	.500	.000	.500	0	0	0	0	1	0	1.22	0.002	0.05	0.00%	0.10	6.00	9.50	1B
+11																																							
+12																																							
+13																																							
+14																																							
+15																																							
+16																																							
+17																																							
+18																																							
+19																																							
+20																																							
+
+Data coverage:
+
+Game data: Game data is only available for the American League, National League, and Federal League. Since 1901 for regular season data, since 1933 for the All-Star Game, and since 1903 for the Postseason.
+
+Season data: Since 1871. Stats relying on play-by-play data are complete back to 1969, nearly complete back to 1950, and mostly complete back to 1912. Postseason data since 1903.
+
+Please see our data coverage page for details.
+
+If you utilize material unique to a Sports Reference site for a tweet, an article, or for research for a broadcast or podcast, please strongly consider citing this site as the source for the material. It would be greatly appreciated and would help us continue to produce this material.
+Stathead Login Create Account
+You are here: Baseball Stathead > Versus Finder | Player and Team Comparison and Head-to-Head Stats > Query Results
+Full Site Menu 
+Return to Top
+Stathead Baseball
+Season and Career Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Game Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Split Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Streak Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Span Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Event Tools: Batting, Pitching
+Other Tools: Versus Finder
+All Tools
+Stathead Basketball
+Season and Career Tools: Player, Team
+Game Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Event Tools: Quarter, Event, Shot
+College Tools: Player Game, Player Season, Team Game, Team Season
+Other Tools: Versus Finder
+All Tools
+Stathead Football
+Season and Career Tools: Player, Team
+Game Tools: Player, Team
+Split Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Event Tools: Play, Drive, Touchdown, Field Goal
+College Tools (NEW): Player Game, Player Season, Team Game, Team Season
+Other Tools: Versus Finder
+All Tools
+Stathead Hockey
+Season and Career Tools: Player, Team, Goal Finder
+Game Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Other Tools: Versus Finder
+All Tools
+Stathead FBref
+Season and Career Tools: Player, Team
+Match Tools: Player, Team
+All Tools
+Stathead is for...
+Sports Fans, Content Creators, Betting & Fantasy, Media & Journalists, Team Professionals
+Billing Policies
+Terms of Service
+We're Social...for Statheads
+           
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Friday, January 10, 11:09PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2025 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith of Baseballprojection.com and author of WAR in Pieces.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2025.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Stathead.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://stathead.com/baseball/vs/bryce-harper-vs-pittsburgh-pirates 
+ ----- 

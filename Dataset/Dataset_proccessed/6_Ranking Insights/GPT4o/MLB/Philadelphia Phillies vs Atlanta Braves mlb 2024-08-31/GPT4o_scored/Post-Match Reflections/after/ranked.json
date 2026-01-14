@@ -1,0 +1,40 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "Atlanta manager Brian Snitker told Harris that his catch was the 'catch of the year' and mentioned they would be watching it for the next 24 hours.",
+            "score": 9
+        },
+        {
+            "sentence": "Philadelphia manager Rob Thomson praised Harris' catch, calling it one of the best catches ever seen in the game.",
+            "score": 9
+        },
+        {
+            "sentence": "Max Fried, the Braves pitcher, expressed awe at Harris' catch, calling it a very special play and probably the best catch he has ever had behind him.",
+            "score": 8
+        },
+        {
+            "sentence": "Atlanta manager Brian Snitker called Michael Harris II's catch 'probably the catch of the year'.",
+            "score": 8
+        },
+        {
+            "sentence": "Zack Wheeler expressed pride in his 100th victory, highlighting the hard work and belief in himself and his teams.",
+            "score": 7
+        },
+        {
+            "sentence": "Phillies manager Rob Thomson praised Wheeler's performance, noting he was 'locked in tonight'.",
+            "score": 6
+        },
+        {
+            "sentence": "Bryce Harper acknowledged the Braves as a strong team and expressed optimism for the remaining games in the series.",
+            "score": 6
+        },
+        {
+            "sentence": "Phillies manager Rob Thomson commented on the mislocation of pitches that led to home runs.",
+            "score": 5
+        },
+        {
+            "sentence": "Orlando Arcia reflected on the boos from the crowd.",
+            "score": 4
+        }
+    ]
+}

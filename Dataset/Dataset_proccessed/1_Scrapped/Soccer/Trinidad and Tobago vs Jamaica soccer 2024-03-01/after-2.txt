@@ -1,0 +1,431 @@
+Consent
+Details
+About
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Allow selection
+Allow all
+SOLUTIONS
+SPORTS
+LEARNING
+SUPPORT
+COMPANY
+NEWSROOM
+CONTACT
+REQUEST A DEMO
+BUY NOW
+EN
+Role*
+Academic / Research
+Athlete / Individual
+Coach
+Content Licensing
+Director / Head of Department
+Executive
+Head Coach
+Medical
+Sport Science
+Strength & Conditioning
+Video / Performance Analysis
+Type of Organisation*
+Professional Team
+Academy/Junior/Youth
+Advertising/Content/Media
+Amateur Team
+High School
+Individual
+League/Association/Conference
+Medical/Research
+Military
+National Team
+Other
+Semi-Professional Team
+Sports Institute
+University/College
+Sport*
+American Football
+Australian Rules Football
+Baseball
+Basketball
+Cricket
+Field Hockey
+Football/Soccer
+Futsal
+GAA
+Gymnastics
+Handball
+Ice Hockey
+Lacrosse
+Military
+Motorsport
+Netball
+Not Applicable
+Paddle Sports
+Polo
+Research
+Rugby League
+Rugby Union
+Skiing
+Softball
+Strength & Conditioning/Performance
+Tennis
+Volleyball
+Water Polo
+Wrestling
+Various/Other
+Hurling
+Country*
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Faroe Islands
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia (FYROM)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+Choose Product*
+Vector Pro
+Vector Core
+Catapult One
+Catapult Pro Video
+Thunder
+RaceWatch For Teams
+RaceWatch Circuit Manager
+Recruiting
+Content Licensing
+Racewatch for Teams
+Racewatch CIrcuit Manager
+
+Yes, I would like to receive marketing communications regarding Catapult solutions, services and events. I know, I can unsubscribe at any time. Details of how we use personal data can be found in our Privacy Policy.
+
+THE EFFECT OF TRACK SURFACE ON RACE STRATEGY
+MARCH 1, 2024
+
+Crafting an effective race strategy in Formula 1 involves analyzing a complex array of variables. While factors like tire wear and fuel consumption are well-known, the track surface itself plays a surprisingly significant role.
+
+The roughness, composition, and even color of a track can affect grip levels, making it a critical consideration for teams as they strive to gain an edge. Let’s explore how track evolution in F1, track temperature, and different types of track surfaces influence race strategies.
+
+UNDERSTANDING DIFFERENT TYPES OF TRACK SURFACES
+
+The surface of most racetracks consists of asphalt, which is a mixture of bitumen binder with an aggregate, such as stones and gravel. Typically, this asphalt is applied on top of layers of crushed rock and stone using the Stone Mastic Asphalt technique.
+
+The type of track surface—including the quality and characteristics of the asphalt—can vary significantly across circuits, impacting tire grip and durability.
+
+Interestingly, the stones within the asphalt can have such an effect on the level of grip, that often new circuits from across the world will import stones from specific quarries in the UK to ensure a high-quality track surface.
+
+MICRO AND MACRO ROUGHNESS
+
+To characterise the texture of different types of track surfaces, engineers analyse the macro and micro roughness. Macro roughness refers to the smoothness of the arrangement of stones, while micro-roughness is the smoothness of the individual stones. 
+
+For example, a surface has a high macro roughness if there are large gaps between the stones and the stones stick out, creating the peaks shown in the green trace in the diagram below. However, if these gaps are filled with material, then the surface has a low macro roughness.
+
+Whereas, if the surface of the stones themselves is rough then the micro roughness is high, but if the stones are polished and smooth, the micro roughness is low.
+
+TRACK ROUGHNESS CHANGES WITH THE CONSTITUENT PARTS OF THE AGGREGATE AND ITS AGE. CREDIT: MICHELIN
+TYRE GRIP
+
+There are two ways a tyre generates grip; indentation and adhesion.
+
+Both mechanisms involve the viscoelasticity of rubber deforming asymmetrically which generates a friction force, also known as grip. Indentation is where the rubber is excited by the track’s roughness and adhesion is where a molecular bond forms between the rubber and the track, as shown in the illustration below. 
+
+A TYRE GENERATES GRIP THROUGH TWO MECHANISMS: INDENTATION AND ADHESION. CREDIT: ROAD FRICTION VIRTUAL SENSING: A REVIEW OF ESTIMATION TECHNIQUES WITH EMPHASIS ON LOW EXCITATION APPROACHES
+
+The roughness of the track significantly affects the amount of friction force generated between the rubber and the track.
+
+If this friction force, or grip, is too low, the tyre will skid over the track’s surface and wear away. This increases the degradation of the tyre which shortens it’s wear life; causing a headache for strategists as they have to redefine stint lengths.
+
+HOW TRACK EVOLUTION IN F1 INFLUENCES RACE STRATEGY
+
+Track evolution in F1 refers to the gradual increase in grip as rubber is deposited on the track by the tires, especially in high-friction areas like braking zones and apexes. This rubber layer improves lap times throughout a session, but it can be affected by factors like rain or wind, which may wash away the rubber, leaving a “green” or “dirty” track with reduced grip.
+
+Temporary tracks, like Berlin’s Formula E circuit, often show rapid track evolution due to frequent rubber buildup, especially on concrete surfaces. F1 teams monitor track evolution closely, adjusting their strategies to account for changes in grip levels during each session.
+
+TEMPORARY TRACKS LIKE BERLIN’S CONCRETE FORMULA E CIRCUIT CAN RUBBER IN SIGNIFICANTLY. CREDIT: ABB
+TRACK TEMPERATURE
+
+The temperature of the track can also play a role in the amount of available grip. Higher track temperatures lead to higher tyre temperatures which can often bring tyres into their working range, increasing grip. However, extremely high track temperatures can induce graining and blistering. On the other hand, low track temperatures make it difficult for the rubber to deform and therefore generate friction. 
+
+This fluctuation in grip is why teams keep a close eye on the weather and track temperature throughout a session. Clear, sunny days will heat up the track quickly, particularly newly laid tracks that are often darker and therefore absorb more heat. Whereas an overcast day can reduce track temperatures by as much as 20 degC (68 degF). 
+
+RESURFACING AND ITS INFLUENCE ON TRACK CONDITIONS
+
+Resurfacing a track can drastically alter the race strategy. New surfaces are often sealed with bitumen, creating a smooth macro and micro texture that initially offers low grip. An example of this was the 2020 Turkish Grand Prix, where the newly resurfaced track had minimal grip, causing tire struggles in both dry and wet conditions.
+
+In other cases, like Texas Motor Speedway in 2021, sections of the track were treated with PJ1 TrackBite to increase grip for NASCAR races. Unfortunately, this surface treatment provided limited grip for IndyCar’s Firestone tires, creating a narrow racing line that completely changed the lap times and pit stop strategies.
+
+HOW F1 TEAMS USE TECHNOLOGY TO MANAGE TRACK CONDITIONS
+
+Unfortunately, there is no direct measure of track condition and so teams have to rely on tools such as RaceWatch to collate all the various data streams into one platform. In this way, strategists can monitor the weather, track temperatures, lap times and more in real-time to understand the state of the track throughout each session as well as across the weekend. Graining front tyres during a practice session on Friday can easily become blistering rear tyres in a race on Sunday. 
+
+To help understand the behaviour of the tyres, strategists define degradation curves for each type of tyre compound. These curves illustrate how warm-up, wear and overheating are expected to change lap times across a stint for each compound.
+
+Track condition, temperature and even just a resurfaced section of track can completely change how they appear, which is why software such as RaceWatch that updates tyre curves in real-time is a vital tool for strategists.
+
+BY REMOVING UNREPRESENTATIVE LAPS, STRATEGISTS CAN MODIFY THE CURVES TO DETERMINE A MORE ACCURATE ESTIMATE OF TYRE DEGRADATION FOR EACH COMPOUND
+USING DEGRADATION CURVES FOR STRATEGY SIMULATIONS
+
+RaceWatch automatically plots a degradation curve for each run of every driver throughout a session. These curves are then averaged to get a more reliable estimate of tyre degradation for each compound, with any unrepresentative runs removed.
+
+Once refined, these degradation curves are used in strategy simulations to predict how the race will unfold for different pit stops strategies and stint lengths. This helps the strategist to define the optimum number of pit stops and which compound to use for which stint to achieve the fastest overall race time.
+
+KEY TAKEAWAYS
+Track Evolution in F1: As rubber builds up on the track, grip increases, impacting lap times and strategy. Rain or wind can wash away this layer, reverting the track to a “green” state with lower grip.
+Track Temperature in F1: Higher temperatures increase tire grip but can lead to overheating and degradation issues. Lower temperatures reduce tire flexibility, making it harder to generate friction.
+Different Types of Track Surfaces: The composition, roughness, and resurfacing techniques of a track surface can significantly influence tire grip and degradation.
+
+Understanding the complex interaction between track evolution, track temperature, and different track surfaces is essential for F1 strategists. These elements directly affect tire wear, grip levels, and race strategy. With the help of advanced data integration tools like RaceWatch, teams can adapt to real-time track conditions, optimizing their strategies to achieve the best possible performance.
+
+HOW TO MANAGE THE EFFECT OF TRACK SURFACE AND OPTIMIZE RACE STRATEGY
+
+To delve deeper into the complexities of race strategy and the pivotal role of technology in motorsports, a webinar titled “How to Optimize Race Strategy and Analysis” provides invaluable insights.
+
+The webinar features Bernadette Collins, the former Head of Race Strategy for Aston Martin’s F1 Team, as she draws on real F1 race examples to unpack the intricacies of RaceWatch technology:
+
+Webinar viewers will gain a comprehensive understanding of how F1 teams leverage technology to capture more than 1,000 data points per second, powering over 2 million predictive simulations throughout practice sessions, qualifying rounds, and race day itself.
+
+Key Takeaways from the Race Strategy and Analysis Webinar:
+
+Insight into the technology that underpins analysis in F1 teams.
+The role of predictive simulations in shaping performance outcomes.
+Potential applications of motorsport analysis technology in football, rugby, and beyond.
+An in-depth look at how sports can harness technology for future advancements.
+
+This session is a must-attend for enthusiasts and professionals eager to understand the technological backbone of race strategy in F1 and its potential crossover into other sports arenas.
+
+Article written by: Gemma Hatton
+
+READY TO GAIN A COMPETITIVE EDGE?
+GET IN TOUCH
+SOLUTIONS
+ATHLETE MONITORING
+RECRUITING
+VIDEO ANALYSIS
+CONTENT LICENSING
+COMPANY
+ABOUT CATAPULT
+CAREERS
+INVESTOR CENTER
+PRIVACY POLICY
+STANDARD TERMS
+COOKIES POLICY
+SECURITY
+NEWSROOM
+RESOURCES
+BLOG
+FAQ
+PRICING
+SUPPORT
+ATHLETE MONITORING
+ATHLETE MANAGEMENT
+VIDEO ANALYSIS
+COMMUNITY
+CONTACT
+CONTACT US
+LOCATIONS
+    
+ 
+ 
+ ----- 
+ Source link : https://www.catapult.com/blog/race-strategy-f1-track-surface 
+ ----- 

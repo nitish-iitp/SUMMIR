@@ -1,0 +1,973 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+Advanced Marksmanship Unit
+ELR - Beyond 1000 Yards
+USSOCOM ELR-SR
+ 
+Thread starter
+ReturnFire  
+Start date
+Jan 5, 2024
+1
+	
+2
+Next
+ReturnFire
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Sep 23, 2019
+316
+125
+Tyndall AFB
+Jan 5, 2024
+#1
+Sounds like SOCOM is looking at a rifle to extend their effective range to 2500 yds. Interesting set of requirements. Makes sense why Barrett just announced the new 416 MRAD.
+
+The ELR-SR shall be a modular, magazine-fed, multi-caliber capable system which will include barrel configurations with required bolts and barrels of each caliber, required magazines of each caliber, stock, receiver, sound suppressor, ballistic computer, operator manual, cleaning kit, tool kit, bipod, and Transportation Safety Administration (TSA) approved locking hard carrying case.
+
+The primary caliber of the system shall be sub-sonic and supersonic capable. If the primary system caliber is not a current DOD-approved munition, system it shall be capable of transitioning to a current .300 Norma Magnum DOD-approved munition with a quick- change kit (T). The quick-change kit shall be able to switch calibers within 5 minutes.
+
+The ELR-SR shall have an overall length of no more than 56 inches, no more than 50 inches, less suppressor and the length of pull set to 14.5 inches.
+
+The ELR-SR shall weigh no more than 22 lbs. with barrel, empty magazine, no more than 18 lbs.
+
+Shall have continuous timed and biased MIL-STD-1913 rails, with numbered slots, at the 12 o’clock position with a minimum length of 24 inches and a 10 (+/- 1) MIL forward-sloping cant from back to front.
+
+Shall provide M-LOK® attachment points at the 3, 6 and 9 o’clock positions with ARCA lock rail with attachment at the 6 o’clock position.
+
+The ELR-SR shall be manual (bolt action gun) in operation.
+
+The ELR-SR, with muzzle device attached, will have a peak free recoil impulse of no more than 25 ft-lbs. The objective is to minimize the effects of recoil on a shooter as much as possible.
+
+The ELR-SR barrel shall be capable of removal and replacement at the operator level Modular changes, including barrel changes, shall be accomplished within 5 minutes and with common tools, in such a way as to meet headspace requirements for each caliber.
+
+The ELR-SR system shall have a single, precision fire, high decibel reduction sound suppressor that will reduce audible signatures for all calibers to no more than 140dB. The sound suppressor should add no more than 8.5 inches in length to the system and should have recoil reducing capabilities. Sound suppressor shall be removable without specialty tools.
+ 
+ 
+Reactions:
+wildcats and Northman623
+Obi-WanKannoli
+Gunny Sergeant
+Full Member
+Minuteman
+Oct 18, 2020
+523
+827
+USA
+Jan 5, 2024
+#2
+Sheesh. That's some spec sheet.
+ 
+ 
+Reactions:
+kthomas, themightytimmah, camocorvette and 1 other person
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Jan 5, 2024
+#3
+It's a "Sources Sought Notice", more to see the feasibility and if any vendors would be interested in pursuing such a project.
+ 
+ 
+Reactions:
+ReturnFire
+DeathBeforeDismount
+Hey, give your balls a tug.
+Supporter
+Full Member
+Minuteman
+Nov 20, 2021
+5,599
+7,745
+IN YOUR HEAD
+Jan 5, 2024
+#4
+The wishlist is going to be hard to balance. I mean it's possible but an elr rifle with max weight of 18lbs sans can/mags, be compatable with 300nm kit, have less than 25lbs FR and still have a gun that is durable, reliable and shootable is going to be hard.
+
+Recoil is a function of cartridge and weight. Once you get into the 338+ barrels you are looking at a 1.3+ tennon and with something like a 33xc will need atleast 5 inches of no taper. In order to keep OAL down you are looking at maybe a 26" barrel which means you need more ass and recoil to push those bullets to 2500 SS. The barrel alone is going to weigh almost 10lbs. And you will be replacing them very often.
+
+This reeks of people writing an RFI who don't actually shoot.
+ 
+ 
+Reactions:
+kthomas, Bulletsmith, waveslayer and 5 others
+N
+Northman623
+Private
+Full Member
+Minuteman
+Sep 29, 2013
+89
+42
+Northern Michigan
+Jan 5, 2024
+#5
+The Barrett M99 is 23lbs empty with 29" barrel.
+ 
+Slides
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 17, 2020
+368
+230
+Hunter Valley Australia
+Jan 6, 2024
+#6
+Going to need to be carbon wrapped barrel, carbon chassis and some kind of magic muzzle brake?
+ 
+ 
+Reactions:
+Northman623
+Obi-WanKannoli
+Gunny Sergeant
+Full Member
+Minuteman
+Oct 18, 2020
+523
+827
+USA
+Jan 6, 2024
+#7
+"high decibel reduction sound suppressor that will reduce audible signatures for all calibers to no more than 140dB. The sound suppressor should add no more than 8.5 inches in length to the system and should have recoil reducing capabilities."
+
+...on a 50, 416, cheytac, etc....this made me laugh.
+ 
+ 
+Reactions:
+Asgard1, Bulletsmith, clcustom1911 and 4 others
+Mr.BR
+Private
+Full Member
+Minuteman
+Oct 5, 2017
+6,243
+11,891
+Jan 6, 2024
+#8
+Voere X3 could likely fit into that set of requirements with minimal mods. As its a Cheytac sized action that converts down to .308win and is close to required weight specs.
+
+Otherwise DT HTI with some mods and bolts for 300NM is most likely to fit the bill.
+
+But you know Desert Tech seems to be out of favor for defense contracts due to whole polygamous mormon sect funding thing ,sect that plead guilty to 1.1billion fraud scheme.
+
+
+ 
+Last edited: Jan 7, 2024
+ 
+Reactions:
+Obi-WanKannoli, LastShot300 and ShootnFool8
+F
+FatBoy
+After 20 years, going anonymous..
+Full Member
+Minuteman
+Jul 29, 2001
+2,558
+2,287
+TN
+Jan 6, 2024
+#9
+Obi-WanKannoli said:
+"high decibel reduction sound suppressor that will reduce audible signatures for all calibers to no more than 140dB. The sound suppressor should add no more than 8.5 inches in length to the system and should have recoil reducing capabilities."
+
+...on a 50, 416, cheytac, etc....this made me laugh.
+
+
+That, combined with a 14.5” LOP and suppressor will add no more than 6”. WTF? Even a reflex can is going to be hard to get this.
+
+Most likely, Sig has developed a Cross that fits this spec and they’re gonna slide in and be the sole submission. Seems their whores are better than Reed Knights whores these days…
+ 
+ 
+Reactions:
+themightytimmah, kthomas, Terry Cross and 3 others
+DeathBeforeDismount
+Hey, give your balls a tug.
+Supporter
+Full Member
+Minuteman
+Nov 20, 2021
+5,599
+7,745
+IN YOUR HEAD
+Jan 6, 2024
+#10
+I think its going to be Barretts to Lose. Makes too much sense since they already run the Mk22.
+
+
+Barrett introduces new MRADELR® Rifle - Barrett Firearms
+Barrett Firearms Manufacturing Inc., the leader in long range, is pleased to announce the commercial release of their newest, award-winning firearm, the MRADELR. The MRADELR is a high quality, military...
+ barrett.net
+
+Bassically change out the caliber and put a shorter/thinner barrel on it. Something like a 33 or 37 XC to keep recoil down. They share the same bolt head with the 300nm, which is going to be a requirement anyway.
+ 
+ 
+Reactions:
+LastShot300
+schmi015
+Rogue
+Full Member
+Minuteman
+Aug 8, 2012
+1,401
+935
+Oregon-West of stumptown
+Jan 6, 2024
+#11
+Northman623 said:
+The Barrett M99 is 23lbs empty with 29" barrel.
+Doesn't meet the specs outlined. The new Barrett MRADELR may fit the bill but likely need to make some mods to meet the specs.
+ 
+TheOE800
+Argumentative
+Full Member
+Minuteman
+Supporter
+Feb 14, 2017
+5,717
+5,610
+USA
+Jan 6, 2024
+#12
+schmi015 said:
+Doesn't meet the specs outlined. The new Barrett MRADELR may fit the bill but likely need to make some mods to meet the specs.
+Too heavy, too long, but closer.
+ 
+Mr.BR
+Private
+Full Member
+Minuteman
+Oct 5, 2017
+6,243
+11,891
+Jan 7, 2024
+#13
+Language in that solicitation sounds like the subsonic and 300NM only kick in if not in a DOD standard cartridge so it's like either a 50bmg or it has to be a multicaliber rifle that works in non military standardised X caliber and 300NM .
+
+If 50bmg , DT HTI is the closest fit but DT has issues with whole funded by , fraudulent Polygamous Mormon Sect
+ 
+Last edited: Jan 7, 2024
+MACHTECH
+Say cheese!
+Full Member
+Minuteman
+Feb 12, 2017
+1,405
+3,119
+Michigan
+Jan 7, 2024
+#14
+ 
+ 
+Reactions:
+Nik H, molonlave, Bulletsmith and 6 others
+ReturnFire
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Sep 23, 2019
+316
+125
+Tyndall AFB
+Jan 14, 2024
+#15
+Maybe I’m way off here but how far fetched would a 37XC be? It’s the same bolt face as the 300NM so it could be as simple as a barrel change. MRAD, AXSR, and other multi-cal submissions from the last solicitation could easily fit the bill.
+ 
+ReturnFire
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Sep 23, 2019
+316
+125
+Tyndall AFB
+Jan 14, 2024
+#16
+Other than the fact that you couldn’t mag feed
+ 
+ 
+Reactions:
+LastShot300
+Mr.BR
+Private
+Full Member
+Minuteman
+Oct 5, 2017
+6,243
+11,891
+Jan 15, 2024
+#17
+ReturnFire said:
+Other than the fact that you couldn’t mag feed
+This has all likely been written around .375 Enabelr given how SOCOM has been behind it all this time
+
+Cutting Edge seems proud of their patent, with some dubious claims, which even claims that it is an advantage: "When the projectile strikes armor plate, the projectile body, starting at the tip of the front end, hits the plate and begins to disintegrate creating heat. The projectile body material completely disintegrates which softens the plate surface slightly and makes it easier for the hardened internal core to penetrate the plate."
+
+Regardless of what is written in the preliminary part of the patent, what is relevant in a patent is only the "claims", and in the case of US 10,048,051 the only patented part is the linear grooves inside the cavity devoted to allow air to exit when inserting the core.
+
+Otherwise, they'd just tried to patent the 8 mm AP bullet a century after it's invention.
+
+This goes contrary to most AP designs where lenght of the penetrator is in direct correlation to penetration performance, lets just say i have some doubt in disintegrating jacket anealing thel armor plate let alone ceramics or composites
+
+ 
+ 
+Reactions:
+Huskydriver
+XP1K
+Private
+Full Member
+Minuteman
+Jul 20, 2017
+1,814
+3,772
+Texas
+Jan 15, 2024
+#18
+MACHTECH said:
+View attachment 8316608
+I probably can't afford this but I want it! What is it? AI of some flavor I'm sure but I'm not familiar with all their models.
+ 
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,189
+4,874
+CONUS
+Jan 15, 2024
+#19
+Audacious requirements + super niche application = probably not going to happen.
+ 
+ 
+Reactions:
+kthomas, Huskydriver, wildcats and 2 others
+ma smith
+Old Salt
+Full Member
+Minuteman
+Sep 29, 2020
+2,936
+2,481
+Jan 15, 2024
+#20
+Can someone explain to me the OAL and barrel length. The weight doesn't seem crazy, just 1lb lighter than the Barret ELR. But that rifle has 36in bbl, and seems to be 12 inches too long. How do you get the OAL down, just cut the barrel fold the stock? Or is there something more to it?
+ 
+TheOE800
+Argumentative
+Full Member
+Minuteman
+Supporter
+Feb 14, 2017
+5,717
+5,610
+USA
+Jan 15, 2024
+#21
+ma smith said:
+Can someone explain to me the OAL and barrel length. The weight doesn't seem crazy, just 1lb lighter than the Barret ELR. But that rifle has 36in bbl, and seems to be 12 inches too long. How do you get the OAL down, just cut the barrel fold the stock? Or is there something more to it?
+Reasonable to assume shortening the barrel is where they lose the weight and most of the length.
+ 
+ 
+Reactions:
+PappyM3
+MOUNTIC
+Mountic Outdoors: Big Game Hunter
+Full Member
+Minuteman
+Commercial Supporter
+ 
+Apr 29, 2017
+5,621
+4,400
+Colorado
+mounticoutdoors.com
+Jan 15, 2024
+#22
+XP1K said:
+I probably can't afford this but I want it! What is it? AI of some flavor I'm sure but I'm not familiar with all their models.
+AXSR in Transit Case.
+ 
+ 
+Reactions:
+Bulletsmith
+GIXXER2000
+ELR Junkie
+Full Member
+Minuteman
+Supporter
+ 
+Aug 5, 2013
+1,860
+1,232
+Bullhead City ,AZ
+Jan 16, 2024
+#23
+AI need to get the 375/408 bolt done for the ELR 50
+ 
+ 
+Reactions:
+wildcats, Squibbler and M8541Reaper
+ReturnFire
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Sep 23, 2019
+316
+125
+Tyndall AFB
+Jan 16, 2024
+#24
+GIXXER2000 said:
+AI need to get the 375/408 bolt done for the ELR 50
+I couldn’t agree with you more. I’ve got a build waiting on that damn thing!
+ 
+B
+babyguppy
+Old Salt
+Full Member
+Minuteman
+Apr 17, 2020
+4,814
+10,420
+Jan 16, 2024
+#25
+accuracy be damned.. 
+I didn't see anything about accuracy requirements. so
+chop the barrel down to 5 inches, reduce the load to minimum standards - so it makes it past the 'suppressor'.
+After you get the contract, you can then talk ballistics, etc..
+ 
+I
+IntoTransonic
+#416Mafia
+Full Member
+Minuteman
+Mar 17, 2017
+121
+138
+Chattanooga, TN
+Jan 16, 2024
+#26
+Effective range of 2500 yards and accuracy needs sometimes don’t fall hand in hand.
+
+2500 yards is nothing to sneeze at, and not as easy as some may imply. I think it’s a tough/challenging request given the shorthand system component list.
+
+As someone with 8 years of 416 experience …. The caliber has evolved significantly, but remains one of the more fickle cartridges in the distance game.
+
+This isn’t like you can lay down and walk in rounds ….. you miss and you may potentially get mortar’d. This is a seriously challenging request by SOCOM. Possibly the most challenging request that I’ve read or seen.
+
+It can be accomplished but there are add on requirements….. I don’t see these as a manufacturing line item produced by the dozens each day. These may lean more towards a custom order including the ammo portion included. Box ammo off a Camdex prolly isn’t going to fulfill the needs.
+
+Cheers
+Chris Schmidt
+Tennessee
+ 
+Last edited: Jan 16, 2024
+ 
+Reactions:
+LastShot300
+Dogtown
+Ke = (mv^2)/2
+Full Member
+Minuteman
+Supporter
+Jun 21, 2007
+7,189
+4,874
+CONUS
+Jan 16, 2024
+#27
+IntoTransonic said:
+This isn’t like you can lay down and walk in rounds ….. you miss and you may potentially get mortar’d. This is a seriously challenging request by SOCOM. Possibly the most challenging request that I’ve read or seen.
+It seems like this idea pops up every decade. "We can infill a split team relatively close to a sensitive target and engage with .50BMG."
+
+In the 90s on the SOTIC side the argument against was mostly difficulty of infil/exfil with lots of gear and "probably more reliable to just hit with CAS." That latter part has become more and more of a reality, especially with precision long range arty/MLRS, and especially now with drones. But back then it was a great excuse to dust off those weirdo .50BMG bolt-actions and shoot really far.
+ 
+ 
+Reactions:
+themightytimmah and Huskydriver
+B
+babyguppy
+Old Salt
+Full Member
+Minuteman
+Apr 17, 2020
+4,814
+10,420
+Jan 16, 2024
+#28
+granted, Most on this board don't have the insight on what's being developed..
+not expecting this to be answered; but
+How far is Darpa on this? (rhetorical, cause if you knew, you couldn't' say  )
+
+I expect, in the near future, most 'projectiles' will be self-propelled with a miniature GPS, of some sort.​
+Not an expert, don't know how much propellent it would take to move a projectile 'self-propelled' 2500 yards.​
+But, it would reduce recoil and sound.​
+I believe, I have read they were developing something for the 30mm and working on 50 cal stuff.​
+Just tossing this out here... Not looking to redirect the post. (think, tom selleck in 'Runaway' )​
+
+
+As to the post.
+Making weight on a rifle, I'm too curious. Making 'weight' requires weight reducers.
+Maybe a rifle made from Titanium or some other strong but light metal; but then as mentioned above, recoil.
+Trade offs. Interesting post, thanks OP
+ 
+Last edited: Jan 16, 2024
+ 
+Reactions:
+clcustom1911
+schmi015
+Rogue
+Full Member
+Minuteman
+Aug 8, 2012
+1,401
+935
+Oregon-West of stumptown
+Jan 16, 2024
+#29
+You could probably get away with an MRAD as a single shot 37xc pushing a 390 Atip at 2900fps, It has enough ass to get out there but does not meet the 5 round mag requirement. But it would be as simple as a barrel swap with the current sniper system.
+
+(m)	(mil)	(mil)	(ft/s)	(ft•lbs)	(s)
+Range	Drop	Windage	Velocity	Energy	Time
+2500	-29.9	3.2	1163.8	1172.7	4.593
+ 
+Mr.BR
+Private
+Full Member
+Minuteman
+Oct 5, 2017
+6,243
+11,891
+Jan 16, 2024
+#30
+schmi015 said:
+You could probably get away with an MRAD as a single shot 37xc pushing a 390 Atip at 2900fps, It has enough ass to get out there but does not meet the 5 round mag requirement. But it would be as simple as a barrel swap with the current sniper system.
+
+Range	Drop	Windage	Velocity	Energy	Time
+(m)	(mil)	(mil)	(ft/s)	(ft•lbs)	(s)
+2500	-29.9	3.2	1163.8	1172.7	4.593
+Click to expand...
+DT could easily bag this , if it weren't for the whole polygamous Mormon sect funding while being found guilty in a billion dollar fraud
+
+HTI is close to weight limits , can change calibers up to 50BMG , and use longer barrels than the rest .
+ 
+secondofangle2
+Online Training Member
+Full Member
+Minuteman
+Supporter
+Jul 3, 2017
+2,840
+3,100
+Jan 16, 2024
+#31
+I have never shied away from criticizing DT (b/c they, like so many, deserve it for legitimate reasons, e.g., quality control), but this whole thread is riddled with inuendo about the Kingston FLDS polygamist clan somehow having something to do with the business operations and/or govt contract eligibility of DT the company
+
+Show me direct evidence that this had something to do with Nick Young and DT, rather than some removed member of his family, and thus "guilt by association"
+ 
+ 
+Reactions:
+kthomas, Surferjoe and msgriff
+schmi015
+Rogue
+Full Member
+Minuteman
+Aug 8, 2012
+1,401
+935
+Oregon-West of stumptown
+Jan 16, 2024
+#32
+secondofangle2 said:
+I have never shied away from criticizing DT (b/c they, like so many, deserve it for legitimate reasons, e.g., quality control), but this whole thread is riddled with inuendo about the Kingston FLDS polygamist clan somehow having something to do with the business operations and/or govt contract eligibility of DT the company
+
+Show me direct evidence that this had something to do with Nick Young and DT, rather than some removed member of his family, and thus "guilt by association"
+Click to expand...
+Someone has mentioned that repetitively in this thread.
+ 
+B
+Bmghunter
+Sergeant of the Hide
+Full Member
+Minuteman
+Oct 29, 2020
+190
+160
+Usa
+Jan 16, 2024
+#33
+Why criticize the military for requesting capabilities beyond what is CURRENTLY possible? Won't this make arms makers innovate and come up with something that satisfies this requirement? Won't that be great for the rest of us where we might also get to benefit from it?
+Serious question.
+ 
+ 
+Reactions:
+Gar., PappyM3 and M8541Reaper
+secondofangle2
+Online Training Member
+Full Member
+Minuteman
+Supporter
+Jul 3, 2017
+2,840
+3,100
+Jan 16, 2024
+#34
+schmi015 said:
+Someone has mentioned that repetitively in this thread.
+Yes.
+
+Where’s the evidence?
+ 
+F
+FatBoy
+After 20 years, going anonymous..
+Full Member
+Minuteman
+Jul 29, 2001
+2,558
+2,287
+TN
+Jan 17, 2024
+#35
+Bmghunter said:
+Why criticize the military for requesting capabilities beyond what is CURRENTLY possible? Won't this make arms makers innovate and come up with something that satisfies this requirement? Won't that be great for the rest of us where we might also get to benefit from it?
+Serious question.
+
+IMO, no. This is such a niche ask I doubt it’ll ever even get tested, almost no chance it gets fielded.
+ 
+B
+babyguppy
+Old Salt
+Full Member
+Minuteman
+Apr 17, 2020
+4,814
+10,420
+Jan 23, 2024
+#36
+China Claims to Have Manufactured High-Speed 'Dream Bullet' That's Able to Change Directions​
+MSN
+
+it'll get smaller and smaller with technology
+ 
+ 
+Reactions:
+wildcats
+JB.IC
+Statistical Jackass of the Hide
+Full Member
+Minuteman
+Jan 25, 2019
+1,184
+1,264
+Jan 23, 2024
+#37
+Dogtown said:
+It seems like this idea pops up every decade. "We can infill a split team relatively close to a sensitive target and engage with .50BMG."
+
+In the 90s on the SOTIC side the argument against was mostly difficulty of infil/exfil with lots of gear and "probably more reliable to just hit with CAS." That latter part has become more and more of a reality, especially with precision long range arty/MLRS, and especially now with drones. But back then it was a great excuse to dust off those weirdo .50BMG bolt-actions and shoot really far.
+Click to expand...
+
+The problem with CAS/ISR today is the EW capabilities and micro drones. We were getting jammed (even with anti-jamming devices) like crazy and after sometime, the drift in navigational data made coordination a nightmare which means targeting equipment are off by miles.
+
+The AFSOC and ARSOC are building up their ground capabilities to go into areas where CAS/ISR are denied. Which now has made a case for precision extreme long range engagements. The domain of warfare has been rapidly changing.
+ 
+ 
+Reactions:
+Defender3, Northman623, Frank Green and 4 others
+Frank Green
+Sergeant
+Full Member
+Minuteman
+Oct 27, 2006
+2,694
+6,523
+wisconsin
+www.bartleinbarrels.com
+Jan 25, 2024
+#38
+Slides said:
+Going to need to be carbon wrapped barrel, carbon chassis and some kind of magic muzzle brake?
+Depending on the actual gun.... it might and it might not need a carbon wrapped barrel.
+
+Don't ask me how I know!
+ 
+ 
+Reactions:
+themightytimmah and Slides
+Frank Green
+Sergeant
+Full Member
+Minuteman
+Oct 27, 2006
+2,694
+6,523
+wisconsin
+www.bartleinbarrels.com
+Jan 25, 2024
+#39
+FatBoy said:
+IMO, no. This is such a niche ask I doubt it’ll ever even get tested, almost no chance it gets fielded.
+It will get tested. Dates have already been set.
+ 
+ 
+Reactions:
+JB.IC
+Frank Green
+Sergeant
+Full Member
+Minuteman
+Oct 27, 2006
+2,694
+6,523
+wisconsin
+www.bartleinbarrels.com
+Jan 25, 2024
+#40
+ma smith said:
+Can someone explain to me the OAL and barrel length. The weight doesn't seem crazy, just 1lb lighter than the Barret ELR. But that rifle has 36in bbl, and seems to be 12 inches too long. How do you get the OAL down, just cut the barrel fold the stock? Or is there something more to it?
+I know the barrel length will be around 30" to 32". Might see some around just under those numbers. Again it's going to depend on the platform each maker submits.
+ 
+ 
+Reactions:
+wildcats and ma smith
+ReturnFire
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Sep 23, 2019
+316
+125
+Tyndall AFB
+Jan 25, 2024
+#41
+Share the knowledge Frank! Send us some pictures too
+ 
+ 
+Reactions:
+Frank Green
+Frank Green
+Sergeant
+Full Member
+Minuteman
+Oct 27, 2006
+2,694
+6,523
+wisconsin
+www.bartleinbarrels.com
+Jan 25, 2024
+#42
+ReturnFire said:
+Share the knowledge Frank! Send us some pictures too
+Can't.... already shipped some of the barrels!
+
+I can't post the prints either... proprietary information.
+ 
+ 
+Reactions:
+wildcats and camocorvette
+ReturnFire
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Sep 23, 2019
+316
+125
+Tyndall AFB
+Jan 25, 2024
+#43
+Calibers?
+ 
+Frank Green
+Sergeant
+Full Member
+Minuteman
+Oct 27, 2006
+2,694
+6,523
+wisconsin
+www.bartleinbarrels.com
+Jan 25, 2024
+#44
+ReturnFire said:
+Calibers?
+Pretty much running the field right now... everything from 30cal up to 416.
+
+I think 30cal, 338, 375 will be the driving ones in my opinion but too early to tell.
+ 
+ 
+Reactions:
+Slides and ReturnFire
+schmi015
+Rogue
+Full Member
+Minuteman
+Aug 8, 2012
+1,401
+935
+Oregon-West of stumptown
+Jan 25, 2024
+#45
+Frank Green said:
+Can't.... already shipped some of the barrels!
+
+I can't post the prints either... proprietary information.
+The contours are proprietary?
+ 
+ForgeValley
+Major Hide Member
+Full Member
+Minuteman
+Supporter
+ 
+Jan 22, 2018
+2,440
+3,845
+WNC
+Jan 25, 2024
+#46
+Going to be hard to push a cheytac sized projectile at any reasonable velocity out of a 22lb weapon system with a max 25lb recoil.
+ 
+ 
+Reactions:
+kthomas and babyguppy
+ma smith
+Old Salt
+Full Member
+Minuteman
+Sep 29, 2020
+2,936
+2,481
+Jan 25, 2024
+#47
+ForgeValley said:
+Going to be hard to push a cheytac sized projectile at any reasonable velocity out of a 22lb weapon system with a max 25lb recoil.
+IIRC with a .375 its feasible to get something like ±42lb of recoil, and in theory maybe you get it -60% to 25lb by using a hybrid brake/can (based on TBAC estimates for the RR series). I have no idea what the .mil spec allows for this kind of setup, tho it requires a can. Regardless, the 416 seems to simply be too much.
+ 
+ 
+Reactions:
+kthomas
+ForgeValley
+Major Hide Member
+Full Member
+Minuteman
+Supporter
+ 
+Jan 22, 2018
+2,440
+3,845
+WNC
+Jan 25, 2024
+#48
+ma smith said:
+IIRC with a .375 it like 42lb of recoil, and in theory maybe you get it to 25lb by 60% reduction from a hybrid brake/can (based on TBAC estimates). I have no idea what the .mil spec for the submission allows you to do this way LOL. Regardless, the 416 seems to simply be too much.
+Yeah, I wasnt accounting for that large of a reduction (60%). If they can get that it will be possible with a 400gr bullet. Just.
+ 
+secondofangle2
+Online Training Member
+Full Member
+Minuteman
+Supporter
+Jul 3, 2017
+2,840
+3,100
+Jan 25, 2024
+#49
+they can't use a can or they'll be over length. An ARMALITE or K&P style brake will reduce recoil upwards of 70%
+ 
+ma smith
+Old Salt
+Full Member
+Minuteman
+Sep 29, 2020
+2,936
+2,481
+Jan 25, 2024
+#50
+secondofangle2 said:
+they can't use a can or they'll be over length....
+IIRC They have to use a can... its part of the submission spec... 
+ 
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+S
+	
+Secret Service Wants New Rifles
+saddlerocker Jul 23, 2024 Bolt Action Rifles
+67
+Jul 25, 2024
+	
+Firearms DT SRSA2 Rifle Chassis w/ Monopod, RH FDE/FDE | DTA-SRS-CH-SR-FF
+CSTactical Nov 25, 2024 Buy - Sell - Trade
+3
+Tuesday at 1:01 PM
+	
+Firearms Barrett MRAD SMR .300 Win Mag Tungsten Grey 26" - Never Fired
+Roach Firearms Dec 12, 2024 Buy - Sell - Trade
+5
+Monday at 4:57 PM
+	
+Suppressors Anyone HUXWRX 762 TI direct thread?
+climbing1 Nov 14, 2024 The Armory
+11
+Nov 14, 2024
+	
+Firearms Cadex Defense CDX-MC KRAKEN Multi-Cal .338LM - Plus .300WM/.308Win/6.5CM - SALE-SALE-SALE
+powerspc Oct 19, 2024 Buy - Sell - Trade
+11
+Dec 17, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+Advanced Marksmanship Unit
+ELR - Beyond 1000 Yards
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/ussocom-elr-sr.7202407/ 
+ ----- 

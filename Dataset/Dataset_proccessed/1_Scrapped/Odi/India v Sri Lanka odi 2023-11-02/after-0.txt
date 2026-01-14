@@ -1,0 +1,361 @@
+IND vs SL
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+33rd Match (D/N), Wankhede, November 02, 2023, ICC Cricket World Cup
+IND
+357/8
+SL
+(19.4/50 ov, T:358) 55
+
+India won by 302 runs
+
+Powered by Smart Stats
+Win Probability
+IND 100%
+SL 0.00%
+IND
+SL
+100%
+50%
+100%
+IND Innings
+SL Innings
+
+Over 20 • SL 55/10
+
+Dilshan Madushanka c Iyer b Jadeja 5 (6b 1x4 0x6 4m) SR: 83.33
+W
+India won by 302 runs
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Mohammed Shami
+, IND
+5/18
+CRICINFO'S MVP
+Dilshan Madushanka
+, SL
+140.94 pts
+Impact List
+India
+Sri Lanka
+Match Flow
+Info
+India  (50 ovs maximum)
+Batting	R	B	4s	6s	SR
+
+Rohit Sharma (c)
+	4	2	1	0	200.00
+
+b Madushanka
+
+
+Shubman Gill 
+	92	92	11	2	100.00
+
+c †Mendis b Madushanka
+
+
+Virat Kohli 
+	88	94	11	0	93.61
+
+c Nissanka b Madushanka
+
+
+Shreyas Iyer 
+	82	56	3	6	146.42
+
+c Theekshana b Madushanka
+
+
+KL Rahul †
+	21	19	2	0	110.52
+
+c Hemantha b Chameera
+
+
+Suryakumar Yadav 
+	12	9	2	0	133.33
+
+c †Mendis b Madushanka
+
+
+Ravindra Jadeja 
+	35	24	1	1	145.83
+
+run out (Samarawickrama/†Mendis)
+
+
+Mohammed Shami 
+	2	4	0	0	50.00
+
+run out (†Mendis)
+
+
+Jasprit Bumrah 
+	1	1	0	0	100.00
+
+not out
+
+Extras	20	(b 5, lb 6, nb 1, w 8)
+Total	357/8	
+50 Ov (RR: 7.14)
+
+
+Did not bat: 
+Kuldeep Yadav, 
+Mohammed Siraj 
+
+
+Fall of wickets: 1-4 (Rohit Sharma, 0.2 ov), 2-193 (Shubman Gill, 29.6 ov), 3-196 (Virat Kohli, 31.3 ov), 4-256 (KL Rahul, 39.2 ov), 5-276 (Suryakumar Yadav, 41.3 ov), 6-333 (Shreyas Iyer, 47.3 ov), 7-355 (Mohammed Shami, 49.3 ov), 8-357 (Ravindra Jadeja, 49.6 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Dilshan Madushanka
+	10	0	80	
+5
+	8.00	6	0
+
+Dushmantha Chameera
+	10	2	71	
+1
+	7.10	0	0
+
+Kasun Rajitha
+	9	0	65	0	7.22	1	0
+
+Angelo Mathews
+	3	0	11	0	3.66	0	0
+
+Maheesh Theekshana
+	10	0	67	0	6.70	1	0
+
+Dushan Hemantha
+	8	0	52	0	6.50	0	1
+Sri Lanka  (T: 358 runs from 50 ovs)
+Batting	R	B	4s	6s	SR
+
+Pathum Nissanka 
+	0	1	0	0	0.00
+
+lbw b Bumrah
+
+
+Dimuth Karunaratne 
+	0	1	0	0	0.00
+
+lbw b Mohammed Siraj
+
+
+Kusal Mendis (c)†
+	1	10	0	0	10.00
+
+b Mohammed Siraj
+
+
+Sadeera Samarawickrama 
+	0	4	0	0	0.00
+
+c Iyer b Mohammed Siraj
+
+
+Charith Asalanka 
+	1	24	0	0	4.16
+
+c Jadeja b Mohammed Shami
+
+
+Angelo Mathews 
+	12	25	1	0	48.00
+
+b Mohammed Shami
+
+
+Dushan Hemantha 
+	0	1	0	0	0.00
+
+c †Rahul b Mohammed Shami
+
+
+Dushmantha Chameera 
+	0	6	0	0	0.00
+
+c †Rahul b Mohammed Shami
+
+
+Maheesh Theekshana 
+	12	23	2	0	52.17
+
+not out
+
+
+Kasun Rajitha 
+	14	17	2	0	82.35
+
+c Shubman Gill b Mohammed Shami
+
+
+Dilshan Madushanka 
+	5	6	1	0	83.33
+
+c Iyer b Jadeja
+
+Extras	10	(b 5, lb 1, w 4)
+Total	55	
+19.4 Ov (RR: 2.79)
+
+
+Fall of wickets: 1-0 (Pathum Nissanka, 0.1 ov), 2-2 (Dimuth Karunaratne, 1.1 ov), 3-2 (Sadeera Samarawickrama, 1.5 ov), 4-3 (Kusal Mendis, 3.1 ov), 5-14 (Charith Asalanka, 9.3 ov), 6-14 (Dushan Hemantha, 9.4 ov), 7-22 (Dushmantha Chameera, 11.3 ov), 8-29 (Angelo Mathews, 13.1 ov), 9-49 (Kasun Rajitha, 17.6 ov), 10-55 (Dilshan Madushanka, 19.4 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Jasprit Bumrah
+	5	1	8	
+1
+	1.60	3	0
+
+Mohammed Siraj
+	7	2	16	
+3
+	2.28	1	0
+
+Mohammed Shami
+	5	1	18	
+5
+	3.60	0	0
+
+Kuldeep Yadav
+	2	0	3	0	1.50	0	0
+
+Ravindra Jadeja
+	0.4	0	4	
+1
+	6.00	0	0
+Unlocking the magic of Statsguru
+Match Flow
+India innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 60 runs, 1 wicket)
+India: 50 runs in 8.1 overs (49 balls), Extras 6
+2nd Wicket: 50 runs in 49 balls (Shubman Gill 19, V Kohli 26, Ex 6)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 204 runs, 3 wickets)
+Drinks: India - 85/1 in 14.0 overs (Shubman Gill 34, V Kohli 39)
+India: 100 runs in 16.0 overs (97 balls), Extras 9
+V Kohli: 50 off 50 balls (8 x 4)
+2nd Wicket: 100 runs in 98 balls (Shubman Gill 40, V Kohli 51, Ex 9)
+Shubman Gill: 50 off 55 balls (8 x 4)
+India: 150 runs in 24.5 overs (150 balls), Extras 9
+2nd Wicket: 150 runs in 150 balls (Shubman Gill 65, V Kohli 77, Ex 9)
+Drinks: India - 193/2 in 30.0 overs (V Kohli 87)
+India: 200 runs in 32.5 overs (198 balls), Extras 11
+4th Wicket: 50 runs in 36 balls (SS Iyer 30, KL Rahul 18, Ex 2)
+India: 250 runs in 38.2 overs (231 balls), Extras 13
+Over 39.5: Review by Sri Lanka (Bowling), Decision Challenged - Wicket, Umpire - PR Reiffel, Batter - SA Yadav (Struck down)
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 93 runs, 4 wickets)
+Over 41.3: Review by Sri Lanka (Bowling), Decision Challenged - Wicket, Umpire - PR Reiffel, Batter - SA Yadav (Upheld)
+SS Iyer: 50 off 36 balls (2 x 4, 4 x 6)
+India: 300 runs in 44.5 overs (270 balls), Extras 18
+6th Wicket: 50 runs in 34 balls (SS Iyer 30, RA Jadeja 14, Ex 6)
+India: 350 runs in 48.4 overs (293 balls), Extras 20
+Innings Break: India - 357/8 in 50.0 overs (JJ Bumrah 1)
+Sri Lanka innings
+Over 0.1: Review by Sri Lanka (Batting), Decision Challenged - Wicket, Umpire - PR Reiffel, Batter - P Nissanka (Struck down - Umpires Call)
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 14 runs, 6 wickets)
+Over 1.1: Review by Sri Lanka (Batting), Decision Challenged - Wicket, Umpire - CM Brown, Batter - FDM Karunaratne (Struck down)
+Over 1.2: Review by Sri Lanka (Batting), Decision Challenged - Wicket, Umpire - CM Brown, Batter - S Samarawickrama (Upheld)
+Over 2.3: Review by India (Bowling), Decision Challenged - Wicket, Umpire - PR Reiffel, Batter - BKG Mendis (Struck down)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 41 runs, 4 wickets)
+Drinks: Sri Lanka - 21/6 in 11.0 overs (AD Mathews 10, PVD Chameera 0)
+Over 11.3: Review by India (Bowling), Decision Challenged - Wicket, Umpire - CM Brown, Batter - PVD Chameera (Upheld)
+Sri Lanka: 50 runs in 18.3 overs (111 balls), Extras 10
+Match Details
+Wankhede Stadium, Mumbai
+
+Toss	Sri Lanka, elected to field first
+Series	
+ICC Cricket World Cup
+
+Season	
+2023/24
+
+Player Of The Match	
+Mohammed Shami
+
+Match number	
+ODI no. 4690
+
+Hours of play (local time)	14.00 start, First Session 14.00-17.30, Interval 17.30-18.00, Second Session 18.00-21.30
+Match days	2 November 2023 - daynight (50-over match)
+Umpires	
+Chris Brown
+DRS
+Paul Reiffel
+DRS
+
+TV Umpire	
+Rod Tucker
+
+Reserve Umpire	
+Richard Illingworth
+
+Match Referee	
+Jeff Crowe
+
+Points	India 2, Sri Lanka 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 874 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/india-vs-sri-lanka-33rd-match-1384424/full-scorecard 
+ ----- 

@@ -1,0 +1,316 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Orioles
+82-63, 40-30 Away
+3
+Final
+Red Sox
+73-71, 34-39 Home
+12
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+BAL
+
+
+BOS
+1	2	3	4	5	6	7	8	9	R	H	E
+1	0	0	1	0	0	1	0	0	3	6	1
+1	0	3	0	0	4	2	2	-	12	15	1
+WIN
+B. Bello
+13-7
+5.1 IP, 3 H, 2 ER, 5 K, 5 BB
+LOSS
+C. Povich
+2-8
+4.2 IP, 5 H, 4 ER, 5 K, 2 BB
+SAVE
+J. Winckowski
+2
+3.0 IP, 2 H, 1 ER, 3 K, 1 BB
+BAL
+Overview
+BOS
+Orioles Hitting
+HITTERS
+
+G. Henderson
+SS
+
+
+C. Mullins
+CF
+
+
+a
+A. Slater
+PH-LF
+
+
+A. Santander
+RF
+
+
+R. O'Hearn
+1B
+
+
+A. Rutschman
+C
+
+
+E. Jimenez
+DH
+
+
+C. Cowser
+LF-CF
+
+
+C. Mayo
+3B
+
+
+L. Soto
+2B
+
+
+b
+E. Rivera
+PH
+
+
+J. Holliday
+2B
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	1	1	0	0	1	.282
+2	0	0	0	0	0	.233
+2	0	0	0	0	0	.260
+4	1	2	3	1	1	.241
+4	0	0	0	0	1	.260
+5	0	2	0	0	0	.255
+4	0	0	0	0	0	.253
+2	1	0	0	0	2	.241
+4	0	0	0	0	0	.069
+1	0	0	0	0	1	.000
+1	0	1	0	0	0	.292
+1	0	0	0	0	0	.175
+34	3	6	3	1	6	
+a-grounded to second for Mullins in the 6th
+b-doubled to center for L. Soto in the 6th
+BATTING
+2BRivera (7, Bernardino); Rutschman (18, Winckowski); Henderson (26, Bello)
+HRSantander (40, 7th inning off Winckowski 0 on, 0 Out)
+RBISantander 3 (94)
+2Out RBISantander
+Team LOB11
+Team RISP2-11 (Jiménez 0-2, O'Hearn 0-1, Slater 0-1, Mullins 0-1, Santander 1-1, Rutschman 1-1, Henderson 0-2, Cowser 0-1, Mayo 0-1)
+FIELDING
+DP1 (Henderson-L. Soto-O'Hearn)
+EHenderson (24, fielding)
+AssistsCowser (Refsnyder at Home)
+Red Sox Hitting
+HITTERS
+
+J. Duran
+LF
+
+
+R. Devers
+3B
+
+
+R. Refsnyder
+RF
+
+
+T. O'Neill
+DH
+
+
+R. Gonzalez
+2B
+
+
+C. Wong
+1B
+
+
+T. Story
+SS
+
+
+D. Jansen
+C
+
+
+C. Rafaela
+CF
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+5	0	0	0	0	0	.289
+5	2	3	0	0	0	.281
+4	2	4	5	2	1	.285
+5	2	3	3	2	0	.260
+5	1	1	0	0	0	.282
+5	1	1	0	0	0	.285
+4	1	1	0	0	0	.238
+1	2	0	0	0	2	.197
+4	1	2	4	0	0	.253
+38	12	15	12	4	3	
+BATTING
+2BRefsnyder (16, Povich); O'Neill (17, Smith); Rafaela (21, Kimbrel)
+HRRefsnyder 2 (11, 3rd inning off Povich 1 on, 1 Out, 8th inning off Irvin 0 on, 1 Out); O'Neill 2 (29, 3rd inning off Povich 0 on, 1 Out, 8th inning off Irvin 0 on, 1 Out)
+RBIRefsnyder 5 (40), O'Neill 3 (56), Rafaela 4 (69)
+2Out RBIRefsnyder 2, Rafaela 2
+GIDPRafaela
+Team LOB6
+Team RISP4-10 (Story 0-1, Refsnyder 1-1, Devers 1-1, O'Neill 0-2, Duran 0-2, González 0-1, Rafaela 2-2)
+BASERUNNING
+SBStory (2, 2nd base off Kimbrel/Rutschman)
+FIELDING
+EDevers (11, fielding)
+Orioles Pitching
+PITCHERS
+
+C. Povich
+(L, 2-8)
+
+
+B. Smith
+
+
+G. Soto
+
+
+C. Kimbrel
+
+
+C. Irvin
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+4.2	5	4	5	76-46	5.91
+0.2	4	4	0	13-9	5.13
+0.2	2	0	2	13-8	4.79
+1.0	2	2	3	25-16	4.35
+1.0	2	2	3	19-15	4.86
+8.0	15	12	13	146-94	
+PITCHING
+HBPD. Jansen (by Smith)
+First-pitch strikes/Batters FacedKimbrel 5/6; Smith 5/6; G. Soto 3/4; Irvin 5/5; Povich 9/21
+Called strikes-Swinging strikes-Foul balls-In play strikesKimbrel-2-7-5-2; Smith-0-2-2-5; G. Soto-0-3-3-2; Irvin-4-4-5-2; Povich-11-13-8-14
+Ground Balls-Fly BallsSmith 1-0; Povich 5-4
+Game ScoresC Povich 41
+Red Sox Pitching
+PITCHERS
+
+B. Bello
+(W, 13-7)
+
+
+B. Bernardino
+(H, 14)
+
+
+J. Winckowski
+(S, 2)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+5.1	3	2	5	101-62	4.70
+0.2	1	0	0	10-7	3.73
+3.0	2	1	3	45-28	4.05
+9.0	6	3	8	156-97	
+PITCHING
+HBPMullins (by Bello)
+First-pitch strikes/Batters FacedBernardino 1/3; Winckowski 7/12; Bello 17/26
+Called strikes-Swinging strikes-Foul balls-In play strikesBernardino-2-0-2-3; Winckowski-11-4-5-8; Bello-17-10-20-15
+Ground Balls-Fly BallsBernardino 1-1; Winckowski 3-3; Bello 7-5
+Game ScoresB Bello 54
+Scoring Summary
+INNING
+	BAL	BOS
+		1st	Santander singled to right, Henderson scored, Santander to second.	1	0
+		1st	O'Neill grounded out to shortstop, Devers scored.	1	1
+		3rd	Refsnyder homered to center (412 feet), Devers scored.	1	3
+		3rd	O'Neill homered to left center (371 feet).	1	4
+		4th	Santander walked, Cowser scored, Mullins to second, L. Soto to third.	2	4
+		6th	Rafaela singled to center, González scored and Wong scored, D. Jansen to second.	2	6
+		6th	Refsnyder singled to center, D. Jansen scored and Rafaela scored, Devers to second.	2	8
+		7th	Santander homered to right center (407 feet).	3	8
+		7th	Rafaela doubled to right, D. Jansen scored and Story scored.	3	10
+		8th	Refsnyder homered to right (327 feet).	3	11
+		8th	O'Neill homered to left center (422 feet).	3	12
+Full Play-By-Play
+Game Information
+Fenway Park
+11:10 PM, September 9, 2024
+Boston, Massachusetts
+Line: BOS -120
+Over/Under: 9.5
+Attendance: 30,600
+Game Time:
+2:45
+Umpires:
+Home Plate Umpire - Chad Fairchild
+First Base Umpire - Ryan Wills
+Second Base Umpire - Paul Clemons
+Third Base Umpire - Roberto Ortiz
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570624 
+ ----- 

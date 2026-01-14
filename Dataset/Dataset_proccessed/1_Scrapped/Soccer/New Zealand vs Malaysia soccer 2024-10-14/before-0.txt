@@ -1,0 +1,243 @@
+ARCHITECTURE
+Open Source
+Cloud Native Ecosystem
+Containers
+Edge Computing
+Microservices
+Networking
+Serverless
+Storage
+ENGINEERING
+AI
+Large Language Models
+Frontend Development
+Software Development
+API Management
+Python
+JavaScript
+TypeScript
+WebAssembly
+Cloud Services
+Data
+Security
+OPERATIONS
+Platform Engineering
+Operations
+CI/CD
+Tech Careers
+Tech Culture
+DevOps
+Kubernetes
+Observability
+Service Mesh
+CHANNELS
+Podcasts
+Ebooks
+Events
+Newsletter
+TNS RSS Feeds
+THE NEW STACK
+About / Contact
+Sponsors
+Advertise With Us
+Contributions
+PODCASTS EBOOKS EVENTS NEWSLETTER CONTRIBUTE
+ARCHITECTURE ENGINEERING OPERATIONS
+FRONTEND DEVELOPMENT / JAVASCRIPT
+After a Decade of React, Is Frontend a Post-React World Now?
+Ten years after an influential React presentation at Oscon 2014, we revisit the concepts behind React and see how well they apply to 2024.
+Jul 18th, 2024 11:00am by Richard MacManus
+Image via Unsplash+. 
+
+Ten years ago, Facebook developer Christopher Chedeau gave a presentation at Oscon (O’Reilly Open Source Convention) about a relatively new JavaScript framework called React. As The New Stack’s Chris Dawson noted at the time, the presentation was fascinating because it explained the concepts behind React — and not just how it worked, but why it was created.
+
+See also: Beyond React: How Astro and Its Server Islands Work
+
+Given how dominant React has become in the frontend development ecosystem since Oscon 2014, in this article I’ll revisit the concepts behind React and determine how well they’ve aged. This is especially important in 2024, when major software products like Microsoft Edge have begun to explore what I’m calling a post-React approach to web development (the Microsoft Edge team is calling it “HTML-first”). Also, non-React frameworks like Svelte and Solid offer increasingly viable alternatives to frontend developers.
+
+Why React Took Web Dev by Storm in 2014
+
+In his 2014 presentation, Chedeau explained that the genesis for React came from an extension of PHP that Facebook had released as open source software in February 2010, called XHP. “We extended the PHP syntax in order to put XML inside of it,” Chedeau said. This was done mainly for security reasons, but it also resulted in “a very fast iteration cycle.”
+
+However, because it was PHP — a server-side language — every time something changed, the page would need to re-render completely. So the Facebook team decided to move a lot of the application logic of XHP into JavaScript, the browser’s native scripting language, because they wanted to avoid round trips — from the server to the client, back to the server, back to the client, etc. They then looked for ways to optimize the way JavaScript was used.
+
+“I tend to think of React as version control for the DOM”
+– Christopher Chedeau, 2014 (via AdonisSMU)
+
+Long story short, they ended up creating a JavaScript library called React: the key innovation being the creation of a “virtual DOM.” The DOM (Document Object Model), as Wikipedia nicely explains, is “an object-oriented representation of an HTML document that acts as an interface between JavaScript and the document itself.”
+
+As Chedeau explained, React gives you two “virtual” copies of the DOM (a before and after for each interaction), from which you run a “diffing” process to establish what exactly has changed. React then applies those changes to the actual DOM — meaning only a portion of the DOM is changed, with the rest of it staying as-is. That, in turn, means that only a portion of the webpage needs to be re-rendered for the end user.
+
+ Zoom
+
+Facebook developer Christopher Chedeau explaining React at Oscon 2014.
+
+Chedeau had a nifty quote that summed up the benefits of React: “I tend to think of React as version control for the DOM” (credited to AdonisSMU). So in this framing, React is kind of like Git for the frontend.
+
+Another innovation was the creation of JSX (JavaScript XML, formally JavaScript Syntax eXtension), an XML-like extension to JavaScript syntax. Back in 2013, Facebook’s Pete Hunt described it as “an optional syntax extension, in case you prefer the readability of HTML to raw JavaScript.”
+
+One of the important ideas behind React was that it wasn’t template-based, like previous popular frameworks (such as Ruby on Rails and Django). As Hunt noted, “React approaches building user interfaces differently by breaking them into components [which] means React uses a real, full-featured programming language to render views.”
+
+React really did provide a revolutionary method of developing web apps — and it was especially suited to large applications where data changed a lot. Influential developers began to take note, and the adoption of React grew in 2014. James Long, then a developer at Mozilla, summed up the buoyant mood around React with a May 2014 post entitled: Removing User Interface Complexity, or Why React is Awesome (go read the post if you want the tech nitty gritty, but for our purposes here, the headline says it all!).
+
+React’s Critics
+
+Despite its popularity, it didn’t take long for complaints to start rolling in about React. By the end of 2015, some developers were complaining of React “fatigue” because of the steep learning curve. In December 2015, Eric Clemmons wrote:
+
+“Ultimately, the problem is that by choosing React (and inherently JSX), you’ve unwittingly opted into a confusing nest of build tools, boilerplate, linters, & time-sinks to deal with before you ever get to create anything.”
+
+TRENDING STORIES
+5 Technical Trends To Help Web Developers Stand Out in 2025
+Angular Shares ‘Potential Ideas’ for 2025 Improvements
+Rediscover the Joy of Early Web Development With XSLT
+How to Build a Server-Side React App Using Vite and Express
+Mastering Progressive Hydration for Enhanced Web Performance
+
+Developers also had issues with the way React handled state management. Here’s Charlie Crawford on The New Stack in August 2016:
+
+“Problems start occurring when the component tree gets tall, and you have components that are far from each other on the tree, and one component is not a descendant of another, AND both components depend on the same bit of state.”
+
+By 2017, some influential developers were starting to regularly voice complaints about React. In August 2017, Alex Russell — who at that time worked for Google’s Chrome team — kicked back against the notion that virtual DOM was fast:
+
+“[…] there was never any basis in fact for the idea that VDOM was “fast”, still isn’t. It’s trading space for *convenience*, not speed.”
+
+ Zoom
+
+Browser developer Alex Russell has been a regular React critic on social media.
+
+Another time, June 2019, Russell pointed out that “diffing” is actually slow compared to other frameworks:
+
+“Turns out diffing is slow! Other frameworks are going faster (Svelte, Lit, Vue, etc.) by taking different approaches, but they get similar surface syntax and they are *much* smaller.
+
+React’s Defenders
+
+Some of the React issues that developers have complained about over the past decade have either dissipated or been resolved. For instance, the learning curve isn’t much of an issue nowadays — a lot of new frontend developers have come onto the market since 2014 and many started out by learning React. There have also been good solutions to the state management issues, such as Redux or React’s Context API.
+
+Even with the performance issues, React has its defenders. Chief among them, the company Vercel, which runs the industry’s leading React framework, Next.js. In July 2023, Vercel published a long blog post about React 18, the current stable version. The post outlined “how concurrent features like Transitions, Suspense, and React Server Components improve application performance.”
+
+But even if those features do improve performance, has that come at the expense of complexity? Some, including Netlify CEO Matt Biilmann, think so. In January this year, Biilmann used a tweet from Vercel CEO Guillermo Rauch to poke fun at the seeming complexity of Vercel (and by extension React).
+
+ Zoom
+
+It should be noted that Netlify is a direct competitor of Vercel! During that presentation, Biilmann pitched Astro as a much simpler framework alternative to Next.js. While Astro does allow users to integrate React, they can also choose alternative UI frameworks, like Vue, Svelte and Solid.
+
+Just this week, Netlify and Astro announced a formal partnership — so we can expect more of the “keep it simple” narrative from Netlify.
+
+Conclusion: Post-React or No?
+
+It’s too early to proclaim we’re in a post-React frontend landscape, because React — and associated frameworks like Next.js — are still enormously popular. But there is a sense that developers have viable alternative approaches to choose from now. Neither Astro nor Svelte uses the virtual DOM approach, so developers can now choose a web framework that doesn’t rely on React (although Astro still has React as an option).
+
+There’s also the “HTML-first” approach that Microsoft Edge is pursuing, which Alex Russell (who is a member of that team) described as “a modern Web Components + HTML-first architecture.”
+
+Either way, frontend development is no longer as tied to React as it was just a few years ago. If you’re a new web developer entering the profession, you might even consider eschewing React altogether — although admittedly, that will diminish your short-term job prospects. But it’s at least an option to seriously consider, and might even help you land a job with a forward-thinking employer.
+
+Richard MacManus is a Senior Editor at The New Stack and writes about web and application development trends. Previously he founded ReadWriteWeb in 2003 and built it into one of the world’s most influential technology news sites. From the early...
+Read more from Richard MacManus 
+SHARE THIS STORY
+ 
+ 
+ 
+ 
+TRENDING STORIES
+5 Technical Trends To Help Web Developers Stand Out in 2025
+Angular Shares ‘Potential Ideas’ for 2025 Improvements
+Rediscover the Joy of Early Web Development With XSLT
+How to Build a Server-Side React App Using Vite and Express
+Mastering Progressive Hydration for Enhanced Web Performance
+INSIGHTS FROM OUR SPONSORS
+What is data enrichment, and why is it valuable?
+
+12 December 2024
+Three ways the BigPanda Community connects you to industry experts
+
+12 December 2024
+Customer webinar: Change management for AIOps adoption
+
+11 December 2024
+How to Choose a Vector Database for AWS
+
+16 December 2024
+Instantly Chat with Your PDFs Using Langflow
+
+12 December 2024
+Shaping the Wild in Las Vegas: An AWS re:Invent Recap
+
+11 December 2024
+Software Licensing and Open Source: Why Definitions Matter
+
+13 December 2024
+Alternatives to Cloud DBaaS: What to Look For
+
+12 November 2024
+An Elephant in the Cluster: Making PostgreSQL Feel at Home on Kubernetes
+
+6 November 2024
+TNS DAILY NEWSLETTER
+Receive a free roundup of the most recent TNS articles in your inbox each day.
+SUBSCRIBE
+The New Stack does not sell your information or share it with unaffiliated third parties. By continuing, you agree to our Terms of Use and Privacy Policy.
+ARCHITECTURE
+Open Source
+Cloud Native Ecosystem
+Containers
+Edge Computing
+Microservices
+Networking
+Serverless
+Storage
+ENGINEERING
+AI
+Large Language Models
+Frontend Development
+Software Development
+API Management
+Python
+JavaScript
+TypeScript
+WebAssembly
+Cloud Services
+Data
+Security
+OPERATIONS
+Platform Engineering
+Operations
+CI/CD
+Tech Careers
+Tech Culture
+DevOps
+Kubernetes
+Observability
+Service Mesh
+CHANNELS
+Podcasts
+Ebooks
+Events
+Newsletter
+TNS RSS Feeds
+THE NEW STACK
+About / Contact
+Sponsors
+Advertise With Us
+Contributions
+roadmap.sh
+
+Community created roadmaps, articles, resources and journeys for developers to help you choose your path and grow in your career.
+
+Frontend Developer Roadmap 
+Backend Developer Roadmap 
+Devops Roadmap 
+© The New Stack 2024
+Disclosures Terms of Use Advertising Terms & Conditions Privacy Policy Cookie Policy
+FOLLOW TNS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://thenewstack.io/after-a-decade-of-react-is-frontend-a-post-react-world-now/ 
+ ----- 

@@ -1,0 +1,380 @@
+PAK vs SA
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+26th Match (D/N), Chennai, October 27, 2023, ICC Cricket World Cup
+PAK
+270
+SA
+(47.2/50 ov, T:271) 271/9
+
+South Africa won by 1 wicket (with 16 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+PAK 0.00%
+SA 100%
+PAK
+SA
+100%
+50%
+100%
+PAK Innings
+SA Innings
+
+Over 48 • SA 271/9
+
+South Africa won by 1 wicket (with 16 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Tabraiz Shamsi
+, SA
+4/60
+CRICINFO'S MVP
+Marco Jansen
+, SA
+160.22 pts
+Impact List
+Pakistan
+South Africa
+Match Flow
+Info
+Pakistan  (50 ovs maximum)
+Batting	R	B	4s	6s	SR
+
+Abdullah Shafique 
+	9	17	1	0	52.94
+
+c Ngidi b Jansen
+
+
+Imam-ul-Haq 
+	12	18	2	0	66.66
+
+c Klaasen b Jansen
+
+
+Babar Azam (c)
+	50	65	4	1	76.92
+
+c †de Kock b Shamsi
+
+
+Mohammad Rizwan †
+	31	27	4	1	114.81
+
+c †de Kock b Coetzee
+
+
+Iftikhar Ahmed 
+	21	31	1	1	67.74
+
+c Klaasen b Shamsi
+
+
+Saud Shakeel 
+	52	52	7	0	100.00
+
+c †de Kock b Shamsi
+
+
+Shadab Khan 
+	43	36	3	2	119.44
+
+c Maharaj b Coetzee
+
+
+Mohammad Nawaz 
+	24	24	1	2	100.00
+
+c Miller b Jansen
+
+
+Shaheen Shah Afridi 
+	2	4	0	0	50.00
+
+c Maharaj b Shamsi
+
+
+Mohammad Wasim 
+	7	9	0	1	77.77
+
+c †de Kock b Ngidi
+
+
+Haris Rauf 
+	0	1	0	0	0.00
+
+not out
+
+Extras	19	(b 4, nb 4, w 11)
+Total	270	
+46.4 Ov (RR: 5.78)
+
+
+Fall of wickets: 1-20 (Abdullah Shafique, 4.3 ov), 2-38 (Imam-ul-Haq, 6.3 ov), 3-86 (Mohammad Rizwan, 15.5 ov), 4-129 (Iftikhar Ahmed, 25.1 ov), 5-141 (Babar Azam, 27.5 ov), 6-225 (Shadab Khan, 39.4 ov), 7-240 (Saud Shakeel, 42.1 ov), 8-259 (Shaheen Shah Afridi, 44.2 ov), 9-268 (Mohammad Nawaz, 45.5 ov), 10-270 (Mohammad Wasim, 46.4 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Marco Jansen
+	9	1	43	
+3
+	4.77	6	2
+
+Lungi Ngidi
+	7.4	0	45	
+1
+	5.86	3	0
+
+Aiden Markram
+	4	0	20	0	5.00	0	0
+
+Keshav Maharaj
+	9	0	56	0	6.22	0	0
+
+Gerald Coetzee
+	7	0	42	
+2
+	6.00	1	0
+
+Tabraiz Shamsi
+	10	0	60	
+4
+	6.00	1	2
+South Africa  (T: 271 runs from 50 ovs)
+Batting	R	B	4s	6s	SR
+
+Temba Bavuma (c)
+	28	27	4	1	103.70
+
+c Saud Shakeel b Mohammad Wasim
+
+
+Quinton de Kock †
+	24	14	5	0	171.42
+
+c Mohammad Wasim b Shaheen Shah Afridi
+
+
+Rassie van der Dussen 
+	21	39	0	0	53.84
+
+lbw b Usama Mir
+
+
+Aiden Markram 
+	91	93	7	3	97.84
+
+c Babar Azam b Usama Mir
+
+
+Heinrich Klaasen 
+	12	10	0	1	120.00
+
+c Usama Mir b Mohammad Wasim
+
+
+David Miller 
+	29	33	2	2	87.87
+
+c †Mohammad Rizwan b Shaheen Shah Afridi
+
+
+Marco Jansen 
+	20	14	2	1	142.85
+
+c Babar Azam b Haris Rauf
+
+
+Gerald Coetzee 
+	10	13	0	0	76.92
+
+c †Mohammad Rizwan b Shaheen Shah Afridi
+
+
+Keshav Maharaj 
+	7	21	1	0	33.33
+
+not out
+
+
+Lungi Ngidi 
+	4	14	0	0	28.57
+
+c & b Haris Rauf
+
+
+Tabraiz Shamsi 
+	4	6	0	0	66.66
+
+not out
+
+Extras	21	(b 1, lb 5, w 15)
+Total	271/9	
+47.2 Ov (RR: 5.72)
+
+
+Fall of wickets: 1-34 (Quinton de Kock, 3.3 ov), 2-67 (Temba Bavuma, 9.5 ov), 3-121 (Rassie van der Dussen, 18.5 ov), 4-136 (Heinrich Klaasen, 21.4 ov), 5-206 (David Miller, 33.1 ov), 6-235 (Marco Jansen, 36.5 ov), 7-250 (Aiden Markram, 40.2 ov), 8-250 (Gerald Coetzee, 41.1 ov), 9-260 (Lungi Ngidi, 45.3 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Iftikhar Ahmed
+	3	0	23	0	7.66	1	0
+
+Shaheen Shah Afridi
+	10	0	45	
+3
+	4.50	3	0
+
+Mohammad Nawaz
+	6.2	0	40	0	6.31	0	0
+
+Haris Rauf
+	10	0	62	
+2
+	6.20	2	0
+
+Mohammad Wasim
+	10	1	50	
+2
+	5.00	3	0
+
+Usama Mir
+	8	0	45	
+2
+	5.62	1	0
+Unlocking the magic of Statsguru
+Match Flow
+Pakistan innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 58 runs, 2 wickets)
+Pakistan: 50 runs in 8.5 overs (55 balls), Extras 8
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 167 runs, 4 wickets)
+Drinks: Pakistan - 86/3 in 15.5 overs (Babar Azam 26)
+Pakistan: 100 runs in 19.4 overs (120 balls), Extras 9
+Babar Azam: 50 off 64 balls (4 x 4, 1 x 6)
+Over 27.5: Review by South Africa (Bowling), Decision Challenged - Wicket, Umpire - PR Reiffel, Batter - Babar Azam (Upheld)
+Pakistan: 150 runs in 29.2 overs (179 balls), Extras 11
+Drinks: Pakistan - 151/5 in 30.0 overs (Saud Shakeel 14, Shadab Khan 3)
+6th Wicket: 50 runs in 45 balls (Saud Shakeel 24, Shadab Khan 27, Ex 2)
+Pakistan: 200 runs in 36.2 overs (221 balls), Extras 12
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 45 runs, 4 wickets)
+Saud Shakeel: 50 off 50 balls (7 x 4)
+Pakistan: 250 runs in 42.5 overs (261 balls), Extras 14
+Innings Break: Pakistan - 270/10 in 46.4 overs (Haris Rauf 0)
+South Africa innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 67 runs, 2 wickets)
+South Africa: 50 runs in 6.5 overs (41 balls), Extras 6
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 182 runs, 4 wickets)
+South Africa: 100 runs in 13.4 overs (82 balls), Extras 7
+Drinks: South Africa - 102/2 in 14.0 overs (HE van der Dussen 13, AK Markram 30)
+Usama Mir replaced Shadab Khan as a concussion substitute during 15th over of South Africa innings
+3rd Wicket: 50 runs in 46 balls (HE van der Dussen 11, AK Markram 37, Ex 2)
+Over 18.5: Review by South Africa (Batting), Decision Challenged - Wicket, Umpire - PR Reiffel, Batter - HE van der Dussen (Struck down - Umpires Call)
+South Africa: 150 runs in 24.4 overs (148 balls), Extras 10
+AK Markram: 50 off 50 balls (4 x 4, 2 x 6)
+5th Wicket: 50 runs in 43 balls (AK Markram 21, DA Miller 26, Ex 5)
+Drinks: South Africa - 188/4 in 29.0 overs (AK Markram 64, DA Miller 26)
+South Africa: 200 runs in 32.2 overs (194 balls), Extras 14
+Over 35.2: Review by Pakistan (Bowling), Decision Challenged - Wicket, Umpire - AG Wharf, Batter - AK Markram (Struck down)
+South Africa: 250 runs in 40.1 overs (241 balls), Extras 15
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 22 runs, 3 wickets)
+Over 45.6: Review by Pakistan (Bowling), Decision Challenged - Wicket, Umpire - AG Wharf, Batter - T Shamsi (Struck down - Umpires Call)
+Match Details
+MA Chidambaram Stadium, Chepauk, Chennai
+
+Toss	Pakistan, elected to bat first
+Series	
+ICC Cricket World Cup
+
+Season	
+2023/24
+
+Player Of The Match	
+Tabraiz Shamsi
+
+Match number	
+ODI no. 4683
+
+Hours of play (local time)	14.00 start, First Session 14.00-17.30, Interval 17.30-18.00, Second Session 18.00-21.30
+Match days	27 October 2023 - daynight (50-over match)
+PAK Player Replacement	
+Concussion sub: 
+Usama Mir
+ in, 
+Shadab Khan
+ out (2nd innings, 14.6 ov)
+
+Umpires	
+Alex Wharf
+DRS
+Paul Reiffel
+DRS
+
+TV Umpire	
+Richard Illingworth
+
+Reserve Umpire	
+Richard Kettleborough
+
+Match Referee	
+Richie Richardson
+
+Points	South Africa 2, Pakistan 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 874 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/pakistan-vs-south-africa-26th-match-1384417/full-scorecard 
+ ----- 

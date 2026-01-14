@@ -1,0 +1,494 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+The Armory
+Removing over-torqued torx screw...
+ 
+Thread starter
+Wannashootit  
+Start date
+Oct 27, 2021
+W
+Wannashootit
+Gunny Sergeant
+Full Member
+Minuteman
+Sep 3, 2010
+2,234
+550
+FL
+Oct 27, 2021
+#1
+Customer fucked up and torqued a Sig red dot to his rail with 20 ft lbs, instead on inch pounds...
+The T-10 tips aren't strong enough to break this free- they snap off clean leaving the screw head intact and undamaged.
+
+I put some Kroil on it to see if it might soak in enough to lessen the force needed to break this free but no go.
+I'm thinking some judicious heat around the end of the screw (it's a thru-bolt type mount) where it pokes out of the plate it's screwed into?
+
+Any other suggestions? Trying to avoid treating it like a snapped-off scope mount screw and drilling it out on the mill.
+ 
+Old Man with Gun
+Major Hide Member
+Full Member
+Minuteman
+Feb 4, 2019
+1,440
+2,134
+Oct 27, 2021
+#2
+That sounds more like permanent thread locker than over tightened. How did they tighten to 20ft/lbs without snapping the screw bit or screw?
+
+Heat and solvents?
+
+If the metal fused under the heat/pressure it is basically welded, might as well drill it out.
+ 
+ 
+Reactions:
+Nik H
+Makinchips208
+Major Hide Member
+Full Member
+Minuteman
+Sep 20, 2021
+2,363
+3,634
+Idaho
+Oct 27, 2021
+#3
+Drill the head off, a drill bit that is slightly larger diameter than the thread diameter.
+Sometimes you use a left hand drill bit will help it spin on out after the head pops off.
+If thread lock has been used then this isn’t much help.
+ 
+Makinchips208
+Major Hide Member
+Full Member
+Minuteman
+Sep 20, 2021
+2,363
+3,634
+Idaho
+Oct 27, 2021
+#4
+Or maybe a snap-on or high quality torx bit? Some of the cheaper bits are... well.. cheap.
+ 
+Im2bent
+Two Star General
+Full Member
+Minuteman
+Jun 30, 2020
+5,276
+9,116
+Oct 27, 2021
+#5
+JimmyJr said:
+Drill the head off, a drill bit that is slightly larger diameter than the thread diameter.
+Sometimes you use a left hand drill bit will help it spin on out after the head pops off.
+If thread lock has been used then this isn’t much help.
+I just had to do this on my scope rail. I was bedding it and the next day when I went to remove the screws they were locked up. I had torqued to 18 inch/lbs. I thought I had accidentally got jb weld on the threads. I sheared a brownells tip it was so tight. I drilled off the head at which point the body of the screw spun right out. There will be a bit of the screw left protruding from the hole when the head pops off that you can grab. It was weird. No way he got 20ft/lbs without shearing the screws.
+There should be no need to drill the entire screw out unless something happened like severely cross threaded.
+ 
+ 
+Reactions:
+BPGuru
+Old Man with Gun
+Major Hide Member
+Full Member
+Minuteman
+Feb 4, 2019
+1,440
+2,134
+Oct 27, 2021
+#6
+I have used a dremel to make a big flat head, but it can get squirrely and leave scars if not very careful.
+ 
+ 
+Reactions:
+M77
+W
+Wannashootit
+Gunny Sergeant
+Full Member
+Minuteman
+Sep 3, 2010
+2,234
+550
+FL
+Oct 27, 2021
+#7
+Brownell's torx bits... never been a fan of their taps, but I haven't had issues with their screw tips.
+I've got a small e-z out, but if the screw could be broken free by that (or a left-handed drill bit) I think it would loosen without extraordinary measures. The head is undamaged, it's just that the tip cannot handle the torque needed to break it free without snapping off.
+
+Sounds like it's going into the mill vise to get drilled out and pick out the threads...
+ 
+Statusquo
+Horse’s Ass
+Full Member
+Minuteman
+Feb 13, 2017
+145
+121
+WA
+Oct 27, 2021
+#8
+Go to your local lumber yard and a get a T10 bit for an impact driver.
+ 
+Attachments
+05B4C415-3A6C-438F-8478-0B27B9989EF6.jpeg
+512.7 KB · Views: 123
+ 
+Reactions:
+FuhQ, Vodak, ZY100 and 1 other person
+Mike Casselton
+No, I just wear the T-shirt
+Full Member
+Minuteman
+ 
+ 
+Nov 25, 2007
+11,517
+22,208
+Lithia, FL
+Oct 27, 2021
+#9
+How the hell did the shank of that little screw survive that much torque?
+I can snap most of those .08/.10 size with a screwdriver, and my name is not Gorilla Monsoon.
+ 
+W
+Wannashootit
+Gunny Sergeant
+Full Member
+Minuteman
+Sep 3, 2010
+2,234
+550
+FL
+Oct 27, 2021
+#10
+Statusquo said:
+Go to your local lumber yard and a get a T10 bit for an impact driver.
+Great idea, thanks!
+
+Mike Casselton said:
+How the hell did the shank of that little screw survive that much torque?
+That's what I was wondering. Maybe SIG doesn't use cheap/soft Chicom screws 
+ 
+ 
+Reactions:
+Statusquo
+Vodak
+Sergeant of the Hide
+Full Member
+Minuteman
+Feb 8, 2020
+267
+122
+SF Peninsula
+Oct 27, 2021
+#11
+I second the idea of getting impact rated bits, and using an impact driver if you have one.
+I worked on street lights right on the coast. Fighting with corroded and seized screws I’ve found that a lot of times the impact will free up screws in conditions where a hand driver strips or spins the head off.
+ 
+ma smith
+Old Salt
+Full Member
+Minuteman
+Sep 29, 2020
+2,953
+2,499
+Oct 27, 2021
+#12
+Wannashootit said:
+Great idea, thanks!
+
+That's what I was wondering. Maybe SIG doesn't use cheap/soft Chicom screws 
+If I'm reading the below table BOLT SHEAR CAPACITY high grade scews will still shear off in these smaller sizes lik m3.5 well below 20 ft lbs (27nm)...you'd need something well above m4/m5 survive that. I'd suspect loctite (or corrosion) possible problems here.
+
+
+https://www.boltsgalore.com.au/downloads/technical/Bolt%20Shear%20Strength%20-%20Metric.pdf
+ 
+Last edited: Oct 27, 2021
+hafejd30
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Feb 27, 2019
+6,478
+13,031
+MI
+Oct 27, 2021
+#13
+Can believe that screw held with 20 ft lbs. I feel like they barely handle 20 in lbs when I tighten them. If nothing else I gained confidence in the mount reading this
+
+Just drill the head off. Screw should back out once the head it removed. Unless it’s red loctite or something of the sort
+
+Your trying to save the mount. Keep in mind there’s a chance he jacked the mount threads up when tightened that much anyways
+ 
+Mike Casselton
+No, I just wear the T-shirt
+Full Member
+Minuteman
+ 
+ 
+Nov 25, 2007
+11,517
+22,208
+Lithia, FL
+Oct 28, 2021
+#14
+If there's no thread locker, I bet that thing stretched like a wet rope
+ 
+ 
+Reactions:
+FuhQ
+Mike Casselton
+No, I just wear the T-shirt
+Full Member
+Minuteman
+ 
+ 
+Nov 25, 2007
+11,517
+22,208
+Lithia, FL
+Oct 28, 2021
+#15
+Is it counter sunk or is the head on the surface? If you can grab it with vise grips, it'll come out or the head will shear.
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,300
+10,763
+Your Wife's Pussy
+Oct 28, 2021
+#16
+Wannashootit said:
+Customer fucked up and torqued a Sig red dot to his rail with 20 ft lbs, instead on inch pounds...
+The T-10 tips aren't strong enough to break this free- they snap off clean leaving the screw head intact and undamaged.
+
+I put some Kroil on it to see if it might soak in enough to lessen the force needed to break this free but no go.
+I'm thinking some judicious heat around the end of the screw (it's a thru-bolt type mount) where it pokes out of the plate it's screwed into?
+
+Any other suggestions? Trying to avoid treating it like a snapped-off scope mount screw and drilling it out on the mill.
+Click to expand...
+Bust out the milling jig vise and stick it in the drill press... And be extremely careful.
+ 
+elwarpo
+Still Learning...
+Full Member
+Minuteman
+Dec 15, 2011
+848
+430
+North of Houston, TX
+Oct 28, 2021
+#17
+A hand impact with quality bit is the best choice. Only way I know of.
+ 
+W
+Wannashootit
+Gunny Sergeant
+Full Member
+Minuteman
+Sep 3, 2010
+2,234
+550
+FL
+Oct 28, 2021
+#18
+elwarpo said:
+A hand impact with quality bit is the best choice. Only way I know of.
+Just picked up impact rated bits.
+I have a hand impact screwdriver- and was thinking about using it- but have concerns over rattling the guts out of the red dot.
+I'm going to see if I can clamp this upper in a padded vise to immobilize it enough so it can't move if I whack it with the impact screwdriver.
+
+Will give it a try later when I get into the shop. Thanks for the feedback guys will let you know how it ends...
+ 
+Hobo Hilton
+Private
+Full Member
+Minuteman
+Jun 4, 2011
+12,534
+12,348
+73
+Pacific Northwest
+Oct 28, 2021
+#19
+Take some of those cheap torx drivers and do this:
+
+Heat the torx driver red hot and insert it into the head of the bolt.... Just let it sit there and sizzle.... Watch what boils out around the threads / head.... Allow it to cool slowly and repeat again..... After it cools for the second time go ahead and try the high grade Torx driver you just bought....
+Only heat the bolt, not the mount.
+ 
+ 
+Reactions:
+Old Man with Gun
+E. Bryant
+STABILITRAK ACTIVE
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Oct 25, 2010
+6,838
+9,927
+MI
+Oct 28, 2021
+#20
+If you want to heat the screw, just use a soldering iron.
+
+If this were my mess, I'd drill off the heads to get the red dot out of the way, and hopefully have enough screw remaining to grab it with an appropriate tool (like Vampliers).
+ 
+ 
+Reactions:
+6.5SH, FuhQ, The D and 1 other person
+W
+Wannashootit
+Gunny Sergeant
+Full Member
+Minuteman
+Sep 3, 2010
+2,234
+550
+FL
+Oct 28, 2021
+#21
+Put a red-hot tip into the screw for 30 seconds.
+A stack of adapters to get my 1/2" impact screwdriver down to the 1/4" torx driver.
+Set the upper onto a plastic bench block with a shim of the proper thickness supporting the SIG mount, one swing for the fences with a 20 oz hammer and...success.
+
+No visible damage to the screw but I'm sure the threads have been stretched so it'll be replaced.
+ 
+ 
+Reactions:
+MarshallDodge, E. Bryant, deltawiskey and 3 others
+The D
+Come to think of it, I don’t have any rules
+Full Member
+Minuteman
+ 
+ 
+Apr 11, 2020
+7,945
+14,761
+Oct 28, 2021
+#22
+E. Bryant said:
+If you want to heat the screw, just use a soldering iron.
+
+If this were my mess, I'd drill off the heads to get the red dot out of the way, and hopefully have enough screw remaining to grab it with an appropriate tool (like Vampliers).
+This. I deal with broken/corroded screws every day and this is exactly how I handle most of them
+ 
+ 
+Reactions:
+E. Bryant
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,300
+10,763
+Your Wife's Pussy
+Oct 29, 2021
+#23
+E. Bryant said:
+If you want to heat the screw, just use a soldering iron.
+
+If this were my mess, I'd drill off the heads to get the red dot out of the way, and hopefully have enough screw remaining to grab it with an appropriate tool (like Vampliers).
+Yep, that's why my first post mentioned the milling jig and the drill press... I spent nearly 20 years doing welding and custom fab work... Had to do this routinely with equipment and tools, even to a couple of pic rail scope bases for friends, and 1 of my own, that had shitty screws that stripped-out.
+ 
+E. Bryant
+STABILITRAK ACTIVE
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Oct 25, 2010
+6,838
+9,927
+MI
+Oct 29, 2021
+#24
+And for those who are newbies to drilling out fasteners - give it a shot with a left-hand-twist bit. If you do this, the odds are decent that the screw will zip right out as soon as the head is relieved far enough to release the preload. I've been occasionally fixing fuck-ups (both my own and others) for a quarter-century, and it's still amusing when this process works.
+
+When it doesn't work, slow down and consider the next steps very carefully.
+ 
+ 
+Reactions:
+ma smith
+You must log in or register to reply here.
+Similar threads
+	
+Vector X - Just a quick review.
+Zigjib Jul 15, 2024 Observation & Sighting Devices
+24
+Sep 22, 2024
+	
+Facing an AR receiver. Does it matter?
+357Max Aug 7, 2022 Semi-Automatic Rifles
+37
+Nov 12, 2022
+	
+New, Gen 2 LOW-PRO-RIGID™ rails, M-LOK compatible Rails!
+GRIFFIN_ARMAMENT Mar 5, 2021 New Product Announcements
+1
+Mar 22, 2021
+	
+Introducing the NEW SR-RIGID™ Rails, M-LOK Compatible!
+GRIFFIN_ARMAMENT Apr 16, 2021 Semi-Automatic Rifles
+13
+Apr 22, 2021
+W
+	
+MPA Matrix / Curtis Vector build
+Wobbley_Aim Aug 10, 2020 The Armory
+1
+Aug 11, 2020
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+The Armory
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/removing-over-torqued-torx-screw.7097281/ 
+ ----- 

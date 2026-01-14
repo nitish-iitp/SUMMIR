@@ -1,0 +1,32 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "The Astros crushed the Phillies, 10-0, to avoid being swept at Citizens Bank Park.",
+            "score": 10
+        },
+        {
+            "sentence": "It was the worst home shutout loss for the Phillies since August 10, 2017.",
+            "score": 9
+        },
+        {
+            "sentence": "Houston Astros matched their season high with 18 hits.",
+            "score": 8
+        },
+        {
+            "sentence": "Verlander struck out three, walked one, allowed four runs, and gave up seven hits in five innings.",
+            "score": 7
+        },
+        {
+            "sentence": "Yordan Alvarez has 28 homers this year and is slashing .352/.448/.656 with nine homers and 19 RBIs since the All-Star break.",
+            "score": 6
+        },
+        {
+            "sentence": "Phillies LHP Jos\u00e9 Alvarado was expected to return this season after he was placed a day earlier on the restricted list for a personal matter.",
+            "score": 5
+        },
+        {
+            "sentence": "At 41 years, 189 days, Justin Verlander is the oldest active pitcher in the major leagues.",
+            "score": 4
+        }
+    ]
+}

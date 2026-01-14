@@ -1,0 +1,1074 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Reloading Depot
+Do you use expanding mandrels after a full-length bushing die for neck sizing?
+ 
+Thread starter
+Western Living  
+Start date
+Jan 6, 2024
+1
+	
+2
+	
+3
+	
+4
+Next
+W
+Western Living
+Private
+Minuteman
+Sep 27, 2020
+74
+30
+Jan 6, 2024
+#1
+I have a question for those who use the expanding mandrels from Wilson, Sinclair, K&M and 21st Century.
+It looks like the standard size mandrels are 1 thou or 0.0008 +/- 0.0002" under bullet diameter.
+Are those the mandrels you are using before seating bullets?
+If so, are you getting 1 thou difference before and after seating? Some people call this "neck tension" or "bullet hold." Is 1 thou enough?
+
+Sinclair describes the purpose of these mandrels as being for the purpose of opening the necks so they can be placed over a neck-turning mandrel.
+LE Wilson describes these mandrels as being for the purpose of opening up new brass that is either under-sized or possibly damaged in packing or shipping to "slightly less" than bullet diameter.
+Some authors of articles in the Accurate Shooting bulletin have described using the mandrels and experiencing spring-back to 2-thou under with Lapua brass, but not necessarily any or all brass.
+
+I've received the impression that it has become popular to size necks with these mandrels in lieu of the carbide expander balls in full-length bushing dies (Redding Type-S, Wilson, Whidden, etc.) The practice is to push the cartridge into the die to bump the shoulder and squeeze the neck down to a bushing size just below what the expanding mandrel will open. Then the case is pushed into mandrel die where the mandrel opens the neck, sizing the ID vs. the bushing that sized the OD.
+
+I've read descriptions of why the pushed mandrels are supposed to be better than the pulled balls/buttons.
+
+What I want to know from the people who use these mandels for the purpose I just described, is: Are you using the standard size mandrels sized 1 under bullet diameter? Or are you using a smaller mandrel like the ones from 21st Century that are in half-thou increments? If you're sizing 1 thou under bullet diameter, does your brass spring back to 2-thou under? Are your bullets secure?
+ 
+ 
+Reactions:
+WeR0206
+6
+6.5SH
+Two Star General
+Full Member
+Minuteman
+Jul 24, 2020
+6,152
+10,665
+Jan 6, 2024
+#2
+I use the ones listed as "neck turning" mandrels which are 0.002" under bullet diameter.
+ 
+ 
+Reactions:
+aam, mikehotel, Longguns and 4 others
+Huskydriver
+Not here for a long time but here for a good time
+Full Member
+Minuteman
+Apr 17, 2018
+9,108
+19,699
+SLC, Utah
+Jan 6, 2024
+#3
+Alot there... Most of us are probably using a mandrel that delivers .002 under bullet od for the id of the brass. How we arrive there using a mandrel is a combo of what sizing die and annealing. Could be regular fl die or a bushing die. Personally I don't use bushing dies anymore. I just fl size with a normal Forester die and open back up with a mandrel that will deliver .002 id on the brass.
+
+I have played with as little as .001 and as much as .005. .002-.003 seems to be the sweet spot
+ 
+ 
+Reactions:
+WeR0206, Luckyshot, CK1.0 and 13 others
+Y
+Yondering
+Sergeant
+Full Member
+Minuteman
+Mar 16, 2017
+2,433
+2,011
+Skagit Valley, WA
+Jan 6, 2024
+#4
+Western Living said:
+Some authors of articles in the Accurate Shooting bulletin have described using the mandrels and experiencing spring-back to 2-thou under with Lapua brass, but not necessarily any or all brass.
+
+It's not about what brand of brass you're using, it's about how hard the necks are. Harder neck = more spring back. Neck hardness changes with every firing, so the answer to all this is going to depend a lot on how you anneal and how often. Size of the mandrel is only one part of a larger equation.
+
+If you want to use a mandrel, you may need to experiment to see what size gives the results you want for your process. Also, if you're the type who doesn't anneal at all or doesn't understand how it changes things like bushing & mandrel dimensions and brass springback, then you'll either learn a bunch pretty quick or spend a lot of time wondering why you don't get consistent results.
+ 
+ 
+Reactions:
+shawn.r2020, Eric_F, Capt45 and 6 others
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,312
+4,394
+Texas
+Jan 6, 2024
+#5
+If you want to do it "right", then look into mandrels like 21st century or others who make more than just .001 and .002 under bullet size.
+
+You can experiment with what interference fit performs best with your ammo/rifle. And use the appropriate mandrel to se that interference fit. As mentioned above, things are rarely the same over the life of brass. You might end up having to use a mandrel .0005 up or down get the desired inside diameter. Spring back and such is going to be condition of brass dependent, which can change. Especially if not annealing every firing.
+
+Then there's other things to consider such as friction. The more/better lube you use, the smaller you may need your inside diameter to hold the bullet in a way that performs well.
+
+And as very well pointed out in the above post, the bushing or non bushing neck size matters. The smaller you size the outside diameter down, the larger mandrel you will need to overcome the spring back and such.
+
+There's quite a few variables at play.
+ 
+ 
+Reactions:
+Capt45, RUN8, simonp and 1 other person
+H
+Haney
+Major Hide Member
+Full Member
+Minuteman
+Apr 2, 2020
+1,910
+1,362
+Jan 6, 2024
+#6
+Western Living said:
+What I want to know from the people who use these mandels for the purpose I just described, is: Are you using the standard size mandrels sized 1 under bullet diameter? Or are you using a smaller mandrel like the ones from 21st Century that are in half-thou increments? If you're sizing 1 thou under bullet diameter, does your brass spring back to 2-thou under? Are your bullets secure?
+No way of knowing about spring back on the internet, you will have to experiment with the brass you have on hand . Some folks talk half-thou this and that , but still can't shoot the difference . Some folks use chinese pin gauges , and win matches .
+ 
+ 
+Reactions:
+Islander and LR1845
+briang7511
+Hole puncher specialist
+Full Member
+Minuteman
+Jun 10, 2013
+705
+124
+Michigan
+Jan 6, 2024
+#7
+I have tried this with the wilson mandrel after sizing. i saw no difference in range performance when using just the die. i have not tried different sizes, my dies and mandrel are .002 under bullet dia. Now I only use the mandrel with new brass.
+ 
+Rocketmandb
+Old Salt
+Full Member
+Minuteman
+ 
+ 
+Nov 2, 2018
+2,517
+2,729
+Jan 6, 2024
+#8
+Western Living said:
+Some authors of articles in the Accurate Shooting bulletin have described using the mandrels and experiencing spring-back to 2-thou under with Lapua brass, but not necessarily any or all brass.
+
+This is why I:
+
+1) Use a bushing size that corresponds with the mandrel size - I'm looking for the mandrel to be minimally engaged on every expansion after sizing. Less engagement = less spring back = less variation
+
+2) Anneal before every sizing. As @Yondering mentions, every time you fire a case, its hardness will change. Different hardness = different spring back AND different force holding the bullet in when you seat. Annealing helps even all that out.
+ 
+ 
+Reactions:
+moaorbust, dbliz, Capt45 and 3 others
+Rocketmandb
+Old Salt
+Full Member
+Minuteman
+ 
+ 
+Nov 2, 2018
+2,517
+2,729
+Jan 6, 2024
+#9
+briang7511 said:
+I have tried this with the wilson mandrel after sizing. i saw no difference in range performance when using just the die. i have not tried different sizes, my dies and mandrel are .002 under bullet dia. Now I only use the mandrel with new brass.
+
+If you're talking group size out to a few hundred yards or less, you will likely see little difference (or, at least, most people can't take advantage of the gain). If you're talking really stretching things out, then SDs start to matter.
+
+I did a fair amount of SD testing comparing using neck lube (or not) and using a mandrel (or not) and various permutations between the two. There is definitely a correlation between these variables and variability in seating force. There is then a correlation between variability in seating force and SDs of fired rounds.
+
+I've gone down the rabbit hole of testing different neck lubes and brass conditions. I think I'm now stuck in said rabbit hole 
+
+Here is the thread I started on this whole subject:
+
+
+Mandrel Musings
+When I first got my K&M arbor press for seating, I was somewhat surprised at the spread of the values of force required to seat bullets. Knowing that neck tension plays a significant role in ES/SD, I started doing various things to try to bring seating force in line. I had been doing most my...
+ www.snipershide.com
+ 
+ 
+Reactions:
+shawn.r2020, RegionRat, MediumSpeed and 2 others
+blksno
+OG
+Full Member
+Minuteman
+ 
+Mar 15, 2009
+1,989
+451
+SD
+Jan 6, 2024
+#10
+Western Living said:
+Are those the mandrels you are using before seating bullets?
+If so, are you getting 1 thou difference before and after seating? Some people call this "neck tension" or "bullet hold." Is 1 thou enough?
+I started using TiN .001 expanders a few years back and haven't gone back. I haven't seen any reason to switch from .001 of neck tension.
+
+Started experimenting when I was trying to load 143Eldx into a 6.5 Addiction and .003 and .002 was deforming tips and so I started annealing after cleaning...doing a full case prep, and then annealing again just before running a .001 expander.
+That was the only way to get those bullets to seat without wrecking them.
+ 
+briang7511
+Hole puncher specialist
+Full Member
+Minuteman
+Jun 10, 2013
+705
+124
+Michigan
+Jan 6, 2024
+#11
+My performance is measured out to 1000y. My rabbit hole is trying to keep es/sd as low as that magical second firing on brass. annealing has helped a lot, but i cant quite keep the numbers as good after 4th firing and beyond, compared to 2nd firing. 2nd firing i can hold avg groups around 6in at 1000y. beyond 2nd firing they grow to about 12in. That is all vertical stringing. wish i took pictures last weekend. wind was perfect, about 1 mph and constant.
+ 
+ZA206
+Private
+Full Member
+Minuteman
+Jan 24, 2014
+292
+321
+Jan 6, 2024
+#12
+I’ve used both the Sinclair expanding (-.001) and turning (-.002) mandrels. I’ve found better accuracy and SD’s with the turning mandrels while using moly neck lube. I anneal all cases before resizing. I only shoot 223 and 6.5CM semiauto rifles. Less neck tension could work better in bolt rifles… but I wouldn’t know.
+ 
+powdahound76
+Old tired dad
+Full Member
+Minuteman
+Sep 7, 2011
+10,320
+27,572
+Denver CO
+Jan 6, 2024
+#13
+briang7511 said:
+My performance is measured out to 1000y. My rabbit hole is trying to keep es/sd as low as that magical second firing on brass. annealing has helped a lot, but i cant quite keep the numbers as good after 4th firing and beyond, compared to 2nd firing. 2nd firing i can hold avg groups around 6in at 1000y. beyond 2nd firing they grow to about 12in. That is all vertical stringing. wish i took pictures last weekend. wind was perfect, about 1 mph and constant.
+Click to expand...
+
+What brass?
+
+How are you annealing?
+
+Not challenging, just questions as we all learn from one another.
+ 
+ 
+Reactions:
+Schütze
+Baron23
+Check 6
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+ 
+Mar 19, 2020
+7,589
+9,890
+72
+Maryland
+Jan 6, 2024
+#14
+Western Living said:
+I have a question for those who use the expanding mandrels from Wilson, Sinclair, K&M and 21st Century.
+It looks like the standard size mandrels are 1 thou or 0.0008 +/- 0.0002" under bullet diameter.
+Are those the mandrels you are using before seating bullets?
+If so, are you getting 1 thou difference before and after seating? Some people call this "neck tension" or "bullet hold." Is 1 thou enough?
+
+Sinclair describes the purpose of these mandrels as being for the purpose of opening the necks so they can be placed over a neck-turning mandrel.
+LE Wilson describes these mandrels as being for the purpose of opening up new brass that is either under-sized or possibly damaged in packing or shipping to "slightly less" than bullet diameter.
+Some authors of articles in the Accurate Shooting bulletin have described using the mandrels and experiencing spring-back to 2-thou under with Lapua brass, but not necessarily any or all brass.
+
+I've received the impression that it has become popular to size necks with these mandrels in lieu of the carbide expander balls in full-length bushing dies (Redding Type-S, Wilson, Whidden, etc.) The practice is to push the cartridge into the die to bump the shoulder and squeeze the neck down to a bushing size just below what the expanding mandrel will open. Then the case is pushed into mandrel die where the mandrel opens the neck, sizing the ID vs. the bushing that sized the OD.
+
+I've read descriptions of why the pushed mandrels are supposed to be better than the pulled balls/buttons.
+
+What I want to know from the people who use these mandels for the purpose I just described, is: Are you using the standard size mandrels sized 1 under bullet diameter? Or are you using a smaller mandrel like the ones from 21st Century that are in half-thou increments? If you're sizing 1 thou under bullet diameter, does your brass spring back to 2-thou under? Are your bullets secure?
+Click to expand...
+I have the 21st Century kit for the same reason I have a set of pin gauges in .0005 increments.
+
+I too have often wondered how the F’ you can expect to get a certain specific and consistent degree of interference fit on the bullet with one sort of arbitrary mandrel for an array of brass brands and number of firings.
+
+But I’m stupid! lol
+ 
+ 
+Reactions:
+Yondering
+briang7511
+Hole puncher specialist
+Full Member
+Minuteman
+Jun 10, 2013
+705
+124
+Michigan
+Jan 6, 2024
+#15
+Using lapua 6.5cm, 6.5x47 and hornady 6gt. Using annealeze. all brass weight sorted within 1g, using berger bullets straight from the box. 140 hybrids do not show the vertical stringing as much as the 105 hybrids in the gt and hornady brass at 1k.
+
+I appreciate the interest and wish to learn as well. Also do not want to hijack original post. In this trial to reduce the problem is when i tried the mandrel approach. i have the SAC comparator tools, to measure bumping the shoulders usually around .002 to .0025. I have since purchased some cci BR4 primers in place of the 450s but not expecting any real results from this. i have yet to test them.
+ 
+ 
+Reactions:
+powdahound76
+powdahound76
+Old tired dad
+Full Member
+Minuteman
+Sep 7, 2011
+10,320
+27,572
+Denver CO
+Jan 6, 2024
+#16
+I use almost all Lapua or Peterson brass.
+
+FC in bulk .308 and loads for 1 hunting barrel.
+
+I find a 0.263 mandrel from 21st Century gives me the best results.
+
+I anneal the same.
+
+Do you see more issues with 6GT than the others?
+Wondering if more a brass thing.
+And do you anneal necks of hornady and lapua the same? Could effect it.
+
+Im no worshipper of EC and he has a good vid showing annealing times and effects on seating pressure, all other items same.
+
+I think it all ties together with OPs rambling opener.
+
+Every brand, even lots of brass will be different, so thats why I love the 0.0005” increment sets from 21st Century.
+Great company to do business with.
+ 
+ 
+Reactions:
+Baron23
+memilanuk
+F'ing nuke
+Full Member
+Minuteman
+Supporter
+Mar 23, 2002
+2,793
+1,144
+East Wenatchee WA
+Jan 6, 2024
+#17
+blksno said:
+Started experimenting when I was trying to load 143Eldx into a 6.5 Addiction and .003 and .002 was deforming tips and so I started annealing after cleaning...doing a full case prep, and then annealing again just before running a .001 expander.
+That was the only way to get those bullets to seat without wrecking them.
+
+Sounds like you need better bullets, if they deform under as little as 2 thou neck tension.
+ 
+ 
+Reactions:
+clcustom1911, CK1.0 and spife7980
+blksno
+OG
+Full Member
+Minuteman
+ 
+Mar 15, 2009
+1,989
+451
+SD
+Jan 6, 2024
+#18
+Rio Precision Gunworks said:
+If you're annealing a second time after sizing, unfortunately you're just wasting time/resource.
+
+Brass isn't hardened to much of a measurable amount via sizing. It's the firing of the brass that does almost all of the work hardening.
+whelp...i can absolutely feel the difference when seating bullets so..... 
+ 
+W
+Western Living
+Private
+Minuteman
+Sep 27, 2020
+74
+30
+Jan 6, 2024
+#19
+I noticed EC Precision sells mandrels said to be compatible with 21st century. For example, he sells .262 and .2625, so those would be 2 thou and 1.5 thou under, whereas the standard 21st mandrel available in TiN or black nitride is .263, but they sell the non-coated mandrels in .5 thou increments.
+ 
+W
+Western Living
+Private
+Minuteman
+Sep 27, 2020
+74
+30
+Jan 6, 2024
+#20
+I am not a competitive shooter. My practice so far has been to use a SAC bushing that is 3 thou under. It sizes the necks to 3 thou under. I don't see spring-back, ever. Then I pull the Redding carbide ball (that measures 2 thou under) through and it brings it to 2 thou under. There is no spring-back. I have not experimented with any other dimensions like 3 thou under or anything else.
+
+I do anneal my cases every firing if they are fired a lot. For example, if I have 1000 bigger cases, I'm going to fire many times, then I anneal. But for Lake City 223 that I buy many thousands of new, if I fire them once, I'm not going to anneal them or fire them many times because I have thousands more that I only fired once. When I resize LC that has only been fired once, it does not spring back.
+
+I've read criticism of the pull-balls, and so I've considered bushing-only sizing, and these mandrels that seem to be a popular solution. It looks like I should get a 2 thou under mandrel to start and other mandrels if things change. It's odd that I should buy a neck turning mandrel rather than the expanding mandrel when I want to expand, or that Erik Cortina is the only one selling 2-thou under expanding mandrels rather than 1-thou under like Sinclair, K&M, Wilson, and 21st Century, some of whom describe selling these mandrels for a completely different purpose.
+ 
+jetjock07
+Can I get a Mulligan
+Full Member
+Minuteman
+Jun 23, 2020
+452
+549
+Jan 6, 2024
+#21
+Clean, anneal, FL Size, chamfer/deburr, expanding mandrel, prime, powder, seat.
+
+I use mandrel 2thou under bullet diameter
+ 
+ 
+Reactions:
+Longguns
+6
+6.5SH
+Two Star General
+Full Member
+Minuteman
+Jul 24, 2020
+6,152
+10,665
+Jan 6, 2024
+#22
+Western Living said:
+I am not a competitive shooter. My practice so far has been to use a SAC bushing that is 3 thou under. It sizes the necks to 3 thou under. I don't see spring-back, ever. Then I pull the Redding carbide ball (that measures 2 thou under) through and it brings it to 2 thou under. There is no spring-back. I have not experimented with any other dimensions like 3 thou under or anything else.
+
+I do anneal my cases every firing if they are fired a lot. For example, if I have 1000 bigger cases, I'm going to fire many times, then I anneal. But for Lake City 223 that I buy many thousands of new, if I fire them once, I'm not going to anneal them or fire them many times because I have thousands more that I only fired once. When I resize LC that has only been fired once, it does not spring back.
+
+I've read criticism of the pull-balls, and so I've considered bushing-only sizing, and these mandrels that seem to be a popular solution. It looks like I should get a 2 thou under mandrel to start and other mandrels if things change. It's odd that I should buy a neck turning mandrel rather than the expanding mandrel when I want to expand, or that Erik Cortina is the only one selling 2-thou under expanding mandrels rather than 1-thou under like Sinclair, K&M, Wilson, and 21st Century, some of whom describe selling these mandrels for a completely different purpose.
+Click to expand...
+IMO that is because until relatively recently the only ones using mandrels outside of forming a wildcat were those who participate in shooting disciplines that single load. Those who use magazines or a semi-auto may desire more grip on the bullet.
+ 
+ 
+Reactions:
+232593 and MediumSpeed
+Obi-WanKannoli
+Gunny Sergeant
+Full Member
+Minuteman
+Oct 18, 2020
+524
+829
+USA
+Jan 6, 2024
+#23
+Huskydriver said:
+Alot there... Most of us are probably using a mandrel that delivers .002 under bullet od for the id of the brass. How we arrive there using a mandrel is a combo of what sizing die and annealing. Could be regular fl die or a bushing die. Personally I don't use bushing dies anymore. I just fl size with a normal Forester die and open back up with a mandrel that will deliver .002 id on the brass.
+
+I have played with as little as .001 and as much as .005. .002-.003 seems to be the sweet spot
+Click to expand...
+
+I do exactly the same, FL followed by mandrel to usually 0.002 under.
+ 
+W
+Western Living
+Private
+Minuteman
+Sep 27, 2020
+74
+30
+Jan 6, 2024
+#24
+jetjock07 said:
+Clean, anneal, FL Size, chamfer/deburr, expanding mandrel, prime, powder, seat.
+
+I use mandrel 2thou under bullet diameter
+Which mandrel is 2 thou under?
+ 
+W
+Western Living
+Private
+Minuteman
+Sep 27, 2020
+74
+30
+Jan 6, 2024
+#25
+Obi-WanKannoli said:
+I do exactly the same, FL followed by mandrel to usually 0.002 under.
+which mandrel?
+ 
+MediumSpeed
+some drag...
+Full Member
+Minuteman
+Legend
+Jul 13, 2017
+179
+258
+62
+Sacramento CA and sometimes Buckeye AZ.
+Jan 6, 2024
+#26
+Hi - for 223 I use a full length die with expander ball and crimp because gas gun - works great and sub moa with single lot virgin brass. For 308 and 6.5cm I full length and use a mandrel (sinclair w sinclair or 21st centery expanders) .002 gives me decent neck tension and nice groups but I will crimp it if it is going in an AR10 or M1a...
+ 
+W
+Western Living
+Private
+Minuteman
+Sep 27, 2020
+74
+30
+Jan 6, 2024
+#27
+How do you get a 002 under mandrel from Sinclair? They say theirs are 1 under. You use their neck turning mandrel? Or from 21st? You bought the kit or the ones sold in half-thou increments?
+ 
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,312
+4,394
+Texas
+Jan 6, 2024
+#28
+Western Living said:
+How do you get a 002 under mandrel from Sinclair? They say theirs are 1 under. You use their neck turning mandrel? Or from 21st? You bought the kit or the ones sold in half-thou increments?
+
+The Sinclair Expander Mandrels are .001 under bullet diameter. The Sinclair Turning Mandrels are .002 under bullet diameter.
+
+Since the original reason for the mandrels is to uniformly expand the neck and then turn the neck. Hence the .001 and .002 sizing. For example, a 6mm case you would expand/uniform to .242 and then turn on a .241.....giving the turning mandrel .0005 - .001 (spring back dependent) clearance for the neck turning operation.
+ 
+ 
+Reactions:
+Longguns, Aftermath and spife7980
+B
+Bangin
+Sergeant of the Hide
+Full Member
+Minuteman
+Feb 23, 2020
+202
+137
+Jan 6, 2024
+#29
+I FL size with a bushing and remove the expander ball. Never had an issue with accuracy.
+ 
+ 
+Reactions:
+dbliz and tinker
+spife7980
+Luchador
+Full Member
+Minuteman
+Feb 10, 2017
+13,657
+16,565
+Central TX
+Jan 6, 2024
+#30
+Western Living said:
+which mandrel?
+Use a “turning arbor” vs an “expander mandrel” as rio said, it’s .002 under bullet diameter and if you are only going to try one it is the one to get.
+
+.002 of interference fit as a general rule of thumb is the safe starting place for good results.
+ 
+ 
+Reactions:
+kthomas and BuildingConceptsllc
+B
+bax
+Sergeant
+Supporter
+Full Member
+Minuteman
+Oct 25, 2009
+608
+291
+Southwest Michigan
+Jan 6, 2024
+#31
+Western Living said:
+I am not a competitive shooter. My practice so far has been to use a SAC bushing that is 3 thou under. It sizes the necks to 3 thou under. I don't see spring-back, ever. Then I pull the Redding carbide ball (that measures 2 thou under) through and it brings it to 2 thou under. There is no spring-back. I have not experimented with any other dimensions like 3 thou under or anything else.
+
+I do anneal my cases every firing if they are fired a lot. For example, if I have 1000 bigger cases, I'm going to fire many times, then I anneal. But for Lake City 223 that I buy many thousands of new, if I fire them once, I'm not going to anneal them or fire them many times because I have thousands more that I only fired once. When I resize LC that has only been fired once, it does not spring back.
+
+I've read criticism of the pull-balls, and so I've considered bushing-only sizing, and these mandrels that seem to be a popular solution. It looks like I should get a 2 thou under mandrel to start and other mandrels if things change. It's odd that I should buy a neck turning mandrel rather than the expanding mandrel when I want to expand, or that Erik Cortina is the only one selling 2-thou under expanding mandrels rather than 1-thou under like Sinclair, K&M, Wilson, and 21st Century, some of whom describe selling these mandrels for a completely different purpose.
+Click to expand...
+re: full length and/or bushing versus mandrel
+
+When you fire and size, brass migrates toward the shoulder and neck. When you full length - bushing or not - that donut is formed on the inside at the base of the neck. If you use a mandrel, the neck inside diameter becomes more cylindrical and the donut shows on the outside of the neck.
+
+I anneal after every firing, full length size with a bushing leaving the neck ID about .300 or .301. I use a .304 mandrel and end up with a neck ID of .3025, a .303 pin gauge won't fit. I do the same with both 308 and 300 PRC. I'm thinking about trying a .305 mandrel.
+ 
+Baron23
+Check 6
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+ 
+Mar 19, 2020
+7,589
+9,890
+72
+Maryland
+Jan 6, 2024
+#32
+Western Living said:
+How do you get a 002 under mandrel from Sinclair? They say theirs are 1 under. You use their neck turning mandrel? Or from 21st? You bought the kit or the ones sold in half-thou increments?
+A mandrel is a mandrel no matter what they call it.
+ 
+ 
+Reactions:
+FNG1001
+memilanuk
+F'ing nuke
+Full Member
+Minuteman
+Supporter
+Mar 23, 2002
+2,793
+1,144
+East Wenatchee WA
+Jan 6, 2024
+#33
+FYI, K&M now offers different sizes of mandrels.
+
+Though it is hard to beat the Sinclair carbide turning mandrel for simplicity.
+ 
+ 
+Reactions:
+Marine52
+Aftermath
+RECOIL FETISHIST
+Full Member
+Minuteman
+May 14, 2013
+3,929
+6,045
+Yonder
+Jan 6, 2024
+#34
+I've been using the 21 Century stuff for several years.
+I've recently been considering using a "precision" expander ball like on a regular sizer die. Has anyone gone that route or am I all screwed up in my thinking?
+ 
+memilanuk
+F'ing nuke
+Full Member
+Minuteman
+Supporter
+Mar 23, 2002
+2,793
+1,144
+East Wenatchee WA
+Jan 6, 2024
+#35
+Aftermath said:
+I've been using the 21 Century stuff for several years.
+I've recently been considering using a "precision" expander ball like on a regular sizer die. Has anyone gone that route or am I all screwed up in my thinking?
+
+I used Redding's floating carbide expander ball in their Type S FL bushing does for years. Chose the bushing so the ball just kissed the inside of the neck ID on the way out. Worked great. Not sure why I changed... probably trying to keep up with the cool kids or something 
+ 
+ 
+Reactions:
+Longguns and Aftermath
+BuildingConceptsllc
+Don't Start None, won't be none.
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+ 
+Nov 13, 2020
+7,320
+7,529
+Alabama
+Jan 6, 2024
+#36
+Aftermath said:
+I've been using the 21 Century stuff for several years.
+I've recently been considering using a "precision" expander ball like on a regular sizer die. Has anyone gone that route or am I all screwed up in my thinking?
+I'm in the "if it ain't broke don't fix it" camp on that one. After my brass has been fired in my chamber a few times, I only use a bushing die. Prior to that I use the mandrel after the bushing die. It works for great groups and pretty smal ES/SD so no reason to try the new expander ball thing you're talking about but it did kind of make me curious. IF.. it took the place of both bushing and mandrel that is.... Thats a lot more testing though.
+ 
+ 
+Reactions:
+Aftermath
+Cardboard Assassin
+Gunny Sergeant
+Full Member
+Minuteman
+Dec 6, 2020
+594
+353
+Canada
+Jan 6, 2024
+#37
+Aftermath said:
+I've been using the 21 Century stuff for several years.
+I've recently been considering using a "precision" expander ball like on a regular sizer die. Has anyone gone that route or am I all screwed up in my thinking?
+
+I have a set of expander balls from whidden (they go up in size incrementally so you can find what works for you) but I still use expander mandrels as I have been very happy with my results.
+
+From memory I read somewhere that it is better to use a mandrel for the neck as you are pushing it through the case (so the case will be in its strongest form) as opposed to pulling a ball trough the neck whereby the case is much weaker / more susceptible to distortion.
+ 
+ 
+Reactions:
+Aftermath
+memilanuk
+F'ing nuke
+Full Member
+Minuteman
+Supporter
+Mar 23, 2002
+2,793
+1,144
+East Wenatchee WA
+Jan 6, 2024
+#38
+Cardboard Assassin said:
+From memory I read somewhere that it is better to use a mandrel for the neck as you are pushing it through the case (so the case will be in its strongest form) as opposed to pulling a ball trough the neck whereby the case is much weaker / more susceptible to distortion.
+
+In theory, sure. But if you pick the neck bushing intelligently, the mandrel won't be working it that hard, in actual practice.
+ 
+ 
+Reactions:
+spife7980
+Aftermath
+RECOIL FETISHIST
+Full Member
+Minuteman
+May 14, 2013
+3,929
+6,045
+Yonder
+Jan 6, 2024
+#39
+Cardboard Assassin said:
+I have a set of expander balls from whidden (they go up in size incrementally so you can find what works for you) but I still use expander mandrels as I have been very happy with my results.
+
+From memory I read somewhere that it is better to use a mandrel for the neck as you are pushing it through the case (so the case will be in its strongest form) as opposed to pulling a ball trough the neck whereby the case is much weaker / more susceptible to distortion.
+Click to expand...
+Yeah....I figure that once that expander ball pulls through, lengthening the brass for the last operation that should have any impact on the brass/neck etc (other than seating the bullet and then whatchyagonadew?) so check to see if you should trim. I don't know...nobody has convinced me yet to not go down that rabbit hole. The engineer in me tends to go off the deep end looking at shit.
+Not saying that I will but it would take at least one step, more, out of my current process. Imagine just pulling down the resize die with the correct precision expander and yer done. I already anneal every time and am likely to continue that forever. Clean it up, set the primer, load the powder and seat the bullet...It would be near the process I use for 45ACP or 12 Gauge.
+
+Don't mean to derail the thread. I might start a different one if I decide to give it a go.
+ 
+Obi-WanKannoli
+Gunny Sergeant
+Full Member
+Minuteman
+Oct 18, 2020
+524
+829
+USA
+Jan 7, 2024
+#40
+Western Living said:
+which mandrel?
+
+I have a 21st Century Black Nitride that I have been happy with. I use their expander die body too.
+
+Edit: I also do use a SAC neck bushing in my FL die. I can't remember what the size is but I know between the two I end up at 0.002 under for neck tension. I like running the mandrel because I can be pretty certain the neck is concentric and or at a minimum consistent across brass. Curious to try just the SAC neck bushing too and do some measurements.
+ 
+ 
+Reactions:
+Yondering
+RUN8
+Sergeant of the Hide
+Full Member
+Minuteman
+Oct 25, 2023
+327
+478
+Black Hills
+Jan 7, 2024
+#41
+Great thread.
+
+I just resized a batch of Lapua, Nosler, and a couple of Federal pieces of brass today in 6.5mm Creedmoor.
+
+Using a SAC full length resizing die with a .289” neck/shoulder bushing, and installed a SAC .2610” expander mandrel as I had read that .002”-.003” interference fit with a projectile is not a bad place to start.
+
+I don’t have any pin gauges to measure the case neck ID but the OD’s seem spot on at .289” or as near as my calipers can measure on the Lapua and Federal brass. The Nosler brass is thicker at the neck and ended up a smidge larger at .290”-291” after the mandrel passed through. The Nosler cases were also over length even before resizing at 1.931” so the Nosler brass is kind of suspect at this point.
+
+Happily the Alpha Munitions 6.5mm Creedmoor brass I just got in specifies a virgin neck OD of .289” and neck ID of .261”…. so I accidentally ended up with a bushing and mandrel that theoretically return the necks to “original” dimensions.
+
+As a side note the SAC resizing die bumped the shoulder back .002” from fired dimensions out of my AI AT-X without any included shims needed. Measured with a dial caliper and the SAC comparator kit. The die is adjusted to a very light amount of cam over just kissing the shell holder to the bottom of the die body in a factory Redding T7 turret head. If there’s any variance I don’t have measuring equipment precise enough to detect it at this point.
+
+I also test seated a bullet in one of the cases to make sure my neck chamfer job after trimming the Nosler brass was acceptable. Using the SAC “The Seating Die” with the M2 bullet seating stem, everything looked good no damage to the 140gr ELD-M or the case neck after I pulled the bullet and inspected both.
+ 
+Last edited: Jan 7, 2024
+ 
+Reactions:
+Defender3
+Y
+Yondering
+Sergeant
+Full Member
+Minuteman
+Mar 16, 2017
+2,433
+2,011
+Skagit Valley, WA
+Jan 7, 2024
+#42
+Obi-WanKannoli said:
+I have a 21st Century Black Nitride that I have been happy with. I use their expander die body too.
+
+Edit: I also do use a SAC neck bushing in my FL die. I can't remember what the size is but I know between the two I end up at 0.002 under for neck tension. I like running the mandrel because I can be pretty certain the neck is concentric and or at a minimum consistent across brass. Curious to try just the SAC neck bushing too and do some measurements.
+Click to expand...
+
+One of mine is a black nitride mandrel from them as well - definitely my favorite, wish I'd bought all of them that way. It feels smoother in operation and has much less chance of galling vs TiN or bare steel mandrels, and was pretty reasonably priced (when I got mine, haven't checked in a while) for something with the option of a bunch of different sizes.
+ 
+Y
+Yondering
+Sergeant
+Full Member
+Minuteman
+Mar 16, 2017
+2,433
+2,011
+Skagit Valley, WA
+Jan 7, 2024
+#43
+blksno said:
+I started using TiN .001 expanders a few years back and haven't gone back. I haven't seen any reason to switch from .001 of neck tension.
+
+Started experimenting when I was trying to load 143Eldx into a 6.5 Addiction and .003 and .002 was deforming tips and so I started annealing after cleaning...doing a full case prep, and then annealing again just before running a .001 expander.
+That was the only way to get those bullets to seat without wrecking them.
+Click to expand...
+
+A couple things to unpack here:
+
+- If you're deforming tips, the problem is the seating stem, not the annealing. The tip should never touch the stem; you'll want to either buy the correct stem to match that bullet, or modify the one you have. There are several methods for that - lapping the stem to the bullet profile, bedding with epoxy, etc. If the stem is touching the tip though the first step is to drill the center hole deeper - if the tip is touching then it'll introduce variations in seating depth when measured to the ogive.
+
+- If you need to anneal twice, then your initial annealing isn't hot enough or long enough; it's not doing its job. More work does not equal better results, just get that initial annealing set up better and you can skip doing it a second time.
+ 
+ 
+Reactions:
+Marine52, Capt45, spife7980 and 2 others
+Y
+Yondering
+Sergeant
+Full Member
+Minuteman
+Mar 16, 2017
+2,433
+2,011
+Skagit Valley, WA
+Jan 7, 2024
+#44
+Baron23 said:
+I too have often wondered how the F’ you can expect to get a certain specific and consistent degree of interference fit on the bullet with one sort of arbitrary mandrel for an array of brass brands and number of firings.
+
+You can't. Anyone that says you can is leading you wrong.
+ 
+ 
+Reactions:
+Baron23 and Haney
+B
+bax
+Sergeant
+Supporter
+Full Member
+Minuteman
+Oct 25, 2009
+608
+291
+Southwest Michigan
+Jan 7, 2024
+#45
+Yondering said:
+You can't. Anyone that says you can is leading you wrong.
+Agreed.
+
+Assuming a pile of range brass, you can anneal all of the cases. Assuming that you use a mandrel, that will address the "number of firings" issue, neck IDs will come our more or less similar. But there are other differences between brass brands. Fixing the neck ID does not obscure or offset the other differences. If you have a pile of range brass and you are trying to create more accurate ammo, first step - sort by headstamp. If you are making blaster ammo, reliability is the key so make sure that every round functions - lowest common denominator.
+
+Speaking for myself, why make mixed-headstamp blaster ammo when you could make it at least decently accurate? I always sort by headstamp. Tumble then inspect for (a) cracks, (b) incipient head separations, (c) damaged necks. Anneal. Size & decap. Trim if needed. Remove crimps if needed. Either finish the process or store each headstamp is separate bags.
+ 
+ 
+Reactions:
+Haney
+Obi-WanKannoli
+Gunny Sergeant
+Full Member
+Minuteman
+Oct 18, 2020
+524
+829
+USA
+Jan 7, 2024
+#46
+Yondering said:
+You can't. Anyone that says you can is leading you wrong.
+Agreed. On neck tension and uniformity I believe this comes down to wall thickness of the brass at the neck and shoulder and in turn how the brass responds to both the fl die and the mandrel + how much spring back it gives after forming. Hornady brass will probably not work perfect with how I'm setup for ADG Brass. I know Lapua brass doesn't respond well to my method I've dialed in for ADG Brass, neck is too tight and it I can actually feel the difference when seating bullets.
+
+Will it all "work" at the end of the day...sure..
+But as reloaders we for sure spend many hours chasing the dragon lol and that isn't going to cut it for us.
+ 
+ 
+Reactions:
+Yondering, Haney and Baron23
+B
+bax
+Sergeant
+Supporter
+Full Member
+Minuteman
+Oct 25, 2009
+608
+291
+Southwest Michigan
+Jan 7, 2024
+#47
+Obi-WanKannoli said:
+Agreed. On neck tension and uniformity I believe this comes down to wall thickness of the brass at the neck and shoulder and in turn how the brass responds to both the fl die and the mandrel + how much spring back it gives after forming. Hornady brass will probably not work perfect with how I'm setup for ADG Brass. I know Lapua brass doesn't respond well to my method I've dialed in for ADG Brass, neck is too tight and it I can actually feel the difference when seating bullets.
+
+Will it all "work" at the end of the day...sure..
+But as reloaders we for sure spend many hours chasing the dragon lol and that isn't going to cut it for us.
+Click to expand...
+Talking range brass here -- suppose you have 100 each federal, Lake City, IMI, and PMC range brass, load them all, throw them all into a pile, and shoot three groups.
+
+Now suppose you sort and load but keep the headstamps together. Shoot a group of Lake City and a group of PMC. Everything else being equal, if the headstamps are sorted each headstamp will shoot a reasonable group - maybe LC over here and PMC over there.
+
+If the headstamps are not sorted, because of differences between brass composition and manufacturing processes for each brand, the groups will be larger because a group will contain all of the headstamps.
+ 
+secondofangle2
+Online Training Member
+Full Member
+Minuteman
+Jul 3, 2017
+2,855
+3,111
+Jan 7, 2024
+#48
+When did everyone transition from bushing dies to mandrel? It seems like it’s all a new rave and I missed the invitation to the party
+ 
+ 
+Reactions:
+232593
+F
+FNG1001
+Sergeant of the Hide
+Full Member
+Minuteman
+Sep 5, 2022
+446
+200
+USA
+Jan 7, 2024
+#49
+Is this considered a mandrel: that little rim?
+
+
+ 
+spife7980
+Luchador
+Full Member
+Minuteman
+Feb 10, 2017
+13,657
+16,565
+Central TX
+Jan 7, 2024
+#50
+FNG1001 said:
+Is this considered a mandrel: that little rim?
+
+View attachment 8316603
+I suppose that whole thing could be but only that little bit actually works the brass. Looks more like an expander ball though in that it drags on its way out.
+
+Most mandrels look like this
+
+Flat on top that reference against the dies flat top to keep it plumb as it’s forcing it’s way down into the case mouth opening it up to the cylinder diameter.
+ 
+ 
+Reactions:
+Rio Precision Gunworks
+1
+	
+2
+	
+3
+	
+4
+Next
+You must log in or register to reply here.
+Similar threads
+J
+	
+SAC modular sizing die setup
+JRBullock1987 Dec 22, 2024 Reloading Depot
+3
+Dec 24, 2024
+U
+	
+Neck size clarification
+UndFrm Dec 11, 2024 Reloading Depot
+15
+Dec 19, 2024
+	
+Mandrel and bushing sizes
+chungus Oct 13, 2024 Reloading Depot
+14
+Oct 14, 2024
+N
+	
+Expander ball newb question
+NJRaised Dec 31, 2024 Reloading Depot
+2
+Dec 31, 2024
+U
+	
+Opening die neck
+UndFrm Dec 25, 2024 Reloading Depot
+7
+Dec 25, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Reloading Depot
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/do-you-use-expanding-mandrels-after-a-full-length-bushing-die-for-neck-sizing.7202425/ 
+ ----- 

@@ -1,0 +1,758 @@
+Football
+Hockey
+Basketball
+Tennis
+Cricket
+Settings
+Home
+Live
+Favourites
+England
+Champions League
+Champions League 23/24
+Spain
+Italy
+Germany
+France
+Netherlands
+Scotland
+Turkiye
+Europa League
+Europa Conference League 23/24
+Euro 2024 Qualification
+Euro 2024
+UEFA Nations League
+International
+World Cup Qualification
+Africa Cup of Nations 2023
+UEFA Women's CL
+UEFA Nations League Women
+Copa Libertadores
+Copa Sudamericana
+Africa Cup of Nations Qualification
+African Nat. Champ.
+Club Friendlies
+Women's World Cup
+International Friendlies
+Women's World Cup Qualification
+Women's Euro
+Women's World Cup U20
+World Cup U20
+Women's World Youth Cup
+World Youth Cup
+Women's Euro U19
+Women's Euro U17
+Women's World Cup U17
+World Cup U17
+UEFA Youth League
+Euro U21 2025
+Euro U21
+Euro U19
+Euro U19 Qualification
+Euro U17
+CONCACAF Nat. League
+CONCACAF Championship U20
+Copa America
+AFC Asian Cup
+AFC Women's Club Championship
+CONCACAF Gold Cup
+Africa
+Asia
+CONCACAF
+Oceania
+South America
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Mali
+Malta
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Romania
+Rwanda
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+USA
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
+World Cup 2022
+Champions League 22/23
+Champions League 21/22
+Champions League 20/21
+Champions League 19/20
+Europa League 22/23
+Europa League 21/22
+Europa League 20/21
+Europa League 19/20
+Europa Conference League 22/23
+Europa Conference League 21/22
+Africa Cup of Nations 2021
+Euro 2020
+UEFA Women's CL 22/23
+Women's CAF Champions League
+CONCACAF Women Gold Cup
+UEFA Nations League 22/23
+Paris 2024 Women
+Europa League 23/24
+The Games - Men
+The Games - Women
+Conference League
+CONCACAF Women Champions Cup
+World Cup 2026
+DEC 26
+DEC 27
+DEC 28
+TODAY
+DEC 30
+DEC 31
+JAN 1
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP B
+JUNE 11
+FT
+South Sudan
+0 - 3
+Sudan
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP C
+JUNE 11
+FT
+Lesotho
+0 - 1
+Rwanda
+FT
+South Africa
+3 - 1
+Zimbabwe
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP D
+JUNE 11
+FT
+Mauritius
+2 - 1
+Eswatini
+FT
+Cape Verde
+1 - 0
+Libya
+FT
+Angola
+1 - 1
+Cameroon
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP E
+JUNE 11
+FT
+Zambia
+0 - 1
+Tanzania
+FT
+Congo
+0 - 6
+Morocco
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP F
+JUNE 11
+FT
+Kenya
+0 - 0
+Ivory Coast
+FT
+Gabon
+3 - 2
+Gambia
+FT
+Seychelles
+1 - 3
+Burundi
+WORLD CUP QUALIFICATION - CAF QUALIFICATION: GROUP I
+JUNE 11
+FT
+Madagascar
+0 - 0
+Mali
+FT
+Chad
+0 - 2
+Comoros
+WORLD CUP QUALIFICATION - CONCACAF QUALIFICATION: 2ND ROUND: GROUP A
+JUNE 11
+AW
+Cuba
+3 - 0
+Cayman Islands
+WORLD CUP QUALIFICATION - CONCACAF QUALIFICATION: 2ND ROUND: GROUP B
+JUNE 11
+FT
+St. Kitts and Nevis
+1 - 0
+Bahamas
+WORLD CUP QUALIFICATION - CONCACAF QUALIFICATION: 2ND ROUND: GROUP C
+JUNE 11
+FT
+Saint Lucia
+2 - 2
+Aruba
+WORLD CUP QUALIFICATION - CONCACAF QUALIFICATION: 2ND ROUND: GROUP D
+JUNE 11
+FT
+Guyana
+3 - 1
+Belize
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP A
+JUNE 11
+FT
+Kuwait
+1 - 0
+Afghanistan
+FT
+Qatar
+2 - 1
+India
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP B
+JUNE 11
+FT
+Japan
+5 - 0
+Syria
+FT
+North Korea
+4 - 1
+Myanmar
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP C
+JUNE 11
+FT
+South Korea
+1 - 0
+China
+FT
+Thailand
+3 - 1
+Singapore
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP D
+JUNE 11
+FT
+Malaysia
+3 - 1
+Chinese Taipei
+FT
+Oman
+1 - 1
+Kyrgyzstan
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP E
+JUNE 11
+FT
+Turkmenistan
+0 - 0
+Hong Kong
+FT
+Iran
+0 - 0
+Uzbekistan
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP F
+JUNE 11
+FT
+Indonesia
+2 - 0
+Philippines
+FT
+Iraq
+3 - 1
+Vietnam
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP G
+JUNE 11
+FT
+Tajikistan
+3 - 0
+Pakistan
+FT
+Saudi Arabia
+1 - 2
+Jordan
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP H
+JUNE 11
+FT
+UAE
+1 - 1
+Bahrain
+FT
+Yemen
+2 - 2
+Nepal
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP I
+JUNE 11
+FT
+Australia
+5 - 0
+Palestine
+FT
+Lebanon
+4 - 0
+Bangladesh
+BRAZIL - SERIE A
+JUNE 11
+FT
+Atletico GO
+2 - 2
+Corinthians
+FT
+Juventude
+1 - 1
+Vitoria
+FT
+Botafogo FR
+1 - 0
+Fluminense
+INTERNATIONAL FRIENDLIES - FRIENDLIES 2024
+JUNE 11
+FT
+Mongolia
+2 - 1
+Cambodia
+FT
+Brunei
+1 - 0
+Sri Lanka
+FT
+Azerbaijan
+3 - 2
+Kazakhstan
+FT
+Belarus
+0 - 4
+Israel
+FT
+Latvia
+1 - 0
+Faroe Islands
+AP
+Lithuania
+1 - 1
+Estonia
+FT
+Malta
+0 - 2
+Greece
+FT
+Moldova
+0 - 4
+Ukraine
+FT
+San Marino
+1 - 4
+Cyprus
+FT
+Northern Ireland
+2 - 0
+Andorra
+FT
+Portugal
+3 - 0
+Ireland
+INTERNATIONAL FRIENDLIES - WOMEN'S FRIENDLIES
+JUNE 11
+FT
+Bahrain W
+0 - 3
+Indonesia W
+INTERNATIONAL FRIENDLIES - FRIENDLIES U23
+JUNE 11
+FT
+Egypt U23
+1 - 2
+Ivory Coast U23
+FT
+Albania U21
+4 - 0
+Liechtenstein U20
+INTERNATIONAL FRIENDLIES - FRIENDLIES U21
+JUNE 11
+FT
+Croatia U21
+2 - 5
+Sweden U21
+FT
+Slovakia U21
+0 - 1
+Moldova U21
+INTERNATIONAL FRIENDLIES - FRIENDLIES U20
+JUNE 11
+FT
+Chile U20
+2 - 1
+Australia U20
+INTERNATIONAL - MAURICE REVELLO TOURNAMENT: GROUP A
+JUNE 11
+AP
+South Korea U21
+0 - 0
+Mexico U23
+FT
+Ivory Coast U20
+0 - 1
+Saudi Arabia U23
+ARGENTINA - PRIMERA NACIONAL
+JUNE 11
+FT
+Atletico Rafaela
+0 - 1
+Estudiantes de Rio Cuarto
+ARGENTINA - WOMEN'S PRIMERA DIVISION A: APERTUA
+JUNE 11
+FT
+CD UAI Urquiza W
+3 - 0
+CA Huracan W
+BRAZIL - SERIE B
+JUNE 11
+FT
+Sport Recife
+1 - 0
+Paysandu
+FT
+Mirassol
+1 - 0
+Goias
+BRAZIL - SERIE D: GROUP A2
+JUNE 11
+FT
+Maranhao
+0 - 2
+Altos
+BRAZIL - SERIE D: GROUP A7
+JUNE 11
+FT
+Pouso Alegre
+1 - 1
+Santo Andre
+BRAZIL - BAIANO: SERIE B
+JUNE 11
+FT
+AD Leonico BA
+1 - 1
+SSA FC
+BRAZIL - GOIANO 2
+JUNE 11
+FT
+Gremio Anapolis
+1 - 0
+AE Evangelica
+BRAZIL - RORAIMENSE: GRAND FINAL
+JUNE 11
+FT
+Sao Raimundo RR
+2 - 3
+GAS
+BRAZIL - BRASILEIRO U20
+JUNE 11
+FT
+Santos FC U20
+4 - 1
+Gremio U20
+BRAZIL - WOMEN'S BRASILEIRO A1
+JUNE 11
+FT
+Gremio W
+1 - 1
+America MG W
+COLOMBIA - PRIMERA B: APERTURA: GROUP A: PLAY-OFF
+JUNE 11
+FT
+Atletico Huila
+4 - 0
+Tigres FC
+FT
+Real Cartagena
+2 - 0
+Orsomarso
+ESTONIA - WOMEN'S MEISTRILIIGA
+JUNE 11
+FT
+Viimsi JK W
+1 - 2
+Flora Tallinn W
+FINLAND - YKKOSLIIGA
+JUNE 11
+FT
+PK-35 Helsinki
+4 - 1
+JaePS
+GERMANY - OBERLIGA: PROMOTION GROUP SOUTH
+JUNE 11
+FT
+SV Gonsenheim
+2 - 4
+Goeppinger SV
+ICELAND - WOMEN'S CUP
+JUNE 11
+FT
+FH Hafnarfjordur W
+0 - 1
+Thor Ka Akureyri W
+FT
+Breidablik W
+5 - 2
+Keflavik W
+FT
+Grindavik W
+0 - 6
+Valur W
+FT
+Afturelding Mosfellsbaer W
+1 - 4
+Throttur Reykjavik W
+KAZAKHSTAN - 1ST DIVISION
+JUNE 11
+FT
+Akzhaiyk Uralsk
+1 - 1
+Kaspyi Aktau
+LITHUANIA - II LYGA
+JUNE 11
+FT
+FK Dembava
+1 - 4
+Zalgiris Vilnius B
+FT
+FK Saned Joniskis
+1 - 2
+FC Dziugas B
+FT
+Sveikata
+2 - 1
+Lietava Jonava
+NORWAY - WOMEN'S CUP
+JUNE 11
+FT
+Oevrevoll Hosle W
+0 - 7
+Stabaek W
+FT
+HamKam W
+1 - 5
+Roea W
+PERU - LIGA 2: GROUP B
+JUNE 11
+FT
+Santos
+2 - 0
+Academia Cantolao
+FT
+Universidad San Martin
+2 - 1
+Ayacucho FC
+SWEDEN - SVENSKA CUPEN: QUALIFICATION
+JUNE 11
+FT
+Torslanda IK
+2 - 1
+Onsala BK
+FT
+Aarsunda IF
+2 - 1
+Korsnaes IF FK
+SWEDEN - ALLSVENSKAN U19
+JUNE 11
+FT
+Kalmar FF U19
+1 - 0
+Norrkoping U19
+URUGUAY - PRIMERA DIVISIÓN: INTERMEDIO GROUP B
+JUNE 11
+FT
+Rampla Juniors
+1 - 1
+Boston River
+URUGUAY - SEGUNDA DIVISIÓN
+JUNE 11
+FT
+Albion
+1 - 0
+Juventud de las Piedras
+USA - USL LEAGUE TWO
+JUNE 11
+FT
+New Mexico United U23
+3 - 1
+Utah Avalanche
+FT
+Pathfinder FC
+4 - 2
+Black Rock FC
+FT
+Seacoast United Phantoms
+3 - 1
+Vermont Green FC
+FT
+Buffalo
+5 - 3
+Cleveland Force SC
+FT
+Western Mass Pioneers
+5 - 0
+AC Connecticut
+FT
+West Chester United
+1 - 3
+Ocean City Nor'easters
+USA - NPSL: SOUTH REGION: LONE STAR CONFERENCE
+JUNE 11
+FT
+FC Brownsville
+2 - 2
+CF10 Houston FC
+USA - NPSL: SOUTH REGION: SUNSHINE CONFERENCE
+JUNE 11
+Postp.
+Miami Dutch Lions FC
+-
+Global Soccer Pathways
+USA - USL W-LEAGUE: MOUNTAIN DIVISION
+JUNE 11
+FT
+Northern Colorado Rain W
+0 - 1
+Albion SC Colorado W
+USA - USL W-LEAGUE: NOR CAL DIVISION
+JUNE 11
+FT
+Stockton Cargo SC W
+5 - 1
+Pleasanton Rage
+FT
+California Storm
+4 - 0
+Olympic Club W
+USA - USL W-LEAGUE: SOUTH ATLANTIC DIVISION
+JUNE 11
+FT
+South Georgia Tormenta FC W
+5 - 0
+South Carolina United FC W
+USA - USL W-LEAGUE: SOUTH CENTRAL DIVISION
+JUNE 11
+FT
+Asheville City SC W
+3 - 1
+Southern Soccer Academy W
+Live Scores and fixtures for football on 11 June 2024
+Looking for the livescore today? See live scores and fixtures for football on 11 June 2024.
+LiveScore brings you the latest football fixtures, results and live score information for 11 June 2024. Revisit scores and statistics and look ahead for upcoming fixtures for your favourite sport team. Plus, find out the livescore today, 11 June 2024.
+© 1998-2024 LiveScore Limited
+CareersMobileAdvertiseContactPrivacy NoticeCookie PolicyTerms of UseCorporate
+ 
+ 
+ ----- 
+ Source link : https://www.livescore.mobi/football/2024-06-11/ 
+ ----- 

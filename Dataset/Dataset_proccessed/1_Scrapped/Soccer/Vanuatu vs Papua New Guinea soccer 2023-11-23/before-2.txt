@@ -1,0 +1,140 @@
+Consent
+Details
+About
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Deny
+Allow selection
+Allow all
+MAIN
+INVESTORS
+5G SYNC
+PARTNERS
+SUPPORT
+CAREERS
+0
+Menu
+
+BLOG
+
+The New Frontier: IP Technology and the Evolution of Live Sports Broadcasting
+By Christer Bohm, Vice President Product Management
+
+The appetite for live sports content is far from waning. In fact, recent studies indicate that 57% of sports enthusiasts in the UK are consuming more live sports than they did in 2020. This surge in demand presents a golden opportunity for media companies to expand their reach across a multitude of platforms, including OTT, digital, and free ad-supported streaming TV (FAST). However, the traditional methods of production, acquisition, and distribution, which often rely on satellite technology, are becoming increasingly obsolete.
+
+	
+		
+The Limitations of Satellite Transmission
+
+In the United States, the C-band spectrum, commonly used for the distribution of video feeds, is undergoing a transformation. The Federal Communications Committee (FCC) is reallocating this spectrum for 5G use, leaving media companies at a critical juncture. The time is ripe for the industry to pivot towards more scalable and flexible solutions, and IP technology is leading the way.
+
+Why IP Technology is a Game-Changer
+
+Switching from satellite to IP offers media organizations unparalleled scalability and agility, allowing them to adapt to the ever-changing landscape of live sports broadcasting. IP technology liberates production from geographical constraints, enabling one production team to cover multiple events in a single day. This not only reduces logistical challenges but also opens up new avenues for revenue generation.
+
+The Power of Remote and Distributed Production
+
+IP technology has been instrumental in facilitating remote and distributed production models. These models have democratized live sports production, allowing companies to tap into a global talent pool and utilize resources more efficiently. Advanced robotics and ultra-low latency capabilities further enhance the viewer experience, making it more immersive and engaging.
+
+Maximizing Content Reach with IP
+
+IP technology also offers a more efficient way to distribute live sports content. Unlike traditional methods that operate on a ‘one-size-fits-all’ model, IP allows for hyper-localization of content. This means that media companies can tailor their broadcasts to specific audiences, thereby increasing viewer engagement and opening up new monetization opportunities.
+
+		
+		
+The Road Ahead: Thriving in the IP Era
+
+As we move into an increasingly digital age, media companies that embrace IP technology are better positioned to succeed. They can not only maximize the reach of their high-value sports content but also explore new revenue streams, all while maintaining operational efficiency. In a landscape where every dollar counts, the shift to IP technology offers a sustainable and profitable path forward.
+
+The Financial Upside of IP Technology
+
+The transition to IP technology is not just about keeping up with the times; it’s also about financial prudence. The initial investment in IP infrastructure can be offset by the long-term savings in operational costs. Moreover, the ability to scale content across various platforms allows for a higher return on investment, especially when it comes to high-profile sports content.
+
+By adopting IP technology, media companies can revolutionize their live sports broadcasting capabilities, offering a more engaging viewer experience while also maximizing revenue opportunities. The future is here, and it’s IP-enabled. The media landscape is ripe for disruption, and companies that are quick to adapt will find themselves at the forefront of this exciting new era.
+
+Trusted by various global customers across industries
+
+“We can now consider a far wider array of live broadcasting services, often presented at very short notice, for our overseas territories where difficult connectivity environments had, until now, hindered numerous high-quality broadcast opportunities. Net Insight’s solution reduces our operational costs significantly, while at the same time enabling us to maximize our service availability and reach to our overseas territories.”
+
+Pascal Gerard,
+French overseas territories, at France Télévisions
+
+		
+
+“We offered our IP/MPLS media transport solution to the world’s most demanding TV companies, for their contribution feeds and it has performed extremely well. Going forward, we see multiple possibilities to expand our service offering based on the advanced VA platform. In addition, the strong QoS functionalities combined with the advanced monitoring capabilities of the Net Insight Nimbra platform ensures that we can offer the highest quality services to our customers.”
+
+Magdalena Domagalik,
+Business Development Manager Media Services, KPN
+
+		
+
+“For us, carrier grade really means something, and we would never use the Globecast brand on a solution if we didn’t believe it fulfilled our strict quality requirements.”
+
+Benoit Leonble,
+Product Manager, International Terrestrial  Solutions at Globecast
+
+Want to know more about us?
+
+Get started today.
+		
+GET IN TOUCH
+	
+Share this entry
+	
+	
+	
+	
+	
+	
+	
+	
+About the Author
+Christer Bohm
+
+Vice President Product Management
+
+NEWSLETTER
+
+What’s new at Net Insight
+
+Get the latest news about producing, managing and delivering the future of live sport & events.
+
+Email*
+About us
+Support
+Partners
+Careers
+Contact us
+White papers
+Case studies
+Blogs
+Videos
+Webinars
+Data sheets
+Events
+
+Sweden
+
+BOX 1200, 171 23 SOLNA
+
++46 8 685 04 00
+
+info@netinsight.net
+
+United States
+
+Singapore
+
+Net Insight’s Statement on Cookies and Privacy
+
+Copyright © Net Insight 2024
+ 
+ 
+ ----- 
+ Source link : https://netinsight.net/ip-technology-and-the-evolution-of-live-sports-broadcasting/ 
+ ----- 

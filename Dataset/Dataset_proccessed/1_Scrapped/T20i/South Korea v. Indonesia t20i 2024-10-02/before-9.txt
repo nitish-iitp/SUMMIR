@@ -1,0 +1,385 @@
+Skip to main content
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Games
+Join now
+Sign in
+Pranav Mishra
+New Delhi, Delhi, India  Contact Info
+28K followers  500+ connections
+  
+See your mutual connections
+Join to view profile
+Message
+LTIMindtree
+Liverpool John Moores University
+About
+° Financial Fraud, Anomaly Detection, Risk Scoring for Ministry of Finance, Central… see more
+Contributions
+You're advancing AI innovation. How can you protect user data privacy?
+
+Data Minimization and Anonymization: Collects only essential data for AI tasks and removes identifiers, reducing privacy risks. Data Retention Policies: Stores data only for as long as necessary and securely deletes it afterward to prevent misuse. Transparency and Consent: Clearly informs users about data usage and allows them to opt in or out, fostering trust. Regular Audits and Compliance: Conducts frequent checks to align with data privacy laws (e.g., GDPR, CCPA), ensuring up-to-date and secure practices. Together, these strategies balance AI advancement with rigorous privacy protection, reinforcing user trust and data security.
+
+Pranav Mishra contributed 2 months ago
+Upvote
+You're facing pushback from developers on database changes. How will you navigate their reluctance?
+
+As a data scientist, handling resistance from developers regarding database modifications requires a collaborative and empathetic approach. First, I actively listen to their concerns—whether they stem from fears of increased technical debt, potential system downtime, or added complexity. Involving developers early in the planning process is essential. By soliciting their input and addressing their technical expertise, we can co-develop solutions that minimize risks and ensure alignment with broader system architecture goals. Ultimately, aligning our goals around long-term system health and improved data capabilities helps bridge the gap and builds trust between data science and development teams.
+
+Pranav Mishra contributed 3 months ago
+Upvote
+Here's how you can efficiently track time and manage projects in computer science.
+
+As a data scientist, adopting Agile methodology offers a structured yet flexible approach to managing complex data projects. Agile’s iterative process aligns well with the exploratory nature of data science, where models often require frequent refinement. Breaking work into sprints allows for continuous testing, validation, and feedback, ensuring models remain accurate and relevant to evolving business needs. Agile promotes collaboration between cross-functional teams, fostering better communication with stakeholders and ensuring data insights are actionable. Additionally, it supports quick pivots in response to new data or findings, improving the overall quality and agility of data-driven solutions.
+
+Pranav Mishra contributed 3 months ago
+Upvote
+Which data science tools offer the most advanced predictive modeling capabilities?
+
+Spreadsheets play a significant role in new target identification in financial crime monitoring, thanks to their built-in functions and add-ons for predictive modeling. While not as advanced as specialized software, spreadsheets are excellent for quick data analysis and forecasting with smaller datasets. Their familiar interface and ease of use make them accessible to professionals without deep data science expertise. By using spreadsheets, analysts can swiftly identify patterns and anomalies in financial data that may indicate fraudulent activities. This accessibility and efficiency enable faster detection of new targets for investigation, enhancing the ability to monitor and prevent financial crimes.
+
+Pranav Mishra contributed 7 months ago
+Upvote
+Show more 
+Activity
+Follow
+What a transition from 2024 to 2025, I am very much excited to share I’m officially #GoogleCloudCertified! Ready to put my skills to use as a…
+What a transition from 2024 to 2025, I am very much excited to share I’m officially #GoogleCloudCertified! Ready to put my skills to use as a…
+Liked by Pranav Mishra
+Happy New Year, folks! As we step into the year of AI Agents, what resources have you found most helpful to learn more about them? From my…
+Happy New Year, folks! As we step into the year of AI Agents, what resources have you found most helpful to learn more about them? From my…
+Liked by Pranav Mishra
+I’m happy to share that I’ve obtained a new certification: VantageCloud Lake Associate 2.0 from Teradata!
+I’m happy to share that I’ve obtained a new certification: VantageCloud Lake Associate 2.0 from Teradata!
+Liked by Pranav Mishra
+Join now to see all activity
+Experience & Education
+LTIMindtree
+
+**** ********* **********
+
+*** *****
+
+** ********
+
+****** ******** *******
+
+****** ******** ****** ********
+
+********* **** ****** **********
+
+****** ** ******* - ** ********** ************ *
+
+2021 - 2022
+
+************* ********* ** *********** ********** *********
+
+**** ******** ******* ********** ************ *** ******* ******** *.**/*
+
+2020 - 2021
+
+View Pranav’s full experience
+See their title, tenure and more.
+Sign in
+
+or
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+
+Licenses & Certifications
+Neo4j Certified Professional
+Neo4j
+Issued Sep 2024
+Credential ID 9df4b04d-e62b-4fd6-855e-e12a15942ece
+See credential 
+Build and Deploy Machine Learning Solutions On Vertex AI
+Google Cloud Skills Boost
+Issued Oct 2022
+Credential ID 2728913
+See credential 
+Google Data Analytics Certificate
+Coursera
+Issued Apr 2021
+Credential ID JG55T9K9CNHT
+See credential 
+Oil and Gas Informatics Specialist
+IBM
+Issued May 2015
+See credential 
+Microsoft Certified: Azure Fundamentals
+Microsoft
+Issued Apr 2022  Expires Apr 2024
+Credential ID 990908299
+See credential 
+Microsoft Certified: Azure AI Engineer Associate
+Microsoft
+Issued Jun 2021  Expires Jun 2023
+See credential 
+Volunteer Experience
+English Instructor
+Make A Difference
+
+Sep 2012 - May 2014 1 year 9 months
+
+Children
+
+Teaching kids near pondha and bidholi villages Dehradun
+
+Publications
+"Shale gas and its impact on future politics"
+Naftonomics festival at University of petroleum and energy studies (UPES), Dehradun  April 1, 2013
+
+Talked about shale gas,it's exploration, refinement and how it can replace the conventional oil and gas exploration. Impact of shale gas exploration on global politics
+
+Projects
+Gesture Recognition
+Jun 2021 - Aug 2021
+
+Problem Statement: Working as a data scientist at a home electronics company which manufactures state of the art smart televisions. Develop a cool feature in the smart-TV that can recognize five different gestures performed by the user which will help users control the TV without using a remote.
+The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
+• Thumbs up: Increase the volume
+• Thumbs down: Decrease the volume
+•…
+Show more 
+
+GDP Analysis of India
+Apr 2021 - Jun 2021
+
+Problem Statement: Working as a data scientist on a project wherein the NITI Aayog will provide top-level recommendations to the Chief Ministers (CMs) of various states, which will help them prioritize areas of development for their respective states. Since different states are in different phases of development, the recommendations should be specific to the states.
+The overall goal of this project is to help the CMs focus on areas that will foster economic development for their respective…
+Show more 
+
+House Price Prediction
+Feb 2021 - Mar 2021
+
+Problem Statement: Required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market. The company wants to know:
+• Which variables are significant in…
+Show more 
+
+Telecom Churn Classification
+Jan 2021 - Mar 2021
+
+Problem Statement: Analyze customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
+
+Solution:
+1. Preprocess data (converted columns to appropriate formats, handled missing values, etc.)
+2. Conducted appropriate exploratory analysis to extract useful insights (whether directly…
+Show more 
+
+Credit Card Fraud Detection
+Sep 2020 - Nov 2020
+
+Problem Statement: Predict fraudulent credit card transactions with the help of machine learning models. The models are going to be trained using supervised learning. The dataset contains individual transactions of two days and their respective labels, for European customers. This dataset has 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions. It contains only numerical input variables which are the result…
+Show more 
+
+Free parking space detector
+Jul 2019 - Dec 2019
+
+Using OpenCV and Tensorflow to develop a model that keeps update of free parking spaces in real-time
+
+Real Time Facial Features Detection using OpenCV
+Sep 2019 - Sep 2019
+
+Used Facial features detection dataset with Haar classifier to train Neural Network to identify human faces in real time
+
+"New Product Launch in Indian Automobile Industry" under Dr. Rakesh Singh, IGNOU
+Mar 2019 - Aug 2019
+
+Worked to develop a correlation between car features based on SIAM 2018 data
+
+"Geometric Approach for Improving Active Packet Loss Management" under Dr. Piyush Chauhan, Asst. Professor, UPES
+Jan 2014 - Jun 2014
+
+To develop a one-way active measurement tool, it sends fixed-size probes at specified intervals from one host to target host for measuring and analyzing network traffic dynamics between end hosts.
+
+"Image Recognition Using Artificial Neural Networks" under Ravi Tomar, Asst. Professor, UPES
+Jan 2014 - May 2014
+
+Facial Recognition System Using Backtracking Algorithm.
+
+"Virtual Chat Box" Under Pratyush Kumar Deka, Asst. Professor, UPES
+Aug 2013 - Nov 2013
+
+Online chatting application in which more than one users can interact with each other, Developed on PHP
+
+"Oil and Gas Pipeline Monitoring System" under Dr. Jyoti.L Kashyap Asst. Professor, UPES
+Oct 2012 - Feb 2013
+
+The project deals with implementing several strategies to monitor the pipes(using dashboards) and increase the efficiency of these underground gas pipelines.
+
+Honors & Awards
+Runner up at an marketing event
+IGNOU
+December 1, 2018
+
+Spoke on "impact of rising e commerce on local retail markets"
+
+Best employee of the quater
+Company
+June 1, 2016
+Best Speaker at Naftonomics
+Naftonomics committee
+January 1, 2013
+
+Spoke about shale gas and its future potential
+
+Languages
+French
+Limited working proficiency
+English
+Full professional proficiency
+Hindi
+Full professional proficiency
+Recommendations received
+Ravi Prakash
+
+“I have had the pleasure of working alongside Pranav Mishra at LTIMindtree for over two years, and I can confidently say that he is an invaluable asset to any team. Pranav's expertise in Data Science, Machine Learning, and Deep Learning is truly impressive. His ability to analyze data and derive meaningful insights from it is unparalleled, making him a go-to resource for tackling complex challenges. What truly sets Pranav apart is his exceptional communication skills and collaborative nature. He is always approachable and willing to lend a helping hand, fostering an environment of open dialogue and innovation. Pranav seamlessly transitions between being a team player and an individual contributor, adapting to the needs of the project with ease. Beyond his technical prowess, Pranav's dedication to his work and his team is evident in everything he does. He approaches each task with enthusiasm and a keen attention to detail, ensuring that every project he is involved in is executed flawlessly. His positive attitude and proactive approach make him a pleasure to work with, and his contributions have undoubtedly elevated the success of our team. In summary, I wholeheartedly recommend Pranav Mishra for any role that requires expertise in data science, machine learning, and deep learning. His combination of technical proficiency, communication skills, and collaborative spirit make him a standout professional in his field. It has been a privilege to work alongside Pranav, and I have no doubt that he will continue to excel in all his future endeavors.”
+
+Suraj Sharma
+
+“I have had the distinct pleasure of working closely with Pranav Mishra and I am delighted to write a recommendation for him. Pranav is an exceptional professional who brings a unique blend of skills and expertise to any team or project he's involved in. Throughout our time working together, Pranav consistently demonstrated an unparalleled commitment to excellence. His strong grasp of AI and its applications, combined with his analytical thinking and problem-solving abilities, have consistently impressed me. Pranav has a remarkable ability to navigate complex challenges and find innovative solutions that drive tangible results. What truly sets Pranav apart is his collaborative spirit and strong communication skills. He not only excels in his technical domain but also proves to be an outstanding team player. Pranav's willingness to share knowledge, provide guidance, and lend a helping hand has created a positive and productive atmosphere within our team. His positive attitude and approachable demeanor make him not just a colleague, but a valuable asset to any professional network. Pranav's dedication to continued learning and growth is evident in his consistent pursuit of staying updated with the latest developments in the field of AI. His passion for innovation and his commitment to personal and professional development make him a true standout in his field. I wholeheartedly recommend Pranav Mishra to any organization or team seeking a dedicated, innovative, and results-driven professional. His technical prowess, coupled with his interpersonal skills, make him an invaluable asset to any endeavor he chooses to be a part of.”
+
+18 people have recommended Pranav
+
+Join now to view
+More activity by Pranav
+It's been my constant observation that faculty learns a lot while working alongside students. One such story I wish to share at the cusp of change…
+It's been my constant observation that faculty learns a lot while working alongside students. One such story I wish to share at the cusp of change…
+Liked by Pranav Mishra
+📚 Probability for Computer Scientists - Stanford From basics like Combinatorics - all the way Naive Bayes, Bootstrapping, Maximum Likelihood Chris…
+📚 Probability for Computer Scientists - Stanford From basics like Combinatorics - all the way Naive Bayes, Bootstrapping, Maximum Likelihood Chris…
+Liked by Pranav Mishra
+Grep - Fastest Code Search Engine Grep allows developers to quickly search code across over 500k public git repositories. Key Features - Debug…
+Grep - Fastest Code Search Engine Grep allows developers to quickly search code across over 500k public git repositories. Key Features - Debug…
+Liked by Pranav Mishra
+India hosted the EAG plenary week at Indore. It was a landmark event with robust and long lasting outcomes for global fight against financial crime…
+India hosted the EAG plenary week at Indore. It was a landmark event with robust and long lasting outcomes for global fight against financial crime…
+Liked by Pranav Mishra
+SQL a day can keep the rejection away! SQL is the bread and butter for data professionals, and cracking SQL interview rounds can be a game-changer…
+SQL a day can keep the rejection away! SQL is the bread and butter for data professionals, and cracking SQL interview rounds can be a game-changer…
+Liked by Pranav Mishra
+aisuite - Python library to use LLMs aisuite introduced by Andrew Ng makes it easy for developers to use multiple LLM through a standardized…
+aisuite - Python library to use LLMs aisuite introduced by Andrew Ng makes it easy for developers to use multiple LLM through a standardized…
+Liked by Pranav Mishra
+View Pranav’s full profile
+See who you know in common
+Get introduced
+Contact Pranav directly
+Join to view full profile
+Sign in
+
+Stay updated on your professional world
+
+Sign in
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+
+New to LinkedIn? Join now
+
+Other similar profiles
+Alamelu Natesh
+
+Technical Architect
+
+Bengaluru
+Connect
+Navodith Sharma
+
+Data Wrangler| RPO™, RSM™, SQL, R, Python, Power BI | Aftermarket Customer Support 🦾📊
+
+Pune
+Connect
+Prabhu Kumar
+Bengaluru
+Connect
+Dhruvaraj Choukimath
+
+GPU Software development Engineer at Intel Corporation
+
+Bengaluru
+Connect
+Lalit Kumar
+Bengaluru
+Connect
+Ameta Kunal
+
+Institute Rank 5, Director's Merit List || IIM Amritsar MBA'24 || Consultant @ Cognizant || Intern @ICICI Lombard || Former-Executive Engineer DCM Shriram Group || UCE (RTU), Kota
+
+Kota
+Connect
+kunal sonkawade
+
+I am Electrical Engineer having Experience of 14 Years. Looking for job in transmission line and substation projects.
+
+Mumbai
+Connect
+Jatin Chaudhari
+
+Siemens Energy | TU Berlin (Student Representative - 2022-23) 🇩🇪 | SAP MM S4 HANA | Goethe B1| Ex-Infoscian | Renewable Energy Enthusiast
+
+Berlin
+Connect
+Suseendran V
+
+Assistant Manager - Electrical and Instrumentation
+
+Tiruchirappalli
+Connect
+Mukesh Kumar
+
+Lead Data Scientist - Analytics & AI
+
+Hyderabad
+Connect
+Explore collaborative articles
+
+We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.
+
+Explore More
+Others named Pranav Mishra in India
+Pranav Mishra
+Bangalore Urban
+Pranav Mishra
+Maharashtra, India
+Pranav Mishra
+Noida
+Pranav Mishra
+
+Founding Partner @ MGV | Scaling Portfolio
+
+Delhi, India
+Pranav Mishra
+Bengaluru
+
+623 others named Pranav Mishra in India are on LinkedIn
+
+See others named Pranav Mishra
+LinkedIn
+© 2025
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+View Pranav’s full profile
+Sign in
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+ 
+ 
+ ----- 
+ Source link : https://in.linkedin.com/in/pranavmishra-ai?trk=public_profile_samename-profile 
+ ----- 

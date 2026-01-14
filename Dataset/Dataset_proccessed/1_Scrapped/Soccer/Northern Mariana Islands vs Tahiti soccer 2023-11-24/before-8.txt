@@ -1,0 +1,1136 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+Advanced Marksmanship Unit
+ELR - Beyond 1000 Yards
+Coriolis Effect?
+ 
+Thread starter
+Maggot  
+Start date
+Nov 23, 2023
+1
+	
+2
+Next
+Maggot
+"For we wrestle not against flesh and blood"
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 27, 2007
+26,309
+30,223
+Virginia
+Nov 23, 2023
+#1
+I understand spin drift, in fact saw it. Shooting a 6.5 CM out to a mile, while I couldnt exactly see the bullet, I wculd sort of see its path as it slowed and drifter right in an increasing arc as it ran out of steam/elevation, then the impact in the dirt.. That was pretty wild.
+
+But what is coriolis effect? I've read a bit but dont quite get ti, Keep it simple, the math loses me quickly.
+
+Is it that on a right spinning bullet, energy, or resistance tends to increase on the right side and decrease on the left? If so would that tend to off set a bit of the drift?
+ 
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 23, 2023
+#2
+SD is real and must be accounted for. You can see it quite clearly with long range subsonics or 22lr in the 300-400 yards range.
+CE is fake (and gay). It would be the equivalent of 0.1-0.2 mph wind difference at 1000 yards.
+
+
+Here’s an example of error due to Coriolis effect: firing the same .308 175gr bullet at 2700fps muzzle velocity, from a latitude of 45° in the Northern Hemisphere, the deflection at 1000yds will be of 3in to right. At the North Pole, where the effect is maximum, the deflection will be a little more than four inches. The deflection will be the same in the Southern Hemisphere, but it will be to the left, instead.
+Absolutely retarded and I've shot ELR in the Arctic
+ 
+ 
+Reactions:
+Makinchips208
+R
+Ronin22
+Sergeant of the Hide
+Full Member
+Minuteman
+Aug 19, 2023
+195
+328
+TX
+Nov 23, 2023
+#3
+Maggot said:
+I understand spin drift, in fact saw it. Shooting a 6.5 CM out to a mile, while I couldnt exactly see the bullet, I wculd sort of see its path as it slowed and drifter right in an increasing arc as it ran out of steam/elevation, then the impact in the dirt.. That was pretty wild.
+
+But what is coriolis effect? I've read a bit but dont quite get ti, Keep it simple, the math loses me quickly.
+
+Is it that on a right spinning bullet, energy, or resistance tends to increase on the right side and decrease on the left? If so would that tend to off set a bit of the drift?
+Click to expand...
+As I have come to understand it matters most in artillery fire since the projectile is in the air (for miles) long enough time for the Earth to move underneath it. The Earth spins from West to East. That is why the Sun rises in the East first.
+
+Shoot North and the the bullet will impact left to some degree
+Shoot South and the bullet impacts right to some degree.
+Shoot West & East and the bullet hits high and low to some degree.
+
+"Some degree" is dependent upon the distance it might or might not matter.
+
+Fun fact: If you throw a tennis ball in the air and catch it, it had no lateral movement to the thrower, but the ball's position in space moved 18 miles. So, if you were on Star Trek as a transporter operator you would have to figure this into your calculations to ensure an accurate place & time within the movement of objects in space which some suggest is the velocity from the "Big Bang".
+ 
+ 
+Reactions:
+sritz05, FredHammer, Bandit320 and 1 other person
+Makinchips208
+Major Hide Member
+Full Member
+Minuteman
+Sep 20, 2021
+2,359
+3,617
+Idaho
+Nov 23, 2023
+#4
+Isn’t the coriolis part of the eyeball?
+ 
+ 
+Reactions:
+FredHammer, waveslayer, JoeM and 2 others
+M4orturnate
+Major Hide Member
+Full Member
+Minuteman
+Jun 27, 2021
+1,489
+2,717
+Cleveland Ohio
+Nov 23, 2023
+#5
+Easy. Change your direction of fire in your kestrel due east with a target at 600y or so, take a mil value then change to due west. Its signicant if you're shooting moa sized targets. As far as drift you'll never seperate it from wind. This is also why its important to update your latitude when you travel to a match or hunt.
+ 
+ 
+Reactions:
+Emerson0311 and Rocketvapor
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 23, 2023
+#6
+Ronin22 said:
+As I have come to understand it matters most in artillery fire since the projectile is in the air (for miles) long enough time for the Earth to move underneath it. The Earth spins from West to East. That is why the Sun rises in the East
+Yeah but that’s not what “Coriolis effect” is
+Otherwise you’d have to account for a 1000 mph earth rotation at equator, 700 mph rotation at 45 LAT shooting north which we obviously don’t. A 147gr 6.5 creed at a 1000 yards is roughly 1.5 sec ToF which would result in the target moving east thousands of feet within the time of flight which is demonstrably not what is happening.
+
+When I land a jet on a north facing runway, I don’t line up a few hundred feet left of track to account for the rotation.
+
+There is absolutely no difference between shooting north and shooting east beside the wind component.
+ 
+M4orturnate
+Major Hide Member
+Full Member
+Minuteman
+Jun 27, 2021
+1,489
+2,717
+Cleveland Ohio
+Nov 23, 2023
+#7
+st1650 said:
+Yeah but that’s not what “Coriolis effect” is
+Otherwise you’d have to account for a 1000 mph earth rotation at equator, 700 mph rotation at 45 LAT shooting north which we obviously don’t. A 147gr 6.5 creed at a 1000 yards is roughly 1.5 sec ToF which would result in the target moving east thousands of feet within the time of flight which is demonstrably not what is happening.
+
+When I land a jet on a north facing runway, I don’t line up a few hundred feet left of track to account for the rotation.
+
+There is absolutely no difference between shooting north and shooting east beside the wind component.
+Click to expand...
+There absolutely is. Your ballistic calculator will prove it to you.
+ 
+R
+Ronin22
+Sergeant of the Hide
+Full Member
+Minuteman
+Aug 19, 2023
+195
+328
+TX
+Nov 23, 2023
+#8
+st1650 said:
+Yeah but that’s not what “Coriolis effect” is
+Otherwise you’d have to account for a 1000 mph earth rotation at equator, 700 mph rotation at 45 LAT shooting north which we obviously don’t. A 147gr 6.5 creed at a 1000 yards is roughly 1.5 sec ToF which would result in the target moving east thousands of feet within the time of flight which is demonstrably not what is happening.
+
+When I land a jet on a north facing runway, I don’t line up a few hundred feet left of track to account for the rotation.
+
+There is absolutely no difference between shooting north and shooting east beside the wind component.
+Click to expand...
+You are the guidance system keeping the airborne object in check with course corrections. A bullet or artillery shell has none.
+ 
+ 
+Reactions:
+sritz05
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 23, 2023
+#9
+Ronin22 said:
+You are the guidance system keeping the airborne object in check with course corrections. A bullet or artillery shell has none.
+I am absolutely not course correcting for the motion of the earth at 700 mph at 45 latitude
+
+Jesus Christ people
+
+
+https://ntrs.nasa.gov/api/citations/19890005752/downloads/19890005752.pdf
+ 
+Attachments
+IMG_2896.png
+247 KB · Views: 131
+IMG_2895.png
+386.3 KB · Views: 124
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 23, 2023
+#10
+M4orturnate said:
+There absolutely is. Your ballistic calculator will prove it to you.
+Surely it must be true! There’s a button on my app! Experts agrees !
+
+Meanwhile I’ve actually shoot north of 70 deg of latitude at different azimuths with no accounting of CE.
+ 
+R
+Ronin22
+Sergeant of the Hide
+Full Member
+Minuteman
+Aug 19, 2023
+195
+328
+TX
+Nov 23, 2023
+#11
+st1650 said:
+I am absolutely not course correcting for the motion of the earth at 700 mph at 45 latitude
+
+Jesus Christ people
+
+
+https://ntrs.nasa.gov/api/citations/19890005752/downloads/19890005752.pdf
+So much for "Keep it simple, the math loses me quickly." Request by the OP.
+ 
+ 
+Reactions:
+FredHammer, 375fan and Maggot
+O
+OREGUN
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+Apr 29, 2014
+2,302
+3,887
+Out West
+Nov 23, 2023
+#12
+st1650 said:
+I am absolutely not course correcting for the motion of the earth at 700 mph at 45 latitude
+
+Jesus Christ people
+
+
+https://ntrs.nasa.gov/api/citations/19890005752/downloads/19890005752.pdf
+
+You are a pilot? Maybe an FO for mesa. Maybe.
+
+
+Also, you have a fundamental misunderstanding of coriolis effect.
+ 
+ 
+Reactions:
+tna9001
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Nov 23, 2023
+#13
+Maggot said:
+I understand spin drift, in fact saw it. Shooting a 6.5 CM out to a mile, while I couldnt exactly see the bullet, I wculd sort of see its path as it slowed and drifter right in an increasing arc as it ran out of steam/elevation, then the impact in the dirt.. That was pretty wild.
+
+But what is coriolis effect? I've read a bit but dont quite get ti, Keep it simple, the math loses me quickly.
+
+Is it that on a right spinning bullet, energy, or resistance tends to increase on the right side and decrease on the left? If so would that tend to off set a bit of the drift?
+Click to expand...
+
+The simple way to look at it.......
+
+The equator is the fastest moving part of the earth. The further away from the equator something is, the slower it's moving.
+
+So, if you're shooting north or south, you're essentially shooting at a lateral moving target. So there is a lateral component to adjust for.
+
+If you're shooting east or west, the target is moving towards or away from you. So there is a vertical component to adjust for.
+
+
+
+It's usually fairly inconsequential for shooters.
+ 
+ 
+Reactions:
+Emerson0311 and Maggot
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 23, 2023
+#14
+Rio Precision Gunworks said:
+The simple way to look at it.......
+
+The equator is the fastest moving part of the earth. The further away from the equator something is, the slower it's moving.
+
+So, if you're shooting north or south, you're essentially shooting at a lateral moving target. So there is a lateral component to adjust for.
+
+If you're shooting east or west, the target is moving towards or away from you. So there is a vertical component to adjust for.
+
+
+
+It's usually fairly inconsequential for shooters.
+Click to expand...
+We’re not shooting a 700mph lateral moving target.
+ 
+ 
+Reactions:
+Charger442
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Nov 23, 2023
+#15
+st1650 said:
+We’re not shooting a 700mph lateral moving target.
+
+As stated above, you have a fundamental misunderstanding of Coriolis.
+ 
+ 
+Reactions:
+LastShot300, Emerson0311, Taylorbok and 1 other person
+6
+6.5SH
+Two Star General
+Full Member
+Minuteman
+Jul 24, 2020
+6,133
+10,607
+Nov 23, 2023
+#16
+Misreading the wind and the shooter's influence on the rifle will have a greater influence than any of the earth based effects. Most of this was hashed out recently in another thread.
+
+
+Dope for drift (1k)
+Been honing my long range and discovered today that my zero wasn't 'off'--Damn earth is moving (as is my bullet). Was 0.5 mils right shooting Bearing 270. Did a quick 4DOF and it said 0.3, but also had spin drift at 0.2.--suspiciously that adds up to 0.5 Do I need to add spin drift to my wind...
+ www.snipershide.com
+ 
+ 
+Reactions:
+FredHammer and st1650
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Nov 23, 2023
+#17
+st1650 said:
+We’re not shooting a 700mph lateral moving target.
+
+Here's where a large part of your misunderstanding lies. Here are two locations much further apart than anyone would be shooting.
+
+Notice there is a difference in speed. But not very much. It would be the equivalent to shooting a mover around 1.5mph slower than you are moving if you were in Dallas.
+
+
+This is why you don't really see it show up for most shooters.
+
+
+
+
+
+ 
+Last edited: Nov 23, 2023
+ 
+Reactions:
+LastShot300, Taylorbok and Tokay444
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 23, 2023
+#18
+Rio Precision Gunworks said:
+Here's where a large part of your misunderstanding lies. Here are two locations much further apart than anyone would be shooting.
+
+Notice there is a difference in speed. But not very much. It would be the equivalent to shooting a mover around 1.5mph slower than you are moving if you were in Dallas.
+
+
+This is why you don't really see it show up for most shooters.
+
+
+View attachment 8279898
+
+View attachment 8279899
+Click to expand...
+Go shoot at 45 Lat (700 mph) Then go shoot at 70 Lat (355 mph). As you approach the pole, the error would be more noticeable yet it isn’t.
+There is no accounting for the movement of the earth and the azimuth of the firing.
+Especially considering the fact that the ballistic calculation of the error would be impossible to discern since it would be effectively 0.1-0.2 mph wind error over 1000 yards.
+ 
+ 
+Reactions:
+LastShot300
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Nov 23, 2023
+#19
+st1650 said:
+Go shoot at 45 Lat (700 mph) Then go shoot at 70 Lat (355 mph).
+There is no accounting for the movement of the earth and the azimuth of the firing.
+Especially considering the fact that the ballistic calculation of the error would be impossible to discern since it would be effectively 0.1-0.2 mph wind error over 1000 yards.
+
+Again, just using the example of 45 and 70 shows a huge misunderstanding. If you shoot at 45 Lat and you're moving 700mph, you're going to be shooting at something within a couple miles of 45 Lat. So that target would also be moving very close to 700mph. If you're shooting at 70 Lat, you'll be moving at 355mph and your target will also be moving very close to 355mph.
+
+
+That's why people aren't too concerned with Coriolis as it's too small to discern. The Eotvos part of Coriolis is a bit different. But you'd have to be shooting over long distance and almost most perfectly east or west.
+
+
+
+
+No one is saying that Coriolis is any major amount we need to worry with. But it's absolutely a real thing.
+ 
+ 
+Reactions:
+LastShot300, tna9001, Tokay444 and 2 others
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Nov 23, 2023
+#20
+Now, if you were able to take a shot from 45 Lat at a target at 70 Lat......you'd now have a 345mph difference to account for.
+ 
+ 
+Reactions:
+LastShot300, Tokay444 and Taylorbok
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 23, 2023
+#21
+Rio Precision Gunworks said:
+Again, just using the example of 45 and 70 shows a huge misunderstanding. If you shoot at 45 Lat and you're moving 700mph, you're going to be shooting at something within a couple miles of 45 Lat. So that target would also be moving very close to 700mph. If you're shooting at 70 Lat, you'll be moving at 355mph and your target will also be moving very close to 355mph.
+
+I made my point poorly, I meant to say having shot both at 45 Lat and 70 Lat, ELR distances, there was no accounting of CE even tho it would be more accentuated at 70 Lat than at 45 lat.
+
+Taking your magnetic bearing and accounting for CE on a hunt is absolutely retarded. There’s absolutely no hunting scenario that justifies accounting for your latitude and mag bearing.
+
+I do certainly agree that with you that it is negligible certainly compared to other factors, for example shooting a 6.5 creed at a mile. You’ll have to account for roughly 33m drop. The wind at that peak elevation (33m) will be different than the shooter elevation. That alone will factor more into a firing solution than any earth based effects.
+ 
+ 
+Reactions:
+Rio Precision Gunworks
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Nov 23, 2023
+#22
+st1650 said:
+I made my point poorly, I meant to say having shot both at 45 Lat and 70 Lat, ELR distances, there was no accounting of CE even tho it would be more accentuated at 70 Lat than at 45 lat.
+
+Taking your magnetic bearing and accounting for CE on a hunt is absolutely retarded. There’s absolutely no hunting scenario that justifies accounting for your latitude and mag bearing.
+
+I do certainly agree that with you that it is negligible certainly compared to other factors, for example shooting a 6.5 creed at a mile. You’ll have to account for roughly 33m drop. The wind at that peak elevation (33m) will be different than the shooter elevation. That alone will factor more into a firing solution than any earth based effects.
+Click to expand...
+
+I don't disagree at all. I was just focusing in on the "CE is Fake" statement. If that was more to make a point that it doesn't matter much and not a literal statement, my apologies.
+ 
+ 
+Reactions:
+Taylorbok
+CoryT
+Gunsite Rangemaster
+Commercial Supporter
+Full Member
+Minuteman
+Mar 5, 2004
+2,362
+1,724
+67
+Paulden, AZ
+www.gunsite.com
+Nov 23, 2023
+#23
+At ELR ranges, Coriolis has an effect that is significant and has to be accounted for in some fashion, just as spin drift. The way I describe it in class is this: When the value of SD and CE exceed .1 to .2 mil, it's worth fixing. If you were .3 mil right when zeroing at 100, would you just hold a bit left, or would you dial the correction so you could just hold center? Dialing on the SD and CE value from the computer just puts the gun on zero, now you are just calling wind. So, when you observe conditions downrange, there's no difference between a L-R wind and a R-L wind.
+
+Those who suggest that no correction is required are wrong, it's a physical effect, just like gravity. Just because you did not dial it does not mean you left it uncorrected, you just built it in to your wind call. If you've been doing that way long enough, and then you dial on a correction, you are off target and complain about the computer.
+
+This is mainly a problem for people who are really just learning how to work a wind call at 1500+. You see a physical effect of wind, decide on a speed and direction, than shoot and correct. Now what you don't get is that you need to internally change the call depending on wind direction. 10mph L-R needs a different hold than the SAME VALUE and EFFECTS as R-L. This complicates the learning process.
+ 
+ 
+Reactions:
+LastShot300, tna9001, timintx and 1 other person
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 23, 2023
+#24
+Rio Precision Gunworks said:
+No one is saying that Coriolis is any major amount we need to worry with. But it's absolutely a real thing.
+So is the moon gravitational pull, I’m sure it has some kind of effects on a firing solution but it would be so negligible.
+ 
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Nov 23, 2023
+#25
+st1650 said:
+I made my point poorly, I meant to say having shot both at 45 Lat and 70 Lat, ELR distances, there was no accounting of CE even tho it would be more accentuated at 70 Lat than at 45 lat.
+
+Taking your magnetic bearing and accounting for CE on a hunt is absolutely retarded. There’s absolutely no hunting scenario that justifies accounting for your latitude and mag bearing.
+
+I do certainly agree that with you that it is negligible certainly compared to other factors, for example shooting a 6.5 creed at a mile. You’ll have to account for roughly 33m drop. The wind at that peak elevation (33m) will be different than the shooter elevation. That alone will factor more into a firing solution than any earth based effects.
+Click to expand...
+
+Though I have a question. Why do you think there would be a difference in the effect of 70 and 45 lat?
+
+There would be no difference in the calculation of either latitude. You'd just be taking the speed of your location vs the speed of the target location.
+
+Coriolis is relative to the position of the rifle and the target.
+ 
+ 
+Reactions:
+LastShot300 and Taylorbok
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 23, 2023
+#26
+Rio Precision Gunworks said:
+Though I have a question. Why do you think there would be a difference in the effect of 70 and 45 lat?
+
+There would be no difference in the calculation of either latitude. You'd just be taking the speed of your location vs the speed of the target location.
+
+Coriolis is relative to the position of the rifle and the target.
+Click to expand...
+If you were shooting West/East, I believe that at 70 Lat the CE would be more compared the 45 lat. You can check with your ballistic calculator.
+If you were shooting north, it would be the same (I believe)
+ 
+M4orturnate
+Major Hide Member
+Full Member
+Minuteman
+Jun 27, 2021
+1,489
+2,717
+Cleveland Ohio
+Nov 24, 2023
+#27
+st1650 said:
+Surely it must be true! There’s a button on my app! Experts agrees !
+
+Meanwhile I’ve actually shoot north of 70 deg of latitude at different azimuths with no accounting of CE.
+Anyone can hit huge targets without changing anything. Shoot 10" at 1k in multiple dof without accounting for it. Or better yet travel to a different part of the country and get a first round hit. Good luck
+ 
+ 
+Reactions:
+Ronin22
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 24, 2023
+#28
+M4orturnate said:
+Anyone can hit huge targets without changing anything. Shoot 10" at 1k in multiple dof without accounting for it. Or better yet travel to a different part of the country and get a first round hit. Good luck
+If you can account for 0.1 mph wind error then you’re a much better shooter than I am or have access to a really nice wind tunnel.
+ 
+M4orturnate
+Major Hide Member
+Full Member
+Minuteman
+Jun 27, 2021
+1,489
+2,717
+Cleveland Ohio
+Nov 24, 2023
+#29
+st1650 said:
+If you can account for 0.1 mph wind error then you’re a much better shooter than I am or have access to a really nice wind tunnel.
+I mentioned nothing about windage. Due east or west will result in a elevation change. I agree that north/south any result will be lost in the wind.
+ 
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,303
+2,469
+38
+Nov 24, 2023
+#30
+M4orturnate said:
+I mentioned nothing about windage. Due east or west will result in a elevation change. I agree that north/south any result will be lost in the wind.
+It will still get lost in the SD/ES, bullet variance, aerodynamic lift, etc
+ 
+Taylorbok
+Private
+Supporter
+Full Member
+Minuteman
+Nov 16, 2017
+1,850
+1,532
+Sask, Canada
+Nov 24, 2023
+#31
+st1650 said:
+It will still get lost in the SD/ES, bullet variance, aerodynamic lift, etc
+I think the majority of us agree that at any distance we are currently shooting the Coriolis is so minute that we don't account for it because it's likely lost due to other variables but to say it doesn't exist is ignorant. (not to mention that's not the song you were singing when this thread started)
+ 
+ 
+Reactions:
+FredHammer, Laseredge and Baron23
+M4orturnate
+Major Hide Member
+Full Member
+Minuteman
+Jun 27, 2021
+1,489
+2,717
+Cleveland Ohio
+Nov 24, 2023
+#32
+st1650 said:
+It will still get lost in the SD/ES, bullet variance, aerodynamic lift, etc
+Not really. .2 at 600 is a clean miss on a lot of targets we shoot at. My stuffs trued to less then a tenth of waterline out to 1260 and holds water line all over this side if the country. Maybe when i get out west this year ill see if it changes but i doubt it. You dont have to believe it but its there and able to be accounted for in any decent solution. Aj is also accounted for if you input the correct bullet length and wind direction. The only place i ever see elevation issues is Geissele's range and the wind there does crazy shit not typical for the east coast
+ 
+M4orturnate
+Major Hide Member
+Full Member
+Minuteman
+Jun 27, 2021
+1,489
+2,717
+Cleveland Ohio
+Nov 24, 2023
+#33
+Using Geisselle's range as another example. The range faces east. Theres almost always a stage where we shoot two targets the same distance. One on the farthest north corner and one on the farthest south corner. If you hold your kestrel at each for direction of fire youl get almost a .2 difference and that only 475y. Now we typically just dial to the middle and its enough to hit both because the targets are .4 tall but if they where any smaller youd have to account for it. It just comes down to how precise you want to be and we have the ability now to be pretty damn precise without a lot of extra work.
+ 
+ 
+Reactions:
+Clearlight and Emerson0311
+O
+OREGUN
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+Apr 29, 2014
+2,302
+3,887
+Out West
+Nov 24, 2023
+#34
+M4orturnate said:
+Using Geisselle's range as another example. The range faces east. Theres almost always a stage where we shoot two targets the same distance. One on the farthest north corner and one on the farthest south corner. If you hold your kestrel at each for direction of fire youl get almost a .2 difference and that only 475y. Now we typically just dial to the middle and its enough to hit both because the targets are .4 tall but if they where any smaller youd have to account for it. It just comes down to how precise you want to be and we have the ability now to be pretty damn precise without a lot of extra work.
+Click to expand...
+You lost me here. You shooting at say 45 and 135 degrees? Getting .2 elevation difference? That’s more than I would have expected. Now I gotta go get my kestrel out.
+ 
+M4orturnate
+Major Hide Member
+Full Member
+Minuteman
+Jun 27, 2021
+1,489
+2,717
+Cleveland Ohio
+Nov 24, 2023
+#35
+OREGUN said:
+You lost me here. You shooting at say 45 and 135 degrees? Getting .2 elevation difference? That’s more than I would have expected. Now I gotta go get my kestrel out.
+Im speaking from memory. It might have been a round up round down scenario but it was over a tenth. At a relatively short distance( might have been 500y but i dont think so)
+ 
+ 
+Reactions:
+OREGUN
+N
+NightStash
+Private
+Full Member
+Minuteman
+Feb 16, 2017
+138
+184
+Nov 24, 2023
+#36
+With our longest impact this year at 4227 yards it was enabled in our app which accounted for .4 Mil of windage. 1mph wind is also .4-.5 so who knows because no one knows the true wind with a 10 second flight time anyways 
+ 
+ 
+Reactions:
+Beefmanne, Taylorbok, Baron23 and 1 other person
+Emerson0311
+Old Salt
+Full Member
+Minuteman
+Feb 17, 2018
+3,115
+5,812
+Dawson Creek BC
+Nov 24, 2023
+#37
+M4orturnate said:
+Using Geisselle's range as another example. The range faces east. Theres almost always a stage where we shoot two targets the same distance. One on the farthest north corner and one on the farthest south corner. If you hold your kestrel at each for direction of fire youl get almost a .2 difference and that only 475y. Now we typically just dial to the middle and its enough to hit both because the targets are .4 tall but if they where any smaller youd have to account for it. It just comes down to how precise you want to be and we have the ability now to be pretty damn precise without a lot of extra work.
+Click to expand...
+Anything that can be calculated clearly by the rocket scientists building a ballistic calculator helps a bit. If a shooter only uses dope and paper, that’s a different game. My guess is that very few podium shooters do not use a calculator these days.
+ 
+ 
+Reactions:
+M4orturnate
+O
+OREGUN
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+Apr 29, 2014
+2,302
+3,887
+Out West
+Nov 24, 2023
+#38
+Emerson0311 said:
+Anything that can be calculated clearly by the rocket scientists building a ballistic calculator helps a bit. If a shooter only uses dope and paper, that’s a different game. My guess is that very few podium shooters do not use a calculator these days.
+I leave “earth effects” on and enter direction of fire for all my shooting for this reason, essentially. If it’s measurable, and the kestrel engineers put it in there, I want it to figure in my solution. Does Coriolis effect really matter on any normal size target and range? I don’t think so. But if it causes me to round up when otherwise I might’ve rounded down and it keeps me on the plate, I’ll take it.
+ 
+ 
+Reactions:
+Maggot, Taylorbok and Emerson0311
+Namekagon
+Oracle of the Hide
+Full Member
+Minuteman
+Mar 22, 2018
+949
+1,954
+Wausau, WI
+Nov 24, 2023
+#39
+Serious question….If air is essentially fluid-like around the bullet as it flies, and the air near the crust of the earth is moving with the Earth, doesn’t the bullet have to move WITH the air? Which would essentially negate Coriolis effect?
+
+I can see where this might not be true if you launch projectiles way up into the atmosphere. But not for small arms.
+ 
+O
+OREGUN
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+Apr 29, 2014
+2,302
+3,887
+Out West
+Nov 24, 2023
+#40
+Namekagon said:
+Serious question….If air is essentially fluid-like around the bullet as it flies, and the air near the crust of the earth is moving with the Earth, doesn’t the bullet have to move WITH the air? Which would essentially negate Coriolis effect?
+
+I can see where this might not be true if you launch projectiles way up into the atmosphere. But not for small arms.
+Yes, the bullet is still moving along with the ground. If you toss a ball in the air, it is still rotating with the earth. The coriolis effect is relative to a change in latitude since the angular momentum is conserved...the smaller diameter latitude has to spin one revolution in the same time as the larger diameter latitude. What you are talking about is essentially inertia…the bullet is still moving at the speed of the surface where it disconnected from the ground (not exactly, but close enough) But the observed track (coriolis) is tilted in accordance with the change in “speed” between the different latitudes.
+ 
+ 
+Reactions:
+Maggot and Taylorbok
+Jefe's Dope
+Red Forman
+Full Member
+Minuteman
+ 
+ 
+Dec 20, 2017
+27,312
+285,009
+Nov 25, 2023
+#41
+Namekagon said:
+Serious question….If air is essentially fluid-like around the bullet as it flies, and the air near the crust of the earth is moving with the Earth, doesn’t the bullet have to move WITH the air? Which would essentially negate Coriolis effect?
+
+I can see where this might not be true if you launch projectiles way up into the atmosphere. But not for small arms.
+Just like holding a ball while driving 65 mph in a car. If you drop the ball, it falls directly straight down as the ball is also moving at 65 mph inside the car.
+ 
+Baron23
+Check 6
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+ 
+Mar 19, 2020
+7,548
+9,843
+72
+Maryland
+Nov 25, 2023
+#42
+OREGUN said:
+Yes, the bullet is still moving along with the ground. If you toss a ball in the air, it is still rotating with the earth. The coriolis effect is relative to a change in latitude since the angular momentum is conserved...the smaller diameter latitude has to spin one revolution in the same time as the larger diameter latitude. What you are talking about is essentially inertia…the bullet is still moving at the speed of the surface where it disconnected from the ground (not exactly, but close enough) But the observed track (coriolis) is tilted in accordance with the change in “speed” between the different latitudes.
+Click to expand...
+Thank you....I was waiting for someone to address this properly...particularly when 700+ MPH was thrown out above.
+
+Relativity....its a bitch! haha
+ 
+ 
+Reactions:
+Taylorbok
+B
+bulletbluesky
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 2, 2023
+210
+141
+Croatia
+Nov 25, 2023
+#43
+Yeah Clint, you would certainly notice few inches left or right influence at 1500 yards
+ 
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,304
+4,384
+Texas
+Nov 25, 2023
+#44
+st1650 said:
+If you were shooting West/East, I believe that at 70 Lat the CE would be more compared the 45 lat. You can check with your ballistic calculator.
+If you were shooting north, it would be the same (I believe)
+
+Ah, yes. I'm mainly speaking of Coriolis and not Eotvos. Though Eotvos is generally lumped in the same.
+ 
+FredHammer
+FAFOIST
+Full Member
+Minuteman
+ 
+Mar 23, 2006
+3,084
+3,352
+CONUS
+Nov 25, 2023
+#45
+@Maggot - these dudes are going high & right on the why things work. I have more fun as a shooter just sticking with the how to do something. For ELR I use 4DOF and make sure I push the right buttons and have the correct station pressure. Fucking up the station pressure value will far exceed the impact difference than anything else I've seen me fuck up. 
+ 
+D
+DocRDS
+Head Maffs Monkey
+Full Member
+Minuteman
+Feb 21, 2012
+3,826
+7,143
+The Great Beyond
+Nov 25, 2023
+#46
+Maggot said:
+I understand spin drift, in fact saw it. Shooting a 6.5 CM out to a mile, while I couldnt exactly see the bullet, I wculd sort of see its path as it slowed and drifter right in an increasing arc as it ran out of steam/elevation, then the impact in the dirt.. That was pretty wild.
+
+But what is coriolis effect? I've read a bit but dont quite get ti, Keep it simple, the math loses me quickly.
+
+Is it that on a right spinning bullet, energy, or resistance tends to increase on the right side and decrease on the left? If so would that tend to off set a bit of the drift?
+Click to expand...
+Coriolis effect is the effect of the earths spin or more appropriately, us spinning on the earth.
+
+In very simple terms when you shoot, you are not stationary. You are moving with the earth. Your target is also moving with the earth. Depending on where the target is, you have different speeds and possibly even directions (its very slight). At the eqauter you are moving 1000 mph (roughly). At the poles its <5mph.
+
+For example: If you were shooting from a train to another train going exactly the same speed, there would be no correction to your shot. You are moving at 100 mph, your target is moving at 100 mph (for example).
+
+But the earth is a globe, so we aren't all traveling the same speed. So the analogy is your train is going 100 mph, and the other train is going 99mph. At longer distance, you need to account for that speed difference. (even if you accounted for the 100 mph wind!)
+
+The next level is the trains aren't on parallel tracks. Imagine the target train (and your train) slowly moving away or towards or up and down hills.
+
+That's Coriolis effectt. Because you and the target or rotating, you need to account for where the target is going to "be" when your bullet arrives. If you are shooting "North" (in the Northern Hemisphere) YOU are moving Faster than the target by a very small amount. If you are shooting "South" you are moving slower than the target. If you are shooting west--the target is rising and you are sinking., if east its the reverse. Its a VERY small effect at our typical distances. (roughly an 2-3inches at 1000 yards). Artillery shoots much longer distances, so it becomes much more an issue.
+
+Its a bit more complex, but thats the idea. Coriolis Force is always perpendicular to velocity and axis of rotation. That's why its a little "weird'
+ 
+ 
+Reactions:
+moaorbust, otnot, Taylorbok and 1 other person
+Maggot
+"For we wrestle not against flesh and blood"
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 27, 2007
+26,309
+30,223
+Virginia
+Nov 25, 2023
+#47
+OREGUN said:
+Yes, the bullet is still moving along with the ground. If you toss a ball in the air, it is still rotating with the earth. The coriolis effect is relative to a change in latitude since the angular momentum is conserved...the smaller diameter latitude has to spin one revolution in the same time as the larger diameter latitude. What you are talking about is essentially inertia…the bullet is still moving at the speed of the surface where it disconnected from the ground (not exactly, but close enough) But the observed track (coriolis) is tilted in accordance with the change in “speed” between the different latitudes.
+Click to expand...
+DocRDS said:
+Coriolis effect is the effect of the earths spin or more appropriately, us spinning on the earth.
+
+In very simple terms when you shoot, you are not stationary. You are moving with the earth. Your target is also moving with the earth. Depending on where the target is, you have different speeds and possibly even directions (its very slight). At the eqauter you are moving 1000 mph (roughly). At the poles its <5mph.
+
+For example: If you were shooting from a train to another train going exactly the same speed, there would be no correction to your shot. You are moving at 100 mph, your target is moving at 100 mph (for example).
+
+But the earth is a globe, so we aren't all traveling the same speed. So the analogy is your train is going 100 mph, and the other train is going 99mph. At longer distance, you need to account for that speed difference. (even if you accounted for the 100 mph wind!)
+
+The next level is the trains aren't on parallel tracks. Imagine the target train (and your train) slowly moving away or towards or up and down hills.
+
+That's Coriolis effectt. Because you and the target or rotating, you need to account for where the target is going to "be" when your bullet arrives. If you are shooting "North" (in the Northern Hemisphere) YOU are moving Faster than the target by a very small amount. If you are shooting "South" you are moving slower than the target. If you are shooting west--the target is rising and you are sinking., if east its the reverse. Its a VERY small effect at our typical distances. (roughly an 2-3inches at 1000 yards). Artillery shoots much longer distances, so it becomes much more an issue.
+
+Its a bit more complex, but thats the idea. Coriolis Force is always perpendicular to velocity and axis of rotation. That's why its a little "weird'
+Click to expand...
+Got it, thanks. In our sport it seems minimal, spin drift more critical. I understand how gravity and velocity affect things, anything else?
+ 
+ 
+Reactions:
+Taylorbok
+sirhrmechanic
+Command Sgt. Major
+Full Member
+Minuteman
+Feb 23, 2010
+37,231
+144,650
+The Snobbiest Town in The Snobbiest State in the N
+Nov 26, 2023
+#48
+Coriolis for Artillery
+Artillery projectiles travel a long distance and spend a considerable amount of time in the air. The longer a projectile is in the air, and the farther it travels, the more Coriolis affects it. For…
+ mctoon.net
+
+The Army and Navy spent a lot of time researching it.
+
+Doesn’t matter much for Small arms. But when you are trying to shell Paris from 75 miles out…. It matters.
+
+Sirhr
+ 
+ 
+Reactions:
+Clearlight, LastShot300, TheOtherAndrew and 1 other person
+L
+longshooter
+Private
+Full Member
+Minuteman
+Nov 23, 2009
+190
+98
+MI, USA
+Dec 15, 2023
+#49
+Become a Flat Earther, and this argument will evaporate.
+ 
+ 
+Reactions:
+Makinchips208 and st1650
+Makinchips208
+Major Hide Member
+Full Member
+Minuteman
+Sep 20, 2021
+2,359
+3,617
+Idaho
+Dec 16, 2023
+#50
+longshooter said:
+Become a Flat Earther, and this argument will evaporate.
+Look up google earth for Antarctica. It will help you swallow the flat earther idea.
+ 
+ 
+Reactions:
+st1650
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+J
+	
+Rifling Twist-Rate Effect on Chamber Pressure
+Jim Boatright Jan 24, 2022 ELR - Beyond 1000 Yards
+51
+Mar 1, 2022
+	
+Advanced Marksmanship Tale of Two Shooters
+Lowlight Aug 1, 2022 Practical Marksmanship Questions
+6
+Mar 27, 2023
+	
+Interesting read on the effects of the internet and social media on the mind and emotions.
+Maggot Sep 28, 2023 The Bear Pit
+8
+Aug 18, 2024
+	
+Rifle Scopes Steiner T6Xi 3-18x56 Review and comparison with NF ATACR 4-16x42, S&B US 3-20x50 and March 4.5-28x52
+Glassaholic Mar 3, 2024 Observation & Sighting Devices
+129
+Oct 5, 2024
+	
+.277 Fury 16.5” shorty bolt report
+ElvisUSMC Sep 16, 2023 Bolt Action Rifles
+45
+Oct 11, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+Advanced Marksmanship Unit
+ELR - Beyond 1000 Yards
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/coriolis-effect.7196669/ 
+ ----- 

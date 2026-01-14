@@ -1,0 +1,810 @@
+Football
+Hockey
+Basketball
+Tennis
+Cricket
+Settings
+Home
+Live
+Favourites
+England
+Champions League
+Champions League 23/24
+Spain
+Italy
+Germany
+France
+Netherlands
+Scotland
+Turkiye
+Europa League
+Europa Conference League 23/24
+Euro 2024 Qualification
+Euro 2024
+UEFA Nations League
+International
+World Cup Qualification
+Africa Cup of Nations 2023
+UEFA Women's CL
+UEFA Nations League Women
+Copa Libertadores
+Copa Sudamericana
+Africa Cup of Nations Qualification
+African Nat. Champ.
+Club Friendlies
+Women's World Cup
+International Friendlies
+Women's World Cup Qualification
+Women's Euro
+Women's World Cup U20
+World Cup U20
+Women's World Youth Cup
+World Youth Cup
+Women's Euro U19
+Women's Euro U17
+Women's World Cup U17
+World Cup U17
+UEFA Youth League
+Euro U21 2025
+Euro U21
+Euro U19
+Euro U19 Qualification
+Euro U17
+CONCACAF Nat. League
+CONCACAF Championship U20
+Copa America
+AFC Asian Cup
+AFC Women's Club Championship
+CONCACAF Gold Cup
+Africa
+Asia
+CONCACAF
+Oceania
+South America
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Mali
+Malta
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Romania
+Rwanda
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+USA
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
+World Cup 2022
+Champions League 22/23
+Champions League 21/22
+Champions League 20/21
+Champions League 19/20
+Europa League 22/23
+Europa League 21/22
+Europa League 20/21
+Europa League 19/20
+Europa Conference League 22/23
+Europa Conference League 21/22
+Africa Cup of Nations 2021
+Euro 2020
+UEFA Women's CL 22/23
+Women's CAF Champions League
+CONCACAF Women Gold Cup
+UEFA Nations League 22/23
+Paris 2024 Women
+Europa League 23/24
+The Games - Men
+The Games - Women
+Conference League
+CONCACAF Women Champions Cup
+World Cup 2026
+DEC 27
+DEC 28
+DEC 29
+TODAY
+DEC 31
+JAN 1
+JAN 2
+EURO 2024 QUALIFICATION - LEAGUE A: EURO 2024 PLAY-OFF
+MARCH 21
+FT
+Poland
+5 - 1
+Estonia
+FT
+Wales
+4 - 1
+Finland
+EURO 2024 QUALIFICATION - LEAGUE B: EURO 2024 PLAY-OFF
+MARCH 21
+FT
+Bosnia and Herzegovina
+1 - 2
+Ukraine
+FT
+Israel
+1 - 4
+Iceland
+EURO 2024 QUALIFICATION - LEAGUE C: EURO 2024 PLAY-OFF
+MARCH 21
+FT
+Georgia
+2 - 0
+Luxembourg
+FT
+Greece
+5 - 0
+Kazakhstan
+UEFA NATIONS LEAGUE 22/23 - LEAGUE C: RELEGATION PLAY-OFF
+MARCH 21
+FT
+Gibraltar
+0 - 1
+Lithuania
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP A
+MARCH 21
+FT
+Qatar
+3 - 0
+Kuwait
+FT
+Afghanistan
+0 - 0
+India
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP B
+MARCH 21
+FT
+Japan
+1 - 0
+North Korea
+FT
+Myanmar
+1 - 1
+Syria
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP C
+MARCH 21
+FT
+South Korea
+1 - 1
+Thailand
+FT
+Singapore
+2 - 2
+China
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP D
+MARCH 21
+FT
+Chinese Taipei
+0 - 2
+Kyrgyzstan
+FT
+Oman
+2 - 0
+Malaysia
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP E
+MARCH 21
+FT
+Hong Kong
+0 - 2
+Uzbekistan
+FT
+Iran
+5 - 0
+Turkmenistan
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP F
+MARCH 21
+FT
+Indonesia
+1 - 0
+Vietnam
+FT
+Iraq
+1 - 0
+Philippines
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP G
+MARCH 21
+FT
+Pakistan
+0 - 3
+Jordan
+FT
+Saudi Arabia
+1 - 0
+Tajikistan
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP H
+MARCH 21
+FT
+UAE
+2 - 1
+Yemen
+FT
+Nepal
+0 - 5
+Bahrain
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 2ND ROUND: GROUP I
+MARCH 21
+FT
+Australia
+2 - 0
+Lebanon
+FT
+Palestine
+5 - 0
+Bangladesh
+INTERNATIONAL FRIENDLIES - FRIENDLIES 2024
+MARCH 21
+FT
+Solomon Islands
+0 - 2
+Fiji
+FT
+Ethiopia
+1 - 2
+Lesotho
+FT
+Belarus
+0 - 2
+Montenegro
+FT
+Cyprus
+1 - 1
+Latvia
+FT
+Malta
+2 - 2
+Slovenia
+FT
+Cape Verde
+1 - 0
+Guyana
+FT
+Guinea
+6 - 0
+Vanuatu
+FT
+Portugal
+5 - 2
+Sweden
+FT
+South Africa
+1 - 1
+Andorra
+FT
+Venezuela
+1 - 2
+Italy
+CLUB FRIENDLIES - CLUB FRIENDLIES 2024
+MARCH 21
+FT
+Alianza Lima
+1 - 0
+Blooming
+FT
+Union Berlin
+3 - 1
+Magdeburg
+FT
+1. FC Nuremberg
+0 - 2
+Ingolstadt
+FT
+Borussia M'gladbach
+2 - 0
+Eupen
+FT
+FC Utrecht
+3 - 0
+Helmond Sport
+FT
+Hansa Rostock
+3 - 0
+VfB Lubeck
+FT
+SV Stripfing
+1 - 6
+SV Ried
+FT
+SV Wiesbaden
+3 - 1
+Waldhof Mannheim
+FT
+Werder Bremen
+1 - 3
+Hannover 96
+FT
+FC Heidenheim
+0 - 1
+Karlsruher SC
+Canc.
+VfB Stuttgart
+-
+Elversberg
+FT
+Augsburg
+4 - 1
+Greuther Furth
+FT
+Freiburg
+4 - 1
+St. Gallen
+FT
+Grasshopper
+1 - 2
+Schaffhausen
+FT
+Jahn Regensburg
+1 - 1
+WSG Tirol
+FT
+LASK
+1 - 0
+1860 Munich
+FT
+Rapid Wien
+3 - 0
+First Vienna FC
+FT
+Sturm Graz
+0 - 2
+BW Linz
+FT
+Floridsdorfer AC
+0 - 2
+MFK Vyskov
+FT
+FC Preussen Espelkamp
+1 - 5
+VfL Osnabrück
+FT
+Vaernamo
+2 - 1
+Utsiktens BK
+EURO U21 2025 - QUALIFICATION: GROUP B
+MARCH 21
+FT
+Belgium U21
+3 - 1
+Malta U21
+FT
+Scotland U21
+4 - 1
+Kazakhstan U21
+EURO U21 2025 - QUALIFICATION: GROUP C
+MARCH 21
+FT
+North Macedonia U21
+1 - 0
+Gibraltar U21
+EURO U21 2025 - QUALIFICATION: GROUP D
+MARCH 21
+FT
+Israel U21
+1 - 2
+Poland U21
+EURO U21 2025 - QUALIFICATION: GROUP G
+MARCH 21
+FT
+Portugal U21
+4 - 0
+Faroe Islands U21
+FT
+Andorra U21
+0 - 3
+Croatia U21
+INTERNATIONAL FRIENDLIES - FRIENDLIES U21
+MARCH 21
+FT
+Czechia U21
+3 - 0
+Northern Ireland U21
+FT
+Hungary U21
+2 - 0
+Moldova U21
+FT
+Spain U21
+0 - 2
+Slovakia U21
+FT
+Netherlands U21
+1 - 2
+Norway U21
+INTERNATIONAL FRIENDLIES - FRIENDLIES U20
+MARCH 21
+FT
+Portugal U20
+2 - 2
+Czechia U20
+FT
+Romania U20
+0 - 0
+Italy U20
+FT
+Morocco U20
+1 - 1
+England U19
+ARGENTINA - PRIMERA NACIONAL
+MARCH 21
+FT
+CA Talleres Remedios de Escalada
+0 - 0
+San Martin San Juan
+ARGENTINA - COPA DE LA LIGA PROFESIONAL
+MARCH 21
+FT
+Belgrano
+0 - 1
+Lanus
+FT
+San Lorenzo de Almagro
+1 - 0
+Godoy Cruz
+ARGENTINA - WOMEN'S PRIMERA DIVISION A: APERTUA
+MARCH 21
+Postp.
+CA Independiente W
+-
+Banfield W
+Postp.
+River Plate W
+-
+Ferro Carril Oeste W
+ARGENTINA - COPA DE LA LIGA RESERVES: GROUP A
+MARCH 21
+FT
+Lanus Reserve
+2 - 1
+Talleres De Cordoba Reserve
+FT
+Racing Club Reserve
+2 - 0
+Atletico Tucuman Reserve
+FT
+Rosario Central Reserve
+2 - 3
+Deportivo Riestra Reserve
+FT
+Union Reserve
+1 - 0
+CA Huracan Reserve
+ARGENTINA - COPA DE LA LIGA RESERVES: GROUP B
+MARCH 21
+FT
+Club Atletico Platense Reserve
+1 - 1
+Tigre Reserve
+BRAZIL - COPA DO NORDESTE: GROUP STAGE
+MARCH 21
+FT
+Bahia
+2 - 1
+Vitoria
+FT
+Fortaleza
+0 - 1
+Ceara
+FT
+Sport Recife
+2 - 2
+Nautico
+FT
+AO Itabaiana
+3 - 4
+Maranhao
+FT
+Treze
+0 - 0
+Botafogo PB
+BRAZIL - COPA ALAGOAS: KNOCKOUT STAGE
+MARCH 21
+FT
+Coruripe
+0 - 0
+Penedense
+BRAZIL - BRASILIENSE: PLAY-OFF
+MARCH 21
+FT
+Brasiliense
+1 - 3
+Capital FC
+BRAZIL - CATARINENSE: PLAY-OFF
+MARCH 21
+FT
+Barra FC
+2 - 1
+Criciuma
+BRAZIL - WOMEN'S BRASILEIRO A1
+MARCH 21
+FT
+Botafogo FR RJ W
+0 - 2
+Gremio W
+FT
+SC Corinthians SP W
+4 - 1
+America MG W
+COLOMBIA - COPA COLOMBIA
+MARCH 21
+FT
+Boca Juniors de Cali
+1 - 1
+Santa Fe
+FT
+Atletico Huila
+1 - 1
+Barranquilla FC
+AP
+Union Magdalena
+2 - 1
+Tigres FC
+COSTA RICA - LIGA DE ASCENSO: CLAUSURA: GROUP A
+MARCH 21
+FT
+Antioquia
+3 - 0
+Deportiva Carmelita
+COSTA RICA - LIGA DE ASCENSO: CLAUSURA: GROUP B
+MARCH 21
+FT
+Turrialba
+2 - 0
+CS Uruguay
+ECUADOR - SERIE A: 1ST STAGE
+MARCH 21
+FT
+Aucas
+3 - 4
+El Nacional
+FT
+Tecnico Universitario
+1 - 1
+Independiente del Valle
+ECUADOR - SERIE B
+MARCH 21
+FT
+Guayaquil City
+4 - 0
+San Antonio
+FT
+Gualaceo SC
+0 - 1
+Cuniburo
+EL SALVADOR - PRIMERA DIVISION: CLAUSURA
+MARCH 21
+FT
+Alianza FC
+4 - 0
+Municipal Limeno
+ESTONIA - ESILIIGA B
+MARCH 21
+FT
+Tulevik Viljandi
+0 - 1
+Tammeka U21
+KAZAKHSTAN - KAZAKHSTAN CUP: KNOCKOUT STAGE
+MARCH 21
+FT
+Akademia Ontustyk
+1 - 0
+Irtysh Pavlodar
+NORWAY - NM CUP: QUALIFICATION
+MARCH 21
+FT
+Orkla
+2 - 3
+Melhus
+REPUBLIC OF KOREA - WOMEN'S WK-LEAGUE
+MARCH 21
+FT
+Boeun Sangmu W
+0 - 3
+Seoul City W
+FT
+Changnyeong W
+0 - 1
+Hyundai Steel W
+FT
+Gumi Sportstoto W
+1 - 2
+Gyeongju FC W
+FT
+Hwacheon KSPO W
+1 - 0
+Suwon UDC W
+USA - US OPEN CUP
+MARCH 21
+FT
+Chicago Fire FC II
+6 - 0
+Chicago City SC
+FT
+Chicago House
+0 - 3
+Minnesota United II
+FT
+Folsom
+1 - 2
+Central Valley Fuego
+FT
+Ballard FC
+0 - 1
+Spokane Velocity
+FT
+Irvine Zeta FC
+1 - 0
+MesoAmerica
+FT
+LA Force
+2 - 1
+Redlands
+AP
+Capo
+2 - 2
+Des Moines Menace
+FT
+Steel City
+0 - 1
+Michigan Stars
+FT
+Carolina Core
+3 - 2
+Nova FC
+AET
+Chattanooga Red Wolves SC
+4 - 2
+Brockton FC United
+FT
+Crown Legacy
+0 - 1
+South Carolina United Heat
+FT
+FC Motown 2
+0 - 3
+New York City FC II
+FT
+Vereinigung Erzgebirge
+0 - 2
+Charlotte Independence
+FT
+Western Mass Pioneers
+0 - 4
+Union Omaha
+VENEZUELA - PRIMERA DIVISION: APERTURA
+MARCH 21
+FT
+Deportivo Tachira
+1 - 0
+Monagas SC
+FT
+Zamora FC
+0 - 0
+Academia Puerto Cabello
+Live Scores and fixtures for football on 21 March 2024
+Looking for the livescore today? See live scores and fixtures for football on 21 March 2024.
+LiveScore brings you the latest football fixtures, results and live score information for 21 March 2024. Revisit scores and statistics and look ahead for upcoming fixtures for your favourite sport team. Plus, find out the livescore today, 21 March 2024.
+© 1998-2024 LiveScore Limited
+CareersMobileAdvertiseContactPrivacy NoticeCookie PolicyTerms of UseCorporate
+This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners.For more information see our Cookie Policy
+Manage Preferences Accept Cookies
+ 
+ 
+ ----- 
+ Source link : https://www.livescore.mobi/football/2024-03-21/ 
+ ----- 

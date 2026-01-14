@@ -1,0 +1,40 @@
+We value your privacy
+We and our partners store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised advertising and content, advertising and content measurement, audience research and services development. With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our 1467 partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences or withdraw your consent at any time by returning to this site and clicking the "Privacy" button at the bottom of the webpage.
+Please note that this website/app uses one or more Google services and may gather and store information including but not limited to your visit or usage behaviour. You may click to grant or deny consent to Google and its third-party tags to use your data for below specified purposes in below Google consent section.
+MORE OPTIONS
+AGREE
+	CricClubs
+Home
+Players
+Matches
+Teams
+Statistics
+Series
+League
+ Log in
+Player Batting Records
+Player:	Suryakumar Yadav
+Series:	ICC Cricket World cup 2023
+Start Date:	10/05/2023	
+
+
+No.  	Match Date  	Team  	Against  	Winner  	Batting Position  	Runs  	Balls 	SR  	4's  	6's  	Points  	 
+1	11/19/2023	India	Australia	Australia	7	18	28	64.29	1	0	29	Scorecard
+2	11/15/2023	India	New Zealand	India	6	1	2	50.00	0	0	1	Scorecard
+3	11/12/2023	India	Netherlands	India	6	2*	1	200.00	0	0	2	Scorecard
+4	11/05/2023	India	South Africa	India	6	22	14	157.14	5	0	77	Scorecard
+5	11/02/2023	India	Sri Lanka	India	6	12	9	133.33	2	0	44	Scorecard
+6	10/29/2023	India	England	India	6	49	47	104.26	4	1	105	Scorecard
+7	10/22/2023	India	New Zealand	India	6	2	4	50.00	0	0	2	Scorecard
+
+© Copyright 2025 CricClubs.com. All Rights Reserved.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://cricclubs.com/InternationalScores/playerBattingRecords.do?playerId=1959842&league=1468&clubId=11707 
+ ----- 

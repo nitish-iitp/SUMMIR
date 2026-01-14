@@ -1,0 +1,321 @@
+SL vs SA
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+4th Match, Group D, New York, June 03, 2024, ICC Men's T20 World Cup
+SL
+77
+SA
+(16.2/20 ov, T:78) 80/4
+
+South Africa won by 6 wickets (with 22 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+SL 0.00%
+SA 100%
+SL
+SA
+100%
+50%
+100%
+SL Innings
+SA Innings
+
+Over 17 • SA 80/4
+
+South Africa won by 6 wickets (with 22 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Anrich Nortje
+, SA
+4/7
+CRICINFO'S MVP
+Anrich Nortje
+, SA
+79.05 pts
+Impact List
+Sri Lanka
+South Africa
+Match Flow
+Info
+Sri Lanka  (20 ovs maximum)
+Batting	R	B	4s	6s	SR
+
+Pathum Nissanka 
+	3	8	0	0	37.50
+
+c Klaasen b Baartman
+
+
+Kusal Mendis †
+	19	30	1	0	63.33
+
+c Stubbs b Nortje
+
+
+Kamindu Mendis 
+	11	15	1	0	73.33
+
+c Hendricks b Nortje
+
+
+Wanindu Hasaranga (c)
+	0	2	0	0	0.00
+
+st †de Kock b Maharaj
+
+
+Sadeera Samarawickrama 
+	0	1	0	0	0.00
+
+b Maharaj
+
+
+Charith Asalanka 
+	6	9	0	0	66.66
+
+c Hendricks b Nortje
+
+
+Angelo Mathews 
+	16	16	0	2	100.00
+
+c Baartman b Nortje
+
+
+Dasun Shanaka 
+	9	10	0	1	90.00
+
+b Rabada
+
+
+Maheesh Theekshana 
+	7	16	1	0	43.75
+
+not out
+
+
+Matheesha Pathirana 
+	0	4	0	0	0.00
+
+c Markram b Rabada
+
+
+Nuwan Thushara 
+	0	4	0	0	0.00
+
+run out (Nortje/Jansen)
+
+Extras	6	(lb 3, w 3)
+Total	77	
+19.1 Ov (RR: 4.01)
+
+
+Fall of wickets: 1-13 (Pathum Nissanka, 3.1 ov), 2-31 (Kamindu Mendis, 7.5 ov), 3-32 (Wanindu Hasaranga, 8.2 ov), 4-32 (Sadeera Samarawickrama, 8.3 ov), 5-40 (Kusal Mendis, 9.6 ov), 6-45 (Charith Asalanka, 11.2 ov), 7-68 (Dasun Shanaka, 14.4 ov), 8-70 (Angelo Mathews, 15.4 ov), 9-71 (Matheesha Pathirana, 17.2 ov), 10-77 (Nuwan Thushara, 19.1 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Marco Jansen
+	3.1	0	15	0	4.73	1	0
+
+Kagiso Rabada
+	4	1	21	
+2
+	5.25	1	0
+
+Ottneil Baartman
+	4	1	9	
+1
+	2.25	1	0
+
+Keshav Maharaj
+	4	0	22	
+2
+	5.50	0	0
+
+Anrich Nortje
+	4	0	7	
+4
+	1.75	0	0
+South Africa  (T: 78 runs from 20 ovs)
+Batting	R	B	4s	6s	SR
+
+Quinton de Kock †
+	20	27	0	1	74.07
+
+c & b Hasaranga
+
+
+Reeza Hendricks 
+	4	2	1	0	200.00
+
+c PHKD Mendis b Thushara
+
+
+Aiden Markram (c)
+	12	14	0	1	85.71
+
+c PHKD Mendis b Shanaka
+
+
+Tristan Stubbs 
+	13	28	0	0	46.42
+
+c Asalanka b Hasaranga
+
+
+Heinrich Klaasen 
+	19	22	1	1	86.36
+
+not out
+
+
+David Miller 
+	6	6	1	0	100.00
+
+not out
+
+Extras	6	(lb 3, nb 1, w 2)
+Total	80/4	
+16.2 Ov (RR: 4.89)
+
+
+Did not bat: 
+Marco Jansen, 
+Keshav Maharaj, 
+Kagiso Rabada, 
+Anrich Nortje, 
+Ottneil Baartman 
+
+
+Fall of wickets: 1-10 (Reeza Hendricks, 1.3 ov), 2-23 (Aiden Markram, 4.2 ov), 3-51 (Quinton de Kock, 10.5 ov), 4-58 (Tristan Stubbs, 12.5 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Angelo Mathews
+	3	0	16	0	5.33	1	0
+
+Nuwan Thushara
+	3	0	18	
+1
+	6.00	0	1
+
+Dasun Shanaka
+	3	1	6	
+1
+	2.00	0	0
+
+Matheesha Pathirana
+	3	0	12	0	4.00	1	0
+
+Wanindu Hasaranga
+	3.2	0	22	
+2
+	6.60	0	0
+
+Maheesh Theekshana
+	1	0	3	0	3.00	0	0
+Unlocking the magic of Statsguru
+Match Flow
+Sri Lanka innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 24 runs, 1 wicket)
+Drinks: Sri Lanka - 40/5 in 10.0 overs (KIC Asalanka 3)
+Sri Lanka: 50 runs in 12.5 overs (77 balls), Extras 4
+South Africa innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 27 runs, 2 wickets)
+Over 4.3: Review by Sri Lanka (Bowling), Decision Challenged - Wicket, Umpire - CM Brown, Batter - T Stubbs (Struck down)
+Drinks: South Africa - 47/2 in 10.0 overs (Q de Kock 17, T Stubbs 9)
+South Africa: 50 runs in 10.3 overs (64 balls), Extras 5
+Over 15.6: Review by Sri Lanka (Bowling), Decision Challenged - Wicket, Umpire - RA Kettleborough, Batter - DA Miller (Struck down)
+Match Details
+Nassau County International Cricket Stadium, New York
+
+Toss	Sri Lanka, elected to bat first
+Series	
+ICC Men's T20 World Cup
+
+Season	
+2024
+
+Player Of The Match	
+Anrich Nortje
+
+Match number	
+T20I no. 2635
+
+Match days	3 June 2024 - day (20-over match)
+Umpires	
+Chris Brown
+DRS
+Richard Kettleborough
+DRS
+
+TV Umpire	
+Paul Reiffel
+
+Reserve Umpire	
+Alex Wharf
+
+Match Referee	
+Jeff Crowe
+
+Points	South Africa 2, Sri Lanka 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 873 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/south-africa-vs-sri-lanka-4th-match-group-d-1415704/full-scorecard 
+ ----- 

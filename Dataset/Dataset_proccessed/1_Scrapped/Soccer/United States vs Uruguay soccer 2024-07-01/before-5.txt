@@ -1,0 +1,586 @@
+Products
+Main Menu
+Products
+Network Security
+Main Menu
+Network Security
+Next-Generation Firewall (NGFW)
+Secure SD-WAN
+Security Services
+Network Security Management
+SonicProtect Subscription
+Email Security
+Main Menu
+Email Security
+Hosted Email Security
+On-Prem Email Security
+Networking & Access
+Main Menu
+Networking & Access
+Switches
+Access Points
+Outdoor Access Points
+Zero Trust Access On-Premise (SMA)
+Wireless Network Manager
+Secure Service Edge
+Main Menu
+Secure Service Edge
+Cloud Secure Edge
+Secure Private Access
+Secure Internet Access
+XDR & Managed XDR
+Main Menu
+XDR & Managed XDR
+Managed Security Services
+Managed Endpoint Detection & Response
+Cloud Detection & Response
+Network Detection & Response
+Capture Client
+Capture Advanced Threat Protection (ATP)
+SONICPLATFORM
+
+SonicPlatform is the cybersecurity platform purpose-built for MSPs, making managing complex security environments among multiple tenants easy and streamlined.
+
+Discover More
+ALL PRODUCTS A–Z
+FREE TRIALS
+Solutions
+Main Menu
+Solutions
+Industries
+Main Menu
+Industries
+Distributed Enterprises
+Retail & Hospitality
+K-12 Education
+Higher Education
+State Government
+Local Government
+Federal
+Healthcare
+Financial Services
+Carriers
+Use Cases
+Main Menu
+Use Cases
+Secure SD-Branch
+Network Segmentation
+Zero Trust Security
+Secure SD-WAN
+Office 365 Security
+SaaS Security
+Secure Wi-Fi
+Federal
+
+Protect Federal Agencies and Networks with scalable, purpose-built cybersecurity solutions
+
+Partners
+Main Menu
+Partners
+SonicWall Partners
+Main Menu
+SonicWall Partners
+Partners Overview
+Service Providers
+Find a Partner
+Authorized Distributors
+Technology Partners
+Partner Resources
+Main Menu
+Partner Resources
+Become a Partner
+SonicWall University
+Technical Certification Training
+Partner Portal
+
+Access to deal registration, MDF, sales and marketing tools, training and more
+
+Support
+Main Menu
+Support
+Support
+Main Menu
+Support
+Support Portal
+Knowledge Base
+Technical Documentation
+Cloud Secure Edge Docs
+Community
+Video Tutorials
+Product Life Cycle Tables
+Partner Enabled Services
+Contact Support
+Resources
+Main Menu
+Resources
+Resource Center
+Events
+Free Trials
+Blog
+SonicWall University
+MySonicWall
+Capture Labs
+Main Menu
+Capture Labs
+Capture Labs
+Security Center
+Security News
+PSIRT
+Application Catalog
+Support Portal
+
+Find answers to your questions by searching across our knowledge base, community, technical documentation and video tutorials
+
+Company
+Main Menu
+Company
+Company
+Main Menu
+Company
+Newsroom
+Awards
+Leadership
+Press Kit
+Careers
+Promotions
+Main Menu
+Promotions
+SonicWall Promotions
+Customer Loyalty Program
+Managed Services
+Main Menu
+Managed Services
+Managed Security Services
+Security as a Service
+Professional Services
+Promotions
+Main Menu
+Promotions
+SonicWall Promotions
+Customer Loyalty Program
+Managed Services
+Main Menu
+Managed Services
+Managed Security Services
+Security as a Service
+Professional Services
+Contact Us
+English
+Main Menu
+Partner Portal
+Resources
+Blog
+Events
+EN
+	
+Support / Knowledge Base / MySonicWall
+SonicProtect Subscription FAQ
+
+ 11/07/2024  0 People found this article helpful 75,621 Views
+
+Download
+Print
+Share
+Description
+
+
+What is a SonicProtect subscription?
+
+SonicWall’s SonicProtect subscription offers superior threat protection and investment protection for all generations of SonicWall firewalls with a single security service subscription. SonicProtect subscriptions offer price protection on multi-year security services. Customers also benefit from discounted multi-year service subscription fees and the ability to avoid any premiums on subscriptions similar to those on newer generation platforms. It also offers the ability to predict OpEx spending related to security services. This program entitles our customers to the highest tier of security services available on a given platform, including our patented Real-Time Deep Memory Inspection (RTDMI™) and patented single-pass, low-latency, Reassembly-Free Deep Packet Inspection (RFDPI) engines.
+
+
+
+What does SonicProtect offer?
+
+A SonicProtect Subscription offers the highest tier of the security services bundle available of any model type series (hardware or virtual) firewall platform generation. In this example, SonicProtect offers Advanced Gateway Security Suite (AGSS) or Comprehensive Gateway Security Suite (CGSS)  for Gen5, Gen6/6.5 firewall platforms, and Advanced Protection Security Suite (APSS) for Gen7 firewall platforms.
+
+The subscription will also transfer to the highest tier of the security service bundle for the upgrade replacement. For example, SonicProtect for the TZ400 (Gen6) family will offer AGSS for TZ400 hardware, and when the customer upgrades to the TZ470 (Gen7), the remainder of the subscription can be migrated to TZ470 with APSS.
+
+
+
+What’s in it for our customers?
+
+SonicProtect subscriptions are available in 3-year and 5-year terms, offering price protection with multi-year service subscriptions. Customers also benefit from discounted multi-year service subscription fees and the ability to avoid any premiums on similar subscriptions on newer generation platforms. Moreover, it also offers the ability to predict OpEx spending and the flexibility of planned CapEx spending with hardware or virtual upgrades to the newer generations.
+
+
+
+DEPLOYMENT, LICENSING & SUPPORT 
+
+What deployment and use cases are supported?
+
+SonicProtect subscriptions are available for all firewall use cases and deployment types.  You can leverage these subscriptions for your existing and new deployments with the TZ series, NSa series, NSsp series, NSv series, Super Massive series, SOHO series, and the upcoming IoT Firewall.
+
+
+
+What licensing models are available with SonicProtect?
+
+The licensing model includes a single security service subscription available in 3-year and 5-year term periods. It offers the highest tier of security suite available on all generations of firewall platforms in a single band of family. For example, a 5-year SonicProtect subscription for the TZ400 model series can be used on the TZ400 until the end of support for that platform and then leveraged on the TZ470 or any other product introduced in the same series (TZ400). 
+
+
+
+Can a customer have a mixed deployment with existing subscriptions and SonicProtect?
+
+SonicProtect can co-exist with all existing security services for each product generation. Customers can have some firewalls with Comprehensive Gateway Security Suite (CGSS),  Advanced Gateway Security Suite (AGSS), Essential Protection Security Suite (EPSS) and Advanced Protection Security Suite (APSS), and, at the renewal, they can procure the new SonicProtect subscription if it meets their business requirements. 
+
+
+
+Can the customer’s existing partners offer this new subscription?
+
+Starting in July 2024, SonicProtect will be available globally to all SonicWall channel partners. Customers can renew existing platforms with the new SonicProtect subscription if it meets their business requirements.
+
+
+
+Does the new SonicProtect subscription work with the newly introduced SonicPlatform?
+
+As customers migrate to SonicPlatform, these subscriptions will migrate as a part of their active deployment. There is no restriction or difference in support compared to existing security services.
+
+
+
+Is there any restriction on the number of SonicProtect subscriptions in a single tenant or deployment?
+
+Procuring this new SonicProtect subscription is free of limit or maximum count restriction. Customers can renew all their install-base/deployed firewalls with the new SonicProtect subscription if it meets their business requirements.
+
+
+
+With SonicProtect, what’s the last date for the subscription?
+
+As with other security services offered by SonicWall, the last date of subscription or service expiration is based on the date of registration and the term period of the subscription. For example, if a 5-year SonicProtect subscription is activated on July 11, 2024, it will expire on July 10, 2029.
+
+
+
+Can the SonicProtect subscription be used with my latest generation firewalls (Gen7)?
+
+Yes, a SonicProtect subscription can be used with any generation firewalls, including Gen7 TZ, NSa, NSsp, and NSv series firewalls. For example, if a SonicProtect subscription for a 5-year period is activated on an NSsp 15700 on July 11, 2024, it will expire on July 10, 2029.
+
+
+
+Can the SonicProtect subscription be used on a firewall platform that will soon be at End-of-Support?
+
+Yes, a SonicProtect subscription can be used with any generation firewalls, including legacy Gen5, 6, and 6.5 firewalls. For example, if a 5-year SonicProtect subscription is activated on a TZ 400 on July 11, 2024, it will expire on that TZ400 on April 16, 2026, based on the product life cycle and the platform’s End-of-Support date. The remainder of the subscription will continue on a Gen7 470 or any newer platform in the TZ400 family until July 10, 2029.
+
+
+
+May I use SonicProtect on a firewall with no/expired services (the firewall itself is not EOS)? If yes, is there a reinstatement fee, or are we backdating the services?
+
+Yes, you may. This has the same functionality as a three-year renewal. The reinstatement fee and backdating are waived.
+
+
+
+Does the SonicProtect subscription include a hardware upgrade to a new firewall in the same family?
+
+No, a SonicProtect subscription is only a security service license. Customers can upgrade the firewall platform based on any offer or the SonicWall Customer loyalty program. As a part of our loyalty program, we offer special SKUs for hardware purchases with no attached services or subscriptions. Please get in touch with your SonicWall partner or sales team to procure hardware for Secure Upgrade Appliance Only SKUs.
+
+
+
+Are we going to offer bare bone security upgrade units? We currently have bare bone units but they are not security upgrades.
+
+
+Yes, this is being added to the price list. These upgrades require a barebones SUP SKU.
+
+
+ 
+
+Does the SonicProtect subscription allow upgrading the firewall to a higher category/product family?
+
+SonicProtect subscribers are eligible to upgrade their firewalls to a higher tier product family subject to SecureUpgrade Plus terms and conditions. 
+
+
+
+Does the SonicProtect subscription offer a term period higher than five years?
+
+We understand the value of a SonicProtect subscription and the need for a longer term. At launch in July 2024, we will only offer a 3-year and 5-year term. We will reevaluate the need to provide a longer term in future program revisions.
+
+
+
+Does the SonicProtect subscription offer a term period lower than three years?
+
+No. At launch in July 2024, we will only offer a 3-year and 5-year term periods. For 1-year and 2-year term options, you can use the regular subscription SKUs to procure the desired term and security services.
+
+
+
+Can the SonicProtect subscription be stacked to achieve higher term periods?
+
+No. SonicProtect subscriptions cannot be stacked or added to achieve higher term periods.
+
+
+
+Can the SonicProtect subscription be used at the same time as existing license?
+
+
+If the customer has leftover time on his current security services at the time when they subscribe to SonicProtect, the term for SonicProtect will start after the original service expires. Here is an example to illustrate that usecase: 
+
+If the customer has TZ400 and 3 months of AGSS subscription left (July to October, expiration October 2024). The customer signs up for SonicProtect 3-year term in July. They will get a SonicProtect subscription until Oct 2027 (October 2024 to October 2027)
+
+
+
+Will adjacent services, such as SSL VPN, stateful HA, etc., that have been activated be transferred when the customer/partner subscribes to SonicProtect and upgrades their firewall?
+
+These services pertain to SecureUpgrade, and the terms of use will adhere to that agreement.
+
+
+
+Is SonicProtect available as a FlexSpend purchase?
+
+No SonicProtect is not available as a FlexSpend purchase.
+
+ 
+
+Are SonicProtect SKUs available for Deal Reg pricing?
+
+Yes, the SKUs are eligible for Deal Reg pricing.
+
+ 
+
+ORDERABILITY & ACTIVATION
+
+When will the new SonicProtect subscription be orderable?
+
+SonicProtect subscription SKUs will be available to all our channel partners via global pricelists on July 1, 2024.
+
+
+
+When can SonicProtect subscriptions be activated?
+
+SonicProtect subscription SKUs will be orderable on July 1, 2024, and can be activated on or after July 15, 2024.
+
+
+
+Can SonicProtect subscriptions be activated on firewalls with a term period expiring before July 15, 2024? 
+
+SonicProtect subscription SKUs cannot be activated before July 15, 2024. If a firewall subscription expires before that date, please work with your SonicWall sales team to request an extension of existing services until July 15, 2024. Please share the purchase details of the SonicProtect subscription to support the extension request.
+
+SonicPlatform program is subject to additional terms and conditions available on our support page.
+
+
+Product Family
+
+Firewall Family
+
+	
+
+Supported Platforms
+
+
+
+
+IoT & SOHO Series (Gen5, Gen6, Gen7 and above)
+
+	
+
+SOHO, SOHO W, TZ80
+
+
+
+
+TZ 200 family (Gen6, Gen6.5, Gen7)
+
+	
+
+SOHO 250, SOHO 250W, TZ 270, TZ 270W
+
+
+
+
+TZ 300 family (Gen6, Gen6.5, Gen7)
+
+	
+
+TZ 300P, TZ 350, TZ 350W, TZ 370, TZ 370W
+
+
+
+
+TZ 400 family (Gen6, Gen6.5, Gen7)
+
+	
+
+TZ 400, TZ 400W, TZ 470, TZ 470W
+
+
+
+
+TZ 500 family (Gen6, Gen6.5, Gen7)
+
+	
+
+TZ 500, TZ 500W, TZ 570, TZ 570W, TZ 570P
+
+
+
+
+TZ 600 family (Gen6, Gen6.5, Gen7)
+
+	
+
+TZ 600, TZ 600P, TZ 670
+
+
+
+
+NSa 2000 family (Gen6.5, Gen7)
+
+	
+
+NSa 2650, NSa 2700
+
+
+
+
+NSa 3000 family (Gen6, Gen6.5, Gen7)
+
+	
+
+NSa 3600, NSa 3650, NSa 3700
+
+
+
+
+NSa 4000 family (Gen6, Gen6.5, Gen7)
+
+	
+
+NSa 4600, NSa 4650, NSa 4700
+
+
+
+
+NSa 5000 family (Gen6, Gen6.5, Gen7)
+
+	
+
+NSa 5600, NSa 5650, NSa 5700
+
+
+
+
+NSa 6000 family (Gen6, Gen6.5, Gen7)
+
+	
+
+NSa 6600, NSa 6650, NSa 6700
+
+
+
+
+NSsp 10K family (Gen6, Gen6.5, Gen7)
+
+	
+
+SuperMassive 9200, NSa  9250, NSsp 10700
+
+
+
+
+NSsp 11K family (Gen6, Gen6.5, Gen7)
+
+	
+
+SuperMassive 9400, NSa  9450, NSsp 11700
+
+
+
+
+NSsp 13K family (Gen6, Gen6.5, Gen7)
+
+	
+
+SuperMassive 9600, NSa 9650, SuperMassive 9800, NSsp  12400, NSsp  13700
+
+
+
+
+NSsp 15K family (Gen6, Gen6.5, Gen7)
+
+	
+
+NSsp 12800, NSsp  15700
+
+
+
+
+NSv – XS family (Gen6, Gen6.5, Gen7)
+
+	
+
+NSv  10, NSv  25, NSv  50, NSv  100
+
+
+
+
+NSv – S family (Gen6, Gen6.5, Gen7)
+
+	
+
+NSv  200, NSv  270
+
+
+
+
+NSv – M family (Gen6, Gen6.5, Gen7)
+
+	
+
+NSv  300, NSv  400, NSv  470
+
+
+
+
+NSv – L family (Gen6, Gen6.5, Gen7)
+
+	
+
+NSv 800, NSv 1600, NSv 870
+
+
+
+
+ 
+
+	
+
+ 
+
+Related Articles
+Get Fast, Real-Time Technical Support with SonicWall Webchat: Your Quick Guide
+Datto Autotask integration with MySonicWall
+Converting Cloud App Security licenses from annual to monthly
+Categories
+MySonicWall > Licensing
+Not Finding Your Answers?
+ASK THE COMMUNITY
+Was This Article Helpful?
+
+YES
+NO
+
+FOLLOW US
+
+© 2024 SonicWall. All Rights Reserved.
+
+Legal
+Privacy
+ 
+COMPANY
+Careers
+News
+Leadership
+Awards
+Press Kit
+Contact Us
+ 
+POPULAR RESOURCES
+Communities
+Blog
+SonicWall Capture Labs
+SUBSCRIBE TO NEWSLETTER
+EMAIL ADDRESS*
+By submitting this form, you agree to our Terms of Use and acknowledge our Privacy Statement. You can unsubscribe at any time from the Preference Center.
+This site uses cookies to ensure you get the best experience.
+By using this site you agree to our use of cookies for analytics, and for personalized content and ads.
+Cookie Settings
+GOT IT. THANKS!
+ 
+ 
+ ----- 
+ Source link : https://www.sonicwall.com/support/knowledge-base/sonicprotect-subscription-faq/240627080707880 
+ ----- 

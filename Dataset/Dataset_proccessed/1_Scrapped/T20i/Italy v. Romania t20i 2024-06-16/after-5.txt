@@ -1,0 +1,32 @@
+	CricClubs
+Home
+Players
+Matches
+Teams
+Statistics
+Series
+League
+ Log in
+Player Bowling Records
+Player:	Adrian Lascu
+Series:	ICC Men's T20 WC Sub Regional Europe Qualifier A - Italy
+Start Date:	06/09/2024	
+
+
+No.  	Match Date  	Team  	Against  	Winner  	Overs  	Runs  	Wkts  	Econ  	SR  	Wides  	Points  	 
+1	06/09/2024	Romania	Austria	Romania	4.0	21	1	5.25	24.0	0	30	Scorecard
+2	06/10/2024	Romania	Portugal	Romania	4.0	21	5	5.25	4.8	0	190	Scorecard
+3	06/13/2024	Romania	Hungary	Romania	4.0	27	0	6.75	0.0	2	0	Scorecard
+4	06/16/2024	Romania	Italy	Italy	3.0	50	1	16.67	18.0	1	-10	Scorecard
+
+© Copyright 2025 CricClubs.com. All Rights Reserved.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://cricclubs.com/InternationalScores/playerBowlingRecords.do?playerId=4336946&league=1525&clubId=11707 
+ ----- 

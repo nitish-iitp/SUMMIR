@@ -1,0 +1,660 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Baltimore Orioles Schedule
+Chicago White Sox Schedule
+Chicago White Sox vs Baltimore Orioles Box Score: September 2, 2024
+MLB Scores — September 2, 2024
+STL\t3\tFinal
+MIL\t9\t
+CHW\t3\tFinal
+BAL\t13\t
+LAD\t11\tFinal
+ARI\t6\t
+HOU\t3\tFinal
+CIN\t5\t
+CLE\t4\tFinal
+KCR\t2\t
+DET\t0\tFinal
+SDP\t3\t
+MIN\t5\tFinal
+TBR\t4\t
+SEA\t4\tFinal
+OAK\t5\t
+BOS\t1\tFinal
+NYM\t4\t
+PIT\t5\tFinal
+CHC\t3\t
+NYY\t8\tFinal
+TEX\t4\t
+MLB Scores & Standings on this Day
+Chicago White Sox
+3
+31-108
+Prev Game Next Game
+ 
+Baltimore Orioles
+13
+80-59
+Prev Game Next Game
+Monday, September 2, 2024
+Start Time: 3:05 p.m. Local
+Attendance: 35,906
+Venue: Oriole Park at Camden Yards
+Game Duration: 3:14
+Day Game, on grass
+Logos via Sports Logos.net / About logos
+ \t \t1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+
+\tChicago White Sox\t2\t0\t0\t0\t0\t0\t0\t1\t0\t3\t8\t1
+
+\tBaltimore Orioles\t1\t0\t2\t0\t2\t6\t0\t2\tX\t13\t18\t2
+WP: Corbin Burnes (13-7) • LP: Chris Flexen (2-14) • SV: Cole Irvin (1)
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Nicky Lopez 2B\t4\t1\t1\t0\t0\t1\t4\t.235\t.307\t.286\t.593\t19\t12\t0.004\t0.91\t0.061\t-0.057\t0%\t0.00\t-0.1\t1\t2\t
+Corey Julks DH\t3\t1\t2\t1\t1\t0\t4\t.232\t.298\t.335\t.634\t16\t9\t0.101\t0.67\t0.116\t-0.014\t0%\t0.00\t2.0\t0\t0\t
+Andrew Benintendi LF\t3\t0\t0\t1\t0\t0\t4\t.218\t.279\t.375\t.654\t18\t11\t-0.049\t0.96\t0.006\t-0.055\t0%\t0.00\t-1.1\t2\t0\tSF,GDP
+Gavin Sheets 1B\t4\t0\t2\t1\t0\t1\t4\t.244\t.314\t.368\t.682\t17\t13\t0.103\t0.75\t0.117\t-0.014\t0%\t0.00\t0.9\t5\t1\t
+Korey Lee C\t3\t0\t0\t0\t0\t0\t3\t.213\t.244\t.347\t.592\t9\t6\t-0.141\t1.02\t0.000\t-0.141\t0%\t0.00\t-1.5\t8\t0\tGDP
+   Chuckie Robinson C\t1\t0\t0\t0\t0\t0\t1\t.147\t.171\t.147\t.318\t7\t4\t0.000\t0.00\t0.000\t0.000\t0%\t0.00\t-0.1\t3\t0\t
+Zach DeLoach RF\t4\t0\t1\t0\t0\t1\t4\t.148\t.233\t.185\t.419\t14\t10\t0.031\t0.45\t0.048\t-0.017\t0%\t0.00\t-0.2\t1\t0\t
+Dominic Fletcher CF\t3\t0\t0\t0\t0\t1\t3\t.218\t.269\t.263\t.532\t13\t7\t-0.064\t0.93\t0.000\t-0.064\t0%\t0.00\t-0.7\t2\t0\t
+Miguel Vargas 3B\t3\t0\t1\t0\t0\t1\t3\t.176\t.273\t.301\t.573\t15\t9\t0.002\t0.80\t0.067\t-0.065\t0%\t0.00\t0.1\t1\t0\tSB,GDP
+Jacob Amaya SS\t3\t1\t1\t0\t0\t1\t3\t.167\t.231\t.167\t.397\t16\t9\t-0.087\t0.88\t0.001\t-0.088\t0%\t0.00\t-0.4\t0\t2\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Chris Flexen P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1\t0\t
+   Fraser Ellard P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Chad Kuhl P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Touki Toussaint P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Enyel De Los Santos P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t31\t3\t8\t3\t1\t6\t33\t.258\t.273\t.258\t.531\t144\t90\t-0.100\t0.79\t0.416\t-0.515\t0.00%\t0.00\t-1.2\t24\t5\t
+SF: Andrew Benintendi (3, off Corbin Burnes).
+TB: Gavin Sheets 2; Corey Julks 2; Zach DeLoach; Jacob Amaya; Nicky Lopez; Miguel Vargas.
+GIDP: Andrew Benintendi (11); Miguel Vargas (3); Korey Lee (10).
+RBI: Gavin Sheets (41); Corey Julks (14); Andrew Benintendi (49).
+Team LOB: 3.
+With RISP: 3 for 6.
+Fielding
+E: Fraser Ellard (1).
+Baserunning
+SB: Miguel Vargas (2, 2nd base off Corbin Burnes/Adley Rutschman).
+Pickoffs: Nicky Lopez (1st base by Corbin Burnes).
+Baltimore Orioles 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Gunnar Henderson SS\t4\t1\t1\t3\t1\t0\t6\t.276\t.362\t.530\t.893\t21\t11\t0.142\t0.91\t0.167\t-0.025\t0.12%\t1.27\t1.3\t3\t4\tHR,SF
+   Livan Soto SS\t0\t0\t0\t0\t0\t0\t0\t.000\t.000\t.000\t.000\t\t\t\t\t\t\t\t\t\t0\t0\t
+Adley Rutschman C\t5\t1\t2\t1\t1\t0\t6\t.259\t.326\t.409\t.735\t22\t11\t0.110\t0.78\t0.157\t-0.047\t0.09%\t1.09\t0.6\t6\t0\t
+Ryan O'Hearn 1B\t5\t1\t2\t0\t1\t2\t6\t.269\t.342\t.435\t.778\t30\t17\t0.137\t0.99\t0.184\t-0.047\t0.11%\t1.39\t0.7\t11\t1\t2B
+Anthony Santander DH\t3\t1\t1\t1\t3\t1\t6\t.240\t.310\t.519\t.829\t19\t9\t0.121\t1.04\t0.179\t-0.058\t0.10%\t1.45\t1.4\t0\t0\tIW
+Colton Cowser LF\t5\t2\t2\t0\t1\t2\t6\t.246\t.324\t.448\t.772\t29\t16\t-0.198\t1.09\t0.015\t-0.213\t-0.17%\t1.52\t-1.1\t1\t0\t
+Cedric Mullins CF\t6\t3\t3\t3\t0\t2\t6\t.227\t.292\t.397\t.690\t27\t16\t-0.045\t1.00\t0.093\t-0.138\t-0.04%\t1.39\t2.0\t1\t0\tHR,2B
+Austin Slater RF\t4\t2\t3\t3\t1\t0\t6\t.217\t.335\t.283\t.618\t24\t12\t0.203\t0.73\t0.203\t0.000\t0.17%\t1.03\t2.6\t2\t0\t2B,HBP
+Jackson Holliday 2B\t6\t1\t2\t0\t0\t2\t6\t.186\t.239\t.338\t.577\t30\t21\t-0.021\t0.83\t0.070\t-0.090\t-0.02%\t1.16\t0.9\t2\t5\t2B
+Emmanuel Rivera 3B\t5\t1\t2\t2\t0\t2\t5\t.219\t.302\t.293\t.595\t26\t13\t-0.048\t0.77\t0.038\t-0.086\t-0.04%\t1.07\t0.9\t0\t1\t3B
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Corbin Burnes P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t1\t
+   Keegan Akin P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Cole Irvin P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1\t0\t
+Team Totals\t43\t13\t18\t13\t8\t11\t53\t.419\t.509\t.698\t1.207\t228\t126\t0.401\t0.91\t1.106\t-0.704\t0.34%\t1.27\t9.3\t27\t12\t
+2B: Ryan O'Hearn (17, off Chris Flexen); Austin Slater (4, off Chris Flexen); Cedric Mullins (15, off Chad Kuhl); Jackson Holliday (3, off Touki Toussaint).
+3B: Emmanuel Rivera (2, off Touki Toussaint).
+HR: Gunnar Henderson (34, off Chris Flexen, 1st inn, 0 on, 0 outs to Deep CF-RF); Cedric Mullins (14, off Touki Toussaint, 8th inn, 1 on, 2 outs to Deep RF).
+SF: Gunnar Henderson (3, off Fraser Ellard).
+IBB: Anthony Santander (1, by Fraser Ellard).
+HBP: Austin Slater (5, by Fraser Ellard).
+TB: Cedric Mullins 7; Emmanuel Rivera 4; Gunnar Henderson 4; Austin Slater 4; Ryan O'Hearn 3; Jackson Holliday 3; Adley Rutschman 2; Colton Cowser 2; Anthony Santander.
+RBI: Austin Slater 3 (18); Cedric Mullins 3 (45); Gunnar Henderson 3 (83); Emmanuel Rivera 2 (20); Adley Rutschman (72); Anthony Santander (89).
+2-out RBI: Cedric Mullins 2; Adley Rutschman; Austin Slater.
+Team LOB: 16.
+With RISP: 7 for 23.
+Fielding
+DP: 3. Jackson Holliday-Gunnar Henderson-Ryan O'Hearn; Gunnar Henderson-Jackson Holliday-Ryan O'Hearn; Emmanuel Rivera-Jackson Holliday-Ryan O'Hearn.
+E: Adley Rutschman (4); Ryan O'Hearn (3).
+Chicago White Sox 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Chris Flexen, L (2-14)\t3.1\t7\t3\t3\t2\t5\t1\t5.36\t20\t95\t54\t27\t13\t14\t4\t9\t5\t0\t37\t\t\t-0.241\t1.54\t0.00%\t0.00\t-2.0
+Fraser Ellard\t1.1\t1\t2\t0\t1\t1\t0\t4.09\t8\t27\t16\t10\t3\t3\t2\t3\t2\t0\t\t2\t0\t-0.025\t1.67\t0.00%\t0.00\t-0.1
+Chad Kuhl\t0.1\t3\t4\t4\t2\t1\t0\t5.01\t6\t27\t13\t5\t3\t5\t0\t3\t3\t0\t\t2\t1\t-0.126\t0.56\t0.00%\t0.00\t-4.0
+Touki Toussaint\t2.2\t7\t4\t4\t2\t3\t1\t7.43\t17\t68\t37\t19\t8\t10\t7\t5\t2\t0\t\t1\t1\t-0.008\t0.01\t0.00%\t0.00\t-3.3
+Enyel De Los Santos\t0.1\t0\t0\t0\t1\t1\t0\t5.65\t2\t11\t6\t2\t2\t2\t0\t0\t0\t0\t\t0\t0\t0.000\t0.00\t0.00%\t0.00\t0.1
+Team Totals\t8\t18\t13\t11\t8\t11\t2\t12.38\t53\t228\t126\t63\t29\t34\t13\t20\t12\t0\t37\t5\t2\t-0.400\t0.91\t0.00%\t0.00\t-9.3
+
+Chad Kuhl faced 4 batters in the 6th inning.
+
+Baltimore Orioles 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Corbin Burnes, W (13-7)\t5\t6\t2\t1\t1\t4\t0\t3.19\t20\t89\t53\t26\t9\t18\t8\t7\t3\t0\t52\t\t\t0.054\t1.17\t0.05%\t1.63\t0.3
+Keegan Akin, H (5)\t1\t0\t0\t0\t0\t0\t0\t3.42\t3\t12\t9\t6\t2\t1\t1\t2\t1\t0\t\t0\t0\t0.044\t0.59\t0.04%\t0.83\t0.5
+Cole Irvin, S (1)\t3\t2\t1\t1\t0\t2\t0\t4.74\t10\t43\t28\t17\t1\t10\t5\t3\t2\t0\t\t0\t0\t0.002\t0.01\t0.00%\t0.02\t0.4
+Team Totals\t9\t8\t3\t2\t1\t6\t0\t2.00\t33\t144\t90\t49\t12\t29\t14\t12\t6\t0\t52\t0\t0\t0.100\t0.79\t0.08%\t1.10\t1.2
+
+Balks: None.
+WP: Fraser Ellard (2); Chad Kuhl (6).
+HBP: Fraser Ellard (1; Austin Slater).
+IBB: Fraser Ellard (2; Anthony Santander).
+Pickoffs: Corbin Burnes (2; Nicky Lopez, 1st base).
+Other Info 
+Umpires: HP - Marvin Hudson, 1B - Hunter Wendelstedt, 2B - Charlie Ramos, 3B - John Tumpane, LF - (none), RF - (none).
+Time of Game: 3:14.
+Attendance: 35,906.
+Field Condition: Unknown.
+Start Time Weather: 81° F, Wind 8mph in from Leftfield, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+White Sox
+1\tNicky Lopez\t2B
+2\tCorey Julks\tDH
+3\tAndrew Benintendi\tLF
+4\tGavin Sheets\t1B
+5\tKorey Lee\tC
+6\tZach DeLoach\tRF
+7\tDominic Fletcher\tCF
+8\tMiguel Vargas\t3B
+9\tJacob Amaya\tSS
+\tChris Flexen\tP
+Orioles
+1\tGunnar Henderson\tSS
+2\tAdley Rutschman\tC
+3\tRyan O'Hearn\t1B
+4\tAnthony Santander\tDH
+5\tColton Cowser\tLF
+6\tCedric Mullins\tCF
+7\tAustin Slater\tRF
+8\tJackson Holliday\t2B
+9\tEmmanuel Rivera\t3B
+\tCorbin Burnes\tP
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Chicago White Sox vs. Baltimore Orioles, September 2 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+BAL
+50%
+CHW
+Inning\tWin Pct
+1\t0.5
+2\t0.54
+3\t0.56
+4\t0.64
+5\t0.65
+6\t0.7
+7\t0.68
+8\t0.66
+9\t0.56
+10\t0.52
+11\t0.41
+12\t0.47
+13\t0.55
+14\t0.61
+15\t0.59
+16\t0.61
+17\t0.66
+18\t0.6
+19\t0.57
+20\t0.53
+21\t0.56
+22\t0.6
+23\t0.62
+24\t0.65
+25\t0.62
+26\t0.69
+27\t0.57
+28\t0.53
+29\t0.46
+30\t0.3
+31\t0.37
+32\t0.44
+33\t0.32
+34\t0.37
+35\t0.42
+36\t0.37
+37\t0.31
+38\t0.27
+39\t0.23
+40\t0.27
+41\t0.3
+42\t0.29
+43\t0.35
+44\t0.32
+45\t0.3
+46\t0.28
+47\t0.25
+48\t0.22
+49\t0.2
+50\t0.14
+51\t0.2
+52\t0.18
+53\t0.11
+54\t0.1
+55\t0.12
+56\t0.1
+57\t0.09
+58\t0.08
+59\t0.07
+60\t0.05
+61\t0.02
+62\t0.01
+63\t0.01
+64\t0
+65\t0
+66\t0
+67\t0
+68\t0
+69\t0
+70\t0
+71\t0
+72\t0
+73\t0
+74\t0
+75\t0
+76\t0
+77\t0
+78\t0
+79\t0
+80\t0
+81\t0
+82\t0
+83\t0
+84\t0
+85\t0
+86\t0
+87\t0
+88\t0
+89\t0
+90\t0
+91\t0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+b3\t1-2\t0\t12-\t4,(1-2) \tR\tBAL\tAnthony Santander\tChris Flexen\t16%\t70%\tSingle to CF (Line Drive to CF-RF); A. Rutschman Scores; R. O'Hearn to 3B
+b3\t2-2\t2\t1-3\t3,(1-1) \tR\tBAL\tAustin Slater\tChris Flexen\t13%\t68%\tDouble to LF (Line Drive to LF Line); R. O'Hearn Scores; A. Santander to 3B
+b1\t1-2\t0\t1--\t4,(1-2) \t\tBAL\tRyan O'Hearn\tChris Flexen\t11%\t59%\tDouble to CF (Line Drive to Deep CF-RF); A. Rutschman to 3B
+t3\t2-1\t1\t1-3\t2,(0-1) \tOO\tCHW\tKorey Lee\tCorbin Burnes\t11%\t43%\tGround Ball Double Play: SS-2B-1B
+b1\t0-2\t0\t---\t3,(1-1) \tR\tBAL\tGunnar Henderson\tChris Flexen\t10%\t44%\tHome Run (Fly Ball to Deep CF-RF)
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+Top of the 1st, White Sox Batting, Tied 0-0, Orioles' Corbin Burnes facing 1-2-3
+t1\t0-0\t0\t---\t2,(0-1) \t\tCHW\tNicky Lopez\tCorbin Burnes\t-4%\t46%\tSingle to RF (Line Drive to CF-RF)
+t1\t0-0\t0\t1--\t1,(0-1) \t\tCHW\tCorey Julks\tCorbin Burnes\t-3%\t44%\tN. Lopez Picked off 1B, safe on E3; N. Lopez to 2B
+t1\t0-0\t0\t-2-\t4,(1-2) \t\tCHW\tCorey Julks\tCorbin Burnes\t-8%\t36%\tSingle to RF (Fly Ball to CF-RF); N. Lopez to 3B; C. Julks to 2B
+t1\t0-0\t0\t-23\t5,(3-1) \tRO\tCHW\tAndrew Benintendi\tCorbin Burnes\t-1%\t35%\tFlyball: RF/Sacrifice Fly (Deep CF-RF); N. Lopez Scores; C. Julks to 3B
+t1\t1-0\t1\t--3\t6,(3-2) \tR\tCHW\tGavin Sheets\tCorbin Burnes\t-5%\t30%\tSingle to LF (Ground Ball thru SS-3B Hole); C. Julks Scores/unER
+t1\t2-0\t1\t1--\t1,(0-0) \tO\tCHW\tKorey Lee\tCorbin Burnes\t2%\t32%\tFlyball: LF (Short LF)
+t1\t2-0\t2\t1--\t3,(0-2) \tO\tCHW\tZach DeLoach\tCorbin Burnes\t2%\t34%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t2 runs, 3 hits, 1 error, 1 LOB. White Sox 2, Orioles 0.
+Bottom of the 1st, Orioles Batting, Behind 0-2, White Sox' Chris Flexen facing 1-2-3
+b1\t0-2\t0\t---\t3,(1-1) \tR\tBAL\tGunnar Henderson\tChris Flexen\t10%\t44%\tHome Run (Fly Ball to Deep CF-RF)
+b1\t1-2\t0\t---\t4,(3-0) \t\tBAL\tAdley Rutschman\tChris Flexen\t4%\t48%\tWalk
+b1\t1-2\t0\t1--\t4,(1-2) \t\tBAL\tRyan O'Hearn\tChris Flexen\t11%\t59%\tDouble to CF (Line Drive to Deep CF-RF); A. Rutschman to 3B
+b1\t1-2\t0\t-23\t4,(1-2) \tO\tBAL\tAnthony Santander\tChris Flexen\t-6%\t53%\tStrikeout Swinging
+b1\t1-2\t1\t-23\t6,(2-2) \tO\tBAL\tColton Cowser\tChris Flexen\t-8%\t45%\tStrikeout Swinging
+b1\t1-2\t2\t-23\t5,(2-2) \tO\tBAL\tCedric Mullins\tChris Flexen\t-6%\t39%\tPopfly: 2B (2B-1B)
+\t\t\t\t\t\t\t\t\t1 run, 2 hits, 0 errors, 2 LOB. White Sox 2, Orioles 1.
+Top of the 2nd, White Sox Batting, Ahead 2-1, Orioles' Corbin Burnes facing 7-8-9
+t2\t2-1\t0\t---\t3,(1-1) \tO\tCHW\tDominic Fletcher\tCorbin Burnes\t2%\t41%\tGroundout: P-1B
+t2\t2-1\t1\t---\t6,(3-2) \t\tCHW\tMiguel Vargas\tCorbin Burnes\t-2%\t39%\tSingle to CF (Line Drive to Deep CF-RF)
+t2\t2-1\t1\t1--\t3,(1-1) \t\tCHW\tJacob Amaya\tCorbin Burnes\t-4%\t34%\tM. Vargas Steals 2B; M. Vargas to 3B/Adv on E2 (throw)
+t2\t2-1\t1\t--3\t5,(2-2) \tO\tCHW\tJacob Amaya\tCorbin Burnes\t6%\t40%\tStrikeout Looking
+t2\t2-1\t2\t--3\t8,(3-2) \tO\tCHW\tNicky Lopez\tCorbin Burnes\t3%\t43%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 1 error, 1 LOB. White Sox 2, Orioles 1.
+Bottom of the 2nd, Orioles Batting, Behind 1-2, White Sox' Chris Flexen facing 7-8-9
+b2\t1-2\t0\t---\t3,(2-0) \t\tBAL\tAustin Slater\tChris Flexen\t4%\t47%\tSingle to RF (Line Drive to Short RF)
+b2\t1-2\t0\t1--\t8,(2-2) \tO\tBAL\tJackson Holliday\tChris Flexen\t-4%\t44%\tLineout: LF (LF-CF)
+b2\t1-2\t1\t1--\t5,(3-1) \tO\tBAL\tEmmanuel Rivera\tChris Flexen\t-3%\t40%\tFlyball: RF (Short RF Line)
+b2\t1-2\t2\t1--\t6,(3-2) \tO\tBAL\tGunnar Henderson\tChris Flexen\t-3%\t38%\tGroundout: 1B-P
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Orioles 1.
+Top of the 3rd, White Sox Batting, Ahead 2-1, Orioles' Corbin Burnes facing 2-3-4
+t3\t2-1\t0\t---\t5,(3-1) \t\tCHW\tCorey Julks\tCorbin Burnes\t-3%\t35%\tWalk
+t3\t2-1\t0\t1--\t5,(3-1) \tO\tCHW\tAndrew Benintendi\tCorbin Burnes\t3%\t38%\tPopfly: SS (Deep SS-2B)
+t3\t2-1\t1\t1--\t2,(0-1) \t\tCHW\tGavin Sheets\tCorbin Burnes\t-6%\t31%\tSingle to RF (Ground Ball thru 2B-1B); C. Julks to 3B
+t3\t2-1\t1\t1-3\t2,(0-1) \tOO\tCHW\tKorey Lee\tCorbin Burnes\t11%\t43%\tGround Ball Double Play: SS-2B-1B
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. White Sox 2, Orioles 1.
+Bottom of the 3rd, Orioles Batting, Behind 1-2, White Sox' Chris Flexen facing 2-3-4
+b3\t1-2\t0\t---\t3,(1-1) \t\tBAL\tAdley Rutschman\tChris Flexen\t5%\t47%\tSingle to LF (Fly Ball to Short LF Line)
+b3\t1-2\t0\t1--\t6,(3-2) \t\tBAL\tRyan O'Hearn\tChris Flexen\t7%\t54%\tWalk; A. Rutschman to 2B
+b3\t1-2\t0\t12-\t4,(1-2) \tR\tBAL\tAnthony Santander\tChris Flexen\t16%\t70%\tSingle to CF (Line Drive to CF-RF); A. Rutschman Scores; R. O'Hearn to 3B
+b3\t2-2\t0\t1-3\t7,(3-2) \tO\tBAL\tColton Cowser\tChris Flexen\t-7%\t63%\tStrikeout Swinging
+b3\t2-2\t1\t1-3\t5,(2-2) \tO\tBAL\tCedric Mullins\tChris Flexen\t-8%\t56%\tStrikeout Swinging
+b3\t2-2\t2\t1-3\t3,(1-1) \tR\tBAL\tAustin Slater\tChris Flexen\t13%\t68%\tDouble to LF (Line Drive to LF Line); R. O'Hearn Scores; A. Santander to 3B
+b3\t3-2\t2\t-23\t6,(2-2) \tO\tBAL\tJackson Holliday\tChris Flexen\t-5%\t63%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t2 runs, 3 hits, 0 errors, 2 LOB. White Sox 2, Orioles 3.
+Top of the 4th, White Sox Batting, Behind 2-3, Orioles' Corbin Burnes facing 6-7-8
+t4\t2-3\t0\t---\t5,(2-2) \t\tCHW\tZach DeLoach\tCorbin Burnes\t-5%\t58%\tSingle to CF (Line Drive to Deep LF-CF)
+t4\t2-3\t0\t1--\t5,(2-2) \tO\tCHW\tDominic Fletcher\tCorbin Burnes\t4%\t63%\tStrikeout Looking
+t4\t2-3\t1\t1--\t5,(2-2) \tOO\tCHW\tMiguel Vargas\tCorbin Burnes\t6%\t69%\tGround Ball Double Play: 3B-2B-1B (SS-3B Hole)
+\t\t\t\t\t\t\t\t\tForce Play Challenged by CHW manager (Grady Sizemore): Original call upheld upon review.
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 0 LOB. White Sox 2, Orioles 3.
+Bottom of the 4th, Orioles Batting, Ahead 3-2, White Sox' Chris Flexen facing 9-1-2
+b4\t3-2\t0\t---\t6,(3-2) \t\tBAL\tEmmanuel Rivera\tChris Flexen\t3%\t73%\tSingle to CF (Ground Ball thru SS-2B)
+b4\t3-2\t0\t1--\t4,(2-1) \t\tBAL\tGunnar Henderson\tChris Flexen\t5%\t77%\tFielder's Choice 2B; E. Rivera to 2B; G. Henderson to 1B
+b4\t3-2\t0\t12-\t3,(1-1) \tO\tBAL\tAdley Rutschman\tChris Flexen\t-5%\t73%\tGroundout: 3B unassisted/Forceout at 3B; G. Henderson to 2B; A. Rutschman to 1B
+\t\t\t\t\t\t\t\t\t
+Fraser Ellard replaces Chris Flexen pitching
+
+b4\t3-2\t1\t12-\t4,(2-1) \tO\tBAL\tRyan O'Hearn\tFraser Ellard\t-2%\t70%\tGroundout: 1B unassisted; G. Henderson to 3B; A. Rutschman to 2B
+b4\t3-2\t2\t-23\t,(3-0) \t\tBAL\tAnthony Santander\tFraser Ellard\t1%\t71%\tIntentional Walk
+b4\t3-2\t2\t123\t4,(2-1) \tO\tBAL\tColton Cowser\tFraser Ellard\t-6%\t65%\tFlyball: CF (Deep LF-CF)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 3 LOB. White Sox 2, Orioles 3.
+Top of the 5th, White Sox Batting, Behind 2-3, Orioles' Corbin Burnes facing 9-1-2
+t5\t2-3\t0\t---\t6,(2-2) \tO\tCHW\tJacob Amaya\tCorbin Burnes\t3%\t68%\tGroundout: 2B-1B
+t5\t2-3\t1\t---\t6,(3-2) \tO\tCHW\tNicky Lopez\tCorbin Burnes\t2%\t70%\tGroundout: 1B unassisted
+t5\t2-3\t2\t---\t5,(2-2) \tO\tCHW\tCorey Julks\tCorbin Burnes\t1%\t72%\tGroundout: SS-1B
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Orioles 3.
+Bottom of the 5th, Orioles Batting, Ahead 3-2, White Sox' Fraser Ellard facing 6-7-8
+b5\t3-2\t0\t---\t5,(2-2) \t\tBAL\tCedric Mullins\tFraser Ellard\t3%\t75%\tSingle to CF (Line Drive)
+b5\t3-2\t0\t1--\t4,(1-2) \t\tBAL\tAustin Slater\tFraser Ellard\t3%\t78%\tWild Pitch; C. Mullins to 2B
+b5\t3-2\t0\t-2-\t5,(2-2) \t\tBAL\tAustin Slater\tFraser Ellard\t2%\t80%\tHit By Pitch
+b5\t3-2\t0\t12-\t3,(0-2) \t\tBAL\tJackson Holliday\tFraser Ellard\t6%\t86%\tFielder's Choice P; C. Mullins to 3B; A. Slater to 2B/Adv on E1 (throw); J. Holliday to 1B
+\t\t\t\t\t\t\t\t\tForce Play Challenged by BAL manager (Brandon Hyde): Original call overturned as shown.
+b5\t3-2\t0\t123\t5,(2-2) \tO\tBAL\tEmmanuel Rivera\tFraser Ellard\t-5%\t80%\tStrikeout Swinging
+b5\t3-2\t1\t123\t1,(0-0) \tRO\tBAL\tGunnar Henderson\tFraser Ellard\t2%\t82%\tLineout: LF/Sacrifice Fly (Deep LF-CF); C. Mullins Scores/unER
+\t\t\t\t\t\t\t\t\t
+Chad Kuhl replaces Fraser Ellard pitching
+
+b5\t4-2\t2\t12-\t3,(1-1) \tR\tBAL\tAdley Rutschman\tChad Kuhl\t7%\t89%\tSingle to RF (Line Drive to Short CF-RF); A. Slater Scores/unER; J. Holliday to 2B
+b5\t5-2\t2\t12-\t3,(2-0) \t\tBAL\tRyan O'Hearn\tChad Kuhl\t1%\t90%\tWild Pitch; J. Holliday to 3B; A. Rutschman to 2B
+b5\t5-2\t2\t-23\t6,(3-2) \tO\tBAL\tRyan O'Hearn\tChad Kuhl\t-2%\t88%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t2 runs, 2 hits, 1 error, 2 LOB. White Sox 2, Orioles 5.
+Top of the 6th, White Sox Batting, Behind 2-5, Orioles' Keegan Akin facing 3-4-5
+\t\t\t\t\t\t\t\t\t
+Keegan Akin replaces Corbin Burnes pitching
+
+t6\t2-5\t0\t---\t5,(0-2) \tO\tCHW\tAndrew Benintendi\tKeegan Akin\t2%\t90%\tPopfly: SS
+t6\t2-5\t1\t---\t1,(0-0) \tO\tCHW\tGavin Sheets\tKeegan Akin\t1%\t91%\tLineout: CF
+t6\t2-5\t2\t---\t6,(3-2) \tO\tCHW\tKorey Lee\tKeegan Akin\t1%\t92%\tGroundout: SS-1B
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Orioles 5.
+Bottom of the 6th, Orioles Batting, Ahead 5-2, White Sox' Chad Kuhl facing 4-5-6
+b6\t5-2\t0\t---\t6,(3-2) \t\tBAL\tAnthony Santander\tChad Kuhl\t1%\t93%\tWalk
+b6\t5-2\t0\t1--\t6,(3-2) \t\tBAL\tColton Cowser\tChad Kuhl\t2%\t95%\tWalk; A. Santander to 2B
+b6\t5-2\t0\t12-\t2,(1-0) \tR\tBAL\tCedric Mullins\tChad Kuhl\t3%\t98%\tDouble to RF (Line Drive to RF Line); A. Santander Scores; C. Cowser to 3B
+b6\t6-2\t0\t-23\t4,(1-2) \tRR\tBAL\tAustin Slater\tChad Kuhl\t1%\t99%\tSingle to LF (Line Drive to Short LF); C. Cowser Scores; C. Mullins Scores
+\t\t\t\t\t\t\t\t\t
+Touki Toussaint replaces Chad Kuhl pitching
+
+b6\t8-2\t0\t1--\t2,(1-0) \t\tBAL\tJackson Holliday\tTouki Toussaint\t0%\t99%\tSingle to RF (Ground Ball thru 2B-1B); A. Slater to 2B
+b6\t8-2\t0\t12-\t5,(3-1) \tRR\tBAL\tEmmanuel Rivera\tTouki Toussaint\t1%\t100%\tTriple to RF (Line Drive to Deep CF-RF); A. Slater Scores; J. Holliday Scores
+b6\t10-2\t0\t--3\t2,(0-1) \tRO\tBAL\tGunnar Henderson\tTouki Toussaint\t0%\t100%\tGroundout: 2B-1B (2B-1B); E. Rivera Scores
+b6\t11-2\t1\t---\t4,(1-2) \tO\tBAL\tAdley Rutschman\tTouki Toussaint\t0%\t100%\tGroundout: 2B-1B (2B-1B)
+b6\t11-2\t2\t---\t4,(1-2) \t\tBAL\tRyan O'Hearn\tTouki Toussaint\t0%\t100%\tSingle to LF (Line Drive)
+b6\t11-2\t2\t1--\t4,(3-0) \t\tBAL\tAnthony Santander\tTouki Toussaint\t0%\t100%\tWalk; R. O'Hearn to 2B
+b6\t11-2\t2\t12-\t4,(1-2) \t\tBAL\tColton Cowser\tTouki Toussaint\t0%\t100%\tSingle to 3B (Ground Ball); R. O'Hearn to 3B; A. Santander to 2B
+b6\t11-2\t2\t123\t5,(2-2) \tO\tBAL\tCedric Mullins\tTouki Toussaint\t0%\t100%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t6 runs, 6 hits, 0 errors, 3 LOB. White Sox 2, Orioles 11.
+Top of the 7th, White Sox Batting, Behind 2-11, Orioles' Cole Irvin facing 6-7-8
+\t\t\t\t\t\t\t\t\t
+Cole Irvin replaces Keegan Akin pitching
+
+t7\t2-11\t0\t---\t5,(2-2) \tO\tCHW\tZach DeLoach\tCole Irvin\t0%\t100%\tGroundout: 1B-P (2B-1B)
+t7\t2-11\t1\t---\t5,(3-1) \tO\tCHW\tDominic Fletcher\tCole Irvin\t0%\t100%\tGroundout: 1B unassisted
+t7\t2-11\t2\t---\t4,(1-2) \tO\tCHW\tMiguel Vargas\tCole Irvin\t0%\t100%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. White Sox 2, Orioles 11.
+Bottom of the 7th, Orioles Batting, Ahead 11-2, White Sox' Touki Toussaint facing 7-8-9
+\t\t\t\t\t\t\t\t\t
+Chuckie Robinson replaces Korey Lee playing C batting 5th
+
+b7\t11-2\t0\t---\t2,(1-0) \tO\tBAL\tAustin Slater\tTouki Toussaint\t0%\t100%\tGroundout: SS-1B
+b7\t11-2\t1\t---\t7,(3-2) \t\tBAL\tJackson Holliday\tTouki Toussaint\t0%\t100%\tDouble to CF (Fly Ball to Deep LF-CF)
+b7\t11-2\t1\t-2-\t5,(2-2) \tO\tBAL\tEmmanuel Rivera\tTouki Toussaint\t0%\t100%\tStrikeout Swinging
+b7\t11-2\t2\t-2-\t5,(3-1) \t\tBAL\tGunnar Henderson\tTouki Toussaint\t0%\t100%\tWalk
+b7\t11-2\t2\t12-\t5,(3-1) \tO\tBAL\tAdley Rutschman\tTouki Toussaint\t0%\t100%\tGroundout: SS-1B
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 2 LOB. White Sox 2, Orioles 11.
+Top of the 8th, White Sox Batting, Behind 2-11, Orioles' Cole Irvin facing 9-1-2
+t8\t2-11\t0\t---\t5,(3-1) \t\tCHW\tJacob Amaya\tCole Irvin\t0%\t100%\tSingle to RF (Line Drive)
+t8\t2-11\t0\t1--\t3,(1-1) \tO\tCHW\tNicky Lopez\tCole Irvin\t0%\t100%\tGroundout: 1B unassisted; J. Amaya to 2B
+t8\t2-11\t1\t-2-\t2,(0-1) \tR\tCHW\tCorey Julks\tCole Irvin\t0%\t100%\tSingle to LF (Line Drive); J. Amaya Scores
+t8\t3-11\t1\t1--\t3,(1-1) \tOO\tCHW\tAndrew Benintendi\tCole Irvin\t0%\t100%\tGround Ball Double Play: 2B-SS-1B (2B-1B)
+\t\t\t\t\t\t\t\t\t1 run, 2 hits, 0 errors, 0 LOB. White Sox 3, Orioles 11.
+Bottom of the 8th, Orioles Batting, Ahead 11-3, White Sox' Touki Toussaint facing 3-4-5
+b8\t11-3\t0\t---\t6,(2-2) \tO\tBAL\tRyan O'Hearn\tTouki Toussaint\t0%\t100%\tStrikeout Looking
+b8\t11-3\t1\t---\t1,(0-0) \tO\tBAL\tAnthony Santander\tTouki Toussaint\t0%\t100%\tFlyball: CF (Deep CF)
+b8\t11-3\t2\t---\t2,(1-0) \t\tBAL\tColton Cowser\tTouki Toussaint\t0%\t100%\tSingle to LF (Ground Ball)
+b8\t11-3\t2\t1--\t5,(2-2) \tRR\tBAL\tCedric Mullins\tTouki Toussaint\t0%\t100%\tHome Run (Fly Ball to Deep RF); C. Cowser Scores
+\t\t\t\t\t\t\t\t\t
+Enyel De Los Santos replaces Touki Toussaint pitching
+
+b8\t13-3\t2\t---\t7,(3-2) \t\tBAL\tAustin Slater\tEnyel De Los Santos\t0%\t100%\tWalk
+b8\t13-3\t2\t1--\t4,(1-2) \tO\tBAL\tJackson Holliday\tEnyel De Los Santos\t0%\t100%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t2 runs, 2 hits, 0 errors, 1 LOB. White Sox 3, Orioles 13.
+Top of the 9th, White Sox Batting, Behind 3-13, Orioles' Cole Irvin facing 4-5-6
+\t\t\t\t\t\t\t\t\t
+Livan Soto replaces Gunnar Henderson playing SS batting 1st
+
+t9\t3-13\t0\t---\t8,(1-2) \tO\tCHW\tGavin Sheets\tCole Irvin\t0%\t100%\tStrikeout Swinging
+t9\t3-13\t1\t---\t7,(3-2) \tO\tCHW\tChuckie Robinson\tCole Irvin\t0%\t100%\tFoul Popfly: RF (RF into Foul Terr.)
+t9\t3-13\t2\t---\t1,(0-0) \tO\tCHW\tZach DeLoach\tCole Irvin\t0%\t100%\tGroundout: 2B-1B (2B-1B)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. White Sox 3, Orioles 13.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Baltimore Orioles Schedule Chicago White Sox Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Chicago White Sox vs Baltimore Orioles Box Score: September 2, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/BAL/BAL202409020.shtml 
+ ----- 

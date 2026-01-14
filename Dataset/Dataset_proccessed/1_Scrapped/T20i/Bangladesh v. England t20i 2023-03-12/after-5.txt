@@ -1,0 +1,330 @@
+BAN vs ENG
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+News
+Photos
+RESULT
+2nd T20I (D/N), Mirpur, March 12, 2023, England tour of Bangladesh
+ENG
+117
+BAN
+(18.5/20 ov, T:118) 120/6
+
+Bangladesh won by 4 wickets (with 7 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+ENG 0.00%
+BAN 100%
+ENG
+BAN
+100%
+50%
+100%
+ENG Innings
+BAN Innings
+
+Over 19 • BAN 120/6
+
+Bangladesh won by 4 wickets (with 7 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+News
+Photos
+PLAYER OF THE MATCH
+Mehidy Hasan Miraz
+, BAN
+20 (16) & 4/12
+CRICINFO'S MVP
+Mehidy Hasan Miraz
+, BAN
+104.5 pts
+Impact List
+England
+Bangladesh
+Match Flow
+Info
+England  (20 ovs maximum)
+Batting	R	B	4s	6s	SR
+
+Phil Salt 
+	25	19	3	1	131.57
+
+c & b Shakib Al Hasan
+
+
+Dawid Malan 
+	5	8	1	0	62.50
+
+c Hasan Mahmud b Taskin Ahmed
+
+
+Moeen Ali 
+	15	17	1	1	88.23
+
+c sub (Shamim Hossain) b Mehidy Hasan Miraz
+
+
+Jos Buttler (c)†
+	4	6	0	0	66.66
+
+b Hasan Mahmud
+
+
+Ben Duckett 
+	28	28	2	0	100.00
+
+c Najmul Hossain Shanto b Mustafizur Rahman
+
+
+Sam Curran 
+	12	16	1	0	75.00
+
+st †Litton Das b Mehidy Hasan Miraz
+
+
+Chris Woakes 
+	0	2	0	0	0.00
+
+st †Litton Das b Mehidy Hasan Miraz
+
+
+Chris Jordan 
+	3	10	0	0	30.00
+
+c Rony Talukdar b Mehidy Hasan Miraz
+
+
+Rehan Ahmed 
+	11	11	2	0	100.00
+
+run out (†Litton Das/Mustafizur Rahman)
+
+
+Adil Rashid 
+	1	2	0	0	50.00
+
+not out
+
+
+Jofra Archer 
+	0	1	0	0	0.00
+
+run out (†Litton Das/Mustafizur Rahman)
+
+Extras	13	(lb 7, w 6)
+Total	117	
+20 Ov
+ (RR: 5.85)
+
+
+Fall of wickets: 1-16 (Dawid Malan, 2.2 ov), 2-50 (Phil Salt, 6.3 ov), 3-55 (Jos Buttler, 7.6 ov), 4-57 (Moeen Ali, 8.6 ov), 5-91 (Sam Curran, 14.2 ov), 6-91 (Chris Woakes, 14.4 ov), 7-100 (Chris Jordan, 16.6 ov), 8-114 (Ben Duckett, 19.1 ov), 9-116 (Rehan Ahmed, 19.4 ov), 10-117 (Jofra Archer, 19.6 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Taskin Ahmed
+	4	0	27	
+1
+	6.75	3	0
+
+Mustafizur Rahman
+	4	0	19	
+1
+	4.75	1	0
+
+Nasum Ahmed
+	1	0	13	0	13.00	0	0
+
+Shakib Al Hasan
+	3	0	13	
+1
+	4.33	1	0
+
+Hasan Mahmud
+	2	0	10	
+1
+	5.00	0	0
+
+Mehidy Hasan Miraz
+	4	0	12	
+4
+	3.00	0	0
+
+Najmul Hossain Shanto
+	1	0	9	0	9.00	0	0
+
+Afif Hossain
+	1	0	7	0	7.00	1	0
+Bangladesh  (T: 118 runs from 20 ovs)
+Batting	R	B	4s	6s	SR
+
+Litton Das †
+	9	9	1	0	100.00
+
+c Salt b Curran
+
+
+Rony Talukdar 
+	9	14	1	0	64.28
+
+c Ali b Archer
+
+
+Najmul Hossain Shanto 
+	46	47	3	0	97.87
+
+not out
+
+
+Towhid Hridoy 
+	17	18	2	0	94.44
+
+c Woakes b Rehan Ahmed
+
+
+Mehidy Hasan Miraz 
+	20	16	0	2	125.00
+
+c Rashid b Archer
+
+
+Shakib Al Hasan (c)
+	0	3	0	0	0.00
+
+c Jordan b Ali
+
+
+Afif Hossain 
+	2	3	0	0	66.66
+
+b Archer
+
+
+Taskin Ahmed 
+	8	3	2	0	266.66
+
+not out
+
+Extras	9	(b 4, lb 2, w 3)
+Total	120/6	
+18.5 Ov
+ (RR: 6.37)
+
+
+Did not bat: 
+Nasum Ahmed, 
+Hasan Mahmud, 
+Mustafizur Rahman 
+
+
+Fall of wickets: 1-16 (Litton Das, 2.3 ov), 2-27 (Rony Talukdar, 5.1 ov), 3-56 (Towhid Hridoy, 10.2 ov), 4-97 (Mehidy Hasan Miraz, 15.4 ov), 5-100 (Shakib Al Hasan, 16.4 ov), 6-105 (Afif Hossain, 17.5 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Sam Curran
+	3	0	15	
+1
+	5.00	1	0
+
+Chris Woakes
+	1	0	7	0	7.00	0	0
+
+Jofra Archer
+	4	0	13	
+3
+	3.25	0	0
+
+Moeen Ali
+	4	0	25	
+1
+	6.25	0	0
+
+Adil Rashid
+	4	0	28	0	7.00	2	0
+
+Rehan Ahmed
+	2	0	11	
+1
+	5.50	0	0
+
+Chris Jordan
+	0.5	0	15	0	18.00	0	0
+Unlocking the magic of Statsguru
+Match Flow
+England innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 50 runs, 1 wicket)
+England: 50 runs in 5.6 overs (36 balls), Extras 7
+Drinks: England - 63/4 in 10.0 overs (BM Duckett 2, SM Curran 5)
+England: 100 runs in 16.5 overs (101 balls), Extras 10
+Innings Break: England - 117/10 in 20.0 overs (AU Rashid 1)
+Bangladesh innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 32 runs, 2 wickets)
+Bangladesh: 50 runs in 9.3 overs (57 balls), Extras 3
+Drinks: Bangladesh - 55/2 in 10.0 overs (Najmul Hossain Shanto 17, Towhid Hridoy 17)
+Over 13.3: Review by England (Bowling), Umpire - Sharfuddoula, Batter - Najmul Hossain Shanto (Struck down - Umpires Call)
+Bangladesh: 100 runs in 16.3 overs (99 balls), Extras 9
+Match Details
+Shere Bangla National Stadium, Mirpur
+
+Toss	Bangladesh, elected to field first
+Series	
+England tour of Bangladesh
+
+Season	
+2022/23
+
+Player Of The Match	
+Mehidy Hasan Miraz
+
+Series result	Bangladesh led the 3-match series 2-0
+Match number	
+T20I no. 2023
+
+Hours of play (local time)	15.00 start, First Session 15.00-16.30, Interval 16.30-16.50, Second Session 16.50-18.20
+Match days	12 March 2023 - daynight (20-over match)
+T20I debut	
+Rehan Ahmed
+
+Umpires	
+Gazi Sohel
+DRS
+Sharfuddoula
+DRS
+
+TV Umpire	
+Masudur Rahman
+
+Reserve Umpire	
+Tanvir Ahmed
+
+Match Referee	
+Neeyamur Rashid
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+Feedback
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/england-in-bangladesh-2022-23-1351394/bangladesh-vs-england-2nd-t20i-1351401/full-scorecard 
+ ----- 

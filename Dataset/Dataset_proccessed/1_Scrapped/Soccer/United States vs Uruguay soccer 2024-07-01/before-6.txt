@@ -1,0 +1,135 @@
+July 1, 20244 min to readCloud ServicesDigital WorkplaceNews and Updates
+
+Cyber security update, June
+Ravi BindraCISO
+
+SoftwareOne believes there is a need for additional information when it comes to cyber security, as organizations have made it clear that investment in a proper security strategy is paramount. SoftwareOne’s monthly “Cyber Security Update” provides information on the most recent threats, the latest breaches and how to react to them in order to stay on top of malware and ransomware threats.
+
+Latest security breaches
+
+Computer hardware manufacturer Cooler Master suffered a data breach, resulting in the theft of customer data by a threat actor known as 'Ghostr'. The breach involved the company's Fanzone website, where customers register products and request support. The stolen data includes personal information of over 500,000 customers, as well as product and employee information.
+
+American automotive parts giant Advance Auto Parts confirmed a breach after a threat actor attempted to sell stolen data containing personal information of employees and job applicants, as well as customer information.
+
+The stolen data included social security numbers, government identification numbers, employees' full names, email addresses, and customer names and email addresses.
+
+PCBA manufacturing giant Keytronic suffered a data breach after the Black Basta ransomware gang leaked 530GB of the company's stolen data. The breach also caused them to shut down domestic and Mexico operations for two weeks while they responded to the attack. Normal operations have now resumed.
+
+Globe Life is investigating a data breach in one of its web portals, which may have exposed consumer and policyholder information. The company has removed external access to the affected portal and engaged external security experts to assess the breach's scope and impact. Globe Life has not yet determined if the incident is a material cybersecurity event but stated that it has not significantly affected operations.
+
+In another significant data breach, Hackers from the cybercriminal group UNC5537 have stolen a significant volume of data from hundreds of Snowflake customers. Over 165 organizations have been affected, with many lacking multi-factor authentication (MFA) and network allow-lists, making them vulnerable. Mandiant and Snowflake are investigating the ongoing threat, advising customers to improve their security measures.
+
+Truist Bank confirmed a data breach after threat actor Sp1d3r posted stolen data on a hacking forum. The breach, involved data from 65,000 employees and included names, account numbers, and bank transaction details. Truist contained the breach quickly, investigated with security consultants, and notified affected clients.
+
+In another Pure Storage data breach, attackers gained unauthorized access to its Snowflake workspace. The compromised data included customer names, usernames, and email addresses, but no credentials for array access or other sensitive customer data. The breach was linked to the wider Snowflake attacks by the UNC5537 threat actor group, exploiting stolen credentials from infostealer malware. Pure Storage has contacted affected customers and is collaborating with security firms to mitigate further risks.
+
+Cybersecurity company Cylance has confirmed that old data, including 34 million customer and employee emails and personal information, is being sold on a hacking forum by a threat actor known as Sp1d3r for $750,000.
+
+In another massive breach, Ticketmaster’s data was stolen from a third-party cloud database provider, Snowflake, potentially exposing the personal information of over 560 million users. The threat actor, Shiny Hunters, claimed to have stolen the data from Snowflake by using stolen credentials obtained through information-stealing malware to breach an employee's ServiceNow account.
+
+The BBC experienced a data security breach, affecting personal information of around 25,000 BBC Pension Scheme members.
+
+The compromised data included full names, national insurance numbers, dates of birth, sex, and home addresses, but not telephone numbers, email addresses, bank details, or financial information.
+
+Auction house Christie's confirmed a data breach after the RansomHub extortion group threatened to leak stolen client data. The incident involved unauthorized access to parts of Christie's network, compromising personal information of some clients. Financial and transactional records were not affected. RansomHub claims to hold sensitive data of 500,000 clients and is using this to pressure Christie's for ransom.
+
+Bluetooth tracking device company Tile has fallen victim to a mammoth data breach, with cybercriminals stealing sensitive consumer data like names, physical addresses, and phone numbers, and even accessing tools that process location requests made by law enforcement.
+
+Cyber security awareness
+
+The Australian Prudential Regulation Authority (APRA) has issued new directives emphasizing the importance of data backups to enhance cyber resilience among its regulated entities. APRA identified common issues in current backup practices, such as lack of segregation and inadequate testing, which could hinder system restoration during cyber events.
+
+CISOs should priorities building cyber fault tolerance, streamlining cyber tools, and creating a resilient cyber workforce to elevate response and recovery to equal status with prevention.
+
+Embracing an ethos of adopting the fewest number of tools required and aggressively pursuing GenAI augmentations can help CISOs break the cycle of gear acquisition syndrome.
+
+As per World Economic Forum, effective measurement of digital safety is crucial for accountability, resource allocation, and continuous improvement. Metrics should be categorized into impact, risk, and process categories to provide a comprehensive understanding of digital safety. Collaborative efforts are needed to address data access and privacy concerns for effective measurement of digital safety. Read the full report here: How to measure digital safety effectively to reduce risks online.
+
+Cyber security intelligence
+
+A critical vulnerability named "CosmicSting" (CVE-2024-34102) has been discovered in Adobe Commerce and Magento, posing a severe risk of remote code execution and data theft.
+
+Despite the availability of a patch, approximately 75% of Adobe Commerce and Magento users have not yet addressed the vulnerability, leaving millions of websites at risk.
+
+As per Gartner, Cloud security spending is forecasted to grow 24% in 2024, driven by the need to protect data, applications, and infrastructure in the face of evolving threats as organizations increasingly shift to cloud platforms.
+
+The use of containerization technologies in cloud environments presents unique challenges for CISOs, leading to increased investment in solutions like cloud-native application performance platforms (CNAPP) to address runtime threat detection and workload security.
+
+Smart security for the new world of work
+
+Remote work is the future. But that means data has never been more accessible and at such high risk. We add security without contributing to your staffing overhead. We operate a dedicated security operations centre (SOC) that tracks data vulnerabilities globally to prevent losses due to break-ins or employee errors.
+
+LEARN MORE
+
+Smart security for the new world of work
+
+Remote work is the future. But that means data has never been more accessible and at such high risk. We add security without contributing to your staffing overhead. We operate a dedicated security operations centre (SOC) that tracks data vulnerabilities globally to prevent losses due to break-ins or employee errors.
+
+Author
+
+Ravi Bindra
+CISO
+
+Ravi holds over 20 years’ experience as a cyber security evangelist, holding multiple leadership roles in the Swiss pharmaceutical industry, such as Global Head of Risk Management, Global Head of Architecture and Global Head of Security Operations. 
+
+Related articles
+
+December 9, 2024Ravi Bindra
+
+Cyber security update, November
+
+Discover the latest global cyber security news as SoftwareOne rounds up the most recent threats and key events.
+
+LEARN MORE
+
+December 9, 2024Blog Editorial Team
+
+IT insights, November
+
+The tech world is such a rapidly developing field that it can sometimes be hard to stay up to date. With our monthly IT insights, you’ll stay in the know. Read SoftwareOne ’s November news, vendor insights and trending topics.
+
+LEARN MORE
+
+November 18, 2024Ravi Bindra
+
+Cyber security update, October
+
+Discover the latest global cyber security news as SoftwareOne rounds up the most recent threats and key events.
+
+LEARN MORE
+
+Contact Us
+
+SoftwareOne, Inc. | US Headquarters
+320 E Buffalo St, Suite 200
+Milwaukee, WI, 53202
+United States
++1 800 444 9890
+connect.us@softwareone.com
+
+Company
+
+Careers
+About SoftwareOne
+Investors
+Partner Programs
+Media releases
+
+Useful Links
+
+Code of Conduct
+Integrity Line
+Terms and Conditions
+Privacy Statement
+Imprint
+Contact us
+
+SoftwareOne is redefining how companies build, buy and manage everything in the cloud. By helping clients to migrate and modernize their workloads and applications – and in parallel, to navigate and optimize the resulting software and cloud changes – SoftwareOne unlocks the value of technology.
+
+© SoftwareOne AG 2024
+CONNECT
+ 
+ 
+ ----- 
+ Source link : https://www.softwareone.com/en-us/blog/articles/2020/06/02/cyber-security-update-june 
+ ----- 

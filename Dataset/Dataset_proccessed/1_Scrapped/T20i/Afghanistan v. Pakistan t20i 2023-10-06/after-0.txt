@@ -1,0 +1,37 @@
+	CricClubs
+Home
+Players
+Matches
+Teams
+Statistics
+Series
+League
+ Log in
+Player Batting Records
+Player:	Babar Azam
+Series:	ICC Cricket World cup 2023
+Start Date:	10/05/2023	
+
+
+No.  	Match Date  	Team  	Against  	Winner  	Batting Position  	Runs  	Balls 	SR  	4's  	6's  	Points  	 
+1	11/11/2023	Pakistan	England	England	3	38	45	84.44	6	0	74	Scorecard
+2	11/04/2023	Pakistan	New Zealand	Pakistan	3	66*	63	104.76	6	2	218	Scorecard
+3	10/31/2023	Pakistan	Bangladesh	Pakistan	3	9	16	56.25	1	0	10	Scorecard
+4	10/27/2023	Pakistan	South Africa	South Africa	3	50	65	76.92	4	1	156	Scorecard
+5	10/23/2023	Pakistan	Afghanistan	Afghanistan	3	74	92	80.43	4	1	228	Scorecard
+6	10/20/2023	Pakistan	Australia	Australia	3	18	14	128.57	3	0	51	Scorecard
+7	10/14/2023	Pakistan	India	India	3	50	58	86.21	7	0	157	Scorecard
+8	10/10/2023	Pakistan	Sri Lanka	Pakistan	3	10	15	66.67	1	0	21	Scorecard
+9	10/06/2023	Pakistan	Netherlands	Pakistan	3	5	18	27.78	0	0	-5	Scorecard
+
+© Copyright 2025 CricClubs.com. All Rights Reserved.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://cricclubs.com/InternationalScores/playerBattingRecords.do?playerId=2010827&league=1468&clubId=11707 
+ ----- 

@@ -1,0 +1,492 @@
+Welcome, football fans from around the world! Use FBref in: Français · Português · Italiano · Español · Deutsch · English
+MENU
+2024 Croatia Stats (UEFA Euro 2024)
+Previous Season Next Season
+
+Last Match: Draw 1–1 vs Portugal
+
+Next Match: Thursday, Mar 20 vs France
+
+Manager: Zlatko Dalić
+
+Governing Country: UEFA
+
+UEFA Euro 2024: Finished 3rd place in Group stage
+
+Become a Stathead & surf this site ad-free.
+Croatia Stats & History
+More Croatia Pages
+
+Stats by Competition
+
+Player Career Details
+
+Stats by Competition
+
+All Competitions UEFA Euro 2024 UEFA Euro Qualifying Friendlies (M)
+
+Match Logs (All Competitions)
+
+Scores & Fixtures Shooting Goalkeeping Passing Pass Types Goal and Shot Creation Defensive Actions Possession Miscellaneous Stats
+
+Match Logs (UEFA Euro 2024)
+
+Scores & Fixtures Shooting Goalkeeping Passing Pass Types Goal and Shot Creation Defensive Actions Possession Miscellaneous Stats
+
+Match Logs (UEFA Euro Qualifying)
+
+Scores & Fixtures Shooting Goalkeeping
+
+Match Logs (Friendlies (M))
+
+Scores & Fixtures Shooting Goalkeeping
+
+Competition Goal Logs
+
+All Competitions UEFA Euro 2024 UEFA Euro Qualifying Friendlies (M)
+Reus relieved to finally win domestic title
+2024 Competitions
+All CompetitionsUEFA Euro 2024UEFA Euro QualifyingFriendlies (M)
+Standard Stats 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+		Playing Time	Performance	Expected	Progression	Per 90 Minutes	
+Player	Pos	Age	MP	Starts	Min	90s	Gls	Ast	G+A	G-PK	PK	PKatt	CrdY	CrdR	xG	npxG	xAG	npxG+xAG	PrgC	PrgP	PrgR	Gls	Ast	G+A	G-PK	G+A-PK	xG	xAG	xG+xAG	npxG	npxG+xAG	Matches
+Joško Gvardiol	DF	22	3	3	270	3.0	0	0	0	0	0	0	0	0	0.1	0.1	0.0	0.1	3	15	8	0.00	0.00	0.00	0.00	0.00	0.03	0.00	0.03	0.03	0.03	Matches
+Dominik Livaković	GK	29	3	3	270	3.0	0	0	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0	0	0	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	Matches
+Josip Šutalo	DF	23	3	3	270	3.0	0	0	0	0	0	0	0	0	0.6	0.6	0.0	0.6	1	10	0	0.00	0.00	0.00	0.00	0.00	0.20	0.00	0.20	0.20	0.20	Matches
+Andrej Kramarić	FW	32	3	3	243	2.7	1	0	1	1	0	0	0	0	0.7	0.7	0.2	0.9	5	7	32	0.37	0.00	0.37	0.37	0.37	0.28	0.07	0.35	0.28	0.35	Matches
+Luka Modrić	MF	38	3	3	233	2.6	1	0	1	1	0	1	1	0	1.0	0.1	0.6	0.7	11	21	8	0.39	0.00	0.39	0.39	0.39	0.37	0.25	0.62	0.03	0.28	Matches
+Marcelo Brozović	MF	31	3	3	225	2.5	0	0	0	0	0	0	1	0	0.1	0.1	0.1	0.2	2	13	6	0.00	0.00	0.00	0.00	0.00	0.06	0.03	0.09	0.06	0.09	Matches
+Mateo Kovačić	MF	29	3	3	223	2.5	0	0	0	0	0	0	0	0	0.5	0.5	0.1	0.6	12	11	4	0.00	0.00	0.00	0.00	0.00	0.21	0.06	0.26	0.21	0.26	Matches
+Marin Pongračić	DF	26	2	2	180	2.0	0	0	0	0	0	0	1	0	0.0	0.0	0.0	0.0	0	3	0	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	Matches
+Josip Stanišić	DF	23	2	2	180	2.0	0	0	0	0	0	0	1	0	0.2	0.2	0.0	0.2	3	8	9	0.00	0.00	0.00	0.00	0.00	0.09	0.02	0.11	0.09	0.11	Matches
+Lovro Majer	FW,MF	26	3	2	146	1.6	0	0	0	0	0	0	0	0	0.2	0.2	0.3	0.5	4	11	10	0.00	0.00	0.00	0.00	0.00	0.11	0.20	0.31	0.11	0.31	Matches
+Luka Sučić	FW,MF	21	3	1	140	1.6	0	0	0	0	0	0	1	0	0.6	0.6	0.4	1.0	6	7	5	0.00	0.00	0.00	0.00	0.00	0.37	0.27	0.64	0.37	0.64	Matches
+Ivan Perišić	DF,FW	34	3	1	139	1.5	0	0	0	0	0	0	0	0	0.1	0.1	0.4	0.5	8	4	17	0.00	0.00	0.00	0.00	0.00	0.07	0.24	0.31	0.07	0.31	Matches
+Ante Budimir	FW	32	3	1	122	1.4	0	1	1	0	0	0	0	0	0.8	0.5	1.2	1.7	1	2	5	0.00	0.74	0.74	0.00	0.74	0.60	0.87	1.48	0.38	1.25	Matches
+Mario Pašalić	FW,MF	28	3	1	116	1.3	0	0	0	0	0	0	0	0	0.4	0.4	0.0	0.4	2	5	7	0.00	0.00	0.00	0.00	0.00	0.29	0.00	0.29	0.29	0.29	Matches
+Josip Juranović	DF	28	2	1	91	1.0	0	0	0	0	0	0	0	0	0.0	0.0	0.2	0.2	1	3	10	0.00	0.00	0.00	0.00	0.00	0.00	0.15	0.15	0.00	0.15	Matches
+Bruno Petković	FW	29	2	1	87	1.0	0	0	0	0	0	1	0	0	1.1	0.3	0.1	0.4	2	4	2	0.00	0.00	0.00	0.00	0.00	1.11	0.08	1.20	0.30	0.38	Matches
+Luka Ivanušec	MF	25	1	0	21	0.2	0	0	0	0	0	0	1	0	0.0	0.0	0.0	0.0	0	0	0	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	Matches
+Martin Baturina	FW	20	1	0	7	0.1	0	0	0	0	0	0	0	0	0.1	0.1	0.0	0.1	1	0	0	0.00	0.00	0.00	0.00	0.00	0.95	0.00	0.95	0.95	0.95	Matches
+Borna Sosa	DF	26	1	0	7	0.1	0	0	0	0	0	0	0	0	0.0	0.0	0.0	0.0	0	0	1	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	Matches
+Ivica Ivušić	GK	28	0	0		0.0	0	0	0	0	0	0	1	0																		Matches
+Martin Erlic	DF	26	0	0																												Matches
+Nediljko Labrović	GK	24	0	0																												Matches
+Marco Pašalić	MF	23	0	0																												Matches
+Marko Pjaca	FW,MF	28	0	0																												Matches
+Domagoj Vida	DF,MF	34	0	0																												Matches
+Nikola Vlašić	FW,MF	26	0	0																												Matches
+Squad Total		28.6	3	33	270	3.0	2	1	3	2	0	2	7	0	5.7	4.0	3.5	7.6	62	124	124	0.67	0.33	1.00	0.67	1.00	1.89	1.17	3.07	1.35	2.52	
+Opponent Total		26.9	3	33	270	3.0	6	5	11	6	0	0	7	0	4.4	4.4	3.6	8.0	45	95	95	2.00	1.67	3.67	2.00	3.67	1.45	1.21	2.66	1.45	2.66	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+2024 Competitions
+All CompetitionsUEFA Euro 2024UEFA Euro QualifyingFriendlies (M)
+2024 Match Log Types
+Scores & FixturesShootingGoalkeepingPassingPass TypesGoal and Shot CreationDefensive ActionsPossessionMiscellaneous Stats
+Scores & Fixtures 2024 Croatia: All Competitions 
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Date	Time	Comp	Round	Day	Venue	Result	GF	GA	Opponent	xG	xGA	Poss	Attendance	Captain	Formation	Opp Formation	Referee	Match Report	Notes
+2023-03-25	20:45 (19:45)	UEFA Euro Qualifying	Group stage	Sat	Home	D	1	1	wls Wales			67	33,474	Luka Modrić	4-3-3	4-4-1-1	João Pinheiro	Match Report	
+2023-03-28	21:45 (18:45)	UEFA Euro Qualifying	Group stage	Tue	Away	W	2	0	tr Türkiye			54	37,750	Luka Modrić	4-3-3	4-2-3-1	Andreas Ekberg	Match Report	
+2023-09-08	20:45 (18:45)	UEFA Euro Qualifying	Group stage	Fri	Home	W	5	0	lv Latvia			75	8,152	Luka Modrić	4-2-3-1	4-1-4-1	Philip Farrugia	Match Report	
+2023-09-11	20:00 (16:00)	UEFA Euro Qualifying	Group stage	Mon	Away	W	1	0	am Armenia			68	14,233	Luka Modrić	4-3-3	3-4-3	Clément Turpin	Match Report	
+2023-10-12	20:45 (18:45)	UEFA Euro Qualifying	Group stage	Thu	Home	L	0	1	tr Türkiye			63	12,812	Luka Modrić	4-3-3	4-2-3-1	Anthony Taylor	Match Report	
+2023-10-15	19:45 (18:45)	UEFA Euro Qualifying	Group stage	Sun	Away	L	1	2	wls Wales			72	31,240	Luka Modrić	4-3-3	3-4-3	Davide Massa	Match Report	
+2023-11-18	19:00 (17:00)	UEFA Euro Qualifying	Group stage	Sat	Away	W	2	0	lv Latvia			69	6,747	Luka Modrić	4-2-3-1	4-2-3-1	Urs Schnyder	Match Report	
+2023-11-21	20:45 (19:45)	UEFA Euro Qualifying	Group stage	Tue	Home	W	1	0	am Armenia			67	20,398	Luka Modrić	4-3-3	4-4-2	Ivan Kružliak	Match Report	
+2024-06-03	19:00 (17:00)	Friendlies (M)	Friendlies (M)	Mon	Home	W	3	0	mk N. Macedonia				8,030	Mateo Kovačić	4-2-3-1	3-5-2		Match Report	
+2024-06-08	17:45 (16:45)	Friendlies (M)	Friendlies (M)	Sat	Away	W	2	1	pt Portugal					Luka Modrić	4-1-4-1	4-1-4-1		Match Report	
+2024-06-15	18:00 (16:00)	UEFA Euro	Group stage	Sat	Neutral	L	0	3	es Spain	2.1	2.0	54	68,844	Luka Modrić	4-3-3	4-3-3	Michael Oliver	Match Report	
+2024-06-19	15:00 (13:00)	UEFA Euro	Group stage	Wed	Neutral	D	2	2	al Albania	2.6	1.5	67	46,784	Luka Modrić	4-3-3	4-3-3	François Letexier	Match Report	
+2024-06-24	21:00 (19:00)	UEFA Euro	Group stage	Mon	Neutral	D	1	1	it Italy	1.0	0.9	46	38,322	Luka Modrić	4-3-3	3-1-4-2	Danny Makkelie	Match Report	
+Includes all matches from 2024-01-01 to 2024-12-31 (as well as qualifying matches for tournaments that took place during the 2024 season).
+Goalkeeping 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Playing Time	Performance	Penalty Kicks	
+Player	Pos	Age	MP	Starts	Min	90s	GA	GA90	SoTA	Saves	Save%	W	D	L	CS	CS%	PKatt	PKA	PKsv	PKm	Save%	Matches
+Dominik Livaković	GK	29	3	3	270	3.0	6	2.00	15	9	60.0	0	2	1	0	0.0	0	0	0	0		Matches
+Squad Total		28.6	3	3	270	3.0	6	2.00	15	9	60.0	0	2	1	0	0.0	0	0	0	0		
+Opponent Total		26.9	3	3	270	3.0	3	1.00	18	14	83.3	1	2	0	1	33.3	2	0	2	0	100.0	
+Totals may not be complete for all senior-level play, see coverage note.
+Become a Stathead & surf this site ad-free.
+Advanced Goalkeeping 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Goals	Expected	Launched	Passes	Goal Kicks	Crosses	Sweeper	
+Player	Pos	Age	90s	GA	PKA	FK	CK	OG	PSxG	PSxG/SoT	PSxG+/-	/90	Cmp	Att	Cmp%	Att (GK)	Thr	Launch%	AvgLen	Att	Launch%	AvgLen	Opp	Stp	Stp%	#OPA	#OPA/90	AvgDist	Matches
+Dominik Livaković	GK	29	3.0	6	0	0	1	0	6.6	0.44	+0.6	+0.20	10	33	30.3	76	20	36.8	32.7	17	29.4	30.1	35	0	0.0	5	1.67	16.3	Matches
+Squad Total		28.6	3.0	6	0	0	1	0	6.6	0.44	+0.6	+0.20	10	33	30.3	76	20	36.8		17	29.4	30.1	35	0	0.0	5	1.67		
+Opponent Total		26.9	3.0	3	0	0	0	1	6.6	0.25	+4.6	+1.52	19	46	41.3	75	14	45.3	36.3	25	48.0	41.5	41	4	9.8	3	1.00	12.0	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Shooting 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Standard	Expected	
+Player	Pos	Age	90s	Gls	Sh	SoT	SoT%	Sh/90	SoT/90	G/Sh	G/SoT	Dist	FK	PK	PKatt	xG	npxG	npxG/Sh	G-xG	np:G-xG	Matches
+Joško Gvardiol	DF	22	3.0	0	2	0	0.0	0.67	0.00	0.00		15.4	0	0	0	0.1	0.1	0.05	-0.1	-0.1	Matches
+Dominik Livaković	GK	29	3.0	0	0	0		0.00	0.00				0	0	0	0.0	0.0		0.0	0.0	Matches
+Josip Šutalo	DF	23	3.0	0	1	0	0.0	0.33	0.00	0.00		1.4	0	0	0	0.6	0.6	0.61	-0.6	-0.6	Matches
+Andrej Kramarić	FW	32	2.7	1	4	2	50.0	1.48	0.74	0.25	0.50	16.3	0	0	0	0.7	0.7	0.19	+0.3	+0.3	Matches
+Luka Modrić	MF	38	2.6	1	4	1	25.0	1.55	0.39	0.25	1.00	24.1	0	0	1	1.0	0.1	0.02	0.0	+0.9	Matches
+Marcelo Brozović	MF	31	2.5	0	3	2	66.7	1.20	0.80	0.00	0.00	24.8	0	0	0	0.1	0.1	0.05	-0.1	-0.1	Matches
+Mateo Kovačić	MF	29	2.5	0	6	3	50.0	2.42	1.21	0.00	0.00	20.2	0	0	0	0.5	0.5	0.08	-0.5	-0.5	Matches
+Marin Pongračić	DF	26	2.0	0	0	0		0.00	0.00				0	0	0	0.0	0.0		0.0	0.0	Matches
+Josip Stanišić	DF	23	2.0	0	1	0	0.0	0.50	0.00	0.00		8.7	0	0	0	0.2	0.2	0.19	-0.2	-0.2	Matches
+Lovro Majer	FW,MF	26	1.6	0	2	0	0.0	1.23	0.00	0.00		9.6	0	0	0	0.2	0.2	0.09	-0.2	-0.2	Matches
+Luka Sučić	FW,MF	21	1.6	0	3	2	66.7	1.93	1.29	0.00	0.00	18.0	0	0	0	0.6	0.6	0.19	-0.6	-0.6	Matches
+Ivan Perišić	DF,FW	34	1.5	0	4	2	50.0	2.59	1.29	0.00	0.00	23.3	0	0	0	0.1	0.1	0.03	-0.1	-0.1	Matches
+Ante Budimir	FW	32	1.4	0	5	3	60.0	3.69	2.21	0.00	0.00	9.3	0	0	0	0.8	0.5	0.10	-0.8	-0.5	Matches
+Mario Pašalić	FW,MF	28	1.3	0	3	0	0.0	2.33	0.00	0.00		7.0	0	0	0	0.4	0.4	0.12	-0.4	-0.4	Matches
+Josip Juranović	DF	28	1.0	0	0	0		0.00	0.00				0	0	0	0.0	0.0		0.0	0.0	Matches
+Bruno Petković	FW	29	1.0	0	3	0	0.0	3.10	0.00	0.00		14.2	0	0	1	1.1	0.3	0.10	-1.1	-0.3	Matches
+Luka Ivanušec	MF	25	0.2	0	0	0		0.00	0.00				0	0	0	0.0	0.0		0.0	0.0	Matches
+Martin Baturina	FW	20	0.1	0	1	1	100.0	12.86	12.86	0.00	0.00	13.3	0	0	0	0.1	0.1	0.07	-0.1	-0.1	Matches
+Borna Sosa	DF	26	0.1	0	0	0		0.00	0.00				0	0	0	0.0	0.0		0.0	0.0	Matches
+Squad Total		28.6	3.0	2	42	16	38.1	14.00	5.33	0.05	0.13	16.4	0	0	2	5.7	4.0	0.11	-3.7	-2.0	
+Opponent Total		26.9	3.0	6	38	15	39.5	12.67	5.00	0.16	0.40	16.6	2	0	0	4.4	4.4	0.12	+1.6	+1.6	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Passing 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Total	Short	Medium	Long		Expected		
+Player	Pos	Age	90s	Cmp	Att	Cmp%	TotDist	PrgDist	Cmp	Att	Cmp%	Cmp	Att	Cmp%	Cmp	Att	Cmp%	Ast	xAG	xA	A-xAG	KP	1/3	PPA	CrsPA	PrgP	Matches
+Joško Gvardiol	DF	22	3.0	144	158	91.1	2267	468	78	82	95.1	53	57	93.0	11	15	73.3	0	0.0	0.2	0.0	0	17	3	0	15	Matches
+Dominik Livaković	GK	29	3.0	69	93	74.2	1660	1191	24	24	100.0	30	30	100.0	15	39	38.5	0	0.0	0.0	0.0	0	0	0	0	0	Matches
+Josip Šutalo	DF	23	3.0	191	199	96.0	3221	938	82	85	96.5	97	101	96.0	11	12	91.7	0	0.0	0.0	0.0	0	7	0	0	10	Matches
+Andrej Kramarić	FW	32	2.7	71	89	79.8	998	114	50	55	90.9	17	24	70.8	3	7	42.9	0	0.2	0.2	-0.2	6	1	3	1	7	Matches
+Luka Modrić	MF	38	2.6	190	221	86.0	2855	812	109	113	96.5	69	80	86.3	7	17	41.2	0	0.6	0.4	-0.6	3	34	3	0	21	Matches
+Marcelo Brozović	MF	31	2.5	170	188	90.4	3008	654	70	75	93.3	89	99	89.9	10	11	90.9	0	0.1	0.1	-0.1	2	22	2	2	13	Matches
+Mateo Kovačić	MF	29	2.5	156	168	92.9	2341	505	88	91	96.7	60	63	95.2	5	9	55.6	0	0.1	0.7	-0.1	4	19	2	0	11	Matches
+Marin Pongračić	DF	26	2.0	113	124	91.1	2226	715	34	40	85.0	66	68	97.1	10	13	76.9	0	0.0	0.0	0.0	0	3	0	0	3	Matches
+Josip Stanišić	DF	23	2.0	109	133	82.0	1621	334	61	66	92.4	39	45	86.7	6	14	42.9	0	0.0	0.1	0.0	1	4	2	1	8	Matches
+Lovro Majer	FW,MF	26	1.6	92	101	91.1	1338	288	57	59	96.6	25	27	92.6	6	6	100.0	0	0.3	0.4	-0.3	3	4	4	1	11	Matches
+Luka Sučić	FW,MF	21	1.6	77	84	91.7	1257	238	39	41	95.1	32	35	91.4	5	5	100.0	0	0.4	0.2	-0.4	3	7	3	1	7	Matches
+Ivan Perišić	DF,FW	34	1.5	44	63	69.8	688	254	29	32	90.6	12	19	63.2	3	10	30.0	0	0.4	1.2	-0.4	3	1	6	4	4	Matches
+Ante Budimir	FW	32	1.4	8	16	50.0	93	26	6	11	54.5	2	4	50.0	0	0		1	1.2	0.6	-0.2	3	0	2	0	2	Matches
+Mario Pašalić	FW,MF	28	1.3	34	40	85.0	426	86	22	24	91.7	9	10	90.0	1	2	50.0	0	0.0	0.1	0.0	0	1	1	0	5	Matches
+Josip Juranović	DF	28	1.0	53	65	81.5	860	247	32	37	86.5	16	20	80.0	5	6	83.3	0	0.2	0.4	-0.2	2	3	4	3	3	Matches
+Bruno Petković	FW	29	1.0	16	20	80.0	230	34	9	11	81.8	3	4	75.0	2	2	100.0	0	0.1	0.1	-0.1	2	1	1	0	4	Matches
+Luka Ivanušec	MF	25	0.2	7	11	63.6	81	29	4	5	80.0	2	3	66.7	0	1	0.0	0	0.0	0.0	0.0	0	0	0	0	0	Matches
+Martin Baturina	FW	20	0.1	2	4	50.0	24	4	2	3	66.7	0	0		0	1	0.0	0	0.0	0.0	0.0	0	0	0	0	0	Matches
+Borna Sosa	DF	26	0.1	1	2	50.0	8	6	1	1	100.0	0	0		0	1	0.0	0	0.0	0.0	0.0	0	0	0	0	0	Matches
+Squad Total		28.6	3.0	1547	1779	87.0	25202	6943	797	855	93.2	621	689	90.1	100	171	58.5	1	3.5	4.7	-2.5	32	124	36	13	124	
+Opponent Total		26.9	3.0	1188	1446	82.2	19935	7167	598	658	90.9	442	501	88.2	116	206	56.3	5	3.6	3.7	+1.4	32	67	27	7	95	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Pass Types 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+	Pass Types	Corner Kicks	Outcomes	
+Player	Pos	Age	90s	Att	Live	Dead	FK	TB	Sw	Crs	TI	CK	In	Out	Str	Cmp	Off	Blocks	Matches
+Joško Gvardiol	DF	22	3.0	158	140	18	2	1	1	0	16	0	0	0	0	144	0	1	Matches
+Dominik Livaković	GK	29	3.0	93	71	22	5	0	0	0	0	0	0	0	0	69	0	0	Matches
+Josip Šutalo	DF	23	3.0	199	194	5	4	0	0	0	1	0	0	0	0	191	0	0	Matches
+Andrej Kramarić	FW	32	2.7	89	84	5	0	2	1	7	1	0	0	0	0	71	0	2	Matches
+Luka Modrić	MF	38	2.6	221	206	15	9	1	1	9	1	4	3	0	0	190	0	5	Matches
+Marcelo Brozović	MF	31	2.5	188	183	5	4	1	1	4	1	0	0	0	0	170	0	1	Matches
+Mateo Kovačić	MF	29	2.5	168	166	2	2	1	0	0	0	0	0	0	0	156	0	2	Matches
+Marin Pongračić	DF	26	2.0	124	118	6	6	0	0	0	0	0	0	0	0	113	0	0	Matches
+Josip Stanišić	DF	23	2.0	133	119	14	0	0	2	4	14	0	0	0	0	109	0	3	Matches
+Lovro Majer	FW,MF	26	1.6	101	97	4	2	0	1	4	1	1	0	0	0	92	0	4	Matches
+Luka Sučić	FW,MF	21	1.6	84	81	3	3	1	2	2	0	0	0	0	0	77	0	1	Matches
+Ivan Perišić	DF,FW	34	1.5	63	56	7	0	0	0	14	7	0	0	0	0	44	0	2	Matches
+Ante Budimir	FW	32	1.4	16	15	1	0	0	0	1	0	0	0	0	0	8	0	1	Matches
+Mario Pašalić	FW,MF	28	1.3	40	40	0	0	1	0	1	0	0	0	0	0	34	0	2	Matches
+Josip Juranović	DF	28	1.0	65	57	8	0	0	0	8	7	0	0	0	0	53	0	2	Matches
+Bruno Petković	FW	29	1.0	20	18	2	0	0	0	0	0	0	0	0	0	16	0	0	Matches
+Luka Ivanušec	MF	25	0.2	11	11	0	0	0	0	0	0	0	0	0	0	7	0	1	Matches
+Martin Baturina	FW	20	0.1	4	4	0	0	0	0	0	0	0	0	0	0	2	0	0	Matches
+Borna Sosa	DF	26	0.1	2	2	0	0	0	0	1	0	0	0	0	0	1	0	0	Matches
+Squad Total		28.6	3.0	1779	1662	117	37	8	9	55	49	5	3	0	0	1547	0	27	
+Opponent Total		26.9	3.0	1446	1305	133	43	8	8	45	42	17	7	6	0	1188	8	27	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Goal and Shot Creation 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	SCA	SCA Types	GCA	GCA Types	
+Player	Pos	Age	90s	SCA	SCA90	PassLive	PassDead	TO	Sh	Fld	Def	GCA	GCA90	PassLive	PassDead	TO	Sh	Fld	Def	Matches
+Joško Gvardiol	DF	22	3.0	1	0.33	1	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Dominik Livaković	GK	29	3.0	0	0.00	0	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Josip Šutalo	DF	23	3.0	1	0.33	0	0	0	0	0	1	0	0.00	0	0	0	0	0	0	Matches
+Andrej Kramarić	FW	32	2.7	13	4.81	10	0	1	2	0	0	0	0.00	0	0	0	0	0	0	Matches
+Luka Modrić	MF	38	2.6	9	3.46	8	1	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Marcelo Brozović	MF	31	2.5	6	2.40	5	0	0	1	0	0	0	0.00	0	0	0	0	0	0	Matches
+Mateo Kovačić	MF	29	2.5	8	3.23	7	0	1	0	0	0	1	0.40	1	0	0	0	0	0	Matches
+Marin Pongračić	DF	26	2.0	0	0.00	0	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Josip Stanišić	DF	23	2.0	5	2.50	4	0	0	1	0	0	0	0.00	0	0	0	0	0	0	Matches
+Lovro Majer	FW,MF	26	1.6	5	3.10	5	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Luka Sučić	FW,MF	21	1.6	11	7.07	9	0	2	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Ivan Perišić	DF,FW	34	1.5	5	3.24	4	0	0	1	0	0	0	0.00	0	0	0	0	0	0	Matches
+Ante Budimir	FW	32	1.4	5	3.69	2	0	1	2	0	0	2	1.48	1	0	0	1	0	0	Matches
+Mario Pašalić	FW,MF	28	1.3	1	0.78	1	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Josip Juranović	DF	28	1.0	2	1.98	2	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Bruno Petković	FW	29	1.0	4	4.14	2	0	0	1	1	0	0	0.00	0	0	0	0	0	0	Matches
+Luka Ivanušec	MF	25	0.2	0	0.00	0	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Martin Baturina	FW	20	0.1	2	25.71	0	0	2	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Borna Sosa	DF	26	0.1	0	0.00	0	0	0	0	0	0	0	0.00	0	0	0	0	0	0	Matches
+Squad Total		28.6	3.0	78	26.00	60	1	7	8	1	1	3	1.00	2	0	0	1	0	0	
+Opponent Total		26.9	3.0	69	23.00	51	4	5	4	2	3	12	4.00	10	0	2	0	0	0	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Defensive Actions 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Tackles	Challenges	Blocks		
+Player	Pos	Age	90s	Tkl	TklW	Def 3rd	Mid 3rd	Att 3rd	Tkl	Att	Tkl%	Lost	Blocks	Sh	Pass	Int	Tkl+Int	Clr	Err	Matches
+Joško Gvardiol	DF	22	3.0	5	3	3	1	1	2	4	50.0	2	2	1	1	5	10	4	0	Matches
+Dominik Livaković	GK	29	3.0	0	0	0	0	0	0	0		0	0	0	0	1	1	2	0	Matches
+Josip Šutalo	DF	23	3.0	5	3	5	0	0	2	3	66.7	1	6	5	1	13	18	7	1	Matches
+Andrej Kramarić	FW	32	2.7	0	0	0	0	0	0	0		0	3	1	2	1	1	1	0	Matches
+Luka Modrić	MF	38	2.6	4	4	4	0	0	1	2	50.0	1	1	0	1	1	5	1	0	Matches
+Marcelo Brozović	MF	31	2.5	1	0	1	0	0	0	2	0.0	2	3	1	2	4	5	4	0	Matches
+Mateo Kovačić	MF	29	2.5	8	6	2	5	1	2	5	40.0	3	2	1	1	3	11	0	0	Matches
+Marin Pongračić	DF	26	2.0	2	1	2	0	0	0	4	0.0	4	6	3	3	2	4	9	0	Matches
+Josip Stanišić	DF	23	2.0	10	8	3	5	2	5	9	55.6	4	3	1	2	4	14	2	0	Matches
+Lovro Majer	FW,MF	26	1.6	4	3	1	2	1	2	2	100.0	0	4	0	4	0	4	0	0	Matches
+Luka Sučić	FW,MF	21	1.6	0	0	0	0	0	0	0		0	4	0	4	1	1	1	0	Matches
+Ivan Perišić	DF,FW	34	1.5	0	0	0	0	0	0	0		0	1	0	1	1	1	3	0	Matches
+Ante Budimir	FW	32	1.4	2	2	0	1	1	1	1	100.0	0	3	1	2	0	2	2	0	Matches
+Mario Pašalić	FW,MF	28	1.3	1	0	1	0	0	0	0		0	0	0	0	0	1	2	0	Matches
+Josip Juranović	DF	28	1.0	3	3	1	2	0	2	3	66.7	1	1	1	0	1	4	1	0	Matches
+Bruno Petković	FW	29	1.0	0	0	0	0	0	0	1	0.0	1	0	0	0	0	0	1	0	Matches
+Luka Ivanušec	MF	25	0.2	0	0	0	0	0	0	0		0	0	0	0	0	0	1	0	Matches
+Martin Baturina	FW	20	0.1	1	1	0	1	0	0	0		0	0	0	0	0	1	0	0	Matches
+Borna Sosa	DF	26	0.1	0	0	0	0	0	0	1	0.0	1	1	1	0	0	0	0	0	Matches
+Squad Total		28.6	3.0	46	34	23	17	6	17	37	45.9	20	40	16	24	37	83	41	1	
+Opponent Total		26.9	3.0	38	21	15	14	9	12	47	25.5	35	31	10	21	15	53	54	0	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Possession 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Touches	Take-Ons	Carries	Receiving	
+Player	Pos	Age	90s	Touches	Def Pen	Def 3rd	Mid 3rd	Att 3rd	Att Pen	Live	Att	Succ	Succ%	Tkld	Tkld%	Carries	TotDist	PrgDist	PrgC	1/3	CPA	Mis	Dis	Rec	PrgR	Matches
+Joško Gvardiol	DF	22	3.0	187	7	42	111	36	2	187	6	4	66.7	0	0.0	111	661	343	3	5	0	5	7	132	8	Matches
+Dominik Livaković	GK	29	3.0	101	88	101	0	0	0	101	0	0		0		52	234	156	0	0	0	1	0	49	0	Matches
+Josip Šutalo	DF	23	3.0	235	34	102	128	6	1	235	3	3	100.0	0	0.0	129	559	319	1	0	0	2	2	174	0	Matches
+Andrej Kramarić	FW	32	2.7	111	3	6	36	69	13	111	9	5	55.6	2	22.2	67	477	222	5	7	2	4	2	89	32	Matches
+Luka Modrić	MF	38	2.6	241	0	22	134	86	5	240	4	3	75.0	0	0.0	155	883	494	11	7	1	4	4	182	8	Matches
+Marcelo Brozović	MF	31	2.5	207	8	46	131	30	1	207	1	1	100.0	0	0.0	126	594	258	2	4	0	1	0	169	6	Matches
+Mateo Kovačić	MF	29	2.5	192	1	21	112	61	4	192	10	6	60.0	1	10.0	133	984	533	12	13	2	3	5	160	4	Matches
+Marin Pongračić	DF	26	2.0	149	27	73	76	2	0	149	3	1	33.3	1	33.3	88	583	272	0	0	0	1	0	100	0	Matches
+Josip Stanišić	DF	23	2.0	156	4	36	80	42	2	156	2	2	100.0	0	0.0	82	416	174	3	1	0	3	2	110	9	Matches
+Lovro Majer	FW,MF	26	1.6	119	1	14	53	53	8	119	1	1	100.0	0	0.0	81	491	196	4	6	0	5	1	95	10	Matches
+Luka Sučić	FW,MF	21	1.6	97	0	7	50	40	5	97	4	3	75.0	1	25.0	67	490	257	6	4	0	1	0	78	5	Matches
+Ivan Perišić	DF,FW	34	1.5	77	5	8	17	52	7	77	3	1	33.3	2	66.7	46	290	185	8	3	2	1	0	55	17	Matches
+Ante Budimir	FW	32	1.4	36	3	3	12	21	12	36	2	1	50.0	1	50.0	12	35	8	1	0	0	4	1	22	5	Matches
+Mario Pašalić	FW,MF	28	1.3	51	3	8	23	20	7	51	2	0	0.0	2	100.0	31	191	103	2	2	0	2	0	36	7	Matches
+Josip Juranović	DF	28	1.0	73	2	16	24	33	1	73	1	0	0.0	1	100.0	23	132	96	1	2	1	1	0	47	10	Matches
+Bruno Petković	FW	29	1.0	32	1	1	11	20	8	31	2	1	50.0	1	50.0	18	47	26	2	2	1	2	1	29	2	Matches
+Luka Ivanušec	MF	25	0.2	13	1	1	5	7	0	13	0	0		0		3	9	0	0	0	0	0	1	7	0	Matches
+Martin Baturina	FW	20	0.1	5	1	1	2	3	1	5	3	3	100.0	0	0.0	3	24	15	1	0	1	0	0	2	0	Matches
+Borna Sosa	DF	26	0.1	3	1	1	1	1	0	3	0	0		0		1	10	6	0	0	0	0	0	2	1	Matches
+Squad Total		28.6	3.0	2085	190	509	1006	582	77	2083	56	35	62.5	12	21.4	1228	7110	3663	62	56	10	40	26	1538	124	
+Opponent Total		26.9	3.0	1703	192	548	815	353	63	1703	43	20	46.5	17	39.5	1090	5394	2600	45	30	15	35	29	1178	95	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Playing Time 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+		Playing Time	Starts	Subs	Team Success	Team Success (xG)	
+Player	Pos	Age	MP	Min	Mn/MP	Min%	90s	Starts	Mn/Start	Compl	Subs	Mn/Sub	unSub	PPM	onG	onGA	+/-	+/-90	On-Off	onxG	onxGA	xG+/-	xG+/-90	On-Off	Matches
+Joško Gvardiol	DF	22	3	270	90	100.0	3.0	3	90	3	0		0	0.67	3	6	-3	-1.00		5.7	4.4	+1.3	+0.44		Matches
+Dominik Livaković	GK	29	3	270	90	100.0	3.0	3	90	3	0		0	0.67	3	6	-3	-1.00		5.7	4.4	+1.3	+0.44		Matches
+Josip Šutalo	DF	23	3	270	90	100.0	3.0	3	90	3	0		0	0.67	3	6	-3	-1.00		5.7	4.4	+1.3	+0.44		Matches
+Andrej Kramarić	FW	32	3	243	81	90.0	2.7	3	81	0	0		0	0.67	3	4	-1	-0.37	+6.30	4.6	3.7	+0.9	+0.32	-1.19	Matches
+Luka Modrić	MF	38	3	233	78	86.3	2.6	3	78	1	0		0	0.67	3	5	-2	-0.77	+1.66	4.8	4.2	+0.6	+0.24	-1.51	Matches
+Marcelo Brozović	MF	31	3	225	75	83.3	2.5	3	75	2	0		0	0.67	1	5	-4	-1.60	-3.60	3.3	3.8	-0.5	-0.19	-3.78	Matches
+Mateo Kovačić	MF	29	3	223	74	82.6	2.5	3	74	1	0		0	0.67	3	5	-2	-0.81	+1.11	4.8	4.0	+0.8	+0.33	-0.65	Matches
+Marin Pongračić	DF	26	2	180	90	66.7	2.0	2	90	2	0		1	0.50	1	4	-3	-1.50	-1.50	3.1	2.9	+0.2	+0.08	-1.08	Matches
+Josip Stanišić	DF	23	2	180	90	66.7	2.0	2	90	2	0		1	0.50	1	4	-3	-1.50	-1.50	3.1	2.9	+0.2	+0.08	-1.08	Matches
+Lovro Majer	FW,MF	26	3	146	49	54.1	1.6	2	68	1	1	11	0	0.67	0	5	-5	-3.08	-4.53	2.4	3.0	-0.6	-0.40	-1.81	Matches
+Luka Sučić	FW,MF	21	3	140	47	51.9	1.6	1	69	0	2	36	0	0.67	3	1	+2	+1.29	+4.75	4.2	1.2	+2.9	+1.89	+3.02	Matches
+Ivan Perišić	DF,FW	34	3	139	46	51.5	1.5	1	83	0	2	28	0	0.67	2	2	0	0.00	+2.06	3.3	1.4	+1.9	+1.20	+1.56	Matches
+Ante Budimir	FW	32	3	122	41	45.2	1.4	1	55	0	2	34	0	0.67	3	5	-2	-1.48	-0.87	3.3	2.8	+0.5	+0.37	-0.13	Matches
+Mario Pašalić	FW,MF	28	3	116	39	43.0	1.3	1	45	0	2	36	0	0.67	2	1	+1	+0.78	+3.11	3.3	1.0	+2.2	+1.72	+2.24	Matches
+Josip Juranović	DF	28	2	91	46	33.7	1.0	1	90	1	1	1	1	1.00	2	3	-1	-0.99	+0.02	2.6	1.6	+1.1	+1.06	+0.93	Matches
+Bruno Petković	FW	29	2	87	44	32.2	1.0	1	68	0	1	19	1	0.50	0	1	-1	-1.03	-0.05	2.3	1.0	+1.3	+1.31	+1.28	Matches
+Luka Ivanušec	MF	25	1	21	21	7.8	0.2	0		0	1	21	2	1.00	0	1	-1	-4.29	-3.56	0.0	0.3	-0.3	-1.21	-1.80	Matches
+Martin Baturina	FW	20	1	7	7	2.6	0.1	0		0	1	7	2	1.00	0	1	-1	-12.86	-12.17	0.2	0.5	-0.2	-3.18	-3.72	Matches
+Borna Sosa	DF	26	1	7	7	2.6	0.1	0		0	1	7	2	1.00	0	1	-1	-12.86	-12.17	0.2	0.5	-0.2	-3.18	-3.72	Matches
+Ivica Ivušić	GK	28	0			0.0	0.0	0		0	0		2	1.00	2	2	0								Matches
+Martin Erlic	DF	26	0					0		0	0		3												Matches
+Nediljko Labrović	GK	24	0					0		0	0		3												Matches
+Marco Pašalić	MF	23	0					0		0	0		3												Matches
+Marko Pjaca	FW,MF	28	0					0		0	0		3												Matches
+Domagoj Vida	DF,MF	34	0					0		0	0		3												Matches
+Nikola Vlašić	FW,MF	26	0					0		0	0		1												Matches
+Squad Total		28.6	3	270	90	100	3.0	33	80	19	14	24	28	0.67	3	6	-3	-1.00		5.7	4.4	+1.3	+0.44		
+Opponent Total		26.9	3	270	90	100	3.0	33	80	19	14	19	31	1.67	6	3	+3	+1.00		4.4	5.7	-1.3	-0.44		
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Miscellaneous Stats 2024 Croatia: UEFA Euro 2024 
+GlossaryToggle Per90 Stats
+Scroll Right For More Stats · Switch to Widescreen View
+	Performance	Aerial Duels	
+Player	Pos	Age	90s	CrdY	CrdR	2CrdY	Fls	Fld	Off	Crs	Int	TklW	PKwon	PKcon	OG	Recov	Won	Lost	Won%	Matches
+Joško Gvardiol	DF	22	3.0	0	0	0	6	3	0	0	5	3	0	0	0	16	0	5	0.0	Matches
+Dominik Livaković	GK	29	3.0	0	0	0	0	0	0	0	1	0	0	0	0	7	0	0		Matches
+Josip Šutalo	DF	23	3.0	0	0	0	6	5	0	0	13	3	0	0	0	13	3	2	60.0	Matches
+Andrej Kramarić	FW	32	2.7	0	0	0	4	3	0	7	1	0	0	0	0	6	2	2	50.0	Matches
+Luka Modrić	MF	38	2.6	1	0	0	3	2	0	9	1	4	0	0	0	20	1	1	50.0	Matches
+Marcelo Brozović	MF	31	2.5	1	0	0	2	0	0	4	4	0	0	0	0	2	1	1	50.0	Matches
+Mateo Kovačić	MF	29	2.5	0	0	0	3	4	0	0	3	6	0	0	0	14	0	0		Matches
+Marin Pongračić	DF	26	2.0	1	0	0	6	2	0	0	2	1	0	0	0	5	0	4	0.0	Matches
+Josip Stanišić	DF	23	2.0	1	0	0	1	0	0	4	4	8	0	0	0	4	3	3	50.0	Matches
+Lovro Majer	FW,MF	26	1.6	0	0	0	2	2	0	4	0	3	0	0	0	9	1	1	50.0	Matches
+Luka Sučić	FW,MF	21	1.6	1	0	0	1	1	0	2	1	0	0	0	0	5	1	1	50.0	Matches
+Ivan Perišić	DF,FW	34	1.5	0	0	0	4	0	0	14	1	0	0	0	0	5	3	2	60.0	Matches
+Ante Budimir	FW	32	1.4	0	0	0	5	1	0	1	0	2	0	0	0	1	7	11	38.9	Matches
+Mario Pašalić	FW,MF	28	1.3	0	0	0	1	0	0	1	0	0	0	0	0	6	4	2	66.7	Matches
+Josip Juranović	DF	28	1.0	0	0	0	0	1	0	8	1	3	0	0	0	5	2	0	100.0	Matches
+Bruno Petković	FW	29	1.0	0	0	0	1	5	0	0	0	0	1	0	0	1	5	2	71.4	Matches
+Luka Ivanušec	MF	25	0.2	1	0	0	1	0	0	0	0	0	0	0	0	2	0	0		Matches
+Martin Baturina	FW	20	0.1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0		Matches
+Borna Sosa	DF	26	0.1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0		Matches
+Squad Total		28.6	3.0	7	0	0	46	29	0	55	37	34	1	0	0	122	33	37	47.1	
+Opponent Total		26.9	3.0	7	0	0	31	42	8	45	15	21	0	2	1	121	37	33	52.9	
+Totals may not be complete for all senior-level play, see coverage note.
+Expected Goals (xG explained) and other Advanced Data provided by Opta, and is available for these competitions.
+Group stage (June 14, 2024 to June 26, 2024)
+Group B, UEFA Euro 2024 
+promoted, relegated, Cup QualifierView Complete League Table Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Rk	Squad	MP	W	D	L	GF	GA	GD	Pts	xG	xGA	xGD	xGD/90	Top Team Scorer	Goalkeeper	Notes
+1	es Spain	3	3	0	0	5	0	+5	9	5.5	2.7	+2.8	+0.92	Dani Olmo - 3	Unai Simón	→ Round of 16
+2	it Italy	3	1	1	1	3	3	0	4	2.6	3.5	-0.9	-0.29	Nicolò Barella, Alessandro Bastoni... - 1	Gianluigi Donnarumma	→ Round of 16
+3	hr Croatia	3	0	2	1	3	6	-3	2	5.7	4.4	+1.3	+0.44	Luka Modrić, Andrej Kramarić - 1	Dominik Livaković	
+4	al Albania	3	0	1	2	3	5	-2	1	2.4	5.7	-3.2	-1.07	Qazim Laçi, Nedim Bajrami... - 1	Thomas Strakosha	
+Ranking of third-placed teams, UEFA Euro 2024 
+promoted, relegated, Cup QualifierView Complete League Table
+Rk	Squad	MP	W	D	L	GF	GA	GD	Pts	Notes
+1	ge Georgia	3	1	1	1	4	4	0	4	→ Round of 16
+2	nl Netherlands	3	1	1	1	4	4	0	4	→ Round of 16
+3	sk Slovakia	3	1	1	1	3	3	0	4	→ Round of 16
+4	si Slovenia	3	0	3	0	2	2	0	3	→ Round of 16
+5	hu Hungary	3	1	0	2	2	5	-3	3	
+6	hr Croatia	3	0	2	1	3	6	-3	2	
+About FBref.com
+
+FBref.com launched (June 13, 2018) with domestic league coverage for England, France, Germany, Italy, Spain, and United States. Since then we have been steadily expanding our coverage to include domestic leagues from over 40 countries as well as domestic cup, super cup and youth leagues from top European countries. We have also added coverage for major international cups such as the UEFA Champions League and Copa Libertadores.
+
+FBref is the most complete sources for women's football data on the internet. This includes the entire history of the FIFA Women's World Cup as well as recent domestic league seasons from nine countries, including advanced stats like xG for most of those nine.
+
+In collaboration with Opta, we are including advanced analytical data such as xG, xA, progressive passing, duels and more for over twenty competitions. For more information on the expected goals model and which competitions have advanced data, see our xG explainer.
+
+View Additional Information
+More Croatia Pages
+
+Croatia Stats & History
+
+Stats by Competition
+
+Player Career Details
+
+Stats by Competition
+
+All Competitions UEFA Euro 2024 UEFA Euro Qualifying Friendlies (M)
+
+Match Logs (All Competitions)
+
+Scores & Fixtures Shooting Goalkeeping Passing Pass Types Goal and Shot Creation Defensive Actions Possession Miscellaneous Stats
+
+Match Logs (UEFA Euro 2024)
+
+Scores & Fixtures Shooting Goalkeeping Passing Pass Types Goal and Shot Creation Defensive Actions Possession Miscellaneous Stats
+
+Match Logs (UEFA Euro Qualifying)
+
+Scores & Fixtures Shooting Goalkeeping
+
+Match Logs (Friendlies (M))
+
+Scores & Fixtures Shooting Goalkeeping
+
+Competition Goal Logs
+
+All Competitions UEFA Euro 2024 UEFA Euro Qualifying Friendlies (M)
+Previous Season Next Season
+Ad-Free Login Create Account
+You are here: FB Home Page > Squads > Croatia Men Stats, UEFA Euro 2024
+Full Site Menu 
+Return to Top
+Stathead/FBref
+Player Match Finder, Player Season Finder, Team Match Finder, Team Season Finder, ...
+Players
+Edin Džeko, Stefan Kießling, Stefanie van der Gragt, Alexandra Popp, Nilla Fischer, Zlatan Ibrahimović, Henrikh Mkhitaryan, Onome Ebi, Daniel Parejo, Ivan Rakitić, Álvaro Negredo, Lorenzo Insigne, José Callejón, Emily van Egmond, Karen Carney, ...
+Players who played for multiple squads
+Clubs
+Manchester City (M), Chelsea (F), Real Madrid (M), Barcelona (F), Paris Saint-Germain (M), Lyon (F), Bayern Munich (M), Bayern Munich (F), Internazionale (M), AS Roma (F), River Plate (M), Central Coast Mariners (M), Melbourne City (F), Red Bull Salzburg (M), St. Pölten (F), Club Brugge (M), Anderlecht (F), The Strongest (M), Palmeiras (M), Corinthians (F), Ludogorets Razgrad (M), Cavalry FC (M), Colo-Colo (M), Shanghai Port (M), Millonarios (M), Dinamo Zagreb (M), Slavia Prague (M), FC Copenhagen (M), HB Køge (F), Independiente del Valle (M), KuPS (M), Olympiacos (M), Ferencváros (M), Mohun Bagan (M), Persepolis (M), Vissel Kobe (M), Urawa Reds (F), Ulsan Hyundai FC (M), Al-Hilal (M), América (M), PSV Eindhoven (M), Ajax (F), Bodø/Glimt (M), Vålerenga (F), Libertad (M), Sporting Cristal (M), Raków Częstochowa (M), Sporting CP (M), FCSB (M), Mamelodi Sundowns (M), Zenit (M), Celtic (M), Red Star (M), Young Boys (M), Servette (F), Malmö (M), Rosengård (F), Galatasaray (M), Dynamo Kyiv (M), Peñarol (M), Los Angeles FC (M), Orlando Pride (F), Deportivo Táchira (M), ...
+Seasons
+2023, 2023-2024, 2024, 2024-2025, 2025, 2026, ...
+Competitions
+UEFA Champions League, FIFA World Cup, AFC Asian Cup, UEFA European Football Championship, UEFA Nations League, CONMEBOL Copa América, CONCACAF Gold Cup, Africa Cup of Nations, UEFA Women's Champions League, FIFA Women's World Cup, Olympics — Women's Tournament, AFC Women's Asian Cup, UEFA Women's Championship, Copa América Femenina, CONCACAF W Championship, Africa Women Cup of Nations, Premier League, FA Cup, EFL Cup, FA Women's Super League, La Liga, Copa del Rey, Liga F, Ligue 1, Coupe de France, Coupe de la Ligue, Première Ligue, Fußball-Bundesliga, DFB-Pokal, Frauen-Bundesliga, DFB-Pokal Frauen, Serie A, Coppa Italia, Serie A, Liga Profesional de Fútbol Argentina, Copa de la Liga Profesional, A-League Men, A-League Women, Austrian Football Bundesliga, ÖFB Frauen-Bundesliga, Belgian Pro League, Belgian Women's Super League, División de Fútbol Profesional, Campeonato Brasileiro Série A, Brasileirão Feminino Série A1, First Professional Football League, Canadian Premier League, Chilean Primera División, Chinese Football Association Super League, Categoría Primera A, Croatian Football League, Czech First League, Danish Superliga, Danish Women's League, Liga Profesional Ecuador, Veikkausliiga, Super League Greece, Nemzeti Bajnokság I, Indian Super League, Persian Gulf Pro League, J1 League, Women Empowerment League, K League 1, Saudi Professional League, Liga MX, Eredivisie, Eredivisie Vrouwen, Eliteserien, Toppserien, Paraguayan Primera División, Liga 1 de Fútbol Profesional, Ekstraklasa, Primeira Liga, Liga I, South African Premier Division, Russian Premier League, Scottish Premiership, Serbian SuperLiga, Swiss Super League, Swiss Women's Super League, Allsvenskan, Damallsvenskan, Süper Lig, Ukrainian Premier League, Uruguayan Primera División, Major League Soccer, National Women's Soccer League, NWSL Fall Series, Venezuelan Primera División, ...
+Scores & Fixtures
+Thursday December 26, 2024, Friday December 27, 2024, Saturday December 28, 2024, Sunday December 29, 2024
+Awards
+Ballon d'Or Féminin, Ballon d'Or, FIFA FIFPro Women's World XI, FIFA FIFPro World XI, FIFA World Cup All-Star Team, FIFA Women's World Cup All-Star Team, African Women's Footballer of the Year, African Footballer of the Year, CONCACAF Female Player of the Year, CONCACAF Male Player of the Year, UEFA Women's Player of the Year, UEFA Men's Player of the Year, ...
+Countries
+England, Spain, France, Germany, Italy, Argentina, Australia, Austria, Belgium, Bolivia, Brazil, Bulgaria, Canada, Chile, China PR, Colombia, Croatia, Czech Republic, Denmark, Ecuador, Finland, Greece, Hungary, India, Iran, Japan, Korea Republic, Saudi Arabia, Mexico, Netherlands, Norway, Paraguay, Peru, Poland, Portugal, Romania, South Africa, Russia, Scotland, Serbia, Switzerland, Sweden, Turkey, Ukraine, Uruguay, United States, Venezuela, ...
+Draft History
+Major League Soccer: 2024, 2023, 2022, 2021, 2020, ...
+NWSL: 2024, 2023, 2022, 2021, 2020, ...
+Frivolities
+Players With Multiple Squads, Birthdays, National Team Scouting
+About FBref
+Expected Goals Model Explained, FBref Coverage, Positions & Nationalities, Data Usage Terms, Frequently Asked Questions about Football
+Immaculate Footy (World)
+and
+Immaculate Footy (England)
+Put your football knowledge to the test with our daily football trivia game. Can you complete the grid?
+FBref.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Friday, December 27, 1:58PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead FBref: Get your first month FREE
+Your All-Access Ticket to the FBref Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+FBref Launch Post: What we've done, what we have and what's next.
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Football data provided by
+Advanced statistics provided by
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Footy ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • FBref.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://fbref.com/en/squads/7b08e376/2024/Croatia-Men-Stats 
+ ----- 

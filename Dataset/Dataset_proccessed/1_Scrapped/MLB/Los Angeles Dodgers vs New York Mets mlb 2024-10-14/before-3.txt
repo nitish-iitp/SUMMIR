@@ -1,0 +1,261 @@
+Home | Archives | About | FAQ | Legal/Privacy | Features | Exclusive Interviews | Minor Leagues | Contact us | Twitter | 
+User Functions
+Username:
+
+Password:
+
+
+
+Blue Jays Official Site
+
+
+Hot Topics
+Last years team vs past Jays (137 - 1:51pm, Jan 9)
+Snakes and Ladders 2024 (6 - 12:30pm, Jan 8)
+Advance Scout: Cubs, September 8-10 (184 - 12:30pm, Jan 8)
+Fresh Thread (235 - 12:30pm, Jan 8)
+Post Winter Meetings (259 - 4:49pm, Jan 7)
+Miami at Toronto, September 27-29 (91 - 7:02am, Jan 6)
+Blue Jays Report Card (117 - 7:04pm, Jan 4)
+New Fisher Cats Schedule (31 - 7:04pm, Jan 4)
+Ross Atkins to return as Blue Jays GM in 2025 (99 - 6:31pm, Jan 4)
+Winter Meetings 2024 (294 - 6:31pm, Jan 4)
+Adjusted Standings 2024 (13 - 1:21pm, Jan 4)
+Gleeman and Green bet on catching prospects-setting the stage (9 - 1:20am, Jan 3)
+Castillo Clears Out Clearwater (11 - 1:28pm, Dec 31)
+New York Yankees - July 16-18 (22 - 11:02pm, Dec 30)
+Series Thread: Cleveland Comes To Town (101 - 4:33am, Dec 30)
+Topics
+Advance Scout
+AL Central Report
+AL East Report
+AL West Report
+Analysis
+Archives
+Awards
+BBFL
+Boxcast
+Breaking News
+C-Cap Recap
+Draft
+Features
+Game Reports
+Game Threads
+Gone But Not Forgotten
+Hall of Names
+Hall Watch
+Instant Replay
+Interviews
+Library
+Minor League Update
+NL Central Report
+NL East Report
+NL West Report
+Notes from Nowhere
+Photo of the Day
+Recycled
+Rule 5
+This Day in Baseball
+Trivia Challenge
+Windy Baseball Lore
+You Be The Manager
+Search the Box
+ advanced search 
+Contact vs HR in Playoffs
+Mike Wilner keeps ranting about Atkins saying making contact is more important in the playoffs than home run power. Is that the case? Lets take a look.
+
+
+
+
+I get this from listening to Wilner's Podcast (via the Star) - entertaining to listen to, but geez has he got a hate on for Atkins and Shapiro lately.  He doesn't have that for Schneider, and tends to be a players broadcaster (ie: few players in his doghouse unless they abuse women, then they are total scum which I agree with 100%).  When Atkins said that it was proven high contact in the playoffs is more important than hitting home runs that set him off on a multi-episode rant. So I figured lets dig in a bit.  Using K's as a substitute for contact (seems logical enough) and home runs to show raw power.  Yeah, K% would've been more accurate but for this exercise I figured simple was best - not like we have enough data to get more than broad strokes anyways unless I dug into all of baseball history (sorry, I do have a life).
+
+
+Bold = best of the playoff teams at it (for hitters most HR, fewest K's, for pitchers the opposite obviously).  Italics indicates worst.  I put the teams in order of winning percentage in the regular season to help a bit in seeing what matters most of batter or pitcher HR or SO. ** = still playing in 2024, *champs* indicates won the World Series that year.
+
+
+
+ 	Hitter	Pitcher	Playoffs	Series
+Year	Team	HR	SO	HR	SO	W	L	W	L
+2024	Los Angeles Dodgers **
+	233	1336	198	1390	3	2	1	0
+2024	Philadelphia Phillies	198	1370	181	1433	1	3	0	1
+2024	New York Yankees **
+	237	1326	181	1457	3	1	1	0
+2024	Milwaukee Brewers	177	1459	196	1373	1	2	0	1
+2024	San Diego Padres	190	1077	169	1453	4	3	1	1
+2024	Cleveland Guardians **
+	185	1196	179	1410	3	2	1	0
+2024	Baltimore Orioles	235	1359	175	1380	0	2	0	1
+2024	Atlanta Braves	213	1461	150	1553	0	2	0	1
+2024	New York Mets **
+	207	1382	165	1455	5	2	2	0
+2024	Houston Astros	190	1176	183	1479	0	2	0	1
+2024	Detroit Tigers	162	1461	159	1354	4	3	1	1
+2024	Kansas City Royals	170	1161	146	1339	3	3	1	1
+
+
+2023	Atlanta Braves	307	1289	187	1516	1	3	0	1
+2023	Baltimore Orioles	183	1370	177	1431	1	3	0	1
+2023	Los Angeles Dodgers	249	1359	200	1388	0	3	0	1
+2023	Tampa Bay Rays	230	1420	177	1507	0	2	0	1
+2023	Milwaukee Brewers	165	1412	198	1425	0	2	0	1
+2023	Houston Astros	222	1241	201	1460	6	5	1	1
+2023	Philadelphia Phillies	220	1481	185	1454	6	5	1	1
+2023	Texas Rangers *champs*	233	1416	198	1351	13	4	4	0
+2023	Toronto Blue Jays	188	1303	198	1528	0	2	0	1
+2023	Minnesota Twins	233	1654	194	1560	3	3	1	1
+2023	Arizona Diamondbacks	166	1247	197	1351	10	7	3	1
+2023	Miami Marlins	166	1287	191	1490	0	2	0	1
+
+
+2022	Los Angeles Dodgers	212	1374	152	1465	1	3	0	1
+2022	Houston Astros *champs*
+	214	1179	134	1524	11	2	3	0
+2022	Atlanta Braves	243	1498	148	1554	1	3	0	1
+2022	New York Mets	171	1217	169	1565	1	2	0	1
+2022	New York Yankees	254	1391	157	1459	3	6	1	1
+2022	St. Louis Cardinals	197	1226	146	1177	0	2	0	1
+2022	Cleveland Guardians	127	1122	172	1390	4	3	1	1
+2022	Toronto Blue Jays	200	1242	180	1390	0	2	0	1
+2022	Seattle Mariners	197	1397	186	1391	2	3	1	1
+2022	San Diego Padres	153	1327	173	1451	6	6	2	1
+2022	Philadelphia Phillies	205	1363	150	1423	11	6	3	1
+2022	Tampa Bay Rays	139	1395	172	1384	0	2	0	1
+
+
+So what do we see? This covers the current playoff system years (2022-2024) with the exception of games yet to be played (if I knew those results I'd be a very wealthy person).
+
+2022: team with the most HR hit went 3-6 winning 1 series, losing 1; team with the fewest batter K's went 4-3 winning 1 series, losing 1. Team giving up the fewest HR went 11-2 winning it all (3-0 in series); team getting the most K's went 1-2 losing their only series.
+2023: team with the most HR hit went 1-3 losing their only series; team with the fewest batter K's went 6-5 winning 1 series, losing 1. Teams giving up the fewest HR (2 way tie) went 1-5 losing both series they played; team getting the most K's went 3-3 going 1-1 in series.
+2024: team with the most HR hit went 3-1 winning their only series; team with the fewest batter K's went 4-3 going 1-1 in series. Team giving up the fewest HR - getting the most K's was the same team which went 0-2 losing their only series.
+So the best HR hitting teams went 7-10 winning 2 series, losing 2 while still being out there in 2024.  Fewest K's went 14-11 going 3-3 in series. Giving up fewest HR went 12-9 going 3-4 in series with 1 title. Most K's went 4-7 going 1-3 in series.
+Hardly enough to say 'yes this works' or 'no that doesn't' when it comes to K's or HR by hitters or given up by pitchers. Slight edge to keeping K's down vs HR's hit, but that could change in the ALCS and WS potentially. Giving up HR or getting K's didn't seem to do much (yeah, 1 title but otherwise flops).
+
+
+So what did the WS winners do?
+2022: Houston - #3 in HR hit, #2 in fewest K's; #1 in fewest HR given up, #3 in most K's - basically they were damn good at everything.
+
+2023: Texas - tied for #3 in HR hit, 9th in fewest K's (or 4th worst); tied for 8th fewest HR given up (or tied for 3rd most), fewest K's by pitchers - how the heck did they win?
+
+2024: one of NYY, NYM, LAD, or Guardians (still getting used to that). Yanks #1 in HR hit, LAD #3, Mets #5, Guards #9 (ouch); fewest K's: Guards #4, Yanks #5, LAD #6, Mets #9; Fewest HR given up: Mets #4, Guards #7, NYY #8, LAD #12; Most K's: NYY #3, Mets #4, Guards #7, LAD #8
+So based on what Atkins says at this point the Guardians should be winning on offense, as should the Dodgers. But pitching-wise those 2 might be in trouble as they don't K people (relative to the group). For Wilner it is NYY/LAD for hitting, Mets/Guards for pitching.  Dang, split decision across the board - if they hit HR they also give them up, if they K hitters, they also K themselves.  Weird how that worked out.  If anyone can see what either of those 2 claim is critical in the playoffs let me know below as I can't see a solid pattern for high HR or low K batting being 'the key', or the reverse in pitching being key.  Hard to say what the playoff from here on out really say in regards to the two theories unless you feel it only applies to offense and not pitching (which IMO is weird - either it applies to both or neither).  IMO what matters most is being a good team and getting lucky/hot in the playoffs - how you are good is secondary to just being good.
+
+
+
+Now, one could argue both mean during the playoffs but that is hardly something one can predict ahead of time now is it? Suppose your team faces a Nolan Ryan or Randy Johnson in the playoffs then your K's go through the roof. Nah, regular season is the best measure of how a team was designed and that is what matters here.  
+
+
+FYI: Soto, the super-free agent this winter, is a high HR, low K guy - 17.0% K% lifetime, 112 K's per 150 G (low for a slugger).  41 HR this year, 32 per 150 G lifetime.  For comparison Vlad is at 15.6% K%, 101 K/150 G, 29 HR/150 G lifetime. Those 2 are a LOT closer in those figures than I expected to be honest.
+
+Posted by John Northey on Saturday, October 12 2024 @ 02:47 PM EDT.
+
+Contact vs HR in Playoffs | 15 comments | Create New Account
+Newest First
+Oldest First
+ 
+Flat
+Nested
+No Comments
+Threaded
+  
+The following comments are owned by whomever posted them. This site is not responsible for what they say.
+ Magpie - Sunday, October 13 2024 @ 04:16 PM EDT (#453434) #
+I thought I'd ignore the regular season, and see what's actually happened in the post-season recently. The thinking has always been that home runs are more important in the post-season - not because more of them are hit, but because it becomes more difficult to string together longer offensive sequences against the caliber of pitching you see in October. Or that you're supposed to see in October, things could be changing.
+
+Anyway, there have been 25 post-season series since 2021 (I'm not counting the two game Wild Card sets.)
+
+The team that hit the most home runs in the series went 18-5-2 (the series wasn't tied, but the two teams had the number of homers.)_
+
+The team that had the most hits in the series went 20-5.
+
+The team that had the fewest strikeouts went 13-12.
+
+Every series winner managed at least one of these accomplishments. Seven teams pulled off all three, with the most Hits and Home Runs, and the fewest Strikeouts.
+
+Twelve teams managed two of the three markers. Seven teams won with the most Hits and the most Home Runs; Four teams won with the most Hits and the fewest Strikeouts; and one team (the Yankees last week against the Royals) pulled off the interesting feat of hitting the most Home Runs while striking out less often.
+
+The 2023 Diamondbacks in the NLCS were the only team to win while being both out-hit and out-homered.
+
+Three teams (Texas 2023 WS, Yankees 2022 ALDS, Houston 2021 ALDS) won while striking out more often and having fewer hits. They hit more home runs.
+
+Two teams (San Diego 2022 NLDS, Atlanta 2021 NLCS) won despite being out-homered and despite striking out more often. They had more hits. Curiously, both teams beat the Dodgers, although I should note that the Dodgers actually matched the Padres in HRs in the 2022 series, only struck out one more time, and had just two fewer hits (and one fewer walk.)
+ John Northey - Sunday, October 13 2024 @ 04:31 PM EDT (#453436) #
+I get your POV there Magpie and I was curious but I suspect in any set of games you'd pick (spring, bad teams vs good, day games, night games, you name it) the team hitting more HR wins the majority of the time. I was more looking for how to predict victory - which is what Atkins needs to do. Is having a good low K team better than a good high HR team? The results were mixed. In MLB figuring out how to win in the playoffs is going to be an ongoing challenge - the Dodgers went for the best of the best across the board, the Rangers won it all with a team that, on paper, shouldn't have had a shot. I know hockey teams plan for the playoffs, as do NBA teams. Regular season and post season success in those sports are very different things. In MLB the post season seems to be a crap shoot right now, but does it have to be?
+ Magpie - Sunday, October 13 2024 @ 06:26 PM EDT (#453438) #
+Indeed, but it may also be the case that what gets you to the post-season may not be what works best in the post-season.
+
+I seem to have this recollection - maybe it was about ten years ago - that there was an emerging consensus that it was absolutely necessary to have pitchers who could provide a whole lot of swing-and-miss in the post-season. (Like getting lots of hits and home runs, it's probably good at all times.) I can't remember why, but at any rate the teams that strike out more hitters in the post-season haven't had much of an advantage there these last few years.
+ John Northey - Sunday, October 13 2024 @ 08:03 PM EDT (#453439) #
+I think most of it comes from the 'success breads imitation' rule.
+
+Arizona beat the damn Yankees in 2001 with Randy Johnson & Curt Schilling so everyone figured that was the key - a couple of power pitchers who could throw 1000 pitches without breaking. Easily said, hard to do. In 2015 the Royals won with a deep pen (also reached in 2014) so everyone then went 'deep pen, that is the trick'. The Yankees streak in late 90's/early 00's and Dodgers today is $$$$ based so few will try (or even could try) to imitate that. Houston cheated - too dangerous to try to imitate. Boston was $$$ plus some luck (8 straight wins in the post season - 2004 - requires lots of that). Texas no one knows how they won. Atlanta was a strong farm, smart deals - hard to duplicate. A's and Tampa never won it all this century, but many tried to do their low budget approach and failed (including the Jays).
+
+The big thing is quality players top to bottom, and a strong system producing more every year. Every team tries to do this but few succeed. Houston has been the best lately (thus 2 titles, '17 and '22), Boston was doing that well for a long time, but just 1 playoff appearance since they won it all in 2018, heck just twice over 500.
+
+Jays had that from 1982-1993 but sadly it didn't last through a change in GM's. Wouldn't be shocked if someday we look back at this period and go 'crap why did they dump Atkins for xyz, he screwed things up horribly'. Remember, things can always be worse, well, until you hit A's and White Sox territory I guess.
+ uglyone - Monday, October 14 2024 @ 11:24 AM EDT (#453441) #
+Happy BatFlip Day to all who celebrate.
+ bpoz - Monday, October 14 2024 @ 11:51 AM EDT (#453442) #
+Good pitchers working with a catcher that knows how to get the best out of him is good to have. A strong pen. Good D. An O that can score. A smart manager. Having luck.
+
+All the above have played a role.
+ John Northey - Monday, October 14 2024 @ 01:34 PM EDT (#453444) #
+Yeah, I was trying to think of a few other items to add in but really, there isn't much that is likely to result in a 'oh crap that is the magic bullet'.  Maybe in 10 years we'll have a better feel for long form MLB playoffs, but right now there just isn't enough data to work with. Decades of 1 round, a few more of 2 rounds, 2 decades of 3 rounds, a few years of 4 rounds.  Teams with stars and scrubs have won, teams with no stars have won, teams with strong starters, teams with strong pens, etc. Hard to know what to look for, or how to measure it (a pen can suddenly get deep in August with call-ups and trades, but not be obvious until the post-season for example).
+
+ bpoz - Monday, October 14 2024 @ 01:58 PM EDT (#453446) #
+Kirk & the SPs are good enough. A good defensive C is needed to back up Kirk. The OF D should be good with Varsho. Add some adequate corner OFs with good O. Lots of competition there. Vlad at 3B. 1B should be easier to find. Infield D is probably ok. A strong O will probably be the hardest thing to develop with what we have on hand. The pen just needs at most 2 good FA relievers to add to what we have. J Schneider and his managing help seems to be ok now.
+ John Northey - Monday, October 14 2024 @ 03:07 PM EDT (#453447) #
+My bet is a few of the kids acquired this past winter will be shipped out to a non-contender like Oakland for help (Brent Rooker the goal, under team control via arbitration for 2025-2027 - Addison Barger, Joey Loperfido, Steward Berroa, Orelvis Martinez, Jonatan Clase, Leo Jimenez, Davis Schneider, Spencer Horwitz all possible parts in a deal - not all, probably a pick 3 situation, the A's need guys who will be under team control in '28 and beyond for Vegas and Rooker will probably be at his peak value for them right now, I suspect they'll want guys with under 1 year of service time or barely over that).  That'd add the scary bat the Jays want, then comes the pen plus someone for either 3B or 1B depending on Vlad.  I suspect the Jays want to hold onto Jimenez, Horwitz, and Martinez the most.  Clement (team control through 2028) could cover SS if Bo goes until Nimmala is ready.  Many, many moving parts there. Opening day 2025 could either look a LOT like 2024 or it could be something entirely new.
+
+ Michael - Monday, October 14 2024 @ 04:46 PM EDT (#453448) #
+Small sample size and the edges between MLB being small means that luck is going to swamp everything.
+
+The big thing you can change in the playoffs is playing time, so if you have players that get tired easily, the off days in the playoffs means that some player that might only play 65% of your games in the regular season may play 85+% in the playoffs. Similarly a really good SP might play ~20% of the regular season games but might play 35+% of the playoff games. A closer might only get 1 inning a 2-3 times a week might get multiple innings and/or almost every night in the playoffs if the circumstances are right.
+
+That means in the playoffs you'd really want to have a premium on really top pitchers (best starters, best relievers) and your 4/5 SP matter much less than they do in the regular season. Similarly, your extra utility infielder or 4th OF might matter a decent amount in the regular season when they get enough playing time to be a semi-regular player and health backup, but in the playoffs - assuming everyone in front of them is healthy - they might get little to no use.
+
+The last item, to the degree there exist these players, there may be players that feast on mediocre to below average players but struggle against good ones, and those players are going to struggle more in the playoffs compared to the regular season. I.e., maybe there is a hitter who is a mistake hitter and really punishes the pitchers that make mistakes over the plate but struggles with premium pitching. In the regular seasons you'll have 40% of your games against SP4 or SP5 or worse, and half your games will be against non-playoff quality pitching and you'll get lots of opportunities to feast. In the playoffs you'll get much less of that. Similarly, if your super power is taking pitches and working the count, you'll likely face people with better control and fewer balls thrown in the playoffs. In the reverse if you are a pitcher without an out pitch, but that can get less than average strength hitters to chase and strike out on garbage or make weak contact resulting in outs, you might struggle when you are facing the "murderer's row" of a good playoff hitting team. The balance of these things change between the playoffs and the regular season.
+
+I think these things are mostly small though as generally the good players are better against both weak and strong opponents than the not as good players, and the good teams generally are better top to bottom, so you rarely have a stars and scrubs versus the everyone average teams. And to the extent you do, luck and short term variance is going to be the biggest thing anyways.
+ scottt - Monday, October 14 2024 @ 06:36 PM EDT (#453449) #
+They have another shortstop in AAA so Jimenez is expendable. Horwitz is a first baseman. Martinez is basically a DH and has just lost a year due to PED use. A DH with 3 years of control would limit playing time for either.
+Whatever it takes to make it happen.
+
+ John Northey - Monday, October 14 2024 @ 06:52 PM EDT (#453450) #
+The mistake hitter is the one I think Atkins is saying he wants to avoid, vs actual home run hitters.  Guys like Vlad can crank it vs anyone, but others might not. 
+
+
+
+A quick look at Rooker - a favorite around here (including by me) - who did he hit well against? 144 sOPS+ at home, 171 on the road so getting out of Oakland will help him.  190 sOPS+ at cleanup (so a dream for the Jays there). Leverage high-med-low sOPS+ were 160-164-151 so nothing wrong there. 134 vs power pitchers, 210 vs finesse (possible issue in playoffs), sub 500 teams 188, better than 500 137 - big spread there, not ideal but not a nightmare either.  Hmm. Was expecting a red flag or two to show up with his high K rate (K% of 28.8% which is very bad).  Soto won a WS with the Nationals  in '19 and did it by hitting for over an 1100 OPS during the WS so he clearly can handle the pressure - lifetime 834 OPS in postseason which is worse than his regular season 953 but some degree of drop is expected.
+
+
+No question, some players get far more time in the playoffs (a quality pinch runner is a must, as is a top notch closer) while others get far less (backup IF/OF/C far less important as are #5 starters and 6/7/8 relievers depending on how the staff is set up). Smart managers adjust (Cito didn't in 89/91 but sure did in 92/93 - him using a PH was rare in the regular season but not unusual in the post season), but sometimes smart ones don't (Cox with his strict platooning might have cost the Jays in '85).
+
+ bpoz - Tuesday, October 15 2024 @ 12:51 PM EDT (#453452) #
+I don't know what the A's plans and policy is at the moment because of their move to Vegas. However if they are going to trade players then I think catcher S Langeliers would fetch a V good return. He can be traded to any team not specifically the Jays.
+ Kelekin - Thursday, October 17 2024 @ 02:54 PM EDT (#453473) #
+"Guys like Vlad can crank it vs anyone"
+
+Well, Reese McGuire can crank it with the best of them. (Sorry)
+ scottt - Friday, October 18 2024 @ 12:01 PM EDT (#453486) #
+When it comes down to guys throwing 99mph, it would seem HR would be more effective than trying to get 3 singles in the same inning.
+However, a guy who can hit for average, walk, bunt and steal bases would probably work out fine.
+There's just not many guys like that. Most burners who reach seem to have trouble getting on bases.
+
+Newest First
+Oldest First
+ 
+Flat
+Nested
+No Comments
+Threaded
+  
+Powered By Geeklog
+Created this page in 0.09 seconds
+ Copyright © 2025 Batter's Box Interactive Magazine
+ All trademarks and copyrights on this page are owned by their respective owners.
+ 
+ 
+ ----- 
+ Source link : https://www.battersbox.ca/article.php?story=20241012144748105 
+ ----- 

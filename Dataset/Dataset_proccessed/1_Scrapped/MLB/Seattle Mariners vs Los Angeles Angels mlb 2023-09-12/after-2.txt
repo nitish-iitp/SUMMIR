@@ -1,0 +1,309 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Angels
+68-77, 33-40 Away
+8
+Final/11
+Mariners
+79-65, 39-30 Home
+5
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Grichuk has RBI single to key Angels' three-run 10th in 8-5 win over Mariners
+— Randal Grichuk drove in the go-ahead run with an RBI single in the top of the 11th inning, and the Los Angeles Angels beat the Seattle Mariners 8-5 on Monday night.
+Sep 12, 2023, 06:57 pm - AP
+
+
+LAA
+
+
+SEA
+1	2	3	4	5	6	7	8	9	10	11	R	H	E
+0	2	0	1	0	0	0	0	0	2	3	8	12	0
+3	0	0	0	0	0	0	0	0	2	0	5	10	1
+WIN
+J. Herget
+2-3
+1.0 IP, 0 H, 0 ER, 1 K, 0 BB
+LOSS
+T. Thornton
+0-2
+0.1 IP, 2 H, 0 ER, 1 K, 0 BB
+Scoring Summary
+INNING
+	LAA	SEA
+		1st	Hernández hit sacrifice fly to right, Crawford scored, Rodríguez to second.	0	1
+		1st	Raleigh homered to left center (388 feet), Rodríguez scored.	0	3
+		2nd	O'Hoppe homered to left center (378 feet), Moustakas scored.	2	3
+		4th	O'Hoppe homered to left (368 feet).	3	3
+		10th	Drury homered to left (387 feet), Adams scored.	5	3
+		10th	Rodríguez homered to center (402 feet), Canzone scored.	5	5
+		11th	Grichuk singled to center, Paris scored, Escobar to third.	6	5
+		11th	Grichuk scored on error, Adams safe at first on fielding error by third baseman Suárez, Phillips safe at third on error.	7	5
+		11th	Schanuel singled to center, Phillips scored, Adams to second.	8	5
+Full Play-By-Play
+Angels
+Mariners
+HITTERS	H-AB	R	HR	RBI	AVG
+
+N. Schanuel
+1B
+	2-6	0	0	1	.275
+
+Z. Neto
+SS
+	0-4	0	0	0	.237
+
+B. Drury
+2B
+	1-6	1	1	2	.257
+
+M. Moustakas
+DH
+	2-4	1	0	0	.254
+
+K. Paris
+PR-DH
+	0-1	1	0	0	.111
+
+L. O'Hoppe
+C
+	3-5	2	2	3	.242
+
+E. Escobar
+3B
+	2-5	0	0	0	.232
+
+R. Grichuk
+LF
+	1-4	1	0	1	.269
+
+B. Phillips
+CF
+	1-5	1	0	0	.188
+
+J. Adams
+RF
+	0-5	1	0	0	.160
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+R. Detmers
+	7.0	5	3	0	7	108-69	4.77
+
+J. Soriano
+	1.0	1	0	0	1	14-9	4.00
+
+A. Loup
+	1.1	3	0	0	2	21-16	5.72
+
+J. Marte
+	0.2	1	1	1	0	9-3	8.10
+
+J. Herget
+	1.0	0	0	0	1	17-12	4.57
+HITTERS	H-AB	R	HR	RBI	AVG
+
+J.P. Crawford
+SS
+	1-5	1	0	0	.263
+
+J. Rodriguez
+CF
+	4-5	2	1	2	.287
+
+T. Hernández
+DH
+	0-3	0	0	1	.268
+
+C. Raleigh
+C
+	2-4	1	1	2	.237
+
+J. Caballero
+PR
+	0-0	0	0	0	.223
+
+B. O'Keefe
+C
+	0-1	0	0	0	.105
+
+E. Suarez
+3B
+	1-5	0	0	0	.231
+
+T. France
+1B
+	1-5	0	0	0	.249
+
+J. Kelenic
+RF
+	1-5	0	0	0	.251
+
+D. Moore
+2B
+	0-3	0	0	0	.209
+
+S. Haggerty
+LF
+	0-2	0	0	0	.227
+
+D. Canzone
+PH-LF
+	0-2	1	0	0	.227
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+L. Gilbert
+	7.0	6	3	1	5	93-70	3.62
+
+M. Brash
+	1.0	0	0	0	1	12-8	3.19
+
+A. Munoz
+	1.0	2	0	0	1	24-16	2.95
+
+J. Topa
+	1.0	1	1	0	1	15-9	2.58
+
+T. Thornton
+	0.1	2	0	0	1	11-9	1.85
+
+G. Speier
+	0.1	1	0	1	0	8-4	3.56
+
+I. Campbell
+	0.1	0	0	0	0	1-1	2.82
+Full Box Score
+Win Probability
+100
+%
+1st
+3rd
+5th
+7th
+9th
+11th
+100
+50
+100
+ANGELS
+MARINERS
+LAA 100
+%
+LAA 8SEA 5
+
+Bottom 11th
+Kelenic grounded out to shortstop.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+LAA
+SEA
+Hits
+12
+10
+Home Runs
+3
+2
+Total Bases
+22
+17
+Runners LOB
+9
+7
+Full Team Stats
+Regular Season Series
+Current Series
+SEA wins 2-1
+Angels
+8
+Mariners
+5
+Game 1
+9/12
+Final/11
+Angels
+0
+Mariners
+8
+Game 2
+9/13
+Final
+Angels
+2
+Mariners
+3
+Game 3
+9/13
+Final
+Game Information
+T-Mobile Park
+1:40 AM, September 12, 2023
+Seattle, Washington
+Attendance: 37,807
+Game Time:
+3:19
+Umpires:
+Home Plate Umpire - Ryan Additon
+First Base Umpire - Lance Barksdale
+Second Base Umpire - Ryan Wills
+Third Base Umpire - Will Little
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401473165/angels-mariners 
+ ----- 

@@ -1,0 +1,15 @@
+block
+Web Page Blocked!
+
+The page cannot be displayed. Please contact the administrator for additional information.
+
+URL: www.sis.gov.eg/Story/193149/Egypt-wins-over-Burkina-Faso,-qualifies-for-2026-FIFA-World-Cup
+
+Client IP: 34.150.229.56
+Attack ID: 20000051
+Message ID: 001158545204
+ 
+ 
+ ----- 
+ Source link : https://www.sis.gov.eg/Story/193149/Egypt-wins-over-Burkina-Faso%2C-qualifies-for-2026-FIFA-World-Cup?lang=en-us 
+ ----- 

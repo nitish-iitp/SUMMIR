@@ -1,0 +1,603 @@
+MENU
+Pete Alonso's Unique Free Agency Deal Offer to the Mets
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Chicago Cubs Schedule
+New York Yankees Schedule
+New York Yankees vs Chicago Cubs Box Score: September 6, 2024
+MLB Scores — September 6, 2024
+NYY	3	Final
+CHC	0	
+COL	3	Final
+MIL	2	
+TBR	0	Final
+BAL	2	
+CHW	1	Final
+BOS	3	
+PHI	16	Final
+MIA	2	
+CIN	4	Final
+NYM	6	(10)
+TOR	1	Final
+ATL	3	
+LAA	5	Final
+TEX	1	
+ARI	0	Final
+HOU	8	
+MIN	0	Final
+KCR	5	
+SEA	6	Final
+STL	1	
+DET	6	Final
+OAK	7	(13)
+SFG	1	Final
+SDP	5	
+CLE	3	Final
+LAD	1	
+MLB Scores & Standings on this Day
+New York Yankees
+3
+81-60
+Prev Game Next Game
+ 
+Chicago Cubs
+0
+72-69
+Prev Game Next Game
+Friday, September 6, 2024
+Start Time: 1:20 p.m. Local
+Attendance: 40,101
+Venue: Wrigley Field
+Game Duration: 2:42
+Day Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	New York Yankees	0	0	3	0	0	0	0	0	0	3	7	1
+
+	Chicago Cubs	0	0	0	0	0	0	0	0	0	0	1	0
+WP: Luis Gil (13-6) • LP: Jordan Wicks (2-3) • SV: Luke Weaver (1)
+New York Yankees 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Gleyber Torres 2B	4	1	1	0	1	0	5	.246	.325	.363	.688	25	12	0.049	0.57	0.076	-0.027	0.04%	0.79	-0.1	1	2	
+Juan Soto RF	4	1	1	0	0	1	4	.295	.422	.589	1.011	16	9	0.012	0.93	0.061	-0.050	0.01%	1.28	-0.1	0	0	
+Aaron Judge CF	3	1	1	1	1	1	4	.323	.456	.702	1.157	21	12	0.166	0.96	0.181	-0.015	0.14%	1.32	1.5	2	0	2B
+Austin Wells C	3	0	1	2	1	2	4	.252	.343	.432	.775	22	12	0.015	0.84	0.079	-0.064	0.01%	1.16	0.3	14	0	CS
+Giancarlo Stanton DH	3	0	0	0	1	0	4	.237	.298	.488	.786	13	9	-0.015	0.81	0.030	-0.045	-0.01%	1.11	-0.8	0	0	GDP
+Jazz Chisholm Jr. 3B	4	0	0	0	0	1	4	.264	.330	.451	.781	16	11	-0.100	0.99	0.000	-0.100	-0.08%	1.37	-1.5	0	1	
+Anthony Rizzo 1B	3	0	1	0	1	0	4	.225	.289	.343	.632	18	8	-0.001	0.44	0.025	-0.026	-0.00%	0.60	0.1	6	3	
+Anthony Volpe SS	4	0	1	0	0	0	4	.253	.302	.383	.685	18	13	-0.067	0.47	0.002	-0.069	-0.06%	0.65	-1.0	1	1	GDP
+Alex Verdugo LF	3	0	1	0	1	1	4	.236	.295	.359	.653	22	15	-0.010	0.27	0.010	-0.020	-0.01%	0.38	-0.0	0	0	
+																							
+Luis Gil P																					2	0	
+   Jake Cousins P																					0	0	
+   Tommy Kahnle P																					1	0	
+   Luke Weaver P																					0	0	
+Team Totals	31	3	7	3	6	6	37	.226	.351	.258	.609	171	101	0.049	0.70	0.464	-0.416	0.04%	0.96	-1.5	27	7	
+2B: Aaron Judge (33, off Jordan Wicks).
+TB: Aaron Judge 2; Alex Verdugo; Anthony Volpe; Austin Wells; Juan Soto; Anthony Rizzo; Gleyber Torres.
+GIDP: Anthony Volpe (8); Giancarlo Stanton (14).
+RBI: Austin Wells 2 (44); Aaron Judge (125).
+Team LOB: 7.
+With RISP: 2 for 5.
+Fielding
+E: Gleyber Torres (16).
+Baserunning
+CS: Austin Wells (2, 2nd base by Jordan Wicks POCS).
+Chicago Cubs 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Ian Happ LF	4	0	0	0	0	2	4	.245	.344	.461	.805	15	10	-0.072	0.71	0.000	-0.072	-0.01%	0.18	-0.7	3	0	
+Michael Busch 1B	4	0	0	0	0	1	4	.247	.335	.423	.758	15	9	-0.066	0.65	0.000	-0.066	-0.01%	0.16	-0.7	11	0	
+Seiya Suzuki DH	3	0	0	0	1	3	4	.275	.352	.482	.834	20	12	-0.036	0.56	0.012	-0.048	-0.01%	0.14	-0.4	0	0	
+Cody Bellinger RF	2	0	1	0	2	0	4	.265	.326	.424	.751	25	13	0.079	0.71	0.101	-0.022	0.01%	0.18	0.7	1	0	2B
+Isaac Paredes 3B	4	0	0	0	0	3	4	.225	.339	.397	.736	27	18	-0.120	1.18	0.000	-0.120	-0.02%	0.29	-1.2	0	0	
+Nico Hoerner 2B	3	0	0	0	0	0	3	.259	.327	.352	.679	14	8	-0.073	1.01	0.009	-0.082	-0.01%	0.25	-0.6	2	3	SB
+Dansby Swanson SS	2	0	0	0	1	1	3	.240	.312	.389	.701	12	6	-0.046	0.89	0.013	-0.059	-0.01%	0.22	-0.5	1	8	
+Pete Crow-Armstrong CF	3	0	0	0	0	2	3	.237	.287	.397	.684	11	9	-0.068	0.86	0.000	-0.068	-0.01%	0.21	-0.6	3	0	
+Miguel Amaya C	2	0	0	0	0	0	2	.232	.285	.354	.639	6	5	-0.034	0.66	0.000	-0.034	-0.01%	0.17	-0.3	6	0	
+   Mike Tauchman PH	1	0	0	0	0	1	1	.247	.349	.362	.711	6	3	-0.016	0.65	0.000	-0.016	-0.00%	0.16	-0.2	0	0	
+   Christian Bethancourt C	0	0	0	0	0	0	0	.224	.262	.414	.676										0	0	
+																							
+Jordan Wicks P																					0	2	
+   Keegan Thompson P																					0	0	
+   Shawn Armstrong P																					0	0	
+   Trey Wingenter P																					0	0	
+Team Totals	28	0	1	0	4	13	32	.036	.156	.071	.228	151	93	-0.452	0.80	0.135	-0.587	-0.07%	0.20	-4.5	27	13	
+2B: Cody Bellinger (23, off Luis Gil).
+TB: Cody Bellinger 2.
+Team LOB: 5.
+With RISP: 0 for 3.
+Fielding
+DP: 2. Nico Hoerner-Michael Busch; Nico Hoerner-Dansby Swanson-Michael Busch.
+Baserunning
+SB: Nico Hoerner (28, 2nd base off Jake Cousins/Austin Wells).
+New York Yankees 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Luis Gil, W (13-6)	6	1	0	0	2	7	0	3.24	21	89	54	28	13	13	6	6	0	0	75			0.305	0.75	0.25%	1.03	3.0
+Jake Cousins, H (7)	1	0	0	0	1	2	0	2.65	4	23	14	6	3	5	1	0	0	0		0	0	0.054	1.30	0.04%	1.79	0.5
+Tommy Kahnle, H (15)	1	0	0	0	0	2	0	1.95	3	14	9	2	5	2	1	0	0	0		0	0	0.051	0.67	0.04%	0.92	0.5
+Luke Weaver, S (1)	1	0	0	0	1	2	0	3.28	4	25	16	9	3	4	1	0	0	0		0	0	0.041	0.56	0.03%	0.77	0.5
+Team Totals	9	1	0	0	4	13	0	0.00	32	151	93	45	24	24	9	6	0	0	75	0	0	0.451	0.80	0.37%	1.10	4.5
+
+Chicago Cubs 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Jordan Wicks, L (2-3)	5	5	3	3	4	4	0	4.03	22	95	57	35	10	12	6	8	5	0	45			-0.116	1.00	-0.02%	0.25	-0.5
+Keegan Thompson	2	0	0	0	1	1	0	2.70	7	31	17	12	1	4	3	2	1	0		0	0	0.044	0.31	0.01%	0.08	1.0
+Shawn Armstrong	1	0	0	0	1	1	0	4.76	3	16	10	7	2	1	1	0	0	0		0	0	0.015	0.28	0.00%	0.07	0.5
+Trey Wingenter	1	2	0	0	0	0	0	18.90	5	29	18	11	2	5	3	2	2	0		0	0	0.008	0.12	0.00%	0.03	0.5
+Team Totals	9	7	3	3	6	6	0	3.00	37	171	102	65	15	22	13	12	8	0	45	0	0	-0.049	0.70	-0.01%	0.17	1.5
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: Jordan Wicks (1; Austin Wells, 2nd base (CS)).
+Other Info 
+Umpires: HP - Jordan Baker, 1B - Mark Carlson, 2B - Brian Walsh, 3B - Dan Merzel, LF - (none), RF - (none).
+Time of Game: 2:42.
+Attendance: 40,101.
+Field Condition: Unknown.
+Start Time Weather: 68° F, Wind 16mph from Left to Right, Cloudy, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Yankees
+1	Gleyber Torres	2B
+2	Juan Soto	RF
+3	Aaron Judge	CF
+4	Austin Wells	C
+5	Giancarlo Stanton	DH
+6	Jazz Chisholm Jr.	3B
+7	Anthony Rizzo	1B
+8	Anthony Volpe	SS
+9	Alex Verdugo	LF
+	Luis Gil	P
+Cubs
+1	Ian Happ	LF
+2	Michael Busch	1B
+3	Seiya Suzuki	DH
+4	Cody Bellinger	RF
+5	Isaac Paredes	3B
+6	Nico Hoerner	2B
+7	Dansby Swanson	SS
+8	Pete Crow-Armstrong	CF
+9	Miguel Amaya	C
+	Jordan Wicks	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - New York Yankees vs. Chicago Cubs, September 6 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+CHC
+50%
+NYY
+Inning	Win Pct
+1	0.5
+2	0.54
+3	0.5
+4	0.54
+5	0.49
+6	0.52
+7	0.45
+8	0.47
+9	0.49
+10	0.48
+11	0.5
+12	0.48
+13	0.46
+14	0.45
+15	0.47
+16	0.49
+17	0.48
+18	0.5
+19	0.54
+20	0.6
+21	0.75
+22	0.82
+23	0.8
+24	0.78
+25	0.77
+26	0.79
+27	0.81
+28	0.82
+29	0.84
+30	0.8
+31	0.8
+32	0.79
+33	0.81
+34	0.77
+35	0.81
+36	0.84
+37	0.83
+38	0.82
+39	0.81
+40	0.84
+41	0.86
+42	0.87
+43	0.86
+44	0.85
+45	0.85
+46	0.84
+47	0.87
+48	0.89
+49	0.9
+50	0.89
+51	0.88
+52	0.88
+53	0.83
+54	0.87
+55	0.91
+56	0.9
+57	0.93
+58	0.92
+59	0.93
+60	0.92
+61	0.94
+62	0.96
+63	0.97
+64	0.96
+65	0.96
+66	0.96
+67	0.97
+68	0.96
+69	0.98
+70	1
+71	0.99
+72	1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+t3	0-0	0	12-	4,(1-2) 	R	NYY	Aaron Judge	Jordan Wicks	15%	75%	Double to LF (Ground Ball); G. Torres Scores; J. Soto to 3B
+t3	1-0	0	-23	1,(0-0) 	RR	NYY	Austin Wells	Jordan Wicks	7%	82%	Single to LF (Line Drive to LF-CF); J. Soto Scores; A. Judge Scores
+t1	0-0	2	123	2,(0-1) 	O	NYY	Jazz Chisholm Jr.	Jordan Wicks	-7%	45%	Groundout: P-1B
+t3	0-0	0	1--	5,(2-2) 		NYY	Juan Soto	Jordan Wicks	6%	60%	Single to RF (Line Drive); G. Torres to 2B
+b7	0-3	0	---	8,(3-2) 		CHC	Cody Bellinger	Jake Cousins	-5%	83%	Walk
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, Cubs' Jordan Wicks facing 1-2-3
+t1	0-0	0	---	3,(1-1) 		NYY	Gleyber Torres	Jordan Wicks	4%	54%	Single to CF (Line Drive to LF-CF)
+t1	0-0	0	1--	5,(2-2) 	O	NYY	Juan Soto	Jordan Wicks	-3%	50%	Strikeout Swinging
+t1	0-0	1	1--	6,(3-2) 		NYY	Aaron Judge	Jordan Wicks	4%	54%	Walk; G. Torres to 2B
+t1	0-0	1	12-	6,(3-2) 	O	NYY	Austin Wells	Jordan Wicks	-4%	49%	Strikeout Swinging
+t1	0-0	2	12-	6,(3-2) 		NYY	Giancarlo Stanton	Jordan Wicks	3%	52%	Walk; G. Torres to 3B; A. Judge to 2B
+t1	0-0	2	123	2,(0-1) 	O	NYY	Jazz Chisholm Jr.	Jordan Wicks	-7%	45%	Groundout: P-1B
+									0 runs, 1 hit, 0 errors, 3 LOB. Yankees 0, Cubs 0.
+Bottom of the 1st, Cubs Batting, Tied 0-0, Yankees' Luis Gil facing 1-2-3
+b1	0-0	0	---	4,(1-2) 	O	CHC	Ian Happ	Luis Gil	2%	47%	Flyball: SS (Short CF-RF)
+b1	0-0	1	---	4,(2-1) 	O	CHC	Michael Busch	Luis Gil	2%	49%	Foul Popfly: C (Behind Home)
+b1	0-0	2	---	6,(3-2) 		CHC	Seiya Suzuki	Luis Gil	-1%	48%	Walk
+b1	0-0	2	1--	5,(2-2) 	O	CHC	Cody Bellinger	Luis Gil	2%	50%	Groundout: SS-1B (SS-2B)
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Cubs 0.
+Top of the 2nd, Yankees Batting, Tied 0-0, Cubs' Jordan Wicks facing 7-8-9
+t2	0-0	0	---	6,(3-2) 	O	NYY	Anthony Rizzo	Jordan Wicks	-2%	48%	Groundout: SS-1B
+t2	0-0	1	---	5,(1-2) 	O	NYY	Anthony Volpe	Jordan Wicks	-2%	46%	Lineout: LF
+t2	0-0	2	---	1,(0-0) 	O	NYY	Alex Verdugo	Jordan Wicks	-1%	45%	Flyball: LF (Deep SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Cubs 0.
+Bottom of the 2nd, Cubs Batting, Tied 0-0, Yankees' Luis Gil facing 5-6-7
+b2	0-0	0	---	7,(3-2) 	O	CHC	Isaac Paredes	Luis Gil	2%	47%	Strikeout Swinging
+b2	0-0	1	---	5,(2-2) 	O	CHC	Nico Hoerner	Luis Gil	2%	49%	Foul Popfly: 1B
+b2	0-0	2	---	6,(3-2) 		CHC	Dansby Swanson	Luis Gil	-1%	48%	Walk
+b2	0-0	2	1--	5,(2-2) 	O	CHC	Pete Crow-Armstrong	Luis Gil	2%	50%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Cubs 0.
+Top of the 3rd, Yankees Batting, Tied 0-0, Cubs' Jordan Wicks facing 1-2-3
+t3	0-0	0	---	5,(3-1) 		NYY	Gleyber Torres	Jordan Wicks	4%	54%	Walk
+t3	0-0	0	1--	5,(2-2) 		NYY	Juan Soto	Jordan Wicks	6%	60%	Single to RF (Line Drive); G. Torres to 2B
+t3	0-0	0	12-	4,(1-2) 	R	NYY	Aaron Judge	Jordan Wicks	15%	75%	Double to LF (Ground Ball); G. Torres Scores; J. Soto to 3B
+t3	1-0	0	-23	1,(0-0) 	RR	NYY	Austin Wells	Jordan Wicks	7%	82%	Single to LF (Line Drive to LF-CF); J. Soto Scores; A. Judge Scores
+t3	3-0	0	1--	2,(0-1) 	O	NYY	Giancarlo Stanton	Jordan Wicks	-2%	80%	Flyball: RF (Deep RF)
+t3	3-0	1	1--	7,(2-2) 	O	NYY	Jazz Chisholm Jr.	Jordan Wicks	-2%	78%	Strikeout Swinging
+t3	3-0	2	1--	1,(0-1) 	O	NYY	Anthony Rizzo	Jordan Wicks	-1%	77%	A. Wells Caught Stealing (PO) 2B (P-1B)
+									3 runs, 3 hits, 0 errors, 0 LOB. Yankees 3, Cubs 0.
+Bottom of the 3rd, Cubs Batting, Behind 0-3, Yankees' Luis Gil facing 9-1-2
+b3	0-3	0	---	2,(0-1) 	O	CHC	Miguel Amaya	Luis Gil	2%	79%	Flyball: CF (Deep CF)
+b3	0-3	1	---	1,(0-0) 	O	CHC	Ian Happ	Luis Gil	2%	81%	Flyball: CF (Deep CF)
+b3	0-3	2	---	3,(2-0) 	O	CHC	Michael Busch	Luis Gil	1%	82%	Groundout: 1B-P (Deep 2B-1B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 3, Cubs 0.
+Top of the 4th, Yankees Batting, Ahead 3-0, Cubs' Jordan Wicks facing 7-8-9
+t4	3-0	0	---	1,(0-0) 		NYY	Anthony Rizzo	Jordan Wicks	2%	84%	Single to LF (Line Drive to LF-CF)
+t4	3-0	0	1--	2,(0-1) 	OO	NYY	Anthony Volpe	Jordan Wicks	-4%	80%	Ground Ball Double Play: 2B-1B
+t4	3-0	2	---	8,(3-2) 		NYY	Alex Verdugo	Jordan Wicks	1%	80%	Walk
+t4	3-0	2	1--	6,(2-2) 	O	NYY	Gleyber Torres	Jordan Wicks	-1%	79%	Groundout: SS-2B/Forceout at 2B; G. Torres to 1B
+									0 runs, 1 hit, 0 errors, 1 LOB. Yankees 3, Cubs 0.
+Bottom of the 4th, Cubs Batting, Behind 0-3, Yankees' Luis Gil facing 3-4-5
+b4	0-3	0	---	6,(3-2) 	O	CHC	Seiya Suzuki	Luis Gil	2%	81%	Strikeout Swinging
+b4	0-3	1	---	6,(2-2) 		CHC	Cody Bellinger	Luis Gil	-4%	77%	Double to RF (Ground Ball)
+b4	0-3	1	-2-	6,(3-2) 	O	CHC	Isaac Paredes	Luis Gil	4%	81%	Strikeout Swinging
+b4	0-3	2	-2-	2,(1-0) 	O	CHC	Nico Hoerner	Luis Gil	3%	84%	Groundout: 2B-1B
+									0 runs, 1 hit, 0 errors, 1 LOB. Yankees 3, Cubs 0.
+Top of the 5th, Yankees Batting, Ahead 3-0, Cubs' Jordan Wicks facing 2-3-4
+t5	3-0	0	---	1,(0-0) 	O	NYY	Juan Soto	Jordan Wicks	-1%	83%	Flyball: CF
+t5	3-0	1	---	5,(2-2) 	O	NYY	Aaron Judge	Jordan Wicks	-1%	82%	Groundout: SS-1B
+t5	3-0	2	---	7,(3-2) 	O	NYY	Austin Wells	Jordan Wicks	-1%	81%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 3, Cubs 0.
+Bottom of the 5th, Cubs Batting, Behind 0-3, Yankees' Luis Gil facing 7-8-9
+b5	0-3	0	---	1,(0-0) 	O	CHC	Dansby Swanson	Luis Gil	3%	84%	Foul Popfly: 1B (Behind Home)
+b5	0-3	1	---	3,(0-2) 	O	CHC	Pete Crow-Armstrong	Luis Gil	2%	86%	Strikeout Swinging
+b5	0-3	2	---	4,(1-2) 	O	CHC	Miguel Amaya	Luis Gil	1%	87%	Groundout: 1B unassisted
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 3, Cubs 0.
+Top of the 6th, Yankees Batting, Ahead 3-0, Cubs' Keegan Thompson facing 5-6-7
+									
+Keegan Thompson replaces Jordan Wicks pitching
+
+t6	3-0	0	---	3,(0-2) 	O	NYY	Giancarlo Stanton	Keegan Thompson	-1%	86%	Groundout: SS-1B
+t6	3-0	1	---	1,(0-0) 	O	NYY	Jazz Chisholm Jr.	Keegan Thompson	-1%	85%	Groundout: 2B-1B (2B-1B)
+t6	3-0	2	---	4,(3-0) 		NYY	Anthony Rizzo	Keegan Thompson	1%	85%	Walk
+t6	3-0	2	1--	7,(3-2) 	O	NYY	Anthony Volpe	Keegan Thompson	-1%	84%	Lineout: CF (CF-RF)
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 3, Cubs 0.
+Bottom of the 6th, Cubs Batting, Behind 0-3, Yankees' Luis Gil facing 1-2-3
+b6	0-3	0	---	5,(2-2) 	O	CHC	Ian Happ	Luis Gil	3%	87%	Strikeout Swinging
+b6	0-3	1	---	4,(1-2) 	O	CHC	Michael Busch	Luis Gil	2%	89%	Groundout: 1B-P (2B-1B)
+b6	0-3	2	---	4,(0-2) 	O	CHC	Seiya Suzuki	Luis Gil	1%	90%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 3, Cubs 0.
+Top of the 7th, Yankees Batting, Ahead 3-0, Cubs' Keegan Thompson facing 9-1-2
+t7	3-0	0	---	5,(1-2) 	O	NYY	Alex Verdugo	Keegan Thompson	-1%	89%	Strikeout Swinging
+t7	3-0	1	---	6,(3-2) 	O	NYY	Gleyber Torres	Keegan Thompson	-1%	88%	Groundout: SS-1B
+t7	3-0	2	---	5,(3-1) 	O	NYY	Juan Soto	Keegan Thompson	0%	88%	Flyball: LF (Deep LF-CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 3, Cubs 0.
+Bottom of the 7th, Cubs Batting, Behind 0-3, Yankees' Jake Cousins facing 4-5-6
+									
+Jake Cousins replaces Luis Gil pitching
+
+b7	0-3	0	---	8,(3-2) 		CHC	Cody Bellinger	Jake Cousins	-5%	83%	Walk
+b7	0-3	0	1--	3,(0-2) 	O	CHC	Isaac Paredes	Jake Cousins	4%	87%	Strikeout Swinging
+b7	0-3	1	1--	7,(3-2) 	O	CHC	Nico Hoerner	Jake Cousins	3%	91%	Groundout: 3B-2B/Forceout at 2B (Weak 3B); N. Hoerner to 1B
+b7	0-3	2	1--	4,(1-2) 		CHC	Dansby Swanson	Jake Cousins	-1%	90%	N. Hoerner Steals 2B; N. Hoerner to 3B/Adv on E4
+b7	0-3	2	--3	5,(2-2) 	O	CHC	Dansby Swanson	Jake Cousins	3%	93%	Strikeout Swinging
+									0 runs, 0 hits, 1 error, 1 LOB. Yankees 3, Cubs 0.
+Top of the 8th, Yankees Batting, Ahead 3-0, Cubs' Shawn Armstrong facing 3-4-5
+									
+Shawn Armstrong replaces Keegan Thompson pitching
+
+t8	3-0	0	---	6,(2-2) 	O	NYY	Aaron Judge	Shawn Armstrong	-1%	92%	Strikeout Swinging
+t8	3-0	1	---	8,(3-2) 		NYY	Austin Wells	Shawn Armstrong	1%	93%	Walk
+t8	3-0	1	1--	2,(0-1) 	OO	NYY	Giancarlo Stanton	Shawn Armstrong	-2%	92%	Ground Ball Double Play: 2B-SS-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 3, Cubs 0.
+Bottom of the 8th, Cubs Batting, Behind 0-3, Yankees' Tommy Kahnle facing 8-9-1
+									
+Tommy Kahnle replaces Jake Cousins pitching
+
+b8	0-3	0	---	3,(0-2) 	O	CHC	Pete Crow-Armstrong	Tommy Kahnle	3%	94%	Groundout: 1B-P
+									
+Mike Tauchman pinch hits for Miguel Amaya (C) batting 9th
+
+b8	0-3	1	---	6,(3-2) 	O	CHC	Mike Tauchman	Tommy Kahnle	2%	96%	Strikeout Swinging
+b8	0-3	2	---	5,(2-2) 	O	CHC	Ian Happ	Tommy Kahnle	1%	97%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 3, Cubs 0.
+Top of the 9th, Yankees Batting, Ahead 3-0, Cubs' Trey Wingenter facing 6-7-8
+									
+Trey Wingenter replaces Shawn Armstrong pitching
+Christian Bethancourt replaces Mike Tauchman (PH) playing C batting 9th
+
+t9	3-0	0	---	6,(3-2) 	O	NYY	Jazz Chisholm Jr.	Trey Wingenter	0%	96%	Groundout: SS-1B
+t9	3-0	1	---	6,(2-2) 	O	NYY	Anthony Rizzo	Trey Wingenter	0%	96%	Groundout: SS-1B (SS-2B)
+t9	3-0	2	---	4,(1-2) 		NYY	Anthony Volpe	Trey Wingenter	0%	96%	Single to SS (Ground Ball to SS-3B Hole)
+t9	3-0	2	1--	8,(2-2) 		NYY	Alex Verdugo	Trey Wingenter	0%	97%	Single to RF (Line Drive); A. Volpe to 2B
+t9	3-0	2	12-	5,(3-1) 	O	NYY	Gleyber Torres	Trey Wingenter	-1%	96%	Lineout: CF (Deep CF-RF)
+									0 runs, 2 hits, 0 errors, 2 LOB. Yankees 3, Cubs 0.
+Bottom of the 9th, Cubs Batting, Behind 0-3, Yankees' Luke Weaver facing 2-3-4
+									
+Luke Weaver replaces Tommy Kahnle pitching
+
+b9	0-3	0	---	4,(1-2) 	O	CHC	Michael Busch	Luke Weaver	2%	98%	Strikeout Looking
+b9	0-3	1	---	4,(1-2) 	O	CHC	Seiya Suzuki	Luke Weaver	1%	100%	Strikeout Swinging
+b9	0-3	2	---	6,(3-2) 		CHC	Cody Bellinger	Luke Weaver	-1%	99%	Walk
+b9	0-3	2	1--	11,(3-2) 	O	CHC	Isaac Paredes	Luke Weaver	1%	100%	Groundout: 2B-1B (SS-2B)
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 3, Cubs 0.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Chicago Cubs Schedule New York Yankees Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > New York Yankees vs Chicago Cubs Box Score: September 6, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/CHN/CHN202409060.shtml 
+ ----- 

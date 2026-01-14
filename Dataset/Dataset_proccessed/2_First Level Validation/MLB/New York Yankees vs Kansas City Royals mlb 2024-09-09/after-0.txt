@@ -1,0 +1,642 @@
+MENU
+Pete Alonso's Unique Free Agency Deal Offer to the Mets
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+New York Yankees Schedule
+Kansas City Royals Schedule
+Kansas City Royals vs New York Yankees Box Score: September 9, 2024
+MLB Scores — September 9, 2024
+CIN	1	Final
+ATL	0	
+TBR	1	Final
+PHI	2	
+MIA	2	Final
+PIT	3	
+KCR	4	Final
+NYY	10	
+NYM	3	Final
+TOR	2	
+BAL	3	Final
+BOS	12	
+CLE	5	Final
+CHW	3	
+LAA	6	Final
+MIN	2	
+CHC	10	Final
+LAD	4	
+MLB Scores & Standings on this Day
+Kansas City Royals
+4
+79-66
+Prev Game Next Game
+ 
+New York Yankees
+10
+83-61
+Prev Game Next Game
+Monday, September 9, 2024
+Start Time: 7:05 p.m. Local
+Attendance: 35,308
+Venue: Yankee Stadium III
+Game Duration: 2:51
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Kansas City Royals	1	0	1	0	1	1	0	0	0	4	6	2
+
+	New York Yankees	0	0	0	3	0	0	4	3	X	10	12	3
+WP: Jake Cousins (2-1) • LP: James McArthur (5-7)
+Kansas City Royals 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Tommy Pham LF-RF	5	1	0	0	0	2	5	.253	.319	.380	.699	20	13	0.016	0.75	0.079	-0.062	0.01%	1.18	0.1	0	0	SB
+Bobby Witt Jr. SS	4	1	1	0	0	2	4	.335	.388	.601	.988	15	13	-0.043	0.78	0.018	-0.061	-0.04%	1.22	-0.5	6	3	
+Salvador Perez C	4	1	3	2	0	0	4	.273	.333	.472	.806	9	7	0.349	0.95	0.349	0.000	0.33%	1.48	3.0	6	0	HR
+Robbie Grossman DH	3	0	0	0	1	2	4	.227	.338	.319	.657	20	12	-0.046	1.04	0.032	-0.078	-0.04%	1.63	-0.3	0	0	
+Hunter Renfroe RF-1B	4	1	1	1	0	2	4	.240	.313	.405	.717	13	10	0.079	1.22	0.163	-0.085	0.07%	1.91	0.0	3	0	HR
+Yuli Gurriel 1B	3	0	0	0	0	1	3	.250	.286	.333	.619	17	9	-0.075	0.99	0.000	-0.075	-0.07%	1.54	-0.8	6	2	
+   MJ Melendez PH-LF	0	0	0	0	1	0	1	.213	.276	.416	.692	5	1	0.022	0.60	0.022	0.000	0.02%	0.94	0.2	0	0	
+Maikel Garcia 3B	4	0	1	0	0	1	4	.239	.285	.344	.629	16	9	-0.060	0.82	0.019	-0.078	-0.06%	1.28	-0.6	0	0	
+Michael Massey 2B	4	0	0	0	0	3	4	.257	.284	.446	.730	15	11	-0.056	0.52	0.000	-0.056	-0.05%	0.82	-0.8	1	3	
+Garrett Hampson CF	2	0	0	0	0	1	2	.231	.270	.307	.577	8	6	-0.042	0.83	0.000	-0.042	-0.04%	1.30	-0.3	1	0	
+   Kyle Isbel PH-CF	1	0	0	0	1	0	2	.225	.276	.360	.636	12	6	-0.026	0.84	0.037	-0.063	-0.02%	1.32	-0.4	0	0	
+																							
+Brady Singer P																					1	0	
+   Sam Long P																					0	0	
+   James McArthur P																					0	0	
+   Carlos Hernández P																					0	0	
+   Chris Stratton P																					0	0	
+Team Totals	34	4	6	3	3	14	37	.176	.243	.353	.596	150	97	0.118	0.86	0.719	-0.600	0.11%	1.35	-0.5	24	8	
+HR: Salvador Perez (26, off Carlos Rodón, 3rd inn, 0 on, 2 outs to Deep LF-CF); Hunter Renfroe (13, off Carlos Rodón, 6th inn, 0 on, 0 outs to Deep LF).
+TB: Salvador Perez 6; Hunter Renfroe 4; Bobby Witt Jr.; Maikel Garcia.
+RBI: Salvador Perez 2 (97); Hunter Renfroe (50).
+2-out RBI: Salvador Perez.
+Team LOB: 6.
+With RISP: 1 for 5.
+Fielding
+DP: 2. Bobby Witt Jr.-Michael Massey-Hunter Renfroe; Yuli Gurriel-Bobby Witt Jr..
+E: Salvador Perez 2 (3).
+Baserunning
+SB: Tommy Pham (7, 2nd base off Carlos Rodón/Austin Wells).
+Pickoffs: Kyle Isbel (1st base by Jake Cousins).
+New York Yankees 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Gleyber Torres 2B	5	1	3	1	0	0	5	.250	.328	.363	.691	25	14	0.054	0.72	0.088	-0.034	0.05%	1.02	0.8	1	0	
+   Anthony Volpe PR-SS	0	1	0	0	0	0	0	.252	.300	.380	.680			0.000		0.000	0.000	0%		0.0	0	0	
+Juan Soto RF	2	1	1	0	3	0	5	.292	.423	.582	1.005	26	11	0.118	1.18	0.148	-0.030	0.10%	1.68	1.6	1	0	
+Aaron Judge DH	4	1	2	1	1	1	5	.322	.456	.694	1.150	21	11	0.222	1.73	0.277	-0.055	0.19%	2.47	0.2	0	0	GDP
+Austin Wells C	5	1	2	4	0	1	5	.252	.342	.438	.780	18	9	0.148	1.74	0.296	-0.148	0.13%	2.49	2.0	14	0	HR,2B,GDP
+Jazz Chisholm Jr. 3B	3	0	0	0	2	2	5	.262	.330	.447	.777	24	11	0.009	0.87	0.099	-0.090	0.01%	1.25	-0.2	1	2	SB
+Jasson Domínguez CF	4	1	1	0	0	1	4	.125	.125	.125	.250	10	6	0.033	1.20	0.123	-0.091	0.03%	1.72	0.2	1	0	SB
+Anthony Rizzo 1B	4	0	0	0	0	1	4	.220	.284	.333	.618	19	11	-0.104	1.18	0.000	-0.104	-0.09%	1.68	-1.0	8	0	
+Oswaldo Cabrera SS-2B	3	2	1	0	1	0	4	.245	.296	.368	.664	17	11	-0.056	1.10	0.023	-0.079	-0.05%	1.57	0.3	0	2	2B
+Alex Verdugo LF	4	2	2	2	0	0	4	.237	.296	.363	.659	15	9	0.194	1.05	0.269	-0.075	0.17%	1.50	2.1	1	0	HR
+																							
+Carlos Rodón P																					0	1	
+   Jake Cousins P																					0	1	
+   Luke Weaver P																					0	0	
+   Ian Hamilton P																					0	0	
+Team Totals	34	10	12	8	7	6	41	.353	.463	.588	1.052	175	93	0.618	1.18	1.323	-0.706	0.53%	1.68	6.0	27	6	
+2B: Oswaldo Cabrera (10, off Chris Stratton); Austin Wells (16, off Chris Stratton).
+HR: Alex Verdugo (12, off Brady Singer, 4th inn, 1 on, 2 outs to Deep RF); Austin Wells (13, off James McArthur, 7th inn, 2 on, 1 out to Deep RF).
+TB: Austin Wells 6; Alex Verdugo 5; Gleyber Torres 3; Aaron Judge 2; Oswaldo Cabrera 2; Juan Soto; Jasson Domínguez.
+GIDP: Austin Wells (6); Aaron Judge (21).
+RBI: Austin Wells 4 (49); Alex Verdugo 2 (58); Aaron Judge (126); Gleyber Torres (55).
+2-out RBI: Alex Verdugo 2; Austin Wells.
+Team LOB: 7.
+With RISP: 5 for 13.
+Fielding
+PB: Austin Wells (5).
+E: Jazz Chisholm Jr. (9); Austin Wells (10); Gleyber Torres (18).
+Baserunning
+SB: Jasson Domínguez (1, 3rd base off Brady Singer/Salvador Perez); Jazz Chisholm Jr. (35, 2nd base off Carlos Hernández/Salvador Perez).
+Kansas City Royals 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Brady Singer	5	5	3	3	3	3	1	3.42	22	92	49	31	5	13	8	8	5	0	45			-0.110	1.21	-0.10%	1.89	-0.5
+Sam Long, H (6)	1.1	0	0	0	1	2	0	2.78	5	22	12	7	2	3	0	2	0	0		0	0	0.136	2.02	0.13%	3.16	0.7
+James McArthur, BS (7), L (5-7)	0	3	4	4	1	0	1	5.01	4	18	9	7	2	0	2	1	0	0		0	0	-0.628	2.81	-0.59%	4.39	-4.0
+Carlos Hernández	0.2	0	0	0	1	0	0	3.38	3	14	7	5	1	1	0	2	0	0		0	0	0.007	0.27	0.01%	0.42	0.3
+Chris Stratton	1	4	3	3	1	1	0	5.34	7	29	16	8	2	6	2	3	2	0		0	0	-0.024	0.08	-0.02%	0.12	-2.5
+Team Totals	8	12	10	10	7	6	2	11.25	41	175	93	58	12	23	12	16	7	0	45	0	0	-0.619	1.18	-0.58%	1.84	-6.0
+
+James McArthur faced 4 batters in the 7th inning.
+
+New York Yankees 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Carlos Rodón	6	5	4	2	1	9	2	4.15	26	98	67	30	18	19	8	8	4	0	58			-0.218	0.89	-0.19%	1.26	-1.0
+Jake Cousins, W (2-1)	1	0	0	0	1	2	0	2.50	3	14	9	3	4	2	0	0	0	0		0	0	0.055	0.93	0.05%	1.33	0.5
+Luke Weaver, H (22)	1	1	0	0	1	2	0	3.24	5	23	12	4	3	5	1	1	0	0		0	0	0.042	1.16	0.04%	1.66	0.5
+Ian Hamilton	1	0	0	0	0	1	0	4.40	3	15	9	4	2	3	1	1	0	0		0	0	0.003	0.03	0.00%	0.05	0.5
+Team Totals	9	6	4	2	3	14	2	2.00	37	150	97	41	27	29	10	10	4	0	58	0	0	-0.118	0.86	-0.10%	1.23	0.5
+
+Balks: None.
+WP: Sam Long (2); Carlos Hernández (1).
+HBP: None.
+IBB: None.
+Pickoffs: Jake Cousins (1; Kyle Isbel, 1st base).
+Other Info 
+Umpires: HP - Jim Wolf, 1B - Chad Whitson, 2B - Alan Porter, 3B - Sean Barber, LF - (none), RF - (none).
+Time of Game: 2:51.
+Attendance: 35,308.
+Field Condition: Unknown.
+Start Time Weather: 74° F, Wind 9mph from Right to Left, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Royals
+1	Tommy Pham	LF
+2	Bobby Witt Jr.	SS
+3	Salvador Perez	C
+4	Robbie Grossman	DH
+5	Hunter Renfroe	RF
+6	Yuli Gurriel	1B
+7	Maikel Garcia	3B
+8	Michael Massey	2B
+9	Garrett Hampson	CF
+	Brady Singer	P
+Yankees
+1	Gleyber Torres	2B
+2	Juan Soto	RF
+3	Aaron Judge	DH
+4	Austin Wells	C
+5	Jazz Chisholm Jr.	3B
+6	Jasson Domínguez	CF
+7	Anthony Rizzo	1B
+8	Oswaldo Cabrera	SS
+9	Alex Verdugo	LF
+	Carlos Rodón	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Kansas City Royals vs. New York Yankees, September 9 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+NYY
+50%
+KCR
+Inning	Win Pct
+1	0.5
+2	0.54
+3	0.5
+4	0.55
+5	0.6
+6	0.63
+7	0.59
+8	0.56
+9	0.58
+10	0.55
+11	0.51
+12	0.54
+13	0.61
+14	0.58
+15	0.57
+16	0.56
+17	0.59
+18	0.6
+19	0.61
+20	0.59
+21	0.58
+22	0.69
+23	0.68
+24	0.7
+25	0.67
+26	0.63
+27	0.68
+28	0.73
+29	0.72
+30	0.7
+31	0.71
+32	0.72
+33	0.7
+34	0.72
+35	0.69
+36	0.72
+37	0.61
+38	0.35
+39	0.36
+40	0.33
+41	0.3
+42	0.32
+43	0.46
+44	0.43
+45	0.46
+46	0.43
+47	0.5
+48	0.66
+49	0.64
+50	0.62
+51	0.61
+52	0.55
+53	0.6
+54	0.65
+55	0.63
+56	0.7
+57	0.73
+58	0.67
+59	0.65
+60	0.64
+61	0.69
+62	0.64
+63	0.56
+64	0.36
+65	0.06
+66	0.06
+67	0.06
+68	0.06
+69	0.06
+70	0.07
+71	0.11
+72	0.07
+73	0.04
+74	0.07
+75	0.03
+76	0.02
+77	0.01
+78	0.01
+79	0
+80	0
+81	0
+82	0
+83	0
+84	0
+85	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b7	4-4	1	12-	4,(2-1) 	RRR	NYY	Austin Wells	James McArthur	29%	94%	Home Run (Fly Ball to Deep RF); J. Soto Scores; A. Judge Scores
+b4	1-2	2	1--	4,(2-1) 	RR	NYY	Alex Verdugo	Brady Singer	26%	65%	Home Run (Fly Ball to Deep RF); O. Cabrera Scores
+b7	3-4	1	12-	2,(1-0) 	R	NYY	Aaron Judge	James McArthur	21%	64%	Single to LF (Ground Ball thru SS-3B Hole); G. Torres Scores; J. Soto to 2B
+t6	3-3	0	---	2,(1-0) 	R	KCR	Hunter Renfroe	Carlos Rodón	-16%	34%	Home Run (Line Drive to Deep LF)
+t5	2-3	2	1--	1,(0-0) 	R	KCR	Salvador Perez	Carlos Rodón	-14%	54%	Reached on E4 (Pop Fly to 2B-1B); B. Witt Scores/No RBI/unER; S. Perez to 1B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Royals Batting, Tied 0-0, Yankees' Carlos Rodón facing 1-2-3
+t1	0-0	0	---	1,(0-0) 		KCR	Tommy Pham	Carlos Rodón	-4%	46%	Reached on E5 (throw) (Ground Ball to Weak 3B); T. Pham to 1B
+t1	0-0	0	1--	5,(1-2) 	O	KCR	Bobby Witt Jr.	Carlos Rodón	3%	50%	Strikeout Looking
+t1	0-0	1	1--	2,(0-1) 		KCR	Salvador Perez	Carlos Rodón	-4%	45%	T. Pham Steals 2B; T. Pham to 3B/Adv on E2 (throw)
+t1	0-0	1	--3	3,(0-2) 	R	KCR	Salvador Perez	Carlos Rodón	-6%	40%	Single to CF (Line Drive); T. Pham Scores/unER
+t1	1-0	1	1--	7,(3-2) 		KCR	Robbie Grossman	Carlos Rodón	-3%	37%	Walk; S. Perez to 2B
+t1	1-0	1	12-	5,(2-2) 	O	KCR	Hunter Renfroe	Carlos Rodón	4%	41%	Strikeout Swinging
+t1	1-0	2	12-	6,(3-2) 	O	KCR	Yuli Gurriel	Carlos Rodón	4%	44%	Strikeout Swinging
+									1 run, 1 hit, 2 errors, 2 LOB. Royals 1, Yankees 0.
+Bottom of the 1st, Yankees Batting, Behind 0-1, Royals' Brady Singer facing 1-2-3
+b1	0-1	0	---	7,(3-2) 	O	NYY	Gleyber Torres	Brady Singer	-2%	42%	Groundout: SS-1B (Weak SS)
+b1	0-1	1	---	6,(3-2) 		NYY	Juan Soto	Brady Singer	3%	45%	Single to CF (Line Drive to Deep CF)
+b1	0-1	1	1--	6,(3-2) 		NYY	Aaron Judge	Brady Singer	4%	49%	Walk; J. Soto to 2B
+b1	0-1	1	12-	2,(1-0) 	O	NYY	Austin Wells	Brady Singer	-3%	46%	Groundout: 1B-P; J. Soto to 3B; A. Judge to 2B
+b1	0-1	2	-23	5,(2-2) 	O	NYY	Jazz Chisholm Jr.	Brady Singer	-6%	39%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 2 LOB. Royals 1, Yankees 0.
+Top of the 2nd, Royals Batting, Ahead 1-0, Yankees' Carlos Rodón facing 7-8-9
+t2	1-0	0	---	5,(2-2) 	O	KCR	Maikel Garcia	Carlos Rodón	2%	42%	Groundout: SS-1B (Weak SS)
+t2	1-0	1	---	4,(1-2) 	O	KCR	Michael Massey	Carlos Rodón	1%	43%	Strikeout Swinging
+t2	1-0	2	---	3,(0-2) 	O	KCR	Garrett Hampson	Carlos Rodón	1%	44%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Yankees 0.
+Bottom of the 2nd, Yankees Batting, Behind 0-1, Royals' Brady Singer facing 6-7-8
+b2	0-1	0	---	3,(2-0) 	O	NYY	Jasson Domínguez	Brady Singer	-3%	41%	Groundout: 1B unassisted
+b2	0-1	1	---	3,(2-0) 	O	NYY	Anthony Rizzo	Brady Singer	-2%	40%	Groundout: 2B-1B (2B-1B)
+b2	0-1	2	---	4,(1-2) 	O	NYY	Oswaldo Cabrera	Brady Singer	-1%	39%	Lineout: RF (Deep RF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Royals 1, Yankees 0.
+Top of the 3rd, Royals Batting, Ahead 1-0, Yankees' Carlos Rodón facing 1-2-3
+t3	1-0	0	---	5,(2-2) 	O	KCR	Tommy Pham	Carlos Rodón	2%	41%	Groundout: 3B-1B (Weak 3B)
+t3	1-0	1	---	4,(1-2) 	O	KCR	Bobby Witt Jr.	Carlos Rodón	2%	42%	Flyball: CF (Deep CF)
+t3	1-0	2	---	1,(0-0) 	R	KCR	Salvador Perez	Carlos Rodón	-11%	31%	Home Run (Fly Ball to Deep LF-CF)
+t3	2-0	2	---	4,(1-2) 	O	KCR	Robbie Grossman	Carlos Rodón	1%	32%	Foul Popfly: 1B
+									1 run, 1 hit, 0 errors, 0 LOB. Royals 2, Yankees 0.
+Bottom of the 3rd, Yankees Batting, Behind 0-2, Royals' Brady Singer facing 9-1-2
+b3	0-2	0	---	3,(1-1) 	O	NYY	Alex Verdugo	Brady Singer	-3%	30%	Flyball: SS (Deep SS-3B Hole)
+b3	0-2	1	---	4,(2-1) 		NYY	Gleyber Torres	Brady Singer	3%	33%	Single to RF (Line Drive to Deep CF-RF)
+b3	0-2	1	1--	6,(3-2) 		NYY	Juan Soto	Brady Singer	4%	37%	Walk; G. Torres to 2B
+b3	0-2	1	12-	4,(1-2) 	O	NYY	Aaron Judge	Brady Singer	-5%	32%	Strikeout Swinging
+b3	0-2	2	12-	5,(2-2) 	O	NYY	Austin Wells	Brady Singer	-5%	27%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 2 LOB. Royals 2, Yankees 0.
+Top of the 4th, Royals Batting, Ahead 2-0, Yankees' Carlos Rodón facing 5-6-7
+t4	2-0	0	---	3,(0-2) 	O	KCR	Hunter Renfroe	Carlos Rodón	2%	28%	Strikeout Swinging
+t4	2-0	1	---	5,(2-2) 	O	KCR	Yuli Gurriel	Carlos Rodón	1%	30%	Lineout: 3B (Deep 3B)
+t4	2-0	2	---	2,(0-1) 		KCR	Maikel Garcia	Carlos Rodón	-1%	29%	Single to LF (Ground Ball thru SS-3B Hole)
+t4	2-0	2	1--	1,(0-0) 		KCR	Michael Massey	Carlos Rodón	-1%	28%	Passed Ball; M. Garcia to 2B
+t4	2-0	2	-2-	3,(1-1) 	O	KCR	Michael Massey	Carlos Rodón	3%	30%	Groundout: 1B unassisted (Weak 1B)
+									0 runs, 1 hit, 0 errors, 1 LOB. Royals 2, Yankees 0.
+Bottom of the 4th, Yankees Batting, Behind 0-2, Royals' Brady Singer facing 5-6-7
+b4	0-2	0	---	4,(1-2) 	O	NYY	Jazz Chisholm Jr.	Brady Singer	-3%	28%	Lineout: CF (Deep CF)
+b4	0-2	1	---	1,(0-0) 		NYY	Jasson Domínguez	Brady Singer	3%	31%	Single to LF (Ground Ball)
+b4	0-2	1	1--	3,(1-1) 	O	NYY	Anthony Rizzo	Brady Singer	-3%	28%	Groundout: 2B-1B (2B-1B); J. Domínguez to 2B
+b4	0-2	2	-2-	6,(3-2) 	R	NYY	Oswaldo Cabrera	Brady Singer	11%	39%	Walk, J. Domínguez Steals 3B; J. Domínguez Scores/Adv on E2 (throw)/No RBI
+b4	1-2	2	1--	4,(2-1) 	RR	NYY	Alex Verdugo	Brady Singer	26%	65%	Home Run (Fly Ball to Deep RF); O. Cabrera Scores
+b4	3-2	2	---	7,(3-2) 	O	NYY	Gleyber Torres	Brady Singer	-1%	64%	Flyball: RF (Short RF Line)
+									3 runs, 2 hits, 1 error, 0 LOB. Royals 2, Yankees 3.
+Top of the 5th, Royals Batting, Behind 2-3, Yankees' Carlos Rodón facing 9-1-2
+t5	2-3	0	---	5,(2-2) 	O	KCR	Garrett Hampson	Carlos Rodón	3%	67%	Lineout: LF (Deep LF-CF)
+t5	2-3	1	---	5,(2-2) 	O	KCR	Tommy Pham	Carlos Rodón	2%	70%	Strikeout Looking
+t5	2-3	2	---	3,(0-2) 		KCR	Bobby Witt Jr.	Carlos Rodón	-2%	68%	Single to LF (Ground Ball thru SS-3B Hole)
+t5	2-3	2	1--	1,(0-0) 	R	KCR	Salvador Perez	Carlos Rodón	-14%	54%	Reached on E4 (Pop Fly to 2B-1B); B. Witt Scores/No RBI/unER; S. Perez to 1B
+t5	3-3	2	1--	4,(1-2) 	O	KCR	Robbie Grossman	Carlos Rodón	3%	57%	Strikeout Looking
+									1 run, 1 hit, 1 error, 1 LOB. Royals 3, Yankees 3.
+Bottom of the 5th, Yankees Batting, Tied 3-3, Royals' Brady Singer facing 2-3-4
+b5	3-3	0	---	1,(0-0) 	O	NYY	Juan Soto	Brady Singer	-3%	54%	Groundout: SS-1B (Weak SS-2B)
+b5	3-3	1	---	5,(2-2) 		NYY	Aaron Judge	Brady Singer	3%	57%	Single to LF (Line Drive)
+b5	3-3	1	1--	3,(2-0) 	OO	NYY	Austin Wells	Brady Singer	-7%	50%	Ground Ball Double Play: 1B-SS (Weak 1B)
+									0 runs, 1 hit, 0 errors, 0 LOB. Royals 3, Yankees 3.
+Top of the 6th, Royals Batting, Tied 3-3, Yankees' Carlos Rodón facing 5-6-7
+t6	3-3	0	---	2,(1-0) 	R	KCR	Hunter Renfroe	Carlos Rodón	-16%	34%	Home Run (Line Drive to Deep LF)
+t6	4-3	0	---	6,(3-2) 	O	KCR	Yuli Gurriel	Carlos Rodón	2%	36%	Groundout: 3B-1B (Deep 3B)
+t6	4-3	1	---	3,(2-0) 	O	KCR	Maikel Garcia	Carlos Rodón	2%	38%	Bunt Groundout: P-1B (Front of Home)
+t6	4-3	2	---	3,(0-2) 	O	KCR	Michael Massey	Carlos Rodón	1%	39%	Strikeout Swinging
+									1 run, 1 hit, 0 errors, 0 LOB. Royals 4, Yankees 3.
+Bottom of the 6th, Yankees Batting, Behind 3-4, Royals' Sam Long facing 5-6-7
+									
+Sam Long replaces Brady Singer pitching
+
+b6	3-4	0	---	5,(3-1) 		NYY	Jazz Chisholm Jr.	Sam Long	6%	45%	Walk
+b6	3-4	0	1--	5,(2-2) 	O	NYY	Jasson Domínguez	Sam Long	-6%	40%	Strikeout Looking
+b6	3-4	1	1--	5,(2-2) 	O	NYY	Anthony Rizzo	Sam Long	-5%	35%	Strikeout Swinging
+b6	3-4	2	1--	4,(0-2) 		NYY	Oswaldo Cabrera	Sam Long	3%	37%	Wild Pitch; J. Chisholm to 3B/Adv on E2 (throw)
+b6	3-4	2	--3	5,(1-2) 	O	NYY	Oswaldo Cabrera	Sam Long	-7%	30%	Popfly: SS
+									0 runs, 0 hits, 1 error, 1 LOB. Royals 4, Yankees 3.
+Top of the 7th, Royals Batting, Ahead 4-3, Yankees' Jake Cousins facing 9-1-2
+									
+Jake Cousins replaces Carlos Rodón pitching
+Kyle Isbel pinch hits for Garrett Hampson (CF) batting 9th
+
+t7	4-3	0	---	7,(3-2) 		KCR	Kyle Isbel	Jake Cousins	-4%	27%	Walk
+t7	4-3	0	1--	,(0-0) 	O	KCR	Tommy Pham	Jake Cousins	6%	33%	K. Isbel Picked off 1B (P-1B)
+t7	4-3	1	---	4,(1-2) 	O	KCR	Tommy Pham	Jake Cousins	2%	35%	Strikeout Swinging
+t7	4-3	2	---	3,(0-2) 	O	KCR	Bobby Witt Jr.	Jake Cousins	1%	36%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Yankees 3.
+Bottom of the 7th, Yankees Batting, Behind 3-4, Royals' Sam Long facing 9-1-2
+									
+Kyle Isbel moves from PH to CF
+
+b7	3-4	0	---	2,(1-0) 	O	NYY	Alex Verdugo	Sam Long	-5%	31%	Popfly: SS (Deep SS-3B Hole)
+									
+James McArthur replaces Sam Long pitching
+
+b7	3-4	1	---	5,(2-2) 		NYY	Gleyber Torres	James McArthur	5%	36%	Single to SS (Ground Ball)
+b7	3-4	1	1--	7,(3-2) 		NYY	Juan Soto	James McArthur	7%	44%	Walk; G. Torres to 2B
+b7	3-4	1	12-	2,(1-0) 	R	NYY	Aaron Judge	James McArthur	21%	64%	Single to LF (Ground Ball thru SS-3B Hole); G. Torres Scores; J. Soto to 2B
+b7	4-4	1	12-	4,(2-1) 	RRR	NYY	Austin Wells	James McArthur	29%	94%	Home Run (Fly Ball to Deep RF); J. Soto Scores; A. Judge Scores
+									
+Carlos Hernández replaces James McArthur pitching
+
+b7	7-4	1	---	5,(3-1) 		NYY	Jazz Chisholm Jr.	Carlos Hernández	1%	94%	Walk
+b7	7-4	1	1--	1,(0-0) 	O	NYY	Jasson Domínguez	Carlos Hernández	-1%	94%	Flyball: SS (Deep SS-2B)
+b7	7-4	2	1--	3,(1-1) 		NYY	Anthony Rizzo	Carlos Hernández	0%	94%	J. Chisholm Steals 2B
+b7	7-4	2	-2-	5,(1-2) 		NYY	Anthony Rizzo	Carlos Hernández	0%	94%	Wild Pitch; J. Chisholm to 3B
+b7	7-4	2	--3	8,(3-2) 	O	NYY	Anthony Rizzo	Carlos Hernández	-1%	93%	Popfly: SS (Deep 3B)
+									4 runs, 3 hits, 0 errors, 1 LOB. Royals 4, Yankees 7.
+Top of the 8th, Royals Batting, Behind 4-7, Yankees' Luke Weaver facing 3-4-5
+									
+Luke Weaver replaces Jake Cousins pitching
+
+t8	4-7	0	---	4,(2-1) 		KCR	Salvador Perez	Luke Weaver	-4%	89%	Single to LF (Ground Ball thru SS-3B Hole)
+t8	4-7	0	1--	5,(2-2) 	O	KCR	Robbie Grossman	Luke Weaver	4%	93%	Strikeout Swinging
+t8	4-7	1	1--	3,(0-2) 	O	KCR	Hunter Renfroe	Luke Weaver	3%	96%	Popfly: 2B (2B-1B)
+									
+MJ Melendez pinch hits for Yuli Gurriel (1B) batting 6th
+
+t8	4-7	2	1--	5,(3-1) 		KCR	MJ Melendez	Luke Weaver	-2%	93%	Walk; S. Perez to 2B
+t8	4-7	2	12-	6,(3-2) 	O	KCR	Maikel Garcia	Luke Weaver	4%	97%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 2 LOB. Royals 4, Yankees 7.
+Bottom of the 8th, Yankees Batting, Ahead 7-4, Royals' Chris Stratton facing 8-9-1
+									
+Chris Stratton replaces Carlos Hernández pitching
+Hunter Renfroe moves from RF to 1B
+MJ Melendez moves from PH to LF
+Tommy Pham moves from LF to RF
+
+b8	7-4	0	---	2,(0-1) 		NYY	Oswaldo Cabrera	Chris Stratton	1%	98%	Ground-rule Double (Line Drive to Deep LF Line)
+b8	7-4	0	-2-	6,(2-2) 		NYY	Alex Verdugo	Chris Stratton	1%	99%	Single to LF (Ground Ball); O. Cabrera to 3B
+b8	7-4	0	1-3	2,(1-0) 	R	NYY	Gleyber Torres	Chris Stratton	0%	99%	Single to CF (Line Drive to Short CF); O. Cabrera Scores; A. Verdugo to 2B
+b8	8-4	0	12-	6,(3-2) 		NYY	Juan Soto	Chris Stratton	0%	100%	Walk; A. Verdugo to 3B; G. Torres to 2B
+									
+Anthony Volpe pinch runs for Gleyber Torres (2B) batting 1st
+
+b8	8-4	0	123	4,(2-1) 	ROO	NYY	Aaron Judge	Chris Stratton	0%	100%	Ground Ball Double Play: SS-2B-1B; A. Verdugo Scores/No RBI; A. Volpe to 3B
+b8	9-4	2	--3	4,(2-1) 	R	NYY	Austin Wells	Chris Stratton	0%	100%	Double to LF (Fly Ball to Deep LF); A. Volpe Scores
+b8	10-4	2	-2-	5,(2-2) 	O	NYY	Jazz Chisholm Jr.	Chris Stratton	0%	100%	Strikeout Swinging
+									3 runs, 4 hits, 0 errors, 1 LOB. Royals 4, Yankees 10.
+Top of the 9th, Royals Batting, Behind 4-10, Yankees' Ian Hamilton facing 8-9-1
+									
+Ian Hamilton replaces Luke Weaver pitching
+Oswaldo Cabrera moves from SS to 2B
+Anthony Volpe moves from PR to SS
+
+t9	4-10	0	---	5,(2-2) 	O	KCR	Michael Massey	Ian Hamilton	0%	100%	Strikeout Swinging
+t9	4-10	1	---	5,(2-2) 	O	KCR	Kyle Isbel	Ian Hamilton	0%	100%	Groundout: 2B-1B
+t9	4-10	2	---	5,(2-2) 	O	KCR	Tommy Pham	Ian Hamilton	0%	100%	Flyball: RF (Short RF Line)
+									0 runs, 0 hits, 0 errors, 0 LOB. Royals 4, Yankees 10.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule New York Yankees Schedule Kansas City Royals Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Kansas City Royals vs New York Yankees Box Score: September 9, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/NYA/NYA202409090.shtml 
+ ----- 

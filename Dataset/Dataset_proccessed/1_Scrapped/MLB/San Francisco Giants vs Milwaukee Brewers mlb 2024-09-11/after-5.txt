@@ -1,0 +1,659 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+San Francisco Giants Schedule
+Milwaukee Brewers Schedule
+Milwaukee Brewers vs San Francisco Giants Box Score: September 11, 2024
+MLB Scores — September 11, 2024
+MIA	1	Final
+PIT	3	
+CLE	6	Final
+CHW	4	
+NYM	6	Final
+TOR	2	
+TEX	4	Final
+ARI	14	
+COL	4	Final
+DET	7	
+TBR	2	Final
+PHI	3	
+ATL	1	Final
+WSN	5	
+KCR	3	Final
+NYY	4	(11)
+BAL	3	Final
+BOS	5	(10)
+LAA	4	Final
+MIN	6	
+CIN	1	Final
+STL	2	
+OAK	5	Final
+HOU	4	
+SDP	2	Final
+SEA	5	
+MIL	2	Final
+SFG	13	
+CHC	8	Final
+LAD	10	
+MLB Scores & Standings on this Day
+Milwaukee Brewers
+2
+83-62
+Prev Game Next Game
+ 
+San Francisco Giants
+13
+72-74
+Prev Game Next Game
+Wednesday, September 11, 2024
+Start Time: 6:45 p.m. Local
+Attendance: 22,042
+Venue: Oracle Park
+Game Duration: 2:36
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Milwaukee Brewers	0	0	1	0	0	0	1	0	0	2	7	1
+
+	San Francisco Giants	4	4	0	2	0	1	0	2	X	13	17	0
+WP: Blake Snell (3-3) • LP: Colin Rea (12-5)
+Milwaukee Brewers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Jackson Chourio LF	2	0	0	0	0	2	2	.272	.326	.461	.787	9	7	-0.026	0.51	0.000	-0.026	-0.02%	0.58	-0.4	2	0	
+   Garrett Mitchell PH-RF	3	1	2	0	0	1	3	.260	.345	.455	.799	10	7	0.003	0.01	0.003	0.000	0.00%	0.01	0.8	1	0	2·2B
+Blake Perkins CF	5	1	1	0	0	1	5	.251	.326	.350	.676	20	14	-0.012	0.16	0.006	-0.018	-0.01%	0.18	-0.4	3	1	2B
+William Contreras C	3	0	1	1	0	1	3	.281	.360	.466	.827	14	8	0.003	0.22	0.014	-0.011	0.00%	0.25	0.6	1	0	2B
+   Andruw Monasterio 3B	2	0	1	1	0	0	2	.217	.318	.287	.605	3	3	0.001	0.01	0.001	0.000	0.00%	0.01	0.5	2	1	
+Gary Sánchez DH	3	0	1	0	1	2	4	.224	.314	.407	.721	20	10	0.021	0.26	0.030	-0.009	0.01%	0.29	0.1	0	0	
+Willy Adames SS	2	0	0	0	0	1	2	.252	.333	.468	.801	8	5	-0.032	0.69	0.000	-0.032	-0.02%	0.79	-0.7	0	2	
+   Eric Haase C	2	0	0	0	0	1	2	.280	.321	.520	.841	6	5	-0.002	0.04	0.000	-0.002	-0.00%	0.05	-0.6	5	0	
+Sal Frelick RF-LF	4	0	1	0	0	0	4	.261	.328	.336	.664	17	13	-0.024	0.28	0.002	-0.026	-0.02%	0.32	-0.3	0	0	
+Rhys Hoskins 1B	2	0	0	0	2	0	4	.207	.294	.405	.699	18	7	0.010	0.19	0.015	-0.006	0.01%	0.22	-0.2	9	0	
+Joey Ortiz 3B-SS	2	0	0	0	2	0	4	.241	.341	.398	.739	23	13	0.027	0.33	0.029	-0.002	0.02%	0.38	0.4	1	1	
+Brice Turang 2B	1	0	0	0	0	1	1	.253	.314	.355	.670	3	3	-0.056	2.24	0.000	-0.056	-0.04%	2.56	-0.7	0	2	
+   Isaac Collins PH-2B	3	0	0	0	0	1	3	.200	.200	.200	.400	9	7	-0.005	0.07	0.000	-0.005	-0.00%	0.08	-1.3	0	2	
+																							
+Colin Rea P																					0	0	
+   Elvis Peguero P																					0	0	
+   Hoby Milner P																					0	0	
+   Jake Bauers P																					0	0	
+Team Totals	34	2	7	2	5	11	39	.206	.308	.324	.631	160	102	-0.092	0.27	0.100	-0.193	-0.07%	0.31	-2.2	24	9	
+2B: Blake Perkins (12, off Blake Snell); William Contreras (35, off Blake Snell); Garrett Mitchell 2 (11, 1 off Austin Warren, 1 off Blake Snell).
+TB: Garrett Mitchell 4; William Contreras 2; Blake Perkins 2; Gary Sánchez; Sal Frelick; Andruw Monasterio.
+RBI: Andruw Monasterio (14); William Contreras (84).
+Team LOB: 10.
+With RISP: 2 for 11.
+Fielding
+DP: 1. Andruw Monasterio-Rhys Hoskins.
+PB: William Contreras (6).
+E: Isaac Collins (1).
+Outfield Assists: Blake Perkins (Mike Yastrzemski at 3rd base).
+San Francisco Giants 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Tyler Fitzgerald SS	5	3	3	1	0	2	5	.297	.352	.532	.883	19	13	0.180	0.53	0.180	-0.001	0%	0.00	2.1	0	3	2·2B
+Mike Yastrzemski RF	4	1	2	4	0	0	4	.240	.313	.445	.758	12	9	0.015	0.41	0.028	-0.013	0%	0.00	1.0	1	0	HR,2B
+   Luis Matos RF	1	1	1	0	0	0	1	.216	.240	.351	.592	1	1	0.000	0.00	0.000	0.000	0%	0.00	0.6	0	0	2B
+Heliot Ramos LF	4	1	0	0	1	1	5	.270	.325	.472	.798	17	9	0.017	0.30	0.019	-0.002	0%	0.00	-0.5	4	0	SB
+Matt Chapman 3B	3	1	1	1	0	0	3	.251	.334	.456	.790	7	5	-0.063	0.65	0.004	-0.067	0%	0.00	0.2	1	0	HR
+   Marco Luciano PH-2B	2	2	1	1	0	0	2	.250	.294	.359	.653	4	3	0.000	0.00	0.000	0.000	0%	0.00	1.0	0	0	2B
+LaMonte Wade Jr. 1B	4	1	2	2	1	1	5	.264	.393	.380	.773	21	10	0.086	0.21	0.087	-0.001	0%	0.00	2.1	6	0	2B
+Jerar Encarnacion DH	5	1	2	3	0	1	5	.267	.300	.467	.767	15	10	0.134	0.13	0.136	-0.002	0%	0.00	2.1	0	0	HR
+Grant McCray CF	5	0	1	0	0	0	5	.231	.259	.487	.746	19	10	-0.005	0.04	0.000	-0.005	0%	0.00	-1.2	3	0	GDP
+Patrick Bailey C	4	1	3	0	0	0	4	.235	.298	.340	.638	12	9	0.024	0.09	0.024	0.000	0%	0.00	1.2	11	0	2B
+Brett Wisely 2B-3B	3	1	1	0	1	1	4	.242	.285	.352	.637	21	11	0.020	0.12	0.022	-0.002	0%	0.00	0.7	0	3	
+																							
+Blake Snell P																					0	0	
+   Austin Warren P																					1	0	
+   Sean Hjelle P																					0	0	
+Team Totals	40	13	17	12	3	6	43	.425	.465	.825	1.290	148	90	0.408	0.25	0.500	-0.093	0.00%	0.00	9.2	27	6	
+2B: Tyler Fitzgerald 2 (17, 2 off Colin Rea); Patrick Bailey (15, off Colin Rea); Mike Yastrzemski (14, off Colin Rea); Luis Matos (5, off Jake Bauers); Marco Luciano (5, off Jake Bauers); LaMonte Wade Jr. (15, off Jake Bauers).
+HR: Jerar Encarnacion (4, off Colin Rea, 1st inn, 1 on, 2 outs to Deep RF); Mike Yastrzemski (15, off Colin Rea, 2nd inn, 2 on, 0 outs to Deep RF Line); Matt Chapman (24, off Colin Rea, 4th inn, 0 on, 2 outs to Deep LF).
+TB: Mike Yastrzemski 6; Tyler Fitzgerald 5; Jerar Encarnacion 5; Matt Chapman 4; Patrick Bailey 4; LaMonte Wade Jr. 3; Luis Matos 2; Marco Luciano 2; Grant McCray; Brett Wisely.
+GIDP: Grant McCray (3).
+RBI: Mike Yastrzemski 4 (50); Jerar Encarnacion 3 (16); LaMonte Wade Jr. 2 (29); Matt Chapman (73); Tyler Fitzgerald (31); Marco Luciano (3).
+2-out RBI: Jerar Encarnacion 2; LaMonte Wade Jr.; Matt Chapman.
+Team LOB: 6.
+With RISP: 7 for 15.
+Baserunning
+SB: Heliot Ramos (6, 2nd base off Colin Rea/William Contreras).
+Milwaukee Brewers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Colin Rea, L (12-5)	4	11	10	10	1	1	3	4.21	23	74	46	31	6	9	6	15	3	0	0			-0.407	0.45	-0.28%	0.52	-8.1
+Elvis Peguero	1.1	3	1	0	2	2	0	2.98	10	35	19	11	2	6	5	1	0	0		0	0	0.000	0.01	0.00%	0.01	-0.9
+Hoby Milner	1.2	0	0	0	0	2	0	4.88	4	20	14	9	0	5	2	0	0	0		2	0	0.000	0.00	0.00%	0.00	1.3
+Jake Bauers	1	3	2	2	0	1	0	4.50	6	19	11	7	3	1	0	5	1	0		0	0	0.000	0.00	0.00%	0.00	-1.5
+Team Totals	8	17	13	12	3	6	3	13.50	43	148	90	58	11	21	13	21	4	0	0	2	0	-0.407	0.25	-0.28%	0.28	-9.2
+
+San Francisco Giants 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Blake Snell, W (3-3)	5	4	1	1	2	8	0	3.52	21	95	61	23	17	21	4	7	3	0	61			0.090	0.48	0.00%	0.00	1.3
+Austin Warren	2	3	1	1	2	2	0	3.00	11	35	21	8	4	9	4	3	1	0		0	0	0.002	0.05	0.00%	0.00	-0.1
+Sean Hjelle	2	0	0	0	1	1	0	3.68	7	30	20	12	1	7	2	3	1	0		0	0	0.001	0.01	0.00%	0.00	0.9
+Team Totals	9	7	2	2	5	11	0	2.00	39	160	102	43	22	37	10	13	5	0	61	0	0	0.093	0.27	0.00%	0.00	2.2
+
+Balks: None.
+WP: None.
+HBP: None.
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - CB Bucknor, 1B - Ben May, 2B - Adam Beck, 3B - Dan Iassogna, LF - (none), RF - (none).
+Time of Game: 2:36.
+Attendance: 22,042.
+Field Condition: Unknown.
+Start Time Weather: 67° F, Wind 21mph out to Centerfield, Sunny, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Brewers
+1	Jackson Chourio	LF
+2	Blake Perkins	CF
+3	William Contreras	C
+4	Gary Sánchez	DH
+5	Willy Adames	SS
+6	Sal Frelick	RF
+7	Rhys Hoskins	1B
+8	Joey Ortiz	3B
+9	Brice Turang	2B
+	Colin Rea	P
+Giants
+1	Tyler Fitzgerald	SS
+2	Mike Yastrzemski	RF
+3	Heliot Ramos	LF
+4	Matt Chapman	3B
+5	LaMonte Wade Jr.	1B
+6	Jerar Encarnacion	DH
+7	Grant McCray	CF
+8	Patrick Bailey	C
+9	Brett Wisely	2B
+	Blake Snell	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Milwaukee Brewers vs. San Francisco Giants, September 11
+2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+SFG
+50%
+MIL
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.39
+6	0.41
+7	0.39
+8	0.45
+9	0.36
+10	0.28
+11	0.14
+12	0.14
+13	0.17
+14	0.15
+15	0.13
+16	0.14
+17	0.17
+18	0.11
+19	0.09
+20	0.07
+21	0.04
+22	0.02
+23	0.02
+24	0.02
+25	0.02
+26	0.02
+27	0.02
+28	0.04
+29	0.03
+30	0.02
+31	0.02
+32	0.02
+33	0.02
+34	0.02
+35	0.02
+36	0.02
+37	0.02
+38	0.01
+39	0.01
+40	0.01
+41	0.01
+42	0.01
+43	0
+44	0.01
+45	0
+46	0
+47	0
+48	0
+49	0
+50	0
+51	0
+52	0
+53	0.01
+54	0
+55	0.01
+56	0
+57	0
+58	0
+59	0
+60	0
+61	0
+62	0
+63	0
+64	0
+65	0
+66	0
+67	0
+68	0
+69	0
+70	0
+71	0
+72	0
+73	0
+74	0
+75	0
+76	0
+77	0
+78	0
+79	0
+80	0
+81	0
+82	0
+83	0
+84	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b1	2-0	2	1--	2,(1-0) 	RR	SFG	Jerar Encarnacion	Colin Rea	14%	86%	Home Run (Fly Ball to Deep RF); L. Wade Scores
+b1	0-0	2	1-3	5,(1-2) 	R	SFG	LaMonte Wade Jr.	Colin Rea	9%	64%	H. Ramos Steals 2B; T. Fitzgerald Scores/Passed Ball/No RBI
+b1	1-0	2	-2-	6,(2-2) 	R	SFG	LaMonte Wade Jr.	Colin Rea	9%	72%	Single to RF (Line Drive to CF-RF); H. Ramos Scores
+b1	0-0	1	1-3	3,(0-2) 	O	SFG	Matt Chapman	Colin Rea	-7%	55%	Popfly: 1B
+b1	0-0	0	---	2,(1-0) 		SFG	Tyler Fitzgerald	Colin Rea	6%	61%	Double to LF (Fly Ball to Deep LF-CF)
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Brewers Batting, Tied 0-0, Giants' Blake Snell facing 1-2-3
+t1	0-0	0	---	6,(2-2) 	O	MIL	Jackson Chourio	Blake Snell	2%	52%	Strikeout Swinging
+t1	0-0	1	---	4,(1-2) 	O	MIL	Blake Perkins	Blake Snell	2%	54%	Groundout: SS-1B
+t1	0-0	2	---	4,(2-1) 	O	MIL	William Contreras	Blake Snell	1%	55%	Flyball: RF (CF-RF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Brewers 0, Giants 0.
+Bottom of the 1st, Giants Batting, Tied 0-0, Brewers' Colin Rea facing 1-2-3
+b1	0-0	0	---	2,(1-0) 		SFG	Tyler Fitzgerald	Colin Rea	6%	61%	Double to LF (Fly Ball to Deep LF-CF)
+b1	0-0	0	-2-	2,(1-0) 	O	SFG	Mike Yastrzemski	Colin Rea	-1%	59%	Lineout: CF (Deep CF); T. Fitzgerald to 3B
+b1	0-0	1	--3	6,(3-2) 		SFG	Heliot Ramos	Colin Rea	2%	61%	Walk
+b1	0-0	1	1-3	3,(0-2) 	O	SFG	Matt Chapman	Colin Rea	-7%	55%	Popfly: 1B
+b1	0-0	2	1-3	5,(1-2) 	R	SFG	LaMonte Wade Jr.	Colin Rea	9%	64%	H. Ramos Steals 2B; T. Fitzgerald Scores/Passed Ball/No RBI
+b1	1-0	2	-2-	6,(2-2) 	R	SFG	LaMonte Wade Jr.	Colin Rea	9%	72%	Single to RF (Line Drive to CF-RF); H. Ramos Scores
+b1	2-0	2	1--	2,(1-0) 	RR	SFG	Jerar Encarnacion	Colin Rea	14%	86%	Home Run (Fly Ball to Deep RF); L. Wade Scores
+b1	4-0	2	---	5,(2-2) 	O	SFG	Grant McCray	Colin Rea	0%	86%	Groundout: SS-1B (SS-2B)
+									4 runs, 3 hits, 0 errors, 0 LOB. Brewers 0, Giants 4.
+Top of the 2nd, Brewers Batting, Behind 0-4, Giants' Blake Snell facing 4-5-6
+t2	0-4	0	---	6,(3-2) 		MIL	Gary Sánchez	Blake Snell	-3%	83%	Single to LF (Line Drive to Deep LF Line)
+t2	0-4	0	1--	6,(3-2) 	O	MIL	Willy Adames	Blake Snell	3%	85%	Strikeout Swinging
+t2	0-4	1	1--	4,(1-2) 	O	MIL	Sal Frelick	Blake Snell	2%	87%	Flyball: CF (LF-CF)
+t2	0-4	2	1--	5,(3-1) 		MIL	Rhys Hoskins	Blake Snell	-1%	86%	Walk; G. Sánchez to 2B
+t2	0-4	2	12-	10,(3-2) 		MIL	Joey Ortiz	Blake Snell	-3%	83%	Walk; G. Sánchez to 3B; R. Hoskins to 2B
+t2	0-4	2	123	3,(0-2) 	O	MIL	Brice Turang	Blake Snell	6%	89%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 3 LOB. Brewers 0, Giants 4.
+Bottom of the 2nd, Giants Batting, Ahead 4-0, Brewers' Colin Rea facing 8-9-1
+b2	4-0	0	---	1,(0-0) 		SFG	Patrick Bailey	Colin Rea	2%	91%	Double to LF (Ground Ball)
+b2	4-0	0	-2-	3,(1-1) 		SFG	Brett Wisely	Colin Rea	2%	93%	Single to LF (Fly Ball to LF Line); P. Bailey to 3B
+b2	4-0	0	1-3	3,(0-2) 	R	SFG	Tyler Fitzgerald	Colin Rea	3%	96%	Double to CF (Fly Ball to Deep RF); P. Bailey Scores; B. Wisely to 3B
+b2	5-0	0	-23	7,(2-2) 	RRR	SFG	Mike Yastrzemski	Colin Rea	2%	98%	Home Run (Fly Ball to Deep RF Line); B. Wisely Scores; T. Fitzgerald Scores
+b2	8-0	0	---	2,(0-1) 	O	SFG	Heliot Ramos	Colin Rea	0%	98%	Groundout: 3B-1B (Weak 3B)
+b2	8-0	1	---	2,(1-0) 	O	SFG	Matt Chapman	Colin Rea	0%	98%	Flyball: LF (LF-CF)
+b2	8-0	2	---	1,(0-0) 	O	SFG	LaMonte Wade Jr.	Colin Rea	0%	98%	Groundout: 2B-1B (2B-1B)
+									4 runs, 4 hits, 0 errors, 0 LOB. Brewers 0, Giants 8.
+Top of the 3rd, Brewers Batting, Behind 0-8, Giants' Blake Snell facing 1-2-3
+t3	0-8	0	---	3,(0-2) 	O	MIL	Jackson Chourio	Blake Snell	0%	98%	Strikeout Swinging
+t3	0-8	1	---	2,(0-1) 		MIL	Blake Perkins	Blake Snell	-1%	98%	Double to LF (Ground Ball)
+t3	0-8	1	-2-	4,(1-2) 	R	MIL	William Contreras	Blake Snell	-1%	96%	Double to CF (Line Drive to Deep CF-RF); B. Perkins Scores
+t3	1-8	1	-2-	4,(1-2) 	O	MIL	Gary Sánchez	Blake Snell	1%	97%	Strikeout Looking
+t3	1-8	2	-2-	2,(0-1) 	O	MIL	Willy Adames	Blake Snell	1%	98%	Lineout: 3B
+									1 run, 2 hits, 0 errors, 1 LOB. Brewers 1, Giants 8.
+Bottom of the 3rd, Giants Batting, Ahead 8-1, Brewers' Colin Rea facing 6-7-8
+b3	8-1	0	---	4,(1-2) 	O	SFG	Jerar Encarnacion	Colin Rea	0%	98%	Groundout: 2B-1B
+b3	8-1	1	---	4,(2-1) 	O	SFG	Grant McCray	Colin Rea	0%	98%	Groundout: 1B unassisted
+b3	8-1	2	---	2,(1-0) 		SFG	Patrick Bailey	Colin Rea	0%	98%	Single to CF (Line Drive)
+b3	8-1	2	1--	6,(3-2) 	O	SFG	Brett Wisely	Colin Rea	0%	98%	Flyball: LF (Short LF-CF)
+									0 runs, 1 hit, 0 errors, 1 LOB. Brewers 1, Giants 8.
+Top of the 4th, Brewers Batting, Behind 1-8, Giants' Blake Snell facing 6-7-8
+t4	1-8	0	---	3,(1-1) 	O	MIL	Sal Frelick	Blake Snell	1%	98%	Groundout: 2B-1B (2B-1B)
+t4	1-8	1	---	5,(3-1) 	O	MIL	Rhys Hoskins	Blake Snell	0%	98%	Flyball: LF (Deep LF Line)
+t4	1-8	2	---	6,(2-2) 	O	MIL	Joey Ortiz	Blake Snell	0%	98%	Groundout: 2B-1B (2B-1B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Brewers 1, Giants 8.
+Bottom of the 4th, Giants Batting, Ahead 8-1, Brewers' Colin Rea facing 1-2-3
+b4	8-1	0	---	1,(0-0) 		SFG	Tyler Fitzgerald	Colin Rea	0%	99%	Single to CF (Fly Ball to CF-RF)
+b4	8-1	0	1--	1,(0-0) 	RO	SFG	Mike Yastrzemski	Colin Rea	0%	99%	Double to CF (Fly Ball to Deep LF-CF); T. Fitzgerald Scores; M. Yastrzemski out at 3B/CF-SS-3B
+b4	9-1	1	---	3,(2-0) 	O	SFG	Heliot Ramos	Colin Rea	0%	99%	Flyball: CF (CF-RF)
+b4	9-1	2	---	2,(1-0) 	R	SFG	Matt Chapman	Colin Rea	0%	99%	Home Run (Fly Ball to Deep LF)
+b4	10-1	2	---	6,(3-2) 	O	SFG	LaMonte Wade Jr.	Colin Rea	0%	99%	Strikeout Swinging
+									2 runs, 3 hits, 0 errors, 0 LOB. Brewers 1, Giants 10.
+Top of the 5th, Brewers Batting, Behind 1-10, Giants' Blake Snell facing 9-1-2
+									
+Isaac Collins pinch hits for Brice Turang (2B) batting 9th
+
+t5	1-10	0	---	4,(1-2) 	O	MIL	Isaac Collins	Blake Snell	0%	100%	Strikeout Swinging
+									
+Garrett Mitchell pinch hits for Jackson Chourio (LF) batting 1st
+
+t5	1-10	1	---	4,(1-2) 		MIL	Garrett Mitchell	Blake Snell	0%	99%	Double to CF (Fly Ball to Deep CF)
+t5	1-10	1	-2-	4,(1-2) 	O	MIL	Blake Perkins	Blake Snell	0%	100%	Strikeout Swinging
+t5	1-10	2	-2-	6,(3-2) 	O	MIL	William Contreras	Blake Snell	0%	100%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Brewers 1, Giants 10.
+Bottom of the 5th, Giants Batting, Ahead 10-1, Brewers' Elvis Peguero facing 6-7-8
+									
+Elvis Peguero replaces Colin Rea pitching
+Eric Haase replaces Willy Adames (SS) playing C batting 5th
+Isaac Collins moves from PH to 2B
+Andruw Monasterio replaces William Contreras (C) playing 3B batting 3rd
+Joey Ortiz moves from 3B to SS
+Sal Frelick moves from RF to LF
+Garrett Mitchell moves from PH to RF
+
+b5	10-1	0	---	1,(0-0) 	O	SFG	Jerar Encarnacion	Elvis Peguero	0%	100%	Groundout: 2B-1B
+b5	10-1	1	---	5,(3-1) 		SFG	Grant McCray	Elvis Peguero	0%	100%	Single to LF (Ground Ball thru SS-3B Hole)
+b5	10-1	1	1--	2,(0-1) 		SFG	Patrick Bailey	Elvis Peguero	0%	100%	Single to RF (Ground Ball); G. McCray to 3B
+b5	10-1	1	1-3	7,(3-2) 		SFG	Brett Wisely	Elvis Peguero	0%	100%	Walk; P. Bailey to 2B
+b5	10-1	1	123	6,(3-2) 	O	SFG	Tyler Fitzgerald	Elvis Peguero	0%	100%	Strikeout Swinging
+b5	10-1	2	123	2,(0-1) 	O	SFG	Mike Yastrzemski	Elvis Peguero	0%	100%	Flyball: CF (Deep CF)
+									0 runs, 2 hits, 0 errors, 3 LOB. Brewers 1, Giants 10.
+Top of the 6th, Brewers Batting, Behind 1-10, Giants' Austin Warren facing 4-5-6
+									
+Austin Warren replaces Blake Snell pitching
+
+t6	1-10	0	---	5,(3-1) 		MIL	Gary Sánchez	Austin Warren	0%	99%	Walk
+t6	1-10	0	1--	3,(0-2) 	O	MIL	Eric Haase	Austin Warren	0%	100%	Strikeout Swinging
+t6	1-10	1	1--	4,(1-2) 		MIL	Sal Frelick	Austin Warren	0%	99%	Single to LF (Ground Ball thru SS-3B Hole); G. Sánchez to 2B
+t6	1-10	1	12-	2,(0-1) 	O	MIL	Rhys Hoskins	Austin Warren	0%	100%	Flyball: LF (Deep LF)
+t6	1-10	2	12-	5,(3-1) 		MIL	Joey Ortiz	Austin Warren	0%	100%	Walk; G. Sánchez to 3B; S. Frelick to 2B
+t6	1-10	2	123	3,(1-1) 	O	MIL	Isaac Collins	Austin Warren	0%	100%	Flyball: CF (Deep CF)
+									0 runs, 1 hit, 0 errors, 3 LOB. Brewers 1, Giants 10.
+Bottom of the 6th, Giants Batting, Ahead 10-1, Brewers' Elvis Peguero facing 3-4-5
+b6	10-1	0	---	5,(2-2) 	O	SFG	Heliot Ramos	Elvis Peguero	0%	100%	Strikeout Looking
+									
+Marco Luciano pinch hits for Matt Chapman (3B) batting 4th
+
+b6	10-1	1	---	1,(0-0) 		SFG	Marco Luciano	Elvis Peguero	0%	100%	Reached on E4 (Ground Ball to 2B-1B); M. Luciano to 1B
+b6	10-1	1	1--	4,(3-0) 		SFG	LaMonte Wade Jr.	Elvis Peguero	0%	100%	Walk; M. Luciano to 2B
+b6	10-1	1	12-	2,(0-1) 	R	SFG	Jerar Encarnacion	Elvis Peguero	0%	100%	Single to RF (Ground Ball); M. Luciano Scores/unER; L. Wade to 2B
+									
+Hoby Milner replaces Elvis Peguero pitching
+
+b6	11-1	1	12-	1,(0-0) 	OO	SFG	Grant McCray	Hoby Milner	0%	100%	Ground Ball Double Play: 3B-1B (Weak 3B)
+									1 run, 1 hit, 1 error, 1 LOB. Brewers 1, Giants 11.
+Top of the 7th, Brewers Batting, Behind 1-11, Giants' Austin Warren facing 1-2-3
+									
+Marco Luciano moves from PH to 2B
+Brett Wisely moves from 2B to 3B
+Luis Matos replaces Mike Yastrzemski playing RF batting 2nd
+
+t7	1-11	0	---	1,(0-0) 		MIL	Garrett Mitchell	Austin Warren	0%	100%	Double to 1B (Ground Ball to 2B-1B)
+t7	1-11	0	-2-	3,(1-1) 	O	MIL	Blake Perkins	Austin Warren	0%	100%	Groundout: P unassisted (Weak 1B); G. Mitchell to 3B
+t7	1-11	1	--3	1,(0-0) 	R	MIL	Andruw Monasterio	Austin Warren	0%	100%	Single to CF (Line Drive); G. Mitchell Scores
+t7	2-11	1	1--	5,(2-2) 	O	MIL	Gary Sánchez	Austin Warren	0%	100%	Strikeout Swinging
+t7	2-11	2	1--	3,(1-1) 	O	MIL	Eric Haase	Austin Warren	0%	100%	Groundout: 3B-1B
+									1 run, 2 hits, 0 errors, 1 LOB. Brewers 2, Giants 11.
+Bottom of the 7th, Giants Batting, Ahead 11-2, Brewers' Hoby Milner facing 8-9-1
+b7	11-2	0	---	7,(2-2) 	O	SFG	Patrick Bailey	Hoby Milner	0%	100%	Groundout: 2B-1B (SS-2B)
+b7	11-2	1	---	5,(2-2) 	O	SFG	Brett Wisely	Hoby Milner	0%	100%	Strikeout Looking
+b7	11-2	2	---	7,(2-2) 	O	SFG	Tyler Fitzgerald	Hoby Milner	0%	100%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Giants 11.
+Top of the 8th, Brewers Batting, Behind 2-11, Giants' Sean Hjelle facing 6-7-8
+									
+Sean Hjelle replaces Austin Warren pitching
+
+t8	2-11	0	---	6,(1-2) 	O	MIL	Sal Frelick	Sean Hjelle	0%	100%	Lineout: LF (Deep LF-CF)
+t8	2-11	1	---	6,(3-2) 		MIL	Rhys Hoskins	Sean Hjelle	0%	100%	Walk
+t8	2-11	1	1--	2,(0-1) 	O	MIL	Joey Ortiz	Sean Hjelle	0%	100%	Groundout: SS-1B; R. Hoskins to 2B
+t8	2-11	2	-2-	2,(0-1) 	O	MIL	Isaac Collins	Sean Hjelle	0%	100%	Groundout: SS-1B (SS-2B)
+									0 runs, 0 hits, 0 errors, 1 LOB. Brewers 2, Giants 11.
+Bottom of the 8th, Giants Batting, Ahead 11-2, Brewers' Jake Bauers facing 2-3-4
+									
+Jake Bauers replaces Hoby Milner pitching
+
+b8	11-2	0	---	1,(0-0) 		SFG	Luis Matos	Jake Bauers	0%	100%	Double to LF (Line Drive to Deep LF-CF)
+b8	11-2	0	-2-	1,(0-0) 	O	SFG	Heliot Ramos	Jake Bauers	0%	100%	Flyball: RF (Deep RF Line); L. Matos to 3B
+b8	11-2	1	--3	3,(1-1) 	R	SFG	Marco Luciano	Jake Bauers	0%	100%	Double to CF (Fly Ball to Deep RF); L. Matos Scores
+b8	12-2	1	-2-	4,(2-1) 	R	SFG	LaMonte Wade Jr.	Jake Bauers	0%	100%	Double to CF (Fly Ball to Deep CF); M. Luciano Scores
+b8	13-2	1	-2-	6,(3-2) 	O	SFG	Jerar Encarnacion	Jake Bauers	0%	100%	Strikeout Swinging
+b8	13-2	2	-2-	4,(2-1) 	O	SFG	Grant McCray	Jake Bauers	0%	100%	Foul Popfly: 3B
+									2 runs, 3 hits, 0 errors, 1 LOB. Brewers 2, Giants 13.
+Top of the 9th, Brewers Batting, Behind 2-13, Giants' Sean Hjelle facing 1-2-3
+t9	2-13	0	---	5,(2-2) 	O	MIL	Garrett Mitchell	Sean Hjelle	0%	100%	Strikeout Looking
+t9	2-13	1	---	7,(3-2) 	O	MIL	Blake Perkins	Sean Hjelle	0%	100%	Flyball: LF (Short LF Line)
+t9	2-13	2	---	2,(0-1) 	O	MIL	Andruw Monasterio	Sean Hjelle	0%	100%	Flyball: CF (Deep CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Brewers 2, Giants 13.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule San Francisco Giants Schedule Milwaukee Brewers Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Milwaukee Brewers vs San Francisco Giants Box Score: September 11, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/SFN/SFN202409110.shtml 
+ ----- 

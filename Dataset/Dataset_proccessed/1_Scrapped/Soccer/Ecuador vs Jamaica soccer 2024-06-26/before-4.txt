@@ -1,0 +1,577 @@
+Skip to main content
+English
+Software
+Software
+
+View All
+
+By Category
+Biosimulation
+
+Biosimulation is quantitative drug development, also known as modeling and simulation.
+
+Data Science
+
+Visualize clinical and non clinical data to improve drug development decisions
+
+Regulatory
+
+Increase efficiency for your regulatory preparation and submission process
+
+Market Access
+
+Overcome the challenges to demonstrating and delivering value effectively
+
+Data Innovation
+
+Advanced Deep Learning Analytics and AI
+
+Phoenix™ PK/PD Platform
+Phoenix™ PK/PD Platform
+
+The world’s most trusted platform for PK/PD analysis and modeling
+
+Phoenix WinNonlin
+
+The industry gold-standard for pharmacokinetic / pharmacodynamic (PK/PD) analysis
+
+Phoenix NLME™
+
+User-friendly and powerful nonlinear mixed effect modeling software
+
+Phoenix™ IVIVC Toolkit
+
+Enhanced tools for in vitro-in vivo correlation studies to accelerate your drug development
+
+PK Submit™
+
+Create complete pharmacokinetic (PK) regulatory submission-ready CDISC domains in minutes
+
+Phoenix Hosted
+
+Phoenix platform and Integral repository paired together for an end-to-end PK/PD validated SaaS offering in the cloud
+
+Pinnacle 21 Enterprise Software
+Pinnacle 21
+
+Shorten protocol to submission times and improve end-to-end clinical trial data quality
+
+Manage Standards & Build Studies
+
+Reuse metadata and build higher quality studies faster with standardization
+
+Manage External Vendor Data
+
+Reduce external vendor data timelines and get cleaner, higher quality data from vendors
+
+Validate & Prepare Submission Deliverables
+
+Ensure compliance with in-stream data validation, and generate submission deliverables up to 80% faster
+
+Simcyp™ Mechanistic Modeling
+Simcyp™ PBPK Simulator
+
+Simcyp PBPK models describe the behavior of drugs in different body tissues, with each tissue considered a physiological compartment
+
+Simcyp™ Discovery
+
+Versatile tool for translational modeling and simulation
+
+Simcyp™ Secondary Intelligence
+
+De-risk your program with evidence-based secondary pharmacology insights
+
+Simcyp™ Quantitative Systems Pharmacology Platform
+
+Predict Clinical Outcomes for Novel Targets, Modalities & Combinations
+
+Simcyp™ Biopharmaceutics
+
+Streamline the identification and refinement of promising formulations in a cost-effective manner
+
+Simcyp In Vitro Data Analysis Toolkit (SIVA)
+
+A user-friendly platform that analyzes complex in vitro data and enhance drug behavior predictions.
+
+D360™ Scientific Informatics Software
+D360
+
+Shorten the drug discovery design-make-test-analyze cycle with D360’s self service data and analytics
+
+Quantitative Systems Pharmacology
+Applied BioMath Assess™
+
+Point-and-click software tool to assess feasibility of early stage biotherapeutics
+
+Antibody-Drug Conjugate (ADC) Model Pack 
+
+Includes 18 models across 9 pharmacologies with one- and four-compartment versions
+
+Avidity Model Pack
+
+An advanced Biotherapeutic Model Pack that incorporates avid bivalent antibodies
+
+Biotherapeutic Model Pack
+
+Includes 18 models across 9 pharmacologies with one- and four-compartment versions
+
+Cell Engager Model Pack
+
+Models for solid tumors, in-vitro experiments, and solid tumors with two cell types
+
+Gene Therapy Model Pack
+
+Models covering eight LNP-encapsulated mRNA and siRNA therapies
+
+Protein Degrader Model Pack
+
+Models for in vivo and in vitro models of PROTAC and Molecular Glue Degrader pharmacologies
+
+QSP Platform Models
+Quantitative Systems Toxicology and Safety
+Certara.AI Platform
+Certara.AI Platform
+
+Solve data silo problems while improving analytics capabilities that drive productivity and accelerated data discovery across life science R&D.
+
+CoAuthor™
+
+Expedite the writing process while increasing consistency and quality with structured content authoring, generative AI, and a customizable eCTD template suite.
+
+View All
+Software
+
+Software to inform key safety, efficacy and efficiency decisions throughout the entire development process
+
+Services
+Services
+
+View All
+
+Model-informed Drug Development
+Modeling and Simulation Services
+
+Empower complex decisions to streamline your path to approval with Certara’s leading quantitative analysis and predictive modeling
+
+Biometrics and Data Sciences
+
+Achieve maximum value with expert support to extract insights from your biological data
+
+Drug Development Services
+
+We work alongside your team to inform critical decisions and set you up for regulatory and commercial success
+
+Regulatory Services and Medical Communications
+AI Enabled Regulatory and Medical Writing
+
+Maximize document speed, reproducibility and scientific quality with Certara’s AI-enabled regulatory writing solution
+
+Regulatory Consulting and Regulatory Affairs
+
+Having the right regulatory strategy in place will save time and money, and may result in the acceleration of your drug development program
+
+Regulatory Operations
+
+Accelerate submission success with customized scalable solutions
+
+Medical Affairs and Scientific Communications Services
+
+Reach the right audience at the right time with expert planning and writing support
+
+Transparency and Disclosure
+
+Enhance patient engagement and maintain compliance with data anonymization solutions
+
+Plain Language Documents
+
+From informed consent forms to plain language summaries, these documents ensure that the public is informed about clinical studies, and understands the value of their participation.
+
+Document Quality
+
+Engage with our QC, formatting, and publishing experts to ensure high quality across all your documents
+
+Submission Leadership
+
+Protect your submission with comprehensive support from a proven team of experts
+
+Real World Evidence and Market Access Consulting
+Real World Data Solutions
+
+Our real world data solutions allow for niche needs identification, justifying access, differentiating value, quantifying an opportunity an demonstrating benefit/risk of your product
+
+Decision Analytics and Modeling
+
+Determine your products value with our best in class capabilities in modeling, simulation, mathematics & Bayesian statistics paired with advanced analytics frameworks & proprietary software
+
+Health Economics and Outcomes Research (HEOR)
+
+Showcase the real-world value of your product
+
+Market Access and Pricing
+
+Optimal drug pricing and reimbursment strategy
+
+US and EU Payer Engagement
+
+Implement your payer engagment strategy early and often for optimal reimbursment
+
+Value and Strategy
+
+Optimize your product value, positioning and evidence synthesis across all stages of the reimbursement journey
+
+Specialty Areas
+Cell and Gene Therapy
+
+Derisk and accelerate the development of your cell and gene therapies–from discovery to market access–through an integrated approach and unmatched expertise
+
+Pediatrics
+
+Tackle pediatric drug development challenges head on to ensure safe and effective medicines to children with our team of multidisciplinary experts
+
+Oncology
+
+Trust the experts who advanced 500+ oncology projects in 2021
+
+Rare Disease and Orphan Drug
+
+Overcome the unique challenges in rare disease and orphan drug development through an integrated approach to modeling and simulation
+
+Complex Biologics
+
+Maximize program efficiencies and increase the likelihood of regulatory success with Certara’s unmatched experience and expertise in complex biologics
+
+About Us
+About Us
+
+Our Story
+
+Why Certara
+Responsibility
+
+Certara is committed to understanding, monitoring, and managing our social and environmental responsibilities.
+
+Regulatory Adoption
+
+Many global regulatory agencies have adopted use of Certara’s Simcyp PBPK and Phoenix PK/PD platforms
+
+Locations
+
+Discover our global office locations
+
+Leadership
+
+Meet our Executive Team and Board of Directors
+
+Partnerships
+
+Our Centers of Excellence, Technology Partners, & Software Global Distribution Partners
+
+Careers
+Investors
+News
+Privacy and Legal
+Privacy Center
+
+Our Privacy Center makes it easy to see how we collect and use your information
+
+Code of Conduct
+
+Our Certara Code of Conduct ensures that we hold ourselves and our business practices to a high standard, allowing us to fulfill our obligations to the many stakeholders we serve.
+
+Resources
+Resources
+
+View All
+
+Scientific Content
+Case Studies
+
+Learn how we helped solve our client’s drug development challenges
+
+White Papers
+
+Read our experts’ thoughts on the latest industry & regulatory trends
+
+Blogs
+
+Our blogs examine key issues in biosimulation and regulatory science
+
+Fact Sheets
+
+Helpful guidance and essential info to build your subject matter expertise
+
+Announcements
+
+Read the latest happenings at Certara
+
+Publications
+
+Research authored by scientists at Certara
+
+Guides
+
+Comprehensive information to help navigate the complexities of clinical research
+
+Webinars
+
+Catch up on the latest trends & best practices during our educational, interactive webinars
+
+On Demand Webinars
+
+Stay on the cutting edge of model-informed drug development & regulatory science trends on your time
+
+Conferences
+
+Connect with us during industry events at our booth or during our thought leadership presentations
+
+Articles
+
+Bylines and contributions from Certara’s thought leaders
+
+Videos
+
+Listen to our experts discuss drug discovery and development topics and trends
+
+Support
+Training
+Certara Customer Education
+
+Explore on demand, live, and in-person PK/PD courses taught using Certara software Phoenix WinNonlin
+
+Professional Certification
+
+Demonstrate your PK/PD expertise by obtaining a Certara Professional Certification
+
+Simcyp Workshops
+
+Get a solid grounding in mechanistic modeling and simulation
+
+View All
+Careers
+Careers
+Contact Us
+Login
+Home / Resources / Conferences / PAGE 2024
+PAGE 2024
+Past Event
+Date
+June 26-28, 2024
+Location
+Rome, Italy
+
+Meet with our scientists and pharmacometricians
+
+Once again, a large, diverse, and expert team will represent Certara this year. Stop by our booth to say hello, share work, and discover new opportunities for partnership.
+
+Karen Rowland Yeo, PhD | Piet van der Graaf, PharmD, PhD | Rik de Greef, MSc | Mirjam Trame, PharmD, PhD | Masoud Jamei, PhD | Mark Sale, MD | Keith Nieforth, PharmD | and more than 20 other scientists
+
+2024 Annual European Futbol Pharmacometrics Collective
+
+Certara is proud to return with this annual tradition. Players of any skill level are encouraged to participate, and spectators are also welcome for the evening fun.
+
+Tuesday, 25 June 2024 | 09:00 – 17:00
+Add to calendar
+
+Satellite Workshops: PMX Analysis with R, NsLME, and Pirana Darwin
+
+Keith Nieforth, PharmD & Mark Sale, MD
+
+This will be an open, office-hours type session to introduce students to PMX analyses in R using Certara’s R speaks NLME, Pirana, and Pirana Darwin. Hands on access will be available, with experienced users available for demonstration and questions. Students are encouraged to bring their own problem sets for 1:1 instructor training. No previous training is required, instructors will also be available to demo toolsets, and assist users with how to get started with these recently introduced, innovative toolsets.
+
+Tuesday 25th June 2024 | 08:15 – 16:45
+Add to calendar
+
+A Hands-On Workshop with Simcyp Designer for Tailored PBPK-PD/QSP Models
+
+Would you like to modify and tailor population PBPK models? This course will review the principles of PBPK modelling, using the Simcyp Simulator and how to use Simcyp Designer to modify existing PBPK models with your own extension and link them to custom-built PD/QSP models. We will have lectures to introduce the PBPK models to be changed and have hands-on exercises to train the customisation of PBPK models with the Designer. No prior knowledge is required. Access to the Simcyp Simulator and Simcyp Designer will be provided. Participant are required to bring their own laptops as the workshop is hands-on intensive.
+
+Key aspects of the course:
+
+Overview of PBPK modelling, using the Simcyp Simulator.
+Rapidly create new models in a graphical editor – the Simcyp Designer.
+Replace PBPK model components in Simcyp with a user-defined model.
+Adding components/modules to simcyp PBPK models.
+Extending PBPK models for large molecules.
+Building PBPK driven PD/QSP models.
+Incorporate population variability into the customized models.
+
+COST £200+VAT Students (Coupon Code: STUDENT24) / £400+VAT Industry
+
+Wednesday, 26 June 2024 | 14:20-14:40
+Add to calendar
+
+Streamlining Clinical Development of C.E.R.A. (Continuous Erythropoietin Receptor Activator) in Pediatric Chronic Kidney Disease Patients by Integration of Clinical Trial and Real-World Data
+
+Samer Mouksassi, PharmD, PhD, FCP
+
+|
+
+Senior Director, Quantitative Science Services, Certara
+
+Abstract
+
+Certara Posters and Abstracts
+
+Pharmacometrics in Late-Stage Development and Regulatory Submissions
+
+Pharmacokinetic/Pharmacodynamic framework to support the subcutaneous dosing regimen of nemolizumab in subjects with moderate-to-severe atopic dermatitis
+Floris Fauchet (1), Antonio Goncalves (1), Wannee Kantasiripitak (1), Eline van Maanen (1), Anna Largajolli (1), Vincent Duval (1), Liliana Ulianov (2), Michael Graeber (3), Patricia Fleuranceau Morel (3), Christophe Piketty (4), Luca Loprete (4), Nathalie Wagner (2)
+
+Pharmacokinetic/Pharmacodynamic framework to support the subcutaneous dosing regimen of nemolizumab in subjects with Prurigo Nodularis
+Floris Fauchet, (1), Wannee Kantasiripitak (1), Petra Jauslin (1), Vincent Duval (1), Antonio Goncalves (1), Anna Largajolli (1), Zarif Jabbar Lopez (2), Michael Graeber (3), Christophe Piketty (4), Patricia Fleuranceau Morel (3), Luca Loprete (4), Nathalie Wagner (3).
+
+Pharmacokinetics/pharmacodynamics and exposure-response modelling of VH3810109 (N6LS) in antiretroviral therapy-naïve adults with HIV-1 from the Phase IIa BANNER Study
+Yin Edwards (1*), Waqar Ashraf (1*), Thijs Zweers (1), Kathryn Brown (1), Jan Losos (2), Peter Leone (2), Margaret Gartland (2), Paul Wannamaker (2), Yash Gandhi (3)
+
+Population Pharmacokinetic and Exposure Response Analysis of Belzutifan in Advanced Renal Cell Carcinoma
+Anne Chain, Stefanie Hennig, Gerly van der Vleuten, Katrina Hui, Huub Jan Kleijn, Petra Jauslin
+
+Pediatrics
+
+Population pharmacokinetic modeling to support dose selection of zavegepant nasal spray in pediatrics
+Craig M Comisar (1), Jim Hughes (2), Jose Francis (1), Gary Mo (2), Beikang Ge (3), Rajinder Bhardwaj (1), Mohamed H. Shahin (2), Jing Liu (2)
+
+Optimizing Oncology Early-Stage Development
+
+Comparison of tumor dynamics models and tumor growth inhibition metrics in support of decisions in early Phase Ib/II clinical oncology studies
+Mathilde Marchand (1), Antonio Gonçalves (1), Francois Mercier (2), Pascal Chanu (3), Jin Y Jin (4), René Bruno (5)
+
+Operating characteristics of TGI metrics to support early Phase Ib decisions in unresectable hepatocellular carcinoma patients based on an historical Phase III study (IMbrave150)
+Antonio Gonçalves (1), Mathilde Marchand (1), Victor Poon (2), Phyllis Chan (2), René Bruno (3)
+
+Model Based Meta Analysis
+
+Understanding onset and response of two key endpoints in Systemic Lupus Erythematosus
+Anna Largajolli,1 Raj Thatavarti,1 Matthew L. Zierhut,1 Garrett Nieddu,2 Tjerk JH Bueters,2 Nancy Kim,2 Martin Johnson3
+
+Clinical Model-Based Meta-Analysis applied to Vaccine Development for SARS-CoV-2 Variants
+Anna Largajolli (1), Akshita Chawla (2), Bhargava Kandala (2), Soumya Perinparajah (1), Nele Plock (1), Kenny Watson (1), Niharika Gandhapuneti (1), Raj Thatavarti (1), S. Y. Amy Cheung (1), Rik de Greef (1), Jeffrey R. Sachs (2)
+
+Comparative assessment of incretin therapies on weight loss through a model-based meta-analysis approach
+Akshita Chawla, Peter Chang, Li Qin, Matthew L. Zierhut, Maria Trujillo
+
+Impact of censoring on non-linear effect modeling of aggregate-level survival data
+Renwei Zhang (1), Tingjie Guo (1), Li Qin (2), Rik de Greef (2), Matthew L. Zierhut (2), Laura B. Zwep (1), J. G. Coen van Hasselt (1)
+
+Methodology
+mlcov: New Machine Learning Based R package for Covariate Selection
+Ibtissem Rebai, Vincent Duval, Ayman Akil, James Craig, Mike Talley, Anna Largajolli, and Floris Fauchet
+
+Mastering upset plots: a comprehensive tutorial for effective data visualization in pharmacometrics and drug development
+Mahmoud A. Aafifi (1), Samer Mouksassi (1)
+
+The Applied Pharmacometrics Training Program – Year 3 Sustainability
+Innocent Gerald Asiimwe1,2, Samer Mouksassi3, Rik de Greef4, Eric Decloedt5, Paolo Denti2,6, Phumla Sinxadi2,6, Catriona Waitt1,2,7, Goonaseelan (Colin) Pillai2,6,8
+
+nlmixr2, rxode2 and Monolix: interchangeable models using monolix2rx and babelmixr2
+Matthew Fidler (1, 9), William S. Denney (2, 9), John Harrold (8, 9), Richard Hooijmakers (4, 9), Rik Schoemaker (3, 9), Max Taubert(1, 9), Mirjam Trame (5, 9), Theodoros Papathanasiou (6, 9), Justin Wilkins (3, 9)
+
+FOCE generalized log-likelihood using nlmixr2
+Matthew Fidler (1, 7), William S. Denney (2, 7), John Harrold (7), Richard Hooijmakers (4, 7), Max Taubert (1, 7), Mirjam N. Trame (5, 7), Theodoros Papathanasiou (6, 7), Rik Schoemaker (3, 7), Justin Wilkins (3, 7)
+
+The drug titration paradox in the presence of intra-individual variation: can we estimate the true concentration-effect relationship?
+Sebastiaan C. Goulooze (1), Elke H.J. Krekels (2,3) Martijn van Noort (1), Catherijne A.J. Knibbe (3,4)
+
+The International Society of Pharmacometrics’ Special Interest Group on Quantitative Systems Pharmacology (ISoP QSP SIG): Recent Developments and Future Vision
+Cesar Pichardo-Almarza (1), Krina Mehta (2), Anna Kondic (3), Yannis Androulakis (4), Marissa Renardy (5), Lourdes Cucurull-Sanchez (6)
+
+Beyond the Liver; In Silico Screening for Tissue-Specific Oligonucleotide Delivery Receptors
+Abdallah Derbalah (1), Felix Stader (1), Cong Liu (1), Adriana Zyla (1), Armin Sepp (1)
+
+Performance of Machine Learning Algorithms for Model Selection
+Xinnong Li (1), Mark Sale (2), Keith Nieforth (2), James Craig (2), Fenggong Wang (3), David Solit (4), Kairui Feng (3), Meng Hu (3), Robert Bies(1), Liang Zhao (3)
+
+Drug/Disease Modelling
+
+The impact of drug properties and severity of obesity on renal clearance through glomerular filtration and active tubular secretion
+Tan Zhang (1), Elisa A.M. Calvier (2), Elke H.J. Krekels (1,3)*, Catherijne A.J. Knibbe (1,4)*
+
+Physiologically Based Pharmacokinetic modelling of the Drug-Drug Interaction between Ivacaftor and Lefamulin in Cystic Fibrosis patients
+Wolfgang W. Wicha1, Magali Amiel2, Alice Ke2, Hannah Jones2, Steven P. Gelone3
+
+Time-dependent pharmacokinetics of hydromethylthionine mesylate (HMTM), a tau aggregation inhibitor, in healthy volunteers and patients with Alzheimer’s Disease
+Eline van Maanen (1), Antonio Goncalves (1), Lu Chen (1), Floris Fauchet (1), Sinziana Cristea (1), James Smith (1), Tom Baddeley (2,3), Fiona Hewitt (2), Bjoern Schelter (2,3), Claude Wischik (2,3)
+
+Quantifying the sensitivity and specificity of CYP450 probe drugs in predicting in vivo enzyme activity under (patho)physiological conditions
+A. M. (Marinda) van de Kreeke (1)*, Laura M. de Jong (1)*, Mariam Ahmadi (1), Jesse J. Swen (2), Catherijne A.J. Knibbe (1,3), J.G. Coen van Hasselt (1), Martijn L. Manson (1), Elke H.J. Krekels (1,4) *both authors contributed equally
+
+Physiologically based pharmacokinetic modelling to predict the concentration-time profile of an antibody-drug conjugate and hepatic and renal impairment.
+Felix Stader, Cong Liu, Adriana Zyla, Abdallah Derbalah, Armin Sepp
+
+Pharmacometric modelling to describe pharmacokinetics and exposure-response of ivermectin in adolescent patients infected with Trichuris trichiura
+David Ajayi (1,2), Ochuko M. Orherhe (1,3), Goonaseelan (Colin) Pillai (1,4,5), Samer Mouksassi (1,6), Britta Steffens (7), Dominic Bräm (7), Viviane Sprecher (8,9), Daniela Hoffmann (8,9), Michael Buettcher (7,9,10), Jean T. Coulibaly (11,12), Said M. Ali (13), Jennifer Keiser (8,9), Marc Pfister (7,11)
+
+Population PK and exposure-response modeling to support the design of trials with Debio 0123, a WEE1 inhibitor, in cancer patients
+Vito Dozio (1), Philippe B. Pierrillas (2), Kyriakos P. Papadopoulos (3), Hans Gelderblom (4), Sandrine Micallef (1), Camille Riff (1), Hashim Michla (1), Tri Tat (1), Marie-Claude Roubaudi-Fraschini (1), Noemie Luong (1), Mokhtar Omar (1), Rikke Frederiksen Franzen (1), Melanie Wirth (1), Caroline Mathon (1), Victor Rodriguez Freixinos (1), Esteban Rodrigo Imedio (1), Anne Bellon (1)
+
+A PBPK model of 4β-hydroxycholesterol, an endogenous biomarker for hepatic CYP3A activity.
+Aneesh Karkhanis (1), Matthew Harwood (1), Frederic Bois (1), Sibylle Neuhoff (1)
+
+External Validation of a Population Pharmacokinetic Model for Morphine and its Metabolites in Children under 3 Years who Underwent Cardiothoracic Surgery
+Maria Xiberras (1,2), Gerdien Zeilmaker-Roest (2), Swantje Völler (1), Elke H.J. Krekels (1,3), A.J. (Bram) Valkenburg (4), Dick Tibboel (2), Enno Wildschut (2), Catherijne A.J. Knibbe (1,5)
+
+Assessing the impact of choosing different estimated glomerular filtration rate (eGFR) equations on pharmacokinetic models: A proof-of-concept study with illustrative examples
+(1, 2) Thao-Nguyen Pham, (2) Yu-Wei Lin, (2) S. Y. Amy Cheung
+
+Natural disease progression model with transition probabilities to describes the continuum of Alzheimer’s disease
+Noel Patson1,2*, Marwa E.Elhefnawy 2,3*, Samer Mouksassi 4, Goonaseelan (Colin) Pillai 2,5, Emmanuel Chigutsa 6, Ivelina Gueorguieva 7
+
+Same Dissolution Profile – Different Virtual Bioequivalence (VBE) Outcome! Input-Dependent Propagation of Between Subject Variability (BSV) in Gut Physiology to Dissolution and VBES
+Masoud Jamei, SVP R & D, David Turner, Amin Rostami-Hodjegan
+
+Population PK and PKPD modeling of TBA-7371 in Healthy Adults and Adults with tuberculosis
+Shayne Watson (1), Micha Levi (1), David Holtzman (1), David Salinger (2), Kelly Stinson (1), Aparna Anderson (1), Elizabeth Grekas (1), Charles Wells (1)
+
+The impact of being born Small for Gestational Age (SGA) on the clearance of vancomycin versus morphine and midazolam
+Anne van Rongen (1), Madelein E. Nuis (1), Runyi Ma (1), Karel Allegaert (2,3,4), Swantje Völler (1), Anne Smits (3,6), Robert B. Flint (4,7), Saskia N. de Wildt (7,8), Dick Tibboel (9), Sinno H.P. Simons (7), Elke H.J. Krekels (1,5), Catherijne A.J. Knibbe (1,7,10)
+
+Relative impact of CYP2D6 phenotype, physiological changes and hepatic extraction ratio on drug exposure during pregnancy
+Karen Rowland Yeo
+
+Clinical Applications
+
+Successful validation of a model-informed precision dosing instrument for meropenem in critically ill patients, the DoseCalculator, against NONMEM®
+Franz Eric Weber (1,2), Ferdinand Anton Weinelt (1,2), Christin Nyhoegen (1), Frieder Pfäfflin (3), Anja Theloe (4), Ulrike Trost (3), Peggy Kießling (5), Wilhelm Huisinga (6), Sebastian Georg Wicha (7), Robin Michelet (1), Stefanie Hennig (1,8,9), Miriam Songa Stegemann (3), Charlotte Kloft (1)
+
+Real-World Data (RWD) in Pharmacometrics
+
+Real World Data – Realistic Population — Evidence for Unrecognized Pharmacokinetics of Renally Eliminated Drugs
+Nick Holford (1), Conor J O’Hanlon (1), Karel Allegaert (2), Brian Anderson (3), Amilcar Falcão (4), Nicolas Simon (5), Yoke-Lin Lo (6), Alison H Thomson (7), Catherine M Sherwin (8), Evelyne Jacqz-Aigrain (9), Carolina Llanos-Paez (10), Stefanie Hennig (11) , Linas Mockus (12), Carl Kirkpatrick (13)
+
+Software Demonstrations
+
+RDarwin: An R package for Machine Learning using pyDarwin and Certara’s pharmacometrics modeling language (PML) and NLME engine
+Keith Nieforth (1), Mark Sale (1), James Craig (1), Michael Tomashevskiy(1)
+
+Abstract
+
+Please find the Certara privacy policy here. You can unsubscribe, and withdraw your consent, at any time.
+
+Discover
+Software
+Services
+Resources
+Blogs
+Case Studies
+Technical Support
+Training
+About Us
+Why Certara
+Careers
+Investors
+News
+Privacy
+Legal
+Follow Us
+English
+
+Copyright © 2024, Certara, USA. All Rights Reserved.
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Cookies Settings Accept All Cookies
+ 
+ 
+ ----- 
+ Source link : https://www.certara.com/conference/page-meeting/ 
+ ----- 

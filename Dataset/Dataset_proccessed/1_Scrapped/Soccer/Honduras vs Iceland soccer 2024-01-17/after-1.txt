@@ -1,0 +1,380 @@
+   
+
+Expert Insights for the AI Business Revolution
+
+IN-DEPTH
+
+Top AI Tech from CES 2024
+By John K. Waters
+01/17/2024
+
+It's no surprise that artificial intelligence (AI) grabbed the spotlight at the annual Consumer Electronics Show (CES), held last week in Las Vegas. Everything from a new generation of AI-based PC hardware to cutting-edge vision tech for safer driving, AI seemed to be part of nearly every product announcement—including the usual lineup of big-screen TVs and home robots.
+
+Here's our list of the top AI tools, products, and platforms launched or previewed at the show:
+
+NVIDIA launches GeForce RTX:
+One announcement from the show we felt had the greatest potential for the most significant impact in the short term was NVIDIA's launch of the GeForce RTX 40 SUPER Series graphics cards. The new hardware was designed to supercharge the latest games and form the core of AI-powered PCs. The new family of GPUs  includes the GeForce RTX 4080 SUPER, the GeForce RTX 4070 Ti SUPER, and the GeForce RTX 4070 SUPER.
+
+Volkswagen integrates ChatGPT into its vehicles:
+The German automaker announced that it is integrating ChatGPT into all Volkswagen models equipped with its IDA voice assistant. Cerence Chat Pro from technology partner Cerence Inc. is the foundation of the new feature, which offers what the company describes as "an intelligent, automotive-grade ChatGPT integration." Volkswagen will be the first volume manufacturer to offer Chat GPT as a standard feature from the second quarter of 2024 in many production vehicles.
+
+Mercedes-Benz enhances ChatGPT-based voice assistant:
+At the higher end of the auto market, Mercedes-Benz announced an expansion of its use of AI in its vehicles with the addition of ChatGPT voice control via the MBUX Voice Assistant's "Hey Mercedes" prompt. An optional beta program will start June 16 in the U.S. for over 900,000 vehicles equipped with the MBUX infotainment system.
+
+Bosch adds eye-tracking tech to safeguard sleepy drivers:
+Another fascinating, in-car, AI-based technology is this tech from Bosch that monitors a driver's eyes and alerts them when they appear to be falling asleep. The technology is also designed to identify the driver’s points of interest as they drive, recognizing where the driver directs his or her gaze. This capability allows the car to provide relevant contextual information, such as details about nearby restaurants or historical facts about landmarks.
+
+WeHead AI companion robot adds a face to your AI chats:
+One of the most talked about displays at the show, the ChatGPT-based AI assistant presents a fractured, AI-generated face on a proprietary hardware platform for your ChatGPT interactions. As the company explains, "Wehead GPT is embodied LLM that helps you with brainstorming, decision making and self-reflection." Often described in reviews from the show as "creepy," the device and software are currently priced at $5000.
+
+Getty Images launches AI tool for image generation:
+The leading global visual content creator marketplace, Getty Images, unveiled Generative AI by iStock, billed as an affordable and commercially safe generative AI tool "to help users and businesses easily turn their creative visions into powerful content." The operative word here is "safe." The service makes it possible for users to download and license any generated image with legal indemnification at no extra cost. The new service is powered by NVIDIA's Picasso, and provides 100 image generations for $14.99 per month.
+
+Seergrills' smart grill cooks perfect ribeye in 90 seconds:
+It's probably not game-changing tech, but what was billed as the world's first AI-powered grill provided a striking example of AI's drift into everyday consumer products. The Perfecta grill uses dual vertical infrared burners to pulse and move horizontally, reaching temperatures as high as 1,652° F while providing 360° cooking. " From ribeye steaks to pizza, cook all your favorites in 3 minutes or less."
+
+Walmart previews a service that keeps your pantry stocked, automatically:
+Home grocery deliver just got automated. Walmart has teamed up with Microsoft to use AI to expand the capabilities of its InHome Replenishment Service. Guided by artificial intelligence, the automated replenishment system is designed to track the shopping and consumption habits of consumers and will use the data as a base point to determine when items are automatically restocked without shoppers entering the store.
+
+AI for your dog from Invoxia, wins best innovation in the AI category:
+It was bound to happen. The Minitailz collar attachment was billed as "an all-in-one device to know everything about your pet." The AI-powered device records resting heart rate and breathing rate to monitor your dog's overall health status. This might actually be a game changer for lovers of man's (and woman's) best friend.
+
+Giorgio Armani "decodes your skin" with precision diagnostic service:
+The L'Oréal Group's Meta Profiler's use of AI for analyzing skin health was another standout, illustrating AI's potential to tailor and enhance the so-called retail experience. The handheld device "born from a high-performance laboratory technology" replicates precise clinical lab measurements thanks to its combination of 18 analytical LEDs and 3 capture modes, the company says: parallel polarized mode to capture wrinkles and texture, cross polarized mode to capture pigmentation disorders and tone quality, and a 3D mode to capture smoothness and skin texture.
+
+Samsung touts AI in its new TVs:
+It wouldn't be CES without some wowie-zowie televisions, and the wowie-zowie-est this year were offered by Samsung. The company's new Neo QLED 8Ks include a built-in AI processor, the NQ8 AI Gen3, which supports a neural processing unit that is twice as fast as previous versions and an AI neural network eight times larger. The processor utilizes deep learning and 8K AI Upscaling Pro technology to automatically adjust image and sound quality. The AI Motion Enhancer Pro improves the clarity of fast-moving objects, such as a ball during a soccer match. And AI Upscaling Pro can upscale even low-resolution, standard-definition content to 8K. (Wowee!)
+
+
+
+
+About the Author
+
+John K. Waters is the editor in chief of a number of Converge360.com sites, with a focus on high-end development, AI and future tech. He's been writing about cutting-edge technologies and culture of Silicon Valley for more than two decades, and he's written more than a dozen books. He also co-scripted the documentary film Silicon Valley: A 100 Year Renaissance, which aired on PBS.  He can be reached at jwaters@converge360.com.
+
+
+Featured
+Launches Jetson Orin Nano Super, Boosting Generative AI Performance
+House Leaders Unveil Bipartisan Roadmap for AI Governance and Innovation
+Google Expands AI-Based Video and Image Generation Toolbox
+AI Startup Writer Inc. Targets 'Creativity Gap' with New Language Model
+Pure AI
+Sign up for our newsletter.
+Email Address*
+Country*
+United States of America
+Afghanistan
+Åland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Azerbaijan
+Austria
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde (Cabo Verde)
+Cayman Islands
+Curaçao
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, the Democratic Republic of the
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia, the former Yugoslav Republic of
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States of
+Moldova, Republic of
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Pakistan
+Oman
+Palau
+Palestinian Territory, Occupied
+Panama
+Paraguay
+Papua New Guinea
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Réunion
+Romania
+Russian Federation
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Eswatini (Swaziland)
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan, Province of China
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Viet Nam
+Venezuela, Bolivarian Republic of
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I agree to this site's Privacy Policy
+Please type the letters/numbers you see above.
+Most Popular Articles
+AI Startup Writer Inc. Targets 'Creativity Gap' with New Language Model
+Why is Hot New Agentic AI Now Dominating the Space?
+Protect AI Joins Microsoft’s Pegasus Program to Boost Global AI Security Solutions
+Google Expands AI-Based Video and Image Generation Toolbox
+Welcome to the Agentic World
+Upcoming Training Events
+TechMentor Virtual Training: Getting To Know O365 From A to Z
+February 11-12, 2025
+Live! 360 2-Day Hands-On Seminar: From Traction to Production: Building Generative AI Applications with Azure AI Studio
+March 25-26, 2025
+Cybersecurity & Ransomware Live! VirtCon 2025
+May 13-15, 2025
+TechMentor @ Microsoft HQ
+August 11-15, 2025
+Live! 360 Orlando
+November 16-21, 2025
+Artificial Intelligence Live! Orlando
+November 16-21, 2025
+Cloud & Containers Live! Orlando
+November 16-21, 2025
+Cybersecurity & Ransomware Live! Orlando
+November 16-21, 2025
+Data Platform Live! Orlando
+November 16-21, 2025
+TechMentor Orlando
+November 16-21, 2025
+Upcoming AI Events
+CES | Jan. 7-10
+Microsoft AI Tour NYC | Jan. 30
+AI Boardroom
+ADTmag
+AWS Insider
+Campus Security Today
+Campus Technology
+Environmental Protection
+Live! 360
+MCPmag
+MedCloudInsider
+Occupational Health & Safety
+Redmond
+Redmond Channel Partner
+Security Today
+Spaces 4 Learning
+TechMentor
+Tech Tactics in Education
+THE Journal
+Virtualization & Cloud Review
+Visual Studio Magazine
+Visual Studio Live!
+
+
+©2018-2025 1105 Media Inc. See our Privacy Policy, Cookie Policy and Terms of Use. CA: Do Not Sell My Personal Info
+
+
+Problems? Questions? Feedback? E-mail us.
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookie Policy
+Accept All Cookies
+Cookies Settings
+ 
+ 
+ ----- 
+ Source link : https://pureai.com/Articles/2024/01/17/Top-AI-Tech-from-2024-CES.aspx 
+ ----- 

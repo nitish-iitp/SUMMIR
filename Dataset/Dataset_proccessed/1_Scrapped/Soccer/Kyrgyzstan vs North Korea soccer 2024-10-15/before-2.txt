@@ -1,0 +1,229 @@
+ARCHITECTURE
+Open Source
+Cloud Native Ecosystem
+Containers
+Edge Computing
+Microservices
+Networking
+Serverless
+Storage
+ENGINEERING
+AI
+Large Language Models
+Frontend Development
+Software Development
+API Management
+Python
+JavaScript
+TypeScript
+WebAssembly
+Cloud Services
+Data
+Security
+OPERATIONS
+Platform Engineering
+Operations
+CI/CD
+Tech Careers
+Tech Culture
+DevOps
+Kubernetes
+Observability
+Service Mesh
+CHANNELS
+Podcasts
+Ebooks
+Events
+Newsletter
+TNS RSS Feeds
+THE NEW STACK
+About / Contact
+Sponsors
+Advertise With Us
+Contributions
+PODCASTS EBOOKS EVENTS NEWSLETTER CONTRIBUTE
+ARCHITECTURE ENGINEERING OPERATIONS
+FRONTEND DEVELOPMENT / JAVASCRIPT
+From React to HTML-First: Microsoft Edge Debuts ‘WebUI 2.0’
+Gmail changed the web platform in 2004 — are we about to see a similar shift thanks to Microsoft Edge? And this time, with less JavaScript.
+May 30th, 2024 9:31am by Richard MacManus
+Photo by Shubham Dhage on Unsplash.
+
+Twenty years ago, browser-based applications — web apps — made a giant leap in functionality. In April 2004, Google launched one of the first web apps that worked just like a native app: Gmail. The technology behind it, a JavaScript technique that would later be termed “Ajax” (Asynchronous JavaScript and XML), allowed web apps to send and retrieve data from a server asynchronously — meaning without the user needing to reload the web page.
+
+Suddenly, the 2004 internet was much more interactive. Gmail’s use of Ajax enabled instant loading of emails and real-time search. Other web apps quickly followed suit — Flickr, Bloglines and Basecamp among them. Later, Facebook used Ajax to submit and retrieve comments and likes asynchronously, allowing these actions to update immediately on the page without a full reload. It was magical and it allowed the “web as platform” (a.k.a. Web 2.0) to blossom over the next ten years.
+
+What Happens When You Double Down on JavaScript
+
+But then a curious thing happened. From roughly 2014 till now, developers doubled down on JavaScript — you can’t have too much of a good thing, right? So web apps became more complex, especially after the introduction of new JavaScript libraries like React (which debuted in 2013) and associated frameworks like Next.js (2016). While this undoubtedly helped web apps scale and do even more magical things with the user interface, it also increased the amount of JavaScript being processed on user devices. Which also increased the maintenance burden for developers.
+
+The JavaScript ecosystem had gotten too big for its boots, and prominent members of the web community began calling for a return to web platform basics. I’ve been reporting on this phenomenon over the past few years, but up till now I hadn’t seen a web app (of scale, at least) that epitomized the “back to basics” push.
+
+But perhaps I’ve found it now, with the latest upgrade to Microsoft’s web browser, the Chromium-based Edge. It caught my eye this week for a couple of reasons. One, it has reduced its reliance on React; and two, it has increased its use of Web Components, an HTML-first approach to web development.
+
+“…moving away from React to a modern Web Components + HTML-first architecture has had a *huge* benefit for users.”
+– Alex Russell, partner product manager on Edge
+
+How Has Edge Reduced Its React Code?
+
+Microsoft’s blog post about the new Edge (version 122) doesn’t actually mention React. Instead, it focuses on what the user will experience: faster speeds. The company put it this way:
+
+“Starting with Edge 122, the Browser Essentials UI is now much more responsive. The UI is now 42% faster for Edge users and a whopping 76% faster for those of you on a device without an SSD or with less than 8GB RAM!”
+
+But Microsoft’s Alex Russell, a partner product manager on Edge (and before that, one of the creators of Web Components), confirmed the development details on Mastodon:
+
+“We build a *lot* of the browser out of web “stuff” these days (think bookmarks, history, downloads, settings, new-tab-page, etc.), and moving away from React to a modern Web Components + HTML-first architecture has had a *huge* benefit for users, particularly folks on low-end hardware.”
+
+TRENDING STORIES
+5 Technical Trends To Help Web Developers Stand Out in 2025
+Angular Shares ‘Potential Ideas’ for 2025 Improvements
+Rediscover the Joy of Early Web Development With XSLT
+How to Build a Server-Side React App Using Vite and Express
+Mastering Progressive Hydration for Enhanced Web Performance
+
+In effect, this means that less of the user interface in Edge is being rendered with JavaScript code. Less JavaScript means a smaller footprint, which translates to faster web experiences for users. Microsoft did a short video to demonstrate the speed differences:
+
+YOUTUBE.COM/THENEWSTACK
+Tech moves fast, don't miss an episode. Subscribe to our YouTube channel to stream all our podcasts, interviews, demos, and more.
+SUBSCRIBE
+
+“WebUI 2.0” is the new UI mechanism for Edge, and it was noticeably faster in this demonstration.
+
+Note that at this stage, only certain aspects of the Edge UI have undergone this change. In reply to a Mastodon user who asked about this, Russell confirmed that it is “an ongoing effort” and that the Edge team is “converting surface-by-surface, with ~15% fully done so far.”
+
+You may also be wondering why a browser was using React in the first place. It’s because a lot of the UI in browsers is, basically, web pages. And it seems that the major browsers all went down the React rabbit hole during the past ten years, just like everyone else. So features like the “Browser essentials” screen (shown in the video) or your browser Favorites — those are rendered as web pages. Microsoft says that other Edge features, like “history, downloads, wallet and more,” will also be converted to “WebUI 2.0” in the coming months.
+
+The Origins of WebUI 2.0
+
+In its blog post, the Microsoft Edge team recognizes that modern JavaScript frameworks are good in some ways — developer productivity is specifically mentioned. But when they looked closer, they found that the cost of that dev experience was relatively slow browser speeds for end users. The finger was pointed at recent web developer trends:
+
+“A lot of our code was using a framework that relied on JavaScript to render the UI. This is referred to as client-side rendering, which has been a popular trend amongst web developers over the past decade because it helped web developers be more productive and enabled more dynamic UI experiences.
+
+So they asked themselves, “How fast could we make things if we removed that framework and built our UI just by using the web platform?”
+
+“We hope that more websites start moving in this direction of markup-first, small bundles, and less UI-rendering JavaScript code.”
+— Microsoft Edge team
+
+This resulted in WebUI 2.0, “an entirely new markup-first architecture that minimizes the size of our bundles of code, and the amount of JavaScript code that runs during the initialization path of the UI.”
+
+This resulted in a more modular architecture that relies on “a repository of web components that are tuned for performance on modern web engines.”
+
+The team adds, “We hope that more websites start moving in this direction of markup-first, small bundles, and less UI-rendering JavaScript code.”
+
+A Gmail Moment for 2024?
+
+I admit, comparing the latest version of Edge to what Gmail did in 2004 may be overstating it. But it’s potentially very significant given the large potential user base of Edge — all Windows PCs encourage you to use Edge (although of course, given past legal judgements, it cannot be the default browser).
+
+If the new HTML-first approach of Edge encourages similar projects from other companies and startups, then we may have the start of a new web development movement on our hands. For many in the web developer community, a shift to markup-first/JavaScript-second would be a welcome one.
+
+Richard MacManus is a Senior Editor at The New Stack and writes about web and application development trends. Previously he founded ReadWriteWeb in 2003 and built it into one of the world’s most influential technology news sites. From the early...
+Read more from Richard MacManus 
+SHARE THIS STORY
+ 
+ 
+ 
+ 
+TRENDING STORIES
+5 Technical Trends To Help Web Developers Stand Out in 2025
+Angular Shares ‘Potential Ideas’ for 2025 Improvements
+Rediscover the Joy of Early Web Development With XSLT
+How to Build a Server-Side React App Using Vite and Express
+Mastering Progressive Hydration for Enhanced Web Performance
+TNS owner Insight Partners is an investor in: Moment.
+INSIGHTS FROM OUR SPONSORS
+How to Build an SDK with a Developer Experience that Evolves with Your Users
+
+13 December 2024
+liblab SDKs Save Alohi 408 Hours of Development Time Per Year
+
+10 October 2024
+liblab SDKs Boost Doppler's Developer Adoption by 178% in 6 Months
+
+9 September 2024
+A developer’s guide to deploying applications in air-gapped Kubernetes - Spectro Cloud
+
+16 December 2024
+Cloud repatriation: why on-prem Kubernetes isn't going away - Spectro Cloud
+
+13 December 2024
+Unlocking the hybrid world with Palette and AWS - Spectro Cloud
+
+2 December 2024
+Capturing Bug Reports from Android Devices
+
+16 December 2024
+How to Choose a Kiosk Operating System (OS)
+
+13 December 2024
+How to Pick the Best Android Kiosk Tablet
+
+13 December 2024
+TNS DAILY NEWSLETTER
+Receive a free roundup of the most recent TNS articles in your inbox each day.
+SUBSCRIBE
+The New Stack does not sell your information or share it with unaffiliated third parties. By continuing, you agree to our Terms of Use and Privacy Policy.
+ARCHITECTURE
+Open Source
+Cloud Native Ecosystem
+Containers
+Edge Computing
+Microservices
+Networking
+Serverless
+Storage
+ENGINEERING
+AI
+Large Language Models
+Frontend Development
+Software Development
+API Management
+Python
+JavaScript
+TypeScript
+WebAssembly
+Cloud Services
+Data
+Security
+OPERATIONS
+Platform Engineering
+Operations
+CI/CD
+Tech Careers
+Tech Culture
+DevOps
+Kubernetes
+Observability
+Service Mesh
+CHANNELS
+Podcasts
+Ebooks
+Events
+Newsletter
+TNS RSS Feeds
+THE NEW STACK
+About / Contact
+Sponsors
+Advertise With Us
+Contributions
+roadmap.sh
+
+Community created roadmaps, articles, resources and journeys for developers to help you choose your path and grow in your career.
+
+Frontend Developer Roadmap 
+Backend Developer Roadmap 
+Devops Roadmap 
+© The New Stack 2024
+Disclosures Terms of Use Advertising Terms & Conditions Privacy Policy Cookie Policy
+FOLLOW TNS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://thenewstack.io/from-react-to-html-first-microsoft-edge-debuts-webui-2-0/ 
+ ----- 

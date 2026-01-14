@@ -1,0 +1,520 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Reloading Depot
+AutoTrickler V4 app update questions.
+ 
+Thread starter
+Jefe's Dope  
+Start date
+Feb 18, 2024
+Jefe's Dope
+Red Forman
+Full Member
+Minuteman
+ 
+ 
+Dec 20, 2017
+27,367
+285,872
+Feb 18, 2024
+#1
+I haven't run my V4 in just over a year and have yet to run it using the new update to the app. I was hoping for some advise before I started to throw some loads. I'm under the impression that the new update works best WITH OUT the jthor tip which I'm currently using. Any other suggestions would be appreciated. I'll be tuning 35 grains of H4350 for my throws.
+ 
+MediumSpeed
+some drag...
+Full Member
+Minuteman
+Legend
+Jul 13, 2017
+179
+258
+62
+Sacramento CA and sometimes Buckeye AZ.
+Feb 19, 2024
+#2
+I haven't had any issues. I don't have the jthor tip - I throw (threw?) a lot of H4350 (42.8gr) for my 6.5cm with very few over throws.
+ 
+ 
+Reactions:
+simonp
+Jefe's Dope
+Red Forman
+Full Member
+Minuteman
+ 
+ 
+Dec 20, 2017
+27,367
+285,872
+Feb 20, 2024
+#3
+No tips or tricks?
+ 
+MediumSpeed
+some drag...
+Full Member
+Minuteman
+Legend
+Jul 13, 2017
+179
+258
+62
+Sacramento CA and sometimes Buckeye AZ.
+Feb 20, 2024
+#4
+No tips, I have a folded small post-it under the front legs tilting it back slightly (maybe a hundredth of a inch...). It also sits on a piece of marble to minamize vibration. I just calibrate and go.
+ 
+ 
+Reactions:
+ZA206 and Jefe's Dope
+MediumSpeed
+some drag...
+Full Member
+Minuteman
+Legend
+Jul 13, 2017
+179
+258
+62
+Sacramento CA and sometimes Buckeye AZ.
+Feb 20, 2024
+#5
+ 
+ 
+Reactions:
+ZA206, skyrep and simonp
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Feb 20, 2024
+#6
+That is tilting the wrong direction, you tilt from the back of the unit, not the front
+ 
+ 
+Reactions:
+MediumSpeed and Taylorbok
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Feb 20, 2024
+#7
+V4 auto throw update
+Just got this email. V4 update finally out. Hello! This is a group email intended to reach everyone with an AutoTrickler V4. I have just released a new update for the AutoTrickler app, which will likely be automatically installed on your phone / tablet within a day or so if you have...
+ www.snipershide.com
+
+
+V4 vs supertrickler vs ingenuity trickler
+Weird. Are you power cycling the scale with the on/off button or actually unplugging the power supply? I'd install the ST platen and then unplug the scale, wait a few seconds, then plug it back in and see if it initializes. The only time my FX120i ever acts up is if I accidentally leave the...
+ www.snipershide.com
+ 
+ 
+Reactions:
+Jefe's Dope
+Jefe's Dope
+Red Forman
+Full Member
+Minuteman
+ 
+ 
+Dec 20, 2017
+27,367
+285,872
+Feb 21, 2024
+#8
+Loaded 100 rounds yesterday after a year of no loading. I had to relearn some of the finer points but generally went well. While still figuring out the new app and fine tuning the settings, I was able to get 10-20 second throws including the approx. 2-3 seconds of the scale zeroing once I placed the cup on the scale. Very few overthrows and when it did it was usually by .02 over.
+
+But I'm wondering about my large tube calibration. It seems to be a bit far to the right in the red part of the scale. Any opinions?
+
+It's H4350
+
+
+ 
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Feb 21, 2024
+#9
+Bulk speed is the large tube, mine typically is set to 6 or 7
+Transition is when the system goes from bulk / large tube to small trickle tube, 2.5 or 3 is typical
+Finish speed is the small tube speed when it gets close to being at weight
+Buffer is the transition of small tube to slower finish speed, this should be .04 or greater, I set mine at .08 for most. This means the small tube slows down at the .04 or whatever this is set to from set weight. this is the setting most overlooked. I set mine at .08 so at .08 from set charge weight the small tube slows down to almost a single kernel so it does not overthrow.
+
+The easiest way to set the small tube is to set weight to 2 grains and play with the finish speed and buffer until it runs 2 grains with out over throwing.
+
+This is all done after it is calibrated. Make sure you are level and run the calibration function a couple times. Add some forward tilt until you get the small tube as close to .21 as you can. Hope this helps.
+
+RL 15.5 settings. Does 34 grains in 8 to 12 seconds, without over throwing
+
+
+ 
+Last edited: Feb 21, 2024
+ 
+Reactions:
+Jefe's Dope and simonp
+L
+LR1845
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Apr 30, 2021
+982
+844
+Nevada
+Feb 21, 2024
+#10
+Tagging in for later
+ 
+memilanuk
+F'ing nuke
+Full Member
+Minuteman
+Supporter
+Mar 23, 2002
+2,793
+1,144
+East Wenatchee WA
+Feb 22, 2024
+#11
+LR1845 said:
+Tagging in for later
+
+...or maybe just use the 'Watch' feature that most forums have had for the last decade or so 
+
+
+ 
+ 
+Reactions:
+kthomas, Jefe's Dope, spife7980 and 1 other person
+S
+stevenc23
+Full Member
+Full Member
+Minuteman
+Oct 21, 2013
+1,406
+497
+Denver, CO
+Feb 26, 2024
+#12
+Jefe's Dope said:
+But I'm wondering about my large tube calibration. It seems to be a bit far to the right in the red part of the scale. Any opinions?
+
+It's H4350
+
+My large tube flow is high as well. I emailed Adam and they responded:
+
+"Yes, that is fine; the large tube flow rate doesn't matter."
+ 
+ 
+Reactions:
+Jefe's Dope and simonp
+ZA206
+Private
+Full Member
+Minuteman
+Jan 24, 2014
+292
+321
+Feb 27, 2024
+#13
+The larger the grain size the more horizontal the small tube needs to be, which means shimming under the front. The more horizontal the tube, the less the grains tend to tumble out… they have to be shoved out by the internal screw threads.
+
+I make sure the scale is perfectly level (using the bubble) and then add duct tape shims under the AutoTrickler front feet so the small tube is more horizontal. I haven’t recalibrated in forever, I just hit the preset setting for H4350, punch in my weight and rock on.
+
+
+
+John Glidewell said:
+Bulk speed is the large tube, mine typically is set to 6 or 7
+Transition is when the system goes from bulk / large tube to small trickle tube, 2.5 or 3 is typical
+Finish speed is the small tube speed when it gets close to being at weight
+Buffer is the transition of small tube to slower finish speed, this should be .04 or greater, I set mine at .08 for most. This means the small tube slows down at the .04 or whatever this is set to from set weight. this is the setting most overlooked. I set mine at .08 so at .08 from set charge weight the small tube slows down to almost a single kernel so it does not overthrow.
+
+The easiest way to set the small tube is to set weight to 2 grains and play with the finish speed and buffer until it runs 2 grains with out over throwing.
+
+This is all done after it is calibrated. Make sure you are level and run the calibration function a couple times. Add some forward tilt until you get the small tube as close to .21 as you can. Hope this helps.
+
+RL 15.5 settings. Does 34 grains in 8 to 12 seconds, without over throwing
+
+View attachment 8354744
+Click to expand...
+ 
+ 
+Reactions:
+John Glidewell and MediumSpeed
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Feb 27, 2024
+#14
+Go watch the videos on post #7. The key to all powders is to get the tilt right so the small tube flow is .21 or very close to that. The only way to check flow rate is to run the calibration. I have assisted many people and almost every one is not setting it up right. But you do you.
+ 
+ 
+Reactions:
+ZA206 and LR1845
+ZA206
+Private
+Full Member
+Minuteman
+Jan 24, 2014
+292
+321
+Feb 27, 2024
+#15
+John Glidewell said:
+Go watch the videos on post #7. The key to all powders is to get the tilt right so the small tube flow is .21 or very close to that. The only way to check flow rate is to run the calibration. I have assisted many people and almost every one is not setting it up right. But you do you.
+Yea, I’ve watched all the videos and have no issues with them.
+
+Once you get the right settings, you don’t have to calibrate anything. Just save the settings as a preset.
+I simply dump powder of choice in hopper, hit appropriate preset, punch in desired powder drop and hit go. That’s it. First charge takes longer than the rest as the small tube has to pickup powder, but after that they are all quick. No calibrating shit.
+
+i have three presets:
+Ball (no shims)
+XBR (no shims)
+H4350 (this one uses duct tape shims under the two front feet)
+
+Thats it.
+
+You can do you too buddy…
+ 
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Feb 27, 2024
+#16
+Adam and instruction manual say to calibrate everytime you switch powders or shims. Good luck.
+ 
+ 
+Reactions:
+simonp
+ZA206
+Private
+Full Member
+Minuteman
+Jan 24, 2014
+292
+321
+Feb 27, 2024
+#17
+I’ve used my way for the last 6 months and have had no issues. Calibrating every time is a waste of time and is totally unnecessary. If I tried a new powder that doesn’t work with one of those three profiles, I may consider doing a calibration to get a baseline. Odds are, one of my existing profiles works perfectly as is, and I know what all of the settings do and know how to tweak when necessary. I do load development constantly with over a dozen different powders…. No issues. It’s all very simple and there is no need to make it more complex.
+ 
+rmfield
+Sergeant
+Full Member
+Minuteman
+Apr 9, 2006
+298
+239
+Littleton, Colorado
+Feb 28, 2024
+#18
+ZA206 said:
+Calibrating every time is a waste of time and is totally unnecessary.
+Might or might not be true if you never move it. I have several presses and have to move my V4 around, so I carefully level the scale, shim and calibrate to .19-.21 grains every reloading session. When I take those steps, I can reuse my previous set-up profiles every time. I agree that the profiles generally work for multiple powders with the same or similar grain sizes (e.g. RE15.5 and H4350).
+ 
+db2000
+Supporter
+Supporter
+Full Member
+Minuteman
+Mar 27, 2020
+5,032
+4,588
+Mar 20, 2024
+#19
+I have the V4 and FX-120i that I purchased together about 1-2 years ago. It’s worked great. Today while reloading instead of tare to zero, it kept adding grains and wouldn’t stop. I removed the glass powder container. Pressed Zero to tare it. It goes to zero and then starts changing numbers increasing slowly in weight. Nothing is on the scale. No wind or vibrations or any differently. I unplugged the scale and removed the V4. Plugged it back in and calibrated using “Cal Out” and a certified 100g weight.
+I checked all the “port” settings that I had originally set per Adam’s instructions. They were all still the same.
+It appears set at zero but when I add the glass powder container it reads “E”.
+Any idea what’s going on? I’ve emailed Adam but thought I’d ask here as well. Thanks.
+ 
+ZA206
+Private
+Full Member
+Minuteman
+Jan 24, 2014
+292
+321
+Mar 20, 2024
+#20
+I swear I had the same thing happen over the winter (December maybe) and IIRC it was a calibration issue with the scale. I think I had bumped a button or two on the front and it started doing that. It's in my garage on by workbench and had gotten super cold. Took it in the house and let it warm up, then got out the FX-120i manual and did some reset and then did another calibration or something. Worked just fine after that, even in the freezing garage. I can't remember all the steps exactly.... but I was getting that E (I think it was "out of range") every time I placed something on the scale.
+
+-ZA
+ 
+ 
+Reactions:
+db2000
+E
+ecowboy
+Private
+Minuteman
+May 22, 2023
+2
+2
+Bandera
+May 24, 2024
+#21
+John Glidewell said:
+That is tilting the wrong direction, you tilt from the back of the unit, not the front
+I tilt back like that too for H4350 and H1000 by removing the rear clear cushion button. Throws both in under 11s with infrequent overthrows.
+ 
+ 
+Reactions:
+ZA206 and MediumSpeed
+John Glidewell
+Rag Hole Precision
+Supporter
+Full Member
+Minuteman
+Apr 26, 2018
+1,448
+1,281
+Reno, NV
+Aug 19, 2024
+#22
+Latest from Adam.
+
+Hi,
+
+We have just released a series of AutoTrickler instruction videos, covering setup, troubleshooting, calibration and tuning with various powders. You can find these videos here:
+
+
+
+
+
+
+
+
+
+
+
+
+If you need any help after watching these videos, please send us an email.
+
+This is a group email to all email addresses associated with an order for AutoTrickler V4 from our website (autotrickler.com).
+
+Thanks!
+
+Adam
+ 
+ 
+Reactions:
+6MT, Franko, RegionRat and 2 others
+M
+Mmdutcher
+Private
+Minuteman
+Aug 16, 2024
+19
+10
+Kansas City
+Aug 26, 2024
+#23
+I am chiming in here, because I am now a fan and convert to the AutoTrickler. I received mine last week, set it up this weekend, and have reloaded some .223 and 6mm ARC already. This system rocks! Huge improvement over my previous unit. Why did I not do this sooner?? Love the AutoTrickler!
+ 
+abn31c
+Globe-trotting acclaimed troll
+Full Member
+Minuteman
+Apr 10, 2018
+1,697
+4,398
+Aug 26, 2024
+#24
+I shim the front feet also, thousands of rounds loaded, only issue I've ever had is imr4895 pull down seems to clog up small tube due to excessive static. Still working on that one.
+I do recalibrate every session, but I'm also switching powders regularly.
+ 
+You must log in or register to reply here.
+Similar threads
+	
+Autotrickler Q’s
+Smokin7s Aug 11, 2024 Reloading Depot
+30
+Aug 12, 2024
+	
+Just stop? Or keep chasing perfection?
+Strbrd22 Aug 5, 2024 Reloading Depot
+17
+Aug 6, 2024
+	
+V4 auto throw update
+John Glidewell Jun 6, 2023 Reloading Depot
+31
+Jul 17, 2023
+T
+	
+Question on components per application
+thedude824 Thursday at 1:48 AM Reloading Depot
+3
+Thursday at 12:22 PM
+	
+Spotters Sig Kilo10K Gen 2, AB Quantum app, Sig BDX app first impressions and comments
+m1match Dec 12, 2024 Observation & Sighting Devices
+0
+Dec 12, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Reloading Depot
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/autotrickler-v4-app-update-questions.7208260/ 
+ ----- 

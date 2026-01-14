@@ -1,0 +1,686 @@
+We value your privacy
+We and our partners store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised advertising and content, advertising and content measurement, audience research and services development. With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our 1419 partners’ processing as described above. Alternatively you may click to refuse to consent or access more detailed information and change your preferences before consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences or withdraw your consent at any time by returning to this site and clicking the "Privacy" button at the bottom of the webpage.
+MORE OPTIONS
+DISAGREE
+AGREE
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2023 MLB Scores & Schedule
+San Francisco Giants Schedule
+San Diego Padres Schedule
+San Diego Padres vs San Francisco Giants Box Score: September 27, 2023
+MLB Scores — September 27, 2023
+MIA	4	Final
+NYM	2	
+KCR	0	Final
+DET	8	
+Completed on 9/28/2023
+ARI	3	Final
+CHW	0	
+MIA	2	Final
+NYM	11	
+TBR	5	Final
+BOS	0	
+CIN	3	Final
+CLE	4	
+WSN	1	Final
+BAL	5	
+PIT	6	Final
+PHI	7	
+NYY	6	Final
+TOR	0	
+CHC	5	Final
+ATL	6	(10)
+STL	2	Final
+MIL	3	
+OAK	4	Final
+MIN	6	
+LAD	8	Final
+COL	2	
+TEX	5	Final
+LAA	0	
+HOU	8	Final
+SEA	3	
+SDP	5	Final
+SFG	2	(10)
+MLB Scores & Standings on this Day
+San Diego Padres
+5
+79-80
+Prev Game Next Game
+ 
+San Francisco Giants
+2
+78-81
+Prev Game Next Game
+Wednesday, September 27, 2023
+Start Time: 6:45 p.m. Local
+Attendance: 32,151
+Venue: Oracle Park
+Game Duration: 2:52
+Night Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	10	R	H	E
+
+	San Diego Padres	0	0	0	0	1	0	1	0	0	3	5	10	0
+
+	San Francisco Giants	0	1	0	0	1	0	0	0	0	0	2	5	3
+WP: Josh Hader (2-3) • LP: John Brebbia (3-4) • SV: Tom Cosgrove (1)
+San Diego Padres 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Xander Bogaerts SS	3	0	1	2	0	1	5	.283	.349	.440	.789	21	13	0.010	2.25	0.111	-0.101	0%	0.00	-0.4	1	6	2·SF
+Fernando Tatis Jr. RF	5	1	1	0	0	1	5	.261	.325	.456	.781	21	14	-0.048	1.39	0.084	-0.132	0%	0.00	-0.4	3	0	GDP
+Juan Soto LF	4	1	0	0	1	2	5	.275	.409	.520	.929	18	9	-0.130	1.48	0.010	-0.140	0%	0.00	-0.9	3	0	IW
+Manny Machado DH	5	0	3	2	0	1	5	.258	.320	.465	.785	27	17	0.287	1.47	0.339	-0.052	0%	0.00	2.1			
+Ha-Seong Kim 2B	5	0	0	0	0	1	5	.259	.350	.397	.747	23	18	-0.149	1.36	0.007	-0.156	0%	0.00	-1.3	2	6	
+Garrett Cooper 1B	4	1	2	1	0	2	4	.254	.306	.426	.733	17	11	0.245	1.57	0.311	-0.066	0%	0.00	0.8	12	0	HR,2B
+   Eguy Rosario PR-3B	0	0	0	0	0	0	0	.250	.250	.531	.781										0	1	
+Matthew Batten 3B	3	0	0	0	0	2	3	.261	.354	.369	.724	9	7	-0.093	1.14	0.000	-0.093	0%	0.00	-0.7	1	1	
+   Jurickson Profar PH-1B	1	0	0	0	0	1	1	.238	.320	.365	.685	5	4	-0.093	3.27	0.000	-0.093	0%	0.01	-0.4	0	0	
+   Ji Man Choi 1B	0	0	0	0	0	0	0	.155	.229	.381	.611										3	0	
+José Azocar CF	3	1	1	0	0	0	3	.230	.272	.356	.628	15	12	0.030	1.15	0.085	-0.055	0%	0.00	0.2	0	0	2B
+   Trent Grisham PH-CF	1	1	0	0	0	0	1	.196	.311	.349	.660	1	1	-0.104	3.66	0.000	-0.104	0%	0.01	-0.3	0	0	
+Brett Sullivan C	4	0	2	0	0	0	4	.243	.270	.329	.599	6	5	0.079	1.81	0.115	-0.036	0%	0.00	0.5	5	1	
+																							
+Matt Waldron P																					0	2	
+   Scott Barlow P																					0	0	
+   Robert Suarez P																					0	0	
+   Josh Hader P																					0	0	
+   Tom Cosgrove P																					0	0	
+Team Totals	38	5	10	5	1	11	41	.263	.268	.395	.663	163	111	0.034	1.63	1.062	-1.028	0.00%	0.00	-0.7	30	17	
+2B: José Azocar (5, off Sean Manaea); Garrett Cooper (18, off Camilo Doval).
+HR: Garrett Cooper (17, off Sean Manaea, 7th inn, 0 on, 0 outs to Deep LF).
+SF: Xander Bogaerts 2 (5, 1 off Sean Manaea, 1 off John Brebbia).
+IBB: Juan Soto (10, by John Brebbia).
+TB: Garrett Cooper 6; Manny Machado 3; Brett Sullivan 2; José Azocar 2; Xander Bogaerts; Fernando Tatis Jr..
+GIDP: Fernando Tatis Jr. (17).
+RBI: Manny Machado 2 (91); Xander Bogaerts 2 (57); Garrett Cooper (61).
+2-out RBI: Manny Machado 2.
+Team LOB: 7.
+With RISP: 3 for 7.
+Fielding
+DP: 1. Ha-Seong Kim-Xander Bogaerts-Garrett Cooper.
+Baserunning
+Pickoffs: Fernando Tatis Jr. (2nd base by John Brebbia).
+San Francisco Giants 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+LaMonte Wade Jr. 1B	2	0	1	0	1	0	4	.261	.377	.424	.801	18	8	0.043	1.17	0.053	-0.010	0%	0.00	0.5	10	0	HBP
+   Austin Slater PH-CF	1	0	0	0	0	0	1	.269	.345	.396	.740	1	1	-0.065	2.31	0.000	-0.065	0%	0.00	-0.2	0	0	
+Mike Yastrzemski RF	4	0	0	0	0	0	4	.237	.329	.452	.781	16	11	-0.210	1.68	0.000	-0.210	0%	0.00	-1.9	2	0	GDP
+   Luis Matos PH	1	0	0	0	0	0	1	.249	.316	.342	.658	5	5	-0.045	1.81	0.000	-0.045	0%	0.00	-0.4			
+Wilmer Flores 3B-1B	5	0	0	0	0	1	5	.281	.351	.501	.852	19	13	-0.127	0.98	0.000	-0.127	0%	0.00	-1.1	1	4	
+Joc Pederson DH	3	0	0	0	1	0	4	.239	.353	.425	.777	19	10	-0.063	0.84	0.012	-0.074	0%	0.00	-0.4			
+   Heliot Ramos PH-DH	1	0	0	0	0	0	1	.189	.246	.321	.566	3	2	-0.017	0.57	0.000	-0.017	0%	0.00	-0.3			
+Thairo Estrada 2B	3	1	2	1	1	0	4	.275	.319	.424	.742	15	9	0.153	0.95	0.175	-0.022	0%	0.00	1.1	2	5	HR,SB
+Michael Conforto LF	4	1	1	0	0	0	4	.243	.338	.391	.729	12	8	-0.036	1.34	0.082	-0.117	0%	0.00	-0.1	0	0	2B
+Marco Luciano SS	3	0	0	0	1	1	4	.273	.368	.364	.732	17	8	0.011	1.43	0.074	-0.062	0%	0.00	-0.1	1	3	
+Patrick Bailey C	4	0	0	0	0	2	4	.235	.287	.362	.650	20	14	-0.208	1.77	0.000	-0.208	0%	0.00	-1.3	11	0	
+Tyler Fitzgerald CF-3B	3	0	1	1	1	1	4	.273	.333	.500	.833	17	11	0.099	1.42	0.185	-0.086	0%	0.00	0.7	3	0	2·SB
+																							
+Sean Manaea P																					0	0	
+   Ryan Walker P																					0	0	
+   Tyler Rogers P																					0	0	
+   Camilo Doval P																					0	0	
+   John Brebbia P																					0	0	
+Team Totals	34	2	5	2	5	5	40	.147	.275	.265	.540	162	100	-0.465	1.30	0.581	-1.043	0.00%	0.00	-3.7	30	12	
+2B: Michael Conforto (14, off Matt Waldron).
+HR: Thairo Estrada (14, off Matt Waldron, 2nd inn, 0 on, 1 out to Deep LF-CF).
+HBP: LaMonte Wade Jr. (6, by Scott Barlow).
+TB: Thairo Estrada 5; Michael Conforto 2; LaMonte Wade Jr.; Tyler Fitzgerald.
+GIDP: Mike Yastrzemski (5).
+RBI: Thairo Estrada (49); Tyler Fitzgerald (4).
+2-out RBI: Tyler Fitzgerald.
+Team LOB: 9.
+With RISP: 1 for 9.
+Fielding
+DP: 1. Thairo Estrada-Marco Luciano-LaMonte Wade Jr..
+E: Marco Luciano (1); Patrick Bailey (13); Wilmer Flores (9).
+Baserunning
+SB: Tyler Fitzgerald 2 (2, 2nd base off Scott Barlow/Brett Sullivan, 2nd base off Matt Waldron/Brett Sullivan); Thairo Estrada (23, 2nd base off Robert Suarez/Brett Sullivan).
+San Diego Padres 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Matt Waldron	6	5	2	2	2	2	1	4.35	24	82	54	33	6	15	11	9	1	0	54			0.034	0.90	0.00%	0.00	1.1
+Scott Barlow	1	0	0	0	1	1	0	4.50	5	26	13	5	3	5	1	1	0	0		0	0	0.088	1.68	0.00%	0.00	0.5
+Robert Suarez	1	0	0	0	1	0	0	4.05	4	24	14	8	3	3	2	1	0	0		0	0	0.108	1.78	0.00%	0.00	0.5
+Josh Hader, W (2-3)	1	0	0	0	1	2	0	1.16	4	17	10	5	3	2	1	0	0	0		0	0	0.139	2.67	0.00%	0.00	0.5
+Tom Cosgrove, S (1)	1	0	0	0	0	0	0	1.81	3	13	9	6	1	2	3	0	0	0		0	0	0.096	1.20	0.00%	0.00	1.1
+Team Totals	10	5	2	2	5	5	1	1.80	40	162	100	57	16	27	18	11	1	0	54	0	0	0.465	1.30	0.00%	0.00	3.7
+
+San Francisco Giants 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Sean Manaea	6	7	2	2	0	8	1	4.44	24	100	67	37	18	12	10	6	0	0	58			0.034	1.23	0.00%	0.00	1.1
+Ryan Walker	1	1	0	0	0	1	0	3.34	4	14	11	5	2	4	2	1	0	0		0	0	0.088	1.23	0.00%	0.00	0.5
+Tyler Rogers	1	0	0	0	0	1	0	3.08	3	12	7	5	1	1	2	0	0	0		0	0	0.108	1.41	0.00%	0.00	0.5
+Camilo Doval	1	1	0	0	0	1	0	2.97	4	13	10	4	2	4	2	1	0	0		0	0	0.139	2.77	0.00%	0.00	0.5
+John Brebbia, L (3-4)	1	1	3	0	1	0	0	3.55	6	24	16	12	1	3	2	3	0	0		0	0	-0.404	2.68	0.00%	0.00	-1.9
+Team Totals	10	10	5	2	1	11	1	1.80	41	163	111	63	24	24	18	11	0	0	58	0	0	-0.035	1.63	0.00%	0.00	0.7
+
+Sean Manaea faced 1 batter in the 7th inning.
+
+Balks: None.
+WP: None.
+HBP: Scott Barlow (5; LaMonte Wade Jr.).
+IBB: John Brebbia (2; Juan Soto).
+Pickoffs: John Brebbia (0; Fernando Tatis Jr., 2nd base).
+Other Info 
+Umpires: HP - Brennan Miller, 1B - Ryan Blakney, 2B - Mark Carlson, 3B - Tripp Gibson, LF - (none), RF - (none).
+Time of Game: 2:52.
+Attendance: 32,151.
+Field Condition: Unknown.
+Start Time Weather: 62° F, Wind 19mph out to Centerfield, Cloudy, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Padres
+1	Xander Bogaerts	SS
+2	Fernando Tatis Jr.	RF
+3	Juan Soto	LF
+4	Manny Machado	DH
+5	Ha-Seong Kim	2B
+6	Garrett Cooper	1B
+7	Matthew Batten	3B
+8	José Azocar	CF
+9	Brett Sullivan	C
+	Matt Waldron	P
+Giants
+1	LaMonte Wade Jr.	1B
+2	Mike Yastrzemski	RF
+3	Wilmer Flores	3B
+4	Joc Pederson	DH
+5	Thairo Estrada	2B
+6	Michael Conforto	LF
+7	Marco Luciano	SS
+8	Patrick Bailey	C
+9	Tyler Fitzgerald	CF
+	Sean Manaea	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - San Diego Padres vs. San Francisco Giants, September 27
+2023
+t1
+t2
+t3
+t4
+t5
+t6
+t7
+t8
+t9
+t10
+SFG
+50%
+SDP
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.42
+6	0.49
+7	0.5
+8	0.54
+9	0.5
+10	0.47
+11	0.45
+12	0.47
+13	0.36
+14	0.38
+15	0.39
+16	0.36
+17	0.34
+18	0.37
+19	0.39
+20	0.33
+21	0.35
+22	0.37
+23	0.38
+24	0.42
+25	0.38
+26	0.34
+27	0.31
+28	0.33
+29	0.35
+30	0.34
+31	0.36
+32	0.45
+33	0.54
+34	0.5
+35	0.43
+36	0.35
+37	0.37
+38	0.45
+39	0.32
+40	0.31
+41	0.3
+42	0.34
+43	0.3
+44	0.28
+45	0.26
+46	0.28
+47	0.3
+48	0.28
+49	0.31
+50	0.5
+51	0.46
+52	0.43
+53	0.45
+54	0.41
+55	0.45
+56	0.48
+57	0.46
+58	0.44
+59	0.43
+60	0.5
+61	0.45
+62	0.42
+63	0.39
+64	0.44
+65	0.47
+66	0.45
+67	0.42
+68	0.5
+69	0.44
+70	0.56
+71	0.46
+72	0.36
+73	0.29
+74	0.36
+75	0.44
+76	0.5
+77	0.48
+78	0.57
+79	0.61
+80	0.62
+81	0.64
+82	0.9
+83	0.9
+84	0.95
+85	0.98
+86	1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+t10	3-2	2	-23	9,(3-2) 	RR	SDP	Manny Machado	John Brebbia	26%	90%	Single to CF (Fly Ball); F. Tatís Scores/unER; J. Soto Scores/unER
+t7	1-2	0	---	4,(2-1) 	R	SDP	Garrett Cooper	Sean Manaea	19%	50%	Home Run (Fly Ball to Deep LF)
+b5	1-1	2	--3	1,(0-0) 	R	SFG	Tyler Fitzgerald	Matt Waldron	-13%	32%	Single to RF (Fly Ball to Short RF); M. Conforto Scores
+t9	2-2	1	---	5,(2-2) 		SDP	Garrett Cooper	Camilo Doval	12%	56%	Double to LF (Ground Ball)
+b2	0-0	1	---	4,(2-1) 	R	SFG	Thairo Estrada	Matt Waldron	-11%	36%	Home Run (Fly Ball to Deep LF-CF)
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Giants' Sean Manaea facing 1-2-3
+t1	0-0	0	---	5,(2-2) 	O	SDP	Xander Bogaerts	Sean Manaea	-2%	48%	Strikeout Swinging
+t1	0-0	1	---	6,(3-2) 	O	SDP	Fernando Tatis Jr.	Sean Manaea	-2%	46%	Strikeout Swinging
+t1	0-0	2	---	3,(2-0) 	O	SDP	Juan Soto	Sean Manaea	-1%	45%	Groundout: 2B-1B (2B-1B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Giants 0.
+Bottom of the 1st, Giants Batting, Tied 0-0, Padres' Matt Waldron facing 1-2-3
+b1	0-0	0	---	3,(1-1) 		SFG	LaMonte Wade Jr.	Matt Waldron	-3%	42%	Single to RF (Ground Ball)
+b1	0-0	0	1--	5,(2-2) 	OO	SFG	Mike Yastrzemski	Matt Waldron	7%	49%	Ground Ball Double Play: 2B-SS-1B
+b1	0-0	2	---	3,(1-1) 	O	SFG	Wilmer Flores	Matt Waldron	1%	50%	Groundout: 2B-1B
+									0 runs, 1 hit, 0 errors, 0 LOB. Padres 0, Giants 0.
+Top of the 2nd, Padres Batting, Tied 0-0, Giants' Sean Manaea facing 4-5-6
+t2	0-0	0	---	5,(2-2) 		SDP	Manny Machado	Sean Manaea	4%	54%	Single to LF (Ground Ball thru SS-3B Hole)
+t2	0-0	0	1--	6,(0-2) 	O	SDP	Ha-Seong Kim	Sean Manaea	-4%	50%	Strikeout Looking
+t2	0-0	1	1--	5,(2-2) 	O	SDP	Garrett Cooper	Sean Manaea	-3%	47%	Strikeout Swinging
+t2	0-0	2	1--	4,(1-2) 	O	SDP	Matthew Batten	Sean Manaea	-2%	45%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Padres 0, Giants 0.
+Bottom of the 2nd, Giants Batting, Tied 0-0, Padres' Matt Waldron facing 4-5-6
+b2	0-0	0	---	2,(1-0) 	O	SFG	Joc Pederson	Matt Waldron	2%	47%	Popfly: 3B (Weak 3B)
+b2	0-0	1	---	4,(2-1) 	R	SFG	Thairo Estrada	Matt Waldron	-11%	36%	Home Run (Fly Ball to Deep LF-CF)
+b2	1-0	1	---	4,(1-2) 	O	SFG	Michael Conforto	Matt Waldron	1%	38%	Flyball: RF (CF-RF)
+b2	1-0	2	---	6,(3-2) 	O	SFG	Marco Luciano	Matt Waldron	1%	39%	Flyball: RF (Short RF)
+									1 run, 1 hit, 0 errors, 0 LOB. Padres 0, Giants 1.
+Top of the 3rd, Padres Batting, Behind 0-1, Giants' Sean Manaea facing 8-9-1
+t3	0-1	0	---	11,(3-2) 	O	SDP	José Azocar	Sean Manaea	-3%	36%	Groundout: 3B-1B (SS-3B Hole)
+t3	0-1	1	---	1,(0-0) 	O	SDP	Brett Sullivan	Sean Manaea	-2%	34%	Groundout: 2B-1B (2B-1B)
+t3	0-1	2	---	2,(0-1) 		SDP	Xander Bogaerts	Sean Manaea	3%	37%	Single to 3B (Ground Ball to SS-3B Hole); X. Bogaerts to 2B/Adv on E5 (throw)
+t3	0-1	2	-2-	3,(1-1) 		SDP	Fernando Tatis Jr.	Sean Manaea	2%	39%	Single to 3B (Ground Ball to Weak 3B); X. Bogaerts to 3B
+t3	0-1	2	1-3	5,(2-2) 	O	SDP	Juan Soto	Sean Manaea	-6%	33%	Strikeout Swinging
+									0 runs, 2 hits, 1 error, 2 LOB. Padres 0, Giants 1.
+Bottom of the 3rd, Giants Batting, Ahead 1-0, Padres' Matt Waldron facing 8-9-1
+b3	1-0	0	---	8,(3-2) 	O	SFG	Patrick Bailey	Matt Waldron	2%	35%	Groundout: SS-1B (SS-2B)
+b3	1-0	1	---	3,(0-2) 	O	SFG	Tyler Fitzgerald	Matt Waldron	1%	37%	Groundout: SS-1B
+b3	1-0	2	---	5,(1-2) 	O	SFG	LaMonte Wade Jr.	Matt Waldron	1%	38%	Flyball: LF (Deep LF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Giants 1.
+Top of the 4th, Padres Batting, Behind 0-1, Giants' Sean Manaea facing 4-5-6
+t4	0-1	0	---	6,(3-2) 		SDP	Manny Machado	Sean Manaea	5%	42%	Single to SS (Ground Ball to SS-2B)
+t4	0-1	0	1--	6,(1-2) 	O	SDP	Ha-Seong Kim	Sean Manaea	-4%	38%	Flyball: CF (Deep CF)
+t4	0-1	1	1--	3,(0-2) 	O	SDP	Garrett Cooper	Sean Manaea	-4%	34%	Strikeout Swinging
+t4	0-1	2	1--	2,(1-0) 	O	SDP	Matthew Batten	Sean Manaea	-3%	31%	Popfly: 1B (Weak 1B)
+									0 runs, 1 hit, 0 errors, 1 LOB. Padres 0, Giants 1.
+Bottom of the 4th, Giants Batting, Ahead 1-0, Padres' Matt Waldron facing 2-3-4
+b4	1-0	0	---	2,(0-1) 	O	SFG	Mike Yastrzemski	Matt Waldron	2%	33%	Groundout: P-1B (Short 1B Line)
+b4	1-0	1	---	4,(0-2) 	O	SFG	Wilmer Flores	Matt Waldron	2%	35%	Strikeout Swinging
+b4	1-0	2	---	6,(3-2) 		SFG	Joc Pederson	Matt Waldron	-1%	34%	Walk
+b4	1-0	2	1--	2,(0-1) 	O	SFG	Thairo Estrada	Matt Waldron	2%	36%	Groundout: 2B-1B
+									0 runs, 0 hits, 0 errors, 1 LOB. Padres 0, Giants 1.
+Top of the 5th, Padres Batting, Behind 0-1, Giants' Sean Manaea facing 8-9-1
+t5	0-1	0	---	1,(0-0) 		SDP	José Azocar	Sean Manaea	9%	45%	Double to LF (Fly Ball to Deep LF Line)
+t5	0-1	0	-2-	1,(0-0) 		SDP	Brett Sullivan	Sean Manaea	9%	54%	Single to C (Bunt); J. Azocar to 3B
+t5	0-1	0	1-3	6,(2-2) 	RO	SDP	Xander Bogaerts	Sean Manaea	-4%	50%	Flyball: CF/Sacrifice Fly (Deep LF-CF); J. Azocar Scores
+t5	1-1	1	1--	3,(1-1) 	OO	SDP	Fernando Tatis Jr.	Sean Manaea	-7%	43%	Ground Ball Double Play: 2B-SS-1B
+									1 run, 2 hits, 0 errors, 0 LOB. Padres 1, Giants 1.
+Bottom of the 5th, Giants Batting, Tied 1-1, Padres' Matt Waldron facing 6-7-8
+b5	1-1	0	---	2,(1-0) 		SFG	Michael Conforto	Matt Waldron	-8%	35%	Double to CF (Line Drive to Deep LF-CF)
+b5	1-1	0	-2-	2,(0-1) 	O	SFG	Marco Luciano	Matt Waldron	1%	37%	Groundout: 2B-1B; M. Conforto to 3B
+b5	1-1	1	--3	4,(1-2) 	O	SFG	Patrick Bailey	Matt Waldron	8%	45%	Strikeout Swinging
+b5	1-1	2	--3	1,(0-0) 	R	SFG	Tyler Fitzgerald	Matt Waldron	-13%	32%	Single to RF (Fly Ball to Short RF); M. Conforto Scores
+b5	2-1	2	1--	2,(1-0) 		SFG	LaMonte Wade Jr.	Matt Waldron	-1%	31%	T. Fitzgerald Steals 2B
+b5	2-1	2	-2-	5,(3-1) 		SFG	LaMonte Wade Jr.	Matt Waldron	-1%	30%	Walk
+b5	2-1	2	12-	2,(1-0) 	O	SFG	Mike Yastrzemski	Matt Waldron	4%	34%	Flyball: RF (Short RF Line)
+									1 run, 2 hits, 0 errors, 2 LOB. Padres 1, Giants 2.
+Top of the 6th, Padres Batting, Behind 1-2, Giants' Sean Manaea facing 3-4-5
+t6	1-2	0	---	5,(3-1) 	O	SDP	Juan Soto	Sean Manaea	-4%	30%	Groundout: 3B-1B (SS-3B Hole)
+t6	1-2	1	---	3,(0-2) 	O	SDP	Manny Machado	Sean Manaea	-3%	28%	Strikeout Swinging
+t6	1-2	2	---	4,(2-1) 	O	SDP	Ha-Seong Kim	Sean Manaea	-2%	26%	Flyball: CF (Deep LF-CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Giants 2.
+Bottom of the 6th, Giants Batting, Ahead 2-1, Padres' Matt Waldron facing 3-4-5
+b6	2-1	0	---	4,(1-2) 	O	SFG	Wilmer Flores	Matt Waldron	2%	28%	Groundout: 2B-1B
+b6	2-1	1	---	3,(1-1) 	O	SFG	Joc Pederson	Matt Waldron	2%	30%	Flyball: LF (Short LF-CF)
+b6	2-1	2	---	1,(0-0) 		SFG	Thairo Estrada	Matt Waldron	-1%	28%	Single to CF (Ground Ball thru SS-2B)
+b6	2-1	2	1--	1,(0-0) 	O	SFG	Michael Conforto	Matt Waldron	2%	31%	Groundout: P-1B (P's Left)
+									0 runs, 1 hit, 0 errors, 1 LOB. Padres 1, Giants 2.
+Top of the 7th, Padres Batting, Behind 1-2, Giants' Sean Manaea facing 6-7-8
+t7	1-2	0	---	4,(2-1) 	R	SDP	Garrett Cooper	Sean Manaea	19%	50%	Home Run (Fly Ball to Deep LF)
+									
+Ryan Walker replaces Sean Manaea pitching
+
+t7	2-2	0	---	3,(0-2) 	O	SDP	Matthew Batten	Ryan Walker	-4%	46%	Strikeout Looking
+t7	2-2	1	---	3,(0-2) 	O	SDP	José Azocar	Ryan Walker	-3%	43%	Groundout: 2B-1B
+t7	2-2	2	---	3,(1-1) 		SDP	Brett Sullivan	Ryan Walker	2%	45%	Single to CF (Fly Ball to Short CF-RF)
+t7	2-2	2	1--	5,(2-2) 	O	SDP	Xander Bogaerts	Ryan Walker	-4%	41%	Groundout: 3B-2B/Forceout at 2B (SS-3B Hole); X. Bogaerts to 1B
+									1 run, 2 hits, 0 errors, 1 LOB. Padres 2, Giants 2.
+Bottom of the 7th, Giants Batting, Tied 2-2, Padres' Scott Barlow facing 7-8-9
+									
+Scott Barlow replaces Matt Waldron pitching
+
+b7	2-2	0	---	5,(2-2) 	O	SFG	Marco Luciano	Scott Barlow	4%	45%	Strikeout Looking
+b7	2-2	1	---	2,(1-0) 	O	SFG	Patrick Bailey	Scott Barlow	3%	48%	Groundout: 2B-1B (2B-1B)
+b7	2-2	2	---	7,(3-2) 		SFG	Tyler Fitzgerald	Scott Barlow	-2%	46%	Walk
+b7	2-2	2	1--	4,(2-1) 		SFG	LaMonte Wade Jr.	Scott Barlow	-2%	44%	T. Fitzgerald Steals 2B
+b7	2-2	2	-2-	5,(3-1) 		SFG	LaMonte Wade Jr.	Scott Barlow	-1%	43%	Hit By Pitch
+b7	2-2	2	12-	7,(2-2) 	O	SFG	Mike Yastrzemski	Scott Barlow	7%	50%	Flyball: LF (Deep LF Line)
+									0 runs, 0 hits, 0 errors, 2 LOB. Padres 2, Giants 2.
+Top of the 8th, Padres Batting, Tied 2-2, Giants' Tyler Rogers facing 2-3-4
+									
+Tyler Rogers replaces Ryan Walker pitching
+
+t8	2-2	0	---	3,(1-1) 	O	SDP	Fernando Tatis Jr.	Tyler Rogers	-5%	45%	Groundout: SS-1B
+t8	2-2	1	---	5,(3-2) 	O	SDP	Juan Soto	Tyler Rogers	-3%	42%	Strikeout Swinging
+t8	2-2	2	---	4,(2-1) 	O	SDP	Manny Machado	Tyler Rogers	-3%	39%	Groundout: 3B-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Giants 2.
+Bottom of the 8th, Giants Batting, Tied 2-2, Padres' Robert Suarez facing 3-4-5
+									
+Robert Suarez replaces Scott Barlow pitching
+
+b8	2-2	0	---	3,(1-1) 	O	SFG	Wilmer Flores	Robert Suarez	5%	44%	Groundout: 3B-1B
+b8	2-2	1	---	8,(3-2) 	O	SFG	Joc Pederson	Robert Suarez	4%	47%	Flyball: 2B (Deep 1B)
+b8	2-2	2	---	8,(3-2) 		SFG	Thairo Estrada	Robert Suarez	-2%	45%	Walk
+b8	2-2	2	1--	3,(1-1) 		SFG	Michael Conforto	Robert Suarez	-3%	42%	T. Estrada Steals 2B
+b8	2-2	2	-2-	5,(2-2) 	O	SFG	Michael Conforto	Robert Suarez	8%	50%	Groundout: C-1B
+									0 runs, 0 hits, 0 errors, 1 LOB. Padres 2, Giants 2.
+Top of the 9th, Padres Batting, Tied 2-2, Giants' Camilo Doval facing 5-6-7
+									
+Camilo Doval replaces Tyler Rogers pitching
+
+t9	2-2	0	---	2,(0-1) 	O	SDP	Ha-Seong Kim	Camilo Doval	-6%	44%	Foul Popfly: RF (Short RF into Foul Terr.)
+t9	2-2	1	---	5,(2-2) 		SDP	Garrett Cooper	Camilo Doval	12%	56%	Double to LF (Ground Ball)
+									
+Jurickson Profar pinch hits for Matthew Batten (3B) batting 7th
+Eguy Rosario pinch runs for Garrett Cooper (1B) batting 6th
+
+t9	2-2	1	-2-	5,(1-2) 	O	SDP	Jurickson Profar	Camilo Doval	-9%	46%	Strikeout Swinging
+									
+Trent Grisham pinch hits for José Azocar (CF) batting 8th
+
+t9	2-2	2	-2-	1,(0-0) 	O	SDP	Trent Grisham	Camilo Doval	-10%	36%	Groundout: 2B-1B (2B-1B)
+									0 runs, 1 hit, 0 errors, 1 LOB. Padres 2, Giants 2.
+Bottom of the 9th, Giants Batting, Tied 2-2, Padres' Josh Hader facing 7-8-9
+									
+Josh Hader replaces Robert Suarez pitching
+Jurickson Profar moves from PH to 1B
+Eguy Rosario moves from PR to 3B
+Trent Grisham moves from PH to CF
+
+b9	2-2	0	---	4,(3-0) 		SFG	Marco Luciano	Josh Hader	-7%	29%	Walk
+b9	2-2	0	1--	6,(1-2) 	O	SFG	Patrick Bailey	Josh Hader	8%	36%	Strikeout Swinging
+b9	2-2	1	1--	6,(2-2) 	O	SFG	Tyler Fitzgerald	Josh Hader	7%	44%	Strikeout Swinging
+									
+Austin Slater pinch hits for LaMonte Wade Jr. (1B) batting 1st
+
+b9	2-2	2	1--	1,(0-0) 	O	SFG	Austin Slater	Josh Hader	6%	50%	Groundout: SS-2B/Forceout at 2B; A. Slater to 1B
+									0 runs, 0 hits, 0 errors, 1 LOB. Padres 2, Giants 2.
+Top of the 10th, Padres Batting, Tied 2-2, Giants' John Brebbia facing 9-1-2
+									
+John Brebbia replaces Camilo Doval pitching
+Wilmer Flores moves from 3B to 1B
+Tyler Fitzgerald moves from CF to 3B
+Austin Slater moves from PH to CF
+Trent Grisham running at second base to start the extra inning
+
+t10	2-2	0	-2-	1,(0-0) 	O	SDP	Brett Sullivan	John Brebbia	-2%	48%	Groundout: SS-1B (SS-2B); T. Grisham to 3B
+t10	2-2	1	--3	3,(2-0) 	RO	SDP	Xander Bogaerts	John Brebbia	9%	57%	Flyball: RF/Sacrifice Fly; T. Grisham Scores/unER
+t10	3-2	2	---	6,(1-2) 		SDP	Fernando Tatis Jr.	John Brebbia	4%	61%	Reached on E6 (throw) (Ground Ball); F. Tatís to 2B
+t10	3-2	2	-2-	,(3-0) 		SDP	Juan Soto	John Brebbia	1%	62%	Intentional Walk
+t10	3-2	2	12-	5,(2-2) 		SDP	Manny Machado	John Brebbia	2%	64%	F. Tatís Picked off 2B, safe on E2 (throw); F. Tatís to 3B; J. Soto to 2B
+t10	3-2	2	-23	9,(3-2) 	RR	SDP	Manny Machado	John Brebbia	26%	90%	Single to CF (Fly Ball); F. Tatís Scores/unER; J. Soto Scores/unER
+t10	5-2	2	1--	5,(2-2) 	O	SDP	Ha-Seong Kim	John Brebbia	1%	90%	Popfly: 2B (Deep 2B-1B)
+									3 runs, 1 hit, 2 errors, 1 LOB. Padres 5, Giants 2.
+Bottom of the 10th, Giants Batting, Behind 2-5, Padres' Tom Cosgrove facing 2-3-4
+									
+Tom Cosgrove replaces Josh Hader pitching
+Ji Man Choi replaces Jurickson Profar playing 1B batting 7th
+Luis Matos pinch hits for Mike Yastrzemski (RF) batting 2nd
+Austin Slater running at second base to start the extra inning
+
+b10	2-5	0	-2-	5,(0-2) 	O	SFG	Luis Matos	Tom Cosgrove	5%	95%	Groundout: SS-1B
+b10	2-5	1	-2-	5,(3-1) 	O	SFG	Wilmer Flores	Tom Cosgrove	3%	98%	Groundout: 3B-1B
+									
+Heliot Ramos pinch hits for Joc Pederson (DH) batting 4th
+
+b10	2-5	2	-2-	3,(1-1) 	O	SFG	Heliot Ramos	Tom Cosgrove	2%	100%	Groundout: SS-1B
+									0 runs, 0 hits, 0 errors, 1 LOB. Padres 5, Giants 2.
+
+Retrosheet.org Boxscore:SFN202309270
+BackToBaseball.com Game Playback
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2023 MLB Scores & Schedule San Francisco Giants Schedule San Diego Padres Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2023 > San Diego Padres vs San Francisco Giants Box Score: September 27, 2023
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Terry Francona, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2024 All-Star Game, 2023 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2023 Draft, 2022 Draft, 2021 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Friday, January 10, 11:09PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE and STATHEAD trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/SFN/SFN202309270.shtml 
+ ----- 

@@ -1,0 +1,558 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+Manage Preferences
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Texas Rangers Schedule
+Toronto Blue Jays Schedule
+Toronto Blue Jays vs Texas Rangers Box Score: September 18, 2024
+MLB Scores — September 18, 2024
+OAK	5	Final
+CHC	3	
+ARI	9	Final
+COL	4	
+CHW	3	Final
+LAA	4	(13)
+SFG	5	Final
+BAL	3	
+ATL	7	Final
+CIN	1	
+MIN	4	Final
+CLE	5	(10)
+LAD	8	Final
+MIA	4	
+HOU	0	Final
+SDP	4	
+BOS	2	Final
+TBR	1	
+WSN	0	Final
+NYM	10	
+DET	4	Final
+KCR	2	
+PHI	1	Final
+MIL	2	
+PIT	5	Final
+STL	10	
+TOR	0	Final
+TEX	2	
+NYY	2	Final
+SEA	1	(10)
+MLB Scores & Standings on this Day
+Toronto Blue Jays
+0
+72-80
+Prev Game Next Game
+ 
+Texas Rangers
+2
+73-79
+Prev Game Next Game
+Wednesday, September 18, 2024
+Start Time: 7:05 p.m. Local
+Attendance: 34,625
+Venue: Globe Life Field
+Game Duration: 2:10
+Night Game, on artificial turf
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	Toronto Blue Jays	0	0	0	0	0	0	0	0	0	0	5	0
+
+	Texas Rangers	0	0	0	0	0	2	0	0	X	2	5	0
+WP: Cody Bradford (6-3) • LP: Bowden Francis (8-5) • SV: Kirby Yates (31)
+Toronto Blue Jays 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+George Springer RF	4	0	1	0	0	1	4	.223	.307	.379	.686	14	11	-0.035	0.96	0.037	-0.072	0%	0.00	-0.4	3	0	
+Davis Schneider LF	4	0	0	0	0	1	4	.201	.289	.362	.651	8	7	-0.072	0.92	0.000	-0.072	0%	0.00	-0.6	3	0	
+Vladimir Guerrero Jr. 1B	4	0	0	0	0	1	4	.319	.394	.542	.936	16	11	-0.112	1.06	0.000	-0.112	0%	0.00	-0.7	3	0	
+Alejandro Kirk C	4	0	1	0	0	1	4	.247	.313	.349	.662	15	9	-0.032	1.09	0.048	-0.079	0%	0.00	-0.2	10	0	
+Spencer Horwitz DH	4	0	1	0	0	1	4	.272	.361	.459	.820	24	16	0.089	0.98	0.138	-0.049	0%	0.00	0.7	0	0	2B
+Ernie Clement SS	3	0	1	0	0	0	3	.261	.282	.410	.691	8	6	-0.060	0.93	0.019	-0.079	0%	0.00	-0.6	1	1	
+Addison Barger 3B	3	0	1	0	0	1	3	.213	.249	.388	.637	8	5	-0.098	1.40	0.031	-0.130	0%	0.00	-0.8	0	2	
+Leo Jimenez 2B	3	0	0	0	0	1	3	.224	.332	.365	.697	10	6	-0.159	1.96	0.000	-0.159	0%	0.00	-1.2	2	0	
+Joey Loperfido CF	3	0	0	0	0	2	3	.226	.274	.371	.645	13	9	-0.081	1.07	0.000	-0.081	0%	0.00	-0.6	2	0	
+																							
+Bowden Francis P																					0	0	
+   Ryan Yarbrough P																					0	0	
+Team Totals	32	0	5	0	0	9	32	.156	.156	.188	.344	116	80	-0.560	1.13	0.273	-0.833	0.00%	0.00	-4.3	24	3	
+2B: Spencer Horwitz (19, off Cody Bradford).
+TB: Spencer Horwitz 2; Addison Barger; George Springer; Alejandro Kirk; Ernie Clement.
+Team LOB: 5.
+With RISP: 0 for 5.
+Texas Rangers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Marcus Semien 2B	4	0	1	0	0	0	4	.235	.306	.393	.699	11	8	0.009	0.73	0.060	-0.051	0%	0.00	0.1	1	1	2B
+Josh Smith SS	4	0	1	0	0	2	4	.260	.342	.395	.737	17	13	-0.006	0.68	0.028	-0.033	0%	0.00	-0.2	0	2	
+Wyatt Langford LF	3	1	1	0	0	2	4	.254	.326	.404	.730	17	9	0.028	1.05	0.091	-0.063	0%	0.00	0.0	0	0	HBP
+Adolis García RF	4	1	1	2	0	1	4	.218	.281	.391	.672	17	10	0.140	1.44	0.228	-0.088	0%	0.00	0.7	7	0	HR
+Nathaniel Lowe 1B	2	0	0	0	1	1	3	.265	.361	.388	.749	18	10	-0.022	1.09	0.037	-0.060	0%	0.00	-0.3	8	0	
+Josh Jung 3B	3	0	0	0	0	1	3	.264	.298	.421	.719	14	10	-0.071	0.99	0.000	-0.071	0%	0.00	-0.7	0	4	
+Jonah Heim C	3	0	0	0	0	0	3	.214	.261	.326	.586	10	6	-0.055	0.75	0.000	-0.055	0%	0.00	-0.5	9	0	
+Leody Taveras CF	3	0	1	0	0	1	3	.229	.287	.354	.641	13	9	-0.002	0.58	0.021	-0.023	0%	0.00	-0.1	2	0	
+Ezequiel Duran DH	3	0	0	0	0	2	3	.245	.288	.324	.612	12	10	-0.081	1.07	0.000	-0.081	0%	0.00	-0.8	0	0	
+																							
+Cody Bradford P																					0	1	
+   David Robertson P																					0	0	
+   Kirby Yates P																					0	0	
+Team Totals	29	2	5	2	1	10	31	.172	.226	.310	.536	129	85	-0.060	0.94	0.465	-0.525	0.00%	0.00	-1.8	27	8	
+2B: Marcus Semien (26, off Bowden Francis).
+HR: Adolis García (23, off Bowden Francis, 6th inn, 1 on, 0 outs to Deep LF Line).
+HBP: Wyatt Langford (4, by Bowden Francis).
+TB: Adolis García 4; Marcus Semien 2; Wyatt Langford; Leody Taveras; Josh Smith.
+RBI: Adolis García 2 (80).
+Team LOB: 5.
+With RISP: 0 for 6.
+Toronto Blue Jays 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Bowden Francis, L (8-5)	6	5	2	2	1	6	1	3.47	25	100	65	38	9	18	3	14	7	0	59			0.024	1.10	0.00%	0.00	0.9
+Ryan Yarbrough	2	0	0	0	0	4	0	3.36	6	29	20	9	4	7	1	1	0	0		0	0	0.035	0.23	0.00%	0.00	1.0
+Team Totals	8	5	2	2	1	10	1	2.25	31	129	85	47	13	25	4	15	7	0	59	0	0	0.059	0.94	0.00%	0.00	1.8
+
+Texas Rangers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Cody Bradford, W (6-3)	7	5	0	0	0	6	0	3.59	26	90	61	38	7	16	11	9	5	0	73			0.417	1.17	0.00%	0.00	3.4
+David Robertson, H (33)	1	0	0	0	0	1	0	3.22	3	11	8	4	2	2	0	2	0	0		0	0	0.072	0.95	0.00%	0.00	0.5
+Kirby Yates, S (31)	1	0	0	0	0	2	0	1.23	3	15	11	4	2	5	0	1	0	0		0	0	0.071	0.93	0.00%	0.00	0.5
+Team Totals	9	5	0	0	0	9	0	0.00	32	116	80	46	11	23	11	12	5	0	73	0	0	0.560	1.13	0.00%	0.00	4.3
+
+Balks: None.
+WP: None.
+HBP: Bowden Francis (7; Wyatt Langford).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Jacob Metz, 1B - Mike Estabrook, 2B - Erich Bacchus, 3B - Laz Diaz, LF - (none), RF - (none).
+Time of Game: 2:10.
+Attendance: 34,625.
+Start Time Weather: 74° F, Wind 0mph, In Dome.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Blue Jays
+1	George Springer	RF
+2	Davis Schneider	LF
+3	Vladimir Guerrero Jr.	1B
+4	Alejandro Kirk	C
+5	Spencer Horwitz	DH
+6	Ernie Clement	SS
+7	Addison Barger	3B
+8	Leo Jimenez	2B
+9	Joey Loperfido	CF
+	Bowden Francis	P
+Rangers
+1	Marcus Semien	2B
+2	Josh Smith	SS
+3	Wyatt Langford	LF
+4	Adolis García	RF
+5	Nathaniel Lowe	1B
+6	Josh Jung	3B
+7	Jonah Heim	C
+8	Leody Taveras	CF
+9	Ezequiel Duran	DH
+	Cody Bradford	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Toronto Blue Jays vs. Texas Rangers, September 18 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+TEX
+50%
+TOR
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.39
+6	0.41
+7	0.46
+8	0.5
+9	0.48
+10	0.46
+11	0.45
+12	0.41
+13	0.45
+14	0.48
+15	0.46
+16	0.5
+17	0.47
+18	0.46
+19	0.45
+20	0.47
+21	0.44
+22	0.4
+23	0.45
+24	0.5
+25	0.47
+26	0.45
+27	0.44
+28	0.47
+29	0.49
+30	0.5
+31	0.55
+32	0.69
+33	0.62
+34	0.51
+35	0.43
+36	0.46
+37	0.49
+38	0.5
+39	0.47
+40	0.5
+41	0.48
+42	0.43
+43	0.38
+44	0.15
+45	0.16
+46	0.17
+47	0.18
+48	0.14
+49	0.12
+50	0.14
+51	0.17
+52	0.11
+53	0.12
+54	0.12
+55	0.13
+56	0.09
+57	0.07
+58	0.06
+59	0.06
+60	0.07
+61	0.07
+62	0.03
+63	0.01
+64	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b6	0-0	0	1--	1,(0-0) 	RR	TEX	Adolis García	Bowden Francis	23%	85%	Home Run (Fly Ball to Deep LF Line); W. Langford Scores
+t5	0-0	0	1--	8,(3-2) 		TOR	Spencer Horwitz	Cody Bradford	-14%	31%	Double to LF (Line Drive to Deep LF-CF); A. Kirk to 3B
+t5	0-0	1	-23	6,(3-2) 	O	TOR	Addison Barger	Cody Bradford	10%	49%	Strikeout Swinging
+t5	0-0	2	-23	2,(1-0) 	O	TOR	Leo Jimenez	Cody Bradford	8%	57%	Flyball: RF (Deep RF)
+t5	0-0	0	-23	3,(1-1) 	O	TOR	Ernie Clement	Cody Bradford	7%	38%	Lineout: RF
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Blue Jays Batting, Tied 0-0, Rangers' Cody Bradford facing 1-2-3
+t1	0-0	0	---	4,(1-2) 	O	TOR	George Springer	Cody Bradford	2%	52%	Strikeout Swinging
+t1	0-0	1	---	3,(0-2) 	O	TOR	Davis Schneider	Cody Bradford	2%	54%	Strikeout Swinging
+t1	0-0	2	---	2,(0-1) 	O	TOR	Vladimir Guerrero Jr.	Cody Bradford	1%	55%	Flyball: RF (RF Line)
+									0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 0.
+Bottom of the 1st, Rangers Batting, Tied 0-0, Blue Jays' Bowden Francis facing 1-2-3
+b1	0-0	0	---	4,(2-1) 		TEX	Marcus Semien	Bowden Francis	6%	61%	Double to CF (Line Drive to Deep LF-CF)
+b1	0-0	0	-2-	3,(1-1) 	O	TEX	Josh Smith	Bowden Francis	-1%	59%	Flyball: CF (Deep CF-RF); M. Semien to 3B
+b1	0-0	1	--3	5,(2-2) 	O	TEX	Wyatt Langford	Bowden Francis	-6%	54%	Strikeout Swinging
+b1	0-0	2	--3	6,(3-2) 	O	TEX	Adolis García	Bowden Francis	-4%	50%	Strikeout Looking
+									0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Rangers 0.
+Top of the 2nd, Blue Jays Batting, Tied 0-0, Rangers' Cody Bradford facing 4-5-6
+t2	0-0	0	---	1,(0-0) 	O	TOR	Alejandro Kirk	Cody Bradford	2%	52%	Lineout: RF
+t2	0-0	1	---	3,(0-2) 	O	TOR	Spencer Horwitz	Cody Bradford	2%	54%	Groundout: SS-1B (Deep SS-2B)
+t2	0-0	2	---	4,(1-2) 	O	TOR	Ernie Clement	Cody Bradford	1%	55%	Groundout: 3B-1B (Weak 3B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 0.
+Bottom of the 2nd, Rangers Batting, Tied 0-0, Blue Jays' Bowden Francis facing 5-6-7
+b2	0-0	0	---	6,(3-2) 		TEX	Nathaniel Lowe	Bowden Francis	4%	59%	Walk
+b2	0-0	0	1--	3,(1-1) 	O	TEX	Josh Jung	Bowden Francis	-3%	55%	Flyball: RF (RF Line)
+b2	0-0	1	1--	4,(3-1) 	O	TEX	Jonah Heim	Bowden Francis	-3%	52%	Lineout: 2B (2B-1B)
+b2	0-0	2	1--	2,(1-0) 		TEX	Leody Taveras	Bowden Francis	2%	54%	Single to 3B (Ground Ball to Weak SS); N. Lowe to 2B
+b2	0-0	2	12-	3,(0-2) 	O	TEX	Ezequiel Duran	Bowden Francis	-4%	50%	Strikeout Looking
+									0 runs, 1 hit, 0 errors, 2 LOB. Blue Jays 0, Rangers 0.
+Top of the 3rd, Blue Jays Batting, Tied 0-0, Rangers' Cody Bradford facing 7-8-9
+t3	0-0	0	---	1,(0-0) 	O	TOR	Addison Barger	Cody Bradford	3%	53%	Flyball: RF (Deep CF-RF)
+t3	0-0	1	---	4,(1-2) 	O	TOR	Leo Jimenez	Cody Bradford	2%	54%	Strikeout Swinging
+t3	0-0	2	---	3,(0-2) 	O	TOR	Joey Loperfido	Cody Bradford	1%	55%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 0.
+Bottom of the 3rd, Rangers Batting, Tied 0-0, Blue Jays' Bowden Francis facing 1-2-3
+b3	0-0	0	---	2,(0-1) 	O	TEX	Marcus Semien	Bowden Francis	-2%	53%	Groundout: 3B-1B
+b3	0-0	1	---	3,(1-1) 		TEX	Josh Smith	Bowden Francis	3%	56%	Single to RF (Line Drive to CF-RF)
+b3	0-0	1	1--	3,(1-1) 		TEX	Wyatt Langford	Bowden Francis	4%	60%	Hit By Pitch; J. Smith to 2B
+b3	0-0	1	12-	5,(2-2) 	O	TEX	Adolis García	Bowden Francis	-5%	55%	Lineout: RF
+b3	0-0	2	12-	7,(2-2) 	O	TEX	Nathaniel Lowe	Bowden Francis	-5%	50%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 2 LOB. Blue Jays 0, Rangers 0.
+Top of the 4th, Blue Jays Batting, Tied 0-0, Rangers' Cody Bradford facing 1-2-3
+t4	0-0	0	---	2,(0-1) 	O	TOR	George Springer	Cody Bradford	3%	53%	Groundout: P-1B (Short 1B Line)
+t4	0-0	1	---	3,(1-1) 	O	TOR	Davis Schneider	Cody Bradford	2%	55%	Groundout: 3B-1B (SS-3B Hole)
+t4	0-0	2	---	5,(2-2) 	O	TOR	Vladimir Guerrero Jr.	Cody Bradford	1%	56%	Groundout: 3B-1B
+									0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 0.
+Bottom of the 4th, Rangers Batting, Tied 0-0, Blue Jays' Bowden Francis facing 6-7-8
+b4	0-0	0	---	4,(0-2) 	O	TEX	Josh Jung	Bowden Francis	-3%	53%	Strikeout Swinging
+b4	0-0	1	---	5,(2-2) 	O	TEX	Jonah Heim	Bowden Francis	-2%	51%	Flyball: LF (Short LF)
+b4	0-0	2	---	4,(1-2) 	O	TEX	Leody Taveras	Bowden Francis	-1%	50%	Flyball: SS (Short CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 0.
+Top of the 5th, Blue Jays Batting, Tied 0-0, Rangers' Cody Bradford facing 4-5-6
+t5	0-0	0	---	6,(3-2) 		TOR	Alejandro Kirk	Cody Bradford	-5%	45%	Single to P (Ground Ball)
+t5	0-0	0	1--	8,(3-2) 		TOR	Spencer Horwitz	Cody Bradford	-14%	31%	Double to LF (Line Drive to Deep LF-CF); A. Kirk to 3B
+t5	0-0	0	-23	3,(1-1) 	O	TOR	Ernie Clement	Cody Bradford	7%	38%	Lineout: RF
+t5	0-0	1	-23	6,(3-2) 	O	TOR	Addison Barger	Cody Bradford	10%	49%	Strikeout Swinging
+t5	0-0	2	-23	2,(1-0) 	O	TOR	Leo Jimenez	Cody Bradford	8%	57%	Flyball: RF (Deep RF)
+									0 runs, 2 hits, 0 errors, 2 LOB. Blue Jays 0, Rangers 0.
+Bottom of the 5th, Rangers Batting, Tied 0-0, Blue Jays' Bowden Francis facing 9-1-2
+b5	0-0	0	---	3,(0-2) 	O	TEX	Ezequiel Duran	Bowden Francis	-3%	54%	Flyball: 2B (Deep 2B)
+b5	0-0	1	---	3,(0-2) 	O	TEX	Marcus Semien	Bowden Francis	-2%	51%	Groundout: SS-1B
+b5	0-0	2	---	7,(2-2) 	O	TEX	Josh Smith	Bowden Francis	-1%	50%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 0.
+Top of the 6th, Blue Jays Batting, Tied 0-0, Rangers' Cody Bradford facing 9-1-2
+t6	0-0	0	---	3,(1-1) 	O	TOR	Joey Loperfido	Cody Bradford	3%	53%	Groundout: 1B unassisted (Deep 1B)
+t6	0-0	1	---	5,(2-2) 		TOR	George Springer	Cody Bradford	-4%	50%	Single to LF (Line Drive to Deep LF Line)
+t6	0-0	1	1--	1,(0-0) 	O	TOR	Davis Schneider	Cody Bradford	3%	52%	Groundout: 3B-1B; G. Springer to 2B
+t6	0-0	2	-2-	3,(1-1) 	O	TOR	Vladimir Guerrero Jr.	Cody Bradford	5%	57%	Flyball: RF (Deep RF Line)
+									0 runs, 1 hit, 0 errors, 1 LOB. Blue Jays 0, Rangers 0.
+Bottom of the 6th, Rangers Batting, Tied 0-0, Blue Jays' Bowden Francis facing 3-4-5
+b6	0-0	0	---	4,(2-1) 		TEX	Wyatt Langford	Bowden Francis	5%	62%	Single to LF (Line Drive to LF Line)
+b6	0-0	0	1--	1,(0-0) 	RR	TEX	Adolis García	Bowden Francis	23%	85%	Home Run (Fly Ball to Deep LF Line); W. Langford Scores
+b6	2-0	0	---	5,(2-2) 	O	TEX	Nathaniel Lowe	Bowden Francis	-1%	84%	Lineout: RF (Deep RF)
+b6	2-0	1	---	7,(3-2) 	O	TEX	Josh Jung	Bowden Francis	-1%	83%	Lineout: LF (Deep LF)
+b6	2-0	2	---	1,(0-0) 	O	TEX	Jonah Heim	Bowden Francis	-1%	82%	Flyball: LF (Deep LF)
+									2 runs, 2 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 2.
+Top of the 7th, Blue Jays Batting, Behind 0-2, Rangers' Cody Bradford facing 4-5-6
+t7	0-2	0	---	6,(3-2) 	O	TOR	Alejandro Kirk	Cody Bradford	3%	86%	Strikeout Swinging
+t7	0-2	1	---	6,(3-2) 	O	TOR	Spencer Horwitz	Cody Bradford	2%	88%	Groundout: 2B-1B (2B-1B)
+t7	0-2	2	---	1,(0-0) 		TOR	Ernie Clement	Cody Bradford	-2%	86%	Single to CF (Line Drive to Deep LF-CF)
+t7	0-2	2	1--	1,(0-0) 		TOR	Addison Barger	Cody Bradford	-3%	83%	Single to LF (Ground Ball); E. Clement to 2B
+t7	0-2	2	12-	4,(2-1) 	O	TOR	Leo Jimenez	Cody Bradford	6%	89%	Groundout: SS-2B/Forceout at 2B; L. Jimenez to 1B
+									0 runs, 2 hits, 0 errors, 2 LOB. Blue Jays 0, Rangers 2.
+Bottom of the 7th, Rangers Batting, Ahead 2-0, Blue Jays' Ryan Yarbrough facing 8-9-1
+									
+Ryan Yarbrough replaces Bowden Francis pitching
+
+b7	2-0	0	---	7,(2-2) 	O	TEX	Leody Taveras	Ryan Yarbrough	-1%	88%	Strikeout Swinging
+b7	2-0	1	---	6,(2-2) 	O	TEX	Ezequiel Duran	Ryan Yarbrough	-1%	88%	Strikeout Looking
+b7	2-0	2	---	2,(1-0) 	O	TEX	Marcus Semien	Ryan Yarbrough	-1%	87%	Flyball: CF
+									0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 2.
+Top of the 8th, Blue Jays Batting, Behind 0-2, Rangers' David Robertson facing 9-1-2
+									
+David Robertson replaces Cody Bradford pitching
+
+t8	0-2	0	---	7,(3-2) 	O	TOR	Joey Loperfido	David Robertson	4%	91%	Strikeout Looking
+t8	0-2	1	---	3,(0-2) 	O	TOR	George Springer	David Robertson	2%	93%	Flyball: RF (RF Line)
+t8	0-2	2	---	1,(0-0) 	O	TOR	Davis Schneider	David Robertson	1%	94%	Flyball: CF (Deep CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 2.
+Bottom of the 8th, Rangers Batting, Ahead 2-0, Blue Jays' Ryan Yarbrough facing 2-3-4
+b8	2-0	0	---	4,(0-2) 	O	TEX	Josh Smith	Ryan Yarbrough	-1%	94%	Strikeout Swinging
+b8	2-0	1	---	5,(2-2) 	O	TEX	Wyatt Langford	Ryan Yarbrough	0%	93%	Strikeout Looking
+b8	2-0	2	---	5,(2-2) 	O	TEX	Adolis García	Ryan Yarbrough	0%	93%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 2.
+Top of the 9th, Blue Jays Batting, Behind 0-2, Rangers' Kirby Yates facing 3-4-5
+									
+Kirby Yates replaces David Robertson pitching
+
+t9	0-2	0	---	6,(2-2) 	O	TOR	Vladimir Guerrero Jr.	Kirby Yates	4%	97%	Strikeout Swinging
+t9	0-2	1	---	2,(0-1) 	O	TOR	Alejandro Kirk	Kirby Yates	2%	99%	Flyball: CF
+t9	0-2	2	---	7,(2-2) 	O	TOR	Spencer Horwitz	Kirby Yates	1%	100%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Blue Jays 0, Rangers 2.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Texas Rangers Schedule Toronto Blue Jays Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Toronto Blue Jays vs Texas Rangers Box Score: September 18, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/TEX/TEX202409180.shtml 
+ ----- 

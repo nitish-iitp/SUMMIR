@@ -1,0 +1,9 @@
+Too Many Requests
+
+client_ip: 35.245.252.222
+request_id: 362819868
+ 
+ 
+ ----- 
+ Source link : https://www.thestar.com/sports/soccer/canadian-men-hold-second-ranked-france-to-a-scoreless-draw-in-mens-soccer-friendly/article_7da11f5c-c75d-5deb-905e-cd3b3040050c.html 
+ ----- 

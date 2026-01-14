@@ -1,0 +1,817 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+Advanced Marksmanship Unit
+Ballistic Calculators & Field Results
+Aerodynamic Jump ?? Effect just at the muzzle or down range as well?
+ 
+Thread starter
+jrsandiego12  
+Start date
+Jun 8, 2024
+jrsandiego12
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 11, 2020
+480
+116
+San Diego, CA
+Jun 8, 2024
+#1
+Aerodynamic Jump
+I have heard it explained that AJ is most important at the muzzle because that is where the bullet jumps up or down as it encounters the cross wind turbulence. And then that jump is just added to the ballistic solution linearly. Ex - FV 9mph wind across the muzzle causes .1 jump -- and that .1 is then added or subtracted from the ballistic solution all the way to target whether its 300 or 1300 yds.
+
+Is that right?
+
+What if the bullet encounters no wind at the muzzle but half way down range it runs into a FV 9mph wind? Is there an AJ effect at that point?
+ 
+L
+LastShot300
+Sergeant
+Full Member
+Minuteman
+Feb 20, 2013
+919
+214
+Jun 8, 2024
+#2
+jrsandiego12 said:
+Aerodynamic Jump
+I have heard it explained that AJ is most important at the muzzle because that is where the bullet jumps up or down as it encounters the cross wind turbulence. And then that jump is just added to the ballistic solution linearly. Ex - FV 9mph wind across the muzzle causes .1 jump -- and that .1 is then added or subtracted from the ballistic solution all the way to target whether its 300 or 1300 yds.
+
+Is that right?
+
+What if the bullet encounters no wind at the muzzle but half way down range it runs into a FV 9mph wind? Is there an AJ effect at that point?
+Click to expand...
+In angular terms, the AJ is constant. Obviously not in linear terms. NO wind at the muzzle...no AJ. Again no, later on the bullet will not be affected by AJ. I'm assuming you are referring to wind-induced AJ and not by Lateral Throwoff.
+ 
+ 
+Reactions:
+Marine52
+jrsandiego12
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 11, 2020
+480
+116
+San Diego, CA
+Jun 9, 2024
+#3
+Appreciate the response -- I'm not arguing, but this is where I am confused. Why is it only at the muzzle?
+
+Applied Ballistics - Science of Accuracy - Brian Litz video explanation of secondary effects - when discussing aerodynamic jump these are the relevant statements - paraphrased as I remember them (just watched again):
+
+https://thescienceofaccuracy.com/podcast/14-accounting-for-secondary-effects-spin-drift-aerodynamic-jump-and-coriolis/
+
+1. "When a spinning bullet encounters wind the nose turns into the wind. This causes the bullet to enter a series of processions that end up with the nose lower on a left wind (down shift in elevation) and nose higher on a right wind (up lift in elevation) (assume he is talking about right hand twist barrel spin). "
+>>Point - this would be encountering any wind during the flight right?<<
+
+2. He says (and I get the impression he is just using a generalized example - not scientific measurements)
+"When the bullet leaves the barrel and encounters the wind this reaction and procession restabilization period happens in the first 20-30 yards" But it seems like this is just an example of when the bullet first encounters the wind? So wouldn't this also happen if it encounters wind -- or significantly more wind -- further down range?
+
+3. He says that the incremental jump effect is the same at various distances (linear - not angular/growing):
+"If the AJ jump has occurred and causes .5" jump at 100 yards, then at 1000 yards that .5" is still .5" (no additional deflection), whereas the wind deflection grows with distance (angular?).
+ 
+M
+Magnetite
+Private
+Minuteman
+Dec 19, 2022
+10
+5
+New Zealand
+Jun 9, 2024
+#4
+I can't remember which of the Science of Accuracy podcast it's in (maybe #35 Wind Deflection), they talk about down range AJ. Every time the bullet encounters a change in wind it will jump.
+
+Their example was shooting beside a treeline. No wind or jump at the muzzle, and when it enters the wind it at the end of the treeline it will jump. I think the conclusion was it was negligibly small at that point, or too difficult to estimate.
+ 
+Last edited: Jun 9, 2024
+L
+LastShot300
+Sergeant
+Full Member
+Minuteman
+Feb 20, 2013
+919
+214
+Jun 10, 2024
+#5
+jrsandiego12 said:
+Appreciate the response -- I'm not arguing, but this is where I am confused. Why is it only at the muzzle?
+
+Applied Ballistics - Science of Accuracy - Brian Litz video explanation of secondary effects - when discussing aerodynamic jump these are the relevant statements - paraphrased as I remember them (just watched again):
+
+https://thescienceofaccuracy.com/podcast/14-accounting-for-secondary-effects-spin-drift-aerodynamic-jump-and-coriolis/
+
+1. "When a spinning bullet encounters wind the nose turns into the wind. This causes the bullet to enter a series of processions that end up with the nose lower on a left wind (down shift in elevation) and nose higher on a right wind (up lift in elevation) (assume he is talking about right hand twist barrel spin). "
+>>Point - this would be encountering any wind during the flight right?<<
+
+2. He says (and I get the impression he is just using a generalized example - not scientific measurements)
+"When the bullet leaves the barrel and encounters the wind this reaction and procession restabilization period happens in the first 20-30 yards" But it seems like this is just an example of when the bullet first encounters the wind? So wouldn't this also happen if it encounters wind -- or significantly more wind -- further down range?
+
+3. He says that the incremental jump effect is the same at various distances (linear - not angular/growing):
+"If the AJ jump has occurred and causes .5" jump at 100 yards, then at 1000 yards that .5" is still .5" (no additional deflection), whereas the wind deflection grows with distance (angular?).
+Click to expand...
+I guess it's critical to realize that not all perturbartions, even looking alike, are caused by the same base effect/reason, and some are transients and some are not.
+
+In a simplified way, Wind drift is a consequence of DRAG force, while AJ is caused by LIFT force. This Lift-effect moves the CG of the bullet away from its intended trajectory during the first half of its first coning cycle in flight.
+
+This is a transient force which is integrated over the time of the first half-period of the bullet’s coning motion to produce a cross-track impulse which shifts the direction of that bullet’s linear momentum vector.
+
+This lift-force directionally cancels during all subsequent coning motion. The size of this aerodynamic Lift-force is directly proportional to the size of the initial yaw angle causing it. Neither Aerodynamic Jump nor CG Jump grow angularly with distance. There is no down range force that causes those effects. Bob McCoy at BRL successfully formulated an analytical explanation for the vertical component of this AJ effect.
+ 
+jrsandiego12
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 11, 2020
+480
+116
+San Diego, CA
+Jun 10, 2024
+#6
+Magnetite said:
+I can't remember which of the Science of Accuracy podcast it's in (maybe #35 Wind Deflection), they talk about down range AJ. Every time the bullet encounters a change in wind it will jump.
+
+Their example was shooting beside a treeline. No wind or jump at the muzzle, and when it enters the wind it at the end of the treeline it will jump. I think the conclusion was it was negligibly small at that point, or too difficult to estimate.
+Click to expand...
+- yes - I remember this podcast now and that example.
+
+So LastShot300 - would you say that example is not correct / accurate? Or are you saying the peturbations at the down range encounter with wind may cause a bullet peturbation - but not AJ?
+ 
+L
+LastShot300
+Sergeant
+Full Member
+Minuteman
+Feb 20, 2013
+919
+214
+Jun 10, 2024
+#7
+jrsandiego12 said:
+- yes - I remember this podcast now and that example.
+
+So LastShot300 - would you say that example is not correct / accurate? Or are you saying the peturbations at the down range encounter with wind may cause a bullet peturbation - but not AJ?
+To avoid a bloody mess with a long rant, I say, NO, any vertical downrange perturbation cannot be the result of wind-induced AJ, despite the fact the Lift force is always present. Now regarding downrang AJ...steady coning motion causes little or no further net angular deflection of the trajectory during the remainder of the bullet’s flight, because this particular wind-induced AJ effect happens only once and occurs right in front of the muzzle, this calculated aiming correction is independent of TOF and range to the target beyond the first 10 yards or so. For instance, a range wind (head/tail) will modify Drag causing a vertical perturbation, but no AJ because it's normal component becomes nil.
+ 
+Last edited: Jun 10, 2024
+ 
+Reactions:
+Ledzep and Rocketvapor
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,362
+Texas
+www.appliedballisticsllc.com
+Jun 10, 2024
+#8
+Magnetite said:
+I can't remember which of the Science of Accuracy podcast it's in (maybe #35 Wind Deflection), they talk about down range AJ. Every time the bullet encounters a change in wind it will jump.
+
+Their example was shooting beside a treeline. No wind or jump at the muzzle, and when it enters the wind it at the end of the treeline it will jump. I think the conclusion was it was negligibly small at that point, or too difficult to estimate.
+Click to expand...
+This is the correct answer. If you were to say shoot from one end of a Lowe's Home Improvement to the other end, in zero wind. Then the bullet exits out a loading bay door and encounters a 9mph wind. At that point it will also induce Aerodynamic Jump.
+ 
+ 
+Reactions:
+LastShot300
+L
+LastShot300
+Sergeant
+Full Member
+Minuteman
+Feb 20, 2013
+919
+214
+Jun 10, 2024
+#9
+DocUSMCRetired said:
+This is the correct answer. If you were to say shoot from one end of a Lowe's Home Improvement to the other end, in zero wind. Then the bullet exits out a loading bay door and encounters a 9mph wind. At that point it will also induce Aerodynamic Jump.
+You need to take a step back and check the equations (the real ones...not simplifications) of both vertical perturbations...and you will come to terms and understand why this is a WRONG answer in regards to wind-induced AJ, which is a transient effect. I would have preferred not to say anything about but saying this is the correct answer is just too much to let it pass on,
+ 
+Last edited: Jun 10, 2024
+jrsandiego12
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 11, 2020
+480
+116
+San Diego, CA
+Jun 10, 2024
+#10
+Doc? Are you with AB? I sent this same question into AB science of accuracy.
+ 
+jrsandiego12
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 11, 2020
+480
+116
+San Diego, CA
+Jun 10, 2024
+#11
+It seems like LastShot is saying that since the bullet leaving the muzzle is going thru a period of "gyrations" as it stabilizes in the air, it experiences AJ due to wind influences added at the period. BUT once the bullet is fully stabilized, down range when it encounters new wind it may adjust how it points due to the new force, but doesnt incur AJ (plus or minus vertical trajectory change).
+
+Is this a fair summary Last Shot?
+ 
+ 
+Reactions:
+Marine52
+L
+LastShot300
+Sergeant
+Full Member
+Minuteman
+Feb 20, 2013
+919
+214
+Jun 10, 2024
+#12
+jrsandiego12 said:
+It seems like LastShot is saying that since the bullet leaving the muzzle is going thru a period of "gyrations" as it stabilizes in the air, it experiences AJ due to wind influences added at the period. BUT once the bullet is fully stabilized, down range when it encounters new wind it may adjust how it points due to the new force, but doesnt incur AJ (plus or minus vertical trajectory change).
+
+Is this a fair summary Last Shot?
+Click to expand...
+ 
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,362
+Texas
+www.appliedballisticsllc.com
+Jun 11, 2024
+#13
+jrsandiego12 said:
+It seems like LastShot is saying that since the bullet leaving the muzzle is going thru a period of "gyrations" as it stabilizes in the air, it experiences AJ due to wind influences added at the period. BUT once the bullet is fully stabilized, down range when it encounters new wind it may adjust how it points due to the new force, but doesnt incur AJ (plus or minus vertical trajectory change).
+
+Is this a fair summary Last Shot?
+Click to expand...
+This is incorrect. Vertical deflection from a horizontal crosswind can in fact occur after the stabilization of the initial precession cycles. Anytime the nose of the bullet is deflected off its axis, it generates drag in the opposite direction the nose deflects. "When the axis of a spinning object is disturbed, it reacts by gyrating before converging on a new equilibrium. Since the axis of the bullet is gyrating 360 degrees, the bullet temporarily steers itself in a helix flight path. If all the steering balanced out to zero, the bullet would end up on its original path, except for the horizontal wind deflection. However, the net effect of the bullet's gyration as it finds equilibrium results in the trajectory being deflected in the vertical direction by a deterministic amount."
+
+The pitching a yawing of the bullet dampens during its flight, but it is never zero. We can calculate the amount of deflection in 6 DOF simulators, but it does require other factors not generally or easily measurable outside a laboratory.
+
+This isn't something that just ends 10 yards in front of the muzzle, its true for the entire flight.
+ 
+ 
+Reactions:
+Haney, flogxal and brianf
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,976
+13,428
+Orlando, FL
+Jun 11, 2024
+#14
+jrsandiego12 said:
+Doc? Are you with AB? I sent this same question into AB science of accuracy.
+Yes
+ 
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,292
+4,355
+Texas
+Jun 11, 2024
+#15
+jrsandiego12 said:
+Aerodynamic Jump
+I have heard it explained that AJ is most important at the muzzle because that is where the bullet jumps up or down as it encounters the cross wind turbulence. And then that jump is just added to the ballistic solution linearly. Ex - FV 9mph wind across the muzzle causes .1 jump -- and that .1 is then added or subtracted from the ballistic solution all the way to target whether its 300 or 1300 yds.
+
+Is that right?
+
+What if the bullet encounters no wind at the muzzle but half way down range it runs into a FV 9mph wind? Is there an AJ effect at that point?
+Click to expand...
+
+The layman way I think about it (and this could be wrong) is:
+
+A bullet in flight is always going to have pitching and yawing. However, these motions dampen during flight.
+
+Earlier in flight when pitching and yawing is higher than later in flight. When a bullet encounters a crosswind during this stage, the vertical component is more than later in flight with less pitching and yawing.
+
+Further in flight, the pitching and yawing dampens. When a bullet encounters crosswind at this point in flight, the vertical component is less.
+
+
+The vertical effect is already relatively small at closer ranges (more pitching and yawing), so the effect of downrange vertical is of an amount so small it gets lost in the noise of other effects.
+
+
+
+
+As far as the warehouse example. Lets say you have two scenarios:
+
+You have the shooters position, then 200yds of open area, then a warehouse 200yds, then another open area of 200yds. There is a 10mph full value crosswind on both sides of the warehouse.
+
+Then you have the shooters position which is just inside the warehouse with zero wind, then an open area of 400yds with a 10mph full value crosswind.
+
+
+In the first example, the bullet is going to have X amount of AJ that happened in the first 200yds. Then it will see another AJ effect once it leaves the warehouse. The first X amount of AJ is going to be enough to factor into the firing solutions. The second instance of AJ will not be enough to factor, even though it is still present. The only amount of vertical that will need to be dialed in or out is the first AJ.
+
+In the second example, there is zero AJ value to begin with. Then there is an AJ effect when the bullet exits the warehouse. This amount will be too small to worry with accounting for and therefore no addition vertical needs to be dialed in or out.
+
+
+
+I'm sure me just making up random yardage distances is wrong at some level if you do the math. But for example's sake, this is how I visualize it.
+ 
+ 
+Reactions:
+jrsandiego12
+H
+hero's machine
+Sergeant
+Full Member
+Minuteman
+Aug 2, 2011
+789
+364
+49
+E. WA
+Jun 11, 2024
+#16
+Does the AJ in AB account for rpm decay? I've had guys say to turn it off and slow the twist input to make 2 mile predictions.
+ 
+L
+LastShot300
+Sergeant
+Full Member
+Minuteman
+Feb 20, 2013
+919
+214
+Jun 12, 2024
+#17
+DocUSMCRetired said:
+This is incorrect. Vertical deflection from a horizontal crosswind can in fact occur after the stabilization of the initial precession cycles. Anytime the nose of the bullet is deflected off its axis, it generates drag in the opposite direction the nose deflects. "When the axis of a spinning object is disturbed, it reacts by gyrating before converging on a new equilibrium. Since the axis of the bullet is gyrating 360 degrees, the bullet temporarily steers itself in a helix flight path. If all the steering balanced out to zero, the bullet would end up on its original path, except for the horizontal wind deflection. However, the net effect of the bullet's gyration as it finds equilibrium results in the trajectory being deflected in the vertical direction by a deterministic amount."
+
+The pitching a yawing of the bullet dampens during its flight, but it is never zero. We can calculate the amount of deflection in 6 DOF simulators, but it does require other factors not generally or easily measurable outside a laboratory.
+
+This isn't something that just ends 10 yards in front of the muzzle, its true for the entire flight.
+Click to expand...
+AJ is neither a perturbation happening in a definite point or a perturbation ocurring over an extended space-domain, being actually a Regional transformation. This can be proved in terms of Yaw and Lift, and mathematically by the EOMs, meaning AJ is the outcome of the change in transverse CG velocity, (Lift force), acting once the bullet enters the Free Flight zone until it reaches its first local maxima in Yaw (or swerve). Bottom line, it can only take place near the muzzle and not further downrange. Wind is not the only reason for a JUMP, it's just another cause causing it. Why do you think AJ is an angular constant ?
+ 
+O
+OREGUN
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+Apr 29, 2014
+2,301
+3,883
+Out West
+Jun 12, 2024
+#18
+Just out of curiosity, if I’m shooting out of a tube that blocks the wind at the muzzle, and for 10” ahead of it, can I turn AJ off for a better ballistic solution?
+ 
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,362
+Texas
+www.appliedballisticsllc.com
+Jun 15, 2024
+#19
+I am going to put this here for anyone that does not want to go down the rabbit hole, and to keep things simple. I had an internal discussion and looked at some of our data and findings in the past to make sure I kept things on the right track.
+
+1) AJ does happen anywhere in the flight path.
+2) AJ down range may be inconsequential to the noise due to the deflection being small and the remaining time of flight being small.
+3) When AJ occurs also the near (but not absolute) reverse of what happened will also occur if the wind ceases to exist. Example, you have 0.2 up and 0.05 right AJ from a crosswind at the muzzle due to a wind speed of 8mph for your shot. When that Speed hits 0 you will now have an AJ of -0.2 and +0.05. AJ goes from Up and Left (Right to Left Wind) to Down and Right (Left to Right Wind)
+
+For general purposes the better way to visual this the term Vertical Deflection from a Horizontal Crosswind should be visualized. A 9'oclock wind will create a negative (downward), and a 3 o'clock wind will create a positive (up) deflection. If the wind stops, then the bullet will experience the opposite of each.
+
+
+
+
+
+Rio Precision Gunworks said:
+In the first example, the bullet is going to have X amount of AJ that happened in the first 200yds. Then it will see another AJ effect once it leaves the warehouse. The first X amount of AJ is going to be enough to factor into the firing solutions. The second instance of AJ will not be enough to factor, even though it is still present. The only amount of vertical that will need to be dialed in or out is the first AJ.
+
+In the second example, there is zero AJ value to begin with. Then there is an AJ effect when the bullet exits the warehouse. This amount will be too small to worry with accounting for and therefore no addition vertical needs to be dialed in or out.
+Click to expand...
+We actually had this discussion and we looked at some more data. Yes, to a point this is correct. However something else to note. But it is also not entirely deterministic on the amount of pitching and yawing at the time. I will explain more later in this post.
+
+
+OREGUN said:
+Just out of curiosity, if I’m shooting out of a tube that blocks the wind at the muzzle, and for 10” ahead of it, can I turn AJ off for a better ballistic solution?
+No, because it isn't that simple. I would suggest leaving it on, especially if the tube is only 10 inches long.
+
+
+
+hero's machine said:
+Does the AJ in AB account for rpm decay? I've had guys say to turn it off and slow the twist input to make 2 mile predictions.
+No, because we calculate AJ as if it happens at the muzzle currently. So the down range changes are not necessary.
+
+
+
+
+So to continue on some things. I had a chat with Bryan as well as looked over some other data we have and their are some things to also note. I am not sure if this is a good idea, because of how the you learn it, you teach it, they retain 10% of the original knowledge. Basically when this gets gun counter passed on could just be a hot mess, but here we go to confuse things even more.
+
+Aerodynamic Jump happens anytime a bullet encounters a different crosswind. Most notably at the muzzle. However. If a bullet flew 700 yards with a 10 mph crosswind, then at 700 yards that crosswind stopped the bullet would experience the near (key word in near) exact reverse of the AJ at the muzzle. Important note here, that the bullet will not reverse the course it already experienced, just that the a majority of the AJ effect will reverse at that point. In a response to the change. AJ happens at an equal magnitude down range as it does at the muzzle. But... the flight path has shortened at this point so to the user it could very likely be lost in the noise.
+
+So down range AJ is mostly inconsequential. We do have modeling and system that can correct for this at all times with varying winds... however your cell phone doesn't (not yet) have the power to perform these in a reasonable amount of time. Also 6DOF requires a lot of variables that cannot be measured outside some pretty expensive lab equipment to be precise.
+
+
+
+LastShot300 said:
+AJ is neither a perturbation happening in a definite point or a perturbation ocurring over an extended space-domain, being actually a Regional transformation. This can be proved in terms of Yaw and Lift, and mathematically by the EOMs, meaning AJ is the outcome of the change in transverse CG velocity, (Lift force), acting once the bullet enters the Free Flight zone until it reaches its first local maxima in Yaw (or swerve). Bottom line, it can only take place near the muzzle and not further downrange. Wind is not the only reason for a JUMP, it's just another cause causing it. Why do you think AJ is an angular constant ?
+Click to expand...
+Unfortunately this is not the cause. AJ can be thought of as a change of course. It happens in a moment, but changes the over all flight path of the bullet. Once the crosswind changes, or stops it actually happens again. If the crosswind were to go dead. Example. You shoot 800 yards. Their is a 10mph crosswind at the muzzle. You then shoot into a windless void (a 200 yard building designed to negate all wind) which happens at 500 yards. You will get an effect that is opposite which you had at the muzzle. Then when it exits that 200 yard wind block if it encounters another crosswind it will then have a 3rd effect on the bullet. Each one changing the bullets path slightly. However that jump of 0.1 at now 700 yards on its way to the 800 yard target will likely be inconsequential in the noise of everything else. That jump that happened at the muzzle and didn't change until the 500 yard mark will have the most effect (albeit very likely only one or two scope clicks).
+
+AJ is an angular constant because that deflection is mostly permanent in the aspect that the average wind for most shooters will remain the same where the wind matters. That 0.30 deflection will mostly be seen at the target location. Unless you were to do something like shoot 1000 yards, and only the first 100 yards were open to the environment and the last 900 yards were somehow completely isolated from all wind effects entirely. Then at 100 yards the AJ would reverse and you wouldn't have anything that other 900 yards which is a strange situation but not probable for most people.
+ 
+Last edited: Jun 15, 2024
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,976
+13,428
+Orlando, FL
+Jun 15, 2024
+#20
+DocUSMCRetired said:
+I am going to put this here for anyone that does not want to go down the rabbit hole, and to keep things simple. I had an internal discussion and looked at some of our data and findings in the past to make sure I kept things on the right track.
+
+1) AJ does happen anywhere in the flight path.
+2) AJ down range may be inconsequential to the noise due to the deflection being small and the remaining time of flight being small.
+3) When AJ occurs also the near (but not absolute) reverse of what happened will also occur if the wind ceases to exist. Example, you have 0.2 up and 0.05 right AJ from a crosswind at the muzzle due to a wind speed of 8mph for your shot. When that Speed hits 0 you will now have an AJ of -0.2 and +0.05. AJ goes from Up and Left (Right to Left Wind) to Down and Right (Left to Right Wind)
+
+For general purposes the better way to visual this the term Vertical Deflection from a Horizontal Crosswind should be visualized. A 9'oclock wind will create a negative (downward), and a 3 o'clock wind will create a positive (up) deflection. If the wind stops, then the bullet will experience the opposite of each.
+
+
+
+
+
+We actually had this discussion and we looked at some more data. Yes, to a point this is correct. However something else to note. But it is also not entirely deterministic on the amount of pitching and yawing at the time. I will explain more later in this post.
+
+
+No, because it isn't that simple. I would suggest leaving it on, especially if the tube is only 10 inches long.
+
+
+
+No, because we calculate AJ as if it happens at the muzzle currently. So the down range changes are not necessary.
+
+
+
+
+So to continue on some things. I had a chat with Bryan as well as looked over some other data we have and their are some things to also note. I am not sure if this is a good idea, because of how the you learn it, you teach it, they retain 10% of the original knowledge. Basically when this gets gun counter passed on could just be a hot mess, but here we go to confuse things even more.
+
+Aerodynamic Jump happens anytime a bullet encounters a different crosswind. Most notably at the muzzle. However. If a bullet flew 700 yards with a 10 mph crosswind, then at 700 yards that crosswind stopped the bullet would experience the near (key word in near) exact reverse of the AJ at the muzzle. Important note here, that the bullet will not reverse the course it already experienced, just that the a majority of the AJ effect will reverse at that point. In a response to the change. AJ happens at an equal magnitude down range as it does at the muzzle. But... the flight path has shortened at this point so to the user it could very likely be lost in the noise.
+
+So down range AJ is mostly inconsequential. We do have modeling and system that can correct for this at all times with varying winds... however your cell phone doesn't (not yet) have the power to perform these in a reasonable amount of time. Also 6DOF requires a lot of variables that cannot be measured outside some pretty expensive lab equipment to be precise.
+
+
+
+
+Unfortunately this is not the cause. AJ can be thought of as a change of course. It happens in a moment, but changes the over all flight path of the bullet. Once the crosswind changes, or stops it actually happens again. If the crosswind were to go dead. Example. You shoot 800 yards. Their is a 10mph crosswind at the muzzle. You then shoot into a windless void (a 200 yard building designed to negate all wind) which happens at 500 yards. You will get an effect that is opposite which you had at the muzzle. Then when it exits that 200 yard wind block if it encounters another crosswind it will then have a 3rd effect on the bullet. Each one changing the bullets path slightly. However that jump of 0.1 at now 700 yards on its way to the 800 yard target will likely be inconsequential in the noise of everything else. That jump that happened at the muzzle and didn't change until the 500 yard mark will have the most effect (albeit very likely only one or two scope clicks).
+
+AJ is an angular constant because that deflection is mostly permanent in the aspect that the average wind for most shooters will remain the same where the wind matters. That 0.30 deflection will mostly be seen at the target location. Unless you were to do something like shoot 1000 yards, and only the first 100 yards were open to the environment and the last 900 yards were somehow completely isolated from all wind effects entirely. Then at 100 yards the AJ would reverse and you wouldn't have anything that other 900 yards which is a strange situation but not probable for most people.
+Click to expand...
+So why doesn’t ABMobile or AB analytics use wind zones then to help compensate for changes in AJ?
+ 
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,362
+Texas
+www.appliedballisticsllc.com
+Jun 15, 2024
+#21
+_Windrider_ said:
+So why doesn’t ABMobile or AB analytics use wind zones then to help compensate for changes in AJ?
+It does.
+ 
+O
+OREGUN
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+Apr 29, 2014
+2,301
+3,883
+Out West
+Jun 15, 2024
+#22
+Thanks @DocUSMCRetired.
+ 
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,976
+13,428
+Orlando, FL
+Jun 15, 2024
+#23
+DocUSMCRetired said:
+It does.
+Where? All I see is one wind.
+
+
+Now I know the kestrel has wind 1 and wind 2 but if I recall we don’t control the ranges those winds effect.
+ 
+jrsandiego12
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 11, 2020
+480
+116
+San Diego, CA
+Jun 15, 2024
+#24
+AWESOME Detailed discussion - love it.
+
+docUSMC Retired --
+>When you say the effect can be reversed IF wind were to drop to zero -- are the effects down range of approximate equal magnitude as at the muzzle, or are they lessened?
+>Given the above, I am understanding that if the wind were to switch direction down range, the the effect would not only be reversed/negated back to zero, but the bullet flight might actually adjust elevation in the opposite direction?
+
+Where I shoot, there is sometimes a prevailing wind going across the top of hills - so on higher targets the prevailing wind might be from the right -- but on lower targets there is a valley wind actually in the opposite direction. So you shoot from a position where you might have a left to right 4 mph wind on the valley floor, but by the time the bullet is halfway to the target it starts experiencing a right to left.
+
+This would explain why on those high targets you can get surprising vertical solution results sometimes.
+ 
+jrsandiego12
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 11, 2020
+480
+116
+San Diego, CA
+Jun 15, 2024
+#25
+_Windrider_ said:
+Where? All I see is one wind.
+
+View attachment 8439544
+Now I know the kestrel has wind 1 and wind 2 but if I recall we don’t control the ranges those winds effect.
+I think the multiple wind phases is only on their full computer version - I used to use that and kinda recall seeing that there - not in the Kestrel or mobile app.
+ 
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,976
+13,428
+Orlando, FL
+Jun 15, 2024
+#26
+jrsandiego12 said:
+I think the multiple wind phases is only on their full computer version - I used to use that and kinda recall seeing that there - not in the Kestrel or mobile app.
+I have analytics as well, and I don’t recall it being there, but I could be wrong
+ 
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,362
+Texas
+www.appliedballisticsllc.com
+Jun 17, 2024
+#27
+This is not in the mobile app, and I cannot comment on Analytics because their are multiple variations out depending on who/what is being unlocked.
+ 
+Ronws
+first class brisket smoker
+Full Member
+Minuteman
+ 
+Oct 18, 2021
+7,134
+9,554
+Texas
+Jun 17, 2024
+#28
+DocUSMCRetired said:
+This is the correct answer. If you were to say shoot from one end of a Lowe's Home Improvement to the other end, in zero wind. Then the bullet exits out a loading bay door and encounters a 9mph wind. At that point it will also induce Aerodynamic Jump.
+Excellent.
+
+Note to self: don't shop at Lowe's.
+
+ 
+ 
+Reactions:
+DocUSMCRetired
+_Windrider_
+Shiner of shoes
+Full Member
+Minuteman
+Legend
+ 
+ 
+Jun 26, 2012
+9,976
+13,428
+Orlando, FL
+Jun 17, 2024
+#29
+DocUSMCRetired said:
+This is the correct answer. If you were to say shoot from one end of a Lowe's Home Improvement to the other end, in zero wind. Then the bullet exits out a loading bay door and encounters a 9mph wind. At that point it will also induce Aerodynamic Jump.
+So my next thought is this….ll
+
+Is the AJ amount the same at the barrel,and down range? Does the lower velocity and decreased spin change the effect?
+ 
+C
+Conaso
+Private
+Full Member
+Minuteman
+Jul 8, 2011
+1,231
+1,934
+Virginia
+Jun 18, 2024
+#30
+jrsandiego12 said:
+AWESOME Detailed discussion - love it.
+
+docUSMC Retired --
+>When you say the effect can be reversed IF wind were to drop to zero -- are the effects down range of approximate equal magnitude as at the muzzle, or are they lessened?
+>Given the above, I am understanding that if the wind were to switch direction down range, the the effect would not only be reversed/negated back to zero, but the bullet flight might actually adjust elevation in the opposite direction?
+
+Where I shoot, there is sometimes a prevailing wind going across the top of hills - so on higher targets the prevailing wind might be from the right -- but on lower targets there is a valley wind actually in the opposite direction. So you shoot from a position where you might have a left to right 4 mph wind on the valley floor, but by the time the bullet is halfway to the target it starts experiencing a right to left.
+
+This would explain why on those high targets you can get surprising vertical solution results sometimes.
+Click to expand...
+Wait, I was hoping docUSMC Retired would answer these questions first! 
+ 
+Fig
+Tenor in the howler choir
+Full Member
+Minuteman
+Mar 15, 2018
+10,306
+26,465
+The Most Dangerous City in the USA
+Jun 18, 2024
+#31
+If there were a fourth crosswind of 3.4 Mph that did not act on the bullet until it was past transonic would any of the angles fall off the head of the pin?
+ 
+C
+Conaso
+Private
+Full Member
+Minuteman
+Jul 8, 2011
+1,231
+1,934
+Virginia
+Jun 25, 2024
+#32
+jrsandiego12 said:
+AWESOME Detailed discussion - love it.
+
+docUSMC Retired --
+>When you say the effect can be reversed IF wind were to drop to zero -- are the effects down range of approximate equal magnitude as at the muzzle, or are they lessened?
+>Given the above, I am understanding that if the wind were to switch direction down range, the the effect would not only be reversed/negated back to zero, but the bullet flight might actually adjust elevation in the opposite direction?
+
+Where I shoot, there is sometimes a prevailing wind going across the top of hills - so on higher targets the prevailing wind might be from the right -- but on lower targets there is a valley wind actually in the opposite direction. So you shoot from a position where you might have a left to right 4 mph wind on the valley floor, but by the time the bullet is halfway to the target it starts experiencing a right to left.
+
+This would explain why on those high targets you can get surprising vertical solution results sometimes.
+Click to expand...
+
+BUMP
+ 
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,362
+Texas
+www.appliedballisticsllc.com
+Jul 1, 2024
+#33
+jrsandiego12 said:
+AWESOME Detailed discussion - love it.
+
+docUSMC Retired --
+>When you say the effect can be reversed IF wind were to drop to zero -- are the effects down range of approximate equal magnitude as at the muzzle, or are they lessened?
+>Given the above, I am understanding that if the wind were to switch direction down range, the the effect would not only be reversed/negated back to zero, but the bullet flight might actually adjust elevation in the opposite direction?
+
+Where I shoot, there is sometimes a prevailing wind going across the top of hills - so on higher targets the prevailing wind might be from the right -- but on lower targets there is a valley wind actually in the opposite direction. So you shoot from a position where you might have a left to right 4 mph wind on the valley floor, but by the time the bullet is halfway to the target it starts experiencing a right to left.
+
+This would explain why on those high targets you can get surprising vertical solution results sometimes.
+Click to expand...
+Down range the effects are lessened but that is because the time of flight left is reduced.
+
+It wouldn't be a complete reversal. The bullet wouldn't say return to zero than add the the additional. Instead it would simply be the effect of the new wind.
+ 
+ 
+Reactions:
+Fig
+You must log in or register to reply here.
+Similar threads
+	
+Rifle Scopes Burris Eliminator 6 Accuracy Range Test Review
+Milirad Apr 25, 2024 Observation & Sighting Devices
+19
+May 25, 2024
+	
+Vector X - Just a quick review.
+Zigjib Jul 15, 2024 Observation & Sighting Devices
+24
+Sep 22, 2024
+	
+Range Report WHY GRAVITY BALLISTICS?
+Enough Said Feb 3, 2024 Ballistic Calculators & Field Results
+24
+May 18, 2024
+	
+12Ga Tubular Bullet
+Tubular Sep 22, 2023 ELR - Beyond 1000 Yards
+8
+Sep 24, 2023
+	
+Industry News and Updates
+gr8fuldoug Mar 5, 2024 New Product Announcements
+0
+Mar 5, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+Advanced Marksmanship Unit
+Ballistic Calculators & Field Results
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/aerodynamic-jump-effect-just-at-the-muzzle-or-down-range-as-well.7221163/ 
+ ----- 

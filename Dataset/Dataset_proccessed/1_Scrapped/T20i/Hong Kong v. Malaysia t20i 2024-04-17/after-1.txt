@@ -1,0 +1,662 @@
+Skip to main content
+
+An official website of the United States government
+
+Here's how you know
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+PLoS One. 2024 Apr 17;19(4):e0301009. doi: 10.1371/journal.pone.0301009
+Perceptions of risk and coping strategies during the COVID-19 pandemic among women and older adults
+Guek Nee Ke 1,2,*, Alan Gow 2,3, Rachel Mei Ming Wong 1, Shahirah Raman 1, Zulaikha Mohammad 1, Nicole De-Lima 1, Rozainee Khairudin 4, Wee Yeap Lau 5, Khalil Anwar Kamal 6, Shen Chiang Lee 6, Dasha Grajfoner 2,3,7
+Editor: Syed Hassan Ahmed8
+Author information
+Article notes
+Copyright and License information
+PMCID: PMC11023439  PMID: 38630742
+Abstract
+
+The world’s health, economic, and social systems have been adversely impacted by the COVID-19 pandemic. With lockdown measures being a common response strategy in most countries, many individuals were faced with financial and mental health challenges. The current study explored the effect of the COVID-19 pandemic on the psychological well-being, perception of risk factors and coping strategies of two vulnerable groups in Malaysia, namely women and older adults from low-income households (USD592). A purposive sample of 30 women and 30 older adults was interviewed via telephone during Malaysia’s Movement Control Order (MCO) regarding the challenges they faced throughout the pandemic. Thematic analysis was subsequently conducted to identify key themes. The themes identified from the thematic analysis indicated a degree of overlap between both groups. For women, seven themes emerged: 1) Psychological challenges due to COVID-19 pandemic, 2) Family violence, 3) Finance and employment related stress and anxiety, 4) Women’s inequality and prejudice, 5) Coping strategies, 6) Professional support, and 7) Women’s empowerment. Similarly, there were six themes for the older adults: 1) Adverse emotional experiences from COVID-19, 2) Threats to health security, 3) Loss of social connections, 4) Government aid to improve older adults’ psychological well-being, 5) Psychological support from family members and pets, and 6) Self-reliance, religion, and spirituality. The findings provide valuable information on the specific burdens faced by these groups, and support psychological interventions and mitigations that would be appropriate to improve well-being during the recovery phase.
+
+Introduction
+
+The spread of Coronavirus 19 (COVID-19) impacted health, social, and economic systems around the world. Countries urgently implemented movement restriction orders (i.e., lockdowns), which were successful at breaking the chain of transmission. However, these interventions were not without adverse effects, as seen in increased levels of depression, anxiety, and stress [1–4]. Research has mostly focused on Western countries, with regions including Southeast Asia understudied [5]. Research that has been conducted in Southeast Aisa has predominantly considered the environmental, financial, and economic repercussions of COVID-19 rather than the well-being of citizens [6–8].
+
+In Malaysia, the implementation of the Movement Control Order (MCO) in March 2020 successfully curbed the spread of COVID-19 [9–11], but contributed to other adverse economic and psychological outcomes [3,4,12–14]. For example, research has considered the economic impact of COVID-19 in Malaysia [15–17]. In response to those impacts, the Malaysian government directed resources to alleviate economic hardships through stimulus programs (e.g., PRIHATIN, Penjana). When studies considered psychological well-being, those were more likely to investigate student well-being [18,19], frontline health workers [20–22], and have a cross-sectional methodology [23–25]. While those studies described the impact COVID-19 had, there was less consideration given to identifying potential avenues of interventions. There is, therefore, a significant gap in research: the lack of qualitative data on the experiences of COVID-19 faced by vulnerable Malaysians (specifically those from low-income households), and the coping strategies they may have employed to cope with those challenges.
+
+The current study addressed this by conducting qualitative interviews with Malaysian women (N = 30) and older adults (N = 30) from low-income households. The findings provide information on the specific burdens faced by these groups, and suggestions for psychological interventions that could be appropriate to improve well-being.
+
+Vulnerable groups in Malaysia
+
+The Malaysian government recognises women, older people, people with disabilities, the poor, youth, refugees, and immigrants as vulnerable groups, in accordance with the United Nations Electronic Government Development Index Survey (UNEG-DI) [26]. Unlike the general population, these vulnerable groups have limited access to resources (e.g., healthcare, employment), and face increased social injustices (e.g., domestic abuse, disability), resulting in a high prevalence of poverty and social exclusion [27,28]. There are also prevailing socioeconomic inequalities in these vulnerable groups versus the general population, which were exacerbated due to COVID-19. For example, the number of low-income (B40) households, classified as those earning less than RM2,500 (approximately USD592) a month, increased by 12.5% [12,29]. Although the World Bank’s High Frequency (HiFy) Household Monitoring Survey reported that COVID-19 negatively impacted all Malaysian households, the most adversely affected were those which were disadvantaged before the pandemic; limited resources became scarcer still due to the lack of support and income [30]. Given the importance of disadvantage in predicting outcomes from COVID-19, the current study focusses on the low-income (i.e., B40) population, and specifically women and older adults as women are disproportionately disadvantaged due to social structures in Malaysia, and older adults were more socially isolated due to their higher physical risk of infection.
+
+Women in Malaysia during MCO
+
+The adverse physical and mental impact of COVID-19 on women has been well-documented, from increased domestic violence to loss of employment and income [31,32]. For Malaysian women, pre-existing inequalities were compounded by a reduction in opportunities in the labour market [33,34]. The Statistics Department of Malaysia reported that women made up nearly 70% of unemployed individuals in 2020; the lack of labour force participation was attributed to domestic and caregiving responsibilities [35–38]. The lockdown also increased the likelihood of gender-based domestic violence, with the Woman’s Aid Organisation (WOA) reporting a 44% increase in the number of calls received as women were unable to leave their abusers due to limited access to resources [39]. This increase is not atypical, comparable to the 10–50% increase in domestic violence helpline calls in other countries [40]. Financial stress and economic insecurity from the pandemic have been identified as key contributing factors to the increase in domestic violence in Malaysia [41,42].
+
+Gender-based inequalities can be traced back to Malaysia’s predominantly patriarchal culture [43], which was exemplified during the MCO when the government mandated that only head of households–who are typically male–were allowed to leave the home to shop for the family’s essential needs; women were unable to do so for themselves or their family [44]. Gynocentric policies such as these during times of crisis further reinforced gender stereotypes and contributed to increased gender inequality in Malaysia [45].
+
+Due to these challenging circumstances, a higher proportion of women than men experienced negative emotions, and severe or extremely severe signs of depression, anxiety, and stress throughout the MCO [46,47]. Despite these trends, limited qualitative research has been conducted to consider gender-specific responses that would support the well-being of women [34,48].
+
+Older adults in Malaysia during MCO
+
+Older adults were also specifically vulnerable to the effects of COVID-19 related restrictions, as the decreased social contact and increased isolation during MCO accelerated changes in their mental and physical health [49–52]. Older adults are defined as those aged 60 years or older [53], and an ageing society as a nation with a population where more than 7% are considered older adults [54]. Malaysia’s population surpassed this criterion in 2020, making the country an ageing nation, and it is projected to increase to 15% by 2030 [55]. The increase in the proportion and therefore absolute number of older people in the population supports the specific consideration of their evolving needs and requirements, particularly the interaction between social, economic, political, and environmental variables with health and function [56–58]. As older adults were considered a high-risk group during the COVID-19 pandemic, many of the MCO’s standard operating procedures (SOP) were designed to reduce exposure by keeping them physically distanced from family and friends [9]. Although these guidelines protected older adults physically, it resulted in unintended health risks, as many became physically and socially inactive following self-isolation [51,52,59]. Social isolation has been associated with both chronic physical conditions, such as diabetes and cardiovascular disease, and poorer mental health [60–62]. Recent studies indicate that older adults in Asian countries experienced impairments in cognitive function [51], and depressed mood and frailty [52] during the COVID-19 pandemic with social isolation often suggested as a key contributor.
+
+Despite its necessity, the enforcement of social distancing and lockdown measures reduced social connections, with consequences for mental health [63]. Based on relational-cultural theory [64], interdependent experiences of connection, based on mutual empathy and mutual empowerment, enhance resilience and contribute to personal growth [65–68]. In isolation, individuals tend to repeat old patterns or thoughts and often feel disempowered [64]. These feelings of disempowerment are particularly detrimental for older adults, whose sense of self and worth and well-being are built upon their connections with others [69].
+
+Conceptual model
+Women and older adults
+
+Prior to the data collection and analysis, the researchers proposed two theoretical frameworks: the socio-ecological model [70] and the emotional-transactional model [71]. Given the severity of COVID-19 and the impact on multiple aspects of daily life, considering both the emotional and non-emotional implications of lockdown were relevant.
+
+Socio-ecological model
+
+The complex interplay between Malaysian women and the patriarchal society suggests that a multi-level explanation would be appropriate to understand factors that could alleviate the challenges faced. The socio-ecological model, which has been utilized amongst vulnerable groups [72], provides a concise framework that arranges possible barriers to assistance for vulnerable groups in Malaysia.
+
+The theory-based model conceptualises the interaction between an individual and their environment by proposing four nested levels–individual, relationship, community, and society–and respective risk and protective factors [73]. The model consists of four concentric circles, beginning with the innermost circle (individual) that represents an individual’s biological or personal history. The subsequent circle (relationship) embodies an individual’s relationship with those they consider close, such as family or friends. The third level (community) involves social structures and any formal or informal institutions which the individual has a relationship with. The outermost circle (society) typifies the social and cultural environment, which includes cultural norms, laws, and policies. According to this approach, the challenges faced by women and the severity of those will be dependent on the interaction between these four factors.
+
+An updated model (Socio-Ecological Model for Change) [74] introduces an additional component into: the cross-cutting factors (Fig 1). These cross-cutting factors essentially represent opportunities for change and mitigation throughout the structure of the rings, identified as: information, motivation, ability to act, and norms.
+
+Fig 1. Socio-ecological model for change.
+
+Open in a new tab
+
+In this study, the socio-ecological model for change would organize the negative experiences of the MCO into the concentric levels, and the participants’ coping mechanisms into the cross-cutting factors.
+
+Emotional-transactional model
+
+The emotional-transactional model integrates the transactional theory of stress [75] with the cognitive-motivational-relational theory of emotion [76] (Fig 2). In the primary appraisal phase, a situation is evaluated as being a threat, harm/loss, or a challenge, whereas secondary appraisal involves identifying potential coping resources. This theory differs from that of the original transactional theory of stress in that the coping process occurs after the appraisal process and emotional experience. Previously, emotion was proposed as the outcome of cognition, and remained neglected despite its potential importance in the appraisal process [77–79]. However, the emotional-transactional model expands on Lazarus’ previous work and includes the four basic ‘negative’ universal emotions: fear/anxiety, disgust, anger, and sadness [80]. This provides a more comprehensive view of the appraisal process that an individual engages in when confronted with a stressful situation.
+
+Fig 2. Emotional-transactional model.
+
+Open in a new tab
+Current study
+
+Women and older adults were disproportionately vulnerable during the COVID-19 pandemic. In Malaysia, women were culturally and socially exposed to multiple inequalities due to increased domestic responsibilities and economic and marital stressors, whilst the growing ageing population had higher health risks coupled with more limited access to social support. These negative impacts are compounded when considering low-income (i.e., B40) households. The current study therefore explored risk factors for the negative impact of the MCO within these two groups. Semi-structured interviews were conducted to allow more in-depth accounts of the experiences faced by women and older adults in low-income (i.e., B40) households during the MCO, to provide suggestions for possible coping mechanisms and develop future policy recommendations that would protect their interest and needs.
+
+Materials and methods
+Ethical considerations
+
+Prior to data collection, ethical approval was provided by the School of Social Sciences’ Ethics Committee at Heriot-Watt University (2020-0461-1466).
+
+Research design
+
+The study used an exploratory qualitative research design to gather information regarding the psychosocial experiences of women and older adults during COVID-19. Interpretative phenomenological analysis (IPA) [81] was conducted, with the two-stage interpretation process (also known as double hermeneutic) allowing participants to first make sense of their personal experiences prior to researchers making sense of participants’ descriptions. A semi-structed interview was conducted, with prompts provided to encourage participants to share more information (S1 Appendix). This method was selected as it produces rich descriptions of personal experiences that could be enhanced by further questioning by the researchers [82].
+
+Participants
+
+Participants were required to be above the age of 18 for women, and 65 or older for older adults. Individuals who self-reported any mental health challenges were not eligible to participate. Both sets of participants were also asked to self-reported how their living experience was affected by the COVID-19 lockdown, but they were not required to report any physical health challenges.
+
+The sample consisted of Malaysian citizens who were from low-income households (i.e., B40, household that earn less than RM2,500 (approximately USD 592) per month). Participants in the women group (N = 30) were ageds 19 to 59 (M = 30.28, SD = 11.25), and consisted of Malays (N = 10), Indians (N = 10), Chinese, (N = 6), and Bornean (N = 4). Participants in the older adult group (N = 30, Nfemale = 15, Nmale = 15) were aged 60 to 79 (M = 67, SD = 5.11), with an equal representation of Malays (N = 10), Indians (N = 10) and Chinese, (N = 10). All participants reported some form of financial loss throughout MCO, be it through the loss of employment or reduction in income and/or in savings. Approximately 75% (N = 45) of participants received some form of government aid (e.g., Prihatin, State Government Aid).
+
+Data collection
+
+Due to the MCO, recruitment was conducted remotely, with posters distributed digitally to several non-governmental organisations (NGOs) (e.g., Malaysian Institute of Economic Research, MyKasih, Ministry of National Unity & Integration (PERPADUAN)) and old folks homes. Interested participants were directed to contact the research team, who provided further information and arranged an interview for those who agreed to participate.
+
+To adhere to COVID-19 safety restrictions, data collection was conducted by telephone. Prior to the interview, participants were emailed a participant information sheet and consent form. These documents informed participants of their rights and the procedure for the audio-recorded interview which would last approximately 60 minutes. If participants agreed to proceed with the interview, they were required to digitally sign and return the written informed consent form to the researcher via email. Interviews took place between 21st June and 15th July 2020, while Malaysia was still under MCO, and conducted by two research assistants.
+
+Data analysis
+
+All interviews were transcribed verbatim, anonymised, and checked for accuracy by the principal investigators prior to being analysed. The information was coded, analysed for patterns, and developed into themes (and sub-themes) by the research assistants using NVIVO (version 12). The results were further assessed for correctness by the fuller research team, with themes and sub-themes rigorously reviewed and amended where necessary, until they adequately represented the dataset.
+
+Results
+
+The thematic analysis determined that for women, the socio-ecological model was better suited to their experiences, whilst the emotional-transactional model was a better fit for older adults. The demographic characteristics of participants are summarized in Table 1.
+
+Table 1. Demographic characteristics of participants.
+Demographic	Women	Older adults
+N	%	N	%
+Gender
+Male
+Female	
+-
+30	
+-
+100	
+15
+15	
+50
+50
+Marital status
+Married
+Single
+Others	
+5
+22
+3	
+16.7
+73.3
+10.0	
+19
+3
+8	
+63.3
+10.0
+26.7
+Education
+No formal education/up to college
+University	
+16
+14	
+53.3
+46.7	
+26
+4	
+86.7
+13.3
+Ethnicity
+Malay
+Chinese
+Indian
+Others	
+10
+6
+10
+4	
+33.3
+20.0
+33.3
+13.3	
+10
+10
+10
+-	
+33.3
+33.3
+33.3
+-
+Locality
+Rural
+Urban	
+4
+26	
+13.3
+86.7	
+7
+23	
+23.3
+76.7
+Reduction of income during COVID-19
+0–50%
+51–75%
+>75%	
+13
+4
+13	
+43.3
+13.3
+43.3	
+15
+5
+10	
+50.0
+16.7
+33.3
+Open in a new tab
+
+Note: For Education, University refers to participants who had an undergraduate or postgraduate level qualification.
+
+Women
+
+The thematic analysis revealed seven themes that were: (1) Psychological challenges due to COVID-19 pandemic, (2) Family violence, (3) Finance and employment related stress and anxiety, (4) Women’s inequality and prejudice, (5) Coping strategies, (6) Professional support, and (7) Women’s empowerment. The seven themes and their sub-themes are discussed in detail below, with verbatim quotes from the interviews to illustrate each point. The themes are organised and presented according to the individual, relationship, community, and societal levels of the ecological framework, and the cross-cutting factors of the socio-ecological model framework (in Fig 3, the themes are overlaid on the socio-ecological model). Extracts and quotes from participants are italicised, and participants numbers are presented with the prefix P (e.g., P06 refers to Participant 6).
+
+Fig 3. A socio-ecological model of the impact of COVID-19 on vulnerable Malaysian women.
+
+Open in a new tab
+Individual level
+
+Psychological challenges due to COVID-19 (Theme 1). At an individual level, participants reported anxiety when coming in close contact with others for fear of contracting COVID-19 themselves, and infecting others in their household. They were particularly worried about spreading the infection to those at higher risk of becoming severely ill with COVID-19, including older relatives and contacts, children, and people with chronic illness.
+
+“Some of the people close to me are vulnerable, and I could be just fine but still be carrying the virus. So, that’s pretty scary.” (P062)
+
+Notably, participants displayed awareness of the importance of adhering to the standard operating procedures set by the authorities and took precautions when in public.
+
+“When the MCO started, I was prepared to follow all the guidelines set by the authorities, like frequently washing hands, wearing face masks and all that. I felt like these are important guidelines to follow.” (P085)
+
+Adjusting to changes in lifestyle due to movement restriction measures was a common cause for upset among participants. They expressed “feeling down”, “depressed” and “trapped” by being confined at home. Feelings of loneliness and isolation were also evident because of reduced social interactions with people outside the home.
+
+“I think right at the forefront is the sense of loneliness and isolation [from] not having any kind of personal connection with people I usually meet and spend time with.” (P070)
+
+In addition, participants reported experiencing a lack of motivation and interest in engaging in their usual activities. Some even cited a general feeling of hopelessness and a loss of meaning in life.
+
+“[My friend] feels like they’re being locked down and life [has] no meaning… she just doesn’t have that energy it feels to do anything.” (P064)
+
+Relationship level
+
+Family violence (Theme 2). At this level, the family posed a significant risk to participants’ well-being, as increasing family tensions were prevalent due to spending more time together at home. This was especially true in intergenerational households, as well as from financial stress. Several participants reported physical violence at the hands of their parents.
+
+“During the pandemic, we are forced to stay with each other. And there [has been] a lot of fights that even resulted in physical violence. […] It becomes violent, and our youngest in the family is a baby. It’s a two year old baby. And we’re very fearful that [our mother] will let out her anger on that baby.” (P077)
+
+Due to the movement restriction measures, participants were unable to seek refuge away from family, as they would have before the pandemic.
+
+“When the MCO started, I had to go home from my university. Actually, for my mental health, it’s better for me to be in university because I actually have a lot of problems [with] my household. […] Until now, I’m still hoping when for the university to open for me to go back.” (P075)
+
+“Before the MCO, at least, myself or my siblings could escape the household violence by staying over at our friend’s house, like we seek shelter there, we at least have some sort of relief there. But during the MCO, […] we cannot go places so we stay home and we have to endure whatever violence whether mentally or physically in this house. There’s no escape.” (P077)
+
+Community-level
+
+Finance and employment related stress and anxiety (Theme 3). Participants indicated that at a community level, financial instability was a major stressor in their lives. They expressed significant distress due to financial hardships; with many of them experiencing loss of income due to retrenchment, problems in finding work, and changes in their job situation.
+
+“I had secured a few jobs to sustain myself until the end of the year, and when all of that fell through, it got me anxious. I really didn’t know what to do. I had to think of paying rent, getting food, paying off the car and all that.” (P066)
+
+Among those employed during the MCO, some described feeling frustrated with working from home and in front of a webcam, which they believed to be a surveillance tactic by employers.
+
+“I work four days a week in front of a webcam, so it takes a huge mental toll because for the whole eight hours you are filled with anxiety and it’s extremely stressful to work that way.” (P074)
+
+Furthermore, a subset of participants reported feeling overwhelmed from an increased burden of unpaid care work, which included household chores, caring for family, and helping their young children with online learning.
+
+“My workload has increased. I’m not able to try doing part-time work or anything because my work full-time is really at home because the children do online studies, my husband [is] also in the house and being online. So there was hardly time for myself.” (P088)
+
+Societal level
+
+Women’s inequality and prejudice (Theme 4). At the beginning of the MCO, the Ministry of Women, Family and Community Development of Malaysia released a set of recommendations for married women on how to manage their households (Law, 2020). The Government encouraged women to wear make-up at home and avoid ‘nagging’ their husbands to help with the household chores, and instead attempt to inject humour by speaking to their husbands while emulating the child-like voice of a popular Japanese children’s cartoon character, Doraemon. Several participants had mentioned feeling degraded and insulted by these recommendations.
+
+“I think those [recommendations] were very misleading. I didn’t feel protected at all [by them]. In fact, I felt very insulted as a woman and I felt very degraded.” (P077)
+
+“The women’s ministry was very degrading. It was very shameful. It’s hard [to believe] a post like that would [be approved] that easily.” (P084)
+
+Participants frequently expressed feeling judged by society and pressured to conform to traditional gender roles and stereotypes, including having to sacrifice their needs to care for others, often being branded as less capable than their male counterparts, subservient, as well as overly dramatic. Participants took the opportunity to highlight the need to take women’s concerns seriously, as well as the importance of women empowerment.
+
+“I’ve noticed that when a woman says that she’s going [struggling with] mental illness, people are easy to dismiss it as a women issue.” (Participant 80)
+
+“Women need empowerment to face the difficulties in their lives. […] Women face a lot of burdens and we often shut ourselves up, and if we don’t, we receive backlash.” (P085)
+
+“I think maybe encourage women to speak up. Because I know our society tends to be judgmental towards women, especially ones who are vocal. And some people might have some difficulties to understand and accept what women are saying. I’d like more empowerment for women.” (P066)
+
+Cross-cutting factors
+
+Coping strategies (Theme 5). Self-coping strategies. When asked how they coped during MCO, participants emphasised the importance of filling their time with activities. Such activities included watching videos and television, as well as engaging in physical activity and a variety of hobbies. Some women highlighted that religious or spiritual practices helped alleviate their distress.
+
+“I pray for patience and strength, more resilience [to overcome] all the mental challenges that we have to go through.” (P087)
+
+Addressing unhelpful thought patterns, meditation and breathing exercises were also cited as coping strategies.
+
+“With meditation, you get to empty your mind and focus on what’s really troubling you. I don’t know how other people do it, but that’s what I do. I try to focus on solutions, instead of the problems.” (P066)
+
+Family, friends, and community support. Participants also revealed that they relied on family, friends and/or community for emotional support during the MCO. They found that opening up and sharing their hardship with people that they trusted or were comfortable with improved their psychological well-being.
+
+“Honestly just my close friends, if anything I would get in contact with them and tell them how I feel and what happened.” (P066)
+
+Furthermore, participants found that joining an online support group helped relieve some of their distress.
+
+“I came across this website [linking to] a worldwide support system where you can talk to an anonymous person about what you’re feeling. You can find someone who’s experiencing the same thing as you. And you have the advantage of being anonymous, so you don’t have to worry about being looked at in a different way or anything like that. I’ve found that this particular website really helped me.” (P080)
+
+Professional support (Theme 6). Financial and career support. To assist with financial and employment issues, participants proposed that financial aid should be given to retrenched workers and those struggling with financial insecurity.
+
+“[…] for financial support, it would be in the form of cash aids to help people who struggle to get by on certain financial thresholds.” (P072)
+
+Initiatives to create more job opportunities as well as to support local businesses were also suggested.
+
+“I want more ways to support local businesses and B40 workers in rural areas and small towns. Because some people might be in a more stable position, but these folks are just starting to find their footing.” (P068)
+
+Many participants also expressed interest in attending skill-building workshops to improve their employability. Some skills of interest included business, freelancing, communication skills, marketing, advertising, and technological skills, as well as language classes.
+
+Stigma of psychological support and services. Most participants were aware of at least one psychological service available to them. These included mental health hotlines, government or private mental health services, and non-governmental organizations (NGOs). Local suicide hotlines, befrienders, and NGOs including Women’s Aid Organisation (WAO) and the Malaysian Mental Health Association (MMHA) were the most reported among participants. However, only a small number of participants revealed that they had sought psychological support. Some participants disclosed that they were reluctant to seek psychological support despite ongoing mental health issues due to previous negative experiences.
+
+“Because it hasn’t really been a positive experience for me. Even if there are avenues—I don’t want to take them.” (P076)
+
+To address mental health issues, participants highlighted the need to first destigmatize mental illness nationwide and boost mental health education. They further stressed that stigma was a prominent barrier in seeking psychological help.
+
+“I think after COVID-19, people are going to need a lot of mental health help, but I don’t know if they are going to be willing to seek mental health since it’s so stigmatized.” (P078)
+
+“I think that many people are still not aware of [mental illness]. People usually think [people with mental health issues] are ‘gila’ [crazy]. […] I think people must be educated.” (P067)
+
+Increase public mental health support and in the workplace. One participant suggested that more mental health programmes specific for women should be made available and that they should be locally relevant.
+
+“[There should be] workshops highlighting women’s mental health. We have an entirely different biological system that is very much affected by our hormonal balance. [This is] not made aware to the everyday woman, like me.” (P070)
+
+Other participants opined that addressing mental health issues would be more effective when done through one’s social circle (e.g., family, friends, or colleagues) rather than larger bodies.
+
+“You can actually be the first point of contact, helping someone realise that they are going through something.” (P089)
+
+Furthermore, participants also recommended that more mental health services should be initiated as they believed existing services tended to be costly, inaccessible, ineffective or generally difficult to navigate.
+
+“I think it would be helpful if we could have more counsellors or therapists made available in more places. I have [previously] considered getting psychological help, but it’s almost impossible. If you go to a private therapist, it’s expensive. If you go to the government one, it’s not easily accessible. So, I think I’d like to see more accessible mental health plans for everyone.” (P074)
+
+Increasing support for mental health in the workplace was also a common suggestion.
+
+“I just feel like when it comes to employers in Malaysia, they are not very understanding when it comes to mental health. It would be great if we could have workshops or seminars on how to deal with employees’ mental health.” (P074)
+
+Women’s empowerment (Theme 7). To help women become more empowered, participants proposed launching a platform bringing together a community of women, where they could express their concerns safely and find support.
+
+“For women, especially those who don’t have their own stable income, they would need support and empowerment to improve themselves. There should be programs for that.” (P073)
+
+“It would be nice if there was a channel for women to voice out their experiences, because right now everyone is going through their own struggle.” (P062)
+
+“Having more accessible groups or facilities for women to express their concerns. […] If they are facing some sort of emotional issues regarding certain matters, there should be a group—a safe group—that could be a channel for these women to express what has been going on.” (P072)
+
+Additionally, several participants also highlighted the need to address violence against women, including domestic violence, sexual harassment and online gender-based violence, and further implored that appropriate assistance be given to those affected by these issues.
+
+“The most important issue—I think it would be the well-being of the people who have suffered domestic violence. [Emphasis] definitely needs to be put on [providing] resources and aid [for these women].” (P083)
+
+Older adults
+
+The thematic analysis revealed six themes that were: (1) Adverse emotional experiences from COVID-19, (2) Threats to health security, (3) Loss of social connections, (4) Government aid to improve older adults’ psychological well-being, (5) Psychological support from family members and pets, and (6) Self-reliance, religion, and spirituality. The six themes are discussed in detail below. The themes are organised and presented according to the emotional-transactional model (in Fig 4, the themes are overlaid on the emotional-transactional model).
+
+Fig 4. The emotional-transactional model of COVID-19 on vulnerable older adults in Malaysia.
+
+Open in a new tab
+Emotional experience(s)
+
+Adverse emotional experiences from COVID-19 (Theme 1). Most of the participants experienced negative psychological states during the lockdown. Participants expressed negative emotions described as stress, worry or anxiety, fear or being scared, resignation, and wanting to avoid contact with people. As a result of complying with the MCO, respondents commented on how it had negatively impacted both their social and physical state as well.
+
+“Ya, those were the depressing side. I have an 84 yr old mother whom I couldn’t visit, she has only two daughters—me and my sister—and she wanted to see us, we could not and that depressed me a lot. These things pulled me down. I’m a people’s person, not being able to physically touch and see friends and family is what pulled me down emotionally.” (P027)
+
+Primary appraisal
+
+Threats to health security (Theme 2). Many of the participants expressed their concerns due to the inability to gain access to health facilities like hospitals and clinics.
+
+“I think where the Government clinics are concerned, they should make it a bit easy because ever since COVID-19 they are making it a bit difficult for people… Even if I want to go directly to see the doctors, it is not as easy as it used to be before.” (P005)
+
+Loss of social connections (Theme 3). Several participants emphasised the self-isolation and loneliness; there was a sense of resignation to their fate and fear echoed in their quotes.
+
+“Definitely, I am worried… It has affected me psychologically in the sense … As they (the government) kept extending the MCO, only then I told myself don’t be a pretender because when you live alone and when depression hits you, that’s it! It will be very difficult for you to pick up.” (P007)
+
+Secondary appraisal
+
+Government aid to improve older adults’ psychological well-being (Theme 4). When asked for suggestions to improve older adults’ psychological well-being, most respondents stated that it was imperative for the Government to step in with suitable interventions and programmes, mainly in the healthcare systems, providing retirement facilities and benefits.
+
+Healthcare systems. The majority of participants deemed accessibility to healthcare systems, such as having regular check-ups and visits to the clinic, as important factors to ensure that older adults’ emotional health is supported.
+
+“… every senior citizens should have medical checkups for free… It’s not cheap. So if Government can give full medical yearly, would be good.” (P020)
+
+A few suggested the government step up their efforts by building more hospitals and clinics in rural areas.
+
+“… more hospital in the rural areas or maybe clinics where people can come visit… We want the doctors to be stationed or maybe if we can have 1 or 2 doctors maybe give extra Medical Officers … if the Government really want to take care of the health of the people, then the infrastructure of the health must be think of.” (P009)
+
+Retirement facilities and benefits. Retirement homes and facilities was one suggestion given by participants to combat self-isolation and reduce depression among older adults.
+
+“… if we can have a safe space for them and they are happy, they have a retired village they can mingle and feel useful. They can contribute and they are happy. I think the Government should spend chunks and chunks of investment and money on retired homes.” (P015)
+
+The benefits from living in a housing community structure would allow older adults to socialise and encourage them to be involved in physical activities. Many participants highlighted the need for older adults to be engaged with others and not be isolated.
+
+“Older adults, I think the best medicine is go out, have lots of friends, must socialise to keep your mind active, physically active and go out and do physical activities. I love gardening and walking. Living in a retirement place keeps you in touch with other people so you don’t feel lonely, get a lot of ideas. … People keep you alive in a healthy way.” (P021)
+
+Extrinsic coping strategies
+
+Psychological support from family members and pets (Theme 5). Amongst other requirements during the MCO, the public was restricted to a 10-km radius of their homes and only a single member of each household could purchase essential items (food and medicine) [83]. In general, the participants used either extrinsic or intrinsic coping strategies to overcome their emotional challenges. It has been argued that while intrinsic motivation reflects the human natural propensity to assimilate and learn, extrinsic motivation varies it is relative autonomy, from external control to self-regulation [84].
+
+As a result of these challenges, most of the extrinsic suggestions shared by respondents involved psychological support from family members and having pets. The emotional support provided, either through physical or non-physical connection, helped participants to deal with stress and to combat loneliness.
+
+“… having your family around, my wife and my daughter. I guess if you are to face this alone and stay at home alone. You probably feel more stressed, with no one to talk to and no one there with you. I think that helps a lot.” (P028)
+
+Some suggestions of having pets as a companion to cope with the lack of physical contact and connection helped alleviate the stress that comes from being isolated.
+
+“You stop thinking about yourself and think about others… I have my pets here so when I get up in the morning, I am fully occupied with caring for them… Helps maintain my health through the lockdown.” (P005)
+
+“I relief myself by tending to the garden and pet my cat. My husband has birds. … when we stand in front of the birds’ cage, we see their behaviour, their way of life and how they treat other birds. Actually, birds are loving. When we see their behaviour, it can make us laugh and entertain us. So, I don’t feel bored.” (P006)
+
+Intrinsic coping strategies
+
+Self-reliance, religion, and spirituality (Theme 6). Many respondents highlighted their efforts to keep themselves active, both mentally and physically, as a coping mechanism, being self-reliant and turning to religion.
+
+“… when you keep yourself busy, you don’t feel stress all that. Your mind is occupied. As I get up in the morning up to the time I am sleeping, I am fully occupied with the housework, and I do exercise too.” (P005)
+
+A number of participants stressed that they did not require psychological support from others to cope and they relied on themselves to overcome any challenges.
+
+“I turn to myself (for support). That’s the most important thing and I do pretty good because no one can help you if you can’t support yourself. That’s what I think. I’ve been independent since I was young.” (P022)
+
+Others turned to religion as a coping mechanism during the MCO, claiming that praying or reciting prayers helped them deal with being quarantined.
+
+“I was praying more and listening to God more. I was more into prayers and reading the bible. I felt like God was prompting to me ‘Nothing is going to happen.’ Just keep praying. I felt comforted and no more sadness.” (P013)
+
+Discussion
+
+Women and older adults in the current study reported experiencing poorer psychological well-being during the pandemic and some of the specific challenges encountered during the MCO. Both groups provided extrinsic and intrinsic measures that either alleviated or prevented negative feelings during MCO and stressed the need for more social protection and fiscal aid to support their well-being. Women specifically reported experiencing a higher incidence of family violence, in addition to financial and economic stress and increased household responsibilities.
+
+These findings are consistent with studies where reduced social interaction from movement restriction measures were associated with a decline in mental well-being, such as increased feelings of loneliness and isolation [2,46,85–91]. The effect of prolonged isolation has been identified as a risk factor for psychological conditions such as major depressive disorders (MDD) and post-traumatic stress disorder (PTSD) [92], further reinforcing the importance of assisting vulnerable groups for whom resources may be particularly inaccessible (both before and during COVID-19).
+
+Women
+
+Understanding and identifying the impact of COVID-19 using the social ecological framework [70] is useful in the development of strategies to ameliorate the burdens faced by Malaysian women. The inclusion of cross-cutting factors provides insight into women-focused strategies and interventions to reduce the risk of poorer well-being. Importantly, these cross-cutting factors are derived from participants themselves, which makes the recommendations more valuable and potentially more effective.
+
+The results indicated that women perceived a decline in their psychological well-being with the threat of the pandemic and the effects of the MCO. In addition to the emotional challenges brought about by the pandemic, family violence contributed to the decline in mental well-being of women. Participants supported this as they reported increased family tensions from spending more time together, and concern for their well-being and those of their loved ones with their more aggressive family members. The stress of living together with unrelieved contact places individuals at risk, especially at a time of global crisis where there are shortages of essential resources and economic instability [93]. The main reason for family violence in this study was financial stress, which corroborates a Malaysian report citing financial difficulties as one of the main contributing factors for domestic violence [42,94]. Essentially, movement restriction measures inadvertently increased exposure of victims to perpetrators, who face limited consequences for their actions as victims would be unable to seek refuge or access support [94–97].
+
+A deep recession was also predicted in the aftermath of the COVID-19 pandemic, and this economic uncertainty has led to mass layoffs globally [98,99]. In Malaysia, men’s employment was reported to be recovering as movement restrictions were gradually lifted, but the number of employed women continued to decrease [100]. The lack of labour force participation is linked to the increased burden of unpaid care work, which includes household chores and childcare [36]. This inequality is exacerbated by traditional gender roles in Malaysia, which sees women assuming more caregiving responsibilities than men, and having lower-income jobs that were of lower priority and more sensitive to the impact of COVID-19 [35,101,102]. Women would then be more vulnerable to financial and economic insecurity, which subsequently affects their psychological well-being [103] as they will be rendered dependent on others.
+
+Self-coping strategies employed by women included leisure activities and hobbies, along with religious or spiritual practices (e.g., meditation), and reliance on social support. These findings were consistent with a study that suggested Malaysians relied on positive coping strategies to handle the stress of COVID-19 [104]. However, a notable lack of access to mental health resources was identified by participants of the study, and this shortcoming would likely worsen the psychological distress faced by those who are already disadvantaged prior to the pandemic [105].
+
+Progressive empowerment of women to address Malaysia’s gender-based inequalities was suggested by participants and supported by existing research [106]. Empowering women by allowing them to voice their concerns would not only benefit them individually but improve their decision-making and communication skills [107,108]. Women who participated in the current study also believed that their empowerment would be improved by more reasonable actions taken by the government to tackle these inequalities through corporate, fiscal, and social protection, rather than providing degrading and embarrassing domestic advice.
+
+Older adults
+
+Predictably, movement restriction measures proved detrimental to psychological well-being, and there was an increased need for psychological support globally [1]. For the older adult in this study, limited social engagement affected not only themselves but family members and resulted in feelings of depression with each MCO extension. This is unsurprising, as research has identified similar instances of psychological distress amongst older adults who have been socially isolated due to COVID-19 [109,110]. The lack of trust in technology [111] and poor connectivity [112] further isolated older adults, and this is augmented when considering the collectivistic Malaysian family dynamic [113], where older adults are often cared for by younger family members and the community.
+
+To cope, older participants expressed intrinsic and extrinsic coping strategies that motivated them to overcome emotional challenges brought about by COVID-19. Extrinsically, participants mostly relied on psychological support from family members and companionship from pets, which eased loneliness and stress. The activities reported by participants support the findings of previous studies regarding the benefits of human and non-human companionship during COVID-19 [13,114–116]. Intrinsic coping strategies utilized by participants in this study included maintaining some form of mental and physical activity or a dependency on themselves or religion. This indicates that participants did not necessarily see movement restriction measures as inherently negative but perceived it as the opportunity to make time for spiritual activities and self-reflection [115]. Research indicates that older adults who engaged in intrinsic religiosity tend to experience better physical and mental health than older adults who are not as religious [117–119]. Religious participation has been emphasized as one of the forms of social support the older adults gain in the way of perceived emotional support, which plays a critical role in the maintenance of mental health [120].
+
+Coping strategies for older adults in this study emphasized accessible, subsidized healthcare to maintain physical health. As Malaysia has recently become classified as an ageing society, this requires immediate and extensive planning to ensure that the nation is adequately financially and socially prepared for the implications of this demographic shift [121]. Aside from maintaining physical health, older adult participants voiced the potential for government aid to establish retirement facilities to combat social isolation. The benefits of such retirement facilities have been well-documented in maintaining cognitive function, reducing psychological distress, and improving overall well-being [122–125].
+
+Thematic links between women and older adults
+
+To summarize, the themes identified in this study have indicated some degree of overlap between both groups (see Table 2). There was an indication that both groups experienced some form of psychological distress arising from COVID-19, but women reported more health-related anxiety in terms of spreading COVID-19 whilst older adults were concerned about accessibility to healthcare. There was also an overlap in terms of coping strategies during the MCO as participants from both groups reported intrinsic and extrinsic coping strategies that helped reduce loneliness from prolonged social isolation. Lastly, the two groups agreed that more government aid should be provided, but they diverged in terms of the form of government support expected, with women advocating for fiscal and social aid but older adults requiring more healthcare-based aid.
+
+Table 2. Thematic links between women and older adults.
+Theme	Women	Older Adults
+Challenges	Psychological	Emotional
+Threats	Family violence	Health security
+	Financial and employment stress and anxiety	Social connections
+ 	Institutional inequality & prejudice	 
+Coping strategies	Intrinsic coping strategies
+ 	Extrinsic coping strategies
+Governmental support	Professional support	Healthcare system reforms
+Financial support	Retirement facilities and benefits
+Open in a new tab
+Implication for theory and practice
+
+At least three practical implications can be suggested based on the findings of the current study. The first concerns the nation, followed by one each for women and older adults. Due to COVID-19 safety guidelines, these recommendations can be adapted online to ensure physical distancing. This is, of course, contingent on improvements of infrastructure by the government [126].
+
+Firstly, intervention programs that focus on building resilience through positive psychology exercises can be developed and implemented, such as the PERCE model [4]. By implementing a more holistic approach that is more focused on intrinsic protective factors, individuals would be better equipped to manage distressing situations that may require physical distancing. Moreover, positive psychology interventions have been reported to protect against psychological distress and enhance positive life experiences that would improve overall psychological well-being [127,128]. The government may also want to consider promoting mental health assistance during the COVID-19 pandemic, to enhance help-seeking efficacy and reduce stigmatization of mental health (i.e., psychoeducation) [129].
+
+Secondly, the introduction of a platform for women to express their concerns safely and find support in a community of like-minded women could be developed, to improve economic, social, and political empowerment [107,108]. This platform may adopt a multiple streams framework to improve accessibility to resources in case of domestic violence, and thus protect women against their aggressors [130]. To reduce the financial strain to develop this platform, it can be proposed that several NGOs collaborate so that resources can be shared. The government can then seek to rectify gender-based labour market disparity, through regulatory initiatives and social campaigns [131,132].
+
+Lastly, there is a need for reformation of Malaysia’s present support for older adults, as the current pension and welfare systems would increase the burden of social expenditure in the future [133]. Delivering a mobile health app (mHealth) for healthcare would encourage older adults to maintain some form of active lifestyle [134], and effectively manage their health [135,136]. In addition to preparing institutional care centres and improving access to healthcare for rural-based older adults [121], the government would benefit from pre-emptively encouraging a healthy ageing process. Ensuring that adults age healthily is crucial for maintaining quality of life and allows them to thrive in society (e.g., as grandparents, or friends) [49,137].
+
+Limitations and recommendations
+
+The limitations of this study should be taken into consideration when interpreting the results. The research sampling (i.e., women and older adults in B40 households), although adequate to explore the research objectives within the context of the study, is not representative of the entire population. Hence, it would not be appropriate to generalise the findings to other samples. Two recommendations may be made from this limitation: 1) studies focusing on women and older adults belonging to middle (i.e., M40) and high (i.e., T20) income households would provide an opportunity to ascertain the similarities and differences in psychological experiences during MCO, 2) follow-up studies on other vulnerable groups in low-income households (e.g., children, migrant workers) would provide a thorough picture of the impact of COVID-19.
+
+The qualitative approach used for this research provides a very nuanced, subjective view. A recommendation would be to provide additional support in the form of quantitative data or perhaps designing longitudinal research so the long-term implications of COVID-19 pandemic on vulnerable groups can be assessed. Lastly, the mitigation strategies identified here are provided from the perspective of participants, and the usefulness of these strategies would require testing and validation from mental health professionals, psychologists and others working within relevant support structures. Hence, a recommendation would be to replicate these interviews with professionals to assess the efficacy and feasibility of these strategies.
+
+Conclusion
+
+The qualitative findings of this study support the prevailing evaluation that COVID-19 and movement restriction measures had a negative impact on Malaysian women and older adults in low-income households. Despite the effectiveness of movement restriction measures in mitigating some of the impacts of COVID-19, both groups reported consequences for their mental well-being and shared their expectations for the government to provide aid. Women reported specific additional challenges related to family violence, increased household responsibilities, and a lack of support in the labour force. Prolonged isolation can increase risks to individuals while attempting to protect them, so the mitigations proposed by participants require urgent attention by relevant parties.
+
+Supporting information
+S1 Appendix. Interview questions.
+
+(DOCX)
+
+pone.0301009.s001.docx (19KB, docx)
+Data Availability
+
+All relevant data are within the manuscript files.
+
+Funding Statement
+
+This study was funded by the Global Challenges Research Fund (GCRF) (Grant No.: 55-1465–4101–5815-0-R45-0- P20GCRF7). The author KGN was the recipient of the award. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+References
+1.Cao W, Fang Z, Hou G, Han M, Xu X, Dong J, et al. The psychological impact of the COVID-19 epidemic on college students in China. Psychiatry Res. 2020;287: 112934. doi: 10.1016/j.psychres.2020.112934 [DOI] [PMC free article] [PubMed] [Google Scholar]
+2.Liu CH, Zhang E, Wong GTF, Hyun S. Factors associated with depression, anxiety, and PTSD symptomatology during the COVID-19 pandemic: Clinical implications for US young adult mental health. Psychiatry Res. 2020;290: 113172. [DOI] [PMC free article] [PubMed] [Google Scholar]
+3.Ke G-N, Grajfoner D, Carter S, DeLima N, Khairudin R, Lau W-Y, et al. Psychological wellbeing and employability of retrenched workforce during COVID-19: A qualitative study exploring the mitigations for post pandemic recovery phase. Front Public Health. 2022;10: 907797. doi: 10.3389/fpubh.2022.907797 [DOI] [PMC free article] [PubMed] [Google Scholar]
+4.Ke GN, Grajfoner D, Wong RMM, Carter S, Khairudin R, Lau WY, et al. Building the positive emotion-resilience-coping efficacy model for COVID-19 pandemic. Front Psychol. 2022;13: 764811. doi: 10.3389/fpsyg.2022.764811 [DOI] [PMC free article] [PubMed] [Google Scholar]
+5.Khairulbahri M. Lessons learned from three Southeast Asian countries during the COVID-19 pandemic. J Policy Model. 2021;43: 1354–1364. doi: 10.1016/j.jpolmod.2021.09.002 [DOI] [PMC free article] [PubMed] [Google Scholar]
+6.Roy S, Saha M, Dhar B, Pandit S, Nasrin R. Geospatial analysis of COVID-19 lockdown effects on air quality in the South and Southeast Asian region. Science of the Total Environment. 2021;756: 144009. doi: 10.1016/j.scitotenv.2020.144009 [DOI] [PMC free article] [PubMed] [Google Scholar]
+7.Kandari R, Kumar A. COVID-19 pandemic lockdown: effects on the air quality of South Asia. Environmental Sustainability. 2021;4: 543–549. [DOI] [PubMed] [Google Scholar]
+8.Wang C, Wang D, Abbas J, Duan K, Mubeen R. Global financial crisis, smart lockdown strategies, and the COVID-19 spillover impacts: A global perspective implications from Southeast Asia. Front Psychiatry. 2021;12: 643783. doi: 10.3389/fpsyt.2021.643783 [DOI] [PMC free article] [PubMed] [Google Scholar]
+9.Office PM. Restriction Movement Order. In: Prime Minister’s Office. 2020. [Google Scholar]
+10.Tang KHD. Movement control as an effective measure against Covid-19 spread in Malaysia: an overview. J Public Health (Bangkok). 2020; 1–4. doi: 10.1007/s10389-020-01316-w [DOI] [PMC free article] [PubMed] [Google Scholar]
+11.Gill BS, Jayaraj VJ, Singh S, Mohd Ghazali S, Cheong YL, Md Iderus NH, et al. Modelling the effectiveness of epidemic control measures in preventing the transmission of COVID-19 in Malaysia. Int J Environ Res Public Health. 2020;17: 5509. doi: 10.3390/ijerph17155509 [DOI] [PMC free article] [PubMed] [Google Scholar]
+12.Yunus A, Yusof TA. Over half a million M40 households are now B40, says PM. New Straits Times. 21 Sep 2021. [Google Scholar]
+13.Grajfoner D, Ke GN, Wong RMM. The effect of pets on human mental health and wellbeing during COVID-19 lockdown in Malaysia. Animals. 2021;11: 2689. doi: 10.3390/ani11092689 [DOI] [PMC free article] [PubMed] [Google Scholar]
+14.Ke GN, Utama I, Wagner T, Sweetman AK, Arshad A, Nath TK. Influence of mangrove forests on subjective and psychological wellbeing of coastal communities: Case studies in Malaysia and Indonesia. Front Public Health. 2022;10: 898276. doi: 10.3389/fpubh.2022.898276 [DOI] [PMC free article] [PubMed] [Google Scholar]
+15.Wan YS, Kan G. IDEAS calls for greater social protection for vulnerable Malaysians. 2020. [Google Scholar]
+16.Shah AUM, Safri SNA, Thevadas R, Noordin NK, Abd Rahman A, Sekawi Z, et al. COVID-19 outbreak in Malaysia: Actions taken by the Malaysian government. International Journal of Infectious Diseases. 2020;97: 108–116. doi: 10.1016/j.ijid.2020.05.093 [DOI] [PMC free article] [PubMed] [Google Scholar]
+17.Jalil MF, Ali A, Ahmed Z, Kamarulzaman R. The mediating effect of coping strategies between psychological capital and small tourism organization resilience: insights from the COVID-19 pandemic, Malaysia. Front Psychol. 2021;12: 766528. doi: 10.3389/fpsyg.2021.766528 [DOI] [PMC free article] [PubMed] [Google Scholar]
+18.Rahman MM, Ang AL, Lakshmi N, Chakraverty KH, Shafiqah D, Selvarajoo K. Psychological impact of Covid-19 pandemic on mental health among medical students in Malaysia. Malaysian Journal of Medicine & Health Sciences. 2021;17. [Google Scholar]
+19.Yassin AA, Razak NA, Saeed MA, Al-Maliki MAA, Al-Habies FA. Psychological impact of the COVID-19 pandemic on local and international students in Malaysian universities. Asian Education and Development Studies. 2021;10: 574–586. [Google Scholar]
+20.Sulaiman AH, Ahmad Sabki Z, Jaafa MJ, Francis B, Razali KA, Juares Rizal A, et al. Development of a remote psychological first aid protocol for healthcare workers following the COVID-19 pandemic in a university teaching hospital, Malaysia. Healthcare. MDPI; 2020. p. 228. [DOI] [PMC free article] [PubMed] [Google Scholar]
+21.Woon LS-C, Mansor NS, Mohamad MA, Teoh SH, Leong Bin Abdullah MFI. Quality of life and its predictive factors among healthcare workers after the end of a movement lockdown: the salient roles of COVID-19 stressors, psychological experience, and social support. Front Psychol. 2021;12: 652326. doi: 10.3389/fpsyg.2021.652326 [DOI] [PMC free article] [PubMed] [Google Scholar]
+22.Subhas N, Pang NT-P, Chua W-C, Kamu A, Ho C-M, David IS, et al. The cross-sectional relations of COVID-19 fear and stress to psychological distress among frontline healthcare workers in Selangor, Malaysia. Int J Environ Res Public Health. 2021;18: 10182. doi: 10.3390/ijerph181910182 [DOI] [PMC free article] [PubMed] [Google Scholar]
+23.Zainudeen ZT, Abd Hamid IJ, Azizuddin MNA, Bakar FFA, Sany S, Zolkepli IA, et al. Psychosocial impact of COVID-19 pandemic on Malaysian families: a cross-sectional study. BMJ Open. 2021;11: e050523. doi: 10.1136/bmjopen-2021-050523 [DOI] [PMC free article] [PubMed] [Google Scholar]
+24.Bahar Moni AS, Abdullah S, Bin Abdullah MFIL, Kabir MS, Alif SM, Sultana F, et al. Psychological distress, fear and coping among Malaysians during the COVID-19 pandemic. PLoS One. 2021;16: e0257304. doi: 10.1371/journal.pone.0257304 [DOI] [PMC free article] [PubMed] [Google Scholar]
+25.Fong HX, Cornish K, Kirk H, Ilias K, Shaikh MF, Golden KJ. Impact of the COVID-19 lockdown in Malaysia: An examination of the psychological well-being of parent-child dyads and child behavior in families with children on the autism spectrum. Front Psychiatry. 2021;12: 733905. doi: 10.3389/fpsyt.2021.733905 [DOI] [PMC free article] [PubMed] [Google Scholar]
+26.United Nations. United Nations E-Government Survey 2020. 2020. Available: https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2020-Survey/2020%20UN%20E-Government%20Survey%20(Full%20Report).pdf [Google Scholar]
+27.Osman MM, Bakri NIM, Bachok S, Ibrahim M, Mohamed MZ. Assessing social welfare department service delivery system towards vulnerable and disadvantages group in Malaysia: case study of Perak. Procedia Environ Sci. 2015;28: 418–426. [Google Scholar]
+28.Nungsari M, Yin CH, Fong N, Pillai V. Understanding the impact of the COVID-19 outbreak on vulnerable populations in Malaysia through an ethical lens: A study of non-state actors involved in aid distribution. Wellcome Open Res. 2021;6. [DOI] [PMC free article] [PubMed] [Google Scholar]
+29.Malaysia D of S. Statistics on Household Income Estimates and Incidence of Poverty. 2021. [Google Scholar]
+30.Purnamasari R, Ahmad ZA. Malaysian households during COVID-19: Fading resilience, rising vulnerability. In: World Bank Blogs. 2021. [Google Scholar]
+31.Gausman J, Langer A. Sex and gender disparities in the COVID-19 pandemic. J Womens Health. 2020;29: 465–466. doi: 10.1089/jwh.2020.8472 [DOI] [PubMed] [Google Scholar]
+32.Organisation WH. Addressing violence against children, women and older people during the covid-19 pandemic: Key actions. 2020. [Google Scholar]
+33.Cheng C. Pushed to the margins: The unequal impacts of the COVID-19 crisis on marginalised Malaysian workers. ISIS. 2011;2010: 2005–2009. [Google Scholar]
+34.Balakrishnan V, Mohamad Nor A, Zainal NZ. COVID-19 nationwide lockdown and it’s emotional stressors among Malaysian women. Asia Pac J Soc Work Dev. 2021;31: 236–249. [Google Scholar]
+35.Pfordten D. INTERACTIVE: In the midst of the pandemic, many Malaysians are falling out of the labour force. The Star. 27 Feb 2021. Available: https://www.thestar.com.my/news/nation/2021/02/27/interactive-in-the-midst-of-the-pandemic-many-malaysians-are-falling-out-of-the-labour-force [Google Scholar]
+36.SUHAKAM. SUHAKAM Matrix on Issues and Recommendations on COVID-19 and Women. [Google Scholar]
+37.Mukundan SR. Care Work in the Time of COVID-19: Women’s Unpaid Care Burden in Four Charts. In: UNDP. 2020. [Google Scholar]
+38.Sukumaran T. Malaysian women, children bear brunt of coronavirus lockdown. South China Morning Post. 14 Dec 2020. Available: https://www.scmp.com/week-asia/health-environment/article/3113852/malaysian-women-children-bear-brunt-coronavirus [Google Scholar]
+39.Organisation WA. WAO joins Selangor Government taskforce to address domestic violence during the MCO period. 2020. [Google Scholar]
+40.Neil J. Domestic violence and COVID 19. Australian Journal for General Practitioners. 2020;49. [DOI] [PubMed] [Google Scholar]
+41.Yong SS, Sia JK-M. COVID-19 and social wellbeing in Malaysia: A case study. Current Psychology. 2023;42: 9577–9591. doi: 10.1007/s12144-021-02290-6 [DOI] [PMC free article] [PubMed] [Google Scholar]
+42.Qistina TN. Community responses to Gendered issues during Malaysia’s fight against COVID-19. 2020. Available: https://blogs.lse.ac.uk/seac/2020/12/14/community-responses-to-gendered-issues-during-malaysias-fight-against-covid-19/ [Google Scholar]
+43.Hirschman C. Gender, the status of women, and family structure in Malaysia. Malaysian Journal of Economic Studies. 2016;53: 33–50. [Google Scholar]
+44.Bunyan J. Senior minister: Only one representative from family allowed out to purchase daily essentials. Malay Mail. 21 Mar 2020. [Google Scholar]
+45.McLaren HJ, Wong KR, Nguyen KN, Mahamadachchi KND. Covid-19 and women’s triple burden: Vignettes from Sri Lanka, Malaysia, Vietnam and Australia. Soc Sci. 2020;9: 87. [Google Scholar]
+46.Kaur S. The coronavirus pandemic in Malaysia: A commentary. Psychol Trauma. 2020;12: 482. doi: 10.1037/tra0000897 [DOI] [PubMed] [Google Scholar]
+47.Sundarasen S, Chinna K, Kamaludin K, Nurunnabi M, Baloch GM, Khoshaim HB, et al. Psychological impact of COVID-19 and lockdown among university students in Malaysia: Implications and policy recommendations. Int J Environ Res Public Health. 2020;17: 6206. doi: 10.3390/ijerph17176206 [DOI] [PMC free article] [PubMed] [Google Scholar]
+48.Ryan NE, El Ayadi AM. A call for a gender-responsive, intersectional approach to address COVID-19. Glob Public Health. 2020;15: 1404–1412. doi: 10.1080/17441692.2020.1791214 [DOI] [PubMed] [Google Scholar]
+49.Rudnicka E, Napierała P, Podfigurna A, Męczekalski B, Smolarczyk R, Grymowicz M. The World Health Organization (WHO) approach to healthy ageing. Maturitas. 2020;139: 6–11. doi: 10.1016/j.maturitas.2020.05.018 [DOI] [PMC free article] [PubMed] [Google Scholar]
+50.Vahia I V, Jeste D V, Reynolds CF. Older adults and the mental health effects of COVID-19. JAMA. 2020;324: 2253–2254. doi: 10.1001/jama.2020.21753 [DOI] [PubMed] [Google Scholar]
+51.Ingram J, Maciejewski G, Hand CJ. Changes in diet, sleep, and physical activity are associated with differences in negative mood during COVID-19 lockdown. Front Psychol. 2020;11: 588604. doi: 10.3389/fpsyg.2020.588604 [DOI] [PMC free article] [PubMed] [Google Scholar]
+52.Okamura T, Sugiyama M, Inagaki H, Miyamae F, Ura C, Sakuma N, et al. Depressed mood and frailty among older people in Tokyo during the COVID‐19 pandemic. Psychogeriatrics. 2021;21: 892–901. doi: 10.1111/psyg.12764 [DOI] [PMC free article] [PubMed] [Google Scholar]
+53.Nations U. World Population Ageing 2013. 2013. Available: https://www.un.org/en/development/desa/population/publications/pdf/ageing/WorldPopulationAgeing2013.pdf [Google Scholar]
+54.Bank W. A Silver Lining: Productive and Inclusive Aging for Malaysia. 2020. [Google Scholar]
+55.Shah SA. Malaysia’s social protection system not ready for ageing-nation status. The Malaysian Reserve. 26 Jul 2021. Available: https://themalaysianreserve.com/2021/07/26/malaysias-social-protection-system-not-ready-for-ageing-nation-status/ [Google Scholar]
+56.Krzyminiewska G. Financial services market in an ageing society. Challenges for the development of silver economy. Effective Investments on Capital Markets: 10th Capital Market Effective Investments Conference (CMEI 2018). Springer; 2019. pp. 111–120. [Google Scholar]
+57.Cheng MY, Low SK, Pheh K-S. An Age-based Analysis of the Perceptions of Ageing and Successful Ageing in Malaysia. Makara Human Behavior Studies in Asia. 25: 170–181. [Google Scholar]
+58.Casey B, Oxley H, Whitehouse E, Antolin P, Duval R, Leibfritz W. Policies for an ageing society: recent measures and areas for further reform. 2003. [Google Scholar]
+59.Smith BJ, Lim MH. How the COVID-19 pandemic is focusing attention on loneliness and social isolation. Public Health Res Pract. 2020;30: 3022008. doi: 10.17061/phrp3022008 [DOI] [PubMed] [Google Scholar]
+60.Novotney A. The risks of social isolation, American Psychological Association, 50 (5): 32. Retrieved July. 2019;22: 2020. [Google Scholar]
+61.Webb L. Covid‐19 lockdown: a perfect storm for older people’s mental health. J Psychiatr Ment Health Nurs. 2021;28: 300. doi: 10.1111/jpm.12644 [DOI] [PMC free article] [PubMed] [Google Scholar]
+62.Donovan NJ, Blazer D. Social isolation and loneliness in older adults: review and commentary of a national academies report. The American Journal of Geriatric Psychiatry. 2020;28: 1233–1244. doi: 10.1016/j.jagp.2020.08.005 [DOI] [PMC free article] [PubMed] [Google Scholar]
+63.Shanmugam H, Juhari JA, Nair P, Ken CS, Guan NC. Impacts of COVID-19 pandemic on mental health in Malaysia: a single thread of hope. Malaysian Journal of Psychiatry. 2020;29: 78–84. [Google Scholar]
+64.Jordan J V. Relational–cultural theory: The power of connection to transform our lives. The Journal of Humanistic Counseling. 2017;56: 228–243. [Google Scholar]
+65.Comstock DL, Hammer TR, Strentzsch J, Cannon K, Parsons J, II GS. Relational‐cultural theory: A framework for bridging relational, multicultural, and social justice competencies. Journal of Counseling & Development. 2008;86: 279–287. [Google Scholar]
+66.Jordan J V, Hartling LM. The development of relational-cultural theory. Retrieved April. 2008;20: 2008. [Google Scholar]
+67.Guy B, Arthur B. Academic motherhood during COVID‐19: Navigating our dual roles as educators and mothers. Gend Work Organ. 2020;27: 887–899. doi: 10.1111/gwao.12493 [DOI] [PMC free article] [PubMed] [Google Scholar]
+68.Duffey T, Haberstroh S. Introduction to crisis and trauma counseling. John Wiley & Sons; 2020. [Google Scholar]
+69.Hossfeld B. Developing friendships and peer relationships: Building social support with the Girls Circle program. Handbook of prevention and intervention programs for adolescent girls. 2007; 42–80. [Google Scholar]
+70.Bronfenbrenner U, Morris PA. The ecology of developmental processes. 1998. [Google Scholar]
+71.Poirel E, Yvon F. School principals’ emotional coping process. Canadian Journal of Education/Revue canadienne de l’éducation. 2014;37: 1–23. [Google Scholar]
+72.Scharpf F, Kaltenbach E, Nickerson A, Hecker T. A systematic review of socio-ecological factors contributing to risk and protection of the mental health of refugee children and adolescents. Clin Psychol Rev. 2021;83: 101930. doi: 10.1016/j.cpr.2020.101930 [DOI] [PubMed] [Google Scholar]
+73.Mamdouh HM, Ismail HM, Kharboush IF, Tawfik MM, El Sharkawy OG, Abdel Baky M, et al. Prevalence and risk factors for spousal violence among women attending health care centres in Alexandria, Egypt. EMHJ-Eastern Mediterranean Health Journal, 18 (11), 1118–1126, 2012. 2012. doi: 10.26719/2012.18.11.1118 [DOI] [PubMed] [Google Scholar]
+74.McKee N, Manoncourt E, Chin S, Carnegie R. Involving people. Evolving Behavior. 2000. [Google Scholar]
+75.Lazarus RS, Folkman S. Stress, appraisal, and coping. Springer publishing company; 1984. [Google Scholar]
+76.Lazarus RS. Stress and emotion: A new synthesis. Springer publishing company; 2006. [Google Scholar]
+77.Austenfeld JL, Stanton AL. Coping through emotional approach: a new look at emotion, coping, and health‐related outcomes. J Pers. 2004;72: 1335–1364. doi: 10.1111/j.1467-6494.2004.00299.x [DOI] [PubMed] [Google Scholar]
+78.Lazarus RS. Cognition and motivation in emotion. American psychologist. 1991;46: 352. doi: 10.1037//0003-066x.46.4.352 [DOI] [PubMed] [Google Scholar]
+79.Lazarus RS. Why we should think of stress as a subset of emotion. 1993. [Google Scholar]
+80.Power MJ, Dalgleish T. Cognition and emotion: From order to disorder (2e éd.). New York, NY: Psychology Press, Taylor and Francis Group; 2008. [Google Scholar]
+81.Smith JA. Qualitative psychology: A practical guide to research methods. Qualitative psychology. 2015; 1–312. [Google Scholar]
+82.Eatough V, Smith JA, Shaw R. Women, anger, and aggression: An interpretative phenomenological analysis. J Interpers Violence. 2008;23: 1767–1799. doi: 10.1177/0886260508314932 [DOI] [PubMed] [Google Scholar]
+83.Harun NH. MCO: 10km-radius limit to travel to buy food, necessities. New Straits Times. 1 Apr 2020. [Google Scholar]
+84.Ryan RM, Deci EL. Intrinsic and extrinsic motivations: Classic definitions and new directions. Contemp Educ Psychol. 2000;25: 54–67. doi: 10.1006/ceps.1999.1020 [DOI] [PubMed] [Google Scholar]
+85.Hawryluck L, Gold WL, Robinson S, Pogorski S, Galea S, Styra R. SARS control and psychological effects of quarantine, Toronto, Canada. Emerg Infect Dis. 2004;10: 1206. doi: 10.3201/eid1007.030703 [DOI] [PMC free article] [PubMed] [Google Scholar]
+86.Yoon M-K, Kim S-Y, Ko H-S, Lee M-S. System effectiveness of detection, brief intervention and refer to treatment for the people with post-traumatic emotional distress by MERS: a case report of community-based proactive intervention in South Korea. Int J Ment Health Syst. 2016;10: 1–5. [DOI] [PMC free article] [PubMed] [Google Scholar]
+87.Shevlin M, McBride O, Murphy J, Miller JG, Hartman TK, Levita L, et al. Anxiety, depression, traumatic stress and COVID-19-related anxiety in the UK general population during the COVID-19 pandemic. BJPsych Open. 2020;6: e125. doi: 10.1192/bjo.2020.109 [DOI] [PMC free article] [PubMed] [Google Scholar]
+88.Kazmi SSH, Hasan DK, Talib S, Saxena S. COVID-19 and lockdown: A study on the impact on mental health. Available at SSRN 3577515. 2020. [Google Scholar]
+89.Othman N. Depression, anxiety, and stress in the time of COVID-19 pandemic in Kurdistan region, Iraq. Kurdistan Journal of Applied Research. 2020; 37–44. [Google Scholar]
+90.Hyland P, Shevlin M, McBride O, Murphy J, Karatzias T, Bentall RP, et al. Anxiety and depression in the Republic of Ireland during the COVID‐19 pandemic. Acta Psychiatr Scand. 2020;142: 249–256. doi: 10.1111/acps.13219 [DOI] [PubMed] [Google Scholar]
+91.Choi KR, Heilemann M V, Fauer A, Mead M. A second pandemic: Mental health spillover from the novel coronavirus (COVID-19). J Am Psychiatr Nurses Assoc. 2020;26: 340–343. doi: 10.1177/1078390320919803 [DOI] [PubMed] [Google Scholar]
+92.Vatansever D, Wang S, Sahakian BJ. Covid-19 and promising solutions to combat symptoms of stress, anxiety and depression. Neuropsychopharmacology. 2021;46: 217. doi: 10.1038/s41386-020-00791-9 [DOI] [PMC free article] [PubMed] [Google Scholar]
+93.Usher K, Bhullar N, Durkin J, Gyamfi N, Jackson D. Family violence and COVID‐19: Increased vulnerability and reduced options for support. Int J Ment Health Nurs. 2020;29: 549. doi: 10.1111/inm.12735 [DOI] [PMC free article] [PubMed] [Google Scholar]
+94.Sharma A, Borah SB. Covid-19 and domestic violence: an indirect path to social and economic crisis. J Fam Violence. 2020; 1–7. doi: 10.1007/s10896-020-00188-8 [DOI] [PMC free article] [PubMed] [Google Scholar]
+95.Bradbury‐Jones C, Isham L. The pandemic paradox: The consequences of COVID‐19 on domestic violence. J Clin Nurs. 2020;29: 2047. doi: 10.1111/jocn.15296 [DOI] [PMC free article] [PubMed] [Google Scholar]
+96.Peterman A, Potts A, O’Donnell M, Thompson K, Shah N, Oertelt-Prigione S, et al. Pandemics and violence against women and children. Center for Global Development Washington, DC; 2020. [Google Scholar]
+97.Sánchez OR, Vale DB, Rodrigues L, Surita FG. Violence against women during the COVID‐19 pandemic: An integrative review. International Journal of Gynecology & Obstetrics. 2020;151: 180–187. doi: 10.1002/ijgo.13365 [DOI] [PMC free article] [PubMed] [Google Scholar]
+98.Bank W. COVID-19 to Plunge Global Economy into Worst Recession since World War II. [Google Scholar]
+99.Albers S, Rundshagen V. European airlines′ strategic responses to the COVID-19 pandemic (January-May, 2020). J Air Transp Manag. 2020;87: 101863. doi: 10.1016/j.jairtraman.2020.101863 [DOI] [PMC free article] [PubMed] [Google Scholar]
+100.Cheng Y, Jacobs JM. Urban custodians and hospitable citizens: citizenship and social actions at two liberal arts universities in Hong Kong and Shanghai. Space Polity. 2020;24: 12–29. [Google Scholar]
+101.King T, Hewitt B, Crammond B, Sutherland G, Maheen H, Kavanagh A. Reordering gender systems: can COVID-19 lead to improved gender equality and health? The Lancet. 2020;396: 80–81. doi: 10.1016/S0140-6736(20)31418-5 [DOI] [PMC free article] [PubMed] [Google Scholar]
+102.Ning ECY, Karubi NP. Gender Socialisation and its relation to women’s work and family conflict. Trends in Undergraduate Research. 2018;1: h11–18. [Google Scholar]
+103.Fortier N. COVID-19, gender inequality, and the responsibility of the state. International Journal of Wellbeing. 2020;10. [Google Scholar]
+104.Perveen A, Hamzah H, Ramlee F, Othman A, Minhad M. Mental health and coping response among Malaysian adults during COVID-19 pandemic movement control order. Journal of Critical Reviews. 2020;7: 653–660. [Google Scholar]
+105.OECD. Tackling the mental health impact of the COVID-19 crisis: An integrated, whole-of-society response. In: OECD Policy Responses to Coronavirus (COVID-19). 2021. [Google Scholar]
+106.Kaldi A, Salahshouri P. The investigation of social support’s effect on women empowerment. Journal of Iranian Social Development Studies. 2012;4: 7–22. [Google Scholar]
+107.Rana K, Ansari MA. Women Empowerment through Self Help Groups: A Study in North Himalayan State of India. Journal of Community Mobilization and Sustainable Development. 2019;14: 389–396. [Google Scholar]
+108.Kondal K. Women empowerment through self help groups in Andhra Pradesh, India. International Research Journal of Social Sciences. 2014;3: 13–16. [Google Scholar]
+109.Gorenko JA, Moran C, Flynn M, Dobson K, Konnert C. Social isolation and psychological distress among older adults related to COVID-19: a narrative review of remotely-delivered interventions and recommendations. Journal of Applied Gerontology. 2021;40: 3–13. doi: 10.1177/0733464820958550 [DOI] [PubMed] [Google Scholar]
+110.Wu B. Social isolation and loneliness among older adults in the context of COVID-19: a global challenge. Glob Health Res Policy. 2020;5: 27. doi: 10.1186/s41256-020-00154-3 [DOI] [PMC free article] [PubMed] [Google Scholar]
+111.Ayamany K. As life in Malaysia turns digital due to Covid-19, elderly may be left behind. Malay Mail. 24 Sep 2021. [Google Scholar]
+112.Yeoh A. CFM: Most Malaysians not happy with quality of Internet speed during MCO. The Star. 25 Sep 2020. [Google Scholar]
+113.Sumari M, Baharudin DF, Khalid NM, Ibrahim NH, Ahmed Tharbe IH. Family functioning in a collectivist culture of Malaysia: A qualitative study. The Family Journal. 2020;28: 396–402. [Google Scholar]
+114.Drageset J, Eide GE, Dysvik E, Furnes B, Hauge S. Loneliness, loss, and social support among cognitively intact older people with cancer, living in nursing homes–a mixed-methods study. Clin Interv Aging. 2015; 1529–1536. doi: 10.2147/CIA.S88404 [DOI] [PMC free article] [PubMed] [Google Scholar]
+115.Stanley M, Moyle W, Ballantyne A, Jaworski K, Corlis M, Oxlade D, et al. ‘Nowadays you don’t even see your neighbours’: loneliness in the everyday lives of older Australians. Health Soc Care Community. 2010;18: 407–414. doi: 10.1111/j.1365-2524.2010.00923.x [DOI] [PubMed] [Google Scholar]
+116.Finlay JM, Kobayashi LC. Social isolation and loneliness in later life: A parallel convergent mixed-methods case study of older adults and their residential contexts in the Minneapolis metropolitan area, USA. Soc Sci Med. 2018;208: 25–33. doi: 10.1016/j.socscimed.2018.05.010 [DOI] [PubMed] [Google Scholar]
+117.Tan MM, Su TT, Ting RS-K, Allotey P, Reidpath D. Religion and mental health among older adults: ethnic differences in Malaysia. Aging Ment Health. 2021;25: 2116–2123. doi: 10.1080/13607863.2020.1799939 [DOI] [PubMed] [Google Scholar]
+118.Foong HF, Hamid TA, Ibrahim R, Haron SA. The association between religious orientation and life satisfaction in older adults living with morbidity and multimorbidity: a gender perspective in Malaysia. Psychogeriatrics. 2020;20: 891–899. doi: 10.1111/psyg.12614 [DOI] [PubMed] [Google Scholar]
+119.Achour M, Ab Halim AB, Ali ARH, Sa’ari CZB, Al-Nahari AAAQ. Religiosity and subjective well-being towards a balanced civilization: a study among Muslim older adults in Malaysia. Journal of Al-Tamaddun. 2019;14: 153–165. [Google Scholar]
+120.Krause NM. Aging in the church: How social relationships affect health. Templeton Foundation Press; 2008. [Google Scholar]
+121.Chung CF, Pazim KH, Mansur K. Ageing population: Policies and programmes for older people in Malaysia. Asian Journal of Research in Education and Social Sciences. 2020;2: 92–96. [Google Scholar]
+122.Crisp DA, Windsor TD, Butterworth P, Anstey KJ. What are older adults seeking? Factors encouraging or discouraging retirement village living. Australas J Ageing. 2013;32: 163–170. doi: 10.1111/j.1741-6612.2012.00623.x [DOI] [PubMed] [Google Scholar]
+123.Gray A, Worlledge G. Addressing loneliness and isolation in retirement housing. Ageing Soc. 2018;38: 615–644. [Google Scholar]
+124.Evans S, Atkinson T, Darton R, Cameron A, Netten A, Smith R, et al. A community hub approach to older people’s housing. Qual Ageing Older Adults. 2017;18: 20–32. [Google Scholar]
+125.Hill PL, Lewis NA, Burrow AL. Purpose after retirement during COVID-19: Trying to find direction in retirement communities. The American Journal of Geriatric Psychiatry. 2020;28: 788. doi: 10.1016/j.jagp.2020.04.019 [DOI] [PMC free article] [PubMed] [Google Scholar]
+126.Commission MC and M. The Journey to Improve Digital Connectivity–Achieving fair and equal, quality Internet access for all. In: The Star. 2021. [Google Scholar]
+127.Mak WWS, Ng ISW, Wong CCY. Resilience: enhancing well-being through the positive cognitive triad. J Couns Psychol. 2011;58: 610. doi: 10.1037/a0025195 [DOI] [PubMed] [Google Scholar]
+128.Santos V, Paes F, Pereira V, Arias-Carrión O, Silva AC, Carta MG, et al. The role of positive emotion and contributions of positive psychology in depression treatment: systematic review. Clin Pract Epidemiol Ment Health. 2013;9: 221. doi: 10.2174/1745017901309010221 [DOI] [PMC free article] [PubMed] [Google Scholar]
+129.Mat Ruzlin AN, Chen XW, Yunus RM, Samsudin EZ, Selamat MI, Ismail Z. Promoting mental health during the COVID-19 pandemic: a hybrid, innovative approach in Malaysia. Front Public Health. 2021;9: 747953. doi: 10.3389/fpubh.2021.747953 [DOI] [PMC free article] [PubMed] [Google Scholar]
+130.Hoare I, Agu N, Falope O, Wesley CA, Coulter M. A multiple streams framework approach to access to domestic violence services in an indigenous community. Violence Against Women. 2022;28: 2080–2097. doi: 10.1177/10778012211030947 [DOI] [PubMed] [Google Scholar]
+131.Lau K. Masa says time for govt to focus on elevating and recognising position, contribution of women. New Straits Times. 8 Mar 2022. [Google Scholar]
+132.Lim W, Liang C, Assantachai P, Auyeung TW, Kang L, Lee W, et al. COVID‐19 and older people in Asia: Asian Working Group for Sarcopenia calls to action. Geriatr Gerontol Int. 2020;20: 547–558. [DOI] [PMC free article] [PubMed] [Google Scholar]
+133.Jaafar R, Daly KJ, Mishra A V. Challenges facing Malaysia pension scheme in an era of ageing population. Financ Res Lett. 2019;30: 334–340. [Google Scholar]
+134.Yerrakalva D, Yerrakalva D, Hajna S, Griffin S. Effects of mobile health app interventions on sedentary time, physical activity, and fitness in older adults: systematic review and meta-analysis. J Med Internet Res. 2019;21: e14343. doi: 10.2196/14343 [DOI] [PMC free article] [PubMed] [Google Scholar]
+135.Yousaf K, Mehmood Z, Saba T, Rehman A, Munshi AM, Alharbey R, et al. Mobile-health applications for the efficient delivery of health care facility to people with dementia (PwD) and support to their carers: a survey. Biomed Res Int. 2019;2019. doi: 10.1155/2019/7151475 [DOI] [PMC free article] [PubMed] [Google Scholar]
+136.Lee J-A, Choi M, Lee SA, Jiang N. Effective behavioral intervention strategies using mobile health applications for chronic disease management: a systematic review. BMC Med Inform Decis Mak. 2018;18: 1–18. [DOI] [PMC free article] [PubMed] [Google Scholar]
+137.García‐Camacha A, García‐Camacha I, Martínez‐Andrés M, Notario‐Pacheco B, Rodríguez‐Martín B. Pilot testing the effectiveness of the Healthy Ageing Supported by Internet and Community programme for promoting healthy lifestyles for people over 65 years of age. Scand J Caring Sci. 2020;34: 636–647. doi: 10.1111/scs.12765 [DOI] [PubMed] [Google Scholar]
+Associated Data
+
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+
+Supplementary Materials
+S1 Appendix. Interview questions.
+
+(DOCX)
+
+pone.0301009.s001.docx (19KB, docx)
+Data Availability Statement
+
+All relevant data are within the manuscript files.
+
+Articles from PLOS ONE are provided here courtesy of PLOS
+
+FOLLOW NCBI
+NCBI on X (formerly known as Twitter)
+NCBI on Facebook
+NCBI on LinkedIn
+NCBI on GitHub
+NCBI RSS feed
+
+Connect with NLM
+
+NLM on X (formerly known as Twitter)
+NLM on Facebook
+NLM on YouTube
+
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+ 
+ 
+ ----- 
+ Source link : https://pmc.ncbi.nlm.nih.gov/articles/PMC11023439/ 
+ ----- 

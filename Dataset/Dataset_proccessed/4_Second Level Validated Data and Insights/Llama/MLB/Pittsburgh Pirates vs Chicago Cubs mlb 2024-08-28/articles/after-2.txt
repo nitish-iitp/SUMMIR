@@ -1,0 +1,353 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Cubs
+68-66, 32-37 Away
+14
+Final
+Pirates
+62-71, 32-36 Home
+10
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Christian Bethancourt drives in 7 as Chicago Cubs rally past Pirates for 14-10 victory
+— Christian Bethancourt drove in seven runs, including a go-ahead two-run single in the ninth, as the Chicago Cubs rallied past the Pittsburgh Pirates 14-10 on Wednesday to sweep a three-game series.
+Aug 28, 2024, 09:37 pm - AP
+
+
+CHC
+
+
+PIT
+1	2	3	4	5	6	7	8	9	R	H	E
+1	2	0	0	0	0	2	3	6	14	16	1
+1	5	0	2	2	0	0	0	0	10	16	1
+WIN
+P. Hodge
+3-1
+2.0 IP, 1 H, 0 ER, 3 K, 1 BB
+LOSS
+D. Bednar
+3-7
+0.2 IP, 3 H, 5 ER, 0 K, 2 BB
+Scoring Summary
+INNING
+	CHC	PIT
+		1st	Bellinger singled to right, Happ scored.	1	0
+		1st	Reynolds homered to right center (429 feet).	1	1
+		2nd	Crow-Armstrong singled to center, Hoerner scored on error, Crow-Armstrong to third.	2	1
+		2nd	Bethancourt grounded out to shortstop, Crow-Armstrong scored.	3	1
+		2nd	Kiner-Falefa grounded out to first, Grandal scored, Triolo to third.	3	2
+		2nd	Reynolds singled to center, Triolo scored.	3	3
+		2nd	Tellez reached on infield single to shortstop, Reynolds scored and Cruz scored.	3	5
+		2nd	McKinney hit a ground rule double, Tellez scored, Joe to third.	3	6
+		4th	Joe homered to left (406 feet).	3	7
+		4th	Williams sacrificed to pitcher, McKinney scored, Grandal to second.	3	8
+		5th	Joe singled to left, Reynolds scored on error and Cruz scored on fielding error by left fielder Happ, Joe to second.	3	10
+		7th	Bethancourt homered to center (431 feet), Crow-Armstrong scored.	5	10
+		8th	Bethancourt doubled to left, Crow-Armstrong scored and Swanson scored.	7	10
+		8th	Happ singled to center, Bethancourt scored.	8	10
+		9th	Swanson grounded into fielder's choice to second, Bellinger scored, Hoerner out at second, Vázquez to third.	9	10
+		9th	Bethancourt singled to left, Swanson scored and Vázquez scored, Crow-Armstrong to second.	11	10
+		9th	Happ singled to center, Crow-Armstrong scored, Bethancourt to third.	12	10
+		9th	Tauchman singled to center, Bethancourt scored, Happ to third.	13	10
+		9th	Suzuki singled to center, Happ scored, Tauchman to third.	14	10
+Full Play-By-Play
+Cubs
+Pirates
+HITTERS	H-AB	R	HR	RBI	AVG
+
+I. Happ
+LF
+	3-4	2	0	2	.241
+
+M. Busch
+1B
+	0-4	0	0	0	.251
+
+P. Wisdom
+PH
+	0-0	0	0	0	.200
+
+M. Tauchman
+PH-RF
+	1-2	0	0	1	.247
+
+S. Suzuki
+DH
+	2-5	0	0	1	.278
+
+C. Bellinger
+RF-1B
+	1-6	1	0	1	.267
+
+I. Paredes
+3B
+	1-4	0	0	0	.158
+
+L. Vazquez
+PR-3B
+	0-0	1	0	0	.000
+
+N. Hoerner
+2B
+	1-4	1	0	0	.255
+
+D. Swanson
+SS
+	0-4	2	0	1	.227
+
+P. Crow-Armstrong
+CF
+	4-4	4	0	1	.233
+
+C. Bethancourt
+C
+	3-5	3	1	7	.407
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+K. Hendricks
+	1.2	8	6	3	2	70-38	6.75
+
+E. Roberts
+	1.1	3	2	1	1	29-18	3.14
+
+D. Smyly
+	2.0	3	1	0	5	27-21	2.91
+
+T. Miller
+	1.0	0	0	0	2	15-10	1.64
+
+D. Palencia
+	1.0	1	0	3	1	25-11	7.11
+
+P. Hodge
+	2.0	1	0	1	3	36-21	1.85
+HITTERS	H-AB	R	HR	RBI	AVG
+
+I. Kiner-Falefa
+SS
+	0-5	0	0	1	.222
+
+B. Reynolds
+DH
+	3-5	3	1	2	.282
+
+O. Cruz
+CF
+	2-5	2	0	0	.273
+
+R. Tellez
+1B
+	3-5	1	0	2	.253
+
+M. Taylor
+LF
+	0-1	0	0	0	.193
+
+C. Joe
+RF-1B
+	3-4	1	1	2	.237
+
+B. McKinney
+LF-RF
+	1-4	1	0	1	.263
+
+Y. Grandal
+C
+	1-2	1	0	0	.213
+
+H. Davis
+C
+	0-1	0	0	0	.154
+
+J. Triolo
+3B
+	2-5	1	0	0	.203
+
+A. Williams
+2B
+	1-4	0	0	1	.213
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+P. Skenes
+	5.0	5	2	1	6	82-52	2.23
+
+K. Nicolas
+	1.1	2	2	3	1	37-18	3.38
+
+A. Chapman
+	1.0	3	3	1	1	27-19	3.55
+
+D. Santana
+	0.2	0	0	0	0	2-2	4.68
+
+D. Bednar
+	0.2	3	5	2	0	28-15	6.32
+
+J. Beeks
+	0.1	3	1	0	0	14-7	4.25
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Chicago Cubs (68-66, 32-37 Away)
+Kyle Hendricks (4-12, 5.92)
+o8.5
+-130
++145
+o8.5
++105
++1.5
+-145
+Pittsburgh Pirates (62-71, 32-36 Home)
+Paul Skenes (11-3, 1.96)
+-175
+ML
+-175
+u8.5
+-125
+-1.5
++120
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+CUBS
+PIRATES
+CHC 100
+%
+CHC 14PIT 10
+
+Bottom 9th
+McKinney struck out swinging.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+CHC
+PIT
+Hits
+16
+16
+Home Runs
+1
+2
+Total Bases
+21
+25
+Runners LOB
+8
+14
+Full Team Stats
+Regular Season Series
+Current Series
+CHC win 3-0
+Cubs
+18
+Pirates
+8
+Game 1
+8/26
+Final
+Cubs
+9
+Pirates
+5
+Game 2
+8/27
+Final
+Cubs
+14
+Pirates
+10
+Game 3
+8/28
+Final
+Game Information
+PNC Park
+4:35 PM, August 28, 2024
+Pittsburgh, Pennsylvania
+Attendance: 12,660
+Game Time:
+3:37
+Umpires:
+Home Plate Umpire - Edwin Moscoso
+First Base Umpire - Vic Carapazza
+Second Base Umpire - Scott Barry
+Third Base Umpire - Adam Hamari
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570462/cubs-pirates 
+ ----- 

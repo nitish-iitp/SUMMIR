@@ -1,0 +1,143 @@
+Search
+Toggle navigation
+Newsroom
+Newsroom  News  Blog: Understanding the Role and Impact of Digitally Controlled Oscillators...
+Understanding the Role and Impact of Digitally Controlled Oscillators in Modern Electronics
+MARCH 22, 2024
+|
+by
+Deepak Tripathi
+|
+5 MIN READ
+Image
+
+Whether it’s the coordination of international air traffic or operating broadcasting or telecom equipment, if electronic systems don’t meet performance targets and operate precisely and reliably through time, you’ve got a problem. The challenges can extend into interconnected systems downstream, potentially causing operational malfunctions or outages. For electronic systems to run smoothly, you’ve got to get your timing right. But how?
+
+What Is a Digitally Controlled Oscillator?
+
+Digitally controlled oscillators (DCOs) can help you overcome timing challenges in advanced applications, but to understand DCOs, you need to first understand oscillators. Oscillators use waveforms at a precise frequency, providing a timing reference to the system. They are important for optimizing the flow of data and system performance. DCOs are a category of oscillator that control oscillation frequency output through an input signal, specifically a phase-locked loop (PLL), or circuit that continually adjusts to the input frequency. They are used for frequency synthesis, signal modulation or pulse generation.
+
+DCOs allow the frequency to be tuned in-system during operation. They enable users to program output frequency to pull frequency, offering designers great flexibility. This article serves as a refresher on DCO capabilities, shedding light on the importance of DCOs and their application in electronic devices.
+
+What Is the Difference Between a DCO and a VCXO?
+
+DCOs are similar to their analog counterpart, the voltage-controlled oscillator (VCXO), but instead of analog input signals, they use digital input signals via an I2C serial communications bus or serial peripheral interface (SPI) to drive the voltage pin.
+
+Relative to the analog-driven VCXOs, digitally driven DCO benefits include:
+
+Finer frequency resolution to minimize accumulated time error, critical for synchronizing timing with greater precision, as low as 5E-12.
+Lower system cost because DCOs don’t need a digital-to-analog converter (DAC) when operating across a serial interface. This reduces the number of components and the board space.
+Lower noise in the output signal reduces frequency deviations. A VCXO pin as well as the signal routing trace is vulnerable to noise coupling from the system. Because DCO frequency control is performed over a digital interface, they do not suffer from analog noise coupling. 
+Perfectly linear frequency pull improves the dynamic performance in closed-loop operations.
+Extremely wide pull range of up to ±3200 pulse position modulation (ppm) can be achieved with a fractional feedback divider in the PLL, eliminating any pull non-linearity.
+Digitally Controlled Oscillators Are Used in a Variety of Timing Devices
+
+While different categories of oscillators are similar in their function, they differ in how they get the job done. In addition to DCXOs and VCXOs, temperature-controlled oscillators (TCXOs) use a circuit to compensate for temperature variations that could impact frequency stability. Oven-controlled oscillators (OCXOs) manage frequency by maintaining a nearly constant temperature despite fluctuating ambient temperatures, similar to the concept of preheating an oven. Choosing the right oscillator depends on your unique timing needs and the target application. But what if you could have the best of all worlds? Even beyond the core functioning of an oscillator, a device can have different modes of operation that encompass the benefits of other oscillator categories. In fact, some SiTime products support up to three modes of operation. This kind of framework expands from oscillators into other SiTime timing products. In fact, SiTime clock generators, jitter cleaners and network synchronizers can contain DCO modes of operation.
+
+Image
+
+SiTime products, including TCXOs, OCXOs and clocks, that support up to three modes of operation, including DCO capabilities.
+
+ 
+
+ 
+
+Image
+
+Example of SiT95314, Quad PLL, 4-output Jitter Cleaner with DCO mode.
+
+Why DCOs Are Important: The SiTime Advantage
+
+Because timing is the heartbeat of an electronic system, the ability to adjust frequency with pinpoint accuracy and low noise is invaluable. This precision impacts everything from data transmission in communication systems to the synchronization of operations in complex electronic devices. SiTime DCOs and the DCO capabilities across multiple product categories provide key benefits for today’s systems that require dynamic frequency control. They deliver low-noise timing precision that enables technological advancement. In your journey to push the boundaries of what's possible, understanding and leveraging the precision of DCOs will play a crucial role in application success.
+
+Related Blog
+
+Product Spotlight: SiTime Complete and Differentiated Clock Portfolio Now Available
+
+ 
+
+Tags
+Technology |
+Oscillators
+
+How can we help you?
+
+Contact Us
+Request Samples
+Share and Follow SiTime
+Subscribe for News
+More Articles
+DECEMBER 19, 2024
+The Story of Timekeeping: Measuring Time in Ancient Civilizations (Part 1 of 3)
+READ MORE
+5 MIN READ
+DECEMBER 12, 2024
+Getting Your Game On—Precision Timing from Kick-Off to Final Touchdown
+READ MORE
+6 MIN READ
+SOLUTIONS
+Aerospace & Defense
+Automotive
+Communications & Enterprise
+Consumer
+Industrial
+IoT
+Medical
+Mobile
+	PRODUCTS
+Jitter Cleaners/Network Synchronizers
+Clock Generators
+Clock Buffers
+MHz Oscillators
+Programmable OCXOs
+Precision MHz Super-TCXOs
+Ruggedized Oscillators
+32.768 kHz Oscillators
+µPower Oscillators 1 Hz - 26 MHz
+Resonators
+	SUPPORT
+Resource Library
+Development Tools
+Quality
+Timing Essentials Learning Hub
+Find Products
+Cross Reference
+Part Number Generator
+Part Number Decoder
+Parametric Search
+FAQs
+Glossary
+Find a Local Sales Office
+	COMPANY
+About
+Innovations
+Careers
+News
+Leadership
+Culture
+Environmental, Social & Governance (ESG)
+Awards
+Contact Us
+	INVESTORS
+Stock Information
+Press Releases
+Events & Presentations
+Financial Information
+Corporate Governance=
+Environmental, Social & Governance (ESG)
+Investor Resources
+Connect with Us
+(408) 328-4400
+Subscribe for News
+
+© 2024 SiTime Corp. All Rights Reserved.
+
+ Privacy Policy Terms of Use Terms of Sale Legal
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookie Notice
+Reject All Accept All Cookies
+Cookies Settings
+ 
+ 
+ ----- 
+ Source link : https://www.sitime.com/company/newsroom/articles/understanding-role-and-impact-digitally-controlled-oscillators-modern?srsltid=AfmBOoo48vJatMdQTS96yTy5JGD6GqO3cHM6ZiOegvAuEbvwxESzNY2p 
+ ----- 

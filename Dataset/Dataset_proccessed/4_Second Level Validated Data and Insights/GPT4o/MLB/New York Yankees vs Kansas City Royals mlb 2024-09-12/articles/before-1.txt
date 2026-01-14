@@ -1,0 +1,343 @@
+Skip to content
+HOME
+ 
+ABOUT
+ABOUT THE ROYALS REPORTER
+ 
+CONTACT
+ 
+ROYALS PROSPECT LISTS
+2024
+ 
+2023
+ 
+2022
+ 
+2021
+ 
+2020
+ 
+SPECIAL SERIES AND PROJECTS
+THE AFRICAN-AMERICAN ROYALS PROJECT
+ 
+THE EASTER ROYALS SERIES
+ 
+THE HALL OF NOT FORGOTTEN
+ 
+ROYALS CITY LIST
+ 
+THE ROYALS WORLD SERIES PROJECT
+ 
+FARM TO FOUNTAINS
+THE ROYALS REPORTER
+Baseball; Sabermetrics; Kansas City
+Seth Lugo is Solidifying His AL Cy Young Case
+
+After blowing a 4-3 lead on Monday, the Royals returned to Yankee Stadium and shut out the Bronx Bombers on Tuesday in a 5-0 win.
+
+Seth Lugo was the main star of this Royals squad on Tuesday night, as he put up one of the best performances of this season and perhaps his career.
+
+Shut-down Seth. pic.twitter.com/VAS6MBxsce
+
+— Kansas City Royals (@Royals) September 11, 2024
+
+Lugo kept a juggernaut Yankees lineup in check through seven innings of work on the mound. He set the tone in the first inning as he not only retired Juan Soto and Aaron Judge but also struck them out quickly, which Brady Singer and the Royals bullpen could not do on Monday night.
+
+Seth Lugo's 2Ks in the 1st. pic.twitter.com/6WbuN37jNc
+
+— Rob Friedman (@PitchingNinja) September 10, 2024
+
+The shutout performance boosted Lugo’s record to 16-8 for the season. He also improved his ERA to 2.94 and WHIP to 1.09 in 193 IP. After throwing a career-high 146.1 IP last season, Lugo has thrown 46.9 more innings this season and seems destined to easily cross the 200 IP threshold by the conclusion of the 2024 season.
+
+Despite the boost in workload in Kansas City, he has not slowed down, especially in September. Lugo has a 0.64 ERA, 0.71 WHIP, 14 strikeouts, and only one walk and run allowed in 14 IP in two September outings. Safe to say, it’s likely that he will finish with an ERA better than his 3.57 mark in 2023.
+
+However, with a 4.0 fWAR entering Tuesday’s start, is he still running for the AL Cy Young award?
+
+Tonight against the Yankees should’ve solidified his candidacy.
+
+A Look at His Dominance of the Yankees on Tuesday
+
+Lugo was sharp in this one, utilizing all the pitches in his arsenal to succeed against an intimidating Yankees lineup.
+
+For pitchers to succeed against the Yankees in Yankee Stadium, they need to be able to limit hard hits and maximize the called and swinging strikes. Lugo did precisely that based on his exit velocity and CSW data via Savant.
+
+Lugo only allowed an 82.9 average exit velocity on batted balls, and he generated a CSW of 38% overall on the nine pitches he threw on Tuesday night. That is not just a recipe for success but dominance. Lugo was particularly dominant with his cutter, curveball, and four-seamer. They were his most-thrown pitches and most effective offerings on a CSW end.
+
+Here’s a look at his high-spin curveball generating a swinging strikeout of Jazz Chisholm Jr. in the 7th inning to end his outing against the Yankees.
+
+Seth Lugo, Painted 93mph Back Door Two Seamer. 
+
+9th K pic.twitter.com/I0exaASSDW
+
+— Rob Friedman (@PitchingNinja) September 11, 2024
+
+What makes Lugo so tough for hitters is that he throws so many different pitches that it’s challenging to prepare for him. So many pitches look similar, which can throw off hitters who may be sitting or looking for one particular pitch to do damage against.
+
+It’s even more challenging for hitters when Lugo floods all edges of the strike zone. Based on his Savant pitch chart and pitch description data, he did that and then some on Tuesday evening, which limited the Yankees lineup to only three hits in the contest.
+
+Royals fans should notice how Lugo keeps the ball up or down and on the zone’s edges against New York. He’s not too middle-middle with his pitches, which keeps Yankees hitters off balance and unable to do damage on hittable pitches in the zone.
+
+Lugo’s pitch description chart has many orange dots in the strike zone, symbolizing called-strikes.
+
+That shows that Yankees hitters weren’t comfortable against Lugo, which is a credit to the 34-year-old right-hander’s effectiveness.
+
+I had some concerns that Lugo (and other Royals starting pitchers) would be wearing down once we entered September. That was mainly fueled by the fact that Lugo, Cole Ragans, Michael Wacha, and Brady Singer hadn’t put up this kind of innings load before (or, in the case of Wacha, a long time ago).
+
+However, not only is the starting rotation showing that it can handle the increase in pitching load in 2024, but it is also proving to be more effective than ever.
+
+That is especially true for Lugo, whose pitch quality, as rated by PLV, is better than ever, especially compared to last season in San Diego. He is also doing this despite throwing more types of pitches in 2024.
+
+Additionally, Lugo has improved the movement of his pitch mix. His induced movement chart via PLV looks a lot different this season than it did in 2023, as seen below in the chart comparison.
+
+Royals fans may notice how “closer” together his pitches are in 2024 compared to 2023. This is encouraging because it means Lugo’s pitches all have similar movement profiles. That makes it harder for hitters to discern pitches from one another when sequenced effectively, leading to strikes or weakly hit balls.
+
+The Yankees have been known for batting around opposing pitchers this year, as they rank 1st in home runs hit and 2nd in OPS.
+
+Unfortunately for Yankees fans, Lugo’s movement profile and pitch quality, which have improved massively from a year ago and are still strong at the end of the season, got the best of New York hitters tonight.
+
+Where Does Lugo Stand in the Cy Young Race?
+
+Today on Twitter, the Royals’ assistant director of PR, Ian Kraft, posted the following document in one of his Tweets, which shared the case for Lugo and Ragans to be considered for the AL Cy Young this season.
+
+The #Royals have not one, but TWO legitimate AL Cy Young candidates in 2024, in All-Stars Seth Lugo and @ColeRagans.
+
+They will both oppose the New York Yankees tonight and tomorrow in the Bronx.
+
+Detailed information on each case below.#WelcomeToTheCity | @Royals pic.twitter.com/6EOKxAR3Ft
+
+— Ian Kraft (@Krafty_3) September 10, 2024
+
+The case for Lugo and Ragans as Cy Young candidates is undoubtedly deserved and noteworthy, especially considering how bad the Royals starting pitching has been since the 2015 World Series championship.
+
+While Detroit’s Tarik Skubal is the favorite for the Cy Young award in the American League, Ragans and Lugo aren’t far behind the Detroit lefty, based on fWAR via Fangraphs.
+
+As of Tuesday, Ragans ranks second in the AL with a fWAR of 4.5. Lugo ranks fourth with a fWAR of 4.0, but that was before Tuesday’s outing. He likely will surpass Seattle’s Logan Gilbert on Wednesday morning when Fangraphs updates their metrics.
+
+Ragans and Lugo are still significantly behind Skubal, who has a 2.53 ERA, 208 strikeouts, and a 5.3 fWAR in 174 innings of work this season.
+
+Tarik Skubal gets the ball for the @tigers at this Sunday's #LittleLeagueClassic in Williamsport, PA!
+
+The dominant southpaw joined #MLBCentral to preview the matchup with the Yankees, detail his Cy Young caliber season and more. pic.twitter.com/pCRyX21rp2
+
+— MLB Network (@MLBNetwork) August 15, 2024
+
+The pair of Royals “aces” can gain some traction with “old school” voters, especially if they keep the solid ERA numbers and can help the Royals clinch a postseason berth. As great as Skubal has been, the Tigers are still on the outside looking in for the playoffs, though they have been surging lately.
+
+The hunt continues  pic.twitter.com/k3ys28hlqS
+
+— Detroit Tigers (@tigers) September 10, 2024
+
+Even though Ragans has a higher fWAR and is likely to finish with a better fWAR than Lugo, I think Lugo’s case is more substantial, especially with more traditional voters.
+
+Ragans has better strikeout numbers (10.97 K/9) than Lugo (7.69 K/9 going into Tuesday). However, everything else favors Lugo. Lugo has a better ERA (2.94 to Ragans’ 3.33), more innings (194 to Ragans’ 167.1), and more wins (16 to Ragans’ 11). Even though many baseball fans (including myself) may question those metrics’ merit, they still resonate with “old school” baseball voters.
+
+Thus, Lugo is still in the AL Cy Young race and could sneak away with the award if all the chips fall right. As excellent as Ragans has been in his first entire MLB season, the Cy Young race will end up coming down between Skubal and Lugo over the next two weeks.
+
+Another stellar start or two down the stretch (especially against the Tigers, whom Lugo is scheduled to face following Monday) could give Lugo the momentum he needs to shine in the eyes of baseball writers who believe a winning pitcher with a solid ERA on a playoff team merits the award.
+
+Photo Credit: Vaughn Ridley/GettyImages
+
+Share this:
+TwitterFacebookRedditBluesky
+Like this:
+Loading...
+
+“Reporter Jottings”: Salvy and Witt Earn Silver Sluggers; Predicting the Cy Young, Manager of Year, and MVP Races
+November 12, 2024
+In "Royals Central"
+
+Are the Royals’ Starting Pitchers Hitting a Wall?
+August 13, 2024
+In "SaberRoyals"
+
+“Reporter Jottings”: Royals Avoid Arbitration; Yankees Sign Stroman; Chat with Chandler Champlain
+January 12, 2024
+In "Royals Stove"
+
+SEPTEMBER 10, 2024 KEVIN O'BRIENROYALS RECAPAARON JUDGE, AL, COLE RAGANS, CY YOUNG, DETROIT TIGERS, FANGRAPHS, JUAN SOTO, KANSAS CITY ROYALS, NEW YORK YANKEES, PLV, SABERMETRICS, SETH LUGO, STATCAST, TARIK SKUBAL
+6 thoughts on “Seth Lugo is Solidifying His AL Cy Young Case”
+Terry P
+September 11, 2024 at 3:47 am Reply
+
+We can and should call Cole Ragans “Ace,” but we should also be sure to call Seth Lugo “Artiste.”
+
+Loading...
+Kevin O'Brien
+September 11, 2024 at 6:37 am Reply
+
+He truly is one and we’ve been lucky to watch it this year. One of the great stories in baseball this season
+
+Loading...
+carlosmrodriguezcb18d29a3a
+September 11, 2024 at 10:35 am Reply
+
+Luego has less BB/9 than Ragans, but that may be a credit to Ragans. Luego is not too far ahead in IP… A trait that may swing the Cy Young is how they perform in leverage situations. RISP with less than 2 outs. A really good pitcher will come through when the chips are down. There’s also the perception. Ragans was very good late last year. Lugo may not enjoy such perceptual cushion. Ragans may win it because of consistent excellence.
+
+Loading...
+Kevin O'Brien
+September 11, 2024 at 4:57 pm Reply
+
+I think Ragans has the better peripherals, especially when it comes to strikeouts, which is super important in the voting process now. That said, I think if Lugo can boost his Ks, which he has been doing lately, then I think Lugo can solidify the award.
+
+In leverage situations, I think Lugo has been better this year simply because he can generate groundballs or weak contact at a more frequent rate than Ragans.
+
+Loading...
+Royals Rumblings – News for September 12, 2024 - Balance Sportscast
+September 12, 2024 at 1:08 pm Reply
+
+[…] Kevin O’Brien breaks down Seth Lugo’s dominating Tuesday outing: […]
+
+Loading...
+“Reporter Jottings”: Royals Finish Road Trip, Can They Seal Things Against Detroit? (Also, McArthur) – The Royals Reporter
+September 15, 2024 at 5:17 pm Reply
+
+[…] has primarily been led by Tarik Skubal, who seems to be the favorite to win the AL Cy Young. While I believe Seth Lugo and Cole Ragans will receive Cy Young votes, it is hard to imagine either leapfrogging Skubal in the coming […]
+
+Loading...
+Leave a Reply
+Post navigation
+PREVIOUS POST
+“Reporter Jottings”: Pitching Carries Royals to Sweep; Salvy’s Framing; Shaking the Yankees?
+NEXT POST
+Can Nelson Velazquez Help the Royals in Their Race to the Postseason?
+FOLLOW THE ROYALS REPORTER VIA EMAIL
+
+Enter your email address to follow this blog and receive notifications of new posts by email.
+
+Email Address
+
+FOLLOW
+
+Join 137 other subscribers
+AUTHORS
+ Kevin O'Brien
+“Reporter Jottings”: Royals Claim Shewmake; No Arbitration Cases; And Arenado to KC Back On?
+Royals Bring Back Lorenzen; What Does He Offer? (And Which Pitchers Are Affected?)
+Cavan Biggio and Understanding the Royals’ Minor League Signings So Far
+Four Affordable Outfield Free Agents Who Could Make Sense for the Royals
+My Favorite Royals Articles From 2024
+ROYALS REPORTER ON TWITTER
+My Tweets
+BASEBALL RESOURCES
+Baseball Prospectus
+Baseball Reference
+Baseball Savant
+Fangraphs
+Internet Baseball Writers Association of America
+Michael Sunderland-The Dugout
+MLB Official Web Site
+MLB Trade Rumors
+Pitcher List
+Prospects Live
+Reddit Baseball
+Society for American Baseball Research
+ROYALS BLOGROLL
+Bleeding Royal Blue
+Clubhouse Conversation
+Farm to Fountains
+Inside the Crown
+Inside the Royals
+Into the Fountains
+Kansas City Royals Cot's Contracts
+Kansas City Royals Minor League Affiliates
+Kansas City Royals Official Page
+KC Chase To The Pennant Podcast
+KC Royals Reddit
+KC Star Royals Page
+Kings of Kauffman
+Locked on Royals Podcast
+Powder Blue Nostalgia
+Royals Farm Report
+Royals Review
+Royals Rundown
+Royals Weekly
+The Athletic Royals Page
+U.L.'s Toothpick
+Search for:
+ARCHIVES
+January 2025 (4)
+December 2024 (13)
+November 2024 (13)
+October 2024 (13)
+September 2024 (13)
+August 2024 (10)
+July 2024 (16)
+June 2024 (13)
+May 2024 (10)
+April 2024 (14)
+March 2024 (9)
+February 2024 (12)
+January 2024 (14)
+December 2023 (12)
+November 2023 (9)
+October 2023 (11)
+September 2023 (10)
+August 2023 (1)
+July 2023 (18)
+June 2023 (14)
+May 2023 (14)
+April 2023 (17)
+March 2023 (13)
+February 2023 (13)
+January 2023 (18)
+December 2022 (18)
+November 2022 (11)
+October 2022 (14)
+September 2022 (13)
+August 2022 (12)
+July 2022 (16)
+June 2022 (13)
+May 2022 (13)
+April 2022 (14)
+March 2022 (18)
+February 2022 (13)
+January 2022 (14)
+December 2021 (16)
+November 2021 (16)
+October 2021 (18)
+September 2021 (16)
+August 2021 (13)
+July 2021 (14)
+June 2021 (17)
+May 2021 (14)
+April 2021 (17)
+March 2021 (17)
+February 2021 (19)
+January 2021 (16)
+December 2020 (24)
+November 2020 (16)
+October 2020 (17)
+September 2020 (16)
+August 2020 (20)
+July 2020 (17)
+June 2020 (17)
+May 2020 (20)
+April 2020 (22)
+March 2020 (25)
+February 2020 (16)
+January 2020 (12)
+December 2019 (1)
+November 2019 (4)
+October 2019 (12)
+September 2019 (12)
+August 2019 (1)
+June 2019 (18)
+May 2019 (8)
+July 2018 (12)
+June 2018 (3)
+CATEGORIES
+Always Royal (160)
+Minor Royals (104)
+Royals Central (50)
+Royals City (15)
+Royals Recap (123)
+Royals Stove (213)
+SaberRoyals (294)
+TAGS
+20 in 20 21 in 21 25-Man Roster 26-Man Roster 28 Man Roster 40-Man Roster 80s 100th Post 300th Post 1969 1970s 1971 1975 1977 1978 1980 1980 World Series 1980s 1981 1981 Strike 1982 1984 ALCS 1985 1985 World Series 1986 1989 1989 All-Star Game 1994 1998 2000 2001 2002 2003 2004 MLB Draft 2005 2006 2006 MLB Draft 2007 2009 2009 MLB Draft 2010 2010s 2011 2012 2013 2014 2014 World Series 2015 2015 Postseason 2015 World Series 2016 2017 2018 2019 2020 2021 2022 2023 2023 MLB Draft 2024 2025 2924 20224 Aaron Bummer Aaron Civale Aaron Crow Aaron Judge Abraham Almonte Adalberto Mondesi Adam Eaton Adam Frazier Adbert Alzolay Adolis Garcia Adrian Alcantara Advanced Stats African-Americans African American Royals Project AJ Block AJ Hinch AJ Puk Akil Baddoo AL Al Avila Albert Abreu AL Central Alcides Escobar ALCS ALDS Alec Bohm Alec Lewis Alec Marsh Alec Zumwalt Alek Thomas Alex Anthoupolos Alex Fast Alex Gordon Alex Kirilloff Alex Rodriguez Allan de San Miguel Allard Baird All Star Break All Star Game AL MVP Alternate Site Always Royal AL West AL Wild Card American Association American League Amir Garrett Amos Otis Analytics Anderson Miller Andrelton Simmons Andres Gimenez Andres Sotillet Andrew Benintendi Andrew Hoffmann Andrew Miller Andy McCullough Angel Berroa Angel Zerpa Anne Rogers Announcing Anthony Misiewicz Anthony Swarzak Anthony Topa Anthony Veneziano Appalachian League Appreciating the Royals April Arbitration Arcade Ari Adut Arizona Arizona Diamondbacks Arizona Fall League Arizona Rookie League Arjun Nimmala Arodys Vizcaino Aroldis Chapman Arrowhead Stadium Art Asa Lacy Ashe Russell Atlanta Braves Attendance Auburn Tigers August Austin Adams Austin Charles Austin Cox Austin Lambright Austin Nola Australia Australia Baseball League BABIP Ballpark Baltimore Orioles Bambino Curse Bar Barry Bonds Bars Bartle Hall Baseball Baseball America Baseball Prospectus Baseball Reference Baseball Savant Baseball Simulation Baserunning Batted Ball Batting Order BBQ BBWAA Beat of KC Beat Writers Beck Way Beer Behind the Seams Bench Ben Hernandez Ben Kudrna Ben Zobrist Big 12 Big 12 Championship Big Slick Billy Beane Billy Butler Billy Hamilton Biography Black Lives Matter Blake Mitchell Blake Snell Blake Wolters Blogging Blogs Bobby Dalbec Bobby Witt Bobby Witt Jr Bob Castellini Bob Kendrick Bob Lemon Bob Nightengale Bo Jackson Bold Predicitons Boston Red Sox Boulevard Beer Bounce Back Brad Brach Braden Shewmake Braden Shipley Brad Keller Brad Miller Brad Peacock Brady McConnell Brady Singer Brandon Belt Brandon Finnegan Brandon Marklund Brandon Maurer Brandon Moss Brandon Woodruff Breit's Brennon McNair Brent Rooker Bret Saberhagen Brett Phillips Brewer Hicklen Brian Bannister Brian Bridges Brian Goodwin Brian Sweeney Broadcasts Brooks Kriske Brooks Raley Bruce Bochy Bruce Chen Bruce Sherman Bryan De La Cruz Bubba Starling Bubba Thompson Buck O'Neil Buddy Bell Buffalo Bisons Bullpen Burch Smith Burlington Royals Busch Stadium Buster Posey Byron Buxton Cactus League Cactus Royals Cal Eldred Callup Cal Quantrill Cal Raleigh Cam DeVanney Cam Gallagher Candidates Carlos Beltran Carlos Carrasco Carlos Correa Carlos Hernandez Carlos Rodon Carlos Sanabria Carlos Santana Carson Roccaforte Carter Jensen Casey Mize Catcher Catchers Cavan Biggio Cayden Wallace CBA Cedric Tallis Celina Tio Center Field Cesar Hernandez Chaim Bloom Chance Adams Chandler Camplain Chandler Champlain Change Changes Charlie Neuweiler Chase Vallot Cheating Scandal Cheslor Cuthbert Chicago Cubs Chicago White Sox Chickie's and Pete's Chien-Ming Wang Chris Antonetti Chris Getz Chris Hudgins Chris Owings Chris Sale Chris Stratton Christian Chamberlain Christian Colon Christian Yelich Christmas Chris Young Cincinnati Cincinnati Reds Cities CJ Alexander Clark Hunt Classic Royals Clay Dungan Clayton Kershaw Clayton McCullough Cleveland Cleveland Guardians Cleveland Indians Closer Clutch Coaches Coaching Staff Codify Cody Bellinger Cody Poteet Coleman Picard Cole Ragans Colin Selby College Baseball College Basketball Collin Houck Collin McHugh Collin Snider Colorado Rockies Colten Brewer Colt Keith Colton Becker Columbia Columbia Fireflies Comerica Park Concessions Connor Oliver Contact Rates Contract Extension Cooperstown Corbin Burnes Corbin Carroll Corey Cousin Jr Corey Kluber Corey Seager Coronavirus Cory Kluber Cotracts Crab Fries Craig Mish Crossroads CSW Cuba Cuisine Culture Cutter Cy Young Dairon Blanco Dallas Damon Hollins Dan Altavilla Dane Burns Daniel Guerrero Daniel Lynch Daniel Mengden Daniel Norris Daniel Tillo Daniel Vazquez Danny Duffy Danny Mendick Danny Ontiveros Dan Quisenberry Darrell May Darryl Collins Data Daulton Varsho Dave Eiland David Dahl David DeJesus David Glass David Ross David Sandlin David Shields Day 1 Day 2 Day 3 Day Game Dayton Moore Debut December Defense Deivis Nadal Demotion Dennis Leonard Denny Matthews Depth Charts Depth Charts Projections Derek Dietrich Derek Norris Derlin Figueroa Designated Hitter Des Moines Detroit Detroit Tigers Devin Mann Devin Williams DFA Dick Drago Dick Howser Diego Castillo Diego Hernandez Dinelson Lamet Diversity Dollar Dog Night Domingo Tapia Dominican Republic Dominican Summer League Donovan Lasalle Down on the Farm Downtown Draft Guide Drew Parrish Drew Saylor Drew Waters Drink Driveline Drop the Ball DRS DUI Dustin Dickerson Dusty Wathan Dylan Carlson Dylan Cease Dylan Coleman Dylan Crews Dynasty Easter Economics Eddie Rosario Edinson Volquez Edward Olivares Eloy Jimenez Emerson Hancock Emmanuel Clase Emmanuel Reyes Emmanuel Rivera Enrique Bradfield Enrique Bradfield Jr Enyel De Los Santos Eric Cerantola Eric Hosmer Erick Fedde Erick Mejia Erick Pena Eric Skoglund Ervin Santana Esteury Ruiz Evan Sisk Ewing Kauffman Experience Extension Fan Fan Experience Fan Experience Index Fangraphs Fans Fansided Fantasy Fantasy Baseball Fantrax Farm System Farm to Fountains Fastball Felix Martinez Fernando Tatis Jr Festivus Fielding Firing First Basemen First Friday First Half First Round Florida Gators Food Forbes Former Royals Forums Foster Griffin Fox Sports KC Framing Franchy Cordero Francisco Lindor Francisco Mejia Frankie Montas Frank Mozzicato Frank White Franmil Reyes Freddie Freeman Freddy Fermin Free Agency Front Office Future Futures Game Gabe Cancel Gabe Speier Game 1 Game 6 Game Recap Games Project Garett Crochet Garrett Crochet Garrett Hampson Garrett Whitlock Gary Sanchez Gavin Cross General Manager Gene Watson George Brett George Floyd Geraldo Perdomo Gerrit Cole Giancarlo Stanton GIF Breakdown Glenn Sparkman GM Meetings Gold Glove Gordos Golden Ale Grades Graig Nettles Grant Gavin Grapefruit League Great America Ballpark Greg Holland Gregory Polanco Gregory Soto Griffin Canning Guaranteed Rate Field Gunnar Henderon Hall of Fame Hal McRae Hanser Alberto Happy Hour Harold Ramirez Harrison Bader Hats Hayden Dunhurst Heath Fillmyer Heatmaps Hector Neris Henry Williams Here's the Pitch Herk Robinson Hideo Nomo High School High School Baseball Hiroshima Carp Hiro Wyatt Hispanic Heritage History Hitters Hitting Hitting Coach Holidays Homer Bailey Home Run Derby Home Runs Homestand Hot Corner Hot Dogs Hot Seat Hot Stove Houston Astros Humberto Arteaga Humor Hunter Dozier Hunter Greene Hunter Harvey Hunter Owen Hunter Patterson Hunter Renfroe I-70 Series Ian Kennedy IBWAA Idaho Falls Chukars Illinois Infield Infielders Injuries Inside the Crown International Signing Period Iowa Cubs Italy Ivan Castillo Jac Caglianone Jace Jung Jack Flaherty Jackie Bradley Jackie Robinson Jack Pineda Jackson County Jackson Kowar Jackson Reetz Jacob Barnes Jacob Condra-Bogan Jacob deGrom Jacob Gonzalez Jacob Wallace Jacob Widener Jacob Wilson Jacoby Jones Jake Brentz Jake Burger Jake Diekman Jake Eisenberg Jake Kalish Jake McCarthy Jake Means Jake Newberry Jakob Junis James MaCarthur James McArthur Jameson Taillon James Outman James Shields Japan Jared Dickey Jarred Kelenic Jarren Duran Jarrod Dyson Jason Adam Jason Foley Jason Kander Jason Simontacchi Jaswel De Los Sanots Javier Baez Javier Vaz Javy Guerra Jazz Chisholm Jr Jeff Kent Jeff Luhnow Jeffrey Flanagan Jeff Suppan Jeimer Candelario Jeison Guzman Jeremy Guthrie Jeremy Jeffress Jermaine Dye Jermaine Palacios Jerry Dipoto Jerry Reinsdorf Jesse Hahn Jesus Luzardo Jesus Sanchez Jhoan Duran Ji-Man Choi Jim Cuthbert Jim Frey Jim Leyland Jimmy Govern JJ Picollo Joakim Soria Joc Pederson Joe Dillon Joe Espada Joe Gray Jr Joel Goldberg Joel Payamps Joe Maddon Joe Randa Joe Ross Joey Votto Joey Wiemer Johan Camargo John Lamb John Mayberry John McMillon Johnny Cueto Johnny Damon John Rave John Schneider John Schreiber John Schuerholz John Sherman John Smoltz Jonah Dipoto Jonathan Bowlan Jonathan India Jonathan Sanchez Jonathan Schoop Jon Gray Jon Heasley Jordan Groshans Jordan Lyles Jorge Bonifacio Jorge Lopez Jorge Polanco Jorge Soler Jose Abreu Jose Alguacil Jose Altuve Jose Cuas Jose Offerman Jose Ramirez Jose Siri Jose Urena Jose Urquidy Josh Bell Josh Donaldson Josh Dye Josh Mitchell Josh Naylor Josh Rojas Josh Staumont Josh Taylor Journalism Juan Soto Julio Rodriguez Julio Teheran July June Junior Fernandez Junior Marin Jurickson Profar Just Baseball Justin Crawford Justin Turner Justin Verlander Kaito Yuki Kale Emshoff Kansas Kansas City Kansas City Chiefs Kansas City Monarchs Kansas City Royals Kansas City Royals History Kansas City Star Kansas Jayhawks Kasey Kalich Kauffman Stadium KCK KC Kingdom KCMO KC Star KC Streetcar Keepers Keith Law Kelvin Gutierrez Kelvin Herrera Kendrys Morales Kenny Williams Ken Rosenthal Kenta Maeda Ken Waldichuk Ken Williams Keoni DeRenne Keston Hiura Kev and Cristian Chase The Pennant Kevin Appier Kevin Kiermaier Kevin McCarthy Kevin Pillar Khalil Lee Khris Davis Kim Ng Kole Emshoff Korea Kris Bubic Kumar Rocker Kyle Boddy Kyle Davies Kyle DeGroat Kyle Gibson Kyle Isbel Kyle Manzardo Kyle Schwarber Kyle Teel Kyle Tucker Kyle Wright Kyle Zimmer Lance Lynn Lane Thomas Larry Carter Larry Gura Las Vegas Latin America Latino LCs BBQ Leadoff Letter Levi Usher Lexi Lexington Legends LGBTQ Liam Hendriks LIDOM Lincoln High School Lineup Lineups Lockout Logan Martin Logan Porter Lonnie Goldberg Lorenzo Cain Los Angeles Angels Los Angeles Dodgers Los Angeles Raiders Losing Loss Lottery Louisiana Lafayette Lourdes Gurriel Jr Lucas Duda Lucas Erceg Lucas Giolito Luca Tresh Lucius Fox Luinder Avila Luis Arraez Luis Castillo Luis Cessa Luis De Avila Luis Robert Luke Hochevar Luke Weaver Lynn Worthy Mack Anglin Mac Suzuki Madison Bumgarner Maikel Franco Maikel Garcia Major League Manager Managers Manuel Margot Marcell Ozuna Marcus Semien Marcus Stroman Mark DeRosa Mark Shapiro Martin Maldonado Martin Perez Marwin Gonzalez Mason Barnett Mason Miller Masyn Winn Matt Beaty Matt Boyd Matt Duffy Matt Harvey Matt Manning Matt Peacock Matt Quatraro Matt Reynolds Matt Sauer Matt Shaw Matt Shoemaker Matt Strahm Max Castillo Max Fried Max Scherzer May Meibrys Viloria Memoir Memphis Tigers Miami Marlins Michael Ajeto Michael Brantley Michael Conforto Michael Gigliotti Michael Harris II Michael Kopech Michael Lorenzen Michael Massey Michael Taylor Michael Wacha Michigan Middle Infielders Midwest Miguel Cabrera Miguel Sano Mike Brosseau Mike Clevinger Mike Foltynewicz Mike Hazen Mike Matheny Mike Mayers Mike Minor Mike Montgomery Mike Moustakas Mike Shildt Mike Sweeney Mike Tosar Mike Zunino Miller Park Milwaukee Milwaukee Brewers Minnesota Twins Minor League Baseball Minor Leagues Minor Royals Missouri Mitch Stetter Mizzou Tigers MJ Melendez MLB MLB Draft MLBPA MLB Team Values MLB The Show Monarch Monday Moneyball Mookie Betts Movie Municipal Stadium MVP Baseball 2005 Nate Eaton Nathan Webb National League Ned Yost Negro League Baseball Museum Negro Leagues Nelson Cruz Nelson Velazquez New Manager New Mexico State New Ownership Newsletter New Year New York Mets New York Yankees NFL Nick Anderson Nick Dini Nick Gonzales Nick Heath Nick Krall Nick Loftin Nick Markakis Nicknames Nick Pollack Nick Pratto Nick Wittgren Nicky Lopez Niko Goodrum NL Central Noah Barber Noah Cameron Noah Murdock Noah Watson Noble Meyer Nolan Arenado Nolan Jones Nolan Watson Nomar Mazara Non-Roster Invitees Non-Tender Deadline Non-Tendered Nori Aoki Northwest Arkansas Naturals Notre Dame November OAA Oakland Athletics Oakland Coliseum October Offensive MVP Offseason Oklahoma Sooners Omaha Storm Chasers Omar Hernandez Omar Infante Opener Opening Day Option Oracle Park Oscar Hernandez Outfield Outfielders Out of the Park Baseball Owners Ownership Ozzie Guillen Pablo Lopez Pacific Coast League Parker Dunshee Parker Meadows Park Factors Patrick Mahomes Patrick Sandoval Paul DeJong Paul Dolan Paul Gibson Paul Goldschmidt Paul Hoover Payroll PECOTA Projections Pedro Avila Pedro Grifol Peter Bendix Peyton Wilson Philadelphia Philadelphia Phillies Phil Nevin Pinball Pine Tar Incident Pioneer League Pitch Pitch Arsenal Pitcher Pitcher List Pitchers Pitching Pitching Coach Pitchtype Cards Pitch Types Pittsburgh Pirates Pizza Plate Discipline Platoon Splits Player Cards Player Development Player Strike Playing Pepper Playoffs Plaza Protests PLV Podcast Pop Culture Positive Test Postseason Power and Light Power Rankings Predictions Press Conference Preview Process+ Projections Prospect List Prospects Prospects Live Puerto Rico Quad Cities Quad Cities Bandits Quinton Lucas Radio Rafael Devers Ramon Torres Randal Grichuk Randy Arozarena Randy Dobnak Randy Rosario Ranger Suarez Rankings Rauh Report Raul Ibanez Rebuild Record Reddit Relief Relievers Reporter Jottings Reporter Prospect Corner Reporter Recap Restaurants Retirement Retro Royals Review Rex Hudler Rhett Lowder Richard Lovelady Rick Hahn Rick Renteria Riffs Riley Greene RISP Rivalry River Town Road Trip Robbie Glendinning Robbie Grossman Robert Garcia Robert Hassell Roberto Clemente Roberto Hernandez Robert Stephenson Robin Ventura Robin Yount Rob Manfred Rocco Baldelli Rodolfo Duran Roel Ramirez Roger Clemens Ronal Ronald Bolanos Ron Gardenhire Roni Cabrera Rookie Debut Rosedale BBQ Rosell Herrera Roster Rotation Royals Academy Royals Central Royals City Royals FanFest Royals Fans Royals Farm Report Royals Hall of Fame Royals Hall of Not Forgotten Royals Rally Royals Recap Royals Review Royals Rule 5 Radar Royals Rundown Royals Stadium Royals Stove Royals World Series Royalty Awards Rudy Martin Rule 5 Draft Rule Changes Runner Runs Run Values Rustin Dodd Rusty Kuntz Ryan Fitzgerald Ryan Goins Ryan Helsley Ryan Lefebvre Ryan McBroom Ryan O'Hearn Ryan Webb Ryan Weiss Ryan Yarbrough Sabermetrics SaberRoyals SABR Salvador Perez Samad Taylor Sam Long Sam McWilliams Samuel Valerio San Diego Padres Sandy Alomar Sandy Leon San Francisco Giants Saul Garza Scott Barlow Scott Blewett Scott Boras Scott Harris Scott Sharp Scouting Scrimmage Sean Manaea Sean Murphy Season Preview Season Tickets Seattle Mariners Sebastian Rivero Second Base Second Half Seiya Suzuki September Seth Lugo Seuly Matias Shane Bieber Shane Panzini Shea Langeliers Shervyen Newton Shift Shohei Ohtani Shortstop Silver Slugger Sleepers Slugerrr Small Markets Social Distancing Social Justice South Atlantic League South Korea South Side Sox Southside Sox Southwest Boulevard Spencer Nivens Spencer Strider Spencer Torkelson Spencer Turnbull Sporting KC Sports Spotrac Spring Breakout Spring Training Sprint Center St. Louis St. Louis-Style Pizza St. Louis Cardinals St. Louis Post-Dispatch Stadium Starting Pitchers Statcast Steamer Stephen Vogt Stephen Woods Steve Busby Steven Cruz Steven Zobac Steve Physioc StickTalk Stolen Bases Stone Russell Strat-O-Matic Baseball Strawberry Hill Strikeouts Summer Summer Camp Surprise Arizona Swing Taik Skubal Tailgating Taiwan Tampa Bay Rays Tanner Bibbee Tanner Scott Tapcade Target Field Tarik Skubal Taylor Clarke Taylor Hearn Taylor Ward TCU Horned Frogs Team USA Terrance Gore Terry Bradshaw Terry Francona Texas Texas A&M Aggies Texas League Texas Longhorns Texas Rangers Texas Tech Red Raiders Thanksgiving The Athletic The Belfry The Hardball Times Third Base Thomas Burrows Thomas Nestico Thom Brennamen Three Stars Tickets Tier Five Tier One Tier Two Tigres de Licey Tim Anderson Tim Hill Tim Lincecum TJ Sikkema TJ Stats Tom Goodwin Tommy La Stella Tommy Pham Tommy Troy Tony La Russa Tony Muser Tony Pena Top 10 Top 30 Top 40 Top 50 Tornado Toronto Blue Jays Trade Trade Deadline Transactions Travel Travis Shaw Tread Trea Turner Trevor Bauer Trevor Cahill Trevor Rosenthal Trevor Story Trevor Werner Trey Hillman Triple-A Triple-A East Trison McKenzie Tropicana Field Truman Sports Complex Tucker Bradley Tucker Davidson Twitter Tyler Cropley Tyler Duffey Tyler Gentry Tyler Glasnow Tyler Naquin Tyler O'Neill Tyler Tolbert Tyler Zuber Um Hyung-chan Um Jong-soo Umpires Undrafted Uniforms Universal Target University of Georgia Up-Down Update Urban Youth Academy USA Utility Vaccine Vance Wilson Venezuela Veterans Community Project Vidal Brujan Video Games Vince Velasquez Vinnie Pasquantino Virginia Cavaliers Virginia Tech Virtual Meetings Visiting Dugout Vote Voting Wade Davis Waldo Waldo Pizza Walter Pennington Wander Franco WAR Washington Nationals Welcome to the City Whiskey Whitey Herzog Whit Merrifield Wichita Wind Surge Wild Card William Fleming Willi Castro Willie Wilson Will Klein Will McAffer Will Smith Willson Contreras Will They Ever Be Royal? Will Venable Willy Adames Wilmin Candelario Wilmington Blue Rocks Wil Myers Wily Peralta Win Win Expectancy Winnipeg Goldeyes Win Probability Winter League Winter Meetings Wisconsin Woo-Young Jin World Baseball Classic World Series Worst Record Writing Wyandotte County Wyatt Mills Yadier Molina Yainer Diaz Yandel Ricardo Yandy Diaz Yasiel Puig Yasmani Grandal Yasuhiko Yabuta Yefri Del Rosario Yermin Mercedes Yoan Moncada Yohanse Morel Yokohama Bay Stars Yordano Ventura YouTube Yuli Gurriel Zac Gallen Zach Bove Zach Eflin Zach Haake Zach Messinger Zach Plesac Zach Willeman Zack Greinke Zac Veen ZiPS
+Powered by WordPress.com.
+ 
+ 
+ ----- 
+ Source link : https://royalsreporter.com/2024/09/10/seth-lugo-is-solidifying-his-al-cy-young-case/ 
+ ----- 

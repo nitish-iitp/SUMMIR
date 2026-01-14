@@ -1,0 +1,311 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NBA
+NFL
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Rangers
+71-77, 30-43 Away
+4
+Final
+Mariners
+75-73, 43-30 Home
+5
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+TEX
+
+
+SEA
+1	2	3	4	5	6	7	8	9	R	H	E
+2	0	0	0	1	0	1	0	0	4	7	1
+0	0	0	0	0	0	2	3	-	5	10	0
+WIN
+J. Chargois
+3-1
+1.0 IP, 0 H, 0 ER, 3 K, 0 BB
+LOSS
+D. Robertson
+3-4
+1.0 IP, 2 H, 3 ER, 0 K, 1 BB
+SAVE
+A. Munoz
+21
+1.0 IP, 0 H, 0 ER, 1 K, 0 BB
+TEX
+Overview
+SEA
+Rangers Hitting
+HITTERS
+
+M. Semien
+2B
+
+
+J. Smith
+SS
+
+
+W. Langford
+CF-LF
+
+
+A. Garcia
+RF
+
+
+N. Lowe
+1B
+
+
+J. Jung
+3B
+
+
+J. Heim
+C
+
+
+E. Duran
+LF
+
+
+L. Taveras
+CF
+
+
+C. Kelly
+DH
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	1	0	0	0	0	.238
+5	1	2	0	0	0	.264
+3	2	1	1	1	2	.251
+3	0	0	0	0	1	.218
+4	0	3	2	0	0	.269
+4	0	1	1	0	0	.275
+4	0	0	0	0	0	.214
+2	0	0	0	0	0	.251
+1	0	0	0	0	0	.223
+4	0	0	0	0	0	.247
+34	4	7	4	1	3	
+BATTING
+HRLangford (11, 5th inning off Hancock 0 on, 0 Out)
+RBILowe 2 (58), Jung (16), Langford (64)
+2Out RBILowe 2, Jung
+Team LOB8
+Team RISP3-8 (Heim 0-1, García 0-2, Lowe 2-2, Jung 1-2, Langford 0-1)
+FIELDING
+EHeim (6, throw)
+Mariners Hitting
+HITTERS
+
+V. Robles
+RF
+
+
+J. Rodriguez
+CF
+
+
+C. Raleigh
+C
+
+
+R. Arozarena
+LF
+
+
+L. Raley
+1B
+
+
+J. Turner
+DH
+
+
+J. Polanco
+2B
+
+
+D. Moore
+2B
+
+
+J.P. Crawford
+SS
+
+
+J. Rojas
+3B
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	1	1	0	0	0	.323
+5	2	4	3	1	0	.263
+4	0	0	1	0	0	.213
+4	0	1	1	0	0	.238
+2	0	2	0	0	0	.242
+4	0	1	0	0	0	.239
+3	0	0	0	0	1	.202
+0	0	0	0	0	0	.206
+4	1	1	0	0	0	.198
+3	1	0	0	0	1	.227
+33	5	10	5	1	2	
+BATTING
+2BRaley (18, deGrom); Rodríguez (15, Ureña)
+HRRodríguez (15, 8th inning off Robertson 2 on, 2 Out)
+RBIArozarena (55), Rodríguez 3 (52), Raleigh (93)
+2Out RBIArozarena, Rodríguez 3
+SFRaleigh
+Team LOB10
+Team RISP3-10 (Turner 1-2, Polanco 0-1, Crawford 0-3, Robles 0-1, Arozarena 1-2, Rodríguez 1-1)
+BASERUNNING
+SBRobles (27, 2nd base off deGrom/Heim); Raley (11, 2nd base off deGrom/Heim)
+Rangers Pitching
+PITCHERS
+
+J. deGrom
+
+
+W. Pennington
+
+
+J. Urena
+(H, 1)
+
+
+J. Leclerc
+(H, 11)
+
+
+D. Robertson
+(L, 3-4, B, 8)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+3.2	4	0	4	61-41	0.00
+1.1	1	0	0	21-14	1.84
+1.2	2	2	2	33-18	3.80
+0.1	1	0	1	5-5	4.45
+1.0	2	3	0	25-17	3.18
+8.0	10	5	7	145-95	
+PITCHING
+HBPRobles (by Ureña); Raley 2 (by deGrom, Ureña)
+First-pitch strikes/Batters FacedRobertson 3/6; deGrom 11/16; Ureña 7/10; Leclerc 2/2; Pennington 5/5
+Called strikes-Swinging strikes-Foul balls-In play strikesRobertson-3-3-6-5; deGrom-10-10-10-11; Ureña-6-4-3-5; Leclerc-1-2-1-1; Pennington-2-3-4-5
+Ground Balls-Fly BallsRobertson 1-2; deGrom 1-6; Ureña 1-2; Pennington 2-2
+Game ScoresJ deGrom 57
+Mariners Pitching
+PITCHERS
+
+E. Hancock
+
+
+T. Thornton
+
+
+A. Voth
+
+
+T. Saucedo
+
+
+J. Chargois
+(W, 3-1)
+
+
+A. Munoz
+(S, 21)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+5.0	6	3	5	90-60	4.83
+1.0	0	0	0	9-6	3.93
+0.2	0	1	1	21-11	3.41
+0.1	1	0	0	7-5	3.72
+1.0	0	0	3	14-10	2.23
+1.0	0	0	1	8-5	2.14
+9.0	7	4	10	149-97	
+PITCHING
+HBPSemien (by Hancock); Duran (by Hancock)
+First-pitch strikes/Batters FacedChargois 3/3; Voth 2/4; Thornton 1/3; Muñoz 1/3; Saucedo 2/2; Hancock 16/24
+Called strikes-Swinging strikes-Foul balls-In play strikesChargois-4-3-3-0; Voth-2-6-2-1; Thornton-1-1-1-3; Muñoz-0-2-1-1; Saucedo-1-1-1-2; Hancock-13-14-17-16
+Ground Balls-Fly BallsVoth 0-1; Thornton 2-1; Muñoz 0-2; Saucedo 1-0; Hancock 1-9
+Game ScoresE Hancock 47
+Scoring Summary
+INNING
+	TEX	SEA
+		1st	Lowe singled to right, Semien scored, Smith to third.	1	0
+		1st	Jung singled to right, Smith scored, Lowe to second.	2	0
+		5th	Langford homered to left (388 feet).	3	0
+		7th	Lowe singled to right, Langford scored, García to third.	4	0
+		7th	Raleigh hit sacrifice fly to left, Robles scored.	4	1
+		7th	Arozarena singled to center, Rodríguez scored.	4	2
+		8th	Rodríguez homered to left (419 feet), Crawford scored and Rojas scored.	4	5
+Full Play-By-Play
+Game Information
+T-Mobile Park
+2:10 AM, September 14, 2024
+Seattle, Washington
+Line: TEX -135
+Over/Under: 6.5
+Attendance: 32,996
+Game Time:
+2:41
+Umpires:
+Home Plate Umpire - Ryan Blakney
+First Base Umpire - Bill Miller
+Second Base Umpire - Malachi Moore
+Third Base Umpire - Rob Drake
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570683 
+ ----- 

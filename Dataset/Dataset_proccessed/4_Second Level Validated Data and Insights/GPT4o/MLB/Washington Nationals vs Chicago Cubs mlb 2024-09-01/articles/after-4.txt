@@ -1,0 +1,336 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Cubs
+71-66, 35-37 Away
+14
+Final
+Nationals
+61-76, 32-37 Home
+1
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Dansby Swanson gets 4 hits as the surging Chicago Cubs beat the Washington Nationals 14-1
+— Dansby Swanson had four hits, Jordan Wicks pitched five solid innings and the Chicago Cubs beat the Washington Nationals 14-1 on Sunday for their season-high sixth consecutive win.
+Sep 1, 2024, 09:13 pm - AP
+
+
+CHC
+
+
+WSH
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t0\t3\t1\t0\t0\t3\t0\t7\t14\t17\t0
+0\t1\t0\t0\t0\t0\t0\t0\t0\t1\t5\t4
+WIN
+J. Wicks
+2-2
+5.0 IP, 4 H, 1 ER, 0 K, 0 BB
+LOSS
+M. Parker
+7-9
+6.0 IP, 7 H, 3 ER, 8 K, 1 BB
+Scoring Summary
+INNING
+\tCHC\tWSH
+\t\t2nd\tRuiz grounded into double play, third to second to first, Wood scored, Abrams out at second, Yepez to third.\t0\t1
+\t\t3rd\tHapp singled to right, Crow-Armstrong scored.\t1\t1
+\t\t3rd\tParedes singled to right, Happ scored and Swanson scored, Suzuki to third.\t3\t1
+\t\t4th\tCrow-Armstrong reached on bunt single to third, Hoerner scored on throwing error by third baseman Tena, Crow-Armstrong to third.\t4\t1
+\t\t7th\tBellinger grounded into fielder's choice to second, Swanson scored and Suzuki scored on fielding error by second baseman L. García Jr.\t6\t1
+\t\t7th\tParedes singled to center, Bellinger scored.\t7\t1
+\t\t9th\tBusch walked, Happ scored, Paredes to second, Suzuki to third.\t8\t1
+\t\t9th\tHoerner singled to left, Paredes scored and Suzuki scored, Busch to second.\t10\t1
+\t\t9th\tAmaya doubled to left, Busch scored and Hoerner scored, Crow-Armstrong to third.\t12\t1
+\t\t9th\tTauchman singled to center, Crow-Armstrong scored, Amaya to third.\t13\t1
+\t\t9th\tSwanson reached on infield single to second, Amaya scored, Tauchman to second.\t14\t1
+Full Play-By-Play
+Cubs
+Nationals
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+I. Happ
+LF
+\t2-5\t2\t0\t1\t.243
+
+M. Tauchman
+PH-LF
+\t1-1\t0\t0\t1\t.250
+
+D. Swanson
+SS
+\t4-6\t2\t0\t1\t.234
+
+S. Suzuki
+DH
+\t2-4\t2\t0\t0\t.276
+
+C. Bellinger
+RF
+\t0-6\t1\t0\t1\t.262
+
+I. Paredes
+3B
+\t2-4\t1\t0\t3\t.184
+
+L. Vazquez
+2B
+\t0-0\t0\t0\t0\t.000
+
+P. Wisdom
+1B
+\t0-3\t0\t0\t0\t.195
+
+M. Busch
+PH-1B
+\t0-1\t1\t0\t1\t.253
+
+N. Hoerner
+2B
+\t2-5\t2\t0\t2\t.259
+
+M. Mastrobuoni
+3B
+\t0-0\t0\t0\t0\t.200
+
+P. Crow-Armstrong
+CF
+\t3-5\t2\t0\t0\t.237
+
+M. Amaya
+C
+\t1-5\t1\t0\t2\t.239
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+J. Wicks
+\t5.0\t4\t1\t0\t0\t69-47\t3.82
+
+K. Thompson
+\t2.0\t0\t0\t1\t1\t27-15\t2.95
+
+S. Armstrong
+\t1.0\t0\t0\t1\t0\t11-5\t4.77
+
+E. Roberts
+\t1.0\t1\t0\t0\t1\t8-6\t2.93
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+D. Crews
+RF
+\t0-4\t0\t0\t0\t.240
+
+J. Tena
+3B
+\t0-4\t0\t0\t0\t.339
+
+A. Chaparro
+DH
+\t0-3\t0\t0\t0\t.250
+
+D. Baker
+PH
+\t1-1\t0\t0\t0\t1.000
+
+J. Wood
+LF
+\t1-4\t1\t0\t0\t.273
+
+J. Yepez
+1B
+\t1-2\t0\t0\t0\t.282
+
+C. Abrams
+SS
+\t1-3\t0\t0\t0\t.244
+
+K. Ruiz
+C
+\t0-3\t0\t0\t0\t.216
+
+L. García Jr.
+2B
+\t1-3\t0\t0\t0\t.290
+
+J. Young
+CF
+\t0-2\t0\t0\t0\t.258
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+M. Parker
+\t6.0\t7\t3\t1\t8\t89-64\t4.27
+
+J. Barnes
+\t0.1\t3\t3\t0\t1\t21-13\t3.79
+
+J. Ferrer
+\t1.2\t0\t0\t0\t1\t12-9\t4.15
+
+Z. Brzykcy
+\t0.2\t3\t5\t2\t1\t26-13\t67.50
+
+O. Ribalta
+\t0.1\t4\t2\t1\t0\t24-16\t13.50
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Chicago Cubs (71-66, 35-37 Away)
+Jordan Wicks (2-4, 5.48)
+-130
+ML
+-135
+o8.5
+-130
+-1.5
++125
+Washington Nationals (61-76, 32-37 Home)
+Mitchell Parker (7-10, 4.29)
+u8.5
++105
++115
+u8.5
++110
++1.5
+-150
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+CUBS
+NATIONALS
+CHC 100
+%
+CHC 14WSH 1
+
+Bottom 9th
+Wood grounded into double play, third to shortstop to first, Baker out at second.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+CHC
+WSH
+Hits
+17
+5
+Home Runs
+0
+0
+Total Bases
+21
+6
+Runners LOB
+8
+3
+Full Team Stats
+Regular Season Series
+Current Series
+CHC win 3-0
+Cubs
+7
+Nationals
+6
+Game 1
+8/30
+Final
+Cubs
+5
+Nationals
+3
+Game 2
+8/31
+Final
+Cubs
+14
+Nationals
+1
+Game 3
+9/1
+Final
+Game Information
+Nationals Park
+5:35 PM, September 1, 2024
+Washington, District of Columbia
+Attendance: 31,086
+Game Time:
+2:42
+Umpires:
+Home Plate Umpire - Edwin Jimenez
+First Base Umpire - Erich Bacchus
+Second Base Umpire - Mike Estabrook
+Third Base Umpire - Laz Diaz
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570518/cubs-nationals 
+ ----- 

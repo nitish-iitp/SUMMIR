@@ -1,0 +1,1420 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Would you get into 6.5 Grendel in 2024?
+ 
+Thread starter
+KCode  
+Start date
+Jan 7, 2024
+Prev
+1
+	
+2
+	
+3
+	
+4
+	
+5
+	
+…
+	
+11
+Next
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 10, 2024
+#101
+DeathBeforeDismount said:
+I would not. In fact I sold mine for this reason.
+
+The fact is the 6.5G does not have enough ass to be able to push high BC bullets fast enough. So you will either need to run lower bc bullets faster or 130 class slow. Forget the 144/153s. So you are essentially losing out on pretty much all the good 6.5 projos with the exception of the 130 berger AR hybrid. The powder choices arent great and the good shit is hard to find.
+
+6 ARC will push a 105/109 hybrid right under 2800fps. It will have less recoil, higher BC, shoot flatter, have better wind deflection and much greater first round hit out past 800. You can also use better powders suited to the burn rate with 6 arc that are easier to find.
+
+The 6 ARC has made the 6.5G obsolete IMO. Its just a much more efficient round when you look at the entire package.
+Click to expand...
+6.5 Grendel shares powder selection with .308 Win and .223 Rem. You would be hard-pressed to find another cartridge for the AR-15 that has as good of powder options.
+
+A 24” 6mm AR bolt gun will push 105-109gr around 2800-2850fps. A 24” AR is more like 2750 on the top end. If you want speed from the 6mm, you need to go to the 6mm AR Turbo with 40˚ shoulder and a longer 25-28” barrel. I’ve been shooting and spotting for both Grendel and the 6mms dating back to 2009 for Grendel, and the early 20teens for the 6mm AR.
+
+A 24” 6.5 Grendel will push the 130gr RDF at 2500fps and a 107gr SMK to 2870fps. They both (6mm and 6.5mm) hit 1 mil of wind drift at around 550yds in the lower altitude bands, 625yds at 4400ft, and 675yds at 6300ft (all at 60˚ temps). Both are supersonic past 1200yds at sea level-500ft lowland atmospheric densities. That includes the 107gr 6.5 SMK using G7 data.
+
+Here is Hodgdon’s new data for 6.5 Grendel with CFE223 under the 107gr SMK, constraint to 2.250” COL from a 24” pipe:
+
+
+CFE 223	2.250"		29.3	2,489	37,200 PSI		32.2C	2,740	47,500 PSI
+
+Here’s the 100gr Nosler Partition data:
+
+CFE 223	2.240"		29.5	2,625	39,800 PSI		32.9	2,873	49,500 PSI
+
+You can increase the COL to 2.275” with the 107gr SMK, get another .5gr in there, and still be at relatively-low chamber pressure with excellent performance. Even at 2740fps, you hit 1 mil of wind drift at 525yds, just like a 109gr Hornady ELD-M 6mm. The 109gr ELD-M has .1 Mil wind advantage at 800yds over the 6.5 107 SMK.
+
+The advantage to the 6mm 103-109gr class of bullets is 130gr 6.5-like BCs, but with minimal sight picture disturbance when not using a muzzle brake. The disadvantage to the 6mms is that even though on paper they retain their momentum well, you don’t hear it or see much evidence of it in the scope past 500yds. They are very anemic at distance in terms of audible and visible impact, and this is even true with 6mm Dasher or any of the 6 BR and 6-08 variants (.243, 6mm CM, 6x47-all of which I have shot or spotted for over the past 15 years). There just isn’t enough fontal area to produce impressive impact on steel.
+
+You really have to get into the 123gr 6.5mm and above for that. I had plans to do a 6mm all these years because of how pleasant the shooting experience is with 6mm Grendels, but once I started shooting 107gr and 110gr 6.5mm more on-target, I realized the juice wasn’t worth the squeeze for me. The BC on the 107gr SMK 6.5 is a bit higher than Sierra states, especially when you look at Litz and real-world.
+
+I like 6mm AR/6mm ARC, but there will never be 124 factor loads for the cartridge. To say a cartridge with 3 or 4 factory loads for it will make one with 124 factor loads (and steadily growing) obsolete doesn’t compute.
+
+I will say that for competition, you’re faced with the light recoil and tight sight picture vs ROs maybe not catching some of your hits. You can legitimately make your hits at distance and an RO won’t see it in certain conditions. As long as competitions keep the plates closer (a trend that has been that way in PRS/NRL for years now because of 6mm anemic performance), you probably are better off with the 6mm. If you like shooting some of the longer distances and actually want to see and hear the impacts, the 123gr-130gr 6.5mms are noticeably-more satisfying across the course on steel.
+
+.25 cal would have been a better choice for what people are looking for with higher BC in the PPC/Grendel case, but it’s .007” difference than .264”, so it would be duplicating a lot of existing performance, and the magazine well limits of the AR-15 don’t allow proper projectile placement with the new class of high BC .257 bullets.
+
+Short story: If you put a souped-up 6mm AR Turbo spitting 110gr next to a Grendel shooting 123gr or 130gr, the 6mm shooter will envy the downrange feedback that the 6.5s deliver, and the 6.5 shooter will appreciate the light recoil of the 6mm, which he can also have by shooting 105-110gr with similar performance out to 800, both of which are still supersonic past 1200yds. The Grendel just does it with 4,000psi less chamber pressure. Barrel life is more in the 8,000-23,000 rounds range, depending on steel hardness.
+
+A little update to 105-115gr class projectiles in 6.5 Grendel would erase any advantages to the 6mm, and they are splitting hairs already right now.
+ 
+ 
+Reactions:
+KitShickers, Jsp556, Devildog6.5G and 6 others
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 10, 2024
+#102
+45-90 said:
+If you practice, 1000yds isn't that hard, even the 5.56 or 223 can do it with fast twist barrels and heavier bullets on a fairly calm day. The smaller calibers and cases are more economical, so you can practice more. But a mile is a different, and more powder and bullet weight, and more expensive components are used to be somewhat consistent....why I really like the small cased 6mms at 1000yds and under, especially in bolt guns, they are extremely accurate, low recoil, lower costs, and really fun to shoot. I shot the 6 dasher, 110 SMK, at 3085 fps a few months back at 857 yd steel, it wasn't a challenge, a child could do it.
+Click to expand...
+For everyone that has brought a capable rifle/mount/optic/ammunition combo to my LR courses, I have them within 5” of waterline center on steel at 1000yds usually Morning 1 of Day 1. Even a guy who had a shoulder injury and had to shoot his rifle left-handed.
+ 
+ 
+Reactions:
+camotoe, Devildog6.5G, JohnCarter17 and 2 others
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 10, 2024
+#103
+Vynz said:
+I read these posts, get all excited and then I remember - I live at sea level, basically breathing water and shooting bullets into a pool, while you can just reach an arm up to adjust Musk’s Starlink satellites for better signal.
+I look at the PDW Grendel as something that matches or exceeds 20” .223 performance, from 7.5-8.5” barrels for mostly 0-300yds, but still has the capability to reach out unlike any other cartridge from those barrel lengths.
+
+The PDW Grendel concept is a sleeper that has been under our noses this whole time. Enough false information was put out to deter people from really exploring the short barrel Grendel characteristics, but that’s all coming to an end now.
+
+It has implications for really compact weapon capability, as well as plenty of room for higher volume suppressors and still staying under the overall profile of a suppressed Mk.18.
+ 
+ 
+Reactions:
+Devildog6.5G, Vynz and FWoo45
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 10, 2024
+#104
+supercorndogs said:
+Could you explain to me how a 6mm arc has more pressure than a 6.5 Grendel.
+At the same location, a smaller volume bore with similar case capacity will generate more gas port pressure due to reduced bore volume. To compensate for this, you move the gas port more forward to reduce the port pressure to a more well-behaved position, or reduce port aperture size.
+
+There is more overbore with 6mm Grendel cartridges, so the working pressure should be reduced a bit as well rather than chasing more chamber pressure. Same thing you see with .308 Win, 7mm-08, .260 Rem, and .243 Win. From the .308 Winchester, you see a general rule of thumb reduction in SAAMI MAP of about 1000psi per step down in caliber.
+
+.308 Win: 62,000psi MAP
+7mm-08: 61,000 MAP
+.260 Rem: 60,000 MAP
+.243 Winchester: 60,000 MAP
+
+You can tweak the brass base and web dimensions and primer pocket size to increase the MAP though. SRP brass tends to support higher pressure than LRP.
+ 
+ 
+Reactions:
+Devildog6.5G, FWoo45 and rothgyr
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 10, 2024
+#105
+ARShooter91 said:
+Sure I'd agree with that. Varmints under 500 yeah but in the context of long range which most of his post was no. Then you can go with a 58-70g in the arc and the 6 wins again for light and fast.
+Not even a 6mm ARC bolt gun will beat the 6.5 Grendel AR-15 with light and fast projectiles.
+
+Look at 80gr Hammer, for example. 3276fps from a 24”.
+3129fps from an 18”.
+
+I’m not going to say the quiet part out loud but.....
+
+
+ 
+ 
+Reactions:
+camotoe, Devildog6.5G and Coffee_and_Pipes
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 10, 2024
+#106
+Tictacticaltimmy said:
+Jumping into this thread because I have been considering 6.5G as well.
+
+Purpose would be long range shooting and potentially hunting mule deer.
+
+I've gotten pretty decent at slapping steel at long range with a 5.56, but the lack of power really limits the fun factor for me. I have to have my earpro turned all the way up and even then its kinda hard to hear hits at 500M. Its also difficult to spot misses at 500M. Further than that exacerbates these issues. It also doesn't really move the steel at all, which I find unsatisfying.
+
+I recently got a Rogue in .308 thinking that would be the Answer. I love how it slaps the steel, and I love how I can see the dirt thrown up from misses. I've only shot it out to 500M but have no doubt it will carry those strengths out to longer distances. The thing is I cannot recover from recoil quite fast enough to see my hits, and while I can see the dust of misses after I recover from recoil, its not the same thing as actually seeing the impact as it happens as I can with my 5.56.
+
+So what I am looking for is a platform that will give me the energy to BANG the steel out to as long a distance as possible, have the killing power for mule deer at as long a range as possible, but have controlled enough recoil that I can see my hits as they impact. Thinking of 6arc, 6.5G, or 6.5CM. I like the challenge so I don't think I really care about the 6arc or 6.5CM shooting flatter or doing better vs wind. I do like the idea of a significantly longer maximum range with the 6.5CM, but not sure I'll ever really be shooting beyond the max range of 6.5G so that may not really matter much.
+
+Is 6.5G substantially better than, say, 6ARC, when it comes to the amount of dirt thrown up from misses? Or on the sound/impact on steel at distance? I wouldn't think there would be any significant difference as were talking about 10-15% more mass and .02" more diameter, with about the same energy on target. For that matter, will the 6.5G or 6arc leave me disappointed in this area compared to the 6.5CM? How does 6.5CM compare to .308?
+
+Looking at 6.5G the ammo prices are pretty reasonable. No cheap wolf like there used to be, but Hornady ELD-M's are $1.20 shipped, which is about the same as similar quality .308. There is some .308 "match" ammo that is cheaper, but its likely lower quality as well, and using less efficient SMK style bullets. 6ARC and 6.5CM are similar to 6.5G in match ammo prices, though they don't have many cheaper ball options.
+Click to expand...
+I have owned them all and what you describe is exactly why I shoot my Grendels, and haven’t shot my .308s, .260 Rem, or 6.5CM in years.
+
+I still keep most of them in my collection for reference purposes, but found myself not shooting them. I used to be mainly a .260 Rem shooter for LR, which is a laser. All the issues with the large frame and brass life made me not shoot it much. It sucks losing expensive brass every 3 firings, and having to trim brass each time. It sucks breaking firing pin retaining pins too.
+
+I love the satisfying sound of a 175gr-190gr .308 or 7mm impacting steel. I don’t love the loss of my sight picture as the scope torques over to the left due to RH twist rifling. You can tame them with brakes and suppressors all day, but that torque is still there. For gas guns, the large frames come with bulk, weight, and reciprocating mass penalties. The smaller frame guns like the Colt 901, DPMS GII, Savage MSR-10, and AR-15 sized .308s like the POF and Ruger knock-off address the bulk/weight and reciprocating mass, but exacerbate the torque and recoil effects on sight picture.
+
+As you said, .223 Rem just doesn’t move the needle on steel even at relatively-short distances. It’s great for within 200yds for momentum, but really falls off after that. Not enough boiler room or projectile mass and frontal area no matter what you do to it.
+
+Grendel is the Goldilocks in that respect.
+
+For the 6mm vs Grendel in practical experience next to each other, if you shoot 105-110gr in the Grendel, it’s really hard to tell any difference within 600-800yds, depending on conditions. If you shoot 6.5mm 107gr SMK hand loads though really fast, I would argue the differences are imperceptible. It’s actually flatter with the same wind drift when you run the 107gr SMK faster, which you can easily do. Most Grendel comparisons are done with the lower BC 123gr bullets, not the 123gr SMK or Scenar, or the 107gr SMK.
+
+Once you step into 123gr and 130gr 6.5mm, I have a hard time telling the difference between impact noise and the Creedmoor or 168gr .308s. The main difference you see with .260 and 6.5CM is Time of Flight. Shooting 130gr at 2780-2820fps is a lot faster to connect than shooting them at 2400-2500fps. The huge major benefit with Grendel is being able to just watch your own rounds fly in without losing a good sight picture. .260 Rem and 6.5CM still have enough sight picture disturbance with the AR-10 especially to make it not as intuitive.
+
+If we could re-wind history, we would have a talk with the engineers in 1957, specify a slightly larger case diameter than .222 Rem, go with a high SD .257” bullet, and 2.500” COL.
+ 
+ 
+Reactions:
+Devildog6.5G, din, Old Man with Gun and 6 others
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 10, 2024
+#107
+Lightning8 said:
+I would not buy a 6.5 Grendel now. I have one and that upper just gathers dust. I always feel like I am lobbing mortar rounds down range. I would get 6 ARC today if I wanted another option for a small frame AR.
+
+I am interested in the new line of "Varmint-Target" bullets from Hornady - that might reinvigorate my 6.5G.
+Order some of that PPU 110gr. It’s really flat. I couldn’t get it to group for crap at 100yds, but it’s one of the only rounds I’ve made a 1st-round hit at 900yds with, and I did it from a 12” Grendel on no larger than a 2 MOA plate. I went 3/3 with it at 780yds out of the gate, again from the 12” Grendel.
+
+
+
+Either that or some 107gr SMKs from Precision Firearms, Defender, Hendershot’s, or HSM. The new Hornady 100gr ELD-VT will be very flat as well. I’m on the notification list once that becomes available.
+ 
+ 
+Reactions:
+Devildog6.5G, FWoo45 and Jsp556
+A
+ARShooter91
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 4, 2019
+382
+242
+Jan 10, 2024
+#108
+Problem is most of the time people can't get the 130rdfs to shoot well. And like I said down here at 1100ft and near freezing or freezing temps as that's when I can shoot distance the Grendel isn't that impressive. Over 556 yes it's great but IME not over a 6mm.
+
+I shoot 123g elds at 2505fps from the 6.5 and 95g Bergers at 2915fps from my 6 arc. Yes the 6mm has a 22in over the 18in Grendel but even shooting factory Hornady the 6arc is much more consistent at 1k, especially if using factory 123elds. The difference isn't the drop it's the drift. Those 107tipped smks are nice but again they get pushed around more in the wind.
+
+Go to a 109g LRTH and you get less drop and a good bit less wind even when pushed a lot slower than the 6.5 107s. My Lilja barreled Grendel is more accurate than my Seekins 6arc btw.
+
+Really for all intents and purposes the difference isn't that big between them. I like my Grendel a lot but if I'm going to 1k or more I don't take it out. 800 and it sure. I got a buddy hooked on long range after shooting the Grendel with him at 530yds. Wind was pretty consistent so we were nailing the 5in most every shot.
+ 
+rothgyr
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Feb 12, 2018
+735
+831
+UTAH (UT)
+Jan 10, 2024
+#109
+ARShooter91 said:
+Over 556 yes it's great but IME not over a 6mm
+I'm not sure what everyone else has in the safe, but I have a 6.5x47L bolt gun, a 6 BRA barrel for the same gun, and a .223 bolt gun as well, along with a Grendel gas gun and a .223 carbine with RDS. If I didn't have any bolt guns and wanted a small frame gas gun to take me to 1k, I'd probably be looking at the 6 ARC, but I extrapolate that most people here already have a bolt gun that would take them to 1k easy, likely with a 6.5 bullet or a 6mm variant of some kind, in which case, a Grendel or ARC are going to be supplementary cartridges, likely for pinging steel and wind practice.
+
+If I could only have one 1k range gun, the 6 ARC wouldn't be my choice anyways. I'd rather have a short action .308/Creedmoor sized bolt gun, or a .223 bolt gun that could run 90 gr A-Tips when I want performance or 75 ELD-Ms when I want cheap ammo.
+
+From my perspective, small framed long range guns are either for fun, hunting up to mid range, or as a novelty, in which case, ARC vs Grendel ends up being "what components am I swimming in?", or "what am I seeing on the shelves most?" I've got 2k 123 scenars on the shelf and 3500 6mm 107 SMKs. When I run out of 123 Scenars, I might neck down and get a 6 ARC and use up those 107s, but we'll see. For now, I'm rolling grendel.
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 10, 2024
+#110
+That’s a great load (95gr at 2915fps) The 6mm 95gr Berger has the same BC as a 123gr A-MAX (per Litz), just for those wondering. If you shot a 6.5 107gr, which has about the same BC as the 95gr Berger, they would be close from the same barrel length, but with 3x the barrel life with Grendel. You would need to extend the COL and use CFE223 or LVR to get the speed up. If someone updated their 95-110gr weights in 6.5mm, it would be moot, like that new 100gr ELD-VT.
+
+
+
+The differences in actual performance when you run the doppler Radar data aren’t worth getting into another cartridge when you look at similar bullet weights, not for me at least. 123gr 6.5s definitely fly like 175gr .308s for me with factory loads, but with ease of keeping your sight picture. That alone increases hit probability over .308 because of the confidence-building the shooter gets without having to be told where they impacted by someone else.
+
+The thing I like to see is the bullet splash at the base of targets, which starts to go away with the lighter bullets as you get out, no matter what caliber they are. With my 16” Grendel and CFE223 under 123gr A-MAX, I was getting crazy velocities and just not seeing any indications of pressure excursions with charge weight increases. We tested that out in a calibrated and instrumented breech, and saw relatively-low chamber pressures.
+
+Hodgdon’s new data confirms our observations down to within a few hundred psi, so I could have actually mass-produced the loads I avoided. My 2520fps loads from a 16” were 47,302psi for reference, at 2.272” COL. I like how my brass ejects looking new with the lower chamber pressures and how barrels last seemingly forever.
+
+That would be 2639fps from a 22” barrel.
+
+At 50,484psi from a 16” Grendel, I was doing 2553fps with 123gr A-MAX.
+
+That would be between 2644 and 2743fps from a 22” barrel.
+
+Hodgdon’s listed the new CFE223 data maxed at 48,700psi under the 123gr SMK, which seems to build pressure faster than a 123gr Hornady since it intrudes into the case more with its length. You can see the significant differences in boat tail length between 123gr Hornady’s and the 107gr SMK and 123gr SMK below. Same with the 108gr and 123gr Scenars.
+
+
+ 
+ 
+Reactions:
+Devildog6.5G, din, bfoosh006 and 1 other person
+A
+ARShooter91
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 4, 2019
+382
+242
+Jan 10, 2024
+#111
+rothgyr said:
+I'm not sure what everyone else has in the safe, but I have a 6.5x47L bolt gun, a 6 BRA barrel for the same gun, and a .223 bolt gun as well, along with a Grendel gas gun and a .223 carbine with RDS. If I didn't have any bolt guns and wanted a small frame gas gun to take me to 1k, I'd probably be looking at the 6 ARC, but I extrapolate that most people here already have a bolt gun that would take them to 1k easy, likely with a 6.5 bullet or a 6mm variant of some kind, in which case, a Grendel or ARC are going to be supplementary cartridges, likely for pinging steel and wind practice.
+
+If I could only have one 1k range gun, the 6 ARC wouldn't be my choice anyways. I'd rather have a short action .308/Creedmoor sized bolt gun, or a .223 bolt gun that could run 90 gr A-Tips when I want performance or 75 ELD-Ms when I want cheap ammo.
+
+From my perspective, small framed long range guns are either for fun, hunting up to mid range, or as a novelty, in which case, ARC vs Grendel ends up being "what components am I swimming in?", or "what am I seeing on the shelves most?" I've got 2k 123 scenars on the shelf and 3500 6mm 107 SMKs. When I run out of 123 Scenars, I might neck down and get a 6 ARC and use up those 107s, but we'll see. For now, I'm rolling grendel.
+Click to expand...
+
+I was going to add that about bolt guns. If I really want to hit something at 1k I'm grabbing my 6.5cm bolt.
+ 
+Last edited: Jan 10, 2024
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,492
+Colorado
+Jan 10, 2024
+#112
+LRRPF52 said:
+That’s a great load (95gr at 2915fps) The 6mm 95gr Berger has the same BC as a 123gr A-MAX (per Litz), just for those wondering. If you shot a 6.5 107gr, which has about the same BC as the 95gr Berger, they would be close from the same barrel length, but with 3x the barrel life with Grendel. You would need to extend the COL and use CFE223 or LVR to get the speed up. If someone updated their 95-110gr weights in 6.5mm, it would be moot, like that new 100gr ELD-VT.
+
+
+
+The differences in actual performance when you run the doppler Radar data aren’t worth getting into another cartridge when you look at similar bullet weights, not for me at least. 123gr 6.5s definitely fly like 175gr .308s for me with factory loads, but with ease of keeping your sight picture. That alone increases hit probability over .308 because of the confidence-building the shooter gets without having to be told where they impacted by someone else.
+
+The thing I like to see is the bullet splash at the base of targets, which starts to go away with the lighter bullets as you get out, no matter what caliber they are. With my 16” Grendel and CFE223 under 123gr A-MAX, I was getting crazy velocities and just not seeing any indications of pressure excursions with charge weight increases. We tested that out in a calibrated and instrumented breech, and saw relatively-low chamber pressures.
+
+Hodgdon’s new data confirms our observations down to within a few hundred psi, so I could have actually mass-produced the loads I avoided. My 2520fps loads from a 16” were 47,302psi for reference, at 2.272” COL. I like how my brass ejects looking new with the lower chamber pressures and how barrels last seemingly forever.
+
+That would be 2639fps from a 22” barrel.
+
+At 50,484psi from a 16” Grendel, I was doing 2553fps with 123gr A-MAX.
+
+That would be between 2644 and 2743fps from a 22” barrel.
+
+Hodgdon’s listed the new CFE223 data maxed at 48,700psi under the 123gr SMK, which seems to build pressure faster than a 123gr Hornady since it intrudes into the case more with its length. You can see the significant differences in boat tail length between 123gr Hornady’s and the 107gr SMK and 123gr SMK below. Same with the 108gr and 123gr Scenars.
+
+
+Click to expand...
+My 18" grendel will only get a 123 going about 2350 without being really hard on brass. How was your pressure data collected?
+
+Hodgdon data says 48,700 psi is 2600 in a 24" barrel.
+ 
+ 
+Reactions:
+JR1200W3
+rothgyr
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Feb 12, 2018
+735
+831
+UTAH (UT)
+Jan 10, 2024
+#113
+supercorndogs said:
+My 18" grendel will only get a 123 going about 2350 without being really hard on brass. How was your pressure data collected?
+
+Hodgdon data says 48,700 psi is 2600 in a 24" barrel.
+My 18" Grendel gets 2485 with 123 Scenars and 28gr 8208 XBR. I get some slight pressure marks on the brass, but nothing over the top.
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 10, 2024
+#114
+For bolt guns, why settle for 6.5CM when you can go 6.5 PRC?
+
+Why settle for 6.5 PRC when you can go 7 PRC or 7 Sherman Short?
+
+For me, the reason is practical usefulness. I have several bolt guns that I also don’t shoot. Sold the Multicam 6.5CM chassis rifle, nothing wrong with it at all. Each one of my bolt guns now is only for nostalgia purposes. Pre-64 Mod 70 in .270 Win I was raised on. Finnish Mosin m28/30. .22LR for the kids. Despite all the precision bolt gun experience I have with the M24, various .308s, dozens of .338 LMs (SRS and TRGs), .300 Win Mags, .260 Rems, 6.5x47, 6BR cats, 7 SAUM, 6.5CM, 6.5 PRC, etc., I still don’t own a modern precision bolt gun. I should have several of them, but I’m such a filthy gas gun guy, I just feel like a rifle should do....you know...the thing, every time I pull the trigger. That’s why I’ve owned 7 AR-10s instead I guess.
+
+I’m chasing .22 LR size and weight with .50 BMG performance. I want something the size of an MP5SD that can also shoot to 1k repeatably.
+
+Something I can use for HD, and hunt, and shoot LR.
+
+I’m like the USAF. I want it to slice, dice, penetrate perimeter Radar defense networks, do precision strike, Defensive and Offensive Counter-Air, swing into Airborne Warning & Control, while simultaneously executing networked ISR over a LPI data link web. I also want it to have a 610-800nm combat radius, do tail-slides, and have a climb rate like an F-15, with Marylin Monroe painted on the side.
+
+I feel like if I faced myself at opposite ends of a valley from one ridgeline to the other, the me with the 6.5 Grendel would connect first vs the me with a bolt gun, because chances of 1st-round connect are so low anyway.
+
+This reminds me of a time I was at a mountain range (PMAA before they shut it down), and some guys showed up with a nice 24” 6.5CM bolt gun. There were steel targets up this draw out to 800yds. For every round they put on steel, I could put 2-3 as many on the same targets as they could, with my 17.6” Lilja barreled Grendel with ease, with no difference in hit probability between either of them.
+
+One can be used for clearing rooms, HD, and is perfectly light for hunting, whereas the other is only good for belly or bench-shooting at the range. This is why I’m not a big bolt gun guy. I even sold my Howa 6.5 Grendel.
+ 
+ 
+Reactions:
+din
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,492
+Colorado
+Jan 10, 2024
+#115
+I had to stop at 27.2 of 8208. I think i liked varget better. But i have a 6arc and i dont really shoot my grendel much. I never really did. I made some brass out of 7.62x39 brass worked up loads in hornday and lapua brass and put it away.
+
+Is this turning into a new iteration of the Creedmoors vs 308S. I wouldnt get out of one to get into the other, but having one didn't stop me from getting the other. 
+rothgyr said:
+My 18" Grendel gets 2485 with 123 Scenars and 28gr 8208 XBR. I get some slight pressure marks on the brass, but nothing over the top.
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 10, 2024
+#116
+supercorndogs said:
+My 18" grendel will only get a 123 going about 2350 without being really hard on brass. How was your pressure data collected?
+
+Hodgdon data says 48,700 psi is 2600 in a 24" barrel.
+2350fps with a 123gr Hornady is 12-14.5” Grendel speeds. What powder are you using?
+
+Hodgdon’s data is with a 123gr SMK on top of CFE223, not a Hornady 123gr. I covered that in one of the posts above with the picture of some of the 107-123gr bullets.
+
+An AeroE associate of mine built and calibrated a pressure test breech using RSI systems, but with better quality gauges located over the center of the propellant mass where peak pressure occurs (reference US Army Research Labs data on pressure test breeches). He spent 6 months gathering pressure test data with it before establishing his baseline comfort with the system, checking with known factory loads and all the available pressure data from Hodgdon’s, Western Powders, and SAAMI. We did this in consult with engineers from most of the major ammunition manufacturers.
+
+The data gathered from those tests is within a few hundred PSI of Hodgdon’s. We spec’d a SAAMI reamer from Manson that simulated mid-reamer life, not new reamer chamber dims, to get more realistic chamber performance as well. Minuscule to the layman, but more useful.
+
+CFE223 has proven to be an exceptional powder for velocity in 6.5 Grendel, as has LVR.
+ 
+ 
+Reactions:
+din, FWoo45 and supercorndogs
+supercorndogs
+Ham Fisted Gorilla
+Full Member
+Minuteman
+Feb 17, 2014
+14,340
+19,492
+Colorado
+Jan 10, 2024
+#117
+Probably 2520 and mp501 too. I think ledzep posted something about the ball powders being better in the small case. I was using 8208. I shot 123 smk and amax or eld. It shot them and 107 smks well. Even fireforming 7.62x39 brass with wc844.
+ 
+TonyTheTiger
+Like a Boss
+Full Member
+Minuteman
+Feb 14, 2017
+5,118
+8,458
+Jan 10, 2024
+#118
+I don't know, my 6mm makes sufficiently audible impacts at 850.
+
+ 
+ 
+Reactions:
+JR1200W3, Yondering, Bluedog82 and 6 others
+godofthunder
+Sergeant
+Full Member
+Minuteman
+Commercial Supporter
+Oct 2, 2013
+946
+616
+Nebraska
+www.rustynutsdesigns.com
+Jan 10, 2024
+#119
+TonyTheTiger said:
+I don't know, my 6mm makes sufficiently audible impacts at 850.
+
+Click to expand...
+
+But is it loud enough for the hearing aid people?
+ 
+ 
+Reactions:
+rlsmith1, 91Eunozs and TonyTheTiger
+TonyTheTiger
+Like a Boss
+Full Member
+Minuteman
+Feb 14, 2017
+5,118
+8,458
+Jan 10, 2024
+#120
+godofthunder said:
+But is it loud enough for the hearing aid people?
+Who knows, those folks are unpredictable. My kid with non electronic muffs can hear it plain as day though.
+ 
+ 
+Reactions:
+godofthunder
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,672
+1,621
+USA
+Jan 10, 2024
+#121
+Modern bullets in 6mm have a much higher BC than the old ones pictured.
+Most are .520 to .604 BC So that is an invalid comparison, for 6 mm to 6.5 mm
+I run those,high .6 BC bullets including the 115 DTAC, 112 gr Barns, and 110 SMK & Atip.
+The 6 mm ARC is very accurate for an autoloader.
+This is one of two 18" AR 15s with Proof barrels, both are accurate.
+Bolt guns can add several hundred fps, because they run at higher pressures than tbe the autos.
+I prefer the 6 Dasher in a bolt gun, and the 6 ARC for the AR 15 platform.
+And it out performs the Grendel there, because they are both limited to the weak bolt pressures, and mag lengths.
+You'd have to get a 140 class or 135 gr Atip going 2600 fps in an 18" barrel AR 15 with its magazine and pressure constraints to slightly beat the 6 mm ARC trajectory, in the same platform and barrel length. The 115 pictured has a .634 BC printed on the box at 2551 fps the other 115 gr DTAC is 2532 fps fps average velocity...from the 18" AR mag feed.
+Just the facts ...
+ 
+Attachments
+20210120_144445.jpg
+765.3 KB · Views: 77
+20210113_150044.jpg
+395.5 KB · Views: 70
+20210204_151230.jpg
+701.4 KB · Views: 78
+ 
+Reactions:
+LRRPF52
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 10, 2024
+#122
+2550 with 115 out of an 18" barrel is well past 52kPSI, more like 62kPSI. AR based Grendels don't handle pressure very well for long.
+ 
+ 
+Reactions:
+JR1200W3, danr and 45-90
+Top O' Texas
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 19, 2023
+300
+113
+Texas
+Jan 10, 2024
+#123
+My only reason for having any 26cal is it's my favorite caliber (6.5gren, 6.5creed, 260rem, 6.5prc and 264wm). All but the wm is in AR. I prefer the 6.8spc over the 6.5gren every day.
+ 
+A
+ARShooter91
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 4, 2019
+382
+242
+Jan 10, 2024
+#124
+ 
+ 
+Reactions:
+91Eunozs
+bobke
+Sergeant
+Full Member
+Minuteman
+Supporter
+Sep 17, 2010
+1,527
+727
+Hill Country, Texas
+Jan 10, 2024
+#125
+This was an exceptional string for SD, and most others run 5-7 SD, but 2550ish is my everyday load using 120 Scenar L, 27.0gr AR Comp, CCI450 at 2.225 OAL, which is about .020-.025 off lands in 20” Proof CF barrel. Not a universal load for all my Grendel’s, but damn close. Velocity varies by chamber specs and barrel length.
+ 
+ 
+Reactions:
+LRRPF52 and 45-90
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,672
+1,621
+USA
+Jan 10, 2024
+#126
+Cascade Hemi said:
+2550 with 115 out of an 18" barrel is well past 52kPSI, more like 62kPSI. AR based Grendels don't handle pressure very well for long.
+The Hornady manual for "Gas Guns" says, for an 18" barrel 110 Atip 2575 fps ...
+Total face plant, dude! And it beats the Grendel with a .604 BC and higher muzzle velocities... IN THE HORNADY RELOADING MANUAL 11th edition.
+Like I said, ,..."the Facts"... If you can't push a 140 gr class or 135 gr Atip past 2600 fps in an AR 15, with 18" barrel, feeding out of the mag. ... Then the 6.5 grendel can't beat the 6 ARC period...Fact.
+In a 24" bolt gun for 110 Atip .604 BC the Manual says 2850 fps... way out of reach of the 6.5 grendel...from the manufacturer... Not me.
+The discussion is over on trajectory.
+ 
+ 
+Reactions:
+LRRPF52
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 10, 2024
+#127
+Last I checked 115DTAC and 115RDF aren't 110 Atip
+
+Cartridge : 6 mm ARC
+Bullet : .243, 115, DTAC HPBT
+Useable Case Capaci: 28.678 grain H2O = 1.862 cm³
+Cartridge O.A.L. L6: 2.260 inch = 57.40 mm
+Barrel Length : 18.0 inch = 457.2 mm
+Powder : Hodgdon LVR
+
+Predicted data by increasing and decreasing the given charge,
+incremented in steps of 1.0% of nominal charge.
+CAUTION: Figures exceed maximum and minimum recommended loads !
+
+Step Fill. Charge Vel. Energy Pmax Pmuz Prop.Burnt B_Time
+% % Grains fps ft.lbs psi psi % ms
+
+-10.0 100 26.46 2299 1350 44914 9598 93.3 1.145 ! Near Maximum !
+-09.0 101 26.75 2326 1382 46508 9718 93.8 1.127 ! Near Maximum !
+-08.0 102 27.05 2354 1415 48169 9836 94.3 1.109 ! Near Maximum !
+-07.0 103 27.34 2381 1448 49893 9950 94.8 1.091 ! Near Maximum !
+-06.0 105 27.64 2409 1482 51688 10060 95.3 1.073 !DANGEROUS LOAD-DO NOT USE!
+-05.0 106 27.93 2437 1516 53554 10167 95.7 1.056 !DANGEROUS LOAD-DO NOT USE!
+-04.0 107 28.22 2464 1551 55497 10271 96.2 1.039 !DANGEROUS LOAD-DO NOT USE!
+-03.0 108 28.52 2492 1586 57521 10370 96.6 1.022 !DANGEROUS LOAD-DO NOT USE!
+-02.0 109 28.81 2520 1621 59627 10465 97.0 1.006 !DANGEROUS LOAD-DO NOT USE!
+-01.0 110 29.11 2548 1657 61826 10556 97.3 0.990 !DANGEROUS LOAD-DO NOT USE!
++00.0 111 29.40 2575 1694 64116 10643 97.7 0.974 !DANGEROUS LOAD-DO NOT USE!
++01.0 112 29.69 2603 1731 66505 10726 98.0 0.959 !DANGEROUS LOAD-DO NOT USE!
++02.0 113 29.99 2631 1768 68999 10803 98.3 0.944 !DANGEROUS LOAD-DO NOT USE!
++03.0 115 30.28 2659 1805 71603 10876 98.6 0.929 !DANGEROUS LOAD-DO NOT USE!
++04.0 116 30.58 2687 1844 74326 10944 98.8 0.914 !DANGEROUS LOAD-DO NOT USE!
++05.0 117 30.87 2715 1882 77171 11007 99.0 0.899 !DANGEROUS LOAD-DO NOT USE!
+ 
+ 
+Reactions:
+Tx_Aggie and 45-90
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,672
+1,621
+USA
+Jan 10, 2024
+#128
+bobke said:
+This was an exceptional string for SD, and most others run 5-7 SD, but 2550ish is my everyday load using 120 Scenar L, 27.0gr AR Comp, CCI450 at 2.225 OAL, which is about .020-.025 off lands in 20” Proof CF barrel. Not a universal load for all my Grendel’s, but damn close. Velocity varies by chamber specs and barrel length.View attachment 8319895View attachment 8319897View attachment 8319896
+The 120 gr Senar L has a published BC of .497.
+I'm running 115 gr bullets, just 5 grains less with over .6 BC with similar velocities from a shorter 18" barrel...2" shorter. So down range performance would be in favor of the 6 mm ARC.
+But... none of that needs to matter, only for the sake of a ballistics discussion, and which has the edge.
+Your 6.5 grendel is dialed in, and just how you like it.
+Excellent, it's the one for you.
+Maybe later, consider the 6 ARC, ... Or, maybe not.
+It's what makes ya happy and what's working for you...and that makes the 6.5 Grendel, your choice, and a good one.
+ 
+ 
+Reactions:
+AZLONGRIDER
+K
+KCode
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 25, 2019
+280
+159
+Jan 10, 2024
+#129
+I want to know why 45-90 is laughing at every post. Without context it's a hell of a cliff hanger.
+ 
+K
+KCode
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 25, 2019
+280
+159
+Jan 10, 2024
+#130
+Top O' Texas said:
+I prefer the 6.8spc over the 6.5gren every day.
+
+But not for long range
+ 
+ 
+Reactions:
+Top O' Texas
+Top O' Texas
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 19, 2023
+300
+113
+Texas
+Jan 10, 2024
+#131
+KCode said:
+But not for long range
+EXACTLY! 500-600 yards would be my may purpose, but more of 300-500 yards. 85-115gr (maybe 123 max weight) is all I'll load for in both cartridges.
+ 
+K
+KCode
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 25, 2019
+280
+159
+Jan 10, 2024
+#132
+Top O' Texas said:
+EXACTLY! 500-600 yards would be my may purpose, but more of 300-500 yards. 85-115gr (maybe 123 max weight) is all I'll load for in both cartridges.
+
+I'm tryina go for that 1 thouwow though!
+ 
+ 
+Reactions:
+Top O' Texas
+T
+Tx_Aggie
+Gig 'em
+Supporter
+Full Member
+Minuteman
+Sep 3, 2017
+1,253
+1,513
+VA
+Jan 10, 2024
+#133
+KCode said:
+I want to know why 45-90 is laughing at every post. Without context it's a hell of a cliff hanger.
+
+Because he's a troll. And because he hasn't shot his 115 grain loads enough yet to start breaking lugs off of the bolt in his rifle.
+ 
+ 
+Reactions:
+KCode
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,672
+1,621
+USA
+Jan 10, 2024
+#134
+Cascade Hemi said:
+Last I checked 115DTAC and 115RDF aren't 110 Atip
+
+Cartridge : 6 mm ARC
+Bullet : .243, 115, DTAC HPBT
+Useable Case Capaci: 28.678 grain H2O = 1.862 cm³
+Cartridge O.A.L. L6: 2.260 inch = 57.40 mm
+Barrel Length : 18.0 inch = 457.2 mm
+Powder : Hodgdon LVR
+
+Predicted data by increasing and decreasing the given charge,
+incremented in steps of 1.0% of nominal charge.
+CAUTION: Figures exceed maximum and minimum recommended loads !
+
+Step Fill. Charge Vel. Energy Pmax Pmuz Prop.Burnt B_Time
+% % Grains fps ft.lbs psi psi % ms
+
+-10.0 100 26.46 2299 1350 44914 9598 93.3 1.145 ! Near Maximum !
+-09.0 101 26.75 2326 1382 46508 9718 93.8 1.127 ! Near Maximum !
+-08.0 102 27.05 2354 1415 48169 9836 94.3 1.109 ! Near Maximum !
+-07.0 103 27.34 2381 1448 49893 9950 94.8 1.091 ! Near Maximum !
+-06.0 105 27.64 2409 1482 51688 10060 95.3 1.073 !DANGEROUS LOAD-DO NOT USE!
+-05.0 106 27.93 2437 1516 53554 10167 95.7 1.056 !DANGEROUS LOAD-DO NOT USE!
+-04.0 107 28.22 2464 1551 55497 10271 96.2 1.039 !DANGEROUS LOAD-DO NOT USE!
+-03.0 108 28.52 2492 1586 57521 10370 96.6 1.022 !DANGEROUS LOAD-DO NOT USE!
+-02.0 109 28.81 2520 1621 59627 10465 97.0 1.006 !DANGEROUS LOAD-DO NOT USE!
+-01.0 110 29.11 2548 1657 61826 10556 97.3 0.990 !DANGEROUS LOAD-DO NOT USE!
++00.0 111 29.40 2575 1694 64116 10643 97.7 0.974 !DANGEROUS LOAD-DO NOT USE!
++01.0 112 29.69 2603 1731 66505 10726 98.0 0.959 !DANGEROUS LOAD-DO NOT USE!
++02.0 113 29.99 2631 1768 68999 10803 98.3 0.944 !DANGEROUS LOAD-DO NOT USE!
++03.0 115 30.28 2659 1805 71603 10876 98.6 0.929 !DANGEROUS LOAD-DO NOT USE!
++04.0 116 30.58 2687 1844 74326 10944 98.8 0.914 !DANGEROUS LOAD-DO NOT USE!
++05.0 117 30.87 2715 1882 77171 11007 99.0 0.899 !DANGEROUS LOAD-DO NOT USE!
+Click to expand...
+
+I have Quick Load too...it is for reference only.
+The reason is sometimes is off..alot..just a helpful tool...kinda.
+Example 6mm ARC 110 gr Atip "From the Manual."
+SO IF ya just plug Hornadys Manual information into QL with the 110 gr Atip with 29.7 gr of Leverevolution 2.245" COAL ...QL has ridiculously high pressures and velocity.
+Then plug in the 108 ELDM, same charge, same wrong conclusion.
+Obviously...Wrong!
+Did the manufacturer of QL say for reference only ...use the loading data from the powder companies, and bullet manufacturers.
+And my DTAC loads are .3 under the manual for the 110 gr Atip, and the 115 gr with the BN coating. ..when corrected it comes out to 51,800 psi.and the same velocity.
+QL is way off on this one, as it is quite often...fuge the numbers to get some correlation to represent actual testing from manufacturers & from actual chronographed load data. Trust the loading manuals more than QL and even the manuals have had a primer blowing load in them from time to time.
+These manual top loads have been running in my 6mm ARC for several years, and a few thousand rds, no problem. That’s why Hornady separated the gas guns from the bolt guns with different maximum charges.
+Think of the liability Hornady would have if all these loads were seriously way over pressure as QL would suggest.
+Go to the loading manuals if in doubt about any load you encounter, including mine...don't like it, don't use it simple...stay within your comfort and /or accuracy zone...absolutely, your choice.
+No matter how ya slice it the 6mm ARC has a better trajectory than the 6.5 grendel, and that may not be of concern to many.
+I doubt if anyone cares, which you choose, as your cartridge.
+ 
+ 
+Reactions:
+LRRPF52
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 10, 2024
+#135
+45-90 said:
+I have Quick Load too...it is for reference only.
+The reason is sometimes is off..alot..just a helpful tool...kinda.
+Example 6mm ARC 110 gr Atip "From the Manual."
+SO IF ya just plug Hornadys Manual information into QL with the 110 gr Atip with 29.7 gr of Leverevolution 2.245" COAL ...QL has ridiculously high pressures and velocity.
+Then plug in the 108 ELDM, same charge, same wrong conclusion.
+Obviously...Wrong!
+Did the manufacturer of QL say for reference only ...use the loading data from the powder companies, and bullet manufacturers.
+And my DTAC loads are .3 under the manual for the 110 gr Atip, and the 115 gr with the BN coating. ..when corrected it comes out to 51,800 psi.and the same velocity.
+QL is way off on this one, as it is quite often...fuge the numbers to get some correlation to represent actual testing from manufacturers & from actual chronographed load data. Trust the loading manuals more than QL and even the manuals have had a primer blowing load in them from time to time.
+These manual top loads have been running in my 6mm ARC for several years, and a few thousand rds, no problem. That’s why Hornady separated the gas guns from the bolt guns with different maximum charges.
+Think of the liability Hornady would have if all these loads were seriously way over pressure as QL would suggest.
+Go to the loading manuals if in doubt about any load you encounter, including mine...don't like it, don't use it simple...stay within your comfort and /or accuracy zone...absolutely, your choice.
+No matter how ya slice it the 6mm ARC has a better trajectory than the 6.5 grendel, and that may not be of concern to many.
+I doubt if anyone cares, which you choose, as your cartridge.
+Click to expand...
+
+You're kidding yourself. 6ARC in QL matches relatively closely to all of the load data published by Hodgdon. 110Atip has a substantially shorter bearing surface than both 115 Dtac and 115 RDF. hBN doesn't change the pressure enough to make your loads safe either.
+
+
+ 
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,672
+1,621
+USA
+Jan 10, 2024
+#136
+Cascade Hemi said:
+You're kidding yourself. 6ARC in QL matches relatively closely to all of the load data published by Hodgdon. 110Atip has a substantially shorter bearing surface than both 115 Dtac and 115 RDF. hBN doesn't change the pressure enough to make your loads safe either.
+
+View attachment 8320071
+Welll, its working for me, and my main bullets are the 108s Berger and Hornady, with a loading data max charge, and the 110 gr SMK and 110 Atip, both the same powder charge, and the 115 gr .3 below.
+So my 115 load has slightly lower pressure than the 107 & 108s but both over pressure according to QL... but book max According to the Hornady manual. So Hornady manual loads are considered safe and tested with actual expensive measuring equipment.
+So I'm going with QL suggestions and using the manual data, as max with QL suggested pressure, as a reference.
+Then if I get the same pressure with both loads and its reasonable, it would then be suggested as a safe maximum load. ...and it works well for me in in my rifles. You don't like it, do it your way.
+ 
+Attachments
+20240110_194210.jpg
+1,016.3 KB · Views: 53
+20240110_193954.jpg
+1 MB · Views: 55
+ 
+Reactions:
+LRRPF52
+K
+KCode
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 25, 2019
+280
+159
+Jan 10, 2024
+#137
+So other than target shooting at range, does the 6 ARC serve any other purpose? Just watched a video of some hogs being hunted with the 6 ARC and every hog that wasn't head shot had to be followed up twice and three times before they went down. Not sure how much better 6.5 Grendel would do but.
+ 
+Last edited: Jan 10, 2024
+ 
+Reactions:
+godofthunder
+4
+45-90
+Major Hide Member
+Full Member
+Minuteman
+May 29, 2023
+1,672
+1,621
+USA
+Jan 11, 2024
+#138
+KCode said:
+So other than target shooting at range, does the 6 ARC serve any other purpose? Just watched a video of some hogs being hunted with the 6 ARC and every hog that wasn't head shot had to be followed up twice and three times before they went down. Not sure how much better 6.5 Grendel would do but.
+Quite a few people use the 6 ARC for hunting, I do not...but like the guy who shot 60 coyotes on Coyote Down, video out to 700 yds, and many on the run most appeared to be one shot kills.
+Shot placement with enough penetration the key. When shot placement is off or bullet failure, caliber size, comes into play ...a larger caliber may have an edge.
+Depending on the actual wound size & depth that was left, buy the bullet, which did the most damage, regardless of caliber,.. wins.
+But then there thousands of hogs, cows, and alligators, that have been killed up close, with a 22 LR as seem on TV, with Alligator hunters.
+So it would be probably pretty close between the 6 arc & 6.5 G. Bullet selection might be more important than caliber, in these close encounters.
+I like large caliber magnums when killing stuff...
+Starting at 300, & moving up, 338, 416, and 50BMG. The 300 being on the small side. So the 338 with 250 gr cup and core, with heavy lead, soft bullet, and high velocity are extremely effective on deer,... and squirrels.
+The 22 LR will kill, but a few, may want something a little effective, then blood leaking out of a tiny brain wound.
+ 
+Top O' Texas
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 19, 2023
+300
+113
+Texas
+Jan 11, 2024
+#139
+I get lots of overpressure warnings when using ql with printed data from sierra, berger, nosler and many others and not just on rifle, but pistol also. I'll readjust usable volume to meet "x" amount of charge percentage and still not the same result as printed data. Some reach 80k+ on 50-60k max pressure for cartridge. So, yes it's just a tool and can be helpful to a point. Being able to adjust for ALL parameters including atmospheric conditions along with primer charge/type of and brand of makes a difference in outcome! Knowing what case volume is a start and confirming powder volume/density (and being able to adjust for it) and not just bullet length, but drag (bearing surface which isn't part of the program) for proper results! What you CAN'T adjust for is lead/throat which CAN lower pressure (not any different than seating a bullet further out to make more room for powder which at a shorter length would have more pressure especially with more charge). Trim length is not an adjustment for shoulder bump, but does show lower pressure!
+ 
+ 
+Reactions:
+45-90, LRRPF52 and Tx_Aggie
+J
+JS8588
+Ballistic Hipster
+Full Member
+Minuteman
+Apr 7, 2020
+649
+591
+NEPA
+Jan 11, 2024
+#140
+KCode said:
+Not sure how much better 6.5 Grendel would do but.
+https://youtube.com/@CarpeSus?si=4kCVhXiqTUh5X5mv
+ 
+ 
+Reactions:
+LRRPF52
+S
+Shoots 700's
+Sergeant
+Full Member
+Minuteman
+Jun 26, 2008
+1,731
+1,147
+Chester, Virginia
+Jan 11, 2024
+#141
+KCode said:
+So other than target shooting at range, does the 6 ARC serve any other purpose? Just watched a video of some hogs being hunted with the 6 ARC and every hog that wasn't head shot had to be followed up twice and three times before they went down. Not sure how much better 6.5 Grendel would do but.
+Are you going to hunt hogs?
+ 
+T
+towerofpower93
+Private
+Full Member
+Minuteman
+Jul 11, 2010
+756
+464
+41
+Jan 11, 2024
+#142
+rothgyr said:
+My 18" Grendel gets 2485 with 123 Scenars and 28gr 8208 XBR. I get some slight pressure marks on the brass, but nothing over the top.
+I'm using almost the exact same load and getting almost the exact same velocities. No pressure signs on my 1x or 2x fired Hornady brass, FWIW.
+
+18" 6.5G Larue suppressed w/ SDN-6
+123gr Hornady ELD-M
+Rem 7.5 SR primer
+1 x fired Hornady brass
+28.5gr 8208 XBR
+OAL 2.250”
+
+5rd group from load dev
+
+Lo: 2442
+Hi: 2468
+Avg: 2457
+ES: 27
+SD: 10.1
+
+24rd group to get more ES/SD input
+
+Lo: 2446
+Hi: 2494
+Avg: 2466
+ES: 48
+SD: 14.6
+
+20rd group b/c I had the LabRadar setup already
+
+Lo: 2464
+Hi: 2517
+Avg: 2487
+ES: 53
+SD: 11.5
+
+25rd group b/c I had the LabRadar setup already
+
+Lo: 2456
+Hi: 2510
+Avg: 2483
+ES: 54
+SD: 15.6
+ 
+Last edited: Jan 11, 2024
+ 
+Reactions:
+LRRPF52
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 11, 2024
+#143
+45-90 said:
+Welll, its working for me, and my main bullets are the 108s Berger and Hornady, with a loading data max charge, and the 110 gr SMK and 110 Atip, both the same powder charge, and the 115 gr .3 below.
+So my 115 load has slightly lower pressure than the 107 & 108s but both over pressure according to QL... but book max According to the Hornady manual. So Hornady manual loads are considered safe and tested with actual expensive measuring equipment.
+So I'm going with QL suggestions and using the manual data, as max with QL suggested pressure, as a reference.
+Then if I get the same pressure with both loads and its reasonable, it would then be suggested as a safe maximum load. ...and it works well for me in in my rifles. You don't like it, do it your way.
+Click to expand...
+
+The reason QL is saying A-Tip and 107SMK have similar pressure is because A-Tip has the bearing surface of a 105gr class bullet. Anyone with experience loading Grendel, and Grendel wildcats, in an AR should know it doesn't show traditional pressure signs; velocity is the pressure sign. DTAC out of an 18" barrel going 2550 is the pressure sign and your load isn't safe. Your load doesn't have less pressure than 107's, it has more. Now it seems like you're backpedaling from your chronograph post which clearly shows velocity that correlates to unsafe pressures. Hornady didn't publish load data saying your DTAC and RDF loads were safe, you foolishly assumed two different bullets will have similar pressures.
+
+In the end it is your choice how you load ammo. Your post needs a warning though, and you may want to keep a spare bolt on hand.
+ 
+ 
+Reactions:
+Tx_Aggie
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 11, 2024
+#144
+TonyTheTiger said:
+I don't know, my 6mm makes sufficiently audible impacts at 850.
+
+Click to expand...
+
+Nice. It’s fun double-tapping steel at distance. In no-wind conditions, I can hear 68 and 69gr SMK impact steel just fine as well at distance from .223 Rem, it’s just that we only see those kinds of conditions at night, with a few exceptions. Same with the 80gr ELD-M fired from a 40˚ Imp Fireball at 1000yds. Once the wind gets even to 5mph full value, the audible impacts weaken or disappear. There definitely isn’t the kind of bullet splash either for spotters. The little bullets kinda just bounce off the target intact and land on the ground near the target.
+
+At night, I love double and tripling steel with suppressed SPRs, 16” ARs, etc. in 5.56 because it’s calm and there’s no wind, but even the 12” Grendel hits the steel so much harder. It’s way more impressive than 24” bolt gun .223 as well. They’re all fun, but I like really positive feedback from impacts.
+ 
+ 
+Reactions:
+bfoosh006 and TonyTheTiger
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 11, 2024
+#145
+45-90 said:
+Modern bullets in 6mm have a much higher BC than the old ones pictured.
+Most are .520 to .604 BC So that is an invalid comparison, for 6 mm to 6.5 mm
+I run those,high .6 BC bullets including the 115 DTAC, 112 gr Barns, and 110 SMK & Atip.
+The 6 mm ARC is very accurate for an autoloader.
+This is one of two 18" AR 15s with Proof barrels, both are accurate.
+Bolt guns can add several hundred fps, because they run at higher pressures than tbe the autos.
+I prefer the 6 Dasher in a bolt gun, and the 6 ARC for the AR 15 platform.
+And it out performs the Grendel there, because they are both limited to the weak bolt pressures, and mag lengths.
+You'd have to get a 140 class or 135 gr Atip going 2600 fps in an 18" barrel AR 15 with its magazine and pressure constraints to slightly beat the 6 mm ARC trajectory, in the same platform and barrel length. The 115 pictured has a .634 BC printed on the box at 2551 fps the other 115 gr DTAC is 2532 fps fps average velocity...from the 18" AR mag feed.
+Just the facts ...
+Click to expand...
+Those are great loads. Nothing wrong with them at all.
+ 
+ 
+Reactions:
+45-90 and JS8588
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 11, 2024
+#146
+Cascade Hemi said:
+Last I checked 115DTAC and 115RDF aren't 110 Atip
+
+Cartridge : 6 mm ARC
+Bullet : .243, 115, DTAC HPBT
+Useable Case Capaci: 28.678 grain H2O = 1.862 cm³
+Cartridge O.A.L. L6: 2.260 inch = 57.40 mm
+Barrel Length : 18.0 inch = 457.2 mm
+Powder : Hodgdon LVR
+
+Predicted data by increasing and decreasing the given charge,
+incremented in steps of 1.0% of nominal charge.
+CAUTION: Figures exceed maximum and minimum recommended loads !
+
+Step Fill. Charge Vel. Energy Pmax Pmuz Prop.Burnt B_Time
+% % Grains fps ft.lbs psi psi % ms
+
+-10.0 100 26.46 2299 1350 44914 9598 93.3 1.145 ! Near Maximum !
+-09.0 101 26.75 2326 1382 46508 9718 93.8 1.127 ! Near Maximum !
+-08.0 102 27.05 2354 1415 48169 9836 94.3 1.109 ! Near Maximum !
+-07.0 103 27.34 2381 1448 49893 9950 94.8 1.091 ! Near Maximum !
+-06.0 105 27.64 2409 1482 51688 10060 95.3 1.073 !DANGEROUS LOAD-DO NOT USE!
+-05.0 106 27.93 2437 1516 53554 10167 95.7 1.056 !DANGEROUS LOAD-DO NOT USE!
+-04.0 107 28.22 2464 1551 55497 10271 96.2 1.039 !DANGEROUS LOAD-DO NOT USE!
+-03.0 108 28.52 2492 1586 57521 10370 96.6 1.022 !DANGEROUS LOAD-DO NOT USE!
+-02.0 109 28.81 2520 1621 59627 10465 97.0 1.006 !DANGEROUS LOAD-DO NOT USE!
+-01.0 110 29.11 2548 1657 61826 10556 97.3 0.990 !DANGEROUS LOAD-DO NOT USE!
++00.0 111 29.40 2575 1694 64116 10643 97.7 0.974 !DANGEROUS LOAD-DO NOT USE!
++01.0 112 29.69 2603 1731 66505 10726 98.0 0.959 !DANGEROUS LOAD-DO NOT USE!
++02.0 113 29.99 2631 1768 68999 10803 98.3 0.944 !DANGEROUS LOAD-DO NOT USE!
++03.0 115 30.28 2659 1805 71603 10876 98.6 0.929 !DANGEROUS LOAD-DO NOT USE!
++04.0 116 30.58 2687 1844 74326 10944 98.8 0.914 !DANGEROUS LOAD-DO NOT USE!
++05.0 117 30.87 2715 1882 77171 11007 99.0 0.899 !DANGEROUS LOAD-DO NOT USE!
+Click to expand...
+Quick Load is almost always at least 9,000psi higher than reality compared to actual pressure test breeches from Hodgdon’s and Western Powders published data. Keep in mind that ballisticians at these companies will calibrate their test breeches over significant periods of time before taking large sample size readings, then get at least 10-shot averages for each of the loads they publish. Ammunition manufacturers have to do this as well, with multiple samples of the lots taken regularly so they don’t put out excessive pressure loads that exceed the SAAMI MAP, MPLM, and MPSM standards.
+
+A thing people need to keep in mind with QL is that the developers of QL don’t have any test breeches for all these cartridges. They have theoretical chamber models that they run burn rate and projectile resistance calculations against, none of which have been accurate for 6.5 Grendel over the years. We have run comparisons between actual test breeches and the published data, and it’s generally 9,000 - 15,000psi higher in QL.
+
+Unless you know how to calibrate it based on your own test breech readings and tweak your own internal ballistics model, the QL numbers for Grendel and some other small cases with 30˚ shoulders is basically useless, highly erroneous.
+
+For example, we have seen loads that only produce peak pressures in the mid-high 40ksi region manifest as 62ksi and higher in QL. If you've seen anyone publishing QL numbers for these cartridges, be aware of this. This isn’t me just posting something I heard from a retard on Barf, but actual real-world data from calibrated test breeches in multiple companies who have been doing this for generations.
+ 
+Last edited: Jun 7, 2024
+ 
+Reactions:
+Yondering and 45-90
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 11, 2024
+#147
+KCode said:
+So other than target shooting at range, does the 6 ARC serve any other purpose? Just watched a video of some hogs being hunted with the 6 ARC and every hog that wasn't head shot had to be followed up twice and three times before they went down. Not sure how much better 6.5 Grendel would do but.
+I think any cartridge that stuffs about 30gr of powder in it behind an 80-110gr bullet is going to put hogs down similarly, depending on bullet construction and impact velocity more than anything.
+
+The place where any of these differences start to make sense is hunting coyotes farther than the limits of .223 Rem or 6.8 SPC. Both the 6.5 Grendel and 6mm ARC will keep a 80-110gr really flat within the medium distances commonly seen for plains hunting yotes, namely from 300-500yds. It’s a bit sketchy to push beyond that unless you’re more skilled, since they’re very skittish and always moving. We’re surrounded by them where I live. They’re always looking for someone’s coops, pets, and cattle.
+
+Any of the .224” cartridges including the Fireball work well on yotes within 200-300yds, depending on bullet used.
+
+Flat 6mm and 6.5s work well out to 500yds. The new Hornady ELD-VT is really geared towards those types of shooting, and will be available for 22 ARC, 6 ARC, and 6.5 Grendel.
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 11, 2024
+#148
+JS8588 said:
+https://youtube.com/@CarpeSus?si=4kCVhXiqTUh5X5mv
+He has been stacking hogs like corkwood for the better part of a decade now with various 6.5 Grendel rifles, carbines, and factory ammunition. He has used 90gr TNT and 123gr Hornady SST the most I think.
+
+But so have others with 6.8 SPC.
+
+The hunting bullet to beat in general for medium game is the 129gr Nosler Accubond Long Range, since it expands down to 1300fps. It’s a one-shot drop bullet with very few animals that have walked away, works great from short barrels too. But SSTs and even the old A-MAX has been killing everything people have used them for over the past 10-15 years. We did hunting surveys that included bullet types, shot distances, travel distance from the shot, and barrel lengths that went well over 600 samples. 85% of the animals all were dead on the spot or didn’t make it outside of 25 yards.
+
+6mm Grendel and 6mm ARC are like a slower .243 Win with less recoil, just like Grendel is a slower 6.5x55 Mauser.
+ 
+ 
+Reactions:
+Jsp556, FWoo45, Bart and 1 other person
+C
+Cascade Hemi
+Old Salt
+Full Member
+Minuteman
+Feb 9, 2019
+3,157
+3,382
+PNW
+Jan 11, 2024
+#149
+LRRPF52 said:
+Quick Load is almost always at least 9,000psi higher than reality compared to actual pressure test breeches from Hodgdon’s and Western Powders published data. Keep in mind that ballisticians at these companies will calibrate their test breeches over significant periods of time before taking large sample size readings, then get at least 10-shot averages for each of the loads they publish. Ammunition manufacturers have to do this as well, with multiple samples of the lots taken regularly so they don’t put out excessive pressure loads that exceed the SAAMI MAP, MPLM, and MPSM standards.
+
+A thing people need to keep in mind with QL is that the developers of QL don’t have any test breeches for all these cartridges. They have theoretical chamber models that they run burn rate and projectile resistance calculations against, none of which have been accurate for 6.5 Grendel over the years. We have run comparisons between actual test breeches and the published data, and it’s generally 9,000 - 15,000psi higher in QL.
+
+Unless you know how to calibrate it based on your own test breech readings and tweak your own internal ballistics model, the QL numbers for Grendel and some other small cases with 30˚ shoulders is basically useless, highly erroneous.
+
+For example, we have seen loads that only produce peak pressures in the mid-high 40ksi region manifest as 62ksi and higher in QL. If you seen anyone publishing QL numbers for these cartridges, be aware of this. This isn’t me just posting something I heard from a retard on Barf, but actual real-world data from calibrated test breeches in multiple companies who have been doing this for generations.
+Click to expand...
+I had QL when Grendel was first added and the pressure estimations were totally inaccurate. In recent years QL has released updates that are much closer to what users observe. Here is the data from both Hodgdon and QL. In this case, QL is estimating less pressure than the powder manufacturer, not more. QL underestimates Hornady's data too. When you substitute DTAC for A-Tip you significantly increase the pressure. That is what more bearing surface does.
+
+
+Cartridge: 6 MM ARC
+Your search returned 1 loads
+Twist: 1:7.500"
+
+Barrel Length: 24.000"
+
+Trim Length: 1.480"
+Bullet: 107 GR. SIE HPBT
+
+Diameter: 0.243"
+
+Case: Hornady
+
+Primer: Federal 205M, Small Rifle Match
+
+
+	Starting Load		Maximum Load		Availability							
+Manufacturer	Powder	C.O.L.		Grs.	Vel. (ft/s)	Pressure		Grs.	Vel. (ft/s)	Pressure		
+Hodgdon	LVR
+
+
+
+
+
+	2.260"		25.4	2,400	37,700 PSI		28.2	2,669	51,800 PSI		Buy Now
+
+Cartridge : 6 mm ARC
+Bullet : .243, 107, Sierra HPBT MK 1570
+Useable Case Capaci: 29.319 grain H2O = 1.904 cm³
+Cartridge O.A.L. L6: 2.260 inch = 57.40 mm
+Barrel Length : 24.0 inch = 609.6 mm
+Powder : Hodgdon LVR
+
+Predicted data by increasing and decreasing the given charge,
+incremented in steps of 1.0% of nominal charge.
+CAUTION: Figures exceed maximum and minimum recommended loads !
+
+Step Fill. Charge Vel. Energy Pmax Pmuz Prop.Burnt B_Time
+% % Grains fps ft.lbs psi psi % ms
+
+-10.0 94 25.38 2354 1316 35658 6590 91.4 1.453
+-09.0 95 25.66 2381 1347 36822 6676 91.9 1.434
+-08.0 96 25.94 2408 1377 38028 6761 92.5 1.412
+-07.0 97 26.23 2435 1408 39276 6844 93.0 1.392
+-06.0 98 26.51 2461 1439 40569 6925 93.5 1.372
+-05.0 99 26.79 2488 1471 41908 7004 94.0 1.351
+-04.0 100 27.07 2515 1503 43296 7081 94.4 1.332
+-03.0 101 27.35 2542 1536 44735 7155 94.9 1.312 ! Near Maximum !
+-02.0 102 27.64 2569 1568 46226 7228 95.3 1.293 ! Near Maximum !
+-01.0 103 27.92 2596 1601 47773 7298 95.7 1.275 ! Near Maximum !
++00.0 104 28.20 2623 1635 49378 7366 96.1 1.256 ! Near Maximum !
++01.0 105 28.48 2650 1669 51045 7431 96.5 1.238 ! Near Maximum !
++02.0 106 28.76 2677 1703 52774 7494 96.9 1.220 !DANGEROUS LOAD-DO NOT USE!
++03.0 107 29.05 2704 1738 54570 7554 97.2 1.203 !DANGEROUS LOAD-DO NOT USE!
++04.0 108 29.33 2731 1772 56432 7612 97.5 1.185 !DANGEROUS LOAD-DO NOT USE!
++05.0 110 29.61 2758 1808 58375 7666 97.9 1.168 !DANGEROUS LOAD-DO NOT USE!
+
+Results caused by ± 10% powder lot-to-lot burning rate variation using nominal charge
+Data for burning rate increased by 10% relative to nominal value:
++Ba 104 28.20 2762 1812 59865 7331 99.7 1.163 !DANGEROUS LOAD-DO NOT USE!
+Data for burning rate decreased by 10% relative to nominal value:
+-Ba 104 28.20 2443 1418 40248 7007 88.5 1.376
+ 
+LRRPF52
+Sergeant
+Full Member
+Minuteman
+Mar 13, 2012
+3,144
+5,645
+SLC, Utah
+Jan 11, 2024
+#150
+Cascade Hemi said:
+The reason QL is saying A-Tip and 107SMK have similar pressure is because A-Tip has the bearing surface of a 105gr class bullet. Anyone with experience loading Grendel, and Grendel wildcats, in an AR should know it doesn't show traditional pressure signs; velocity is the pressure sign. DTAC out of an 18" barrel going 2550 is the pressure sign and your load isn't safe. Your load doesn't have less pressure than 107's, it has more. Now it seems like you're backpedaling from your chronograph post which clearly shows velocity that correlates to unsafe pressures. Hornady didn't publish load data saying your DTAC and RDF loads were safe, you foolishly assumed two different bullets will have similar pressures.
+
+In the end it is your choice how you load ammo. Your post needs a warning though, and you may want to keep a spare bolt on hand.
+Click to expand...
+His numbers all look good to me. He’s loading longer than the book COLs which increases volume, and therefore decreases peak pressure.
+
+His 110gr A-Tip data is within Hornady’s published gas gun data, but at longer COL so as long as it’s not jamming the lands, it should be fine.
+
+115gr DTAC is a Sierra-made bullet for Tubbs if I recall, so the jacket thickness and core ductility have been similar to the Hornady AMP jackets at least in 6.5mm, only 6.5mm SMKs are a lot longer than 123gr Hornady bullets, whereas the 109-115gr 6mms are very similar. The 115gr DTAC does appear to have more bearing surface, but again, he’s loading longer and using a very forgiving powder that has optimum burn rate for the heavier 6mm VLD bullets.
+
+LVR does really well at generating velocity without going crazy in these small cases with 30˚ shoulders. If I was shooting 6mm AR, Turbo, or ARC, I would be shooting the same bullets he is at the same COLs, with the same powders, but I would make sure to not use Elanders. I would use CProducts or the newer ASC mags made in the last 5 years. Elanders will constrain your usable COL, though they are very smooth inside with follower-to-body coefficient of friction.
+
+If I was shooting 6mm ARC chasing 52,000psi loads, I would get either a SixFive Outfitters/Rexus Ultrabolt or the SOLGW AerMet 100 bolt just to alleviate any concerns about that. With AerMet, I would want an AerMet barrel extension too though. You don’t want to overpower the extension with bolt thrust.
+ 
+ 
+Reactions:
+45-90 and JS8588
+Prev
+1
+	
+2
+	
+3
+	
+4
+	
+5
+	
+…
+	
+11
+Next
+You must log in or register to reply here.
+Similar threads
+S
+	
+Firearms LaRue Tactical 6.5 Grendel Upper receiver
+sheffn Oct 1, 2024 Buy - Sell - Trade
+0
+Oct 1, 2024
+C
+	
+Would like some help with First Build "6.5 Grendel 12.5" Ultralight
+chadwickz71 Apr 28, 2024 Semi-Automatic Rifles
+41
+Aug 31, 2024
+	
+Looking For 6.5 Grendel Reliability Optimizations
+rothgyr Oct 18, 2023 Semi-Automatic Rifles
+21
+Nov 20, 2023
+A
+	
+6.5 Grendel with Lilja barrel won't shoot straight
+AZgrendel Oct 25, 2024 Semi-Automatic Rifles
+14
+Dec 25, 2024
+	
+10yr Review of 17.6” Lilja 6.5 Grendel
+LRRPF52 Mar 21, 2024 Semi-Automatic Rifles
+30
+Nov 25, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/would-you-get-into-6-5-grendel-in-2024.7202648/page-3 
+ ----- 

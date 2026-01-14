@@ -1,0 +1,332 @@
+ZIM vs IRE
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+News
+Photos
+RESULT
+1st T20I, Harare, January 12, 2023, Ireland tour of Zimbabwe
+IRE
+114
+ZIM
+(18/20 ov, T:115) 118/5
+
+Zimbabwe won by 5 wickets (with 12 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+IRE 0.00%
+ZIM 100%
+IRE
+ZIM
+100%
+50%
+100%
+IRE Innings
+ZIM Innings
+
+Over 18 • ZIM 118/5
+
+Zimbabwe won by 5 wickets (with 12 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+News
+Photos
+PLAYER OF THE MATCH
+Ryan Burl
+, ZIM
+3/29
+CRICINFO'S MVP
+Mark Adair
+, IRE
+65.08 pts
+Impact List
+Ireland
+Zimbabwe
+Match Flow
+Info
+Ireland  (20 ovs maximum)
+Batting	R	B	4s	6s	SR
+
+Andy Balbirnie (c)
+	5	7	1	0	71.42
+
+c Burl b Chatara
+
+
+Ross Adair 
+	5	6	1	0	83.33
+
+b Ngarava
+
+
+Stephen Doheny †
+	15	13	2	0	115.38
+
+c †Madande b Evans
+
+
+Harry Tector 
+	5	16	0	0	31.25
+
+b Burl
+
+
+Curtis Campher 
+	20	20	2	0	100.00
+
+c †Madande b Masakadza
+
+
+George Dockrell 
+	9	8	0	1	112.50
+
+b Burl
+
+
+Tyrone Kane 
+	9	11	1	0	81.81
+
+c Madhevere b Masakadza
+
+
+Gareth Delany 
+	24	20	2	0	120.00
+
+b Ngarava
+
+
+Mark Adair 
+	2	5	0	0	40.00
+
+c Ervine b Burl
+
+
+Fionn Hand 
+	9	4	2	0	225.00
+
+not out
+
+
+Barry McCarthy 
+	8	6	1	0	133.33
+
+c Ervine b Chatara
+
+Extras	3	(lb 3)
+Total	114	
+19.2 Ov
+ (RR: 5.89)
+
+
+Fall of wickets: 1-6 (Ross Adair, 1.4 ov), 2-12 (Andy Balbirnie, 2.3 ov), 3-28 (Stephen Doheny, 5.6 ov), 4-38 (Harry Tector, 8.2 ov), 5-58 (George Dockrell, 10.5 ov), 6-70 (Curtis Campher, 13.2 ov), 7-71 (Tyrone Kane, 13.5 ov), 8-74 (Mark Adair, 14.5 ov), 9-105 (Gareth Delany, 18.1 ov), 10-114 (Barry McCarthy, 19.2 ov)
+Bowling	O	M	R	W	ECON	WD	NB
+
+Tendai Chatara
+	3.2	0	17	
+2
+	5.10	0	0
+
+Richard Ngarava
+	3	0	20	
+2
+	6.66	0	0
+
+Brad Evans
+	2	0	9	
+1
+	4.50	0	0
+
+Ryan Burl
+	4	0	29	
+3
+	7.25	0	0
+
+Sean Williams
+	3	0	23	0	7.66	0	0
+
+Wellington Masakadza
+	4	0	13	
+2
+	3.25	0	0
+Zimbabwe  (T: 115 runs from 20 ovs)
+Batting	R	B	4s	6s	SR
+
+Craig Ervine (c)
+	4	6	1	0	66.66
+
+c McCarthy b Tector
+
+
+Tadiwanashe Marumani 
+	4	2	1	0	200.00
+
+lbw b MR Adair
+
+
+Wessly Madhevere 
+	16	22	1	0	72.72
+
+b Tector
+
+
+Gary Ballance 
+	30	29	2	1	103.44
+
+c †Doheny b MR Adair
+
+
+Sean Williams 
+	34	30	3	0	113.33
+
+not out
+
+
+Ryan Burl 
+	8	9	1	0	88.88
+
+c Dockrell b McCarthy
+
+
+Clive Madande †
+	18	10	3	0	180.00
+
+not out
+
+Extras	4	(w 4)
+Total	118/5	
+18 Ov
+ (RR: 6.55)
+
+
+Did not bat: 
+Brad Evans, 
+Wellington Masakadza, 
+Richard Ngarava, 
+Tendai Chatara 
+
+
+Fall of wickets: 1-4 (Craig Ervine, 0.6 ov), 2-8 (Tadiwanashe Marumani, 1.2 ov), 3-43 (Wessly Madhevere, 7.5 ov), 4-71 (Gary Ballance, 12.4 ov), 5-90 (Ryan Burl, 15.2 ov)
+Bowling	O	M	R	W	ECON	WD	NB
+
+Harry Tector
+	4	0	17	
+2
+	4.25	0	0
+
+Mark Adair
+	3	0	12	
+2
+	4.00	1	0
+
+Gareth Delany
+	4	0	34	0	8.50	1	0
+
+Barry McCarthy
+	2	0	14	
+1
+	7.00	1	0
+
+George Dockrell
+	2	0	17	0	8.50	0	0
+
+Curtis Campher
+	2	0	18	0	9.00	1	0
+
+Fionn Hand
+	1	0	6	0	6.00	0	0
+Unlocking the magic of Statsguru
+Match Flow
+Ireland innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 28 runs, 3 wickets)
+Ireland: 50 runs in 10.2 overs (62 balls), Extras 2
+Ireland: 100 runs in 17.3 overs (105 balls), Extras 2
+Innings Break: Ireland - 114/10 in 19.2 overs (F Hand 9)
+Zimbabwe innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 34 runs, 2 wickets)
+Zimbabwe: 50 runs in 8.6 overs (54 balls), Extras 3
+Zimbabwe: 100 runs in 16.4 overs (100 balls), Extras 4
+Match Details
+Harare Sports Club
+
+Toss	Zimbabwe, elected to field first
+Series	
+Ireland tour of Zimbabwe
+
+Season	
+2022/23
+
+Player Of The Match	
+Ryan Burl
+
+Series result	Zimbabwe led the 3-match series 1-0
+Match number	
+T20I no. 1987
+
+Hours of play (local time)	13.00
+Match days	12 January 2023 - day (20-over match)
+T20I debut	
+Ross Adair
+Stephen Doheny
+Gary Ballance
+
+Umpires	
+Iknow Chabi
+Langton Rusere
+
+TV Umpire	
+Forster Mutizwa
+
+Reserve Umpire	
+Christopher Phiri
+
+Match Referee	
+Andy Pycroft
+Discover
+	Sponsored Headlines
+Write Better and Faster With This Desktop App
+Improve grammar, word choice, and sentence structure everywhere you work. Write better with Grammarly.
+Grammarly
+|
+Sponsored
+Install Now
+找網紅合作？就交給 Kolr 讓品牌爆紅
+所有網紅行銷的煩惱，一次解決！
+KOL Radar
+|
+Sponsored
+立即試用
+9597借錢網 — 台灣領先的借貸平台，讓您輕鬆解決資金需求！
+提供小額借款周轉、創業籌資服務，超過44,000次成功借款經驗，無需註冊費，至少10組金主自動配對，資金輕鬆上門，迅速滿足您的資金需求！
+9597借錢網
+|
+Sponsored
+註冊
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+Feedback
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/ireland-in-zimbabwe-2022-23-1348320/zimbabwe-vs-ireland-1st-t20i-1348323/full-scorecard 
+ ----- 

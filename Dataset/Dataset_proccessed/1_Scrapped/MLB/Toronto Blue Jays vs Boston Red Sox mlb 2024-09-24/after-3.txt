@@ -1,0 +1,368 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Red Sox
+80-78, 43-37 Away
+6
+Final/10
+Blue Jays
+73-85, 38-39 Home
+5
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Trevor Story hits tiebreaking double in 10th as Red Sox beat Blue Jays 6-5
+— Trevor Story hit a tiebreaking double in a three-run 10th inning, and the Boston Red Sox rallied past the Toronto Blue Jays 6-5 on Tuesday night.
+Sep 25, 2024, 03:36 am - AP
+
+
+BOS
+
+
+TOR
+1	2	3	4	5	6	7	8	9	10	R	H	E
+0	0	0	0	0	0	2	1	0	3	6	11	1
+0	0	2	0	1	0	0	0	0	2	5	5	1
+WIN
+C. Martin
+3-1
+1.0 IP, 0 H, 0 ER, 1 K, 1 BB
+LOSS
+T. Nance
+0-3
+1.0 IP, 2 H, 2 ER, 1 K, 1 BB
+SAVE
+C. Shugart
+1
+0.2 IP, 0 H, 0 ER, 0 K, 2 BB
+Scoring Summary
+INNING
+	BOS	TOR
+		3rd	Guerrero Jr. doubled to center, Lukes scored and Loperfido scored.	0	2
+		5th	Lukes hit sacrifice fly to left, Schneider scored.	0	3
+		7th	Rafaela singled to left, Abreu scored and Grissom scored, D. Jansen to second.	2	3
+		8th	Yoshida grounded into fielder's choice to shortstop, González scored, Casas out at second.	3	3
+		10th	Story doubled to left, Duran scored, Casas to third.	4	3
+		10th	Wong grounded out to shortstop, Gasper scored, Story to third.	5	3
+		10th	Grissom singled to left, Story scored.	6	3
+		10th	Jimenez doubled to left, Schneider scored.	6	4
+		10th	Kirk walked, Jimenez scored, Berroa to second, Lukes to third.	6	5
+Full Play-By-Play
+Red Sox
+Blue Jays
+HITTERS	H-AB	R	HR	RBI	AVG
+
+J. Duran
+LF-CF
+	1-5	1	0	0	.285
+
+R. Gonzalez
+3B-LF
+	1-5	1	0	0	.271
+
+T. Casas
+1B
+	1-3	0	0	0	.240
+
+M. Gasper
+PR-1B
+	0-0	1	0	0	.000
+
+T. Story
+SS
+	2-5	1	0	1	.259
+
+M. Yoshida
+DH
+	0-4	0	0	1	.283
+
+C. Wong
+PR-DH-C
+	0-1	0	0	1	.283
+
+V. Grissom
+2B
+	3-4	1	0	1	.172
+
+W. Abreu
+RF
+	0-2	1	0	0	.258
+
+N. Sogard
+PH-3B
+	0-2	0	0	0	.269
+
+C. Shugart
+P
+	0-0	0	0	0	.000
+
+D. Jansen
+C
+	2-4	0	0	0	.195
+
+T. O'Neill
+PR
+	0-0	0	0	0	.243
+
+C. Martin
+P
+	0-0	0	0	0	.000
+
+Z. Penrod
+P
+	0-0	0	0	0	.000
+
+E. Valdez
+3B
+	0-0	0	0	0	.219
+
+C. Rafaela
+CF-RF
+	1-4	0	0	2	.245
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+B. Bello
+	4.0	2	2	2	4	75-42	4.49
+
+L. Sims
+	1.0	1	1	1	0	24-12	4.47
+
+J. Slaten
+	1.0	1	0	0	1	17-12	2.98
+
+L. Garcia
+	1.0	0	0	0	0	7-5	4.89
+
+L. Guerrero
+	1.0	0	0	1	0	12-7	0.00
+
+C. Martin
+	1.0	0	0	1	1	15-10	3.53
+
+Z. Penrod
+	0.1	1	1	1	0	11-6	2.25
+
+C. Shugart
+	0.2	0	0	2	0	16-6	5.40
+HITTERS	H-AB	R	HR	RBI	AVG
+
+G. Springer
+RF
+	1-5	0	0	0	.219
+
+N. Lukes
+LF
+	0-2	1	0	1	.303
+
+V. Guerrero Jr.
+DH
+	1-4	0	0	2	.324
+
+S. Horwitz
+1B
+	0-4	0	0	0	.268
+
+S. Berroa
+PR
+	0-0	0	0	0	.152
+
+A. Kirk
+C
+	1-4	0	0	1	.247
+
+J. Clase
+PR
+	0-0	0	0	0	.333
+
+A. Barger
+3B
+	1-4	0	0	0	.204
+
+E. Clement
+SS
+	0-4	0	0	0	.263
+
+D. Schneider
+2B
+	0-3	2	0	0	.195
+
+J. Loperfido
+CF
+	0-2	1	0	0	.206
+
+L. Jimenez
+PH
+	1-1	1	0	1	.227
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+B. Francis
+	5.0	3	0	1	4	71-48	3.30
+
+E. Lucas
+	1.2	0	2	2	1	35-20	10.38
+
+R. Burr
+	0.1	2	0	0	1	17-11	3.52
+
+G. Cabrera
+	0.2	3	1	0	1	24-19	3.21
+
+C. Green
+	1.1	1	0	0	0	10-6	3.27
+
+T. Nance
+	1.0	2	2	1	1	13-9	4.09
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Boston Red Sox (80-78, 43-37 Away)
+Brayan Bello (14-8, 4.49)
++115
+ML
++115
+o7.5
+-125
++1.5
+-190
+Toronto Blue Jays (73-85, 38-39 Home)
+Bowden Francis (8-5, 3.30)
+u9.5
+-230
+-135
+u7.5
++105
+-1.5
++160
+See All on ESPN BET
+Win Probability
+100
+%
+2nd
+4th
+6th
+8th
+10th
+100
+50
+100
+RED SOX
+BLUE JAYS
+BOS 100
+%
+BOS 6TOR 5
+
+Bottom 10th
+Barger popped out to third.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+BOS
+TOR
+Hits
+11
+5
+Home Runs
+0
+0
+Total Bases
+14
+9
+Runners LOB
+8
+8
+Full Team Stats
+Regular Season Series
+Current Series
+BOS wins 2-1
+Red Sox
+4
+Blue Jays
+1
+Game 1
+9/23
+Final
+Red Sox
+6
+Blue Jays
+5
+Game 2
+9/24
+Final/10
+Red Sox
+1
+Blue Jays
+6
+Game 3
+9/25
+Final
+Game Information
+Rogers Centre
+11:07 PM, September 24, 2024
+Toronto, Ontario
+Attendance: 29,178
+Game Time:
+3:15
+Umpires:
+Home Plate Umpire - Scott Barry
+First Base Umpire - Tom Hanahan
+Second Base Umpire - Lance Barksdale
+Third Base Umpire - Nic Lentz
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570817/red-sox-blue-jays 
+ ----- 

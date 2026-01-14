@@ -1,0 +1,1010 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Oversized Barrel Extension Preventing Installation Of Barrel on Thermo Fitted Upper Receiver
+ 
+Thread starter
+Fire4EffectCA  
+Start date
+Jan 5, 2024
+1
+	
+2
+Next
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 5, 2024
+#1
+Compass Lake built a barrel for me using a oversized barrel extension that I measured to be .9990" at the barrel extension face and 1.0000" just before the index pin. I see that milspec is .9979” min to .9987” max. I did not request an oversized barrel extension when I ordered the barrel and I do not understand why they supplied one. Unfortunately Compass Lake decided this week to end commercial sales and I have not been able to find out what my options are.
+
+Does anyone here know why oversized barrel extensions are used and are there upper receivers that will work with them?
+ 
+longknives
+Private
+Minuteman
+Feb 10, 2023
+35
+14
+Nevada
+Jan 5, 2024
+#2
+Have you measured your upper? You may be able too heat the upper and thermo fit the barrel.
+ 
+Bigjake83
+Golden Shellback
+Full Member
+Minuteman
+Supporter
+May 19, 2013
+5,005
+4,019
+Southern Idaho
+Jan 5, 2024
+#3
+Fire4EffectCA said:
+Does anyone here know why oversized barrel extensions are used and are there upper receivers that will work with them?
+
+Well we need more Information. What barrel blank is it?, and what upper are you using?
+
+Also have you tried to fit it yet? If so how did you attempt it?
+
+Oversized barrel exstenion that require thermo fitting are ideal for precision builds to increase rigidity and accuracy.
+ 
+ 
+Reactions:
+LRRPF52 and Jughead
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 5, 2024
+#4
+bigjake83 said:
+Well we need more Information. What barrel blank is it?, and what upper are you using?
+
+Also have you tried to fit it yet? If so how did you attempt it?
+
+Oversized barrel exstenion that require thermo fitting are ideal for precision builds to increase rigidity and accuracy.
+Kreiger barrel blank. I was going to use a BCM M4 but ran into a problem with the interference fit.
+
+I am assuming the combination of a 0.001” oversized barrel extension and milspec upper receiver will act the same as a 0.001” undersized upper receiver (BCM M4) and a milspec barrel extension.
+ 
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 5, 2024
+#5
+longknives said:
+Have you measured your upper? You may be able too heat the upper and thermo fit the barrel.
+
+It is intended for thermo fitting so it is already undersized.
+
+I am assuming the combination of a 0.001” oversized barrel extension and milspec upper receiver will act the same as a 0.001” undersized upper receiver (BCM M4) and a milspec barrel extension.
+ 
+Bigjake83
+Golden Shellback
+Full Member
+Minuteman
+Supporter
+May 19, 2013
+5,005
+4,019
+Southern Idaho
+Jan 5, 2024
+#6
+Fire4EffectCA said:
+Kreiger barrel blank. I was going to use a BCM M4 but ran into a problem with the interference fit.
+
+I am assuming the combination of a 0.001” oversized barrel extension and milspec upper receiver will act the same as a 0.001” undersized upper receiver (BCM M4) and a milspec barrel extension.
+
+Well if you're unhappy with the barrel I'll take it off your hands depending on length.
+ 
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 5, 2024
+#7
+bigjake83 said:
+Well if you're unhappy with the barrel I'll take it off your hands depending on length.
+
+The barrel is beautiful. It's 20" and fluted.
+ 
+Bigjake83
+Golden Shellback
+Full Member
+Minuteman
+Supporter
+May 19, 2013
+5,005
+4,019
+Southern Idaho
+Jan 5, 2024
+#8
+Fire4EffectCA said:
+The barrel is beautiful. It's 20" and fluted.
+Send me a PM
+ 
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 5, 2024
+#9
+bigjake83 said:
+Send me a PM
+
+I don’t want to sell it. I want to shoot it.
+
+
+ 
+ 
+Reactions:
+camocorvette, oldrifleman, Tx_Aggie and 1 other person
+Desert_Racer
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 22, 2011
+1,367
+1,244
+USA
+Jan 6, 2024
+#10
+Put the barrel in the freezer overnight. When you’re ready to fit it, set your oven to 150 degrees or so and let the upper sit in there for 10 minutes or so. Don’t pull the barrel out of the freezer until you’re ready to put it in the upper when it’s fresh out of the oven. Should be enough to seat the barrel, though it might still require some persuasion.
+
+Interference fit is the ideal situation. I myself am tired of using shimming and loctite, though it works.
+
+Worst case, you can get a different upper like a Vltor mur and sell your bcm. The last three Vltor uppers I had were not undersized like they used to be.
+ 
+ 
+Reactions:
+striped1, LRRPF52, Fire4EffectCA and 1 other person
+ZA206
+Private
+Full Member
+Minuteman
+Jan 24, 2014
+292
+321
+Jan 6, 2024
+#11
+I‘d just buy an Aero upper receiver or something and just save the BCM upper for another project. .002” interference fit is a lot!
+Or, you could just lightly sand the receiver extension ID and fit it to the barrel extension (still keeping the interference fit). I wouldn’t mess with adjusting the barrel extension OD.
+ 
+ 
+Reactions:
+LRRPF52 and Fire4EffectCA
+M
+MontanaMan
+Private
+Full Member
+Minuteman
+Apr 26, 2007
+800
+619
+Jan 6, 2024
+#12
+ZA206 said:
+I‘d just buy an Aero upper receiver or something and just save the BCM upper for another project. .002” interference fit is a lot!
+Or, you could just lightly sand the receiver extension ID and fit it to the barrel extension (still keeping the interference fit). I wouldn’t mess with adjusting the barrel extension OD.
+Easiest route, & you can still heat the upper if needed, which you probably will.
+I use a torch, as demonstrated in various videos, & don't be afraid to get it hot.
+
+150 degrees is not enough; freezing the barrel may help but is not usually needed.
+
+MM
+ 
+ 
+Reactions:
+longshooter, Fire4EffectCA and mettee
+M
+mettee
+Private
+Full Member
+Minuteman
+Dec 1, 2017
+313
+238
+Jan 6, 2024
+#13
+I use 350-400 in a toaster oven, and just leave the barrel in the freezer over night. Or use dry ice in an ice chest if you want to get colder.
+ 
+ 
+Reactions:
+striped1 and Fire4EffectCA
+TheOE800
+Argumentative
+Full Member
+Minuteman
+Supporter
+Feb 14, 2017
+5,717
+5,610
+USA
+Jan 6, 2024
+#14
+Desert_Racer said:
+. The last three Vltor uppers I had were not undersized like they used to be.
+assembling MUR uppers since before they updated the deflector assembly and logo engraving, I’ve never run into an undersized MUR.
+ 
+Desert_Racer
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 22, 2011
+1,367
+1,244
+USA
+Jan 6, 2024
+#15
+TheOE800 said:
+assembling MUR uppers since before they updated the deflector assembly and logo engraving, I’ve never run into an undersized MUR.
+Perhaps I got lucky, whether it was an undersized mur or an oversized barrel extension.
+ 
+T
+Torchy
+Private
+Full Member
+Minuteman
+May 29, 2017
+181
+68
+NV
+Jan 6, 2024
+#16
+I used a dead blow hammer with frozen barrel and heated upper receiver. Worked without having to hit the barrel very hard.
+
+You'll need a vise and the tool that holds the receiver.
+ 
+Last edited: Jan 7, 2024
+ 
+Reactions:
+Fire4EffectCA
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Jan 6, 2024
+#17
+Fire4EffectCA said:
+It is intended for thermo fitting so it is already undersized.
+
+I am assuming the combination of a 0.001” oversized barrel extension and milspec upper receiver will act the same as a 0.001” undersized upper receiver (BCM M4) and a milspec barrel extension.
+Your assumption would be correct. It does bring up a good question of how much of an interference fit, like in your situation, would be detrimental.
+ 
+ 
+Reactions:
+Fire4EffectCA
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 6, 2024
+#18
+Torchy said:
+I used a deal blow hammer with frozen barrel and heated upper receiver. Worked without having to hit the barrel very hard.
+
+You'll need a vise and the tool that holds the receiver.
+
+I have all the tools you mentioned, but thermally fitted upper receivers will only work with mil-spec barrel extensions. According to BCM the max diameter that will work is .9987”. My barrel extension is well beyond that at the index pin.
+ 
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 6, 2024
+#19
+msgriff said:
+Your assumption would be correct. It does bring up a good question of how much of an interference fit, like in your situation, would be detrimental.
+
+According to BCM my situation is too much.
+ 
+ 
+Reactions:
+msgriff
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 6, 2024
+#20
+Desert_Racer said:
+Perhaps I got lucky, whether it was an undersized mur or an oversized barrel extension.
+
+How happy are you with the Vltor MUR? I wonder if there would be any issues with the Midwest handguard I chose.
+
+According to the owner at a well know barrel blank manufacturer that I talked to yesterday I should be able to use any mil-spec upper receiver, but I may need some heat to install. I see the mil-spec dimension for an upper receiver is 1.000 +/- 0.002 inches.
+ 
+ 
+Reactions:
+Rocketvapor
+O
+owtlaw
+Private
+Full Member
+Minuteman
+Feb 27, 2013
+244
+193
+Jan 6, 2024
+#21
+ZA206 said:
+I‘d just buy an Aero upper receiver or something and just save the BCM upper for another project. .002” interference fit is a lot!
+Or, you could just lightly sand the receiver extension ID and fit it to the barrel extension (still keeping the interference fit). I wouldn’t mess with adjusting the barrel extension OD.
+This is the best idea yet.
+ 
+ 
+Reactions:
+Fire4EffectCA
+J
+JS8588
+Ballistic Hipster
+Full Member
+Minuteman
+Apr 7, 2020
+649
+591
+NEPA
+Jan 7, 2024
+#22
+Use a San Tan billet upper or a Lantac UAR. They are *slightly* undersized. They're not quite as tight as a BCM, but should still give you a thermal fit with that barrel.
+ 
+ 
+Reactions:
+Fire4EffectCA
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 7, 2024
+#23
+Depending on internal bore clearance being mil-spec (1.000 +/- 0.002) and based on recommendations here, the following are possible alternatives for my CLE (Kreiger) heavy varmint barrel.
+
+Vltor MUR
+Santan PILLAR Billet Upper Receiver
+Lantac UAR
+ 
+Desert_Racer
+Supporter
+Supporter
+Full Member
+Minuteman
+Dec 22, 2011
+1,367
+1,244
+USA
+Jan 7, 2024
+#24
+Never had an issue with the several I’ve owned.
+
+Fire4EffectCA said:
+How happy are you with the Vltor MUR? I wonder if there would be any issues with the Midwest handguard I chose.
+
+According to the owner at a well know barrel blank manufacturer that I talked to yesterday I should be able to use any mil-spec upper receiver, but I may need some heat to install. I see the mil-spec dimension for an upper receiver is 1.000 +/- 0.002 inches.
+Click to expand...
+ 
+ 
+Reactions:
+Fire4EffectCA
+longshot2000
+Sniper's Hide Dealer: CHARLIE'S
+Commercial Supporter
+Full Member
+Minuteman
+Feb 19, 2017
+1,671
+930
+Northern VA
+charliescustomclones.com
+Jan 8, 2024
+#25
+Fire4EffectCA said:
+According to BCM my situation is too much.
+
+Yeah, I would change receivers. BCM is good enough for a chrome-lined barrel, but if you are working on a $500 barrel, I would get the right receiver to work, and I might mill out the receiver by .001. I would probably move to a Vltor upper. Take it to a gunsmith. This type of fit is normal for KAC and some other precision rifle builds we work with. you are just enough beyond the tolerance point, where I would engage an expert.
+
+The next option is to remove the pin, and put the barrel on a lathe, and take down the extension to 0.998.
+ 
+JBoomhauer
+Major Hide Member
+Full Member
+Minuteman
+Feb 16, 2019
+1,088
+1,833
+Jan 8, 2024
+#26
+First. What are you measuring with?
+ 
+ 
+Reactions:
+Rudy Gonsior and longshooter
+Ledzep
+Bullet Engineer
+Full Member
+Minuteman
+Jun 9, 2009
+4,441
+5,853
+Hornady
+Jan 8, 2024
+#27
+Personal opinion alert:
+
+I wouldn't mount that barrel to a standard upper. I would get a VLTOR MUR at minimum, but more likely an Aero Enhanced or Seekins IMRT-3.
+
+You're going to see noticeable vertical POI shift with variable fore-end loading with that milspec upper.
+
+Also, another opinion alert: .002" shrink/press fit isn't that extreme IMO. Put the upper in boiling water and I bet it expands plenty to accept that barrel.
+ 
+ 
+Reactions:
+LRRPF52, Fire4EffectCA and mettee
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 8, 2024
+#28
+JBoomhauer said:
+First. What are you measuring with?
+
+
+Mitutoyo Digimatic Caliper CD-15AX (500-151-30)
+Measuring instruments provided by Mitutoyo are considered a standard of industrial measuring tools. This is a digimatic caliper for precise and easy measurement. It has a special electromagnetic measurement device to support more precise and convenient operations. Its screen is large, so it is...
+ daitool.com
+ 
+JBoomhauer
+Major Hide Member
+Full Member
+Minuteman
+Feb 16, 2019
+1,088
+1,833
+Jan 8, 2024
+#29
+Fire4EffectCA said:
+Mitutoyo Digimatic Caliper CD-15AX (500-151-30)
+Measuring instruments provided by Mitutoyo are considered a standard of industrial measuring tools. This is a digimatic caliper for precise and easy measurement. It has a special electromagnetic measurement device to support more precise and convenient operations. Its screen is large, so it is...
+ daitool.com
+Click to expand...
+You really need a micrometer for that measurement.
+ 
+ 
+Reactions:
+Rudy Gonsior, VargmatII, TheOE800 and 1 other person
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 8, 2024
+#30
+Ledzep said:
+Personal opinion alert:
+
+I wouldn't mount that barrel to a standard upper. I would get a VLTOR MUR at minimum, but more likely an Aero Enhanced or Seekins IMRT-3.
+
+You're going to see noticeable vertical POI shift with variable fore-end loading with that milspec upper.
+
+Also, another opinion alert: .002" shrink/press fit isn't that extreme IMO. Put the upper in boiling water and I bet it expands plenty to accept that barrel.
+Click to expand...
+
+I am thinking the Lantac UAR may be a good choice if I can’t get the BMC M4 to work. The UAR billet upper receiver bore is .9995” which is at least .001” larger than the BCM M4.
+ 
+ 
+Reactions:
+JS8588
+JBoomhauer
+Major Hide Member
+Full Member
+Minuteman
+Feb 16, 2019
+1,088
+1,833
+Jan 8, 2024
+#31
+No issues here assembling WOA barrels in BCM uppers. The WOA extension measures .9984 at .100 in from the face and 1.0001 at the pin.
+ 
+ 
+Reactions:
+Fire4EffectCA
+Rocketvapor
+Major Hide Member
+Full Member
+Minuteman
+ 
+Dec 10, 2018
+2,303
+1,725
+South East Louisiana
+Jan 8, 2024
+#32
+0.002" interference isn't that much.
+The oversized extension is large at the index pin.
+I use check standards to verify my upper and extension measurements.
+
+
+Once you have a good idea of fit calculate aluminum coefficient of expansion for required growth.
+250F (about 180F over room temp) and 4F freezer using 416 SS coefficient should give 0.002" you need.
+Also realize that diameter near the pin doesn't give much support.
+
+ 
+ 
+Reactions:
+Ernest 5.56, mettee, Fire4EffectCA and 1 other person
+JBoomhauer
+Major Hide Member
+Full Member
+Minuteman
+Feb 16, 2019
+1,088
+1,833
+Jan 8, 2024
+#33
+
+
+This might help.
+
+Just make sure you are quick and deliberate when fitting the upper. Any issues, stop and start over.
+ 
+ 
+Reactions:
+Redlion, 6.5SH, mettee and 1 other person
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 8, 2024
+#34
+JBoomhauer said:
+No issues here assembling WOA barrels in BCM uppers. The WOA extension measures .9984 at .100 in from the face and 1.0001 at the pin.
+
+This is interesting. So the WOA extensions are tapered from .9984" to 1.0001". I would imagine the BCM upper must have slid on by hand part of the way. My extension is .9990" to 1.0000". I had no trouble seating the CLE barrel with heat (upper receiver temp measured just above 200˚F) until I started to hit .9995". I could never get it past the index pin. It took serious hitting with a mallet and lots of heat to separate the two afterwards.
+ 
+Rocketvapor
+Major Hide Member
+Full Member
+Minuteman
+ 
+Dec 10, 2018
+2,303
+1,725
+South East Louisiana
+Jan 8, 2024
+#35
+The one I pictured is NOT a thermal fit.
+The extension was TIGHT for the last 1/4" but LOOSE up to that point.
+I still had to use my secret  spray on shim.
+Proper temperature and it will probably slip right in.
+
+ 
+ 
+Reactions:
+Fire4EffectCA
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 8, 2024
+#36
+JBoomhauer said:
+
+
+This might help.
+
+Just make sure you are quick and deliberate when fitting the upper. Any issues, stop and start over.
+Click to expand...
+
+
+I watched this video a few weeks back. BCM warned not to use an open flame. My industrial heat gun can put out 1150˚F.
+ 
+ 
+Reactions:
+LRRPF52 and Rocketvapor
+Rocketvapor
+Major Hide Member
+Full Member
+Minuteman
+ 
+Dec 10, 2018
+2,303
+1,725
+South East Louisiana
+Jan 8, 2024
+#37
+I would hesitate using a highly localized heat source, unless practiced in doing so.
+An upper is not a water pipe.
+Accurately measure, calculate what you need, apply heat /cold in a controlled manner.
+Work fast.
+Another thought;
+a nice thermal fit at room temperature will be what kind of fit at operational temperatures?
+ 
+ 
+Reactions:
+Fire4EffectCA
+JBoomhauer
+Major Hide Member
+Full Member
+Minuteman
+Feb 16, 2019
+1,088
+1,833
+Jan 8, 2024
+#38
+Rocketvapor said:
+I would hesitate using a highly localized heat source, unless practiced in doing so.
+An upper is not a water pipe.
+Accurately measure, calculate what you need, apply heat /cold in a controlled manner.
+Work fast.
+Another thought;
+a nice thermal fit at room temperature will be what kind of fit at operational temperatures?
+Click to expand...
+At $50 those BCM uppers might cost less than water pipe 
+ 
+ 
+Reactions:
+mettee and Rocketvapor
+just browsing
+overkill is underrated
+Supporter
+Full Member
+Minuteman
+Supporter
+Feb 18, 2017
+2,248
+2,519
+NE PA
+Jan 8, 2024
+#39
+I’ve assembled probably a dozen of the blem BCM uppers using a torch. At least half of those have been using WOA barrels and each of them was the same… ~30 seconds of rotational heat and a couple of love taps with a block and mallet.
+ 
+ 
+Reactions:
+Fire4EffectCA
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 8, 2024
+#40
+Rocketvapor said:
+0.002" interference isn't that much.
+The oversized extension is large at the index pin.
+I use check standards to verify my upper and extension measurements.
+View attachment 8317838
+View attachment 8317839
+Once you have a good idea of fit calculate aluminum coefficient of expansion for required growth.
+250F (about 180F over room temp) and 4F freezer using 416 SS coefficient should give 0.002" you need.
+Also realize that diameter near the pin doesn't give much support.
+View attachment 8317844
+Click to expand...
+
+
+This makes two of you who have measured a taper from face to pin. This is important to me because I was concerned that the taper was a problem. You measured .9993” to 1.0006” which is right in line with the .9990” to 1.0000” I measured. Compass Lake measured .9995” from their stock. I was told a taper was not normal, but it sure looks like it is not uncommon and not a problem. Thanks so much for showing this. This really helps with me making a decision regarding how to move forward.
+ 
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Jan 8, 2024
+#41
+JBoomhauer said:
+At $50 those BCM uppers might cost less than water pipe 
+
+When I first started looking into this build everyone that commented said any good mil-spec upper receiver would be fine. I only heard good things about the BCM uppers. Should I be looking at a better upper receiver for this build? I could always use the BCM upper for another build.
+ 
+JBoomhauer
+Major Hide Member
+Full Member
+Minuteman
+Feb 16, 2019
+1,088
+1,833
+Jan 8, 2024
+#42
+Fire4EffectCA said:
+When I first started looking into this build everyone that commented said any good mil-spec upper receiver would be fine. I only heard good things about the BCM uppers. Should I be looking at a better upper receiver for this build? I could always use the BCM upper for another build.
+I am hardly an upper snob. Love the blem BCM uppers. They do everything I ask out of one. They are cheap at the moment and a great upper to learn on.
+
+What I am saying is If you heated to 200, this is the perfect upper to heat to 250 and see what happens.
+
+As long as you stay below the barrel temperature of a mag dump or 2 the upper should be fine.
+ 
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Jan 8, 2024
+#43
+Fire4EffectCA said:
+I watched this video a few weeks back. BCM warned not to use an open flame. My industrial heat gun can put out 1150˚F.
+Something that you might want to keep in mind is the effects of heat on anodized aluminum. "Crazing" of the anodizing can start around 320f-350f, and is more severe with rapid temperature change. Not much of an issue for the typical AR, but prolonged salt water marine environments might be a different story.
+ 
+just browsing
+overkill is underrated
+Supporter
+Full Member
+Minuteman
+Supporter
+Feb 18, 2017
+2,248
+2,519
+NE PA
+Jan 8, 2024
+#44
+Fire4EffectCA said:
+When I first started looking into this build everyone that commented said any good mil-spec upper receiver would be fine. I only heard good things about the BCM uppers. Should I be looking at a better upper receiver for this build? I could always use the BCM upper for another build.
+
+BCM is totally fine even for a precision oriented gun. They are popular because they’re thermal fit and cheap.
+
+Nothing wrong with the MUR, Seekins, etc. but there will be no appreciable performance difference even though you’re paying appreciably more.
+ 
+ 
+Reactions:
+jumrobe
+Ernest 5.56
+Sergeant of the Hide
+Full Member
+Minuteman
+Apr 14, 2023
+336
+360
+East
+Feb 9, 2024
+#45
+Any updates ?
+ 
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Feb 13, 2024
+#46
+Ernest 5.56 said:
+Any updates ?
+
+
+I decided to give it a go today with a replacement BCM upper receiver. BCM was very kind and selected a replacement upper receiver that measured on the high end of their spec. I was able to heat the threaded nose of the BCM upper to 225˚F with my heat gun and it slid on and stopped when the index pin reached the index pin slot. I reheated the upper with the heat gun and used an oak block and plastic mallet to tap it home the rest of the way. I believe the barrel extension bore on the replacement upper was close to 0.001” larger than the first BCM upper receiver I tried.
+
+Regarding the taper I observed when measuring the barrel extension of my CLE barrel, BCM told me this is common for an installed extension. Torqueing the extension on to the barrel will increase the diameter of the extension at the index pin side of the extension.
+
+I slid the handguard and gas block on the barrel to see how it will look assembled. I like the look of the fluted varmint barrel with a target crown.
+
+
+
+ 
+ 
+Reactions:
+Ledzep, mettee and Ernest 5.56
+E
+Earnhardt
+Supporter
+Supporter
+Full Member
+Minuteman
+Supporter
+Jul 8, 2018
+995
+343
+Feb 14, 2024
+#47
+This thread was/is fun…
+
+From the beginning of this thread... there are no less than 14 different posts telling you how to get this barrel extension to fit into the receiver...and it took you this long to do it?
+
+Reading this thread was like listening to a parent try to get their kid to jump into the shallow end of a kiddie pool
+
+Could anyone else hear the air slowly being let out of a balloon?
+
+Thanks to everyone for telling the OP how to do this...14 times. (no sarcasm)
+ 
+ 
+Reactions:
+Charmingmander
+R
+River44
+Private
+Minuteman
+Jan 23, 2023
+99
+115
+Texas
+Feb 14, 2024
+#48
+Earnhardt said:
+This thread was/is fun…
+
+From the beginning of this thread... there are no less than 14 different posts telling you how to get this barrel extension to fit into the receiver...and it took you this long to do it?
+
+Reading this thread was like listening to a parent try to get their kid to jump into the shallow end of a kiddie pool
+
+Could anyone else hear the air slowly being let out of a balloon?
+
+Thanks to everyone for telling the OP how to do this...14 times. (no sarcasm)
+Click to expand...
+There’s always that one douche in every thread
+ 
+E
+Earnhardt
+Supporter
+Supporter
+Full Member
+Minuteman
+Supporter
+Jul 8, 2018
+995
+343
+Feb 14, 2024
+#49
+River44 said:
+There’s always that one douche in every thread
+Just put me on ignore...I had you on Ignore... and had to double click on your post calling me a D-Bag...it was worth the double click to read
+
+Just keepin' it real man....
+ 
+Fire4EffectCA
+Sergeant of the Hide
+Full Member
+Minuteman
+Nov 28, 2019
+333
+131
+Feb 14, 2024
+#50
+Earnhardt said:
+This thread was/is fun…
+
+From the beginning of this thread... there are no less than 14 different posts telling you how to get this barrel extension to fit into the receiver...and it took you this long to do it?
+
+Reading this thread was like listening to a parent try to get their kid to jump into the shallow end of a kiddie pool
+
+Could anyone else hear the air slowly being let out of a balloon?
+
+Thanks to everyone for telling the OP how to do this...14 times. (no sarcasm)
+Click to expand...
+
+
+Actually, none of the recommendations here were going to work with the first BCM M4 receiver I received. I spoke with another manufacturer of upper receivers and they stated I would have cracked the upper receiver if I proceeded any further as recommended here.
+
+Technicians at BCM also confirmed the combination of the BCM M4 upper receiver I received and the barrel extension on the CLE barrel would not work. The barrel extension was 0.001” too large.
+
+This is why BCM provided me with a replacement upper receiver with a barrel extension bore that was 0.001” larger than the first BCM M4 upper receiver. I followed BCM’s install instructions with the new receiver and I was able to install the CLE barrel in the BCM upper receiver.
+ 
+ 
+Reactions:
+Tx_Aggie, atomic41 and Ernest 5.56
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+W
+	
+Best practice for installing a barrel nut pre-fit on a SA Solus?
+WeR0206 Nov 30, 2024 Bolt Action Rifles
+11
+Dec 1, 2024
+J
+	
+Accessories Colt Uppers, Geissele, BCM, Aero, BCG's, Colt Marked Receiver
+Juanwick Oct 2, 2024 Buy - Sell - Trade
+6
+Yesterday at 2:25 AM
+	
+A tale of three Larue's (Large frame review Part 3 - Switch Barrel PredatOBR- Complete 05MAY24 )
+Bigjake83 Mar 29, 2024 Semi-Automatic Rifles
+16
+May 5, 2024
+S
+	
+SOLD WTS: LMT MARS-H Complete lower, LMT MWS mlok upper, LMT 14.5" P&W Chrome Lined 7.62x51 Barrel **SPF**
+Starman_Dan Jan 17, 2024 Buy - Sell - Trade
+1
+Jan 18, 2024
+	
+Geissele GFR Maritime Reconnaissance 6mm arc write up and review
+JohnDeereGuy1996 Mar 24, 2024 Semi-Automatic Rifles
+103
+Aug 7, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Semi-Automatic Rifles
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/oversized-barrel-extension-preventing-installation-of-barrel-on-thermo-fitted-upper-receiver.7202383/ 
+ ----- 

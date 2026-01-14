@@ -1,0 +1,198 @@
+We and our 4 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+Taj Bradley vs. Minnesota Twins
+Compare players and teams or see head to head results between teams, players, player vs. team, or batter vs. pitcher. • Tutorial Video • Sample Searches • Data Coverage
+THIS QUESTION WAS ANSWERED USING
+POWERED BY
+YOUR ALL ACCESS PASS TO THE
+BASEBALL DATABASE
+GO BEYOND THE BASICS. BECOME A STATHEAD
+Start Your FREE Trial
+ Show Criteria ➦ Share Results
+Taj Bradley vs. Minnesota Twins
+
+Regular Season: 3 GP, 17.2 IP, 0-1 W-L, 0 SV, 5.09 ERA, 20 SO, 6 BB
+
+Playoffs: 0 GP
+
+Taj Bradley vs. Minnesota Twins: Pitching
+Taj Bradley vs. Minnesota Twins: Current Batters 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Rk	Player	B	PA	AB	H	2B	3B	HR	RBI	BB	SO	BA	OBP	SLG	OPS	SH	SF	IBB	HBP	GIDP
+1	Royce Lewis	R	9	8	3	0	0	1	1	1	1	.375	.444	.750	1.194	0	0	0	0	0
+2	Willi Castro	B	8	8	1	0	0	0	0	0	2	.125	.125	.125	.250	0	0	0	0	1
+3	Edouard Julien	L	6	5	1	0	0	1	3	1	2	.200	.333	.800	1.133	0	0	0	0	0
+4	Trevor Larnach	L	6	6	1	1	0	0	0	0	3	.167	.167	.333	.500	0	0	0	0	1
+5	Ryan Jeffers	R	5	5	2	1	0	0	0	0	1	.400	.400	.600	1.000	0	0	0	0	0
+6	Austin Martin	R	5	4	2	0	0	0	0	1	1	.500	.600	.500	1.100	0	0	0	0	0
+7	Matt Wallner	L	5	5	2	0	0	2	2	0	1	.400	.400	1.600	2.000	0	0	0	0	0
+8	Byron Buxton	R	3	3	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0
+9	Carlos Correa	R	3	3	0	0	0	0	0	0	0	.000	.000	.000	.000	0	0	0	0	0
+10	José Miranda	R	3	3	1	0	0	0	0	0	1	.333	.333	.333	.667	0	0	0	0	0
+11	Christian Vázquez	R	3	2	0	0	0	0	0	1	1	.000	.333	.000	.333	0	0	0	0	0
+Taj Bradley vs. Minnesota Twins: Totals 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Regular Season
+Rk	Season	Team	W	L	W-L%	ERA	G	GS	GF	CG	SHO	SV	IP	H	R	ER	UER	HR	BB	IBB	SO	HBP	BK	WP	BF	BR
+1	2023	TBR	0	0		7.71	1	1	0	0	0	0	4.2	4	4	4	0	2	3	0	7	0	0	1	21	7
+2	2024	TBR	0	1	.000	4.15	2	2	0	0	0	0	13.0	13	6	6	0	3	3	0	13	0	0	1	53	16
+	Totals		0	1	.000	5.09	3	3	0	0	0	0	17.2	17	10	10	0	5	6	0	20	0	0	2	74	23
+Taj Bradley vs. Minnesota Twins: Game Logs 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Regular Season
+Subscribe to Stathead Baseball for full results.
+
+Go inside the Baseball Reference database and access the sports search engine that was made for fans like you. Subscriptions start at just $9/month. Learn More.
+
+Get your first month FREE
+
+Already a paid subscriber? Log in for full results.
+
+Rk	Date	Age	Team		Opp	Result	App,Dec	IP	H	R	ER	UER	HR	BB	IBB	SO	HBP	BK	WP	BF	BR	AB	1B	2B	3B	SB	CS	PO	TB	GIDP	SH	SF	XBH	GmSc	Pit	Str	WPA	RE24	IR	IS	aLI	DFS(DK)	DFS(FD)	Pos
+1	2024-09-05	23-169	TBR		MIN	L 3-4	GS-7, L	7.0	6	4	4	0	2	1	0	10	0	0	1	27	7	26	4	0	0	0	0	0	12	1	0	0	2	58	100	68	-0.1	-0.62			0.67	23.55	39.00	P
+2	2024-06-19	23-091	TBR	@	MIN	W 3-2 (10)	GS-6	6.0	7	2	2	0	1	2	0	3	0	0	0	26	9	24	5	1	0	0	0	0	11	1	0	0	2	51	104	63	0.0	1.02			1.05	10.10	25.00	P
+3	2023-09-13	22-177	TBR	@	MIN	W 5-4	GS-5	4.2	4	4	4	0	2	3	0	7	0	0	1	21	7	18	0	2	0	0	0	0	12	0	0	0	4	44	80	52	0.0	-0.03			1.12	12.30	23.00	P
+Batting
+
+Data coverage:
+
+Game data: Game data is only available for the American League, National League, and Federal League. Since 1901 for regular season data, since 1933 for the All-Star Game, and since 1903 for the Postseason.
+
+Season data: Since 1871. Stats relying on play-by-play data are complete back to 1969, nearly complete back to 1950, and mostly complete back to 1912. Postseason data since 1903.
+
+Please see our data coverage page for details.
+
+If you utilize material unique to a Sports Reference site for a tweet, an article, or for research for a broadcast or podcast, please strongly consider citing this site as the source for the material. It would be greatly appreciated and would help us continue to produce this material.
+Stathead Login Create Account
+You are here: Baseball Stathead > Versus Finder | Player and Team Comparison and Head-to-Head Stats > Query Results
+Full Site Menu 
+Return to Top
+Stathead Baseball
+Season and Career Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Game Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Split Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Streak Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Span Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Event Tools: Batting, Pitching
+Other Tools: Versus Finder
+All Tools
+Stathead Basketball
+Season and Career Tools: Player, Team
+Game Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Event Tools: Quarter, Event, Shot
+College Tools: Player Game, Player Season, Team Game, Team Season
+Other Tools: Versus Finder
+All Tools
+Stathead Football
+Season and Career Tools: Player, Team
+Game Tools: Player, Team
+Split Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Event Tools: Play, Drive, Touchdown, Field Goal
+College Tools (NEW): Player Game, Player Season, Team Game, Team Season
+Other Tools: Versus Finder
+All Tools
+Stathead Hockey
+Season and Career Tools: Player, Team, Goal Finder
+Game Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Other Tools: Versus Finder
+All Tools
+Stathead FBref
+Season and Career Tools: Player, Team
+Match Tools: Player, Team
+All Tools
+Stathead is for...
+Sports Fans, Content Creators, Betting & Fantasy, Media & Journalists, Team Professionals
+Billing Policies
+Terms of Service
+We're Social...for Statheads
+           
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Saturday, January 11, 11:12PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2025 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith of Baseballprojection.com and author of WAR in Pieces.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2025.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Calcio Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Stathead.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://stathead.com/baseball/versus-finder.cgi?request=1&match=versus_playervteam&player_id1=bradle000taj&team_id1=MIN 
+ ----- 

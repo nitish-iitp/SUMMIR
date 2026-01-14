@@ -1,0 +1,308 @@
+LALIGA
+03 JAN 22:00
+VAL
+RMA
+-
+-
+LIGUE 1
+03 JAN 22:00
+NICE
+REN
+-
+-
+PREMIER
+04 JAN 14:30
+TOT
+NEW
+-
+-
+SERIE A
+04 JAN 16:00
+VEN
+EMP
+-
+-
+PREMIER
+04 JAN 17:00
+SOU
+BRE
+-
+-
+PREMIER
+04 JAN 17:00
+MCI
+WHU
+-
+-
+PREMIER
+04 JAN 17:00
+CRY
+CHE
+-
+-
+PREMIER
+04 JAN 17:00
+AVL
+LEI
+-
+-
+PREMIER
+04 JAN 17:00
+BOU
+EVE
+-
+-
+LIGUE 1
+04 JAN 18:00
+SEN
+SDR
+-
+-
+SERIE A
+04 JAN 19:00
+FIO
+NAP
+-
+-
+PREMIER
+04 JAN 19:30
+BHA
+ARS
+-
+-
+LIGUE 1
+04 JAN 20:00
+LIL
+FCN
+-
+-
+SERIE A
+04 JAN 21:45
+VER
+UDI
+-
+-
+LIGUE 1
+04 JAN 22:00
+LYON
+MPL
+-
+-
+SERIE A
+05 JAN 13:30
+MON
+CGL
+-
+-
+PREMIER
+05 JAN 16:00
+FUL
+IPS
+-
+-
+LIGUE 1
+05 JAN 16:00
+SCO
+B29
+-
+-
+LIGUE 1
+05 JAN 16:00
+LENS
+TFC
+-
+-
+LIGUE 1
+05 JAN 16:00
+STR
+AJA
+-
+-
+LIVESCORE
+HOME
+PULSE SPORTS 30
+FOOTBALL
+Nigerian
+Super Eagles
+Super Falcons
+NPFL
+International
+World Cup
+AFCON
+Women's World Cup
+International Clubs
+Premier League
+La Liga
+Serie A
+Ligue 1
+Bundesliga
+More leagues
+UEFA Champions League
+UEFA Europa League
+UEFA Conference League
+CAF Champions League
+BASKETBALL
+ATHLETICS
+MORE SPORTS
+Boxing
+Esports
+Sports lifestyle
+MMA & Combat Sports
+Other sports
+BETTING
+MENU
+LIVE SCORES
+SUPER EAGLES
+SUPER FALCONS
+SPORTS GIST
+LIFESTYLE
+NEWSFEED
+
+AFCON 2023 Ivory Coast vs Nigeria preview | Imago
+
+ FOOTBALL
+AFCON 2023: IVORY COAST VS NIGERIA MATCH PREVIEW, PREDICTIONS, POSSIBLE LINEUPS, TIME AND WHERE TO WATCH
+AFCON 2023: Ivory Coast vs Nigeria match preview, predictions, possible lineups, time and where to watch
+Ayoola Kelechi • 20:00 - 16.01.2024
+The Super Eagles of Nigeria face their toughest test yet at the 2023 AFCON as they take on the hosts, Ivory Coast
+
+The upcoming Africa Cup of Nations (AFCON) match between Ivory Coast and Nigeria is scheduled for January 18, 2024, at 6 p.m. WAT. 
+
+FOOTBALL
+AFCON 2023: Five things the Super Eagles must do to beat Ivory Coast
+FOOTBALL
+AFCON 2023: Uzoho in goal, and 4 players Peseiro must start to defeat Ivory Coast
+
+This highly anticipated game will take place at the Alassane Ouattara Stadium in Abidjan, Ivory Coast.
+
+Ivory Coast vs Nigeria team form
+
+Ivory Coast, playing on their home turf, had a strong start in the tournament with a 2-0 victory over Guinea-Bissau, while Nigeria, facing injury challenges, was held to a 1-1 draw by Equatorial Guinea. These recent forms set the stage for what is expected to be a crucial match in the group stage.
+
+var widgetLoaderConfig = widgetLoaderConfig || { CDN_URL: 'https://widgets.sportal365.com', APP_LINK: 'desktop', API_URL: 'https://africa.football.api.sportal365.com/', API_KEY: '2f852b4de2f3a5cf3188e74b33087bb4:2c18422f8e826a7d11aeed52edb2449e', LANG: 'en', REQUEST_INTERVAL: 30, ENABLE_BET_SLIP: false, AUTHOR: false, THEME: "light", TOURNAMENT_ORDER: "pulse_nigeria", LINK_OPTIONS_V2: { 'player' : { 'url': '/football/player/{playerId}' }, 'team' : { 'url': '/football/{teamId}' }, 'tournament': { 'url': '/football/competition/{tournamentId}' }, 'match': { 'url' : '/football/match/{matchId}', 'sort': { 'criteria': 'alphabetically', 'direction': 'asc' } }, 'configuration': { 'newWindow': false }, 'standings_tournament': { 'url': '/football/competition/{tournamentId}/standings' } } }; if (!document.querySelector('script[src="https://widgets.sportal365.com/loader.bundle.min.js"]')) { window.setTimeout(function () { let scriptCss = document.createElement('link'); scriptCss.href = 'https://www.pulsesports.ng/css/sport-widgets.css?v=1668785443'; scriptCss.rel = 'stylesheet'; scriptCss.type = 'text/css'; document.body.appendChild(scriptCss); let scriptTag = document.createElement('script'); scriptTag.src = 'https://widgets.sportal365.com/loader.bundle.min.js'; scriptTag.defer = true; scriptTag.onload = function () { window.setTimeout(function () { new SMPWidgetsLoader(widgetLoaderConfig); }, 200); }; document.head.appendChild(scriptTag); }, 0); } else { new SMPWidgetsLoader(widgetLoaderConfig); }
+var widgetLoaderConfig = widgetLoaderConfig || { CDN_URL: 'https://widgets.sportal365.com', APP_LINK: 'desktop', API_URL: 'https://africa.football.api.sportal365.com/', API_KEY: '2f852b4de2f3a5cf3188e74b33087bb4:2c18422f8e826a7d11aeed52edb2449e', LANG: 'en', REQUEST_INTERVAL: 30, ENABLE_BET_SLIP: false, AUTHOR: false, THEME: "light", TOURNAMENT_ORDER: "pulse_nigeria", LINK_OPTIONS_V2: { 'player' : { 'url': '/football/player/{playerId}' }, 'team' : { 'url': '/football/{teamId}' }, 'tournament': { 'url': '/football/competition/{tournamentId}' }, 'match': { 'url' : '/football/match/{matchId}', 'sort': { 'criteria': 'alphabetically', 'direction': 'asc' } }, 'configuration': { 'newWindow': false }, 'standings_tournament': { 'url': '/football/competition/{tournamentId}/standings' } } }; if (!document.querySelector('script[src="https://widgets.sportal365.com/loader.bundle.min.js"]')) { window.setTimeout(function () { let scriptCss = document.createElement('link'); scriptCss.href = 'https://www.pulsesports.ng/css/sport-widgets.css?v=1668785443'; scriptCss.rel = 'stylesheet'; scriptCss.type = 'text/css'; document.body.appendChild(scriptCss); let scriptTag = document.createElement('script'); scriptTag.src = 'https://widgets.sportal365.com/loader.bundle.min.js'; scriptTag.defer = true; scriptTag.onload = function () { window.setTimeout(function () { new SMPWidgetsLoader(widgetLoaderConfig); }, 200); }; document.head.appendChild(scriptTag); }, 0); } else { new SMPWidgetsLoader(widgetLoaderConfig); }
+
+Ivory Coast has displayed impressive form with a record of D-W-W-W-W in their recent matches across all competitions. They started their AFCON campaign with a 2-0 victory against Guinea-Bissau.
+
+Franck Kessié will captain Ivory Coast at AFCON 2023 | Credit: Instagram(@fif.ci)
+
+Nigeria, conversely, has had a mixed run of results (W-D-D-L-D), including a 1-1 draw with Equatorial Guinea in their opening AFCON match.
+
+Ivory Coast vs Nigeria key players to watch
+
+Key players to watch include Seko Fofana from Ivory Coast and Victor Osimhen from Nigeria.
+
+Seko Fofana of Ivory Coast | Credit: Instagram (@fif.ci)
+
+Fofana has been remarkable in midfield control and attacking contributions, while Osimhen, known for his athleticism and goal-scoring abilities, will be vital for Nigeria's attacking thrust.
+
+Ivory Coast vs Nigeria head to head record
+
+Ivory Coast has shown a strong performance in recent matches, being unbeaten in their last seven games across all competitions. Nigeria, conversely, has not won in their last five matches.
+
+var widgetLoaderConfig = widgetLoaderConfig || { CDN_URL: 'https://widgets.sportal365.com', APP_LINK: 'desktop', API_URL: 'https://africa.football.api.sportal365.com/', API_KEY: '2f852b4de2f3a5cf3188e74b33087bb4:2c18422f8e826a7d11aeed52edb2449e', LANG: 'en', REQUEST_INTERVAL: 30, ENABLE_BET_SLIP: false, AUTHOR: false, THEME: "light", TOURNAMENT_ORDER: "pulse_nigeria", LINK_OPTIONS_V2: { 'player' : { 'url': '/football/player/{playerId}' }, 'team' : { 'url': '/football/{teamId}' }, 'tournament': { 'url': '/football/competition/{tournamentId}' }, 'match': { 'url' : '/football/match/{matchId}', 'sort': { 'criteria': 'alphabetically', 'direction': 'asc' } }, 'configuration': { 'newWindow': false }, 'standings_tournament': { 'url': '/football/competition/{tournamentId}/standings' } } }; if (!document.querySelector('script[src="https://widgets.sportal365.com/loader.bundle.min.js"]')) { window.setTimeout(function () { let scriptCss = document.createElement('link'); scriptCss.href = 'https://www.pulsesports.ng/css/sport-widgets.css?v=1668785443'; scriptCss.rel = 'stylesheet'; scriptCss.type = 'text/css'; document.body.appendChild(scriptCss); let scriptTag = document.createElement('script'); scriptTag.src = 'https://widgets.sportal365.com/loader.bundle.min.js'; scriptTag.defer = true; scriptTag.onload = function () { window.setTimeout(function () { new SMPWidgetsLoader(widgetLoaderConfig); }, 200); }; document.head.appendChild(scriptTag); }, 0); } else { new SMPWidgetsLoader(widgetLoaderConfig); }
+
+Historically, the head-to-head record between these two teams is closely matched, with Ivory Coast having a slight edge.
+
+Ivory Coast vs Nigeria possible lineups and injuries
+
+Ivory Coast's Predicted Lineup (4-3-3): Fofana; Konan, Ndicka, Diomande, Singo; Sangare, Kessie, Seko Fofana; Bamba, Boga, Krasso. Notable injuries include Adingra and Haller.
+
+Nigeria's Predicted Lineup (4-1-4-1): Nwabili; Sanusi, Ajayi, Troost-Ekong, Aina; Onyeka; Lookman, Iwobi, Yusuf, Simon; Osimhen. Sadiq is out due to a thigh injury​
+
+Victor Osimhen wasteful in front of goal || Imago
+
+Ivory Coast and Nigeria both have strong players in their squads. Ivory Coast will be without Sebastien Haller due to an ankle injury, but they still have the likes of Seko Fofana, who is known for his dynamic midfield presence. 
+
+Nigeria, meanwhile, will rely heavily on Victor Osimhen, a key striker who has shown his goal-scoring abilities in Serie A. Nigeria's lineup also includes Premier League players like Iwobi, Onyeka, Bassey, and Aina​​​​.
+
+Ivory Coast vs Nigeria tactical analysis
+
+The match is expected to be tightly contested, reflecting both teams' recent forms and historical rivalry. Ivory Coast has an impressive home record, having suffered just one defeat at home since the start of 2023.
+
+Super Eagle head coach Jose Peseiro || Credit: Imago
+
+Nigeria, having last won the tournament in 2013, will be looking to reassert their strength in the competition.
+
+Ivory Coast vs Nigeria betting tips and predictions
+
+The predictions and betting tips suggest a potential for both teams to score, with an emphasis on a strong attacking display from both sides​​​​.
+
+Where and how to watch Ivory Coast vs Nigeria 
+
+For those interested in watching the match, it will be broadcast live on local and satellite television in Nigeria.
+
+The match is a must-watch for football fans, promising to be a thrilling encounter between two of Africa's football powerhouses​​.
+
+Related content
+FOOTBALL
+'I’m lucky to play with the best’ - William Troost-Ekong in awe of Super Eagles teammate Victor Osimhen
+FOOTBALL
+‘Injured’ Sadiq Umar defies NFF doctors, set for Real Sociedad’s Copa del Rey clash
+FOOTBALL
+AFCON 2023: Nigeria’s William Troost-Ekong makes history during Super Eagles opener
+FOOTBALL
+4 African stars playing in their last AFCON tournament
+FOOTBALL
+AFCON 2023: Super Eagles receive boost as Terem Moffi arrives in camp
+FOOTBALL
+AFCON 2023: Osimhen and Yusuf Undergo Individual Training Sessions Amid Preparations for Côte d'Ivoire Clash
+FOOTBALL
+AFCON 2023: Kelechi Iheanacho pictured in training ahead of Nigeria’s crucial clash with Ivory Coast
+FOOTBALL
+AFCON 2023: Five teams with the best local music and dance as they entered the stadium
+FOOTBALL
+VIDEO: Captain Ahmed Musa leads praise and worship in Super Eagles camp
+FOOTBALL
+AFCON 2023’s day of upsets: How Equatorial Guinea and Mozambique held their ground against African giants Nigeria and Egypt
+FOOTBALL
+Africa's Most Successful Football Teams at the AFCON
+Nigeria
+Ivory Coast
+Africa Cup Of Nations
+AFCON 2023
+Top Stories
+‘I regret selling you’ — Pep Guardiola admits to ex-Manchester City star
+You know nothing: Fans slam Super Eagles icon Kanu after Enyimba ended 2024 with another draw
+Ademola Lookman storms Saudi Arabia: Super Eagles star set to lead Atalanta to 1st title in 2025
+'I've never watched them play again' — Mourinho hints at next job
+Osimhen personally breaks Napoli's heart with key January window decision
+'₦19bn or nothing' — French giants reject two bids for Super Eagles hopeful
+Loving life at Gala: Europe League celebrates Super Eagles star Osimhen
+Mikel Arteta reveals one thing he needs to do to win Premier League
+Recommended Content
+Report: Barcelona set for massive payout after failing to register Dani Olmo
+Turkish transfer expert debunks news of Super Eagles star joining Osimhen at Galatasaray
+Ola Aina: Super Eagles star not nominated for Player and Goal of the Month
+'If I can't compete' — Frenkie de Jong hints at Barcelona exit amid club's financial troubles
+From football pitch to meat seller - Agonising story of ex-Nigeria international
+Overlooked Super Eagles striker Maja dubbed 'The Major' starts new year with man of the match award
+You're not alone: Super Eagles goalie Nwabali gets emotional message from NFF after becoming an orphan
+Transfer: Hoffenheim agree deal to sign Super Eagles star Orban from Lyon
+Laliga reject Barcelona's registration for Olmo after failing to meet a deadline
+‘He knows better’ — Rodri claps back at Cristiano Ronaldo for Ballon d’Or comments
+‘They can’t run’ — Gary Neville says Amorim must bench two players
+5 Reasons Why 2025 Will Be a Cracker Year for Erling Haaland
+Top 5 teams in the NPFL: Ghana slayer beats ex-Super Eagles coach Finidi George
+Many Nigerian players abroad eager to return to NPFL - 2013 AFCON winner
+'We need to make sure we do it' - Arteta unveils 'title plan' after going 11 games unbeaten
+Africa's finest: Super Eagles star Ademola Lookman named in controversial Team of the Year
+ 
+ 
+ 
+ 
+ 
+ 
+
+Football Sports BET Livescore Newsfeed Pulse Sports 30
+
+How can we improve the website? Tell us here
+
+About us Advertise with us Terms of use Privacy policy Recommended sites
+
+Copyright © 2025 - Pulse.ng
+ 
+ 
+ ----- 
+ Source link : https://www.pulsesports.ng/football/story/afcon-2023-ivory-coast-vs-nigeria-match-preview-predictions-possible-lineups-time-and-where-to-watch-2024011619004057197 
+ ----- 

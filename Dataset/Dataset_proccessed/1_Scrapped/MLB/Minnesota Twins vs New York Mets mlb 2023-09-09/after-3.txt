@@ -1,0 +1,283 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+Manage Preferences
+MENU
+Jose Altuve vs. Manny Machado: Head-to-Head Stats Comparison
+Compare players and teams or see head to head results between teams, players, player vs. team, or batter vs. pitcher. • Tutorial Video • Sample Searches • Data Coverage
+THIS QUESTION WAS ANSWERED USING
+POWERED BY
+YOUR ALL ACCESS PASS TO THE
+BASEBALL DATABASE
+GO BEYOND THE BASICS. BECOME A STATHEAD
+Start Your FREE Trial
+ Show Criteria ➦ Share Results
+
+Jose Altuve
+
+Manny Machado
+
+Overall Stats
+ 52.8 
+ 1821 
+ 8042 
+ 2232 
+ 229 
+ 812 
+ 315 
+ .306 
+ .363 
+ .468 
+ .831 
+ 129 
+WAR
+G
+PA
+H
+HR
+RBI
+SB
+BA
+OBP
+SLG
+OPS
+OPS+
+ 57.8 
+ 1735 
+ 7517 
+ 1900 
+ 342 
+ 1049 
+ 99 
+ .279 
+ .338 
+ .488 
+ .826 
+ 124 
+Awards & Honors
+2
+9
+1
+3
+1
+7
+1
+Championships
+All-Star
+MVP
+Batting Titl
+Gold Glove
+Silver Slugg
+LCS MVP
+ 
+6
+ 
+ 
+2
+2
+ 
+Jose Altuve vs. Manny Machado: Batting Comparison
+Jose Altuve vs. Manny Machado: Totals 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Regular SeasonPlayoffs
+Rk	Player	Age	From	To	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	OPS+	TB	GIDP	HBP	SH	SF	IBB
+1	Jose Altuve	21-34	2011	2024	1821	8042	7293	1156	2232	431	31	229	812	315	90	600	1030	.306	.363	.468	.831	129	3412	195	76	26	47	45
+2	Manny Machado	19-31	2012	2024	1735	7517	6809	991	1900	363	18	342	1049	99	38	608	1302	.279	.338	.488	.826	124	3325	208	27	14	59	68
+Jose Altuve vs. Manny Machado: Value 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Rk	Player	Age	From	To	G	PA	WAR	WAA	oWAR	dWAR	Rbat	Rdp	Rbaser	Rfield
+1	Jose Altuve	21-34	2011	2024	1821	8042	52.8	26.8	60.7	-2.5	275	-8	16	-82
+2	Manny Machado	19-31	2012	2024	1735	7517	57.8	33.2	48.0	14.0	210	-22	-1	92
+Jose Altuve vs. Manny Machado: Sabermetric 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Regular SeasonPlayoffs
+Rk	Player	Age	From	To	G	PA	XBH	TOB	TOBwe	Outs	RC	BAbip	RP	BtRuns	BtWins	ISO	AB/SO	SB%	SBatt
+1	Jose Altuve	21-34	2011	2024	1821	8042	691	2908	2975	5419	1243	.329	1739	295	28.7	.162	7.1	77.8	405
+2	Manny Machado	19-31	2012	2024	1735	7517	723	2535	2591	5228	1089	.298	1698	228	22.2	.209	5.2	72.3	137
+Jose Altuve vs. Manny Machado: Win Probability 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Rk	Player	Age	From	To	G	PA	WPA	WPA/LI	Clutch	RE24	REW	RE24/boLI	aLI
+1	Jose Altuve	21-34	2011	2024	1821	8042	15.4	20.2	-4.6	207.56	20.5	222.83	0.98
+2	Manny Machado	19-31	2012	2024	1735	7517	15.0	18.4	-3.0	206.65	20.5	210.48	0.98
+Jose Altuve vs. Manny Machado: Head-to-Head Batting
+Jose Altuve vs. Manny Machado: Totals 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Regular Season
+Rk	Player	G	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	TB	GIDP	HBP	SH	SF	IBB
+1	Manny Machado	46	202	184	29	49	12	0	10	30	4	1	16	37	.266	.327	.495	.821	91	6	1	0	1	3
+2	Jose Altuve	46	205	195	25	62	14	0	3	20	12	1	8	22	.318	.346	.436	.782	85	5	1	0	1	1
+Jose Altuve vs. Manny Machado: Game Logs 
+Export Data
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Regular Season
+Subscribe to Stathead Baseball for full results.
+
+Go inside the Baseball Reference database and access the sports search engine that was made for fans like you. Subscriptions start at just $9/month. Learn More.
+
+Get your first month FREE
+
+Already a paid subscriber? Log in for full results.
+
+Rk	Player	Team	Date	GS	InnPl	BOP	PA	AB	R	H	2B	3B	HR	RBI	SB	CS	BB	SO	BA	OBP	SLG	OPS	TB	GIDP	HBP	SH	SF	IBB	aLI	WPA	acLI	cWPA	RE24	DFS(DK)	DFS(FD)	Pos
+1	Jose Altuve	HOU	2024-09-18	*	9	1	4	4	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0	0	0.91	-0.062	0.71	-0.03%	-0.05	0.00	0.00	DH
+2	Manny Machado	SDP	2024-09-18	*	9	3	4	4	2	2	0	0	2	2	0	0	0	1	.500	.500	2.000	2.500	8	0	0	0	0	0	1.04	0.123	1.15	0.08%	1.29	28.00	37.40	3B
+3	Jose Altuve	HOU	2024-09-17	*	9	1	5	5	0	1	0	0	0	0	0	0	0	2	.200	.200	.200	.400	1	0	0	0	0	0	1.52	-0.146	1.36	-0.08%	-0.50	3.00	3.00	2B
+4	Manny Machado	SDP	2024-09-17	*	10	4	5	5	1	2	0	0	1	2	0	0	0	1	.400	.400	1.000	1.400	5	0	0	0	0	0	3.62	-0.181	3.91	-0.12%	0.33	19.00	25.20	3B
+5	Jose Altuve	HOU	2024-09-16	*	9	1	4	4	1	2	1	0	0	0	1	0	0	0	.500	.500	.750	1.250	3	0	0	0	0	0	1.16	0.040	1.15	0.02%	0.16	15.00	18.20	2B
+6	Manny Machado	SDP	2024-09-16	*	9	4	4	4	0	2	1	0	0	1	0	1	0	1	.500	.500	.750	1.250	3	0	0	0	0	0	0.78	0.041	0.94	0.03%	0.02	10.00	12.50	3B
+7	Jose Altuve	HOU	2023-09-09	*	9	1	5	5	1	1	0	0	0	0	0	0	0	1	.200	.200	.200	.400	1	1	0	0	0	0	0.84	-0.057	1.67	-0.07%	-1.79	5.00	6.20	2B
+8	Manny Machado	SDP	2023-09-09	*	9	4	5	5	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	0	0	0	0	0	0	1.60	-0.189	0.02	0.00%	-1.36	0.00	0.00	DH
+9	Jose Altuve	HOU	2023-09-08	*	9	1	4	4	0	1	0	0	0	0	0	0	0	1	.250	.250	.250	.500	1	0	0	0	0	0	0.43	-0.032	0.82	-0.04%	-0.44	3.00	3.00	2B
+10	Manny Machado	SDP	2023-09-08	*	9	4	5	5	1	2	1	0	0	2	0	0	0	1	.400	.400	.600	1.000	3	0	0	0	0	0	0.40	0.045	0.00	0.00%	0.89	14.00	19.20	DH
+11																																				
+12																																				
+13																																				
+14																																				
+15																																				
+16																																				
+17																																				
+18																																				
+19																																				
+20																																				
+
+Data coverage:
+
+Game data: Game data is only available for the American League, National League, and Federal League. Since 1901 for regular season data, since 1933 for the All-Star Game, and since 1903 for the Postseason.
+
+Season data: Since 1871. Stats relying on play-by-play data are complete back to 1969, nearly complete back to 1950, and mostly complete back to 1912. Postseason data since 1903.
+
+Please see our data coverage page for details.
+
+If you utilize material unique to a Sports Reference site for a tweet, an article, or for research for a broadcast or podcast, please strongly consider citing this site as the source for the material. It would be greatly appreciated and would help us continue to produce this material.
+Stathead Login Create Account
+You are here: Baseball Stathead > Versus Finder | Player and Team Comparison and Head-to-Head Stats > Query Results
+Full Site Menu 
+Return to Top
+Stathead Baseball
+Season and Career Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Game Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Split Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Streak Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Span Tools: Player Batting, Player Pitching, Team Batting, Team Pitching
+Event Tools: Batting, Pitching
+Other Tools: Versus Finder
+All Tools
+Stathead Basketball
+Season and Career Tools: Player, Team
+Game Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Event Tools: Quarter, Event, Shot
+College Tools: Player Game, Player Season, Team Game, Team Season
+Other Tools: Versus Finder
+All Tools
+Stathead Football
+Season and Career Tools: Player, Team
+Game Tools: Player, Team
+Split Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Event Tools: Play, Drive, Touchdown, Field Goal
+College Tools (NEW): Player Game, Player Season, Team Game, Team Season
+Other Tools: Versus Finder
+All Tools
+Stathead Hockey
+Season and Career Tools: Player, Team, Goal Finder
+Game Tools: Player, Team
+Streak Tools: Player, Team
+Span Tools: Player, Team
+Other Tools: Versus Finder
+All Tools
+Stathead FBref
+Season and Career Tools: Player, Team
+Match Tools: Player, Team
+All Tools
+Stathead is for...
+Sports Fans, Content Creators, Betting & Fantasy, Media & Journalists, Team Professionals
+Billing Policies
+Terms of Service
+We're Social...for Statheads
+           
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Saturday, January 11, 11:12PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2025 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith of Baseballprojection.com and author of WAR in Pieces.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2025.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Stathead.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://stathead.com/baseball/vs/jose-altuve-vs-manny-machado 
+ ----- 

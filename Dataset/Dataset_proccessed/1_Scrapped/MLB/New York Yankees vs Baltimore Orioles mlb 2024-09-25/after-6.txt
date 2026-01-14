@@ -1,0 +1,301 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Orioles
+88-70, 44-33 Away
+9
+Final
+Yankees
+92-66, 42-35 Home
+7
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+BAL
+
+
+NYY
+1	2	3	4	5	6	7	8	9	R	H	E
+3	0	0	4	1	0	0	1	0	9	17	0
+0	1	0	0	2	0	0	0	4	7	10	1
+WIN
+J. Webb
+2-5
+1.1 IP, 2 H, 0 ER, 1 K, 0 BB
+LOSS
+M. Stroman
+10-9
+3.1 IP, 10 H, 6 ER, 1 K, 0 BB
+SAVE
+K. Akin
+1
+0.2 IP, 0 H, 0 ER, 0 K, 0 BB
+BAL
+Overview
+NYY
+Orioles Hitting
+HITTERS
+
+G. Henderson
+SS
+
+
+J. Westburg
+2B
+
+
+A. Santander
+RF
+
+
+C. Cowser
+LF
+
+
+R. Mountcastle
+1B
+
+
+R. O'Hearn
+DH
+
+
+R. Urias
+3B
+
+
+C. Mullins
+CF
+
+
+J. McCann
+C
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+5	2	3	2	0	0	.285
+5	1	2	1	0	0	.271
+5	1	2	1	0	0	.237
+4	1	2	3	0	1	.246
+5	0	1	1	0	0	.266
+5	0	1	0	0	0	.260
+5	1	1	0	0	0	.251
+4	3	3	0	0	1	.230
+5	0	2	1	0	0	.231
+43	9	17	9	0	2	
+BATTING
+2BMullins (16, Poteet); Santander (25, Beeter); Cowser (24, Beeter)
+RBIMcCann (28), Mountcastle (62), Santander (101), Henderson 2 (91), Westburg (60), Cowser 3 (68)
+2Out RBIMcCann, Santander, Cowser
+Team LOB9
+Team RISP8-16 (McCann 2-3, Mountcastle 1-3, O'Hearn 0-1, Mullins 0-1, Santander 1-2, Urías 0-1, Henderson 1-2, Westburg 1-1, Cowser 2-2)
+BASERUNNING
+CSHenderson (4, 2nd base by Stroman/Wells)
+SBMullins 2 (32, 2nd base off Beeter/Wells, 2nd base off Stroman/Wells); Cowser (9, 2nd base off Stroman/Wells)
+FIELDING
+DP1 (Urías-Henderson-Mountcastle)
+Yankees Hitting
+HITTERS
+
+G. Torres
+2B
+
+
+J. Soto
+RF
+
+
+A. Judge
+CF
+
+
+A. Wells
+C
+
+
+G. Stanton
+DH
+
+
+J. Chisholm Jr.
+3B
+
+
+J. Dominguez
+LF
+
+
+A. Rizzo
+1B
+
+
+A. Volpe
+SS
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+5	1	1	0	0	0	.257
+4	2	2	3	1	1	.288
+4	1	2	3	1	1	.324
+4	0	0	0	0	1	.233
+4	1	1	0	0	1	.233
+4	0	0	0	0	0	.262
+4	0	1	0	0	0	.200
+3	2	2	0	0	1	.224
+4	0	1	1	0	0	.248
+36	7	10	7	2	5	
+BATTING
+HRJudge (57, 9th inning off Bowman 2 on, 1 Out); Soto (41, 5th inning off Eflin 1 on, 2 Out)
+RBIJudge 3 (142), Soto 3 (108), Volpe (60)
+2Out RBISoto 2, Volpe
+GIDPWells
+Team LOB7
+Team RISP5-8 (Stanton 1-1, Judge 1-1, Torres 0-1, Soto 2-2, Chisholm Jr. 0-1, Volpe 1-1, Wells 0-1)
+FIELDING
+EVolpe (16, throw)
+AssistsDomínguez (Santander at 3rd base)
+Orioles Pitching
+PITCHERS
+
+Z. Eflin
+
+
+J. Webb
+(W, 2-5)
+
+
+D. Coulombe
+
+
+G. Soto
+
+
+M. Bowman
+
+
+K. Akin
+(S, 1)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+4.2	4	3	1	92-51	3.59
+1.1	2	0	1	24-19	3.15
+1.0	0	0	0	16-10	2.20
+1.0	0	0	2	8-7	4.44
+0.1	4	4	1	23-16	4.45
+0.2	0	0	0	9-5	3.13
+9.0	10	7	5	172-108	
+PITCHING
+First-pitch strikes/Batters FacedEflin 13/22; Coulombe 2/3; Bowman 3/5; Akin 0/2; Soto 2/3; Webb 4/6
+Called strikes-Swinging strikes-Foul balls-In play strikesEflin-13-3-19-16; Coulombe-2-0-5-3; Bowman-3-2-7-4; Akin-0-1-2-2; Soto-2-3-1-1; Webb-4-2-8-5
+Ground Balls-Fly BallsEflin 5-7; Coulombe 2-1; Akin 0-2; Soto 1-0; Webb 2-1
+Game ScoresZ Eflin 40
+Yankees Pitching
+PITCHERS
+
+M. Stroman
+(L, 10-9)
+
+
+C. Beeter
+
+
+C. Poteet
+
+
+M. Leiter Jr.
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+3.1	10	6	1	66-39	4.31
+1.1	3	2	2	30-19	7.71
+3.1	3	1	3	57-34	2.22
+1.0	1	0	3	19-13	4.58
+9.0	17	9	9	172-105	
+PITCHING
+First-pitch strikes/Batters FacedStroman 8/19; Leiter Jr. 2/4; Beeter 5/8; Poteet 9/14
+Called strikes-Swinging strikes-Foul balls-In play strikesStroman-12-3-6-18; Leiter Jr.-3-7-2-1; Beeter-6-4-4-5; Poteet-9-5-10-10
+Ground Balls-Fly BallsStroman 5-3; Beeter 1-1; Poteet 2-5
+Game ScoresM Stroman 17
+Scoring Summary
+INNING
+	BAL	NYY
+		1st	Cowser singled to left, Henderson scored and Westburg scored, Santander thrown out at third.	2	0
+		1st	Mountcastle singled to center, Cowser scored.	3	0
+		2nd	Volpe singled to left, Stanton scored, Rizzo to third.	3	1
+		4th	Henderson singled to center, Urías scored and Mullins scored.	5	1
+		4th	Santander doubled to right, Henderson scored.	6	1
+		4th	Cowser doubled to center, Santander scored.	7	1
+		5th	McCann singled to right, Mullins scored.	8	1
+		5th	Soto homered to right center (361 feet), Rizzo scored.	8	3
+		8th	Westburg singled to center, Mullins scored, McCann to second.	9	3
+		9th	Soto singled to right, Rizzo scored, Torres to third.	9	4
+		9th	Judge homered to center (412 feet), Torres scored and Soto scored.	9	7
+Full Play-By-Play
+Game Information
+Yankee Stadium
+11:05 PM, September 25, 2024
+Coverage: ESPN+
+Bronx, New York
+Line: NYY -125
+Over/Under: 8.5
+Attendance: 41,010
+Game Time:
+3:11
+Umpires:
+Home Plate Umpire - Carlos Torres
+First Base Umpire - David Rackley
+Second Base Umpire - Chad Fairchild
+Third Base Umpire - Ryan Wills
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570831 
+ ----- 

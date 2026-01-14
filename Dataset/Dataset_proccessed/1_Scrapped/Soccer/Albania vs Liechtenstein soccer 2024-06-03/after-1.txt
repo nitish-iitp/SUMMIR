@@ -1,0 +1,576 @@
+Football
+Hockey
+Basketball
+Tennis
+Cricket
+Settings
+Home
+Live
+Favourites
+England
+Champions League
+Champions League 23/24
+Spain
+Italy
+Germany
+France
+Netherlands
+Scotland
+Turkiye
+Europa League
+Europa Conference League 23/24
+Euro 2024 Qualification
+Euro 2024
+UEFA Nations League
+International
+World Cup Qualification
+Africa Cup of Nations 2023
+UEFA Women's CL
+UEFA Nations League Women
+Copa Libertadores
+Copa Sudamericana
+Africa Cup of Nations Qualification
+African Nat. Champ.
+Club Friendlies
+Women's World Cup
+International Friendlies
+Women's World Cup Qualification
+Women's Euro
+Women's World Cup U20
+World Cup U20
+Women's World Youth Cup
+World Youth Cup
+Women's Euro U19
+Women's Euro U17
+Women's World Cup U17
+World Cup U17
+UEFA Youth League
+Euro U21 2025
+Euro U21
+Euro U19
+Euro U19 Qualification
+Euro U17
+CONCACAF Nat. League
+CONCACAF Championship U20
+Copa America
+AFC Asian Cup
+AFC Women's Club Championship
+CONCACAF Gold Cup
+Africa
+Asia
+CONCACAF
+Oceania
+South America
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Mali
+Malta
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Romania
+Rwanda
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+USA
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
+World Cup 2022
+Champions League 22/23
+Champions League 21/22
+Champions League 20/21
+Champions League 19/20
+Europa League 22/23
+Europa League 21/22
+Europa League 20/21
+Europa League 19/20
+Europa Conference League 22/23
+Europa Conference League 21/22
+Africa Cup of Nations 2021
+Euro 2020
+UEFA Women's CL 22/23
+Women's CAF Champions League
+CONCACAF Women Gold Cup
+UEFA Nations League 22/23
+Paris 2024 Women
+Europa League 23/24
+The Games - Men
+The Games - Women
+Conference League
+CONCACAF Women Champions Cup
+World Cup 2026
+DEC 26
+DEC 27
+DEC 28
+TODAY
+DEC 30
+DEC 31
+JAN 1
+ARGENTINA - PRIMERA DIVISION 2024
+JUNE 3
+FT
+San Lorenzo de Almagro
+0 - 1
+Sarmiento
+INTERNATIONAL FRIENDLIES - FRIENDLIES 2024
+JUNE 3
+FT
+Gibraltar
+0 - 2
+Scotland
+FT
+Croatia
+3 - 0
+North Macedonia
+FT
+Albania
+3 - 0
+Liechtenstein
+FT
+England
+3 - 0
+Bosnia and Herzegovina
+FT
+Germany
+0 - 0
+Ukraine
+INTERNATIONAL FRIENDLIES - WOMEN'S FRIENDLIES
+JUNE 3
+FT
+Australia W
+2 - 0
+China W
+FT
+Bangladesh W
+0 - 1
+Chinese Taipei W
+FT
+New Zealand W
+1 - 4
+Japan W
+FT
+Bolivia W
+0 - 2
+El Salvador W
+FT
+Morocco W
+3 - 2
+DR Congo W
+FT
+Trinidad and Tobago W
+0 - 3
+Curacao W
+FT
+Argentina W
+2 - 0
+Costa Rica W
+INTERNATIONAL FRIENDLIES - FRIENDLIES U21
+JUNE 3
+FT
+Turkiye U21
+2 - 1
+Scotland U21
+INTERNATIONAL - MAURICE REVELLO TOURNAMENT: GROUP A
+JUNE 3
+FT
+South Korea U21
+0 - 2
+Saudi Arabia U23
+FT
+France U20
+0 - 2
+Ivory Coast U20
+ARGENTINA - PRIMERA NACIONAL
+JUNE 3
+FT
+Atlanta
+1 - 1
+CA Defensores Unidos
+ARGENTINA - PRIMERA B METROPOLITANA: APERTURA
+JUNE 3
+FT
+CS Deportivo Liniers
+0 - 2
+Colegiales
+ARGENTINA - PRIMERA C: APERTURA
+JUNE 3
+FT
+Berazategui
+5 - 2
+Atlas
+FT
+Deportivo Paraguayo
+0 - 5
+Real Pilar
+FT
+El Porvenir
+0 - 0
+Victoriano Arenas
+FT
+Sportivo Barracas
+1 - 1
+Deportivo Espanol
+ARGENTINA - WOMEN'S PRIMERA DIVISION A: APERTUA
+JUNE 3
+FT
+CA Independiente W
+0 - 2
+Banfield W
+BELARUS - 1ST LEAGUE
+JUNE 3
+FT
+Torpedo Zhodino Reserves
+2 - 1
+Maxline Rogachev
+FT
+FC Volna Pinsk
+1 - 1
+Niva
+FT
+Dinamo Minsk Reserves
+3 - 2
+Energetik-BGU
+BRAZIL - SERIE B
+JUNE 3
+FT
+Santos FC
+1 - 2
+Botafogo SP
+BRAZIL - SERIE C: 1ST STAGE
+JUNE 3
+FT
+Volta Redonda
+2 - 1
+CS Alagoano
+FT
+Botafogo PB
+3 - 1
+Athletic Club
+FT
+EC Sao Jose
+2 - 0
+Nautico
+BRAZIL - CATARINENSE: SERIE B
+JUNE 3
+FT
+Carlos Renaux
+2 - 0
+Camboriu FC
+BRAZIL - PARANAENSE 2
+JUNE 3
+FT
+GE Maringa
+0 - 5
+AA Iguacu PR
+BRAZIL - PAULISTA U20: GROUP 11
+JUNE 3
+FT
+Palmeiras U20
+6 - 0
+Portuguesa U20
+CHILE - PRIMERA DIVISIÓN
+JUNE 3
+FT
+Coquimbo Unido
+2 - 0
+Universidad Catolica
+CHILE - PRIMERA B
+JUNE 3
+FT
+San Luis
+0 - 1
+Magallanes
+FT
+Club Deportes Limache
+2 - 2
+Barnechea
+FT
+Rangers
+1 - 2
+Deportes Recoleta
+COLOMBIA - PRIMERA A: APERTURA PLAY-OFF: GROUP B
+JUNE 3
+FT
+Tolima
+1 - 2
+Santa Fe
+ESTONIA - ESILIIGA
+JUNE 3
+FT
+Talinna Kalev U21
+0 - 1
+Tabasalu JK
+ESTONIA - ESILIIGA B
+JUNE 3
+FT
+Narva Trans U21
+1 - 1
+TJK Legion
+FT
+Nomme Kalju FC U21
+0 - 1
+Paernu Jalgpalliklubi
+FT
+Tammeka U21
+1 - 3
+FA Tartu Kalev
+FINLAND - YKKONEN
+JUNE 3
+FT
+OLS
+4 - 0
+RoPS
+FINLAND - KAKKONEN: GROUP A
+JUNE 3
+FT
+FC Reipas
+5 - 0
+JaePS/47
+FINLAND - KAKKONEN: GROUP C
+JUNE 3
+FT
+Kuopion Elo
+1 - 2
+JS Hercules
+ICELAND - BESTA DEILDIN
+JUNE 3
+FT
+KR Reykjavik
+3 - 5
+Valur
+LITHUANIA - I LYGA
+JUNE 3
+FT
+FA Siauliai B
+4 - 4
+FK Kauno Zalgiris B
+NEW ZEALAND - NORTHERN LEAGUE
+JUNE 3
+FT
+Birkenhead United
+3 - 3
+Tauranga City AFC
+SWEDEN - DIVISION 1: NORTH
+JUNE 3
+FT
+Assyriska FF
+1 - 0
+IFK Stocksund
+SWEDEN - DIVISION 2: SOEDRA SVEALAND
+JUNE 3
+FT
+Aatvidaberg
+1 - 1
+BK Ljungsbro
+FT
+Nykoepings BIS
+2 - 1
+IF Sylvia
+URUGUAY - PRIMERA DIVISIÓN: APERTURA
+JUNE 3
+FT
+Liverpool FC
+0 - 3
+Cerro
+FT
+Danubio
+1 - 1
+Deportivo Maldonado
+USA - NISA
+JUNE 3
+FT
+Arizona Monsoon
+0 - 1
+Irvine Zeta FC
+USA - MLS NEXT PRO
+JUNE 3
+FT
+Colorado Rapids II
+2 - 3
+St. Louis City II
+FT
+Los Angeles FC II
+0 - 4
+North Texas SC
+USA - USL LEAGUE TWO
+JUNE 3
+FT
+Chicago Dutch Lions FC
+0 - 2
+River Light FC
+FT
+Marin FC Legends
+2 - 2
+Monterey Bay FC 2
+FT
+Albion SC Colorado
+0 - 2
+Flatirons Rush
+FT
+Ventura County Fusion
+1 - 0
+Arizona Arsenal
+USA - NPSL: EAST REGION: KEYSTONE EAST CONFERENCE
+JUNE 3
+FT
+Philadelphia Union DS
+2 - 2
+Atlantic City
+USA - NPSL: MIDWEST REGION: GATEWAY CONFERENCE
+JUNE 3
+FT
+Gios Lions SC
+3 - 3
+Wisconsin Conquerors FC
+USA - USL W-LEAGUE: HEARTLAND DIVISION
+JUNE 3
+FT
+RKC Soccer Club W
+0 - 4
+River Light FC W
+USA - USL W-LEAGUE: NOR CAL DIVISION
+JUNE 3
+FT
+Academica SC W
+7 - 1
+Marin FC Alliance W
+FT
+Pleasanton Rage
+2 - 2
+Stockton Cargo SC W
+UZBEKISTAN - PRO LEAGUE
+JUNE 3
+FT
+Buxoro
+2 - 2
+FC Do Stlik
+FT
+PFC Shurtan
+2 - 1
+Mashal Muborak
+Live Scores and fixtures for football on 3 June 2024
+Looking for the livescore today? See live scores and fixtures for football on 3 June 2024.
+LiveScore brings you the latest football fixtures, results and live score information for 3 June 2024. Revisit scores and statistics and look ahead for upcoming fixtures for your favourite sport team. Plus, find out the livescore today, 3 June 2024.
+© 1998-2024 LiveScore Limited
+CareersMobileAdvertiseContactPrivacy NoticeCookie PolicyTerms of UseCorporate
+ 
+ 
+ ----- 
+ Source link : https://www.livescore.mobi/football/2024-06-03/ 
+ ----- 

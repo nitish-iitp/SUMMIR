@@ -1,0 +1,278 @@
+Sports Betting
+
+Odds
+• • •
+Log In
+Subscribe
+Is UEFA Nations League performance predictive or a mostly random set of results?
+By Brett Koremenos
+Oct 10, 2024
+
+The old cliche that says, “There are three types of lies: lies, damned lies and statistics” is perfect for international football. It’s highly unlikely that Mark Twain (or former British Prime Minister Benjamin Disraeli or whoever actually said this) knew how applicable this phrase would be to the UEFA Nations League. The international game is where randomness reigns, variance thrives and results are all that matter.
+
+So, can we actually use data to bet the Nations League? Or would we be just using stats to lie to ourselves?
+
+Before diving into the numbers as we approach the second round of Nations League matches, it’s best to step back and see what the league itself tells us about the countries that play in it. More specifically, if the UEFA Nations League has any predictive power. Given we are coming off a summer featuring a major competition (Euro 2024), we can look back and see if the 2022-23 iteration of the Nations League actually informed us of what was to come.
+
+Spain’s consecutive titles are misleading
+
+On the surface, it certainly looks as though it does. Spain won group A2 in 2022-23 on 11 points, beat Italy in the semifinals 2-1 and then defeated Croatia in penalties in the final. Fast forward a year later, and Spain were crowned kings of Europe after a 2-1 victory over England. Spain are now 7/2 on Betfair to win the 2024-25 Nations League title having notched four points through their first two matches.
+
+So if the Nations League predicted the Euros, then the Euros should tell us Spain is the go-to bet, right? Dive just below the surface, however, and you’ll quickly see it’s not nearly that simple.
+
+The Pulse Newsletter
+
+Free, daily sports updates direct to your inbox.
+
+Sign Up
+
+Despite winning A2 in 2022-23, Spain only had a plus-3 goal differential compared to second-place Portugal’s plus-8. While goal differential isn’t the be-all, end-all, it could be used to offer a notion Spain wasn’t actually the best team in the group that year. The other notable thing about La Roja’s run in 22-23 was who played. Or, more aptly put, who didn’t. The burgeoning superstars on the red and yellow part of the Iberian peninsula — Nico Williams and Lamine Yamal — combined for 995 minutes at Euro 2024. Through the entirety of the 22-23 Nations League, Williams played 46 minutes and Yamal didn’t play at all (he was 14 when the competition started, after all).
+
+Any results taken from those Nations League’s results clearly seem irrelevant with the emergence of Yamal and Williams since. Though it’s definitely a noisy stat, Yamal posted an expected goal (xG) differential of +1.07 per 90 at the Euros, meaning Spain created more than a goal’s worth of chances than their opponents with the teenage sensation on the pitch. Williams was slightly better at +1.09. Both actually posted a more impressive mark than one of the Ballon d’Or favorites, Rodri, who was +0.70. Now, those numbers don’t mean either Yamal or Williams are definitively more impactful than the now-injured Rodri. They appear mostly to show us how quirky and almost unconnected the international landscape seems to be.
+
+Starting with that 2022-23 Nations League season, Spain played 23 matches that mattered — eight Nations League matches, eight European qualifiers and seven matches at the Euros — leading up to the current Nations League. In the first third of those matches, two of Spain’s most impactful players in the last third of that stretch barely played. Now, Yamal and Williams should both be present for this 2024-25 Nations League season, but Rodri won’t be. Neither will Jordi Alba, Dani Carvajal, Sergio Busquets and a handful of other players who propelled Spain to either their last Nations League title or recent European championship.
+
+Unlike in the club game, where teams have dozens of matches in the league on top of domestic and continental cup competitions, the international version of the sport offers just snapshots of the truth. Spain won a Nations League without two players that now headline their attack. They won a European title without the majority of their old guard that hung around for that last Nations League triumph. Now they’re competing for another one without a player who could potentially win this year’s Ballon d’Or. Can anyone really say 7/2 odds look good in light of that turnover?
+
+Looking at the country that opposed Spain in that European final this summer shows you even more of the mystery and volatility of the international game. England was tied with Spain in the 85th minute of that match. However, the Three Lions can’t even win the 2024-25 Nations League because they got relegated in the previous iteration of this competition. Yes, that superstar-laden England squad finished at the bottom of group A3 in 2022-23.
+
+What a difference a year makes when it comes to that group! The Italian side that won went into Euro 2024 as a dark horse contender. The Azzurri then immediately face-planted, posting a negative xG differential in group play (-0.29 per 90) before their anemic attack ousted them in their Round of 16 matchup against Switzerland.
+
+2022-23 Nations League Group A3
+TEAM
+	
+W
+	
+D
+	
+L
+	
+POINTS
+	
+GD
+
+
+Italy
+	
+3
+	
+2
+	
+1
+	
+11
+	
++1
+
+
+Hungary
+	
+3
+	
+1
+	
+2
+	
+10
+	
++3
+
+
+Germany
+	
+1
+	
+4
+	
+1
+	
+7
+	
++2
+
+
+England
+	
+0
+	
+3
+	
+3
+	
+3
+	
+-6
+
+That second-place Hungary side also posted a negative xG differential in group play (-0.07 per 90) at Euro 2024 and didn’t even qualify for the Round of 16. The Germans finished third and then, aided by being the host nation, blew everyone’s doors off en route to posting the second-best xG differential per 90 in group play at Euro 2024. Germany was only ousted by eventual champion Spain in perhaps the most thrilling match of the tournament, where they out-created La Roja 2.1 to 1.6 in expected goals in a match where the actual scoreline was flipped 2-1 in favor of Spain.
+
+There’s definitely a universe where the bottom two teams in a Nations League group wound up battling it out for a European championship a year later. So much for predictive value.
+
+That German side is now 11/2 to win the Nations League this year, just behind the Portugal team (5/1) that finished second to Spain in group play in 2022-23. France, who entered Euro 2024 with the second-best odds to win, sit fourth in the Nations League futures at 6/1. France’s loss to Italy in the first group match of this year’s competition was yet another showcase in the randomness of this event.
+
+Deschamps manages France differently
+
+Despite a disappointing exit in the Euros, Didier Deschamps has managed to stay in charge of the French national team for one more cycle. In Euro 2024, Deschamps essentially eschewed subbing. In France’s six matches during the Euros, Deschamps used his full allotment of five subs just once, in a 1-1 draw against Poland. Against Belgium, Deschamps made one sub — a like-for-like swap of striker Randal Kolo Muani for Marcus Thuram — in a 1-0 win where an 85th-minute own goal was the sole difference. Against the Netherlands, he made just two changes across 90 minutes. Given the documented impact of subs, it was, we’ll say, an interesting use of a bench for one of the most talent-rich countries in the world.
+
+In France’s two Nations League matches so far, Deschamps has used all five subs both times. In the loss to Italy alone, the French manager used all five subs by the 77th minute. Either the notoriously conservative and old-school Deschamps has converted quickly to the gospel of analytics or he views Nations League matches as the glorified friendlies that they essentially are.
+
+Therein lies another problem with betting on an already weird and random part of the sport. Whereas managers like Deschamps have clear motivation for winning a European championship, the Nations League title isn’t exactly of great appeal, especially to a country like France. While finishing high in the Nations League offers the potential safety net of a playoff for teams that struggle in World Cup or Euro qualification, it’s not a guaranteed spot. Given France will be one of the favorites to win the sport’s biggest event in 2026, it’s unlikely there’s an intense motivation to roll out the best starting XIs or make astute tactical subs in lieu of just simply shoving in fresh bodies. Yet a team like Italy, who has felt the pain of two missed World Cups and is fresh off a disappointing Euro campaign, could have far greater motivation to secure themselves a safety net that is likely of no interest to France. It’s a tangled web of motivations, to say the least.
+
+Now, that doesn’t mean you couldn’t dive into France’s +0.52 xG margin after their first two and conclude they are a good bet to comfortably win against an Israeli team that’s given up five goals and seven big chances against Belgium and Italy. You could also look at the five big chances the Azzurri created against the talented French, their group win in 2022-23 and conclude that the Italians are a good bet to win this edition of the Nations League.
+
+Those stats, however, could be lying to you.
+
+Unlike club competitions, international play has shown us that the past not only doesn’t predict the future, but it can be a reminder of the deception that is sometimes hidden in our numbers.
+
+(Photo of Nico Williams and Lamine Yamal: Jewel Samad / AFP via Getty Images)
+
+National
+Boxing
+Bundesliga
+Champions League
+Championship
+College Football
+College Sports
+Copa America
+Copa del Rey
+Culture
+Europa League
+European Championship
+FA Cup
+Fantasy Baseball
+Fantasy Basketball
+Fantasy Football
+Fantasy Hockey
+Fantasy Premier League
+Formula 1
+Gaming
+Golf
+International Football
+La Liga
+League Cup
+League One
+League Two
+LNH
+Memorabilia & Collectibles
+Men's College Basketball
+Men's World Cup
+Mixed Martial Arts
+MLB
+MLS
+Motorsports
+NASCAR
+NBA
+NFL
+NHL
+NWSL
+Olympics
+Opinion
+Premier League
+Scottish Premiership
+Serie A
+Soccer
+Sports Betting
+Sports Business
+Tennis
+Top Sports News
+UK Women's Football
+WNBA
+Women's College Basketball
+Women's Euros
+Women's Hockey
+Women's World Cup
+The Athletic Ink
+Podcasts
+Headlines
+US
+Arizona
+Atlanta
+Baltimore
+Bay Area
+Boston
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Columbus
+Dallas
+Denver
+Detroit
+Houston
+Indiana
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles
+Memphis
+Miami
+Minnesota
+Nashville
+New Orleans
+New York
+Oklahoma
+Oregon
+Orlando
+Philadelphia
+Pittsburgh
+Sacramento
+San Antonio
+San Diego
+Seattle
+St. Louis
+Tampa Bay
+Utah
+Washington DC
+Wisconsin
+Canada
+Calgary
+Edmonton
+Montreal
+Montréal (français)
+Ottawa
+Toronto
+Vancouver
+Winnipeg
+Partners
+Collectibles by eBay
+Odds by BetMGM
+Streaming by Fubo
+Tickets by StubHub
+Subscribe
+Start Subscription
+Buy a Gift
+Student Discount
+Group Subscriptions
+HQ
+About Us
+Careers
+Code of Conduct
+Editorial Guidelines
+Business Inquiries
+Press Inquiries
+Support
+FAQ
+Forgot Password?
+Redeem Gift
+Contact Us
+Terms of Service
+Newsletters
+The Pulse
+The Bounce
+The Windup
+Prime Tire
+Full Time
+Until Saturday
+Scoop City
+The Athletic FC
+MoneyCall
+©2024 The Athletic Media Company, A New York Times Company
+Privacy Policy
+Your Ad Choices
+Support
+Sitemap
+ 
+ 
+ ----- 
+ Source link : https://www.nytimes.com/athletic/5832105/2024/10/10/uefa-nations-league-predictive-or-random/ 
+ ----- 

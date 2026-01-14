@@ -1,0 +1,16 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "The Chicago Cubs dominated the Cincinnati Reds in a thrilling extra-innings comeback!",
+            "score": 9.3
+        },
+        {
+            "sentence": "I can't wait for the next game to see if the Reds will bounce back!",
+            "score": 8.1
+        },
+        {
+            "sentence": "Let's go Yankees, they're unstoppable!",
+            "score": 3.2
+        }
+    ]
+}

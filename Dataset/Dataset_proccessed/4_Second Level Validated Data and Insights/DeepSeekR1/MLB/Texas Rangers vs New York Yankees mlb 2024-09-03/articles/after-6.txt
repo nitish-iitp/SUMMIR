@@ -1,0 +1,680 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Texas Rangers Schedule
+New York Yankees Schedule
+New York Yankees vs Texas Rangers Box Score: September 3, 2024
+MLB Scores — September 3, 2024
+CHW	0	Final
+BAL	9	
+WSN	6	Final
+MIA	2	
+MIN	1	Final
+TBR	2	
+PHI	10	Final
+TOR	9	
+BOS	2	Final
+NYM	7	
+COL	0	Final
+ATL	3	
+PIT	5	Final
+CHC	0	
+CLE	7	Final
+KCR	1	
+STL	7	Final
+MIL	4	(12)
+NYY	4	Final
+TEX	7	
+LAD	6	Final
+LAA	2	(10)
+SEA	2	Final
+OAK	3	
+ARI	8	Final
+SFG	7	
+MLB Scores & Standings on this Day
+New York Yankees
+4
+80-59
+Prev Game Next Game
+ 
+Texas Rangers
+7
+66-73
+Prev Game Next Game
+Tuesday, September 3, 2024
+Start Time: 7:05 p.m. Local
+Attendance: 29,356
+Venue: Globe Life Field
+Game Duration: 3:03
+Night Game, on artificial turf
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	New York Yankees	0	0	0	0	0	0	2	2	0	4	10	1
+
+	Texas Rangers	0	0	0	1	0	0	0	2	4	7	6	0
+WP: Walter Pennington (1-0) • LP: Clay Holmes (2-5)
+Winning Run scored with 1 out
+New York Yankees 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Gleyber Torres 2B	4	0	2	0	1	1	5	.246	.322	.364	.686	24	12	-0.017	0.99	0.066	-0.083	-0.01%	1.31	0.1	1	1	2B
+   Duke Ellis PR	0	0	0	0	0	0	0	.000	.000	.000	.000										0	0	
+   Oswaldo Cabrera 2B	0	0	0	0	0	0	0	.245	.291	.365	.656										0	1	
+Juan Soto RF	3	1	0	0	1	1	5	.291	.419	.582	1.001	21	10	-0.046	1.22	0.074	-0.120	-0.04%	1.62	-0.5	2	0	CS,HBP
+Aaron Judge CF	5	1	1	0	0	2	5	.324	.457	.706	1.163	20	13	-0.090	1.25	0.032	-0.123	-0.07%	1.67	-0.7	2	0	
+Giancarlo Stanton DH	3	0	0	0	1	3	4	.242	.302	.499	.801	20	11	-0.068	1.37	0.038	-0.106	-0.05%	1.82	-0.5	0	0	
+Jazz Chisholm Jr. 3B	4	1	2	0	0	1	4	.267	.334	.458	.792	14	10	0.149	1.83	0.197	-0.048	0.12%	2.43	0.8	0	1	
+Anthony Volpe SS	4	1	2	2	0	1	4	.255	.305	.387	.691	19	13	0.210	1.72	0.271	-0.061	0.17%	2.29	1.9	0	1	SB
+Jose Trevino C	4	0	1	1	0	2	4	.231	.300	.387	.687	17	13	0.018	1.29	0.058	-0.039	0.01%	1.72	-0.6	14	0	
+Alex Verdugo LF	4	0	1	1	0	1	4	.235	.293	.359	.652	15	9	0.025	1.51	0.106	-0.081	0.02%	2.00	-0.2	1	0	
+DJ LeMahieu 1B	3	0	1	0	0	0	3	.204	.269	.259	.527	11	9	-0.043	1.04	0.029	-0.072	-0.03%	1.38	-0.5	4	0	GDP
+   Anthony Rizzo PH-1B	1	0	0	0	0	1	1	.227	.290	.348	.638	6	3	-0.011	0.47	0.000	-0.011	-0.01%	0.63	-0.2	1	0	
+																							
+Carlos Rodón P																					0	0	
+   Tommy Kahnle P																					0	0	
+   Jake Cousins P																					0	0	
+   Tim Hill P																					0	0	
+   Clay Holmes P																					0	0	
+Team Totals	35	4	10	4	3	13	39	.286	.359	.314	.673	167	103	0.127	1.33	0.871	-0.744	0.10%	1.77	-0.3	25	4	
+2B: Gleyber Torres (22, off Andrew Heaney).
+HBP: Juan Soto (3, by Andrew Heaney).
+TB: Gleyber Torres 3; Jazz Chisholm Jr. 2; Anthony Volpe 2; DJ LeMahieu; Aaron Judge; Alex Verdugo; Jose Trevino.
+GIDP: DJ LeMahieu (13).
+RBI: Anthony Volpe 2 (54); Alex Verdugo (56); Jose Trevino (28).
+2-out RBI: Anthony Volpe 2.
+Team LOB: 8.
+With RISP: 3 for 9.
+Fielding
+E: DJ LeMahieu (3).
+Baserunning
+SB: Anthony Volpe (26, 2nd base off Grant Anderson/Carson Kelly).
+CS: Juan Soto (4, 2nd base by José Leclerc/Carson Kelly).
+Texas Rangers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Marcus Semien 2B	4	2	1	0	1	2	5	.234	.307	.383	.690	22	14	0.219	2.41	0.292	-0.073	0.00%	0.05	0.5	2	2	
+Wyatt Langford CF	5	1	1	4	0	2	5	.243	.313	.382	.695	25	16	0.337	2.88	0.470	-0.133	0.00%	0.06	1.6	1	0	HR
+Josh Jung 3B	3	1	2	2	0	0	4	.276	.295	.455	.750	14	8	0.327	1.70	0.337	-0.010	0.01%	0.04	2.5	0	0	HR,SB,HBP
+Adolis García RF	3	0	0	0	1	3	4	.222	.282	.393	.675	19	12	-0.031	1.56	0.034	-0.065	-0.00%	0.04	-0.5	1	0	
+Nathaniel Lowe 1B	2	0	0	1	1	1	4	.254	.347	.372	.719	17	9	-0.074	2.30	0.026	-0.100	-0.00%	0.05	-0.1	3	3	SF
+Justin Foscue DH	3	0	0	0	0	2	3	.083	.120	.125	.245	12	8	-0.073	1.00	0.000	-0.073	-0.00%	0.02	-0.5	0	0	
+   Jonah Heim PH-DH-DH	1	0	0	0	0	1	1	.225	.271	.343	.615	4	3	-0.170	5.88	0.000	-0.170	-0.00%	0.13	-0.6	0	0	
+Ezequiel Duran LF	3	0	1	0	0	0	3	.245	.285	.303	.588	14	10	-0.017	0.86	0.028	-0.044	0%	0.02	-0.3	2	0	
+   Travis Jankowski PH	1	0	0	0	0	0	1	.201	.266	.239	.505	5	3	-0.085	3.40	0.000	-0.085	-0.00%	0.07	-0.2	0	0	
+Carson Kelly C	3	0	1	0	1	1	4	.255	.332	.397	.730	17	10	0.070	1.50	0.135	-0.066	0.00%	0.03	0.3	13	1	
+   Leody Taveras PR	0	1	0	0	0	0	0	.228	.283	.344	.628			0.072	4.61	0.072	0.000	0.00%	0.10	0.2	0	0	SB
+Jonathan Ornelas SS	2	0	0	0	0	2	2	.136	.208	.227	.436	6	6	-0.048	1.02	0.000	-0.048	-0.00%	0.03	-0.4	3	2	
+   Josh Smith PH-SS	1	2	0	0	1	0	2	.266	.353	.411	.764	9	4	0.101	2.94	0.101	0.000	0.00%	0.07	0.6	0	0	
+																							
+Andrew Heaney P																					2	0	
+   José Leclerc P																					0	0	
+   Andrew Chafin P																					0	0	
+   Grant Anderson P																					0	0	
+   Gerson Garabito P																					0	0	
+   Walter Pennington P																					0	0	
+Team Totals	31	7	6	7	5	14	38	.194	.316	.387	.703	164	103	0.628	2.09	1.495	-0.867	0.01%	0.05	3.0	27	8	
+HR: Josh Jung (6, off Carlos Rodón, 4th inn, 0 on, 0 outs to Deep LF); Wyatt Langford (10, off Clay Holmes, 9th inn, 3 on, 1 out to Deep LF Line).
+SF: Nathaniel Lowe (4, off Tim Hill).
+HBP: Josh Jung (1, by Carlos Rodón).
+TB: Josh Jung 5; Wyatt Langford 4; Carson Kelly; Ezequiel Duran; Marcus Semien.
+RBI: Wyatt Langford 4 (60); Josh Jung 2 (14); Nathaniel Lowe (50).
+Team LOB: 6.
+With RISP: 2 for 4.
+Fielding
+DP: 2. Jonathan Ornelas-Marcus Semien-Nathaniel Lowe; Carson Kelly-Marcus Semien.
+Baserunning
+SB: Josh Jung (4, 2nd base off Jake Cousins/Jose Trevino); Leody Taveras (17, 2nd base off Clay Holmes/Jose Trevino).
+New York Yankees 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Carlos Rodón	6	1	1	1	2	11	1	4.19	22	99	65	33	17	15	1	7	0	0	75			0.154	0.81	0.12%	1.07	1.9
+Tommy Kahnle, H (14)	1	1	1	0	0	1	0	2.00	5	16	10	7	3	0	4	0	0	0		0	0	0.058	1.41	0.05%	1.88	0.1
+Jake Cousins, H (6)	0.1	2	1	1	1	1	0	2.73	4	17	10	4	3	3	2	0	0	0		1	1	-0.237	3.10	-0.19%	4.12	-1.7
+Tim Hill, H (2)	0.2	0	0	0	0	1	0	3.75	2	7	6	4	0	2	0	1	0	0		3	1	0.207	5.96	0.17%	7.94	0.5
+Clay Holmes, BS (11), L (2-5)	0.1	2	4	4	2	0	1	3.27	5	25	12	5	1	6	1	2	1	0		0	0	-0.808	5.26	-0.65%	7.00	-3.8
+Team Totals	8.1	6	7	5	5	14	2	5.40	38	164	103	53	24	26	8	10	1	0	75	4	2	-0.626	2.09	-0.50%	2.79	-3.0
+
+Tommy Kahnle faced 1 batter in the 8th inning.
+
+Texas Rangers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Andrew Heaney	5	3	0	0	1	8	0	3.81	20	86	54	23	12	19	3	7	5	0	68			0.217	1.06	0.00%	0.02	2.0
+José Leclerc, BS (3)	1.1	2	2	2	0	2	0	4.68	5	16	12	4	2	6	1	2	2	0		1	0	-0.161	2.59	-0.00%	0.06	-0.6
+Andrew Chafin	1	1	1	1	1	0	0	3.44	4	11	7	3	0	4	2	1	1	0		1	1	-0.053	1.55	-0.00%	0.04	-0.1
+Grant Anderson	0.2	3	1	1	0	2	0	7.76	5	27	17	9	1	7	3	0	0	0		1	1	-0.165	1.40	-0.00%	0.03	-1.5
+Gerson Garabito	0.2	1	0	0	0	1	0	2.55	3	15	8	4	1	3	1	1	1	0		0	0	0.018	0.47	0.00%	0.01	0.3
+Walter Pennington, W (1-0)	0.1	0	0	0	1	0	0	2.53	2	12	5	1	1	3	0	1	0	0		1	0	0.017	0.90	0.00%	0.02	0.2
+Team Totals	9	10	4	4	3	13	0	4.00	39	167	103	44	17	42	10	12	9	0	68	4	2	-0.127	1.33	-0.00%	0.03	0.3
+
+Andrew Heaney faced 1 batter in the 6th inning.
+
+Balks: José Leclerc (2).
+WP: None.
+HBP: Carlos Rodón (10; Josh Jung); Andrew Heaney (9; Juan Soto).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Mark Wegner, 1B - Clint Vondrak, 2B - Alex MacKay, 3B - Bruce Dreckman, LF - (none), RF - (none).
+Time of Game: 3:03.
+Attendance: 29,356.
+Start Time Weather: 74° F, Wind 0mph, In Dome.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Yankees
+1	Gleyber Torres	2B
+2	Juan Soto	RF
+3	Aaron Judge	CF
+4	Giancarlo Stanton	DH
+5	Jazz Chisholm Jr.	3B
+6	Anthony Volpe	SS
+7	Jose Trevino	C
+8	Alex Verdugo	LF
+9	DJ LeMahieu	1B
+	Carlos Rodón	P
+Rangers
+1	Marcus Semien	2B
+2	Wyatt Langford	CF
+3	Josh Jung	3B
+4	Adolis García	RF
+5	Nathaniel Lowe	1B
+6	Justin Foscue	DH
+7	Ezequiel Duran	LF
+8	Carson Kelly	C
+9	Jonathan Ornelas	SS
+	Andrew Heaney	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - New York Yankees vs. Texas Rangers, September 3 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+b9
+TEX
+50%
+NYY
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.47
+6	0.49
+7	0.5
+8	0.54
+9	0.5
+10	0.47
+11	0.45
+12	0.47
+13	0.45
+14	0.48
+15	0.5
+16	0.48
+17	0.46
+18	0.48
+19	0.45
+20	0.41
+21	0.44
+22	0.47
+23	0.5
+24	0.47
+25	0.45
+26	0.44
+27	0.31
+28	0.33
+29	0.34
+30	0.35
+31	0.32
+32	0.36
+33	0.32
+34	0.35
+35	0.29
+36	0.31
+37	0.32
+38	0.33
+39	0.39
+40	0.34
+41	0.25
+42	0.27
+43	0.29
+44	0.28
+45	0.3
+46	0.37
+47	0.48
+48	0.58
+49	0.6
+50	0.7
+51	0.65
+52	0.7
+53	0.73
+54	0.7
+55	0.75
+56	0.79
+57	0.76
+58	0.79
+59	0.75
+60	0.77
+61	0.94
+62	0.94
+63	0.92
+64	0.87
+65	0.79
+66	0.86
+67	0.73
+68	0.67
+69	0.64
+70	0.67
+71	0.84
+72	0.83
+73	0.82
+74	0.83
+75	0.84
+76	0.81
+77	0.89
+78	0.8
+79	0.73
+80	0.67
+81	0.47
+82	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b9	3-4	1	123	7,(3-2) 	RRRR	TEX	Wyatt Langford	Clay Holmes	47%	100%	Home Run (Fly Ball to Deep LF Line); L. Taveras Scores; J. Smith Scores; M. Semien Scores
+b9	3-4	1	12-	5,(3-1) 		TEX	Marcus Semien	Clay Holmes	20%	53%	Walk; L. Taveras to 3B; J. Smith to 2B
+b8	3-4	2	-23	4,(1-2) 	O	TEX	Jonah Heim	Tim Hill	-17%	16%	Strikeout Swinging
+t8	2-1	2	123	8,(3-2) 	RR	NYY	Anthony Volpe	Grant Anderson	-16%	6%	Single to CF (Ground Ball thru SS-2B); J. Soto Scores; A. Judge Scores; J. Chisholm to 3B
+b8	1-4	1	12-	4,(1-2) 	R	TEX	Josh Jung	Jake Cousins	14%	27%	Single to CF (Ground Ball thru SS-2B); J. Smith Scores/unER; M. Semien to 3B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Yankees Batting, Tied 0-0, Rangers' Andrew Heaney facing 1-2-3
+t1	0-0	0	---	7,(3-2) 	O	NYY	Gleyber Torres	Andrew Heaney	2%	52%	Strikeout Looking
+t1	0-0	1	---	6,(3-2) 	O	NYY	Juan Soto	Andrew Heaney	2%	54%	Groundout: 1B-P
+t1	0-0	2	---	4,(2-1) 	O	NYY	Aaron Judge	Andrew Heaney	1%	55%	Lineout: LF
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 0.
+Bottom of the 1st, Rangers Batting, Tied 0-0, Yankees' Carlos Rodón facing 1-2-3
+b1	0-0	0	---	2,(0-1) 	O	TEX	Marcus Semien	Carlos Rodón	-2%	53%	Flyball: 2B (Deep 2B-1B)
+b1	0-0	1	---	7,(3-2) 	O	TEX	Wyatt Langford	Carlos Rodón	-2%	51%	Strikeout Looking
+b1	0-0	2	---	6,(3-2) 	O	TEX	Josh Jung	Carlos Rodón	-1%	50%	Flyball: RF (Deep CF-RF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 0.
+Top of the 2nd, Yankees Batting, Tied 0-0, Rangers' Andrew Heaney facing 4-5-6
+t2	0-0	0	---	6,(3-2) 		NYY	Giancarlo Stanton	Andrew Heaney	-4%	46%	Walk
+t2	0-0	0	1--	6,(3-2) 	O	NYY	Jazz Chisholm Jr.	Andrew Heaney	4%	50%	Flyball: LF (Short LF)
+t2	0-0	1	1--	1,(0-0) 	O	NYY	Anthony Volpe	Andrew Heaney	3%	53%	Lineout: SS
+t2	0-0	2	1--	3,(0-2) 	O	NYY	Jose Trevino	Andrew Heaney	2%	55%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Rangers 0.
+Bottom of the 2nd, Rangers Batting, Tied 0-0, Yankees' Carlos Rodón facing 4-5-6
+b2	0-0	0	---	3,(0-2) 	O	TEX	Adolis García	Carlos Rodón	-2%	53%	Strikeout Swinging
+b2	0-0	1	---	6,(3-2) 		TEX	Nathaniel Lowe	Carlos Rodón	3%	55%	Walk
+b2	0-0	1	1--	3,(1-1) 	O	TEX	Justin Foscue	Carlos Rodón	-3%	52%	Popfly: 1B (Weak 1B)
+b2	0-0	2	1--	10,(3-2) 	O	TEX	Ezequiel Duran	Carlos Rodón	-2%	50%	Flyball: LF (Deep LF-CF)
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Rangers 0.
+Top of the 3rd, Yankees Batting, Tied 0-0, Rangers' Andrew Heaney facing 8-9-1
+t3	0-0	0	---	7,(3-2) 	O	NYY	Alex Verdugo	Andrew Heaney	2%	52%	Strikeout Looking
+t3	0-0	1	---	5,(2-2) 	O	NYY	DJ LeMahieu	Andrew Heaney	2%	54%	Flyball: CF (Deep CF-RF)
+t3	0-0	2	---	4,(2-1) 		NYY	Gleyber Torres	Andrew Heaney	-3%	52%	Double to RF (Line Drive to RF Line)
+t3	0-0	2	-2-	5,(2-2) 	O	NYY	Juan Soto	Andrew Heaney	4%	55%	Strikeout Swinging
+									0 runs, 1 hit, 0 errors, 1 LOB. Yankees 0, Rangers 0.
+Bottom of the 3rd, Rangers Batting, Tied 0-0, Yankees' Carlos Rodón facing 8-9-1
+b3	0-0	0	---	4,(3-0) 		TEX	Carson Kelly	Carlos Rodón	4%	59%	Walk
+b3	0-0	0	1--	3,(0-2) 	O	TEX	Jonathan Ornelas	Carlos Rodón	-4%	56%	Strikeout Looking
+b3	0-0	1	1--	8,(2-2) 	O	TEX	Marcus Semien	Carlos Rodón	-3%	53%	Strikeout Swinging
+b3	0-0	2	1--	2,(0-1) 	O	TEX	Wyatt Langford	Carlos Rodón	-3%	50%	Flyball: RF
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Rangers 0.
+Top of the 4th, Yankees Batting, Tied 0-0, Rangers' Andrew Heaney facing 3-4-5
+t4	0-0	0	---	4,(1-2) 	O	NYY	Aaron Judge	Andrew Heaney	3%	53%	Strikeout Swinging
+t4	0-0	1	---	3,(0-2) 	O	NYY	Giancarlo Stanton	Andrew Heaney	2%	55%	Strikeout Swinging
+t4	0-0	2	---	3,(0-2) 	O	NYY	Jazz Chisholm Jr.	Andrew Heaney	1%	56%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 0.
+Bottom of the 4th, Rangers Batting, Tied 0-0, Yankees' Carlos Rodón facing 3-4-5
+b4	0-0	0	---	1,(0-0) 	R	TEX	Josh Jung	Carlos Rodón	13%	69%	Home Run (Fly Ball to Deep LF)
+b4	1-0	0	---	5,(1-2) 	O	TEX	Adolis García	Carlos Rodón	-2%	67%	Strikeout Swinging
+b4	1-0	1	---	5,(2-2) 	O	TEX	Nathaniel Lowe	Carlos Rodón	-1%	66%	Strikeout Swinging
+b4	1-0	2	---	4,(1-2) 	O	TEX	Justin Foscue	Carlos Rodón	-1%	65%	Strikeout Swinging
+									1 run, 1 hit, 0 errors, 0 LOB. Yankees 0, Rangers 1.
+Top of the 5th, Yankees Batting, Behind 0-1, Rangers' Andrew Heaney facing 6-7-8
+t5	0-1	0	---	7,(2-2) 	O	NYY	Anthony Volpe	Andrew Heaney	3%	68%	Strikeout Swinging
+t5	0-1	1	---	4,(1-2) 		NYY	Jose Trevino	Andrew Heaney	-4%	64%	Single to LF (Line Drive to LF-CF)
+t5	0-1	1	1--	2,(0-1) 	O	NYY	Alex Verdugo	Andrew Heaney	4%	68%	Groundout: 2B-SS/Forceout at 2B (2B-1B); A. Verdugo to 1B
+									Force Play Challenged by NYY manager (Aaron Boone): Original call overturned as shown.
+t5	0-1	2	1--	3,(0-2) 		NYY	DJ LeMahieu	Andrew Heaney	-3%	65%	Single to RF (Line Drive to RF Line); A. Verdugo to 2B
+t5	0-1	2	12-	4,(2-1) 	O	NYY	Gleyber Torres	Andrew Heaney	6%	71%	Groundout: 1B-P (2B-1B)
+									0 runs, 2 hits, 0 errors, 2 LOB. Yankees 0, Rangers 1.
+Bottom of the 5th, Rangers Batting, Ahead 1-0, Yankees' Carlos Rodón facing 7-8-9
+b5	1-0	0	---	3,(1-1) 	O	TEX	Ezequiel Duran	Carlos Rodón	-2%	69%	Flyball: CF (Deep CF)
+b5	1-0	1	---	7,(2-2) 	O	TEX	Carson Kelly	Carlos Rodón	-1%	68%	Strikeout Swinging
+b5	1-0	2	---	3,(0-2) 	O	TEX	Jonathan Ornelas	Carlos Rodón	-1%	67%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 1.
+Top of the 6th, Yankees Batting, Behind 0-1, Rangers' Andrew Heaney facing 2-3-4
+t6	0-1	0	---	2,(2-0) 		NYY	Juan Soto	Andrew Heaney	-6%	61%	Hit By Pitch
+									
+José Leclerc replaces Andrew Heaney pitching
+
+t6	0-1	0	1--	3,(0-2) 	O	NYY	Aaron Judge	José Leclerc	6%	66%	Strikeout Looking
+t6	0-1	1	1--	6,(3-2) 	OO	NYY	Giancarlo Stanton	José Leclerc	8%	75%	Double Play: Strikeout Swinging, J. Soto Caught Stealing 2B (C-2B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Yankees 0, Rangers 1.
+Bottom of the 6th, Rangers Batting, Ahead 1-0, Yankees' Carlos Rodón facing 1-2-3
+b6	1-0	0	---	4,(1-2) 	O	TEX	Marcus Semien	Carlos Rodón	-2%	73%	Strikeout Swinging
+b6	1-0	1	---	5,(2-2) 	O	TEX	Wyatt Langford	Carlos Rodón	-1%	71%	Groundout: SS-1B
+b6	1-0	2	---	3,(1-1) 		TEX	Josh Jung	Carlos Rodón	1%	72%	Hit By Pitch
+b6	1-0	2	1--	5,(2-2) 	O	TEX	Adolis García	Carlos Rodón	-2%	70%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 1 LOB. Yankees 0, Rangers 1.
+Top of the 7th, Yankees Batting, Behind 0-1, Rangers' José Leclerc facing 5-6-7
+t7	0-1	0	---	2,(0-1) 		NYY	Jazz Chisholm Jr.	José Leclerc	-7%	63%	Single to CF (Line Drive)
+t7	0-1	0	1--	3,(1-1) 		NYY	Anthony Volpe	José Leclerc	-11%	52%	Single to RF (Line Drive); J. Chisholm to 2B
+t7	0-1	0	12-	,(0-0) 		NYY	Jose Trevino	José Leclerc	-10%	42%	Balk; J. Chisholm to 3B; A. Volpe to 2B
+t7	0-1	0	-23	2,(0-1) 	RO	NYY	Jose Trevino	José Leclerc	-2%	40%	Groundout: SS-1B; J. Chisholm Scores; A. Volpe to 3B
+									
+Andrew Chafin replaces José Leclerc pitching
+
+t7	1-1	1	--3	1,(0-0) 	R	NYY	Alex Verdugo	Andrew Chafin	-11%	30%	Single to RF (Line Drive to Short CF-RF); A. Volpe Scores
+t7	2-1	1	1--	3,(0-2) 	OO	NYY	DJ LeMahieu	Andrew Chafin	5%	35%	Ground Ball Double Play: SS-2B-1B
+									2 runs, 3 hits, 0 errors, 0 LOB. Yankees 2, Rangers 1.
+Bottom of the 7th, Rangers Batting, Behind 1-2, Yankees' Tommy Kahnle facing 5-6-7
+									
+Tommy Kahnle replaces Carlos Rodón pitching
+
+b7	1-2	0	---	3,(2-0) 	O	TEX	Nathaniel Lowe	Tommy Kahnle	-5%	30%	Groundout: 2B-1B
+b7	1-2	1	---	5,(2-2) 	O	TEX	Justin Foscue	Tommy Kahnle	-3%	27%	Strikeout Swinging
+b7	1-2	2	---	1,(0-0) 		TEX	Ezequiel Duran	Tommy Kahnle	3%	30%	Single to RF (Ground Ball)
+b7	1-2	2	1--	4,(1-2) 	O	TEX	Carson Kelly	Tommy Kahnle	-5%	25%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 1 hit, 0 errors, 1 LOB. Yankees 2, Rangers 1.
+Top of the 8th, Yankees Batting, Ahead 2-1, Rangers' Andrew Chafin facing 1-2-3
+t8	2-1	0	---	5,(3-1) 		NYY	Gleyber Torres	Andrew Chafin	-3%	21%	Walk
+t8	2-1	0	1--	2,(0-1) 	O	NYY	Juan Soto	Andrew Chafin	3%	24%	Groundout: 1B-SS/Forceout at 2B (Weak 1B); J. Soto to 1B
+									
+Grant Anderson replaces Andrew Chafin pitching
+
+t8	2-1	1	1--	3,(1-1) 		NYY	Aaron Judge	Grant Anderson	-3%	21%	Single to RF (Ground Ball thru 2B-1B); J. Soto to 2B
+t8	2-1	1	12-	5,(2-2) 	O	NYY	Giancarlo Stanton	Grant Anderson	4%	25%	Strikeout Looking
+t8	2-1	2	12-	3,(1-1) 		NYY	Jazz Chisholm Jr.	Grant Anderson	-2%	23%	Single to 2B (Ground Ball); J. Soto to 3B; A. Judge to 2B
+t8	2-1	2	123	8,(3-2) 	RR	NYY	Anthony Volpe	Grant Anderson	-16%	6%	Single to CF (Ground Ball thru SS-2B); J. Soto Scores; A. Judge Scores; J. Chisholm to 3B
+t8	4-1	2	1-3	2,(1-0) 		NYY	Jose Trevino	Grant Anderson	0%	6%	A. Volpe Steals 2B
+t8	4-1	2	-23	8,(3-2) 	O	NYY	Jose Trevino	Grant Anderson	2%	8%	Strikeout Swinging
+									2 runs, 3 hits, 0 errors, 2 LOB. Yankees 4, Rangers 1.
+Bottom of the 8th, Rangers Batting, Behind 1-4, Yankees' Tommy Kahnle facing 9-1-2
+									
+Josh Smith pinch hits for Jonathan Ornelas (SS) batting 9th
+
+b8	1-4	0	---	3,(1-1) 		TEX	Josh Smith	Tommy Kahnle	5%	13%	Reached on E3 (Ground Ball); J. Smith to 1B
+									
+Jake Cousins replaces Tommy Kahnle pitching
+
+b8	1-4	0	1--	3,(1-1) 		TEX	Marcus Semien	Jake Cousins	9%	21%	Single to 2B (Ground Ball to 2B-1B); J. Smith to 2B
+b8	1-4	0	12-	4,(1-2) 	O	TEX	Wyatt Langford	Jake Cousins	-8%	14%	Strikeout Swinging
+b8	1-4	1	12-	4,(1-2) 	R	TEX	Josh Jung	Jake Cousins	14%	27%	Single to CF (Ground Ball thru SS-2B); J. Smith Scores/unER; M. Semien to 3B
+b8	2-4	1	1-3	5,(2-2) 		TEX	Adolis García	Jake Cousins	6%	33%	J. Jung Steals 2B
+b8	2-4	1	-23	6,(3-2) 		TEX	Adolis García	Jake Cousins	3%	36%	Walk
+									
+Tim Hill replaces Jake Cousins pitching
+
+b8	2-4	1	123	3,(0-2) 	RO	TEX	Nathaniel Lowe	Tim Hill	-4%	33%	Flyball: CF/Sacrifice Fly (Deep CF); M. Semien Scores/Team unER; J. Jung to 3B; A. García to 2B
+									
+Jonah Heim pinch hits for Justin Foscue (DH) batting 6th
+
+b8	3-4	2	-23	4,(1-2) 	O	TEX	Jonah Heim	Tim Hill	-17%	16%	Strikeout Swinging
+									2 runs, 2 hits, 1 error, 2 LOB. Yankees 4, Rangers 3.
+Top of the 9th, Yankees Batting, Ahead 4-3, Rangers' Gerson Garabito facing 8-9-1
+									
+Gerson Garabito replaces Grant Anderson pitching
+Josh Smith moves from PH to SS
+
+t9	4-3	0	---	5,(3-1) 	O	NYY	Alex Verdugo	Gerson Garabito	2%	17%	Groundout: 1B unassisted
+									
+Anthony Rizzo pinch hits for DJ LeMahieu (1B) batting 9th
+
+t9	4-3	1	---	6,(3-2) 	O	NYY	Anthony Rizzo	Gerson Garabito	1%	18%	Strikeout Swinging
+t9	4-3	2	---	4,(1-2) 		NYY	Gleyber Torres	Gerson Garabito	-1%	17%	Single to LF (Line Drive to Deep LF-CF)
+									
+Walter Pennington replaces Gerson Garabito pitching
+Duke Ellis pinch runs for Gleyber Torres (2B) batting 1st
+
+t9	4-3	2	1--	6,(3-2) 		NYY	Juan Soto	Walter Pennington	-1%	16%	Walk; D. Ellis to 2B
+t9	4-3	2	12-	6,(3-2) 	O	NYY	Aaron Judge	Walter Pennington	3%	19%	Flyball: RF
+									0 runs, 1 hit, 0 errors, 2 LOB. Yankees 4, Rangers 3.
+Bottom of the 9th, Rangers Batting, Behind 3-4, Yankees' Clay Holmes facing 7-8-9
+									
+Clay Holmes replaces Tim Hill pitching
+Anthony Rizzo moves from PH to 1B
+Oswaldo Cabrera replaces Duke Ellis (PR) playing 2B batting 1st
+Travis Jankowski pinch hits for Ezequiel Duran (LF) batting 7th
+
+b9	3-4	0	---	5,(2-2) 	O	TEX	Travis Jankowski	Clay Holmes	-9%	11%	Groundout: 2B-1B
+b9	3-4	1	---	2,(0-1) 		TEX	Carson Kelly	Clay Holmes	10%	20%	Single to CF (Line Drive to CF-RF)
+									
+Leody Taveras pinch runs for Carson Kelly (C) batting 8th
+
+b9	3-4	1	1--	5,(3-1) 		TEX	Josh Smith	Clay Holmes	7%	27%	L. Taveras Steals 2B
+b9	3-4	1	-2-	6,(3-2) 		TEX	Josh Smith	Clay Holmes	5%	33%	Walk
+b9	3-4	1	12-	5,(3-1) 		TEX	Marcus Semien	Clay Holmes	20%	53%	Walk; L. Taveras to 3B; J. Smith to 2B
+b9	3-4	1	123	7,(3-2) 	RRRR	TEX	Wyatt Langford	Clay Holmes	47%	100%	Home Run (Fly Ball to Deep LF Line); L. Taveras Scores; J. Smith Scores; M. Semien Scores
+									4 runs, 2 hits, 0 errors, 0 LOB. Yankees 4, Rangers 7.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Texas Rangers Schedule New York Yankees Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > New York Yankees vs Texas Rangers Box Score: September 3, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/TEX/TEX202409030.shtml 
+ ----- 

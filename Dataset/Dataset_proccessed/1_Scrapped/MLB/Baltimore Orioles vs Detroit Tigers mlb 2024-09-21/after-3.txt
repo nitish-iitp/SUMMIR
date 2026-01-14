@@ -1,0 +1,703 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+Manage Preferences
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Baltimore Orioles Schedule
+Detroit Tigers Schedule
+Detroit Tigers vs Baltimore Orioles Box Score: September 21, 2024
+MLB Scores — September 21, 2024
+PIT	1	Final
+CIN	7	
+WSN	5	Final
+CHC	1	
+DET	6	Final
+BAL	4	(10)
+ATL	6	Final
+MIA	2	
+PHI	3	Final
+NYM	6	
+TOR	2	Final
+TBR	3	
+SFG	9	Final
+KCR	0	
+SEA	8	Final
+TEX	4	
+LAA	4	Final
+HOU	10	
+ARI	5	Final
+MIL	0	
+CLE	5	Final
+STL	6	
+CHW	2	Final
+SDP	6	
+NYY	10	Final
+OAK	0	
+COL	6	Final
+LAD	3	
+MLB Scores & Standings on this Day
+Detroit Tigers
+6
+81-74
+Prev Game Next Game
+ 
+Baltimore Orioles
+4
+86-69
+Prev Game Next Game
+Saturday, September 21, 2024
+Start Time: 4:05 p.m. Local
+Attendance: 39,647
+Venue: Oriole Park at Camden Yards
+Game Duration: 3:20
+Day Game, on grass
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	10	R	H	E
+
+	Detroit Tigers	0	2	0	0	0	0	0	2	0	2	6	11	0
+
+	Baltimore Orioles	0	1	0	0	0	1	0	0	2	0	4	10	0
+WP: Beau Brieske (3-4) • LP: Yennier Cano (4-3)
+Detroit Tigers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Andy Ibáñez 2B-1B	5	0	0	0	0	2	5	.248	.300	.364	.665	19	16	-0.186	1.22	0.000	-0.186	-0.19%	2.10	-1.5	10	3	
+Wenceel Pérez RF	5	0	0	0	0	2	5	.238	.293	.379	.673	22	15	-0.132	1.01	0.000	-0.132	-0.14%	1.74	-1.0	2	0	
+Matt Vierling 3B	4	2	1	0	1	2	5	.259	.310	.428	.738	19	10	0.044	0.74	0.080	-0.036	0.05%	1.26	0.1	1	5	
+Riley Greene LF	4	3	3	1	1	1	5	.264	.353	.489	.842	20	11	0.324	1.84	0.346	-0.021	0.33%	3.16	1.8	1	1	
+Justyn-Henry Malloy DH	1	0	0	0	1	0	2	.207	.291	.374	.665	15	8	0.000	1.23	0.036	-0.035	0%	2.11	0.0	0	0	
+   Kerry Carpenter PH-DH-DH	1	0	1	0	0	0	1	.286	.348	.576	.923	4	2	0.036	1.24	0.036	0.000	0.04%	2.13	0.4	0	0	
+   Jake Rogers PH-DH-DH	1	0	1	1	0	0	1	.199	.255	.358	.614	2	2	0.218	3.32	0.218	0.000	0.22%	5.69	1.5	0	0	
+   Jace Jung PH-DH-DH	1	0	1	0	0	0	1	.243	.356	.297	.654	1	1	0.150	1.83	0.150	0.000	0.15%	3.14	1.1	0	0	2B
+Spencer Torkelson 1B	3	0	0	0	0	1	3	.217	.289	.360	.650	16	13	-0.151	1.58	0.000	-0.151	-0.16%	2.70	-1.5	5	1	GDP
+   Colt Keith PH-2B	0	0	0	1	0	0	1	.264	.313	.384	.698	5	3	0.001	1.12	0.001	0.000	0.00%	1.92	-0.3	0	0	SF
+   Zach McKinstry 2B	0	0	0	1	0	0	1	.219	.279	.344	.623	5	4	0.002	2.58	0.002	0.000	0.00%	4.42	-0.3	0	3	SF
+Trey Sweeney SS	5	1	2	0	0	1	5	.247	.292	.427	.719	17	14	0.028	1.04	0.098	-0.070	0.03%	1.79	-0.2	1	1	2B
+Dillon Dingler C	4	0	2	2	1	1	5	.143	.175	.286	.461	23	16	0.275	1.24	0.298	-0.023	0.28%	2.13	2.0	6	0	3B
+Parker Meadows CF	4	0	0	0	0	1	4	.238	.305	.430	.735	12	10	-0.100	1.46	0.000	-0.100	-0.10%	2.51	-1.3	3	0	
+																							
+Reese Olson P																					1	0	
+   Brant Hurter P																					0	0	
+   Will Vest P																					0	0	
+   Sean Guenther P																					0	0	
+   Jason Foley P																					0	0	
+   Beau Brieske P																					0	0	
+Team Totals	38	6	11	6	4	11	44	.289	.341	.395	.736	180	125	0.509	1.33	1.265	-0.754	0.52%	2.29	0.8	30	14	
+2B: Trey Sweeney (4, off Cade Povich); Jace Jung (4, off Yennier Cano).
+3B: Dillon Dingler (2, off Cade Povich).
+SF: Colt Keith (2, off Seranthony Domínguez); Zach McKinstry (2, off Yennier Cano).
+TB: Dillon Dingler 4; Trey Sweeney 3; Riley Greene 3; Jace Jung 2; Jake Rogers; Matt Vierling; Kerry Carpenter.
+GIDP: Spencer Torkelson (6).
+RBI: Dillon Dingler 2 (10); Jake Rogers (36); Colt Keith (59); Riley Greene (72); Zach McKinstry (23).
+2-out RBI: Dillon Dingler 2.
+Team LOB: 9.
+With RISP: 3 for 12.
+Fielding
+Outfield Assists: Riley Greene (Adley Rutschman at home plate).
+Baltimore Orioles 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Gunnar Henderson SS	5	0	1	2	0	1	5	.282	.365	.537	.902	20	13	0.325	2.27	0.434	-0.109	0.12%	1.35	0.9	1	2	2B
+Cedric Mullins CF	5	0	1	0	0	1	5	.227	.299	.398	.697	20	14	-0.126	1.06	0.019	-0.145	-0.04%	0.63	-0.9	3	0	
+Anthony Santander RF-1B	5	0	0	0	0	1	5	.236	.308	.510	.819	16	8	-0.285	1.43	0.000	-0.285	-0.10%	0.85	-1.3	4	0	
+Colton Cowser LF	5	0	1	0	0	1	5	.246	.325	.445	.770	13	10	-0.197	1.99	0.041	-0.239	-0.07%	1.18	-0.8	6	0	
+Adley Rutschman C	4	2	1	0	1	0	5	.250	.320	.393	.713	22	16	-0.058	1.56	0.078	-0.136	-0.02%	0.92	-0.2	11	0	
+Ryan O'Hearn 1B	2	0	1	0	1	0	3	.259	.331	.413	.745	16	10	0.042	1.68	0.092	-0.050	0.01%	1.00	0.5	2	0	
+   Eloy Jiménez PH	1	0	0	0	0	0	1	.238	.289	.336	.626	6	4	-0.015	0.58	0.000	-0.015	-0.01%	0.34	-0.1	0	0	
+   Livan Soto 3B	0	0	0	0	1	0	1	.231	.375	.308	.683	5	1	0.091	2.60	0.091	0.000	0.03%	1.54	0.2	0	0	
+Heston Kjerstad DH	4	1	3	0	0	1	5	.271	.374	.400	.774	23	13	0.023	2.58	0.195	-0.172	0.01%	1.53	0.1	0	0	HBP
+Emmanuel Rivera 3B-1B	3	0	2	2	0	0	4	.227	.304	.310	.614	16	12	0.275	2.98	0.346	-0.072	0.10%	1.77	1.1	1	0	SF
+   Daniel Johnson PR-RF	1	1	0	0	0	0	1	.000	.000	.000	.000	1	1	-0.090	3.34	0.000	-0.090	-0.03%	1.98	-0.5	1	0	
+Jackson Holliday 2B	3	0	0	0	1	0	4	.169	.227	.290	.517	20	9	0.024	2.81	0.180	-0.156	0.01%	1.67	-0.2	1	2	
+																							
+Cade Povich P																					0	0	
+   Matt Bowman P																					0	0	
+   Keegan Akin P																					0	0	
+   Cionel Pérez P																					0	0	
+   Seranthony Domínguez P																					0	1	
+   Gregory Soto P																					0	0	
+   Bryan Baker P																					0	0	
+   Yennier Cano P																					0	0	
+Team Totals	38	4	10	4	4	5	44	.263	.341	.289	.630	178	111	0.009	2.03	1.476	-1.469	0.00%	1.20	-1.2	30	5	
+2B: Gunnar Henderson (30, off Jason Foley).
+SF: Emmanuel Rivera (4, off Reese Olson).
+HBP: Heston Kjerstad (5, by Reese Olson).
+TB: Heston Kjerstad 3; Emmanuel Rivera 2; Gunnar Henderson 2; Ryan O'Hearn; Adley Rutschman; Colton Cowser; Cedric Mullins.
+RBI: Gunnar Henderson 2 (89); Emmanuel Rivera 2 (24).
+2-out RBI: Emmanuel Rivera.
+Team LOB: 11.
+With RISP: 3 for 12.
+Fielding
+DP: 1. Gunnar Henderson-Jackson Holliday-Ryan O'Hearn.
+Detroit Tigers 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Reese Olson	3	1	1	1	1	3	0	3.49	12	58	33	16	12	5	3	4	1	0	55			0.048	1.29	0.05%	2.22	0.4
+Brant Hurter	2.2	5	1	1	1	0	0	2.61	13	47	34	21	4	9	5	7	4	0		0	0	0.145	1.48	0.15%	2.54	1.0
+Will Vest, BS (6)	0.1	1	0	0	0	0	0	3.00	2	10	6	4	1	1	2	0	0	0		2	1	-0.131	2.92	-0.14%	5.00	-0.6
+Sean Guenther	2	0	0	0	0	1	0	1.04	6	24	17	10	3	4	2	3	1	0		0	0	0.165	1.11	0.17%	1.91	0.9
+Jason Foley, BS (4)	0	3	2	2	1	0	0	3.28	4	16	9	5	2	2	2	1	1	0		0	0	-0.842	4.29	-0.87%	7.36	-3.5
+Beau Brieske, W (3-4)	2	0	0	0	1	1	0	3.65	7	23	12	7	3	2	3	2	0	0		2	0	0.606	3.53	0.62%	6.05	3.0
+Team Totals	10	10	4	4	4	5	0	3.60	44	178	111	63	25	23	17	17	7	0	55	4	1	-0.009	2.03	-0.01%	3.47	1.2
+
+Jason Foley faced 4 batters in the 9th inning.
+
+Baltimore Orioles 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Cade Povich	5	2	2	2	3	7	0	5.59	20	89	62	34	11	17	0	10	5	0	59			0.011	0.93	0.00%	0.55	0.3
+Matt Bowman	1	2	0	0	0	0	0	3.21	4	14	9	9	0	0	2	2	1	0		0	0	0.051	1.22	0.02%	0.72	0.5
+Keegan Akin	1	2	0	0	0	1	0	3.23	5	17	13	8	3	2	1	3	2	0		0	0	0.084	2.74	0.03%	1.62	0.5
+Cionel Pérez	0	3	2	2	0	0	0	4.11	3	11	6	5	1	0	3	0	0	0		0	0	-0.387	2.68	-0.14%	1.59	-2.5
+Seranthony Domínguez	0.2	0	0	0	1	0	0	4.31	3	20	13	11	1	1	1	1	0	0		2	1	0.009	0.84	0.00%	0.50	0.5
+Gregory Soto	0.1	0	0	0	0	0	0	4.62	1	1	1	1	0	0	0	1	1	0		2	0	0.025	0.92	0.01%	0.55	0.5
+Bryan Baker	1	0	0	0	0	1	0	4.50	3	11	8	5	1	2	1	1	0	0		0	0	0.015	0.19	0.01%	0.11	0.5
+Yennier Cano, L (4-3)	1	2	2	1	0	2	0	2.84	5	17	13	10	2	1	1	2	2	0		0	0	-0.317	1.88	-0.11%	1.12	-0.9
+Team Totals	10	11	6	5	4	11	0	4.50	44	180	125	83	19	23	9	20	11	0	59	4	1	-0.509	1.33	-0.18%	0.79	-0.8
+
+Cionel Pérez faced 3 batters in the 8th inning.
+
+Balks: None.
+WP: None.
+HBP: Reese Olson (4; Heston Kjerstad).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Ben May, 1B - Adam Beck, 2B - Dan Iassogna, 3B - CB Bucknor, LF - (none), RF - (none).
+Time of Game: 3:20.
+Attendance: 39,647.
+Field Condition: Unknown.
+Start Time Weather: 79° F, Wind 4mph from Right to Left, Cloudy, No Precipitation.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Tigers
+1	Andy Ibáñez	2B
+2	Wenceel Pérez	RF
+3	Matt Vierling	3B
+4	Riley Greene	LF
+5	Justyn-Henry Malloy	DH
+6	Spencer Torkelson	1B
+7	Trey Sweeney	SS
+8	Dillon Dingler	C
+9	Parker Meadows	CF
+	Reese Olson	P
+Orioles
+1	Gunnar Henderson	SS
+2	Cedric Mullins	CF
+3	Anthony Santander	RF
+4	Colton Cowser	LF
+5	Adley Rutschman	C
+6	Ryan O'Hearn	1B
+7	Heston Kjerstad	DH
+8	Emmanuel Rivera	3B
+9	Jackson Holliday	2B
+	Cade Povich	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Detroit Tigers vs. Baltimore Orioles, September 21 2024
+t1
+t2
+t3
+t4
+t5
+t6
+t7
+t8
+t9
+t10
+BAL
+50%
+DET
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.48
+6	0.49
+7	0.5
+8	0.54
+9	0.5
+10	0.47
+11	0.51
+12	0.71
+13	0.68
+14	0.64
+15	0.67
+16	0.63
+17	0.56
+18	0.57
+19	0.62
+20	0.6
+21	0.59
+22	0.6
+23	0.58
+24	0.6
+25	0.62
+26	0.63
+27	0.67
+28	0.64
+29	0.61
+30	0.59
+31	0.62
+32	0.58
+33	0.53
+34	0.59
+35	0.65
+36	0.63
+37	0.61
+38	0.6
+39	0.63
+40	0.66
+41	0.64
+42	0.67
+43	0.65
+44	0.68
+45	0.71
+46	0.62
+47	0.66
+48	0.62
+49	0.67
+50	0.63
+51	0.43
+52	0.5
+53	0.56
+54	0.65
+55	0.62
+56	0.5
+57	0.42
+58	0.45
+59	0.48
+60	0.5
+61	0.57
+62	0.67
+63	0.89
+64	0.89
+65	0.87
+66	0.88
+67	0.85
+68	0.89
+69	0.92
+70	0.93
+71	0.93
+72	0.92
+73	0.92
+74	0.83
+75	0.69
+76	0.51
+77	0.08
+78	0.16
+79	0.37
+80	0.5
+81	0.68
+82	0.83
+83	0.83
+84	0.8
+85	0.82
+86	0.89
+87	0.8
+88	0.91
+89	1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b9	2-4	0	123	2,(0-1) 	RR	BAL	Gunnar Henderson	Jason Foley	-43%	8%	Double to CF (Line Drive to Deep CF); H. Kjerstad Scores; D. Johnson Scores; J. Holliday to 3B
+t8	2-2	0	12-	2,(0-1) 	R	DET	Jake Rogers	Cionel Pérez	22%	89%	Single to CF (Ground Ball); M. Vierling Scores; R. Greene to 3B; J. Rogers to 2B
+b9	4-4	1	-23	3,(2-0) 	O	BAL	Anthony Santander	Beau Brieske	21%	37%	Popfly: SS (Deep 3B)
+b6	1-2	2	12-	5,(1-2) 	R	BAL	Emmanuel Rivera	Will Vest	-21%	43%	Single to CF (Ground Ball thru SS-2B); A. Rutschman Scores; H. Kjerstad to 3B
+t2	0-0	2	-23	4,(1-2) 	RR	DET	Dillon Dingler	Cade Povich	19%	71%	Triple to CF (Line Drive to Deep CF-RF); R. Greene Scores; T. Sweeney Scores
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Tigers Batting, Tied 0-0, Orioles' Cade Povich facing 1-2-3
+t1	0-0	0	---	5,(1-2) 	O	DET	Andy Ibáñez	Cade Povich	-2%	48%	Flyball: CF
+t1	0-0	1	---	4,(1-2) 	O	DET	Wenceel Pérez	Cade Povich	-1%	46%	Strikeout Swinging
+t1	0-0	2	---	3,(0-2) 	O	DET	Matt Vierling	Cade Povich	-1%	45%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Orioles 0.
+Bottom of the 1st, Orioles Batting, Tied 0-0, Tigers' Reese Olson facing 1-2-3
+b1	0-0	0	---	5,(3-2) 	O	BAL	Gunnar Henderson	Reese Olson	2%	48%	Flyball: CF (Deep CF-RF)
+b1	0-0	1	---	2,(0-1) 	O	BAL	Cedric Mullins	Reese Olson	1%	49%	Lineout: CF (Deep CF-RF)
+b1	0-0	2	---	5,(3-1) 	O	BAL	Anthony Santander	Reese Olson	1%	50%	Groundout: 1B-P
+									0 runs, 0 hits, 0 errors, 0 LOB. Tigers 0, Orioles 0.
+Top of the 2nd, Tigers Batting, Tied 0-0, Orioles' Cade Povich facing 4-5-6
+t2	0-0	0	---	7,(3-2) 		DET	Riley Greene	Cade Povich	4%	54%	Walk
+t2	0-0	0	1--	6,(3-2) 	O	DET	Justyn-Henry Malloy	Cade Povich	-4%	50%	Flyball: RF (Deep CF-RF)
+t2	0-0	1	1--	3,(0-2) 	O	DET	Spencer Torkelson	Cade Povich	-3%	47%	Strikeout Looking
+t2	0-0	2	1--	2,(0-1) 		DET	Trey Sweeney	Cade Povich	4%	51%	Double to CF (Line Drive to Deep CF-RF); R. Greene to 3B
+t2	0-0	2	-23	4,(1-2) 	RR	DET	Dillon Dingler	Cade Povich	19%	71%	Triple to CF (Line Drive to Deep CF-RF); R. Greene Scores; T. Sweeney Scores
+t2	2-0	2	--3	4,(0-2) 	O	DET	Parker Meadows	Cade Povich	-3%	68%	Lineout: CF
+									2 runs, 2 hits, 0 errors, 1 LOB. Tigers 2, Orioles 0.
+Bottom of the 2nd, Orioles Batting, Behind 0-2, Tigers' Reese Olson facing 4-5-6
+b2	0-2	0	---	3,(1-1) 		BAL	Colton Cowser	Reese Olson	-4%	64%	Single to CF (Ground Ball)
+b2	0-2	0	1--	4,(1-2) 	O	BAL	Adley Rutschman	Reese Olson	4%	67%	Groundout: 3B-2B/Forceout at 2B; A. Rutschman to 1B
+b2	0-2	1	1--	7,(3-2) 		BAL	Ryan O'Hearn	Reese Olson	-4%	63%	Walk; A. Rutschman to 2B
+b2	0-2	1	12-	5,(2-2) 		BAL	Heston Kjerstad	Reese Olson	-7%	56%	Hit By Pitch; A. Rutschman to 3B; R. O'Hearn to 2B
+b2	0-2	1	123	5,(2-2) 	RO	BAL	Emmanuel Rivera	Reese Olson	1%	57%	Flyball: RF/Sacrifice Fly (Deep RF); A. Rutschman Scores
+b2	1-2	2	12-	5,(2-2) 	O	BAL	Jackson Holliday	Reese Olson	5%	62%	Flyball: LF (LF Line)
+									1 run, 1 hit, 0 errors, 2 LOB. Tigers 2, Orioles 1.
+Top of the 3rd, Tigers Batting, Ahead 2-1, Orioles' Cade Povich facing 1-2-3
+t3	2-1	0	---	4,(0-2) 	O	DET	Andy Ibáñez	Cade Povich	-2%	60%	Lineout: LF (Deep LF)
+t3	2-1	1	---	2,(1-0) 	O	DET	Wenceel Pérez	Cade Povich	-1%	59%	Flyball: RF (Deep RF)
+t3	2-1	2	---	5,(3-1) 		DET	Matt Vierling	Cade Povich	1%	60%	Walk
+t3	2-1	2	1--	4,(1-2) 	O	DET	Riley Greene	Cade Povich	-2%	58%	Strikeout Looking
+									0 runs, 0 hits, 0 errors, 1 LOB. Tigers 2, Orioles 1.
+Bottom of the 3rd, Orioles Batting, Behind 1-2, Tigers' Reese Olson facing 1-2-3
+b3	1-2	0	---	5,(2-2) 	O	BAL	Gunnar Henderson	Reese Olson	3%	60%	Strikeout Swinging
+b3	1-2	1	---	7,(3-2) 	O	BAL	Cedric Mullins	Reese Olson	2%	62%	Strikeout Swinging
+b3	1-2	2	---	5,(2-2) 	O	BAL	Anthony Santander	Reese Olson	1%	63%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, Orioles 1.
+Top of the 4th, Tigers Batting, Ahead 2-1, Orioles' Cade Povich facing 5-6-7
+t4	2-1	0	---	9,(3-2) 		DET	Justyn-Henry Malloy	Cade Povich	4%	67%	Walk
+t4	2-1	0	1--	7,(2-2) 	O	DET	Spencer Torkelson	Cade Povich	-3%	64%	Flyball: LF (Deep LF)
+t4	2-1	1	1--	3,(1-1) 	O	DET	Trey Sweeney	Cade Povich	-3%	61%	Flyball: LF (Deep LF Line)
+t4	2-1	2	1--	2,(0-1) 	O	DET	Dillon Dingler	Cade Povich	-2%	59%	Lineout: LF (Deep LF)
+									0 runs, 0 hits, 0 errors, 1 LOB. Tigers 2, Orioles 1.
+Bottom of the 4th, Orioles Batting, Behind 1-2, Tigers' Brant Hurter facing 4-5-6
+									
+Brant Hurter replaces Reese Olson pitching
+
+b4	1-2	0	---	4,(1-2) 	O	BAL	Colton Cowser	Brant Hurter	3%	62%	Groundout: 3B-1B
+b4	1-2	1	---	3,(0-2) 		BAL	Adley Rutschman	Brant Hurter	-3%	58%	Single to LF (Fly Ball to LF-CF)
+b4	1-2	1	1--	7,(2-2) 		BAL	Ryan O'Hearn	Brant Hurter	-5%	53%	Single to LF (Line Drive to LF-CF); A. Rutschman to 2B
+b4	1-2	1	12-	1,(0-0) 	O	BAL	Heston Kjerstad	Brant Hurter	6%	59%	Single to LF (Line Drive to LF-CF); A. Rutschman out at Hm/LF-C; R. O'Hearn to 2B
+b4	1-2	2	12-	4,(1-2) 	O	BAL	Emmanuel Rivera	Brant Hurter	6%	65%	Popfly: 2B (Deep 2B)
+									0 runs, 3 hits, 0 errors, 2 LOB. Tigers 2, Orioles 1.
+Top of the 5th, Tigers Batting, Ahead 2-1, Orioles' Cade Povich facing 9-1-2
+t5	2-1	0	---	3,(0-2) 	O	DET	Parker Meadows	Cade Povich	-2%	63%	Strikeout Swinging
+t5	2-1	1	---	4,(1-2) 	O	DET	Andy Ibáñez	Cade Povich	-2%	61%	Strikeout Swinging
+t5	2-1	2	---	8,(3-2) 	O	DET	Wenceel Pérez	Cade Povich	-1%	60%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, Orioles 1.
+Bottom of the 5th, Orioles Batting, Behind 1-2, Tigers' Brant Hurter facing 9-1-2
+b5	1-2	0	---	5,(2-2) 	O	BAL	Jackson Holliday	Brant Hurter	3%	63%	Groundout: 3B-1B (SS-3B Hole)
+b5	1-2	1	---	2,(0-1) 	O	BAL	Gunnar Henderson	Brant Hurter	2%	66%	Groundout: 2B-1B (Weak 2B-1B)
+b5	1-2	2	---	4,(2-1) 		BAL	Cedric Mullins	Brant Hurter	-2%	64%	Single to SS (Ground Ball)
+b5	1-2	2	1--	1,(0-0) 	O	BAL	Anthony Santander	Brant Hurter	3%	67%	Popfly: 2B (Deep 1B)
+									0 runs, 1 hit, 0 errors, 1 LOB. Tigers 2, Orioles 1.
+Top of the 6th, Tigers Batting, Ahead 2-1, Orioles' Matt Bowman facing 3-4-5
+									
+Matt Bowman replaces Cade Povich pitching
+
+t6	2-1	0	---	2,(1-0) 	O	DET	Matt Vierling	Matt Bowman	-2%	65%	Flyball: RF (Short RF)
+t6	2-1	1	---	2,(1-0) 		DET	Riley Greene	Matt Bowman	3%	68%	Single to RF (Line Drive)
+									
+Kerry Carpenter pinch hits for Justyn-Henry Malloy (DH) batting 5th
+
+t6	2-1	1	1--	4,(2-1) 		DET	Kerry Carpenter	Matt Bowman	4%	71%	Single to RF (Ground Ball); R. Greene to 2B
+t6	2-1	1	12-	6,(1-2) 	OO	DET	Spencer Torkelson	Matt Bowman	-9%	62%	Ground Ball Double Play: SS-2B-1B
+									0 runs, 2 hits, 0 errors, 1 LOB. Tigers 2, Orioles 1.
+Bottom of the 6th, Orioles Batting, Behind 1-2, Tigers' Brant Hurter facing 4-5-6
+b6	1-2	0	---	1,(0-0) 	O	BAL	Colton Cowser	Brant Hurter	4%	66%	Bunt Groundout: 2B-1B
+b6	1-2	1	---	9,(3-2) 		BAL	Adley Rutschman	Brant Hurter	-4%	62%	Walk
+b6	1-2	1	1--	2,(0-1) 	O	BAL	Ryan O'Hearn	Brant Hurter	5%	67%	Lineout: 2B
+b6	1-2	2	1--	4,(1-2) 		BAL	Heston Kjerstad	Brant Hurter	-4%	63%	Single to LF (Line Drive to LF-CF); A. Rutschman to 2B
+									
+Will Vest replaces Brant Hurter pitching
+
+b6	1-2	2	12-	5,(1-2) 	R	BAL	Emmanuel Rivera	Will Vest	-21%	43%	Single to CF (Ground Ball thru SS-2B); A. Rutschman Scores; H. Kjerstad to 3B
+b6	2-2	2	1-3	5,(3-1) 	O	BAL	Jackson Holliday	Will Vest	7%	50%	Groundout: SS-2B/Forceout at 2B; J. Holliday to 1B
+									1 run, 2 hits, 0 errors, 2 LOB. Tigers 2, Orioles 2.
+Top of the 7th, Tigers Batting, Tied 2-2, Orioles' Keegan Akin facing 7-8-9
+									
+Keegan Akin replaces Matt Bowman pitching
+
+t7	2-2	0	---	3,(0-2) 		DET	Trey Sweeney	Keegan Akin	6%	56%	Single to RF (Line Drive to Deep RF)
+t7	2-2	0	1--	1,(0-0) 		DET	Dillon Dingler	Keegan Akin	9%	65%	Single to CF (Line Drive to CF-RF); T. Sweeney to 2B
+t7	2-2	0	12-	4,(2-1) 	O	DET	Parker Meadows	Keegan Akin	-2%	62%	Groundout: 2B-SS/Forceout at 2B (2B-1B); T. Sweeney to 3B; P. Meadows to 1B
+t7	2-2	1	1-3	5,(1-2) 	O	DET	Andy Ibáñez	Keegan Akin	-12%	50%	Strikeout Swinging
+t7	2-2	2	1-3	4,(1-2) 	O	DET	Wenceel Pérez	Keegan Akin	-9%	42%	Flyball: RF (RF Line)
+									0 runs, 2 hits, 0 errors, 2 LOB. Tigers 2, Orioles 2.
+Bottom of the 7th, Orioles Batting, Tied 2-2, Tigers' Sean Guenther facing 1-2-3
+									
+Sean Guenther replaces Will Vest pitching
+
+b7	2-2	0	---	6,(3-2) 	O	BAL	Gunnar Henderson	Sean Guenther	4%	45%	Groundout: 2B-1B (2B-1B)
+b7	2-2	1	---	3,(0-2) 	O	BAL	Cedric Mullins	Sean Guenther	3%	48%	Foul Popfly: 3B (3B into Foul Terr.)
+b7	2-2	2	---	2,(1-0) 	O	BAL	Anthony Santander	Sean Guenther	2%	50%	Flyball: RF (CF-RF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Tigers 2, Orioles 2.
+Top of the 8th, Tigers Batting, Tied 2-2, Orioles' Cionel Pérez facing 3-4-5
+									
+Cionel Pérez replaces Keegan Akin pitching
+
+t8	2-2	0	---	3,(2-0) 		DET	Matt Vierling	Cionel Pérez	7%	57%	Single to RF (Ground Ball thru 2B-1B)
+t8	2-2	0	1--	6,(3-2) 		DET	Riley Greene	Cionel Pérez	10%	67%	Single to 3B (Ground Ball to Weak 3B); M. Vierling to 2B
+									
+Jake Rogers pinch hits for Kerry Carpenter (DH) batting 5th
+
+t8	2-2	0	12-	2,(0-1) 	R	DET	Jake Rogers	Cionel Pérez	22%	89%	Single to CF (Ground Ball); M. Vierling Scores; R. Greene to 3B; J. Rogers to 2B
+									Tag play Challenged by BAL manager (Brandon Hyde): Original call upheld upon review.
+									
+Seranthony Domínguez replaces Cionel Pérez pitching
+Colt Keith pinch hits for Spencer Torkelson (1B) batting 6th
+
+t8	3-2	0	-23	5,(2-2) 	RO	DET	Colt Keith	Seranthony Domínguez	0%	89%	Flyball: CF/Sacrifice Fly (Deep LF-CF); R. Greene Scores
+t8	4-2	1	-2-	4,(1-2) 	O	DET	Trey Sweeney	Seranthony Domínguez	-1%	87%	Groundout: P-1B (Weak SS-2B); J. Rogers to 3B
+t8	4-2	2	--3	11,(3-2) 		DET	Dillon Dingler	Seranthony Domínguez	0%	88%	Walk
+									
+Gregory Soto replaces Seranthony Domínguez pitching
+
+t8	4-2	2	1-3	1,(0-0) 	O	DET	Parker Meadows	Gregory Soto	-3%	85%	Lineout: LF (Deep LF)
+									2 runs, 3 hits, 0 errors, 2 LOB. Tigers 4, Orioles 2.
+Bottom of the 8th, Orioles Batting, Behind 2-4, Tigers' Sean Guenther facing 4-5-6
+									
+Andy Ibáñez moves from 2B to 1B
+Colt Keith moves from PH to 2B
+
+b8	2-4	0	---	3,(0-2) 	O	BAL	Colton Cowser	Sean Guenther	4%	89%	Strikeout Swinging
+b8	2-4	1	---	4,(1-2) 	O	BAL	Adley Rutschman	Sean Guenther	3%	92%	Groundout: 3B-1B (Deep 3B)
+									
+Eloy Jiménez pinch hits for Ryan O'Hearn (1B) batting 6th
+
+b8	2-4	2	---	6,(2-2) 	O	BAL	Eloy Jiménez	Sean Guenther	1%	93%	Lineout: 3B-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Tigers 4, Orioles 2.
+Top of the 9th, Tigers Batting, Ahead 4-2, Orioles' Bryan Baker facing 1-2-3
+									
+Bryan Baker replaces Gregory Soto pitching
+Emmanuel Rivera moves from 3B to 1B
+Livan Soto replaces Eloy Jiménez (PH) playing 3B batting 6th
+
+t9	4-2	0	---	1,(0-0) 	O	DET	Andy Ibáñez	Bryan Baker	-1%	93%	Groundout: SS-1B
+t9	4-2	1	---	4,(1-2) 	O	DET	Wenceel Pérez	Bryan Baker	0%	92%	Flyball: LF (Short LF-CF)
+t9	4-2	2	---	6,(2-2) 	O	DET	Matt Vierling	Bryan Baker	0%	92%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Tigers 4, Orioles 2.
+Bottom of the 9th, Orioles Batting, Behind 2-4, Tigers' Jason Foley facing 7-8-9
+									
+Jason Foley replaces Sean Guenther pitching
+Zach McKinstry replaces Colt Keith playing 2B batting 6th
+
+b9	2-4	0	---	7,(3-2) 		BAL	Heston Kjerstad	Jason Foley	-9%	83%	Single to RF (Ground Ball thru 2B-1B)
+b9	2-4	0	1--	2,(0-1) 		BAL	Emmanuel Rivera	Jason Foley	-14%	69%	Single to RF (Ground Ball thru 2B-1B); H. Kjerstad to 2B
+									
+Daniel Johnson pinch runs for Emmanuel Rivera (1B) batting 8th
+
+b9	2-4	0	12-	5,(3-1) 		BAL	Jackson Holliday	Jason Foley	-18%	51%	Walk; H. Kjerstad to 3B; D. Johnson to 2B
+b9	2-4	0	123	2,(0-1) 	RR	BAL	Gunnar Henderson	Jason Foley	-43%	8%	Double to CF (Line Drive to Deep CF); H. Kjerstad Scores; D. Johnson Scores; J. Holliday to 3B
+									
+Beau Brieske replaces Jason Foley pitching
+
+b9	4-4	0	-23	4,(1-2) 	O	BAL	Cedric Mullins	Beau Brieske	8%	16%	Groundout: 2B-1B (Weak 2B)
+b9	4-4	1	-23	3,(2-0) 	O	BAL	Anthony Santander	Beau Brieske	21%	37%	Popfly: SS (Deep 3B)
+b9	4-4	2	-23	2,(1-0) 	O	BAL	Colton Cowser	Beau Brieske	13%	50%	Flyball: CF (Deep CF)
+									2 runs, 3 hits, 0 errors, 2 LOB. Tigers 4, Orioles 4.
+Top of the 10th, Tigers Batting, Tied 4-4, Orioles' Yennier Cano facing 4-5-6
+									
+Yennier Cano replaces Bryan Baker pitching
+Anthony Santander moves from RF to 1B
+Daniel Johnson moves from PR to RF
+Matt Vierling running at second base to start the extra inning
+
+t10	4-4	0	-2-	1,(0-0) 	R	DET	Riley Greene	Yennier Cano	18%	68%	Single to RF (Ground Ball); M. Vierling Scores/unER
+									
+Jace Jung pinch hits for Jake Rogers (DH) batting 5th
+
+t10	5-4	0	1--	1,(0-0) 		DET	Jace Jung	Yennier Cano	15%	83%	Double to RF (Line Drive to Deep CF-RF); R. Greene to 3B
+t10	5-4	0	-23	5,(1-2) 	RO	DET	Zach McKinstry	Yennier Cano	0%	83%	Lineout: RF/Sacrifice Fly; R. Greene Scores
+t10	6-4	1	-2-	5,(1-2) 	O	DET	Trey Sweeney	Yennier Cano	-3%	81%	Strikeout Swinging
+t10	6-4	2	-2-	5,(2-2) 	O	DET	Dillon Dingler	Yennier Cano	1%	82%	Strikeout Swinging
+									2 runs, 2 hits, 0 errors, 1 LOB. Tigers 6, Orioles 4.
+Bottom of the 10th, Orioles Batting, Behind 4-6, Tigers' Beau Brieske facing 5-6-7
+									
+Colton Cowser running at second base to start the extra inning
+
+b10	4-6	0	-2-	2,(0-1) 	O	BAL	Adley Rutschman	Beau Brieske	7%	89%	Groundout: 2B-1B (2B-1B); C. Cowser to 3B
+b10	4-6	1	--3	5,(3-1) 		BAL	Livan Soto	Beau Brieske	-9%	80%	Walk
+b10	4-6	1	1-3	6,(3-2) 	O	BAL	Heston Kjerstad	Beau Brieske	11%	91%	Strikeout Swinging
+b10	4-6	2	1-3	1,(0-0) 	O	BAL	Daniel Johnson	Beau Brieske	9%	100%	Groundout: 2B-1B (2B-1B)
+									0 runs, 0 hits, 0 errors, 2 LOB. Tigers 6, Orioles 4.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Baltimore Orioles Schedule Detroit Tigers Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > Detroit Tigers vs Baltimore Orioles Box Score: September 21, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 11:36PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/BAL/BAL202409210.shtml 
+ ----- 

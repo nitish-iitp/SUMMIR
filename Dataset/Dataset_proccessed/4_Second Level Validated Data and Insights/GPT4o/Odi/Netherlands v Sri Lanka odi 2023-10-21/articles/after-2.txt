@@ -1,0 +1,357 @@
+NED vs SL
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+19th Match, Lucknow, October 21, 2023, ICC Cricket World Cup
+NED
+262
+SL
+(48.2/50 ov, T:263) 263/5
+
+Sri Lanka won by 5 wickets (with 10 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+NED 0.00%
+SL 100%
+NED
+SL
+100%
+50%
+100%
+NED Innings
+SL Innings
+
+Over 49 • SL 263/5
+
+Sri Lanka won by 5 wickets (with 10 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Sadeera Samarawickrama
+, SL
+91* (107)
+CRICINFO'S MVP
+Aryan Dutt
+, NED
+114.03 pts
+Impact List
+Netherlands
+Sri Lanka
+Match Flow
+Info
+Netherlands  (50 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+Vikramjit Singh 
+\t4\t13\t1\t0\t30.76
+
+lbw b Rajitha
+
+
+Max O'Dowd 
+\t16\t27\t1\t1\t59.25
+
+b Rajitha
+
+
+Colin Ackermann 
+\t29\t31\t5\t0\t93.54
+
+c †Mendis b Rajitha
+
+
+Bas de Leede 
+\t6\t21\t0\t0\t28.57
+
+c Perera b Madushanka
+
+
+Teja Nidamanuru 
+\t9\t16\t0\t0\t56.25
+
+lbw b Madushanka
+
+
+Scott Edwards (c)†
+\t16\t16\t0\t0\t100.00
+
+b Theekshana
+
+
+Sybrand Engelbrecht 
+\t70\t82\t4\t1\t85.36
+
+b Madushanka
+
+
+Logan van Beek 
+\t59\t75\t1\t1\t78.66
+
+c Asalanka b Rajitha
+
+
+Roelof van der Merwe 
+\t7\t7\t0\t0\t100.00
+
+c †Mendis b Madushanka
+
+
+Aryan Dutt 
+\t9\t6\t1\t0\t150.00
+
+not out
+
+
+Paul van Meekeren 
+\t4\t5\t0\t0\t80.00
+
+run out (†Mendis/Madushanka)
+
+Extras\t33\t(lb 1, nb 1, w 26, pen 5)
+Total\t262\t
+49.4 Ov (RR: 5.27)
+
+
+Fall of wickets: 1-7 (Vikramjit Singh, 3.4 ov), 2-48 (Max O'Dowd, 9.6 ov), 3-54 (Colin Ackermann, 11.6 ov), 4-68 (Bas de Leede, 16.5 ov), 5-71 (Teja Nidamanuru, 18.4 ov), 6-91 (Scott Edwards, 21.2 ov), 7-221 (Sybrand Engelbrecht, 45.1 ov), 8-244 (Roelof van der Merwe, 47.2 ov), 9-252 (Logan van Beek, 48.4 ov), 10-262 (Paul van Meekeren, 49.4 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Dilshan Madushanka
+\t9.4\t1\t49\t
+4
+\t5.06\t3\t1
+
+Kasun Rajitha
+\t9\t0\t50\t
+4
+\t5.55\t6\t0
+
+Chamika Karunaratne
+\t9\t1\t58\t0\t6.44\t6\t0
+
+Maheesh Theekshana
+\t10\t0\t44\t
+1
+\t4.40\t2\t0
+
+Dushan Hemantha
+\t8\t0\t42\t0\t5.25\t0\t0
+
+Dhananjaya de Silva
+\t4\t0\t13\t0\t3.25\t3\t0
+Sri Lanka  (T: 263 runs from 50 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+Pathum Nissanka 
+\t54\t52\t9\t0\t103.84
+
+c †Edwards b van Meekeren
+
+
+Kusal Perera 
+\t5\t8\t1\t0\t62.50
+
+c de Leede b Dutt
+
+
+Kusal Mendis (c)†
+\t11\t17\t2\t0\t64.70
+
+c van Meekeren b Dutt
+
+
+Sadeera Samarawickrama 
+\t91\t107\t7\t0\t85.04
+
+not out
+
+
+Charith Asalanka 
+\t44\t66\t2\t1\t66.66
+
+b Dutt
+
+
+Dhananjaya de Silva 
+\t30\t37\t1\t2\t81.08
+
+b Ackermann
+
+
+Dushan Hemantha 
+\t4\t3\t1\t0\t133.33
+
+not out
+
+Extras\t24\t(b 13, w 11)
+Total\t263/5\t
+48.2 Ov (RR: 5.44)
+
+
+Did not bat: 
+Chamika Karunaratne, 
+Maheesh Theekshana, 
+Kasun Rajitha, 
+Dilshan Madushanka 
+
+
+Fall of wickets: 1-18 (Kusal Perera, 4.3 ov), 2-52 (Kusal Mendis, 9.3 ov), 3-104 (Pathum Nissanka, 16.1 ov), 4-181 (Charith Asalanka, 32.4 ov), 5-257 (Dhananjaya de Silva, 46.5 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Aryan Dutt
+\t10\t0\t44\t
+3
+\t4.40\t2\t0
+
+Logan van Beek
+\t10\t0\t57\t0\t5.70\t0\t0
+
+Paul van Meekeren
+\t8\t1\t39\t
+1
+\t4.87\t2\t0
+
+Bas de Leede
+\t3\t0\t29\t0\t9.66\t2\t0
+
+Roelof van der Merwe
+\t9\t0\t42\t0\t4.66\t1\t0
+
+Colin Ackermann
+\t8.2\t0\t39\t
+1
+\t4.68\t0\t0
+Unlocking the magic of Statsguru
+Match Flow
+Netherlands innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 48 runs, 2 wickets)
+Over 3.4: Review by Netherlands (Batting), Decision Challenged - Wicket, Umpire - Ahsan Raza, Batter - Vikramjit Singh (Struck down)
+Over 6.2: Review by Sri Lanka (Bowling), Decision Challenged - Wicket, Umpire - M Erasmus, Batter - CN Ackermann (Struck down)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 127 runs, 4 wickets)
+Netherlands: 50 runs in 10.4 overs (64 balls), Extras 4
+Over 12.3: Review by Sri Lanka (Bowling), Decision Challenged - Wicket, Umpire - M Erasmus, Batter - BFW de Leede (Struck down - Umpires Call)
+Drinks: Netherlands - 57/3 in 14.0 overs (BFW de Leede 1, AT Nidamanuru 2)
+Over 18.4: Review by Sri Lanka (Bowling), Decision Challenged - Wicket, Umpire - M Erasmus, Batter - AT Nidamanuru (Upheld)
+Netherlands: 100 runs in 23.6 overs (144 balls), Extras 7
+Drinks: Netherlands - 116/6 in 29.0 overs (SA Engelbrecht 15, LV van Beek 14)
+7th Wicket: 50 runs in 74 balls (SA Engelbrecht 21, LV van Beek 22, Ex 8)
+Netherlands: 150 runs in 34.3 overs (207 balls), Extras 14
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 87 runs, 4 wickets)
+SA Engelbrecht: 50 off 65 balls (3 x 4, 1 x 6)
+7th Wicket: 100 runs in 122 balls (SA Engelbrecht 55, LV van Beek 34, Ex 11)
+Penalty: 42.2 - Ball striking Fielding Team helmet
+Netherlands: 200 runs in 42.3 overs (255 balls), Extras 22
+LV van Beek: 50 off 68 balls (1 x 4)
+Netherlands: 250 runs in 48.1 overs (289 balls), Extras 32
+Innings Break: Netherlands - 262/10 in 49.4 overs (A Dutt 9)
+Sri Lanka innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 56 runs, 2 wickets)
+Sri Lanka: 50 runs in 8.6 overs (54 balls), Extras 6
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 167 runs, 2 wickets)
+P Nissanka: 50 off 48 balls (8 x 4)
+Sri Lanka: 100 runs in 15.4 overs (94 balls), Extras 12
+Drinks: Sri Lanka - 104/2 in 16.0 overs (P Nissanka 54, S Samarawickrama 22)
+3rd Wicket: 50 runs in 39 balls (P Nissanka 24, S Samarawickrama 22, Ex 6)
+Over 26.1: Review by Netherlands (Bowling), Decision Challenged - Wicket, Umpire - Ahsan Raza, Batter - KIC Asalanka (Struck down)
+Sri Lanka: 150 runs in 27.5 overs (167 balls), Extras 13
+Over 28.2: Review by Netherlands (Bowling), Decision Challenged - Wicket, Umpire - Ahsan Raza, Batter - KIC Asalanka (Struck down)
+4th Wicket: 50 runs in 75 balls (S Samarawickrama 19, KIC Asalanka 33, Ex 1)
+Drinks: Sri Lanka - 173/3 in 31.0 overs (S Samarawickrama 49, KIC Asalanka 37)
+S Samarawickrama: 50 off 53 balls (4 x 4)
+Sri Lanka: 200 runs in 35.3 overs (213 balls), Extras 22
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory)
+5th Wicket: 50 runs in 59 balls (S Samarawickrama 30, DM de Silva 14, Ex 7)
+Sri Lanka: 250 runs in 45.5 overs (275 balls), Extras 24
+Match Details
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow
+
+Toss\tNetherlands, elected to bat first
+Series\t
+ICC Cricket World Cup
+
+Season\t
+2023/24
+
+Player Of The Match\t
+Sadeera Samarawickrama
+
+Match number\t
+ODI no. 4676
+
+Hours of play (local time)\t10.30 start, First Session 10.30-14.00, Interval 14.00-14.30, Second Session 14.30-18.00
+Match days\t21 October 2023 - day (50-over match)
+Umpires\t
+Ahsan Raza
+DRS
+Marais Erasmus
+DRS
+
+TV Umpire\t
+Rod Tucker
+
+Reserve Umpire\t
+Chris Gaffaney
+
+Match Referee\t
+Jeff Crowe
+
+Points\tSri Lanka 2, Netherlands 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 874 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/netherlands-vs-sri-lanka-19th-match-1384410/full-scorecard 
+ ----- 

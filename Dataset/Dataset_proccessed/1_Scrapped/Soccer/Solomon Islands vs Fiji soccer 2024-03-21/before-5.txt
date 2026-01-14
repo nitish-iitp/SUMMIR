@@ -1,0 +1,563 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+The Armory
+Suppressors 9mm Carbine Can??
+ 
+Thread starter
+Millron  
+Start date
+Mar 18, 2024
+M
+Millron
+Private
+Supporter
+Full Member
+Minuteman
+Sep 15, 2014
+779
+238
+West Virginia
+Mar 18, 2024
+#1
+Any recommendations for a serviceable and quiet 9mm can to run on 9mm PCC? Secondary use would be subsonic 300 Blackout (AR & bolt) and possibly supers if the can can handle it,357/38 special thru a lever gun. It won't be used on a pistol so a larger diameter can is fine. I don't really care about a "short" and "long" configuration either. Requirements are that its user serviceable, quiet, and some type of industry std mounting so it can be swapped around easily. I could end up using this on some lead projectiles in the future on other calibers like 38 special so it has to be able to come apart for cleaning. I can deal with a little extra length/weight. Right now I'm using a Hybrid 46 for this application.. I don't have access to hear a lot of different suppressors in use, so wondering if there might be something else out there a lot better in this role. It a jack of all trades and master of none, plus its not user serviceable. The Dead Air Wolfman seems like the defacto 9mm Sub Gun but its not user serviceable, and lots of complaints with Dead Air right now. OCL lithium and Thunderbeast Fly 9, Bowers Vers 9 seems popular as well, but again not user serviceable.
+
+Right now my short list is:
+
+Rugged Obsidian 9
+Rugged Alaskan 360
+Griffen Armament Revolution 9
+
+What I don't know is are any of these going to be appreciably quieter than a Hybrid 46? I have an older Octane 9, and the Hybrid 46 is definately seems quieter than it. Its also considerably larger and heavier. I've tried it with a 9mm end cap and can't tell much of a difference, so I tend to just run the 46 caliber cap because its a little less gassy that way.
+
+Any that I'm missing?
+ 
+Last edited: Mar 18, 2024
+kthomas
+Sergeant
+Full Member
+Minuteman
+Jun 17, 2009
+8,419
+11,750
+37
+Tucson, AZ
+Mar 18, 2024
+#2
+Get one of the new TBAC Magnus cans in .375 with HUB.
+
+Use that for all your PCC use, except the lead. Then break out the SiCo Octane or Hybrid cans that you already own for your lead use.
+ 
+roostercogburn98
+Fudd gun collector extraordinaire
+Full Member
+Minuteman
+Supporter
+Nov 3, 2010
+9,913
+21,009
+Mar 18, 2024
+#3
+I’m old skewl and using a “sub gun” can. It’s 12 inches long and 1.75 is diameter, but volume is your friend. Especially if you don’t ever plan on using it for a pistol.
+ 
+ 
+Reactions:
+Charger442
+M
+Millron
+Private
+Supporter
+Full Member
+Minuteman
+Sep 15, 2014
+779
+238
+West Virginia
+Mar 18, 2024
+#4
+roostercogburn98 said:
+I’m old skewl and using a “sub gun” can. It’s 12 inches long and 1.75 is diameter, but volume is your friend. Especially if you don’t ever plan on using it for a pistol.
+I agree, but seems like all of those are welded cans and not user serviceable. which for a sub gun can is fine, but i need to be able to clean it.
+ 
+roostercogburn98
+Fudd gun collector extraordinaire
+Full Member
+Minuteman
+Supporter
+Nov 3, 2010
+9,913
+21,009
+Mar 18, 2024
+#5
+Millron said:
+I agree, but seems like all of those are welded cans and not user serviceable. which for a sub gun can is fine, but i need to be able to clean it.
+Mine is user serviceable and full auto rated. It’s a super small not super known company called Coastal Gun, and the model is a MIMS
+
+
+ 
+ 
+Reactions:
+Malum Prohibitum and Millron
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,243
+10,714
+Your Wife's Pussy
+Mar 18, 2024
+#6
+Millron said:
+Any recommendations for a serviceable and quiet 9mm can to run on 9mm PCC? Secondary use would be subsonic 300 Blackout (AR & bolt) and possibly supers if the can can handle it,357/38 special thru a lever gun. It won't be used on a pistol so a larger diameter can is fine. I don't really care about a "short" and "long" configuration either. Requirements are that its user serviceable, quiet, and some type of industry std mounting so it can be swapped around easily. I could end up using this on some lead projectiles in the future on other calibers like 38 special so it has to be able to come apart for cleaning. I can deal with a little extra length/weight. Right now I'm using a Hybrid 46 for this application.. I don't have access to hear a lot of different suppressors in use, so wondering if there might be something else out there a lot better in this role. It a jack of all trades and master of none, plus its not user serviceable. The Dead Air Wolfman seems like the defacto 9mm Sub Gun but its not user serviceable, and lots of complaints with Dead Air right now. OCL lithium and Thunderbeast Fly 9, Bowers Vers 9 seems popular as well, but again not user serviceable.
+
+Right now my short list is:
+
+Rugged Obsidian 9
+Rugged Alaskan 360
+Griffen Armament Revolution 9
+
+What I don't know is are any of these going to be appreciably quieter than a Hybrid 46? I have an older Octane 9, and the Hybrid 46 is definately seems quieter than it. Its also considerably larger and heavier. I've tried it with a 9mm end cap and can't tell much of a difference, so I tend to just run the 46 caliber cap because its a little less gassy that way.
+
+Any that I'm missing?
+Click to expand...
+Otter Creek Labs Lithium 9... Made specifically for 9mm PCC's, and was developed on both an MP5 and Colt SubGun (9mm).
+
+
+Otter Creek Labs Lithium 9 - Silencer Shop
+Otter Creek Labs Lithium 9
+ www.silencershop.com
+
+Here's my Rugged Obsidian 45 (in K-configuration) with a 9mm Tri-Lug mount on my MP5 with 147 subs...
+
+
+ 
+H
+hlee
+Sergeant
+Full Member
+Minuteman
+Jul 14, 2012
+12,534
+19,456
+46
+TX
+Mar 18, 2024
+#7
+Yankee Hill Resonator 9 is a lot of can for not a lot of money. Rated for 308 win from a 16” barrel…
+ 
+ 
+Reactions:
+Millron
+M
+Millron
+Private
+Supporter
+Full Member
+Minuteman
+Sep 15, 2014
+779
+238
+West Virginia
+Mar 19, 2024
+#8
+I will take a look at the YHM. There is definitely a lot of value with their suppressors.
+ 
+M
+Millron
+Private
+Supporter
+Full Member
+Minuteman
+Sep 15, 2014
+779
+238
+West Virginia
+Mar 19, 2024
+#9
+FuhQ said:
+Otter Creek Labs Lithium 9... Made specifically for 9mm PCC's, and was developed on both an MP5 and Colt SubGun (9mm).
+
+
+Otter Creek Labs Lithium 9 - Silencer Shop
+Otter Creek Labs Lithium 9
+ www.silencershop.com
+
+Here's my Rugged Obsidian 45 (in K-configuration) with a 9mm Tri-Lug mount on my MP5 with 147 subs...
+
+
+Click to expand...
+
+Do you have the OCL Lithium? How does it sound on the same host as the Obsidian? in the video the Obsidian sounds pretty good. I probably wouldn't consider the Lithium for this because its a sealed can but maybe for a future purpose with pistols in mind.
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,243
+10,714
+Your Wife's Pussy
+Mar 19, 2024
+#10
+Millron said:
+Do you have the OCL Lithium? How does it sound on the same host as the Obsidian? in the video the Obsidian sounds pretty good. I probably wouldn't consider the Lithium for this because its a sealed can but maybe for a future purpose with pistols in mind.
+I will be ordering one as soon as they become available again on Silencer Shop…
+
+The Obsidian sounds really good for its size, especially being a .45 can on a a 9mm, and in K-configuration, but I’m guessing the Lithium will be noticeably quieter just simply due to much greater internal volume and the 9mm bore vs. the .45 bore.
+
+Any sealed [titanium or stainless] suppressor can easily be cleaned with CLR and an ultrasonic cleaner. Do not use CLR on aluminum, it will destroy it.
+ 
+ 
+Reactions:
+HaydenLane and Gustav7
+A
+Aaros143
+Sergeant
+Full Member
+Minuteman
+May 16, 2013
+679
+381
+Austin, TX
+Mar 19, 2024
+#11
+I have a YHM R9 on my SP5 and really like it. Solid can for the money
+ 
+ 
+Reactions:
+fanninland and Millron
+M
+Millron
+Private
+Supporter
+Full Member
+Minuteman
+Sep 15, 2014
+779
+238
+West Virginia
+Mar 21, 2024
+#12
+Appreciate the input.........I think what I'm going to do is send my Octane 9, to Griffin Armament for the their EcoBaffle upgrade. They claim around 8-9 DB sound reduction on the SilencerCo Octane cans, and reduced gas pressure at the ejection port. Reviews on this upgrade seem to pretty positive. This should suffice for a user serviceable 9mm can to use on leaded rounds where I don't want to use a sealed can. Yes I know you can clean a sealed can, I do it on rare occasion with by precision suppressors, but its a bit of a pain in the ass vs. disassembling and dropping the baffles in and UltraSonic cleaner.
+
+Then I will just pick pick up a larger volume can like a Wolfman, OCL Lithium, Fly 9, cans to get the type of suppression I'm wanting. Those should be audibly better than the hybrid 46 I'm using now, or at least I think so.
+ 
+ 
+Reactions:
+Charger442
+Simonsza1
+Private
+Full Member
+Minuteman
+Commercial Supporter
+Feb 27, 2014
+2,451
+1,859
+Mar 21, 2024
+#13
+Did you look at the spectre 9 from silencerco? Looks pretty awesome.
+ 
+N
+Norther
+Private
+Minuteman
+Nov 9, 2018
+85
+156
+Interior AK
+Mar 21, 2024
+#14
+FuhQ said:
+Any sealed [titanium or stainless] suppressor can easily be cleaned with CLR and an ultrasonic cleaner. Do not use CLR on aluminum, it will destroy it.
+CLR removes lead?
+ 
+M
+Millron
+Private
+Supporter
+Full Member
+Minuteman
+Sep 15, 2014
+779
+238
+West Virginia
+Mar 21, 2024
+#15
+Norther said:
+CLR removes lead?
+fairly well
+ 
+ 
+Reactions:
+mebgardner, FuhQ and Gustav7
+Gustav7
+Son of a Gun...
+Supporter
+Full Member
+Minuteman
+Jul 18, 2019
+1,996
+1,376
+Ohio (OH)
+Mar 21, 2024
+#16
+Not user serviceable but the Rex Silentium cans are fat, quiet, and since they're solid 17-4 stainless, you can chuck the whole thing in a cup of CLR. I have 2, one of which is my "everything" can. I run some pretty hot loads of 180gr GC lead bullets out of my .357 rifle through it, PCC, 6.5 bolt gun, AR308, etc
+
+Just an option. He runs sales often. My last MG7 I got from his was $350
+ 
+M
+Millron
+Private
+Supporter
+Full Member
+Minuteman
+Sep 15, 2014
+779
+238
+West Virginia
+Mar 21, 2024
+#17
+Will look at those.
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,243
+10,714
+Your Wife's Pussy
+Mar 21, 2024
+#18
+Millron said:
+Will look at those.
+If you're not opposed to sealed non-serviceable cans, I'd still buy a Lithium over a Rex can just based on sheer weight savings alone...Even with the much higher price of the Lithium. Rex builds a good can and has an awesome warranty, they're just super heavy because they're made from 100% 17-4 stainless. On an MP5 or PCC you're going to want as light as possible to not notice it hanging off the end, with as much volume as possible...That's where Ti comes in. Just my $0.02...
+ 
+ 
+Reactions:
+mebgardner
+lastshot12
+Banhammer
+Banned !
+Minuteman
+Jul 5, 2018
+100
+37
+Mar 22, 2024
+#19
+I’ve used an Octane 45 with good results. The Obsidian happens to be the most versatile.
+ 
+Simonsza1
+Private
+Full Member
+Minuteman
+Commercial Supporter
+Feb 27, 2014
+2,451
+1,859
+Mar 22, 2024
+#20
+FuhQ said:
+If you're not opposed to sealed non-serviceable cans, I'd still buy a Lithium over a Rex can just based on sheer weight savings alone...Even with the much higher price of the Lithium. Rex builds a good can and has an awesome warranty, they're just super heavy because they're made from 100% 17-4 stainless. On an MP5 or PCC you're going to want as light as possible to not notice it hanging off the end, with as much volume as possible...That's where Ti comes in. Just my $0.02...
+Click to expand...
+So your thoughts on the spectre then? Seems super light
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,243
+10,714
+Your Wife's Pussy
+Mar 22, 2024
+#21
+Simonsza1 said:
+So your thoughts on the spectre then? Seems super light
+I have not heard one in person, but I was told by several direct sources who have, that the new Spectre cans seem like good cans, but that they’re not as quiet as the guntuber shills are pushing them to be, and that it’s mostly internet LARPers and wannabes hyping them up, just because it’s supposedly built by some “super-secret spec ops contractor” suppressor company.  Just what I was told by several folks who have shot and heard them personally.
+
+Don’t know either way, just what I was randomly told in general suppressor conversation by several folks (with no affiliation to any company) at different times over the last couple months. 
+ 
+Last edited: Mar 22, 2024
+Gustav7
+Son of a Gun...
+Supporter
+Full Member
+Minuteman
+Jul 18, 2019
+1,996
+1,376
+Ohio (OH)
+Mar 22, 2024
+#22
+FuhQ said:
+If you're not opposed to sealed non-serviceable cans, I'd still buy a Lithium over a Rex can just based on sheer weight savings alone...Even with the much higher price of the Lithium. Rex builds a good can and has an awesome warranty, they're just super heavy because they're made from 100% 17-4 stainless. On an MP5 or PCC you're going to want as light as possible to not notice it hanging off the end, with as much volume as possible...That's where Ti comes in. Just my $0.02...
+Click to expand...
+
+I always thought my Rex cans were decently light at 10.3oz and 12.5oz, espeically compared to my 16-18oz SOCOM. I guess I knew titanium was light but 5.7oz for the Lithium is pretty light.
+
+Not that it matters but my MG7k feels great on my CZ Scorpion. Looks pretty slick too.
+ 
+FuhQ
+Unreconstructed
+Full Member
+Minuteman
+ 
+ 
+Aug 26, 2013
+9,243
+10,714
+Your Wife's Pussy
+Mar 23, 2024
+#23
+Gustav7 said:
+I always thought my Rex cans were decently light at 10.3oz and 12.5oz, espeically compared to my 16-18oz SOCOM. I guess I knew titanium was light but 5.7oz for the Lithium is pretty light.
+
+Not that it matters but my MG7k feels great on my CZ Scorpion. Looks pretty slick too.
+That's the weight of a Dead Air Mask HD rimfire suppressor... For a full-size 9mm can. That's ridiculously light. Also, when you see how many cartridges, and the barrel restrictions that the Lithium 9 can handle, you'll be pretty shocked, too.
+ 
+FieldGaugeFailure
+Dry firing at fridge magnets
+Full Member
+Minuteman
+Feb 29, 2024
+259
+329
+Southern Colorado
+Mar 23, 2024
+#24
+I have an Obsidian 9, works nicely and also can do double duty as a 300 blackout can fairly well.
+ 
+Charger442
+Sergeant
+Supporter
+Full Member
+Minuteman
+Supporter
+Nov 2, 2010
+5,118
+6,439
+South Texas
+Mar 23, 2024
+#25
+Millron said:
+Appreciate the input.........I think what I'm going to do is send my Octane 9, to Griffin Armament for the their EcoBaffle upgrade. They claim around 8-9 DB sound reduction on the SilencerCo Octane cans, and reduced gas pressure at the ejection port. Reviews on this upgrade seem to pretty positive. This should suffice for a user serviceable 9mm can to use on leaded rounds where I don't want to use a sealed can. Yes I know you can clean a sealed can, I do it on rare occasion with by precision suppressors, but its a bit of a pain in the ass vs. disassembling and dropping the baffles in and UltraSonic cleaner.
+
+Then I will just pick pick up a larger volume can like a Wolfman, OCL Lithium, Fly 9, cans to get the type of suppression I'm wanting. Those should be audibly better than the hybrid 46 I'm using now, or at least I think so.
+Click to expand...
+
+id have to see some real proof on the octane upgrade improvements. 8-9dbs is a ridiculous claim. I've heard the difference it makes, if any, is pretty much negligible. i wouldn't waste the money on it without actual proof.
+
+Octane El Dos por Vida!!
+
+edit: are they talking original Octane or Octane 2. 0? maybe thats the difference
+ 
+M
+Millron
+Private
+Supporter
+Full Member
+Minuteman
+Sep 15, 2014
+779
+238
+West Virginia
+Mar 23, 2024
+#26
+Charger442 said:
+id have to see some real proof on the octane upgrade improvements. 8-9dbs is a ridiculous claim. I've heard the difference it makes, if any, is pretty much negligible. i wouldn't waste the money on it without actual proof.
+
+Octane El Dos por Vida!!
+
+edit: are they talking original Octane or Octane 2. 0? maybe thats the difference
+Click to expand...
+Honestly havnt looked into that much yet, id assume the original not 2.0. The reduction in blowback is probably more important than overall sound reduction.
+ 
+D
+Diesel79
+Private
+Minuteman
+Nov 12, 2021
+95
+78
+Minnesota
+Mar 24, 2024
+#27
+I recently put a SilencerCo Omega9K in jail for my SP5. That one seems to get a lot of praise for this particular gun.
+
+Anyone have an Energetic Armament Sonus 9? That’s also on my list.
+ 
+You must log in or register to reply here.
+Similar threads
+Z
+	
+Accessories New Silencer Co Pistons 5/8-24 & 14.5M x 1LH (Osprey, Octane, Omega, Hybrid, Obsidian, Odessa) -- $45
+ZY100 Oct 19, 2024 Buy - Sell - Trade
+5
+Dec 15, 2024
+G
+	
+Suppressors 338 ultra on 338 ARC/300blk?
+generalzip Nov 8, 2024 The Armory
+9
+Nov 8, 2024
+	
+Suppressors TBAC Ultra 338 Gen 2 SR vs Ultra 9??
+hafejd30 Apr 8, 2024 The Armory
+22
+Apr 19, 2024
+	
+Left Hand Sale LH Cast Caesar Guerini Essex Limited Sporting 12ga Shotgun
+FimRire RongLifle Aug 25, 2024 Buy - Sell - Trade
+0
+Aug 25, 2024
+	
+SilencerCo recall notice
+E. Bryant Nov 14, 2023 The Armory
+28
+Dec 21, 2023
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+The Armory
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/9mm-carbine-can.7211830/ 
+ ----- 

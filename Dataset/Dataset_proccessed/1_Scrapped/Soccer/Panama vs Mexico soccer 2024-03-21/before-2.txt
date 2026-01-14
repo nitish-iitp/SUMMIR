@@ -1,0 +1,108 @@
+Skip to main content
+Menu
+REGULATORY UPDATE
+South Korea Regulator Accepts MDSAP Certificates Eliminating On-Site K-GMP Audits
+
+In our third article in a series, we take a look at how manufacturers can submit MDSAP Certificates in Place of on-site K-GMP audits.
+
+Contact us
+News
+
+March 21, 2024
+
+By JaeYeong Noh
+
+K-GMP Audits
+
+As part of the regulatory requirements in South Korea, manufacturers of Class 2, 3 and 4 medical devices, are obligated to obtain certification to the Korean Good Manufacturing Practice, known as K-GMP.  The certification process includes a crucial on-site audit conducted by either the TPA (third-party auditor), the Ministry of Food and Drug Safety (MFDS), or a combination of both, depending on the risk classification of the devices. Details of K-GMP certification are described in our regulatory insight.
+
+It is important to note that the K-GMP certificate remains valid for three years.
+
+Background on MFDS participation in MDSAP
+
+There has long been an industry voice on the challenges to comply with multiple country-specific GMP audits for both domestic approval and overseas export. In response, MFDS has proposed regulatory reforms to align as an Affiliate Member of the Medical Device Single Audit Program (MDSAP).
+
+The initial legislative step to permit leveraging MDSAP audit results is based on the revised MFDS Notice No. 2023-79  Medical Device Manufacturing and Quality Control Standards, effective December 19, 2023. By utilizing the findings from MDSAP audits through a desktop audit approach, MFDS aims to alleviate the burden on manufacturers and promote international harmonization of GMP regulations. This proactive measure is expected to streamline the regulatory process and facilitate compliance for medical device manufacturers.
+
+MFDS Notice No. 2023-79 Medical Device Manufacturing and Quality Control Standards
+
+The main points to remember in the MDSAP audit results in the revised notice are:
+
+MFDS accepts MDSAP audit results for initial, additional, and change audits. As a result, the option of a desktop audit will be acceptable when leveraging MDSAP audit findings. However, it's important to note that an on-site audit is still mandatory for renewal audits.                                                                            
+If manufacturers choose to leverage the MDSAP audit results in place of an on-site audit, the expiration date of the K-GMP certificate will be identical to that of the MDSAP certificate.
+
+Therefore, it would be important to verify if the MDSAP audit report can be utilized for the K-GMP certification purposes.
+
+Guidelines to use MDSAP Audit Results (Guide-1349-01)
+
+As part of this initiative, MFDS issued guidelines to ensure the accuracy, consistency and transparency among stakeholders involved in the substitution of on-site K-GMP audit with document reviews utilizing MDSAP audit results (Guide-1349-01). The guidelines cover MDSAP audit preparation, audit application and audit process.
+
+MFDS also shares in the guidelines cases which are unacceptable to leverage the MDSAP as follows.
+
+When deemed a manufacturer of safety concern.
+When a manufacturer or importer is unable or unwilling to submit data due to reasons such as confidentiality concerns and instead requests an on-site audit.
+When holding an MDSAP Suitability Recognition Certificate, and falling under any of the following categories:
+
+a. Manufacturer subject to renewal audit.
+
+b. Manufacturer recognized as having significant deficiencies in audit results under the Medical Device Single Audit Program (MDSAP).
+c. Convergence medical products manufacturer.
+
+d. Manufacturer containing human-derived components or using human-derived tissues for medical devices.
+
+Concluding remarks
+
+If manufacturers want to leverage the MDSAP audit results to substitute them for an on-site K-GMP audit, the expiration date of the MDSAP certificate is an important item to determine utility. Since the expiration date of the K-GMP certificate will be identical to the MDSAP certificate, it is essential to assess whether the MDSAP certificate is valid for at least two years.  This is because, to facilitate the scheduling of on-site audits and ensure the timely renewal of the K-GMP certificate for uninterrupted sales and distributor activities, preparations for the renewal audit typically commence approximately 12 months before the expiration date of the current K-GMP certificate.
+
+The acceptance of the MDSAP certificate to facilitate K-GMP compliance is an exciting development in global regulatory harmonization. This should be a consideration in the future development of global regulatory strategy.  
+
+Learn more about South Korea's medical device regulations:
+REGULATORY UPDATE
+Primer on South Korea’s Medical Device Regulatory System
+SERVICE
+South Korea Medical Device Classification
+SERVICE
+Korea License Holder Representation for Foreign Medical Device Companies
+REGULATORY UPDATE
+South Korea Updates: Innovative Device Designations, IVD Act Enforcement
+Share:
+Cookies on Emergo by UL Solutions
+We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. Learn more
+Cookies Settings Reject All Accept All Cookies
+SERVICES / SOFTWARE
+Market Access
+Human Factors Research & Design
+Privacy & Security Services
+Software: RAMS®
+Software: OPUS™
+ 
+LET'S CONNECT
+About
+Contact Us
+Office Locations
+Newsletter Sign-up
+Choose a region
+Select a regional website
+China (简体中文)
+RAMS®
+A platform of digital products to improve, simplify and automate RA/QA activities.
+OPUSTM
+Emergo by UL's new human factors tool - provides training, tools, and resources.
+
+© 2024 EMERGO by UL. All rights reserved.
+
+Within UL Solutions we provide a broad portfolio of offerings to all the medical device industries. This includes certification, Approved/Notified Body and consultancy services. In order to protect and prevent any conflict of interest, perception of conflict of interest and protection of both our brand and our customers brand, we have processes in place to identify and manage any potential conflicts of interest and maintain impartiality. UL Solutions is unable to provide consultancy services to EU MDD, MDR or IVDD Notified Body, UKCA MD Approved Body or MDSAP Customers.
+
+Impressum
+Online Policies
+About Cookies
+Data Subject Access Request Portal
+Cookie Preferences
+Youtube
+ 
+LinkedIn
+ 
+ 
+ ----- 
+ Source link : https://www.emergobyul.com/news/south-korea-regulator-accepts-mdsap-certificates-eliminating-site-k-gmp-audits 
+ ----- 

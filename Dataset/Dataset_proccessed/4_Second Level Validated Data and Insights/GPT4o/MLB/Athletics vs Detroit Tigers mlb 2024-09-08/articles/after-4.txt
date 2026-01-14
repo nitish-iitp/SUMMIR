@@ -1,0 +1,324 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Tigers
+73-71, 38-37 Away
+9
+Final
+Athletics
+62-82, 36-39 Home
+1
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Sweeney has 4 hits, Madden strikes out 7 in Tigers' 9-1 win over Athletics
+— Trey Sweeney had four hits, including a home run, Ty Madden struck out seven and the Detroit Tigers beat the Oakland Athletics 9-1 on Sunday.
+Sep 9, 2024, 12:28 am - AP
+
+
+DET
+
+
+OAK
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t0\t2\t1\t0\t0\t0\t6\t0\t9\t16\t0
+0\t0\t0\t0\t0\t1\t0\t0\t0\t1\t8\t1
+WIN
+T. Madden
+1-0
+5.0 IP, 5 H, 1 ER, 7 K, 1 BB
+LOSS
+J.T. Ginn
+0-1
+5.0 IP, 7 H, 3 ER, 5 K, 1 BB
+Scoring Summary
+INNING
+\tDET\tOAK
+\t\t3rd\tSweeney homered to right (404 feet).\t1\t0
+\t\t3rd\tCarpenter singled to center, Jung scored, Greene to second.\t2\t0
+\t\t4th\tSweeney singled to left, Torkelson scored, McKinstry to second.\t3\t0
+\t\t6th\tGelof singled to right, Langeliers scored, Brown to third.\t3\t1
+\t\t8th\tMeadows doubled to center, Sweeney scored and Torkelson scored.\t5\t1
+\t\t8th\tVierling doubled to center, Meadows scored.\t6\t1
+\t\t8th\tGreene singled to right, Vierling scored, Greene to second.\t7\t1
+\t\t8th\tCarpenter doubled to left, Greene scored.\t8\t1
+\t\t8th\tKeith singled to left, Carpenter scored on error, Keith safe at second on fielding error by left fielder Brown.\t9\t1
+Full Play-By-Play
+Tigers
+Athletics
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+P. Meadows
+CF
+\t2-5\t1\t0\t2\t.229
+
+J. Jung
+3B
+\t1-3\t1\t0\t0\t.233
+
+M. Vierling
+PH-RF
+\t1-3\t1\t0\t1\t.259
+
+R. Greene
+LF
+\t2-4\t1\t0\t1\t.260
+
+R. Kreidler
+PH-3B
+\t0-1\t0\t0\t0\t.119
+
+K. Carpenter
+DH
+\t2-5\t1\t0\t2\t.284
+
+C. Keith
+2B
+\t2-5\t0\t0\t1\t.260
+
+S. Torkelson
+1B
+\t1-4\t2\t0\t0\t.211
+
+Z. McKinstry
+RF-3B-LF
+\t1-5\t0\t0\t0\t.228
+
+T. Sweeney
+SS
+\t4-4\t2\t1\t2\t.236
+
+J. Rogers
+C
+\t0-4\t0\t0\t0\t.191
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+B. Brieske
+\t1.0\t0\t0\t2\t2\t31-19\t4.07
+
+T. Madden
+\t5.0\t5\t1\t1\t7\t83-58\t2.57
+
+T. Holton
+\t1.0\t0\t0\t0\t0\t6-3\t2.29
+
+K. Maeda
+\t2.0\t3\t0\t0\t2\t26-18\t5.92
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+L. Butler
+RF
+\t1-4\t0\t0\t0\t.270
+
+A. Alvarez
+PH
+\t1-1\t0\t0\t0\t.273
+
+B. Rooker
+DH
+\t0-3\t0\t0\t0\t.299
+
+J. Bleday
+CF
+\t0-3\t0\t0\t0\t.243
+
+S. Langeliers
+C
+\t2-4\t1\t0\t0\t.223
+
+S. Brown
+LF
+\t1-4\t0\t0\t0\t.248
+
+Z. Gelof
+2B
+\t2-3\t0\t0\t1\t.209
+
+T. Gray
+1B
+\t0-4\t0\t0\t0\t.143
+
+M. Schuemann
+3B
+\t0-4\t0\t0\t0\t.220
+
+J. Wilson
+SS
+\t1-4\t0\t0\t0\t.235
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+J.T. Ginn
+\t5.0\t7\t3\t1\t5\t83-50\t4.58
+
+H. Harris
+\t1.0\t0\t0\t2\t0\t27-13\t2.76
+
+S. Alexander
+\t1.0\t0\t0\t0\t1\t13-8\t2.56
+
+R. Stripling
+\t0.2\t6\t6\t0\t2\t34-22\t6.08
+
+G. Holman
+\t0.1\t1\t0\t0\t1\t12-7\t3.86
+
+B. Bielak
+\t1.0\t2\t0\t1\t0\t25-12\t4.88
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Detroit Tigers (73-71, 38-37 Away)
+Beau Brieske (4-5, 3.59)
+-105
+ML
+-105
+o8.5
+EVEN
+-1.5
++160
+Oakland Athletics (62-82, 36-39 Home)
+J.T. Ginn (1-1, 4.24)
+u8.5
+-115
+-115
+u8.5
+-120
++1.5
+-190
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+TIGERS
+ATHLETICS
+DET 100
+%
+DET 9OAK 1
+
+Bottom 9th
+Rooker grounded into fielder's choice to shortstop, Alvarez out at second.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+DET
+OAK
+Hits
+16
+8
+Home Runs
+1
+0
+Total Bases
+23
+9
+Runners LOB
+12
+10
+Full Team Stats
+Regular Season Series
+Current Series
+DET wins 2-1
+Tigers
+6
+Athletics
+7
+Game 1
+9/7
+Final/13
+Tigers
+2
+Athletics
+1
+Game 2
+9/7
+Final
+Tigers
+9
+Athletics
+1
+Game 3
+9/8
+Final
+Game Information
+Oakland Coliseum
+8:07 PM, September 8, 2024
+Oakland, California
+Attendance: 11,250
+Game Time:
+3:01
+Umpires:
+Home Plate Umpire - Quinn Wolcott
+First Base Umpire - Ryan Additon
+Second Base Umpire - Gabe Morales
+Third Base Umpire - Chris Guccione
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570614/tigers-athletics 
+ ----- 

@@ -1,0 +1,693 @@
+We and our 742 IAB TCF partners store and access information on your device for the following purposes: store and/or access information on a device, advertising and content measurement, audience research, and services development, personalised advertising, and personalised content.
+
+Personal data may be processed to do the following: use precise geolocation data and actively scan device characteristics for identification.
+
+Our third party IAB TCF partners may store and access information on your device such as IP address and device characteristics. Our IAB TCF Partners may process this personal data on the basis of legitimate interest, or with your consent. You may change or withdraw your preferences at any time by clicking on the cookie icon or link; however, as a consequence, you may not see relevant ads or personalized content. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+Third Parties
+
+Storage
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Tampa Bay Rays Schedule
+San Diego Padres Schedule
+San Diego Padres vs Tampa Bay Rays Box Score: August 30, 2024
+MLB Scores — August 30, 2024
+MIL	5	Final
+CIN	4	(10)
+MIL	14	Final
+CIN	0	
+BOS	7	Final
+DET	5	(10)
+ATL	7	Final
+PHI	2	
+CHC	7	Final
+WSN	6	
+SDP	13	Final
+TBR	5	
+STL	3	Final
+NYY	6	
+PIT	8	Final
+CLE	10	
+OAK	9	Final
+TEX	2	
+NYM	5	Final
+CHW	1	
+KCR	2	Final
+HOU	3	
+TOR	0	Final
+MIN	2	
+BAL	5	Final
+COL	3	
+SEA	9	Final
+LAA	5	
+LAD	10	Final
+ARI	9	
+MIA	1	Final
+SFG	3	
+MLB Scores & Standings on this Day
+San Diego Padres
+13
+77-60
+Prev Game Next Game
+ 
+Tampa Bay Rays
+5
+66-68
+Prev Game Next Game
+Friday, August 30, 2024
+Start Time: 6:50 p.m. Local
+Attendance: 17,547
+Venue: Tropicana Field
+Game Duration: 3:26
+Night Game, on artificial turf
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	San Diego Padres	3	4	1	2	0	0	0	0	3	13	13	1
+
+	Tampa Bay Rays	0	4	0	0	0	0	0	1	0	5	10	0
+WP: Martín Pérez (4-5) • LP: Taj Bradley (6-9)
+San Diego Padres 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Jurickson Profar LF	2	2	1	0	4	0	6	.283	.384	.465	.848	25	10	0.082	0.57	0.082	-0.001	0.06%	0.63	1.6	1	0	SB,IW
+Donovan Solano 3B	5	0	1	3	1	1	6	.295	.348	.415	.764	32	21	0.001	0.72	0.062	-0.061	0%	0.80	1.5	1	0	
+Jake Cronenworth 1B	6	2	2	1	0	2	6	.246	.321	.399	.720	23	19	0.083	0.59	0.117	-0.034	0.06%	0.65	-0.1	5	1	
+Manny Machado DH	5	2	3	4	0	0	5	.274	.325	.466	.791	26	17	0.189	0.61	0.197	-0.009	0.13%	0.68	3.7	0	0	HR
+Xander Bogaerts 2B	3	2	1	2	1	0	5	.268	.311	.372	.683	19	10	0.036	0.41	0.040	-0.004	0.02%	0.46	1.1	2	1	HR,SB,SF
+Jackson Merrill CF	5	0	2	1	0	0	5	.292	.325	.493	.817	16	10	0.050	0.39	0.076	-0.026	0.03%	0.43	0.5	3	0	
+David Peralta RF	3	2	2	2	0	1	3	.278	.340	.438	.778	14	9	0.108	0.63	0.122	-0.014	0.07%	0.70	2.4	2	0	HR
+   Bryce Johnson PH-RF	2	1	0	0	0	0	2	.206	.286	.238	.524	7	4	-0.003	0.04	0.000	-0.003	-0.00%	0.05	-0.6	0	0	
+Luis Campusano C	2	2	1	0	2	0	5	.233	.283	.372	.655	21	10	0.031	0.27	0.032	-0.002	0.02%	0.30	1.3	13	0	HBP
+Mason McCoy SS	5	0	0	0	0	4	5	.214	.333	.250	.583	20	16	-0.071	0.40	0.000	-0.071	-0.05%	0.45	-2.6	0	3	GDP
+																							
+Martín Pérez P																					0	1	
+   Sean Reynolds P																					0	0	
+   Jeremiah Estrada P																					0	0	
+   Tanner Scott P																					0	0	
+   Adrián Morejón P																					0	0	
+Team Totals	38	13	13	13	8	8	48	.342	.458	.579	1.037	203	126	0.506	0.50	0.728	-0.225	0.34%	0.55	8.7	27	6	
+HR: Manny Machado (23, off Taj Bradley, 2nd inn, 2 on, 2 outs to Deep CF-RF); David Peralta (7, off Erasmo Ramírez, 4th inn, 1 on, 2 outs to Deep RF Line); Xander Bogaerts (7, off Garrett Cleavinger, 9th inn, 0 on, 0 outs to Deep LF).
+SF: Xander Bogaerts (4, off Taj Bradley).
+IBB: Jurickson Profar (4, by Erasmo Ramírez).
+HBP: Luis Campusano (1, by Garrett Cleavinger).
+TB: Manny Machado 6; David Peralta 5; Xander Bogaerts 4; Jake Cronenworth 2; Jackson Merrill 2; Luis Campusano; Donovan Solano; Jurickson Profar.
+GIDP: Mason McCoy (1).
+RBI: Manny Machado 4 (83); Donovan Solano 3 (31); Xander Bogaerts 2 (31); David Peralta 2 (25); Jake Cronenworth (76); Jackson Merrill (77).
+2-out RBI: Donovan Solano 3; Manny Machado 3; David Peralta 2; Jackson Merrill; Jake Cronenworth.
+Team LOB: 8.
+With RISP: 7 for 13.
+Fielding
+DP: 1. Mason McCoy-Xander Bogaerts-Jake Cronenworth.
+E: Xander Bogaerts (6).
+Baserunning
+SB: Jurickson Profar (8, 2nd base off Taj Bradley/Alex Jackson); Xander Bogaerts (9, 2nd base off Erasmo Ramírez/Alex Jackson).
+Tampa Bay Rays 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Yandy Díaz 1B	2	1	2	2	1	0	3	.276	.331	.406	.737	17	9	0.151	0.70	0.151	0.000	0.02%	0.18	2.5	0	0	HR
+   Jonathan Aranda PR-1B	2	0	0	1	0	1	2	.204	.278	.306	.584	12	7	-0.018	0.42	0.000	-0.018	-0.00%	0.10	-0.3	3	0	
+Junior Caminero 3B	5	0	0	0	0	2	5	.254	.313	.424	.736	22	14	-0.110	0.71	0.000	-0.110	-0.02%	0.18	-2.5	0	1	GDP
+Dylan Carlson LF	4	0	0	0	1	2	5	.204	.288	.290	.578	26	14	0.010	0.42	0.036	-0.027	0.00%	0.11	-0.5	2	0	
+Josh Lowe RF	4	0	2	0	1	2	5	.242	.299	.412	.711	23	14	0.000	0.59	0.044	-0.044	0%	0.15	0.1	1	0	
+José Caballero 2B	5	0	1	0	0	2	5	.226	.284	.364	.648	26	19	-0.074	0.67	0.005	-0.079	-0.01%	0.17	-1.0	3	1	
+Christopher Morel DH	4	1	1	0	1	0	5	.194	.295	.356	.651	17	11	-0.005	0.37	0.025	-0.030	-0.00%	0.09	0.1	0	0	
+Jonny DeLuca CF	4	1	1	0	0	1	4	.194	.262	.306	.569	17	11	-0.005	0.55	0.039	-0.044	-0.00%	0.14	-0.1	5	0	
+Taylor Walls SS	3	2	2	2	1	1	4	.171	.285	.226	.511	19	11	0.062	0.45	0.072	-0.009	0.01%	0.11	2.0	5	3	
+Alex Jackson C	3	0	1	0	1	2	4	.122	.201	.237	.439	21	12	-0.006	0.45	0.030	-0.036	-0.00%	0.12	0.3	8	0	2B
+																							
+Taj Bradley P																					0	0	
+   Erasmo Ramírez P																					0	0	
+   Richard Lovelady P																					0	0	
+   Manuel Rodríguez P																					0	0	
+   Garrett Cleavinger P																					0	0	
+Team Totals	36	5	10	5	6	13	42	.278	.381	.389	.770	200	122	0.005	0.53	0.402	-0.397	-0.00%	0.14	0.7	27	5	
+2B: Alex Jackson (7, off Martín Pérez).
+HR: Yandy Díaz (12, off Martín Pérez, 2nd inn, 1 on, 1 out to Deep LF).
+TB: Yandy Díaz 5; Alex Jackson 2; Josh Lowe 2; Taylor Walls 2; Christopher Morel; Jonny DeLuca; José Caballero.
+GIDP: Junior Caminero (1).
+RBI: Yandy Díaz 2 (59); Taylor Walls 2 (7); Jonathan Aranda (4).
+Team LOB: 10.
+With RISP: 3 for 11.
+Fielding
+DP: 1. Taylor Walls-José Caballero-Jonathan Aranda.
+PB: Alex Jackson (4).
+San Diego Padres 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Martín Pérez, W (4-5)	5	7	4	4	3	4	1	4.71	24	101	63	36	10	17	7	10	3	0	38			-0.032	0.74	-0.02%	0.82	-1.6
+Sean Reynolds	1.2	2	0	0	1	5	0	0.82	8	47	30	13	10	7	2	0	0	0		0	0	0.015	0.20	0.01%	0.22	0.5
+Jeremiah Estrada	1	1	1	1	2	1	0	3.40	6	36	19	14	5	0	1	2	1	0		2	0	0.006	0.47	0.00%	0.52	-0.4
+Tanner Scott	0.1	0	0	0	0	1	0	1.53	1	4	3	0	2	1	0	0	0	0		1	0	0.006	0.21	0.00%	0.23	0.4
+Adrián Morejón	1	0	0	0	0	2	0	2.91	3	12	7	1	4	2	0	1	0	0		0	0	0.001	0.01	0.00%	0.01	0.5
+Team Totals	9	10	5	5	6	13	1	5.00	42	200	122	64	31	27	10	13	4	0	38	3	0	-0.004	0.53	-0.00%	0.59	-0.7
+
+Tampa Bay Rays 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Taj Bradley, L (6-9)	2.1	8	8	8	2	2	1	4.35	17	71	47	29	7	11	2	11	6	0	9			-0.429	0.89	-0.07%	0.23	-6.5
+Erasmo Ramírez	2.2	1	2	2	4	4	1	4.35	13	57	32	14	9	9	0	5	1	0		2	1	-0.079	0.54	-0.01%	0.14	-1.2
+Richard Lovelady	2	1	0	0	1	0	0	5.18	7	28	16	10	0	6	3	3	1	0		0	0	0.008	0.09	0.00%	0.02	1.0
+Manuel Rodríguez	1	0	0	0	0	1	0	2.20	3	18	14	7	2	5	1	1	0	0		0	0	0.002	0.02	0.00%	0.01	0.5
+Garrett Cleavinger	1	3	3	3	1	1	1	3.23	8	29	17	9	3	5	3	2	0	0		0	0	-0.005	0.01	-0.00%	0.00	-2.5
+Team Totals	9	13	13	13	8	8	3	13.00	48	203	126	69	21	36	9	22	8	0	9	2	1	-0.503	0.50	-0.08%	0.13	-8.7
+
+Balks: None.
+WP: Jeremiah Estrada (4); Taj Bradley (3); Erasmo Ramírez (2).
+HBP: Garrett Cleavinger (7; Luis Campusano).
+IBB: Erasmo Ramírez (1; Jurickson Profar).
+Pickoffs: None.
+Other Info 
+Umpires: HP - Hunter Wendelstedt, 1B - John Tumpane, 2B - Jonathan Parra, 3B - Marvin Hudson, LF - (none), RF - (none).
+Time of Game: 3:26.
+Attendance: 17,547.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Padres
+1	Jurickson Profar	LF
+2	Donovan Solano	3B
+3	Jake Cronenworth	1B
+4	Manny Machado	DH
+5	Xander Bogaerts	2B
+6	Jackson Merrill	CF
+7	David Peralta	RF
+8	Luis Campusano	C
+9	Mason McCoy	SS
+	Martín Pérez	P
+Rays
+1	Yandy Díaz	1B
+2	Junior Caminero	3B
+3	Dylan Carlson	LF
+4	Josh Lowe	RF
+5	José Caballero	2B
+6	Christopher Morel	DH
+7	Jonny DeLuca	CF
+8	Taylor Walls	SS
+9	Alex Jackson	C
+	Taj Bradley	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - San Diego Padres vs. Tampa Bay Rays, August 30 2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+t8
+t9
+b9
+TBR
+50%
+SDP
+Inning	Win Pct
+1	0.5
+2	0.54
+3	0.5
+4	0.52
+5	0.57
+6	0.66
+7	0.68
+8	0.76
+9	0.74
+10	0.71
+11	0.74
+12	0.71
+13	0.75
+14	0.79
+15	0.81
+16	0.79
+17	0.81
+18	0.78
+19	0.85
+20	0.95
+21	0.95
+22	0.94
+23	0.9
+24	0.85
+25	0.88
+26	0.78
+27	0.8
+28	0.8
+29	0.79
+30	0.81
+31	0.82
+32	0.83
+33	0.85
+34	0.81
+35	0.82
+36	0.88
+37	0.85
+38	0.82
+39	0.85
+40	0.87
+41	0.89
+42	0.88
+43	0.89
+44	0.88
+45	0.88
+46	0.88
+47	0.95
+48	0.95
+49	0.96
+50	0.94
+51	0.92
+52	0.97
+53	0.96
+54	0.97
+55	0.96
+56	0.96
+57	0.97
+58	0.96
+59	0.97
+60	0.98
+61	0.98
+62	0.98
+63	0.97
+64	0.97
+65	0.98
+66	0.97
+67	0.98
+68	0.99
+69	0.99
+70	0.98
+71	0.98
+72	0.99
+73	0.99
+74	0.99
+75	0.98
+76	0.97
+77	0.99
+78	0.99
+79	0.99
+80	0.99
+81	0.98
+82	0.97
+83	0.96
+84	0.98
+85	0.99
+86	0.99
+87	1
+88	1
+89	1
+90	1
+91	1
+92	1
+93	1
+94	1
+95	1
+96	1
+97	1
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+t2	4-0	2	1-3	2,(0-1) 	RRR	SDP	Manny Machado	Taj Bradley	10%	95%	Home Run (Fly Ball to Deep CF-RF); J. Profar Scores; J. Cronenworth Scores
+t1	0-0	1	1-3	7,(3-2) 	R	SDP	Manny Machado	Taj Bradley	9%	66%	Single to RF (Line Drive to CF-RF); J. Profar Scores; J. Cronenworth to 3B
+b2	2-7	1	-2-	5,(2-2) 	RR	TBR	Yandy Díaz	Martín Pérez	-9%	78%	Home Run (Fly Ball to Deep LF); T. Walls Scores
+t1	2-0	2	-2-	1,(0-0) 	R	SDP	Jackson Merrill	Taj Bradley	8%	76%	Single to CF (Line Drive to Deep CF); M. Machado Scores
+t2	3-0	2	12-	3,(1-1) 	R	SDP	Jake Cronenworth	Taj Bradley	7%	85%	Single to RF (Ground Ball thru 2B-1B); L. Campusano Scores; J. Profar to 3B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Rays' Taj Bradley facing 1-2-3
+t1	0-0	0	---	5,(1-2) 		SDP	Jurickson Profar	Taj Bradley	4%	54%	Single to LF (Line Drive to Deep LF-CF)
+t1	0-0	0	1--	7,(2-2) 	O	SDP	Donovan Solano	Taj Bradley	-3%	50%	Flyball: RF (Deep RF)
+t1	0-0	1	1--	5,(1-2) 		SDP	Jake Cronenworth	Taj Bradley	2%	52%	J. Profar Steals 2B
+t1	0-0	1	-2-	6,(2-2) 		SDP	Jake Cronenworth	Taj Bradley	5%	57%	Single to LF (Line Drive to Short LF-CF); J. Profar to 3B
+t1	0-0	1	1-3	7,(3-2) 	R	SDP	Manny Machado	Taj Bradley	9%	66%	Single to RF (Line Drive to CF-RF); J. Profar Scores; J. Cronenworth to 3B
+t1	1-0	1	1-3	1,(0-0) 	RO	SDP	Xander Bogaerts	Taj Bradley	2%	68%	Flyball: CF/Sacrifice Fly (Deep CF); J. Cronenworth Scores; M. Machado to 2B
+t1	2-0	2	-2-	1,(0-0) 	R	SDP	Jackson Merrill	Taj Bradley	8%	76%	Single to CF (Line Drive to Deep CF); M. Machado Scores
+t1	3-0	2	1--	4,(1-2) 	O	SDP	David Peralta	Taj Bradley	-1%	74%	Strikeout Looking
+									3 runs, 4 hits, 0 errors, 1 LOB. Padres 3, Rays 0.
+Bottom of the 1st, Rays Batting, Behind 0-3, Padres' Martín Pérez facing 1-2-3
+b1	0-3	0	---	7,(3-2) 		TBR	Yandy Díaz	Martín Pérez	-4%	71%	Walk
+b1	0-3	0	1--	5,(3-1) 	O	TBR	Junior Caminero	Martín Pérez	3%	74%	Fielder's Choice 2B; Y. Díaz out at 3B/1B-3B/Adv on E4; J. Caminero to 1B
+b1	0-3	1	1--	8,(3-2) 		TBR	Dylan Carlson	Martín Pérez	-4%	71%	Walk; J. Caminero to 2B
+b1	0-3	1	12-	7,(1-2) 	O	TBR	Josh Lowe	Martín Pérez	4%	75%	Strikeout Swinging
+b1	0-3	2	12-	5,(2-2) 	O	TBR	José Caballero	Martín Pérez	4%	79%	Flyball: CF
+									0 runs, 0 hits, 1 error, 2 LOB. Padres 3, Rays 0.
+Top of the 2nd, Padres Batting, Ahead 3-0, Rays' Taj Bradley facing 8-9-1
+t2	3-0	0	---	1,(0-0) 		SDP	Luis Campusano	Taj Bradley	2%	81%	Single to LF (Line Drive to Deep LF)
+t2	3-0	0	1--	4,(1-2) 	O	SDP	Mason McCoy	Taj Bradley	-2%	79%	Strikeout Swinging
+t2	3-0	1	1--	7,(3-2) 		SDP	Jurickson Profar	Taj Bradley	2%	81%	Walk; L. Campusano to 2B
+t2	3-0	1	12-	5,(1-2) 	O	SDP	Donovan Solano	Taj Bradley	-3%	78%	Flyball: LF (Deep LF-CF)
+t2	3-0	2	12-	3,(1-1) 	R	SDP	Jake Cronenworth	Taj Bradley	7%	85%	Single to RF (Ground Ball thru 2B-1B); L. Campusano Scores; J. Profar to 3B
+t2	4-0	2	1-3	2,(0-1) 	RRR	SDP	Manny Machado	Taj Bradley	10%	95%	Home Run (Fly Ball to Deep CF-RF); J. Profar Scores; J. Cronenworth Scores
+t2	7-0	2	---	5,(2-2) 	O	SDP	Xander Bogaerts	Taj Bradley	0%	95%	Flyball: CF (CF-RF)
+									4 runs, 3 hits, 0 errors, 0 LOB. Padres 7, Rays 0.
+Bottom of the 2nd, Rays Batting, Behind 0-7, Padres' Martín Pérez facing 6-7-8
+b2	0-7	0	---	3,(1-1) 		TBR	Christopher Morel	Martín Pérez	-1%	94%	Single to CF (Ground Ball thru SS-2B)
+b2	0-7	0	1--	1,(0-0) 		TBR	Jonny DeLuca	Martín Pérez	-4%	90%	Single to CF (Line Drive to Deep LF-CF); C. Morel to 3B; J. DeLuca to 2B
+b2	0-7	0	-23	1,(0-0) 	RR	TBR	Taylor Walls	Martín Pérez	-5%	85%	Single to CF (Line Drive to LF-CF); C. Morel Scores; J. DeLuca Scores; T. Walls to 2B
+b2	2-7	0	-2-	5,(2-2) 	O	TBR	Alex Jackson	Martín Pérez	3%	88%	Strikeout Swinging
+b2	2-7	1	-2-	5,(2-2) 	RR	TBR	Yandy Díaz	Martín Pérez	-9%	78%	Home Run (Fly Ball to Deep LF); T. Walls Scores
+b2	4-7	1	---	2,(1-0) 	O	TBR	Junior Caminero	Martín Pérez	1%	80%	Groundout: SS-1B
+b2	4-7	2	---	4,(2-1) 	O	TBR	Dylan Carlson	Martín Pérez	1%	80%	Groundout: P-1B (Weak SS-2B)
+									4 runs, 4 hits, 0 errors, 0 LOB. Padres 7, Rays 4.
+Top of the 3rd, Padres Batting, Ahead 7-4, Rays' Taj Bradley facing 6-7-8
+t3	7-4	0	---	3,(1-1) 	O	SDP	Jackson Merrill	Taj Bradley	-1%	79%	Lineout: SS (SS-2B)
+t3	7-4	1	---	4,(1-2) 		SDP	David Peralta	Taj Bradley	1%	81%	Single to LF (Ground Ball)
+t3	7-4	1	1--	4,(1-2) 		SDP	Luis Campusano	Taj Bradley	1%	82%	Wild Pitch; D. Peralta to 2B
+t3	7-4	1	-2-	6,(3-2) 		SDP	Luis Campusano	Taj Bradley	1%	83%	Walk
+									
+Erasmo Ramírez replaces Taj Bradley pitching
+
+t3	7-4	1	12-	3,(0-2) 		SDP	Mason McCoy	Erasmo Ramírez	3%	85%	Wild Pitch; D. Peralta to 3B; L. Campusano to 2B
+t3	7-4	1	-23	6,(1-2) 	O	SDP	Mason McCoy	Erasmo Ramírez	-4%	81%	Strikeout Looking
+t3	7-4	2	-23	2,(3-0) 		SDP	Jurickson Profar	Erasmo Ramírez	1%	82%	Intentional Walk
+t3	7-4	2	123	6,(3-2) 	R	SDP	Donovan Solano	Erasmo Ramírez	6%	88%	Walk; D. Peralta Scores; L. Campusano to 3B; J. Profar to 2B
+t3	8-4	2	123	3,(0-2) 	O	SDP	Jake Cronenworth	Erasmo Ramírez	-3%	85%	Strikeout Swinging
+									1 run, 1 hit, 0 errors, 3 LOB. Padres 8, Rays 4.
+Bottom of the 3rd, Rays Batting, Behind 4-8, Padres' Martín Pérez facing 4-5-6
+b3	4-8	0	---	5,(3-1) 		TBR	Josh Lowe	Martín Pérez	-3%	82%	Walk
+b3	4-8	0	1--	5,(1-2) 	O	TBR	José Caballero	Martín Pérez	3%	85%	Strikeout Swinging
+b3	4-8	1	1--	4,(1-2) 	O	TBR	Christopher Morel	Martín Pérez	2%	87%	Flyball: RF (Deep CF-RF)
+b3	4-8	2	1--	6,(2-2) 	O	TBR	Jonny DeLuca	Martín Pérez	2%	89%	Flyball: LF (Deep LF-CF)
+									0 runs, 0 hits, 0 errors, 1 LOB. Padres 8, Rays 4.
+Top of the 4th, Padres Batting, Ahead 8-4, Rays' Erasmo Ramírez facing 4-5-6
+t4	8-4	0	---	7,(3-2) 	O	SDP	Manny Machado	Erasmo Ramírez	-1%	88%	Lineout: CF (Deep CF)
+t4	8-4	1	---	6,(3-2) 		SDP	Xander Bogaerts	Erasmo Ramírez	1%	89%	Walk
+t4	8-4	1	1--	4,(2-1) 	O	SDP	Jackson Merrill	Erasmo Ramírez	-1%	88%	Flyball: CF (Deep CF)
+t4	8-4	2	1--	4,(1-2) 		SDP	David Peralta	Erasmo Ramírez	0%	88%	X. Bogaerts Steals 2B
+t4	8-4	2	-2-	5,(2-2) 		SDP	David Peralta	Erasmo Ramírez	0%	88%	Passed Ball; X. Bogaerts to 3B
+t4	8-4	2	--3	6,(3-2) 	RR	SDP	David Peralta	Erasmo Ramírez	7%	95%	Home Run (Fly Ball to Deep RF Line); X. Bogaerts Scores
+t4	10-4	2	---	2,(0-1) 	O	SDP	Luis Campusano	Erasmo Ramírez	0%	95%	Popfly: SS (Short LF-CF)
+									2 runs, 1 hit, 0 errors, 0 LOB. Padres 10, Rays 4.
+Bottom of the 4th, Rays Batting, Behind 4-10, Padres' Martín Pérez facing 8-9-1
+b4	4-10	0	---	8,(2-2) 	O	TBR	Taylor Walls	Martín Pérez	1%	96%	Strikeout Swinging
+b4	4-10	1	---	3,(1-1) 		TBR	Alex Jackson	Martín Pérez	-2%	94%	Double to CF (Line Drive to Deep LF-CF)
+b4	4-10	1	-2-	5,(2-2) 		TBR	Yandy Díaz	Martín Pérez	-2%	92%	Single to LF (Ground Ball thru SS-3B Hole); A. Jackson to 3B
+									
+Jonathan Aranda pinch runs for Yandy Díaz (1B) batting 1st
+
+b4	4-10	1	1-3	3,(1-1) 	OO	TBR	Junior Caminero	Martín Pérez	5%	97%	Ground Ball Double Play: SS-2B-1B
+									0 runs, 2 hits, 0 errors, 1 LOB. Padres 10, Rays 4.
+Top of the 5th, Padres Batting, Ahead 10-4, Rays' Erasmo Ramírez facing 9-1-2
+									
+Jonathan Aranda moves from PR to 1B
+
+t5	10-4	0	---	3,(0-2) 	O	SDP	Mason McCoy	Erasmo Ramírez	0%	96%	Strikeout Swinging
+t5	10-4	1	---	5,(3-1) 		SDP	Jurickson Profar	Erasmo Ramírez	0%	97%	Walk
+t5	10-4	1	1--	2,(1-0) 	O	SDP	Donovan Solano	Erasmo Ramírez	0%	97%	Flyball: LF (Deep LF-CF); J. Profar to 2B
+t5	10-4	2	-2-	5,(1-2) 	O	SDP	Jake Cronenworth	Erasmo Ramírez	0%	96%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 1 LOB. Padres 10, Rays 4.
+Bottom of the 5th, Rays Batting, Behind 4-10, Padres' Martín Pérez facing 3-4-5
+b5	4-10	0	---	4,(2-1) 	O	TBR	Dylan Carlson	Martín Pérez	1%	97%	Flyball: RF (Deep RF Line)
+b5	4-10	1	---	1,(0-0) 		TBR	Josh Lowe	Martín Pérez	-1%	96%	Single to RF (Ground Ball)
+b5	4-10	1	1--	2,(0-1) 	O	TBR	José Caballero	Martín Pérez	1%	97%	Flyball: CF
+b5	4-10	2	1--	2,(0-1) 	O	TBR	Christopher Morel	Martín Pérez	1%	98%	Popfly: 2B (Deep 2B)
+									0 runs, 1 hit, 0 errors, 1 LOB. Padres 10, Rays 4.
+Top of the 6th, Padres Batting, Ahead 10-4, Rays' Richard Lovelady facing 4-5-6
+									
+Richard Lovelady replaces Erasmo Ramírez pitching
+
+t6	10-4	0	---	4,(1-2) 		SDP	Manny Machado	Richard Lovelady	0%	98%	Single to LF (Ground Ball thru SS-3B Hole)
+t6	10-4	0	1--	5,(2-2) 	O	SDP	Xander Bogaerts	Richard Lovelady	0%	98%	Popfly: 2B (2B-1B)
+t6	10-4	1	1--	2,(1-0) 	O	SDP	Jackson Merrill	Richard Lovelady	0%	97%	Popfly: SS (Deep SS)
+									
+Bryce Johnson pinch hits for David Peralta (RF) batting 7th
+
+t6	10-4	2	1--	5,(3-1) 	O	SDP	Bryce Johnson	Richard Lovelady	0%	97%	Lineout: CF (Deep CF)
+									0 runs, 1 hit, 0 errors, 1 LOB. Padres 10, Rays 4.
+Bottom of the 6th, Rays Batting, Behind 4-10, Padres' Sean Reynolds facing 7-8-9
+									
+Sean Reynolds replaces Martín Pérez pitching
+Bryce Johnson moves from PH to RF
+
+b6	4-10	0	---	5,(2-2) 	O	TBR	Jonny DeLuca	Sean Reynolds	1%	98%	Strikeout Looking
+b6	4-10	1	---	6,(3-2) 		TBR	Taylor Walls	Sean Reynolds	-1%	97%	Walk
+b6	4-10	1	1--	6,(2-2) 	O	TBR	Alex Jackson	Sean Reynolds	1%	98%	Strikeout Swinging
+b6	4-10	2	1--	5,(2-2) 	O	TBR	Jonathan Aranda	Sean Reynolds	1%	99%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 1 LOB. Padres 10, Rays 4.
+Top of the 7th, Padres Batting, Ahead 10-4, Rays' Richard Lovelady facing 8-9-1
+t7	10-4	0	---	8,(3-2) 		SDP	Luis Campusano	Richard Lovelady	0%	99%	Walk
+t7	10-4	0	1--	3,(1-1) 	OO	SDP	Mason McCoy	Richard Lovelady	0%	98%	Ground Ball Double Play: SS-2B-1B
+t7	10-4	2	---	1,(0-0) 	O	SDP	Jurickson Profar	Richard Lovelady	0%	98%	Groundout: 3B-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 10, Rays 4.
+Bottom of the 7th, Rays Batting, Behind 4-10, Padres' Sean Reynolds facing 2-3-4
+b7	4-10	0	---	6,(1-2) 	O	TBR	Junior Caminero	Sean Reynolds	1%	99%	Strikeout Swinging
+b7	4-10	1	---	6,(3-2) 	O	TBR	Dylan Carlson	Sean Reynolds	0%	99%	Strikeout Looking
+b7	4-10	2	---	5,(2-2) 		TBR	Josh Lowe	Sean Reynolds	0%	99%	Single to RF (Ground Ball thru 2B-1B)
+b7	4-10	2	1--	8,(1-2) 		TBR	José Caballero	Sean Reynolds	0%	98%	Single to LF (Ground Ball thru SS-3B Hole); J. Lowe to 2B
+									
+Jeremiah Estrada replaces Sean Reynolds pitching
+
+b7	4-10	2	12-	7,(3-2) 		TBR	Christopher Morel	Jeremiah Estrada	-1%	97%	Walk; J. Lowe to 3B; J. Caballero to 2B
+b7	4-10	2	123	5,(2-2) 	O	TBR	Jonny DeLuca	Jeremiah Estrada	2%	99%	Popfly: 1B (Deep 1B)
+									0 runs, 2 hits, 0 errors, 3 LOB. Padres 10, Rays 4.
+Top of the 8th, Padres Batting, Ahead 10-4, Rays' Manuel Rodríguez facing 2-3-4
+									
+Manuel Rodríguez replaces Richard Lovelady pitching
+
+t8	10-4	0	---	8,(2-2) 	O	SDP	Donovan Solano	Manuel Rodríguez	0%	99%	Strikeout Swinging
+t8	10-4	1	---	4,(0-2) 	O	SDP	Jake Cronenworth	Manuel Rodríguez	0%	99%	Popfly: SS (Deep SS-2B)
+t8	10-4	2	---	6,(2-2) 	O	SDP	Manny Machado	Manuel Rodríguez	0%	99%	Groundout: SS-1B (SS-3B Hole)
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 10, Rays 4.
+Bottom of the 8th, Rays Batting, Behind 4-10, Padres' Jeremiah Estrada facing 8-9-1
+b8	4-10	0	---	4,(2-1) 		TBR	Taylor Walls	Jeremiah Estrada	-1%	98%	Single to RF (Line Drive to Deep CF-RF)
+b8	4-10	0	1--	7,(3-2) 		TBR	Alex Jackson	Jeremiah Estrada	-2%	97%	Walk; T. Walls to 2B
+b8	4-10	0	12-	3,(1-1) 		TBR	Jonathan Aranda	Jeremiah Estrada	-1%	96%	Wild Pitch; T. Walls to 3B; A. Jackson to 2B
+b8	4-10	0	-23	7,(3-2) 	RO	TBR	Jonathan Aranda	Jeremiah Estrada	1%	98%	Groundout: SS-1B (SS-2B); T. Walls Scores; A. Jackson to 3B
+b8	5-10	1	--3	6,(2-2) 	O	TBR	Junior Caminero	Jeremiah Estrada	1%	99%	Strikeout Swinging
+									
+Tanner Scott replaces Jeremiah Estrada pitching
+
+b8	5-10	2	--3	4,(1-2) 	O	TBR	Dylan Carlson	Tanner Scott	1%	99%	Strikeout Swinging
+									1 run, 1 hit, 0 errors, 1 LOB. Padres 10, Rays 5.
+Top of the 9th, Padres Batting, Ahead 10-5, Rays' Garrett Cleavinger facing 5-6-7
+									
+Garrett Cleavinger replaces Manuel Rodríguez pitching
+
+t9	10-5	0	---	2,(1-0) 	R	SDP	Xander Bogaerts	Garrett Cleavinger	0%	100%	Home Run (Fly Ball to Deep LF)
+t9	11-5	0	---	6,(2-2) 		SDP	Jackson Merrill	Garrett Cleavinger	0%	100%	Single to LF (Fly Ball to Short LF-CF)
+t9	11-5	0	1--	2,(0-1) 	O	SDP	Bryce Johnson	Garrett Cleavinger	0%	100%	Groundout: SS-2B/Forceout at 2B; B. Johnson to 1B
+t9	11-5	1	1--	4,(2-1) 		SDP	Luis Campusano	Garrett Cleavinger	0%	100%	Hit By Pitch; B. Johnson to 2B
+									Hit by Pitch Challenged by TBR manager (Kevin Cash): Original call upheld upon review.
+t9	11-5	1	12-	4,(1-2) 	O	SDP	Mason McCoy	Garrett Cleavinger	0%	100%	Strikeout Swinging
+t9	11-5	2	12-	5,(3-1) 		SDP	Jurickson Profar	Garrett Cleavinger	0%	100%	Walk; B. Johnson to 3B; L. Campusano to 2B
+t9	11-5	2	123	4,(1-2) 	RR	SDP	Donovan Solano	Garrett Cleavinger	0%	100%	Single to CF (Ground Ball thru SS-2B); B. Johnson Scores; L. Campusano Scores; J. Profar to 3B
+t9	13-5	2	1-3	2,(0-1) 	O	SDP	Jake Cronenworth	Garrett Cleavinger	0%	100%	Groundout: SS unassisted/Forceout at 2B (SS-2B); J. Cronenworth to 1B
+									3 runs, 3 hits, 0 errors, 2 LOB. Padres 13, Rays 5.
+Bottom of the 9th, Rays Batting, Behind 5-13, Padres' Adrián Morejón facing 4-5-6
+									
+Adrián Morejón replaces Tanner Scott pitching
+
+b9	5-13	0	---	5,(2-2) 	O	TBR	Josh Lowe	Adrián Morejón	0%	100%	Strikeout Swinging
+b9	5-13	1	---	6,(3-2) 	O	TBR	José Caballero	Adrián Morejón	0%	100%	Strikeout Swinging
+b9	5-13	2	---	1,(0-0) 	O	TBR	Christopher Morel	Adrián Morejón	0%	100%	Flyball: CF (Deep CF)
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 13, Rays 5.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Tampa Bay Rays Schedule San Diego Padres Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > San Diego Padres vs Tampa Bay Rays Box Score: August 30, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Sunday, January 12, 11:17PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/TBA/TBA202408300.shtml 
+ ----- 

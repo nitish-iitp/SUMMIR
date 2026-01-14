@@ -1,0 +1,1099 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Observation & Sighting Devices
+New RF bino from Vectronix!!! Vector X
+ 
+Thread starter
+Covertnoob5  
+Start date
+Feb 29, 2024
+Prev
+1
+	
+2
+	
+3
+	
+4
+	
+5
+	
+6
+	
+…
+	
+9
+Next
+UNRL Ghandi
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 21, 2011
+673
+936
+Maryland
+Mar 1, 2024
+#151
+Do the extenders cause any image quality degradation? I'd think if you put another piece of glass in front of the primary glass it's going to have a negative effect but is it noticeable?
+ 
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,297
+4,367
+Texas
+Mar 1, 2024
+#152
+I can only speak from anecdotal experience with Vector 21's and the 10x extenders. Never noticed any large amount of image or laser performance degradation.
+
+However, we are talking a significantly more expensive unit (which in turn means different internals), and going from 7x to 10x with extenders.
+ 
+Glassaholic
+Optical theorist and conjecturer
+Full Member
+Minuteman
+Nov 30, 2012
+8,443
+9,943
+Panhandle, FL
+Mar 1, 2024
+#153
+UNRL Ghandi said:
+Do the extenders cause any image quality degradation? I'd think if you put another piece of glass in front of the primary glass it's going to have a negative effect but is it noticeable?
+A lot depends on the design. In the camera (lens) world, adding a 1.4x teleconverter to a professional lens only degrades the image slightly in modern design mirrorless lens systems. If Vectronix did their homework (and I assume they did) then likely these 1.4x extenders will offer minor degradation in quality, but we won't know for sure until they get into the field.
+ 
+ 
+Reactions:
+UNRL Ghandi
+Glassaholic
+Optical theorist and conjecturer
+Full Member
+Minuteman
+Nov 30, 2012
+8,443
+9,943
+Panhandle, FL
+Mar 1, 2024
+#154
+Terry Cross said:
+I called myself reading the entire thread and their factory spec sheets but can't find anything on my question...
+Will screwing the Range Extenders on to the front degrade the LRF sensitivity?
+
+Aren't these units generating as well as receiving through the lens? It would seem that adding another lens pack in front would carry a performance penalty. Is this a valid assumption?
+
+@Glassaholic , @BigJimFish ?
+
+.
+Click to expand...
+Jim will likely know more about this than me but I can say this, when putting a killflash on the Vortex Impact 4000 it does not affect the LRF unit effectiveness much to my surprise (I thought the metal honeycomb would have effected the laser a lot more than it does), I would be surprised if the extenders degrade the LRF effectiveness by very much if any but I would be curious if the manufacturer has done any calibrated testing on this? @Philip_at_Vectronix ?
+ 
+ 
+Reactions:
+Terry Cross
+CoryT
+Gunsite Rangemaster
+Commercial Supporter
+Full Member
+Minuteman
+Mar 5, 2004
+2,361
+1,721
+67
+Paulden, AZ
+www.gunsite.com
+Mar 1, 2024
+#155
+Terry Cross said:
+I called myself reading the entire thread and their factory spec sheets but can't find anything on my question...
+Will screwing the Range Extenders on to the front degrade the LRF sensitivity?
+
+Aren't these units generating as well as receiving through the lens? It would seem that adding another lens pack in front would carry a performance penalty. Is this a valid assumption?
+
+@Glassaholic , @BigJimFish ?
+
+.
+Click to expand...
+The enhancers on the Vector IV/21 increase the range ability, by about 30%, though they have a much larger aperture. I'd expect the ranging to be minimally affected.
+ 
+ 
+Reactions:
+Terry Cross
+BigJimFish
+Full Member
+Full Member
+Minuteman
+Jul 24, 2011
+1,052
+868
+43
+Columbus, OH
+Mar 2, 2024
+#156
+Terry Cross said:
+I called myself reading the entire thread and their factory spec sheets but can't find anything on my question...
+Will screwing the Range Extenders on to the front degrade the LRF sensitivity?
+
+Aren't these units generating as well as receiving through the lens? It would seem that adding another lens pack in front would carry a performance penalty. Is this a valid assumption?
+
+@Glassaholic , @BigJimFish ?
+
+.
+Click to expand...
+The range extenders slightly improve the LRF sensitivity. I did not ask Philip why this was, but that is what he said. I assumed they just have a slightly larger lens but I haven't checked that.
+ 
+ 
+Reactions:
+*Tavman* and Terry Cross
+Philip_at_Vectronix
+Private
+Minuteman
+Jul 13, 2018
+22
+53
+Mar 2, 2024
+#157
+BigJimFish said:
+The range extenders slightly improve the LRF sensitivity. I did not ask Philip why this was, but that is what he said. I assumed they just have a slightly larger lens but I haven't checked that.
+Yes, the Enhancers got more aperture, so they even enhance/improve a bit (!) the laser range performance. I am currently at IWA show in Germany so all (lots!) private messages I got will be answered after the show.
+ 
+ 
+Reactions:
+*Tavman*, RS14, Terry Cross and 1 other person
+Burdy
+Private
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+Jul 10, 2013
+1,879
+1,793
+Mar 2, 2024
+#158
+The only thing that keeps me from buying these right off the jump is I bought the Swaro El Range 8x32s a couple months ago and love them.
+
+Comparing the two, I like the Vectronix display for both having a reticle for ranging and displaying the range and solution at the same time. That's nice, well done.
+
+I am going to guess that the laser in the Vectronix is going to be superior. On the flip side of that, I will make the assumption the glass in the SWARO will still be top of the class.
+
+Having AB is going to be huge for those that rely on it and that was my fear with the SWAROs however it's solver combined with it's onboard atmospherics has been more accurate than AB for me, likely because I can true their solver more easily. It's interesting because the Swaro app/solver seemed too "simple" to be as accurate as full featured AB, but that just isn't the case. It's spot on with it's solutions and that gives a lot of confidence. I have no doubt the Vectronix will do the same for those well versed in AB.
+
+I really wanted the 8x32 SWAROs due to the size and weight. At 24 ounces they are significantly smaller and lighter than anything else, and that was important to me. The 8x42 Vectronix weigh nearly 50% more.
+
+Finally the Swaro's have the tracking assistant which I haven't used yet but plan on getting familiar with before my hunt out west this year. It could come in handy being guided to within 10 meters or so of your last 3 ranges. Mostly this is a hunt feature, but nevertheless, worth something.
+
+With that being said, these Vectronix look awesome, and I'm half tempted to buy the large 12x for use as a spotter bino. I am trying to talk myself into justifying owning both. I'll wait to see the real world reviews first but this seems to be a manufacturer that knows what the people want.
+ 
+Last edited: Mar 2, 2024
+ 
+Reactions:
+Glassaholic
+GBMaryland
+Herr Oberst
+Supporter
+Full Member
+Minuteman
+Supporter
+Feb 24, 2008
+4,294
+4,409
+Maryland, US
+Mar 2, 2024
+#159
+I played with pretty much all of them. And while the glass is really good, and most of the European devices, the general lack of integrated functionality has always driven me a bit crazy.
+
+Given everything cost, you really want everything you can find… the glass isn’t quite as nice.
+
+That’s why I’ve been surprisingly happy with the Sig10K.
+
+This will be the first time that I think the features and the glass will be where I want them to be.
+
+I really like the fact that, even if the batteries dead, you still can do some ranging using the reticle.
+ 
+E
+Euro.Connor
+Commercial Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Oct 3, 2023
+83
+155
+PA
+www.eurooptic.com
+Mar 2, 2024
+#160
+BurtG said:
+Where do we order
+Just shoot me a message and well get you pricing
+
+Connor
+ 
+ 
+Reactions:
+BurtG
+BurtG
+GOLDEN TICKET HOLDER
+Full Member
+Minuteman
+ 
+ 
+Nov 9, 2022
+6,076
+16,635
+Northeast
+Mar 2, 2024
+#161
+Maybe I missed it but who here has had hands on experience with them ? How is glass ? Comparable to Zeiss Leica Swavorski ?
+ 
+db2000
+Supporter
+Supporter
+Full Member
+Minuteman
+Mar 27, 2020
+5,027
+4,577
+Mar 2, 2024
+#162
+Patty said:
+Yeah all of the PRS guys I’ve spoken to feel similarly. Would have loved a 15x base optic, the extender to 17 is a compromise, having a cluttered reticle on top of that, is another compromise, which starts to feel like a lot after dropping $3500+ on set of binos.
+I’m curious to see how using an extender matches up against the same mag in a base optic. My gut feels like there’s going to be image degradation of some degree but that may be an inaccurate assumption.
+ 
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,363
+Texas
+www.appliedballisticsllc.com
+Mar 2, 2024
+#163
+Terry Cross said:
+I called myself reading the entire thread and their factory spec sheets but can't find anything on my question...
+Will screwing the Range Extenders on to the front degrade the LRF sensitivity?
+
+Aren't these units generating as well as receiving through the lens? It would seem that adding another lens pack in front would carry a performance penalty. Is this a valid assumption?
+
+@Glassaholic , @BigJimFish ?
+
+.
+Click to expand...
+It increases the ranging abilities.
+ 
+ 
+Reactions:
+Terry Cross
+DocUSMCRetired
+Applied Ballistics
+Full Member
+Minuteman
+Apr 16, 2014
+1,783
+1,363
+Texas
+www.appliedballisticsllc.com
+Mar 2, 2024
+#164
+db2000 said:
+I’m curious to see how using an extender matches up against the same mag in a base optic. My gut feels like there’s going to be image degradation of some degree but that may be an inaccurate assumption.
+Some modern scopes have 20 - 30+ lenses in them with little to no degradation. Next gen scopes have 3 objective lenses like the March Highmaster. When built properly with quality glass it can be a serious advantage.
+ 
+ 
+Reactions:
+db2000
+koshkin
+Dark Lord Of Optics
+Supporter
+Full Member
+Minuteman
+Feb 22, 2006
+4,976
+8,892
+New Mexico
+www.opticsthoughts.com
+Mar 2, 2024
+#165
+db2000 said:
+I’m curious to see how using an extender matches up against the same mag in a base optic. My gut feels like there’s going to be image degradation of some degree but that may be an inaccurate assumption.
+With add-on systems like this, there is usually some image degradation. However, a lot of that is execution. If these are done well (and it sounds like they are based on what people who have seen them are saying), there does not have to be perceivable image degradation. Afocal multipliers seem to have gotten a lot better in the last couple of years, so I would not be surprised if these are really excellent.
+
+ILya
+ 
+ 
+Reactions:
+BallisticPrimate, Boon20, Stangs55 and 3 others
+carbonbased
+💥💥💥💥
+Full Member
+Minuteman
+Supporter
+Legend
+Jul 26, 2018
+6,178
+10,409
+Minnesota
+Mar 2, 2024
+#166
+Secant said:
+Obviously people vary, but manufacturers tend to target ~4mm exit pupil to fit most folks. Younger people have smaller pupils, older people have larger pupils, and all our pupils dilate in lowlight conditions. It’s why you see most 10’s have a 42mm objective or larger, 12’s having a 50mm objective or larger, and most people won’t go higher than 15x with a 56mm objective, etc.
+
+I think 12x42 with a 1.4 magnifier will be fine for limited number of people in limited conditions. But if this is your primary means to glass, and that means in challenging lighting conditions and/or extended periods of time, I don’t think they’d be very popular.
+
+I’ve moved away from a spotter, and I’ll only use lrf Binos as my primary. I’m in for the 10x42 with the single mag reticle. I might get the extenders for limited use, and if so, I’d just do the basic arithmetic if I really needed to mil something with the extenders on. At least for me, that would be a very rare circumstance.
+Click to expand...
+Just throwing this out there for people that might not need all the bells and whistles (or reticles) but want a higher base mag and larger exit pupil.
+
+I use the older version of the Leica 15x56 Geovid LRF binos. They have an exit pupil of 3.7mm. I shoot in bright daylight, mainly, so that doesn’t really matter to me.
+
+I love those binos. Such a nice image.
+
+Don’t let some vendors say they are optically subpar…they render images like Leica M rangefinder camera lenses, meaning not “flat” like Swaros.
+
+The updated version goes out to 2000yds. $2k
+
+My older unit ranges out to 1200yds, or 700-900yds in pdog shooting conditions. Long enough for my use. They shoot their laser out from between the lenses like their other bino LRFs.
+
+I range and use a dope card, but it would be nice to have the solution in the bino…but I’d probably forget it going from bino to refinding the pdog in the scope lol (I use holdovers).
+
+The VectorX looks superior in almost all ways, but it’s too bad they don’t have a base mag 15x-18x version, and a 56mm objective would be nice for those in lower light conditions (not me).
+
+New version (right-hand round buttons):
+
+https://www.bhphotovideo.com/c/product/1722907-REG/leica_40814_15x56_geovid_r_binocular_rangefinder.html/specs
+
+Old version has rectangular left-hand buttons.
+
+For plain high-mag binos, the 18x56 Maven b5 was tremendous.
+ 
+R
+Russ257
+???
+Full Member
+Minuteman
+Nov 11, 2009
+152
+56
+43
+Lancaster, PA
+Mar 2, 2024
+#167
+I posted this last July. “Why doesn’t someone make a 15x binocular with an integrated range finder and a reticle? Seems to me like this cover all the bases and be great for prs competitions.and general field use. You could spot and range in one relatively compact device.” Looks like they pretty much listened.
+ 
+ 
+Reactions:
+lead ƒarmer
+JR1200W3
+Supporter
+Supporter
+Full Member
+Minuteman
+Apr 21, 2020
+1,769
+1,816
+Mar 2, 2024
+#168
+cwinner said:
+I wonder what their warranty policy will be like? I swore off Vectronix when i needed some work on an PLRF15. Hell of a range finder but if you actually use them in the field and happen drop them you'll wind up with a $3500 brick!
+
+Ask me how I know.......
+
+
+GenericBadGuy said:
+Yeah this right here, the stories of Vectronix leaving retail customers basically to deal with bricked Terrapin Xs has me pretty leary about spending on these.
+I think you're thinking of PLRFs and the original Terripans. The Terripan Xs have been warrantied. When I had an issue with mine, Phillip walked me through a few troubleshooting steps and then just exchanged my unit for a brand new one.
+ 
+ 
+Reactions:
+db2000 and kthomas
+Rio Precision Gunworks
+Supporter
+Supporter
+Commercial Supporter
+Full Member
+Minuteman
+Jan 13, 2023
+2,297
+4,367
+Texas
+Mar 2, 2024
+#169
+GenericBadGuy said:
+Yes, specifically for retail customers. If you are non-MIL and you have a problem you are probably not gonna have a good time.
+
+But, I think the 12x42 lrf bino model here lookd great. Vortex, Sig Sauer, Swarovski, Zeiss if you are reading this, this here is a product line we want.
+
+Still sounds like you're confusing the Terrapin and the Terrapin-X. The Terrapin X is a non .mil consumer/commercial grade laser just like the binos being released.
+
+And haven't heard of anyone getting stuck with a bricked Terrapin-X.
+
+The original Terrapin (plrf05) and the other PLRF's are a different story.
+ 
+ 
+Reactions:
+kthomas and RS14
+GenericBadGuy
+Major Hide Member
+Full Member
+Minuteman
+Supporter
+Dec 5, 2020
+1,710
+874
+Minnesota
+Mar 2, 2024
+#170
+Rio Precision Gunworks said:
+Still sounds like you're confusing the Terrapin and the Terrapin-X. The Terrapin X is a non .mil consumer/commercial grade laser just like the binos being released.
+
+And haven't heard of anyone getting stuck with a bricked Terrapin-X.
+
+The original Terrapin (plrf05) and the other PLRF's are a different story.
+Click to expand...
+No, I'm not confused. I am reffering to the Terrapin X. I recognize that you or others may not have heard of problems and that sounds like hearsay but take the anecdote for what it is. Me personally I'm not feeling great with their track record of after sales customer service.
+ 
+ 
+Reactions:
+jafo96
+db2000
+Supporter
+Supporter
+Full Member
+Minuteman
+Mar 27, 2020
+5,027
+4,577
+Mar 2, 2024
+#171
+GenericBadGuy said:
+No, I'm not confused. I am reffering to the Terrapin X. I recognize that you or others may not have heard of problems and that sounds like hearsay but take the anecdote for what it is. Me personally I'm not feeling great with their track record of after sales customer service.
+It would be nice, frankly, since a rep is on the thread if it was addressed. I’m sure they’re busy at IWA and will address concerns when they can.
+ 
+JR1200W3
+Supporter
+Supporter
+Full Member
+Minuteman
+Apr 21, 2020
+1,769
+1,816
+Mar 2, 2024
+#172
+GenericBadGuy said:
+No, I'm not confused. I am reffering to the Terrapin X. I recognize that you or others may not have heard of problems and that sounds like hearsay but take the anecdote for what it is. Me personally I'm not feeling great with their track record of after sales customer service.
+Did you have one of these?
+
+
+Or one of these?
+
+
+The first model wasn't warrantied. The second was.
+ 
+GenericBadGuy
+Major Hide Member
+Full Member
+Minuteman
+Supporter
+Dec 5, 2020
+1,710
+874
+Minnesota
+Mar 2, 2024
+#173
+JR1200W3 said:
+Did you have one of these?
+View attachment 8363335
+
+Or one of these?
+View attachment 8363336
+
+The first model wasn't warrantied. The second was.
+I get we are all piling on here, my reference was to the Terrapin X. I know we all need to keep asking this over and over again. Just because a company states they have a warranty doesnt mean everyone has a good expierence with that warranty okay.
+ 
+ 
+Reactions:
+*Tavman*
+JR1200W3
+Supporter
+Supporter
+Full Member
+Minuteman
+Apr 21, 2020
+1,769
+1,816
+Mar 2, 2024
+#174
+GenericBadGuy said:
+I get we are all piling on here, my reference was to the Terrapin X. I know we all need to keep asking this over and over again. Just because a company states they have a warranty doesnt mean everyone has a good expierence with that warranty okay.
+Well, I guess you're not going to want any part of the new Vectronix LRF then. Feel free to see yourself out and save the rest of us having to listen to your whining
+ 
+ 
+Reactions:
+Curahee19
+GenericBadGuy
+Major Hide Member
+Full Member
+Minuteman
+Supporter
+Dec 5, 2020
+1,710
+874
+Minnesota
+Mar 2, 2024
+#175
+JR1200W3 said:
+Well, I guess you're not going to want any part of the new Vectronix LRF then. Feel free to see yourself out and save the rest of us having to listen to your whining
+Nah, I think I will stick around thanks. But appreciate your autistic defense of Vectronix. 
+ 
+ 
+Reactions:
+jafo96, Tictacticaltimmy, Conqueror and 1 other person
+JR1200W3
+Supporter
+Supporter
+Full Member
+Minuteman
+Apr 21, 2020
+1,769
+1,816
+Mar 2, 2024
+#176
+GenericBadGuy said:
+Nah, I think I will stick around thanks. But appreciate your autistic defense of Vectronix. 
+I hope throwing that adverb in there made you feel better. I guess you're dumb enough to try anything twice.
+ 
+GenericBadGuy
+Major Hide Member
+Full Member
+Minuteman
+Supporter
+Dec 5, 2020
+1,710
+874
+Minnesota
+Mar 2, 2024
+#177
+JR1200W3 said:
+I hope throwing that adverb in there made you feel better. I guess you're dumb enough to try anything twice.
+You seem really invested here. I'm not quite sure why you are so butthurt about sharing my opinion and expierence on an online forum about a commercial product. But okay, I'm glad you could take this oppertunity to jump in and defend Vectronix's rep got it boss. 
+ 
+JR1200W3
+Supporter
+Supporter
+Full Member
+Minuteman
+Apr 21, 2020
+1,769
+1,816
+Mar 2, 2024
+#178
+GenericBadGuy said:
+You seem really invested here. I'm not quite sure why you are so butthurt about sharing my opinion and expierence on an online forum about a commercial product. But okay, I'm glad you could take this oppertunity to jump in and defend Vectronix's rep got it boss. 
+I'm not. It's just you. You're the only one going on about the warranty. Tried to clear it up for you, and I was nice about it, but then you want to get cunty. So now I just want to shit on you.
+ 
+GIXXER2000
+ELR Junkie
+Full Member
+Minuteman
+Supporter
+ 
+Aug 5, 2013
+1,859
+1,232
+Bullhead City ,AZ
+Mar 2, 2024
+#179
+I have the PLRF 25C anf if the binoculars work half as good they will be great. My 25c will range 8k and 50x50 at 4k.
+ 
+ 
+Reactions:
+Bravo6niner
+beetroot
+Old Salt
+Full Member
+Minuteman
+Apr 10, 2018
+3,335
+3,393
+Mar 3, 2024
+#180
+Conrad said:
+So 10x or 12x hmmm....
+I'd want 8x for hunting or 12x for competition usage.
+
+Maybe just need to go 10x and then won't be happy either way....
+ 
+ 
+Reactions:
+260284
+mrtoyz
+Armchair Commando
+Full Member
+Minuteman
+Jul 11, 2009
+1,608
+1,105
+Western WA
+Mar 3, 2024
+#181
+beetroot said:
+I'd want 8x for hunting or 12x for competition usage.
+
+Maybe just need to go 10x and then won't be happy either way....
+10x’s plus the extenders gets you 10x’s and 14x!
+ 
+ 
+Reactions:
+lead ƒarmer
+Mr.BR
+Private
+Full Member
+Minuteman
+Oct 5, 2017
+6,229
+11,860
+Mar 3, 2024
+#182
+beetroot said:
+I'd want 8x for hunting or 12x for competition usage.
+
+Maybe just need to go 10x and then won't be happy either way....
+8x +booster will give you 11.2x , close enough to your 8and 12x requrement
+10x gets boosted to 14x and 12x to16.8x Magnification
+
+Had a chance to peek through them at IWA and the concept with optical boosters looked well executed , no noticable distortion that i could see on show. Of course once Ilya gets a pair to put trough its paces we will see what gives...
+ 
+ 
+Reactions:
+Bakwa, *Tavman*, RS14 and 1 other person
+ThisGuy
+Third Eye
+Supporter
+Full Member
+Minuteman
+Sep 13, 2018
+269
+111
+Socialist Republic of Maryland
+Mar 3, 2024
+#183
+Does the reticle have its own focus adjustment?
+ 
+GenericBadGuy
+Major Hide Member
+Full Member
+Minuteman
+Supporter
+Dec 5, 2020
+1,710
+874
+Minnesota
+Mar 3, 2024
+#184
+JR1200W3 said:
+I'm not. It's just you. You're the only one going on about the warranty. Tried to clear it up for you, and I was nice about it, but then you want to get cunty. So now I just want to shit on you.
+No you dumbfuck you intentionally asked the same question for the third time after it had been answered by me again, and again. Then you proceeded to gatekeep the thread. Don't sit there and act like you answered anything that's complete bullshit. Do me a favor and take an answer the first time instead of going full auto retard. Don't intentionally quote me from days ago just so you can pick a fight in a vain attempt to protect a brand. Kay thanks bye.
+ 
+Last edited: Mar 3, 2024
+ 
+Reactions:
+jafo96 and Conqueror
+db2000
+Supporter
+Supporter
+Full Member
+Minuteman
+Mar 27, 2020
+5,027
+4,577
+Mar 3, 2024
+#185
+ 
+pucker
+benefactor of reason
+Full Member
+Minuteman
+Dec 8, 2011
+475
+371
+Eastern US
+Mar 3, 2024
+#186
+Secant said:
+Obviously people vary, but manufacturers tend to target ~4mm exit pupil to fit most folks. Younger people have smaller pupils, older people have larger pupils, and all our pupils dilate in lowlight conditions. It’s why you see most 10’s have a 42mm objective or larger, 12’s having a 50mm objective or larger, and most people won’t go higher than 15x with a 56mm objective, etc.
+
+I think 12x42 with a 1.4 magnifier will be fine for limited number of people in limited conditions. But if this is your primary means to glass, and that means in challenging lighting conditions and/or extended periods of time, I don’t think they’d be very popular.
+
+I’ve moved away from a spotter, and I’ll only use lrf Binos as my primary. I’m in for the 10x42 with the single mag reticle. I might get the extenders for limited use, and if so, I’d just do the basic arithmetic if I really needed to mil something with the extenders on. At least for me, that would be a very rare circumstance.
+Click to expand...
+Good point...there's no free lunch with exit pupil. Less total light transmission (more an issue at dawn/dusk), but also more difficult to stay behind (keep your eye lined up) during all conditions.
+
+Combined with age-related decrease in pupil size (our eyes' ability to dilate weakens w/ age starting after 20s), it can be more of an issue for some of us.
+
+10x42 w/ an exit pupil of 4.2mm is already smaller than most people's max-dilated pupil size, so anything smaller will produce less observed light (low light conditions), and 12x42 (without extenders) exit pupil is already smaller than the 15x56.
+ 
+Last edited: Mar 3, 2024
+J
+JLx
+Private
+Full Member
+Minuteman
+Feb 11, 2017
+5
+28
+Mar 3, 2024
+#187
+Patty said:
+Ordered 12x with range extenders and begrudgingly the DMR reticle. I want a less cluttered view like the MSR but want more mag than 12x. Would have loved a 15x
+
+Being reticle designer and proud member of project team, I am happy to tell that your concerns too were considered very carefully.
+
+As FinnAccuracy original MSR / MSR2 riflescope reticles, Vector X MSR-DMR is designed with absolute guideline of fundamental binocular use: Reticle has to be non obstructive, clear and simple for any observing use - while offering precision and versatility when mil references are needed.
+Reticle design notes:
+
+- Upper 50% of FOV is perfectly clean for any observing use
+- When display is not on, wide lower center part of reticle is clean without any etched structures
+- Uaers will get full reticle functionality with both basic and range enhancer use
+- "T" elements blend nicely with display, are kept very close to it for multiple reasons
+- Outside "T" hairlines, reticle extensions are subtle dots and also toward outer areas of FOV. Dot weights are balanced so that they are not effecting general clear feel. Still, If wider or taller reference size than T is needed, eye catches on them immediately.
+- Dot-grids can be used as layover mil reference on top of target. They are most obstructive elements of reticle, but are also located in outer FOV area. Grid element weights are light, for precision and daytime use.
+- Center area cross is 1x1 mrad, with 1mrad stepped dot extensions. Center cross area is compact but still useful refence for many needs, calling shot corrections based on impact signature for instance.
+
+For those who appreciate good optical quality, I can confirm that it is good! Rather early prototype Vector X test mule I benchmarked against Zeiss Victory RF 45mm objective version was already preforming same, if not slightly better than Zeiss. But Vector X optical system was still improved after that, so final version is even better. Image also remains good when pushed up to 17x with range enhancers. This includes other than bright daytime use, enhancer quality is also very good.
+
+Edit - P.S.
+Photo taken with 12x42 and mobile phone, no range enhancers. Reticle feel is very different against practical backgrounds - black&white reticle drawing changes its appearance to very highlighted. Only elements eye catches immediately in real life are center cross and compact mil-T:s, rest are there if needed and when eye concentrates on it. Bit hard to explain, but functionality and "real-life feel" on practical use is based on dimensioning, weights and locations on FOV as combination.
+
+Phone adapters were also considered when eyepiece was designed, so almost any cheap Amazon phone adapter will work very nicely. Also display refresh rate matters and was taken into account, display won't flicker annoyingly when Vector X owners want to capture photos or video. Eyepiece is also very easy to remove for cleaning, very useful but rather rare feature in binoculars.
+ 
+Attachments
+20240303_154656.jpg
+443.6 KB · Views: 375
+Last edited: Mar 3, 2024
+ 
+Reactions:
+noobinacan, DesktopOperator, DetroitRearView and 19 others
+psinclair
+Gunny Sergeant
+Commercial Supporter
+Full Member
+Minuteman
+Jul 11, 2008
+3,400
+580
+67
+Glasgow, Montana
+Mar 3, 2024
+#188
+Couple questions....
+
+How long does the display stay lit after a target is marked, and are these a release button(for range),like the Vector 21's?
+
+I've ran a 21 almost daily for the past 13 years, and it has functioned perfectly. It's by far the best device I own for durability, and precision.
+
+I'm hoping this newest offering will compete with the optical quality of the Leica HDB 3000, and the Swaro EL Range....
+ 
+ 
+Reactions:
+Earnhardt, Tucker65, skinney_7 and 1 other person
+B
+Bangin
+Sergeant of the Hide
+Full Member
+Minuteman
+Feb 23, 2020
+202
+137
+Mar 3, 2024
+#189
+Is that a chicken under the battery? 
+ 
+ 
+Reactions:
+GenericBadGuy, RS14 and lead ƒarmer
+NiteQwill
+Best to jump high, and far!
+Full Member
+Minuteman
+Supporter
+Jun 26, 2012
+3,073
+4,523
+Formerly from Uncle Sam's Bottom
+Mar 3, 2024
+#190
+Bangin said:
+Is that a chicken under the battery? 
+Free range chicken? 
+ 
+ 
+Reactions:
+Bangin
+J
+JLx
+Private
+Full Member
+Minuteman
+Feb 11, 2017
+5
+28
+Mar 3, 2024
+#191
+Bangin said:
+Is that a chicken under the battery? 
+Yessir, compass is asking for "chicken dance" calibration with blinking chicken. Not sure if symbol is still used in production version. 
+ 
+Last edited: Mar 3, 2024
+ 
+Reactions:
+Bangin and jwramp
+Mr.BR
+Private
+Full Member
+Minuteman
+Oct 5, 2017
+6,229
+11,860
+Mar 3, 2024
+#192
+
+
+ 
+Last edited: Mar 3, 2024
+ 
+Reactions:
+HighDrag LowSpeed, Bakwa, *Tavman* and 9 others
+pucker
+benefactor of reason
+Full Member
+Minuteman
+Dec 8, 2011
+475
+371
+Eastern US
+Mar 3, 2024
+#193
+Mr.BR said:
+View attachment 8363655
+Thanks for the pic, was curious about this. Which model is wearing the battery extension, 10x?
+
+Does the 18650 battery setup extend beyond the end of bino, with and without lens caps? (my use case includes enclosed chest pack, without caps)
+ 
+B
+Bangin
+Sergeant of the Hide
+Full Member
+Minuteman
+Feb 23, 2020
+202
+137
+Mar 3, 2024
+#194
+JLx said:
+Yessir, compass is asking for "chicken dance" calibration with blinking chicken. Not sure if symbol is still used in production version. 
+If that’s what I have to do….. I’ll do it
+ 
+Milf Dots
+Poontificator
+Supporter
+Full Member
+Minuteman
+Supporter
+Oct 21, 2019
+4,198
+8,153
+Mar 3, 2024
+#195
+cwinner said:
+Swarovorski will warranty their range finding binoculars for ever, Sig and Leica will as well...... as for Vectronix, I've got a PLRF 15 I'll send you to see if you can get them to repair it. Simple drop from my tripod broke the crystal loose and even though they service military units and parts available everywhere they won't repair it.... I'm willing to pay but their customer service is a joke.
+
+Great products, fool me once shame on you.... fool me twice, shame on me!
+Click to expand...
+Have you tried calling EuroOptic for service on your Vectronix? I thought I read on their site they're now the U.S. service center.
+ 
+cwinner
+Private
+Full Member
+Minuteman
+Apr 20, 2009
+202
+155
+NM
+Mar 3, 2024
+#196
+Milf Dots said:
+Have you tried calling EuroOptic for service on your Vectronix? I thought I read on their site they're now the U.S. service center.
+Yes, I spoke with them at length at SCI last year..... they put me in touch with a guy named Jason Baney who was supposedly their lead rep.....basically was told I was out of luck. I originally bought them from Euro Optics.
+ 
+ 
+Reactions:
+Milf Dots
+lead ƒarmer
+Gun Loving Redneck
+Full Member
+Minuteman
+Feb 19, 2010
+979
+622
+Prosser, WA
+Mar 3, 2024
+#197
+Can the threaded objective caps also thread onto the magnifiers?
+ 
+ThisGuy
+Third Eye
+Supporter
+Full Member
+Minuteman
+Sep 13, 2018
+269
+111
+Socialist Republic of Maryland
+Mar 3, 2024
+#198
+lead ƒarmer said:
+Can the threaded objective caps also thread onto the magnifiers?
+I believe I read they can on one of the post on their web site.
+ 
+ 
+Reactions:
+lead ƒarmer
+Philip_at_Vectronix
+Private
+Minuteman
+Jul 13, 2018
+22
+53
+Mar 4, 2024
+#199
+lead ƒarmer said:
+Can the threaded objective caps also thread onto the magnifiers?
+Yes, they can.
+ 
+ 
+Reactions:
+*Tavman* and lead ƒarmer
+Huskydriver
+Not here for a long time but here for a good time
+Full Member
+Minuteman
+Apr 17, 2018
+9,066
+19,574
+SLC, Utah
+Mar 4, 2024
+#200
+JLx said:
+Being reticle designer and proud member of project team, I am happy to tell that your concerns too were considered very carefully.
+
+As FinnAccuracy original MSR / MSR2 riflescope reticles, Vector X MSR-DMR is designed with absolute guideline of fundamental binocular use: Reticle has to be non obstructive, clear and simple for any observing use - while offering precision and versatility when mil references are needed.
+Reticle design notes:
+
+- Upper 50% of FOV is perfectly clean for any observing use
+- When display is not on, wide lower center part of reticle is clean without any etched structures
+- Uaers will get full reticle functionality with both basic and range enhancer use
+- "T" elements blend nicely with display, are kept very close to it for multiple reasons
+- Outside "T" hairlines, reticle extensions are subtle dots and also toward outer areas of FOV. Dot weights are balanced so that they are not effecting general clear feel. Still, If wider or taller reference size than T is needed, eye catches on them immediately.
+- Dot-grids can be used as layover mil reference on top of target. They are most obstructive elements of reticle, but are also located in outer FOV area. Grid element weights are light, for precision and daytime use.
+- Center area cross is 1x1 mrad, with 1mrad stepped dot extensions. Center cross area is compact but still useful refence for many needs, calling shot corrections based on impact signature for instance.
+
+For those who appreciate good optical quality, I can confirm that it is good! Rather early prototype Vector X test mule I benchmarked against Zeiss Victory RF 45mm objective version was already preforming same, if not slightly better than Zeiss. But Vector X optical system was still improved after that, so final version is even better. Image also remains good when pushed up to 17x with range enhancers. This includes other than bright daytime use, enhancer quality is also very good.
+
+Edit - P.S.
+Photo taken with 12x42 and mobile phone, no range enhancers. Reticle feel is very different against practical backgrounds - black&white reticle drawing changes its appearance to very highlighted. Only elements eye catches immediately in real life are center cross and compact mil-T:s, rest are there if needed and when eye concentrates on it. Bit hard to explain, but functionality and "real-life feel" on practical use is based on dimensioning, weights and locations on FOV as combination.
+
+Phone adapters were also considered when eyepiece was designed, so almost any cheap Amazon phone adapter will work very nicely. Also display refresh rate matters and was taken into account, display won't flicker annoyingly when Vector X owners want to capture photos or video. Eyepiece is also very easy to remove for cleaning, very useful but rather rare feature in binoculars.
+Click to expand...
+
+When's that msr3 dropping ?
+ 
+Prev
+1
+	
+2
+	
+3
+	
+4
+	
+5
+	
+6
+	
+…
+	
+9
+Next
+You must log in or register to reply here.
+Similar threads
+S
+	
+Vectronix Vector X vs Sig Kilo10K Gen 2 Initial Impressions
+stevenc23 Oct 6, 2024 Observation & Sighting Devices
+13
+Dec 8, 2024
+	
+SOLD Vectronix Vector-X LRF Binos in stock!
+CSTactical Oct 9, 2024 Buy - Sell - Trade
+2
+Nov 9, 2024
+	
+Vector X - Just a quick review.
+Zigjib Jul 15, 2024 Observation & Sighting Devices
+24
+Sep 22, 2024
+	
+Help Me Pick Rangefinding Binos (2024/2025)
+Secant Sep 26, 2024 Observation & Sighting Devices
+63
+Dec 6, 2024
+	
+Optics Vectronix Terrapin X for Sale
+wheels2487 Sep 9, 2024 Buy - Sell - Trade
+12
+Friday at 9:52 PM
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/new-rf-bino-from-vectronix-vector-x.7209548/page-4 
+ ----- 

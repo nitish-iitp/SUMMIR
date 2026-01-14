@@ -1,0 +1,80 @@
+{
+    "Relevancy": [
+        "Relevant"
+    ],
+    "New Records": [],
+    "Key Match Events": [],
+    "Pre-Game Insights": [
+        "Experts favor the Los Angeles Clippers to win based on their simulation results, giving them a 63% chance of defeating the Denver Nuggets."
+    ],
+    "Post-Match Reflections": [],
+    "Miscellaneous Highlights": [],
+    "Others": [
+        "The article provides betting odds and player props for the game."
+    ],
+    "Head to Head Odds": [
+        "Nuggets $2.40, Clippers $1.61"
+    ],
+    "Line": [
+        "Nuggets +3.5 ($1.91), Clippers -3.5 ($1.91)"
+    ],
+    "Total Points": [
+        "Over $1.91, Under $1.91"
+    ],
+    "Projected Box Score": {
+        "Nuggets": {
+            "Jamal Murray": {
+                "Points": 22,
+                "Rebounds": 5,
+                "Assists": 6
+            },
+            "Michael Porter": {
+                "Points": 19,
+                "Rebounds": 8,
+                "Assists": 2
+            },
+            "Russell Westbrook": {
+                "Points": 15,
+                "Rebounds": 6,
+                "Assists": 7
+            },
+            "Christian Braun": {
+                "Points": 11,
+                "Rebounds": 5,
+                "Assists": 2
+            },
+            "Julian Strawther": {
+                "Points": 11,
+                "Rebounds": 3,
+                "Assists": 2
+            }
+        },
+        "Clippers": {
+            "Norman Powell": {
+                "Points": 25,
+                "Rebounds": 3,
+                "Assists": 2
+            },
+            "James Harden": {
+                "Points": 23,
+                "Rebounds": 6,
+                "Assists": 10
+            },
+            "Ivica Zubac": {
+                "Points": 16,
+                "Rebounds": 13,
+                "Assists": 3
+            },
+            "Kevin Porter": {
+                "Points": 11,
+                "Rebounds": 3,
+                "Assists": 4
+            },
+            "Amir Coffey": {
+                "Points": 11,
+                "Rebounds": 3,
+                "Assists": 1
+            }
+        }
+    }
+}

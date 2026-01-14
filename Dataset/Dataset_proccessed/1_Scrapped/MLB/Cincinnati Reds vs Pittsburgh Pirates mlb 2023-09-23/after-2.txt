@@ -1,0 +1,316 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Pirates
+74-81, 36-41 Away
+13
+Final
+Reds
+79-77, 37-43 Home
+12
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Pirates overcome 9-run deficit for first time since team started in 1882, beat Reds 13-12
+— A surprise in 2023 following a 100-loss season, the Cincinnati Reds and their beleaguered bullpen were dealt a staggering blow by the Pittsburgh Pirates.
+Sep 24, 2023, 03:06 pm - AP
+
+
+PIT
+
+
+CIN
+1	2	3	4	5	6	7	8	9	R	H	E
+0	0	0	1	0	5	3	4	0	13	16	0
+3	5	1	0	0	0	0	2	1	12	16	0
+WIN
+J. Hernandez
+1-1
+0.1 IP, 0 H, 0 ER, 1 K, 1 BB
+LOSS
+A. Diaz
+9-6
+0.2 IP, 5 H, 4 ER, 0 K, 0 BB
+SAVE
+C. Mlodzinski
+1
+1.0 IP, 2 H, 1 ER, 1 K, 0 BB
+Scoring Summary
+INNING
+	PIT	CIN
+		1st	Encarnacion-Strand homered to right (385 feet), Senzel scored.	0	2
+		1st	Stephenson homered to left center (395 feet).	0	3
+		2nd	Friedl homered to right (121 feet).	0	4
+		2nd	Senzel grounded into fielder's choice to pitcher, De La Cruz scored, India out at second.	0	5
+		2nd	Encarnacion-Strand singled to right, Senzel scored, Steer to third.	0	6
+		2nd	Stephenson doubled to center, Encarnacion-Strand scored and Steer scored.	0	8
+		3rd	Steer doubled to left, Fairchild scored, India to third.	0	9
+		4th	Rivas singled to left, Suwinski scored, Triolo to second.	1	9
+		6th	Bae singled to right, Triolo scored, Rodríguez to third.	2	9
+		6th	Palacios singled to right, Rodríguez scored, Bae to third.	3	9
+		6th	Reynolds homered to right (350 feet), Bae scored and Palacios scored.	6	9
+		7th	Rivas doubled to right, Rodríguez scored, Suwinski scored and Triolo scored.	9	9
+		8th	Suwinski singled to right, Reynolds scored, Hayes to second.	10	9
+		8th	Rivas singled to center, Suwinski scored, Triolo to third.	11	9
+		8th	Bae doubled to center, Rivas scored and Triolo scored.	13	9
+		8th	Martini grounded into fielder's choice to second, De La Cruz scored, India out at second.	13	10
+		8th	Encarnacion-Strand singled to center, Martini scored, Steer to second.	13	11
+		9th	Fraley grounded out to second, Votto scored, Friedl to third.	13	12
+Full Play-By-Play
+Pirates
+Reds
+HITTERS	H-AB	R	HR	RBI	AVG
+
+J. Palacios
+RF
+	2-6	1	0	1	.236
+
+B. Reynolds
+LF
+	1-4	2	1	3	.269
+
+K. Hayes
+DH
+	1-5	0	0	0	.276
+
+J. Suwinski
+CF
+	2-4	3	0	1	.219
+
+J. Triolo
+3B
+	4-5	3	0	0	.290
+
+E. Rodriguez
+C
+	1-4	2	0	0	.211
+
+A. Rivas
+1B
+	3-5	1	0	5	.219
+
+J. Bae
+2B
+	2-4	1	0	3	.238
+
+A. Williams
+SS
+	0-5	0	0	0	.198
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+B. Falter
+	2.0	9	8	1	1	57-38	5.36
+
+K. Nicolas
+	2.0	2	1	2	2	34-20	27.00
+
+D. Moreta
+	2.2	0	0	0	3	26-19	4.02
+
+J. Hernandez
+	0.1	0	0	1	1	8-4	4.56
+
+C. Selby
+	1.0	3	2	1	0	25-13	7.94
+
+C. Mlodzinski
+	1.0	2	1	0	1	23-17	2.14
+HITTERS	H-AB	R	HR	RBI	AVG
+
+J. India
+2B
+	1-4	0	0	0	.239
+
+N. Senzel
+LF
+	1-4	2	0	1	.237
+
+N. Martini
+PH-LF
+	0-1	1	0	1	.217
+
+S. Steer
+1B
+	3-5	1	0	1	.271
+
+C. Encarnacion-Strand
+DH
+	3-5	2	1	4	.278
+
+W. Benson
+PR-DH
+	0-0	0	0	0	.268
+
+T. Stephenson
+C
+	2-4	1	1	3	.248
+
+N. Marte
+3B
+	1-4	0	0	0	.293
+
+J. Votto
+PH
+	1-1	1	0	0	.203
+
+T. Friedl
+CF
+	2-4	1	1	1	.277
+
+S. Fairchild
+RF
+	1-4	1	0	0	.223
+
+J. Fraley
+PH
+	0-1	0	0	1	.262
+
+E. De La Cruz
+SS
+	1-4	2	0	0	.231
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+C. Phillips
+	5.0	5	3	3	9	99-68	5.66
+
+A. Young
+	1.0	3	3	0	0	19-13	4.03
+
+F. Cruz
+	0.0	2	3	1	0	13-5	4.43
+
+L. Sims
+	1.0	1	0	0	1	15-11	3.28
+
+A. Diaz
+	0.2	5	4	0	0	17-11	3.03
+
+D. Law
+	0.1	0	0	0	0	3-2	3.60
+
+I. Gibaut
+	1.0	0	0	0	1	15-9	3.08
+Full Box Score
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+PIRATES
+REDS
+PIT 100
+%
+PIT 13CIN 12
+
+Bottom 9th
+India flied out to center.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+PIT
+CIN
+Hits
+16
+16
+Home Runs
+1
+3
+Total Bases
+22
+29
+Runners LOB
+7
+7
+Full Team Stats
+Regular Season Series
+Current Series
+PIT wins 2-1
+Pirates
+7
+Reds
+5
+Game 1
+9/22
+Final
+Pirates
+13
+Reds
+12
+Game 2
+9/23
+Final
+Pirates
+2
+Reds
+4
+Game 3
+9/24
+Final
+Game Information
+Great American Ball Park
+10:40 PM, September 23, 2023
+Cincinnati, Ohio
+Line: CIN -140
+Over/Under: 9.5
+Attendance: 29,680
+Game Time:
+3:22
+Umpires:
+Home Plate Umpire - Stu Scheurwater
+First Base Umpire - Mark Wegner
+Second Base Umpire - Malachi Moore
+Third Base Umpire - Bruce Dreckman
+Terms of Use
+Privacy Policy
+Interest-Based Ads
+© ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401473338/pirates-reds 
+ ----- 

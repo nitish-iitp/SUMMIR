@@ -1,0 +1,445 @@
+NBA
+Games
+Schedule
+Watch
+News
+All-Star
+Stats
+Standings
+Teams
+Players
+NBA Play
+Fantasy
+NBA Bet
+League Pass
+Store
+Tickets
+Affiliates
+Sign In
+All-Star
+League Pass
+Games
+Schedule
+Watch
+News
+Stats
+Standings
+Teams
+Players
+NBA Play
+NBA Bet
+Fantasy
+Store
+Tickets
+Affiliates
+
+Sun, Jan 05
+Mon, Jan 06
+Tue, Jan 07
+Wed, Jan 08
+Thu, Jan 09
+Fri, Jan 10
+Sat, Jan 11
+Sun, Jan 12
+Mon, Jan 13
+Tue, Jan 14
+Hide Scores
+WATCH
+BOX SCORE
+GAME DETAILS
+
+FINAL
+
+LP
+
+NOP
+123
+PHI
+115
+WATCH
+BOX SCORE
+GAME DETAILS
+
+FINAL
+
+LP
+
+MIL
+109
+ORL
+106
+WATCH
+BOX SCORE
+GAME DETAILS
+
+FINAL
+
+LP
+
+GSW
+96
+IND
+108
+WATCH
+BOX SCORE
+GAME DETAILS
+
+FINAL
+
+LP
+
+OKC
+126
+NYK
+101
+WATCH
+BOX SCORE
+GAME DETAILS
+
+FINAL
+
+LP
+
+SAC
+114
+BOS
+97
+WATCH
+BOX SCORE
+GAME DETAILS
+
+FINAL
+
+LP
+
+WAS
+105
+CHI
+138
+WATCH
+BOX SCORE
+GAME DETAILS
+
+FINAL
+
+LP
+
+BKN
+105
+DEN
+124
+
+SAT
+
+JAN 11
+
+PREVIEW
+TICKETS
+GAME CHARTS
+
+8:00 PM UTC
+
+LP
+
+HOU
+25-12
+ATL
+19-19
+PREVIEW
+TICKETS
+GAME CHARTS
+
+10:00 PM UTC
+
+LP
+
+UTA
+9-27
+PHX
+17-19
+PREVIEW
+TICKETS
+GAME CHARTS
+
+12:00 AM UTC (SUNDAY)
+
+LP
+
+TOR
+8-30
+DET
+19-19
+PREVIEW
+TICKETS
+GAME CHARTS
+
+1:00 AM UTC (SUNDAY)
+
+LP
+
+MEM
+24-14
+MIN
+20-17
+PREVIEW
+TICKETS
+GAME CHARTS
+
+3:00 AM UTC (SUNDAY)
+
+LP
+
+MIA
+19-17
+POR
+13-24
+
+PPD
+
+LP
+
+SAS
+18-19
+LAL
+20-16
+
+PPD
+
+LP
+
+CHA
+8-27
+LAC
+20-17
+SEE ALL GAMES
+ 
+PHI
+
+111
+
+PRESEASON
+
+FINAL
+
+121
+
+MIN
+WOLVES DROP SIXERS IN IOWA
+
+Wells Fargo Arena, Des Moines, IA
+
+Watch Full Game
+Game Recap
+Condensed Games
+Summary
+Box Score
+Game Charts
+Play-By-Play
+
+Traditional
+Advanced
+Misc
+Scoring
+Usage
+Four Factors
+Hustle
+
+All Periods
+Q1
+Q2
+Q3
+Q4
+1st Half
+2nd Half
+Range Filter
+PHILADELPHIA 76ERS
+PLAYER	MIN	FGM	FGA	FG%	3PM	3PA	3P%	FTM	FTA	FT%	OREB	DREB	REB	AST	STL	BLK	TO	PF	PTS	+/-
+
+Kelly Oubre Jr.
+F
+	23:45	6	9	66.7	3	5	60.0	1	2	50.0	1	3	4	1	1	0	2	2	16	6
+
+Paul George
+F
+	26:16	8	15	53.3	4	9	44.4	3	3	100	1	5	6	2	1	0	1	3	23	6
+
+Andre Drummond
+C
+	24:11	4	9	44.4	0	0	0.0	2	4	50.0	7	8	15	1	2	0	2	1	10	11
+
+Caleb Martin
+G
+	24:47	1	5	20.0	1	3	33.3	2	2	100	0	2	2	0	0	0	1	1	5	-6
+
+Tyrese Maxey
+G
+	26:19	7	14	50.0	4	7	57.1	3	4	75.0	0	0	0	2	1	0	0	1	21	4
+
+Guerschon Yabusele
+	11:25	1	3	33.3	1	3	33.3	0	0	0.0	1	2	3	1	1	1	0	1	3	-12
+
+Kyle Lowry
+	8:32	0	2	0.0	0	1	0.0	3	4	75.0	0	3	3	2	0	0	1	0	3	-16
+
+Eric Gordon
+	8:47	1	5	20.0	0	3	0.0	1	1	100	0	0	0	0	0	0	1	0	3	-11
+
+KJ Martin
+	12:26	2	3	66.7	0	0	0.0	0	0	0.0	0	1	1	1	0	1	0	3	4	-5
+
+Jared McCain
+	15:20	3	5	60.0	2	3	66.7	1	2	50.0	0	2	2	0	1	0	2	0	9	2
+
+Adem Bona
+	12:24	0	1	0.0	0	0	0.0	1	2	50.0	1	4	5	1	0	0	1	3	1	-9
+
+Reggie Jackson
+	8:58	1	5	20.0	0	1	0.0	0	0	0.0	0	1	1	3	0	0	0	1	2	3
+
+Ricky Council IV
+	13:54	2	6	33.3	1	3	33.3	0	0	0.0	0	3	3	3	1	0	2	1	5	3
+
+Jeff Dowtin Jr.
+	8:36	2	3	66.7	0	0	0.0	0	3	0.0	1	1	2	0	1	0	0	0	4	-6
+
+Lester Quinones
+	6:53	1	4	25.0	0	3	0.0	0	0	0.0	0	0	0	0	0	0	1	1	2	-8
+
+Justin Edwards
+	4:18	0	1	0.0	0	0	0.0	0	0	0.0	0	0	0	0	0	0	1	1	0	-6
+
+Jordan Tucker
+	3:09	0	0	0.0	0	0	0.0	0	0	0.0	0	0	0	0	0	1	0	0	0	-6
+
+Joel Embiid
+	
+NWT - Not With Team
+
+
+Max Fiedler
+	
+DNP - Coach's Decision
+
+
+Judah Mintz
+	
+DNP - Coach's Decision
+
+
+Isaiah Mobley
+	
+DNP - Coach's Decision
+
+
+TOTALS
+	 	39	90	43.3	16	41	39.0	17	27	63.0	12	35	47	17	9	3	15	19	111	-10
+MINNESOTA TIMBERWOLVES
+PLAYER	MIN	FGM	FGA	FG%	3PM	3PA	3P%	FTM	FTA	FT%	OREB	DREB	REB	AST	STL	BLK	TO	PF	PTS	+/-
+
+Donte DiVincenzo
+F
+	23:49	2	7	28.6	2	5	40.0	0	0	0.0	3	4	7	4	0	0	1	1	6	1
+
+Jaden McDaniels
+F
+	23:43	6	8	75.0	1	3	33.3	4	5	80.0	1	5	6	2	0	1	0	3	17	5
+
+Naz Reid
+C
+	23:00	7	12	58.3	3	7	42.9	2	4	50.0	2	2	4	4	1	2	2	4	19	3
+
+Anthony Edwards
+G
+	23:36	7	14	50.0	2	8	25.0	0	1	0.0	0	4	4	3	1	0	1	1	16	0
+
+Mike Conley
+G
+	14:03	2	4	50.0	1	3	33.3	0	0	0.0	0	1	1	2	0	0	1	2	5	4
+
+Luka Garza
+	17:05	5	7	71.4	2	3	66.7	2	3	66.7	0	3	3	1	1	0	1	1	14	4
+
+Nickeil Alexander-Walker
+	15:47	3	6	50.0	2	5	40.0	0	0	0.0	1	1	2	1	1	2	4	1	8	5
+
+Joe Ingles
+	13:06	1	4	25.0	1	4	25.0	0	0	0.0	0	2	2	3	1	1	1	2	3	2
+
+Josh Minott
+	17:03	4	7	57.1	1	2	50.0	3	3	100	1	3	4	3	1	0	0	3	12	4
+
+Rob Dillingham
+	22:40	2	8	25.0	1	5	20.0	2	2	100	0	4	4	9	3	0	0	3	7	10
+
+Terrence Shannon Jr.
+	16:08	0	2	0.0	0	1	0.0	2	2	100	0	0	0	0	0	0	1	0	2	3
+
+Daishen Nix
+	8:04	0	2	0.0	0	0	0.0	0	0	0.0	0	2	2	0	0	0	1	0	0	4
+
+PJ Dozier
+	7:42	1	1	100	1	1	100	0	0	0.0	0	0	0	0	0	0	1	1	3	-4
+
+Leonard Miller
+	7:55	2	4	50.0	0	1	0.0	0	0	0.0	1	4	5	0	0	1	0	0	4	3
+
+Keita Bates-Diop
+	6:19	2	3	66.7	1	2	50.0	0	0	0.0	0	1	1	0	0	0	1	0	5	6
+
+Jaylen Clark
+	
+DNP - Coach's Decision
+
+
+Jesse Edwards
+	
+DNP - Coach's Decision
+
+
+Rudy Gobert
+	
+NWT - Not With Team
+
+
+Skylar Mays
+	
+DNP - Coach's Decision
+
+
+Eugene Omoruyi
+	
+DNP - Coach's Decision
+
+
+Julius Randle
+	
+DNP - Coach's Decision
+
+
+TOTALS
+	 	44	89	49.4	18	50	36.0	15	20	75.0	9	36	45	32	9	7	15	22	121	10
+NBA ORGANIZATION
+NBA INITIATIVES
+ACROSS THE LEAGUE
+SHOP
+SUBSCRIPTIONS
+© 2025 NBA Media Ventures, LLC. All rights reserved.
+Privacy Policy
+EEA/UK Privacy Statement
+Brazil Privacy Statement 
+Colorado Consumer Privacy Statement
+California Consumer Privacy Statement
+Terms of Use
+Cookie Policy
+Accessibility and Closed Captions
+Customer Support
+Manage Preferences
+
+If you are having difficulty accessing any content on this website, please visit our Accessibility page.
+
+NBA.com is part of Warner Media, LLC’s Turner Sports & Entertainment Digital Network
+ 
+ 
+ ----- 
+ Source link : https://www.nba.com/game/phi-vs-min-0012400032/box-score 
+ ----- 

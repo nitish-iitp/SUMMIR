@@ -1,0 +1,351 @@
+IND vs PAK
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+19th Match, Group A, New York, June 09, 2024, ICC Men's T20 World Cup
+IND
+119
+PAK
+(20 ov, T:120) 113/7
+
+India won by 6 runs
+
+Powered by Smart Stats
+Win Probability
+IND 100%
+PAK 0.00%
+IND
+PAK
+100%
+50%
+100%
+IND Innings
+PAK Innings
+
+Over 20 • PAK 113/7
+
+Imad Wasim c †Pant b Arshdeep Singh 15 (23b 1x4 0x6 40m) SR: 65.21
+W
+India won by 6 runs
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Jasprit Bumrah
+, IND
+3/14
+CRICINFO'S MVP
+Jasprit Bumrah
+, IND
+101.86 pts
+Impact List
+India
+Pakistan
+Match Flow
+Info
+India  (20 ovs maximum)
+Batting	R	B	4s	6s	SR
+
+Rohit Sharma (c)
+	13	12	1	1	108.33
+
+c Haris Rauf b Shaheen Shah Afridi
+
+
+Virat Kohli 
+	4	3	1	0	133.33
+
+c Usman Khan b Naseem Shah
+
+
+Rishabh Pant †
+	42	31	6	0	135.48
+
+c Babar Azam b Mohammad Amir
+
+
+Axar Patel 
+	20	18	2	1	111.11
+
+b Naseem Shah
+
+
+Suryakumar Yadav 
+	7	8	1	0	87.50
+
+c Mohammad Amir b Haris Rauf
+
+
+Shivam Dube 
+	3	9	0	0	33.33
+
+c & b Naseem Shah
+
+
+Hardik Pandya 
+	7	12	1	0	58.33
+
+c Iftikhar Ahmed b Haris Rauf
+
+
+Ravindra Jadeja 
+	0	1	0	0	0.00
+
+c Imad Wasim b Mohammad Amir
+
+
+Arshdeep Singh 
+	9	13	1	0	69.23
+
+run out (Babar Azam/†Mohammad Rizwan)
+
+
+Jasprit Bumrah 
+	0	1	0	0	0.00
+
+c Imad Wasim b Haris Rauf
+
+
+Mohammed Siraj 
+	7	7	0	0	100.00
+
+not out
+
+Extras	7	(lb 1, nb 1, w 5)
+Total	119	
+19 Ov (RR: 6.26)
+
+
+Fall of wickets: 1-12 (Virat Kohli, 1.3 ov), 2-19 (Rohit Sharma, 2.4 ov), 3-58 (Axar Patel, 7.4 ov), 4-89 (Suryakumar Yadav, 11.2 ov), 5-95 (Shivam Dube, 13.2 ov), 6-96 (Rishabh Pant, 14.1 ov), 7-96 (Ravindra Jadeja, 14.2 ov), 8-112 (Hardik Pandya, 17.4 ov), 9-112 (Jasprit Bumrah, 17.5 ov), 10-119 (Arshdeep Singh, 18.6 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Shaheen Shah Afridi
+	4	0	29	
+1
+	7.25	1	0
+
+Naseem Shah
+	4	0	21	
+3
+	5.25	1	1
+
+Mohammad Amir
+	4	0	23	
+2
+	5.75	0	0
+
+Iftikhar Ahmed
+	1	0	7	0	7.00	1	0
+
+Imad Wasim
+	3	0	17	0	5.66	1	0
+
+Haris Rauf
+	3	0	21	
+3
+	7.00	0	0
+Pakistan  (T: 120 runs from 20 ovs)
+Batting	R	B	4s	6s	SR
+
+Mohammad Rizwan †
+	31	44	1	1	70.45
+
+b Bumrah
+
+
+Babar Azam (c)
+	13	10	2	0	130.00
+
+c Yadav b Bumrah
+
+
+Usman Khan 
+	13	15	1	0	86.66
+
+lbw b Patel
+
+
+Fakhar Zaman 
+	13	8	1	1	162.50
+
+c †Pant b Pandya
+
+
+Imad Wasim 
+	15	23	1	0	65.21
+
+c †Pant b Arshdeep Singh
+
+
+Shadab Khan 
+	4	7	0	0	57.14
+
+c †Pant b Pandya
+
+
+Iftikhar Ahmed 
+	5	9	0	0	55.55
+
+c Arshdeep Singh b Bumrah
+
+
+Shaheen Shah Afridi 
+	0	1	0	0	0.00
+
+not out
+
+
+Naseem Shah 
+	10	4	2	0	250.00
+
+not out
+
+Extras	9	(lb 4, nb 1, w 4)
+Total	113/7	
+20 Ov (RR: 5.65)
+
+
+Did not bat: 
+Mohammad Amir, 
+Haris Rauf 
+
+
+Fall of wickets: 1-26 (Babar Azam, 4.4 ov), 2-57 (Usman Khan, 10.1 ov), 3-73 (Fakhar Zaman, 12.2 ov), 4-80 (Mohammad Rizwan, 14.1 ov), 5-88 (Shadab Khan, 16.3 ov), 6-102 (Iftikhar Ahmed, 18.6 ov), 7-102 (Imad Wasim, 19.1 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Arshdeep Singh
+	4	0	31	
+1
+	7.75	1	0
+
+Mohammed Siraj
+	4	0	19	0	4.75	1	1
+
+Jasprit Bumrah
+	4	0	14	
+3
+	3.50	0	0
+
+Hardik Pandya
+	4	0	24	
+2
+	6.00	1	0
+
+Ravindra Jadeja
+	2	0	10	0	5.00	0	0
+
+Axar Patel
+	2	0	11	
+1
+	5.50	0	0
+Unlocking the magic of Statsguru
+Match Flow
+India innings
+Wet Ground: India - 0/0
+Rain: India - 0/0
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 50 runs, 2 wickets)
+Rain: India - 8/0 in 1.0 overs (RG Sharma 8, V Kohli 0)
+India: 50 runs in 5.5 overs (35 balls), Extras 3
+Drinks: India - 81/3 in 10.0 overs (RR Pant 34, SA Yadav 5)
+India: 100 runs in 15.6 overs (97 balls), Extras 7
+Over 18.5: Review by Pakistan (Bowling), Decision Challenged - Wicket, Umpire - RJ Tucker, Batter - Mohammed Siraj (Struck down)
+Innings Break: India - 119/10 in 19.0 overs (Mohammed Siraj 7)
+Pakistan innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 35 runs, 1 wicket)
+Pakistan: 50 runs in 8.5 overs (53 balls), Extras 4
+Drinks: Pakistan - 57/1 in 10.0 overs (Mohammad Rizwan 27, Usman Khan 13)
+Over 10.1: Review by India (Bowling), Decision Challenged - Wicket, Umpire - RJ Tucker, Batter - Usman Khan (Upheld)
+Pakistan: 100 runs in 18.1 overs (110 balls), Extras 7
+Over 19.1: Review by Pakistan (Batting), Decision Challenged - Wicket, Umpire - RK Illingworth, Batter - Imad Wasim (Struck down)
+Slow over-rate Penalty: Overs 19.1 - 20.0 (extra fielder inside the circle)
+Match Details
+Nassau County International Cricket Stadium, New York
+
+Toss	Pakistan, elected to field first
+Series	
+ICC Men's T20 World Cup
+
+Season	
+2024
+
+Player Of The Match	
+Jasprit Bumrah
+
+Match number	
+T20I no. 2658
+
+Match days	9 June 2024 - day (20-over match)
+Umpires	
+Richard Illingworth
+DRS
+Rod Tucker
+DRS
+
+TV Umpire	
+Chris Gaffaney
+
+Reserve Umpire	
+Sharfuddoula
+
+Match Referee	
+David Boon
+
+Points	India 2, Pakistan 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 873 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/india-vs-pakistan-19th-match-group-a-1415719/full-scorecard 
+ ----- 

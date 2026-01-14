@@ -1,0 +1,2131 @@
+Skip to content
+
+THOMAS MEURLING
+
+Strategic Sonar Solutions – Helping people with Sonar Solutions for Commercial and Military Applications
+
+Thomas 2024 Pings
+ 
+2022-2023 Pings )))
+ 
+2021 Pings )))
+ 
+Conferences
+ 
+Papers
+ 
+Reference Projects
+ 
+History & Training
+ 
+Contact Us
+2021 PINGS… )))
+
+
+
+
+
+Interesting “Pings” going on in the Military and Commercial Sonar Industry, seen from my personal and very subjective perspective. These “Pings” include news about Submarines, Surface Ship, Autonomous Underwater and Surface Vehicles, and more, everything that is related to Sonar Systems or Applications where Sonar Systems are used, e.g. Hydrographic, Anti-Submarine Warfare, Mine Counter Measure, Underwater Inspection, etc.
+If you want more “Pings”, with focus on Market Trends, please sign up for my newsletter below
+
+The New Mystery Submarine Seen In China
+
+June 2021: The first view of a new Chinese submarine that was ready to be launched at a shipyard in Wuhan. This creates a lot of analysis and some wild speculation. Western observers have taken to referring to it as the Type-039C or –D. The last letter refers to it being either the third or fourth (depending on who you ask) major variant of the existing Type-039A Yuan Class.
+
+New Chinese Navy Yuan Type Submarine
+
+By far the most distinctive feature of the new submarine is the sail, because of the angled sail there is a natural comparison with the Swedish A-26 Blekinge Class submarine.
+
+For the Sonar, China was known to have imported the Thales TSM 2233 ELEDONE / DSUV-22 and Thales TSM 2255 / DUUX-5 from France during the 1980s and early 1990s. It also has access to a wide range of modern Russian sonar systems (MG-519 MOUSE ROAR, MGK-500 SHARK GILL) through its purchase of the Kilo class. Comparable systems are expected to be copied for the Type 039.
+
+The illustration shows passive Bow Array sonar, line array Flank Arrays (H/SQG-207), and a Towed Array sonar. Read More…
+
+Project to map entire ocean floor by 2030 passes 20% mark
+
+June 2021: About 70% of Earth‘s surface is covered in water, and researchers are trying to map every last inch of it. On June 21 (that’s World Hydrography Day, in case you forgot to update your Calendar of Very Nerdy Events), a group of international researchers announced that they are about one-fifth of the way to that goal, having mapped 20.6% of Earth’s total underwater area using modern sonar techniques.
+
+A map of underwater mountains off the coast of Brazil (Image credit: GEBCO)
+
+The project, called Seabed 2030, aims to map 100% of the global ocean floor by 2030 using largely crowd-sourced data from science vessels, corporations and private boat owners around the world. The current level of coverage shows a modest increase over last year’s figure of 19% (research was hampered by COVID-19, project director and hydrographer Jamie McMichael-Phillips told the BBC), but the project has nevertheless seen huge gains since its inception four years ago. Read More …
+
+ECA GROUP Extend the Capabilities of the Latvian Navy’s Mine Countermeasures Vessels
+
+June 2021: ECA GROUP announces the fulfilment of the first milestone within the modernization program of 3 mine countermeasures vessels belonging to the Latvian Navy, 8 months after winning the contract for the modernization of the Navy’s MCM capabilities.
+
+Latvian Navy MCM Vessels
+
+For the Latvian Navy, ECA GROUP will replace the vessels’ conventional mine detection systems based on a hull sonar with a more compact, mobile and evolutive unmanned system UMIS, consisting of AUV (Autonomous Underwater Vehicle) A18-M drones fitted with the latest generation ECA GROUP synthetic aperture sonar UMISAS for detection, and several underwater robots, the Seascan MK2 and K-STER C for mines identification and neutralisation.
+
+ECA A18-M AUV and sidescan sonar image
+
+The new Ultra Short Baseline positioning system installed in place of hull sonar enables not only tracking but also acoustic communication, replacing the previous acoustic modem which had to be launched from the deck. Read More….
+
+Okeanus Takes Delivery of New SeaRobotics SR-Surveyor M1.8 ASV
+
+June 2021: Okeanus Science & Technology, LLC (Okeanus), an established provider of oceanographic equipment and marine engineering services, has announced the delivery of its latest autonomous surface vessel, a SeaRobotics SR-Surveyor M1.8. The ASV is the most recent addition to Okeanus’ growing portfolio of turnkey survey solutions and is available for rent immediately.
+
+SeaRobotics SR-Surveyor M1.8. with EdgeTech 2205 sidescan sonar
+
+Offered globally as part of Okeanus’ rental portfolio of cutting-edge marine robotics, the tightly integrated, man-portable SR-Surveyor M1.8 is the ideal plug-and-play solution for running remote marine surveys. The ASV’s industry-leading sensor suite includes an EdgeTech 2205 sonar system, SBG INS with dual antennae, RTK radio, AML micro SV sound velocity sensor, and Velodyne Puck LiDAR for terrestrial mapping. Read More …
+
+Argeo has purchased two SeaRaptor 6,000 m (19,685 ft)-rated AUVs from Teledyne Gavia.
+SeaRaptor 6000 AUVs
+
+June 2021: The SeaRaptor 6000 AUVs will be equipped with the latest Kraken MinSAS 120 synthetic aperture sonar, which provides large swath area coverage and high-resolution imagery and bathymetry data collection. The vehicles will also be fitted with Teledyne RESON T50-S multi-beam dual frequency 200/400 kHz echo sounders, Teledyne Benthos Chirp III sub-bottom profilers, iXblue PHINS 6000 INSs coupled to Teledyne RDI Tasman DVLs, and CathX Hunter camera systems.
+
+All data collected will be processed onboard using Teledyne CARIS OnBoard postprocessing and mosaicking software to allow quick turnaround during missions. The AUVs are also fitted with a large variety of scientific sensors from RBR which will take conductivity, temperature, pressure, turbidity, pH, dissolved oxygen, redox, CH4 and magnetic measurements to provide valuable water column data. Read More….
+
+U.S. Navy Outlines The Next-Generation Attack Submarine SSN(X) Program
+
+May 2021: The U.S. Navy has received $1 million dollars from Congress to start research and development in FY2021 for a successor to the current Virginia-class nuclear-powered attack submarine (SSN). This new submarine might be wider than the Virginia SSN (comparable to the diameter of the Seawolf-class SSN) and will be better optimized and designed to combat future surface and underwater threats, taking advantage of the latest silencing, propulsion, and combat submarine technologies.
+
+Artist impression of the possible features of SSN(X) the next generation nuclear-powered attack submarine of the U.S. Navy. Image by H I Sutton / Covertshores.com
+
+The new SSN(X) design places (renewed) emphasis on Anti-submarine Warfare (ASW) by increasing the SSN(X)’s transit speed and stealth features and characteristics over the current Virginia-class nuclear attack sub.  Furthermore, the SSN(X) will also carry more weapons and a more diverse payload than the Virginia subs in order to deal with more advanced enemy submarines, unmanned underwater vessels (UUVs), and coordinate with allied warships and forces.
+
+According to submarine expert H I Sutton the new SSN(X) could feature new sonar technologies such as large conformar bow array and very large flank arrays. Read More …
+
+Huntington Ingalls Industries Announces U.S. Navy Order of REMUS 300 UUVs
+
+May 2021: Huntington Ingalls Industries (NYSE: HII) announced today a U.S. Navy order of two REMUS 300 unmanned underwater vehicles (UUVs).
+
+REMUS Vehicle with Sidescan and Gapfiller sonar system
+
+The two-man portable, small-class UUV offers swappable energy modules with up to 10, 20 or 30 hours of endurance. The open architecture and modularity allow REMUS 300 to be tailored to specific mission requirements and enable spiral development and upgrades as technology evolves. Read More …
+
+DSEI 2021 to Run as a Live Event
+
+May 2021: The biennial defence and security event, DSEI, will proceed as planned in September 2021 with a new digital offering running alongside the much-anticipated live exhibition.
+
+Defence and Security Equipment International (DSEI) has confirmed it will take place as originally scheduled from 14-17 September at ExCeL London. The decision to proceed follows close consultation and discussion with the UK Government and industry stakeholders.
+
+EdgeTech Launches New Sidescan Sonar & Sub-bottom Profiling System
+
+Apr 2021: EdgeTech has recently introduced a new combined tri-frequency sidescan sonar and high-resolution sub-bottom profiling sonar system.
+
+EdgeTech 2050-DSS sonar system
+
+The 2050-DSS is a tri-frequency sidescan sonar system, where any two, operator selectable, frequencies can be operated simultaneously. The system can be provided with either a 120, 410 & 850kHz towfish, or a 230, 540 & 850kHz towfish. Both towfish options are equipped with a 2–16kHz sub-bottom profiler that utilizes a PVDF panel receive hydrophone. Use of an area-based receive hydrophone panel provides improved beam patterns and therefore improved signal to noise ratios, which in turn means cleaner data for the operators. Read More…
+
+Thales, MHI Join Forces On Innovative Mine Warfare Sonar Technology
+
+Mar 2021: Following the signature by the French Defence procurement agency (DGA) and its Japanese counterpart, the Acquisition, Technology & Logistics Agency (ATLA), of a Defence cooperation agreement, Thales and MHI are joining forces to develop a Dual Frequency sonar demonstrator to be evaluated at sea both in Japanese and French waters.
+
+OZZ-5 scale model on display on ATLA stand during MAST Asia 2019
+
+To achieve this, both countries have chosen to trust MHI and Thales, who share technological excellence and complement each other, strengthening through this agreement their continuous and successful collaboration. As a world leader in mine countermeasures with over 300 mine-hunting systems in service worldwide, Thales will provide its recognized expertise in sonar processing as well as its latest generation High Frequency synthetic aperture sonar, SAMDIS, with multi-aspect capability. MHI on its side will provide its Low Frequency synthetic aperture sonar and the OZZ-5 AUV.
+
+The smart integration of the High Frequency & Low Frequency sonars, coupled with a combined automatic detection and classification function, will not only provide capability and performance enhancement into a single solution but will also mutually benefit each sonar’s processing and imaging. This will result in a unique autonomous mine countermeasure system capable of detecting, classifying and localizing all types of mines (from fully buried mines to ground mines).
+
+This agreement kicks off a 5-year project for design, development and integration of the dual frequency synthetic aperture sonar processing, and at sea experiments (in Japan & in France). Testing will be conducted in Japan through 2024, followed by trials in France. Read More …
+
+Kraken Robotics MINSAS Available on the Teledyne Gavia AUV
+
+Mar 2021: Gavia AUV with Synthetic Aperture Sonar enables the Gavia AUV to provide both bathymetry and high resolution / high area coverage sonar coverage which is ideally suited for a variety of applications including mine countermeasures, SAR, and other operations where speed of response and actionable data are paramount.
+
+The low logistics Gavia class vehicles will utilize the MINSAS 60 system while the larger Osprey and SeaRaptor AUVs are capable of carrying the larger MINSAS 120 configuration.
+
+US company Saildrone, Inc. has launched a 22m version of its uncrewed surface vehicles, known as saildrones
+
+Feb 2021: Powered by wind and solar energy, saildrones are capable of extreme-duration missions of up to 12 months in the open ocean. This latest and largest version, the first in the Surveyor class of USVs, is called the Saildrone Surveyor, and carries sonar equipment capable of seafloor mapping down to 7,000m.
+
+Saildrone , 22m Unmanned Surface Vessel (USV)
+Example of representative Multibeam Echsounder data; Depth 290-1777m (Courtesy of Marine and Freshwater Research Institute of Iceland)
+
+In 2019, NOAA provided a three-year grant through the National Oceanographic Partnership Program to the University of New Hampshire, in partnership with the Monterey Bay Aquarium Research Institute and Saildrone, to integrate and test sensors on the Saildrone Surveyor for mapping the seafloor and revealing life in the water column.
+Read More …
+
+Ultra To Provide Hull-Mounted Sonar For Canadian Surface Combatant
+
+Feb 2021: Ultra got contract awards for the the S2150-C Hull-Mounted Sonar (HMS) and Variable Depth Sonar (TLFAS) system for the Canadian Surface Combatant (CSC) program.
+
+New Canadian Surface Combatant with ULTRA’s S2150-C HMS system (image courtesy of ULTRA)
+
+These subcontracts move the development of CSC’s anti-submarine warfare (ASW) capability from the program definition phase into the substantive manufacture and delivery of the vessels’ suite of sonars.
+
+The S2150-C HMS system is a prime example of the inward technology transfer and sovereign capability that the CSC program is building for Canada. The system was originally designed for the UK Type 26 platform, meaning it is optimized for the vessel design that has been selected for the CSC program. Read More …
+
+Successful sea trials for ECA GROUP’s UMISAS sonar
+
+Feb 2021: ECA GROUP’s UMISAS sonar completed a series of sea trials in the 2nd half of 2020 in preparation of their integration in AUVs and Towed Sonars for the Mine Countermeasures replacement program for the Belgian and Royal Netherlands navies.
+
+Pictures: Top-left: ECA A18 AUV, Top-right, ECA’s MCM concept for Belgium-Holland, Middle: ECA A18 AUV, Bottom: ECA UMISAS sonar image (pictures courtesy of ECA)
+
+As part of the programme to replace the naval Mine Countermeasures capability of the Belgian and Royal Netherlands navies, which includes the supply of twelve minehunters equipped with unmanned systems (Toolbox), ECA GROUP announces the completion of sea trials of its UMISAS sonar for both the AUVs and Towed Sonars of the rMCM programme. The next step is the on-going production of the UMISAS sonars for their integration in the A18-M and T18-M adapted to the rMCM programme. This integration will take place between October 2021 and March 2022.
+
+The UMISAS sonars are interferometric synthetic aperture sonars (InSAS) used for mine detection missions as part of Mine Countermeasures operations at sea. The UMISAS sonars aim to obtain a spatial resolution of about 3 cm x 3 cm to optimally classify small and irregularly shaped objects on the seabed. Read More …
+
+Kongsberg Maritime to launch HUGIN endurance AUV
+
+Feb 2021:
+
+Feb 2021: Kongsberg Maritime launches the next generation of its advanced HUGIN Endurance Autonomous Underwater Vehicle (AUV) the new AUV boosts operational duration to approximately 15 days, enabling comprehensive survey and inspection missions far from shore.
+
+Image Credit: Kongsberg Maritime
+
+This longevity allows HUGIN Endurance to undertake extensive missions without the support of a mothership. Shore-to-Shore operations offer the opportunity to reduce the carbon footprint for commercial activities and yet retain unrivaled data resolution and accuracy. With this in mind, KONGSBERG has added its Maritime Broadband Radio (MBR) communications system to HUGIN Endurance’s payload. MBR allows it to surface and share large quantities of data swiftly with any suitably equipped installation, such as another vessel, shore station, or a wind turbine fitted with an MBR antenna.
+
+The HUGIN Endurance can be equipped with a wide array of sensors, including the high-resolution KONGSBERG HiSAS synthetic aperture sonar, a wide swath multibeam echosounder, sub-bottom profiler, and magnetometer, together with other sensors to detect parameters such as methane, current, and turbidity. Read More …
+
+Remote-controlled USV Survey of Lake Superior Seabed
+
+Jan 2021: Two XOCEAN Uncrewed Surface Vessels (USVs), remotely controlled via satellite, took to Lake Superior this winter to conduct pioneering survey work for the Canadian Hydrographic Service (CHS) in partnership with IIC Technologies.
+
+XOCEAN XO-450 uncrewed surface vessel.
+
+CHS contracted IIC Technologies to acquire a high-resolution seabed survey in water depths up to 200m, of over 800km2 off Thunder Bay, Ontario, using USV technology.  IIC partnered with XOCEAN, who provided and remotely operated their XO-450 USVs from XOCEAN’s Control Centres in the UK and Ireland, while IIC provided the party chief, shore-based data processing and logistical support.
+
+Sample bathymetry data captured during the Lake Superior seabed survey
+
+Throughout the mission, a team combining IIC Technologies hydrographers and data processors and XOCEAN USV pilots and surveyors remotely monitored the USVs to ensure safe operation of the vessels and quality of data acquisition. The success of this project demonstrates the highly flexible and collaborative nature of this new technology, enabling industry experts to have direct access to real-time data, from any location. Read More …
+
+Royal Australian Navy Collins Class Submarines to Receive Sonar Upgrades
+
+Jan 2021: The two contracts, worth around $23.7 million, are for the design and implementation of the Heron – Mine and Obstacle Avoidance Sonar (MOAS) System and the High-Frequency Intercept Array (HFIA) for the Collins Class submarine fleet.
+
+Royal Australian Navy Collins Class Submarines
+
+The Heron Mine and Obstacle Avoidance Sonar (MOAS) is an Australian designed and developed system and the result of more than 20 years of investment in Australia by Thales, the Royal Australian Navy (RAN) and Australian Department of Defence’s Defence Science and Technology (DST) to develop sonar systems tailored to Navy’s unique operating requirements.
+
+Mine and obstacle avoidance capability is critical to sustaining naval operations due to the rapidly evolving threat of mines, as well as other navigational hazards in the shallow, poorly charted waters that are prevalent throughout Australia’s maritime region.
+
+The Heron system provides enhanced detection, coupled with a low false alarm rate, against dangers ranging from small mine-like objects to reefs, shoals, and hazardous objects like displaced shipping containers.
+
+The High-Frequency Intercept Array (HFIA) will enhance the submarine’s ability to detect high-frequency emissions like sonars, and emerging undersea threats. Read More…
+
+US Navy tests hunting subs with an aerial drone
+
+Jan 2021: The U.S. Navy and General Atomics in November used sonobuoys dropped from an MQ-9A Block V Reaper to track a simulated submarine target on a U.S. Navy Pacific test range, in what the contractor says is the first time an aerial drone has deployed a self-contained anti-submarine warfare system.
+
+General Atomics MQ-9B is in development for maritime use. A modified MQ-9A was recently used in an anti-submarine warfare demonstration. (A rendering of the MQ-9B from General Atomics)
+
+The Reaper deployed a mix of 10 sonobuoys – deployed to measure water conditions and monitor for targets – then received and transmitted the data in real time to a monitoring station at Laguna Flight Operations Facility located at Yuma Proving Ground in Arizona.
+
+The Reaper managed to acquire and track an expendable anti-submarine warfare training target for three hours using the General Dynamics UYS-505 acoustic processing software.
+
+MQ-9B SeaGuardian will have four wing stations available to carry up to four sonobuoy dispenser system pods, packing up to 40 ‘A’ size or 80 ‘G’ size sonobuoys. Read More…
+
+Chinese Ships Seen Mapping Strategic Seabed In Indian Ocean
+
+Jan 2021: Chinese government ships have been carrying out a systematic survey in the eastern Indian ocean. Data gathered may be particularly relevant to submarine warfare.
+
+A Chinese Survey ship, the Xiang Yang Hong 03, is currently operating in the Indian Ocean. The bigger picture is that it is part of a major effort by China to systematically map the seabed across vast swath of the Indian Ocean using deep tow sidescan sonars and gliders Sea Wing (Haiyi).
+
+The survey activity covers a massive area, around 500,000 square km, and is getting larger. The inference is that, as well as conducting civilian research, these ships may be gathering information for naval planners.
+
+Hydrographic data is civilian-defense agnostic. This means that it can be used for both civilian and military purposes. The eastern Indian Ocean is likely to be of particular interest to the Chinese Navy as they expand their submarine capabilities. The data from these surveys may help submarines navigate, or improve their chances of remaining undetected.
+Read More…
+
+DSIT’s Portable Diver Detection Sonar Supplied To NATO Country
+
+Jan 2021: DSIT Solutions Ltd. – supplies a NATO country with its PointShield Portable Diver Detection Sonar (PDDS) system.
+
+PointShield is a fully automatic, high-performance PDDS system designed for underwater ship and site protection
+
+Lightweight, compact and portable, PointShield is rapidly deployed and easily moved between sites. Providing fully automatic detection, tracking, classification, and alerts.
+Read more…
+
+Italy’s New Type U212 NFS Submarine Program
+
+Jan 2021: The Italian Ministry of Defense’s Secretariat General/National Armaments Directorate for Naval Armaments has announced its intention to proceed, via the Organization for Joint Armament Cooperation (OCCAR) agency, with a procurement contract for 2 + 2 Type U212 NFS (Near Future Submarine) Air Independent Propulsion (AIP) submarines and the related logistic and training support to be awarded to Fincantieri shipbuilding group as prime contractor.
+
+U212 NFS will be fitted with eight 533 mm tubes for Black Shark heavy torpedoes as well as land attack cruise missiles. H I Sutton image
+
+The U212 NFS AIP boats will have a hydrodynamic enhanced hull design with a central body 1,2 meters longer compared to in-service platforms, and including a propeller optimized cap combined with pre-swirled rudders, a fluoropolymer foul release hull coating to reduce fuel consumption, all contributing to reduce the acoustic signature, alongside a new emerging blowing system.
+
+The new platforms could potentially also take advantage in the future of the on-going revolutionary Submarine UnderWater Invisible through MetaMaterials (SUWIMM) R&D program. Read More …
+
+Iceberg Management Operations
+
+Oct 2020: A decision support tool (SIMS – Smart Ice Management System) is being developed to integrate the rapid generation of 3D iceberg shape data with tools that utilize the data to improve iceberg management success rates and efficiency. For this application, the C-CORE (https://www.c-core.ca/) team used the Polaris LR Laser Scanner and the R2Sonic 2026 Multibeam Sonar system paired with the Applanix POS MV Wavemaster generating an high-quality 3D iceberg profiles for stability analysis. See pictures below.
+
+C-CORE has been able to show that significant improvements in drift forecasting accuracy are possible when measured iceberg profiles are used, as opposed to estimated iceberg draft and mass. In previous forecast models, the iceberg draft and mass were estimated using relationships based on the observed waterline length of the iceberg. Read More …
+
+XOCEAN Delivers Multi-USV Carbon Neutral Operations
+
+Oct 2020: In June, XOCEAN completed a wide area bathymetric survey in the eastern Irish Sea. Multiple USVs were used to complete the 422km2 survey in depths ranging from 10m to 30m. Survey activity was carried out in a variety of conditions up to Sea State 5.
+
+XOCEAN Unmanned Surface Vessel
+
+Sonar system was Norbit MBES, Valeport SVP and Qinsy Software.
+
+ECA Group Secures 20 M€ Order For Latvian Naval Forces Minehunters Upgrade
+
+Oct 2020: Following an international contest, ECA Group has been awarded a contract worth more than 20 million euros for the modernization of three mine countermeasures vessels belonging to the Latvian Naval Forces.
+
+ECA AUV A18-M
+
+Under this contract, ECA Group will provide the Latvian Naval Forces with an innovative solution for the modernization of its existing mine countermeasures vessels, replacing the conventional detection system based on a hull sonar for mines with a smaller unmanned system consisting of the underwater drones AUV A18-M for detection and underwater robots Seascan MK2 and K-STER C for identification and clearance of the mines.
+
+Latvian MCMV
+
+With this contract, ECA Group is growing on a new market: renovation of mid-life mine countermeasures systems on ships. In the case of Latvia, it concerns the Alkmaar mine countermeasures vessel acquired from the Royal Netherlands Naval Forces. The solution chosen by Latvia allows to add renewed potential to these vessels.
+
+SS Breda
+
+Oct 2020: Scottish Association for Marine Science in collaboration with NORBIT Subsea, have been carrying out subsea surveys from Etive Explorer vessel using the Norbit iWMBS multi-beam sonar system.
+
+The bathymetric images are of the SS Breda  in Ardmucknish Bay, near Benderloch, Argyll. The Dutch-owned ship was sunk by German bombers whilst anchored in the bay, just before Christmas 1940.
+
+Wreckage of German World War II battleship found off Norway
+
+Sep 2020: The wreckage of a German warship that was struck by a British torpedo in 1940 has been discovered off the coast or Norway. Norwegian power grid operator Statnett said the cruiser Karlsruhe was identified more than 1,600 feet underwater from sonar images.
+
+Launched in 1927, the 571-foot ship led the attack on the southern Norwegian port of Kristiansand during the invasion of Norway on April 9, 1940.  With nine cannons and three triple turrets, it was “the largest and most fearsome ship in the attack group”.
+
+The Karlsrue was hit by the British Submarine “Truant”, firing a salvo of torpedoes and several hit Karlsrue that later was abandon and sunk.
+
+USS Delivers Unmanned Surface Vessel to Tetra Tech
+
+Sep 2020: UK-based Unmanned Survey Solutions has delivered an Inception Class MKII semi-autonomous Unmanned Surface Vessel (USV) to consulting and engineering company Tetra Tech.
+
+The first payload pod has been fitted out with an R2SONIC 2020, SBG Ekinox-D, Valeport SVS, and Hypack Hysweep software for undertaking high-resolution multi-beam data acquisition. Read More …
+
+Sep 2020: Polish Hydrographic USV – HydroDron
+
+The HydroDron platform is an unmanned catamaran with a 4m long and 2m wide double hull, constructed from lightweight and durable materials. It is designed to make hydrographic measurements in waters that may be difficult or impossible to reach for larger vessels.
+
+HydroDron USV
+
+The highly mobile USV, which can reach a speed of over 10 knots, can be transported and launched from a car trailer or a larger manned vessel. Featuring autonomous navigation and automatic 3D hydrography, it uses adaptive trajectory planning and automatic 3D analysis of near real-time situational data to perform bathymetric, sonar, and other measurement mission
+
+The main bathymetric sonar is Ping DSP 3DSS-DX450, which is a multi-angle phase measurement system.
+
+There is also a HydroBox HD and Echologger EU400 singlebeam echosounder
+
+For above water survey, the USV is equipped with a Velodyne VLP-16 LiDAR system
+
+Kongsberg to Supply SS1221 Sonars for Norwegian Coast Guard Vessels
+
+Aug 2020:
+
+KONGSBERG will equip the new 136-meter, ice-strengthened vessels with its new SS1221 sonars, which boast acoustic properties which make them ideally suited for multiple operations safeguarding Norwegian territorial waters, especially those requiring deployment in shallow-water environments.
+
+Artist Illustration of the New Jan Mayen Class Vessel
+
+The SS1221, principally devised for ASW operations and capable of detecting torpedoes or other small objects in the water column, is an active hull-mounted sonar that utilizes sophisticated tracking algorithms. Its electronically-stabilized transmitting and receiving beams can be tilted to adjust to challenging sound speed profiles, with its integrated Sound Propagation Model determining the optimal tilt settings and enhancing the Probability of Detection (PoD) ratio. The SS1221 sonars will be delivered to the Coastguard complete with retractable hull units and gate valves for ice protection, ensuring safe and efficient operation.
+
+German U-boat surveyed more than 100 years after wartime sinking
+
+Aug 2020: A First World War German submarine has been surveyed for the first time since its loss in 1917.
+
+Sophisticated scanning techniques and deep-sea video footage have revealed a large hole in the boat’s hull–caused by an attacking British naval vessel.
+
+Survey of the German WWI U-boat UC-47 using a Kongsberg EM 2040D (MMT)
+
+During the summer of 2020, scientists led by deep-sea archaeological expert Dr Rodrigo Pacheco-Ruiz of the University of Southampton, in collaboration with offshore survey companies MMT and Reach Subsea, investigated the wreck of UC-47 on behalf of Tolmount Development during offshore operations to prepare for the laying of a new pipeline in the North Sea, some 20 nautical miles off the coast of Yorkshire, England.
+
+SROV equipped vessel Havila Subsea was used during the expedition
+
+Using state-of-the-art robotics and high-resolution geophysical equipment, the wreck, which lies 50 meters below the surface, was mapped and inspected in unprecedented detail, showing an astonishing level of preservation.
+
+UC-44, sister submarine of UC-47. US National Archives and Records Administration.
+
+UC-47 was credited with sinking more than 50 vessels in her year-long career and within the German Imperial Navy, had a reputation as a lucky vessel. But on 18 November 1917, her luck ran out when the Royal Navy patrol boat HMS P-57 surprised her on the surface – ramming and then depth charging the U-boat. The sub went down with all hands and has rested on the seabed ever since. Read More …
+
+Royal Navy Accelerates Adoption of Unmanned Systems
+
+Aug 2020: Last week, the Royal Navy carrier HMS Princes of Wales hosted the Future Maritime Aviation Force Accelerator Day, bringing together experts from the navy, MOD, and industry to meet and discuss the vision for drone operations.
+
+A UAV carrying an AUV on the deck of the carrier HMS Prince of Wales (Royal Navy)
+
+The Future Maritime Aviation Force, Brig. Cheesman said, was also about seeing how the Royal Navy could gain advantage from the pace of technological development already underway in the commercial sector.
+
+“The aim is to transition rapidly from what we have now to whatever we want in the future,” said Brig. Cheesman. “We live in an exponential world of technological change and if we can integrate the latest and get it on operations, it will deliver battle-winning advantage. Specifically, getting that technology onto ships like HMS Prince of Wales would be a game-changer.”
+
+Klein to Produce Synthetic Aperture Sonar (SAS)
+
+July 2020: Mitcham Industries, Inc. announced its wholly-owned subsidiary, Klein Marine Systems, Inc. has entered into an agreement with a European defense contractor to jointly upgrade existing technology to create the next generation of synthetic aperture sonar (SAS) systems for commercial and military markets. The new systems will be based on technology developed by each party over the past several years. Financial terms of the arrangement were not disclosed.
+
+“We believe that by partnering with this major European defense contractor that has recognized expertise in marine acoustic technology, and by leveraging both our previous developments, we will be able to bring solutions to the market much more quickly,” Malden said. “We also think this will significantly increase the addressable market for our Klein sonar solutions.”
+
+Malden said the partners intend to provide SAS systems for both towed body and autonomous underwater vehicle (AUV) configurations. Read More…
+
+FUGRO COMPLETES MIDDLE EAST’S FIRST UNCREWED GEOPHYSICAL ROUTE SURVEY
+
+July 2020: In response to increasing demand for remote offshore services, Fugro has completed the Middle East’s first fully autonomous geophysical shallow-water route survey.
+
+Fugro Survey and USV
+
+Controlled from their remote operations centre in Abu Dhabi, an uncrewed surface vessel (USV) captured a full range of geophysical data across a survey area some 40 km out from the coast of Abu Dhabi to support a client’s critical project entirely remotely.
+
+The results of the fully autonomous geophysical shallow-water route survey comprised conductivity, temperature, depth and salinity (CTDS) profiles, bathymetry data, seabed imaging, sub-bottom profiles, and ferrous object detection such as pipes etc. The efficiency gains and material reductions from using Fugro’s remote and autonomous solution, rather than a conventionally mobilised and crewed survey, included reduced HSSE exposure and significant client cost savings. Fugro’s USVs also have a much lower carbon footprint than a regular survey vessels. Read More …
+
+FR/UK MMCM Prototype Successfully Tested In Operational Configuration
+
+July 2020: Thales yesterday announced the success of the first configuration conducted under real operational conditions with the complete system developed for the Franco-British MMCM (Maritime Mine Counter Measures) program.
+
+(Credit: Thales/Shaun Roster)
+
+Over a period of a week, the minehunting mission completed four operational scenarios using all the subsystems developed for the programme by Thales and its partners: the unmanned surface vessel (USV) with its volume search sonar, the towed array sonar, two unmanned underwater vehicles (UUV) equipped with the SAMDIS sonar, and the robotic mine neutralisation system. This comprehensive mission included several sequences combining autonomous vehicles with high-level automated functions remotely controlled from the operational command centre via a secure communication system.
+
+The first two scenarios involved end-to-end threat detection, classification and localisation throughout the mission. In the third scenario, readings were compared with data from an earlier mission to detect changes, and the last scenario entailed relocation and identification of several mines, and neutralisation of one of them. With all the threats positively detected and the robotic neutralisation procedure completed as planned, the mission was a success from beginning to end and confirmed the excellent operational performance of all the systems deployed.
+
+iXblue Equips Ifremer’s New 6000m AUV
+
+July 2020: iXblue reports it has been chosen by Ifremer, the French National Institute for Ocean Science, to equip its new 6,000-meter-rated autonomous underwater vehicle (AUV) for the CORAL Project. The AUV will be equipped with synthetic aperture sonar (SAS), Sams-150, a Phins C7 Inertial Navigation System (INS), a sub-bottom profiler Echoes 5 000 and will use iXblue’s Delph Software suite for SAS and navigation post-processing.
+
+The “Constructive Offshore Robotics ALliance” CORAL project aims at developing, in an industrial alliance led by Ifremer, a deep sea AUV – Autonomous Underwater Vehicle- for seabed exploration down to 6,000-meter depths. The AUV is a newly developed system capable of 36-hour mapping survey.
+
+Sams-150 expands the capabilities of conventional side-scan sonar for shallow- to deep-sea applications. The Sams 150’s interferometric sonar will deliver co-registered full-swath backscatter and bathymetry data, increasing the achievable resolution and coverage rate from the ultra-deep water AUV surveys.  Read More …
+
+UK MoD Seeking UUV For Mine Warfare Missions From USV
+
+July 2020: UK MoD is seeking to procure three Unmanned Underwater Vehicles (UUV) to conduct mine warfare missions from Unmanned Surface Vehicles (USV) for the Mine and Hydrographic Capability (MHC) program.
+
+Two USVs being tested by the UK MoD. ARCIMS (left) and Halcyon (right). Picture: MoD ©Crown Copyright
+
+The UK MoD issued a first procurement timeline, which will begin in August/September with a prequalification questionnaire (PQQ), followed in November/December by an invitation to tender (ITT) process. A contract award is expected around the end of April 2021. 
+
+Two types of USVs are currently being tested by the Royal Navy MASTT trials and development unit (MASTT = Maritime Autonomous Systems Training and Trials): The Halcyon by Thales (and L3 Harris) and the ARCIMS by Atlas Elektronik UK.
+
+Likely UUV bidders include the major players in the industry: Atlas Elektronik, ECA Group, Bluefin Robotics, Hydroid, Teledyne Gavia, Oceanserver, L3Harris , Read More …
+
+L3HARRIS Unveils New Iver4 580 AUV
+
+July 2020: L3Harris Technologies has announced the second vehicle in the Iver4 family of next-generation UUVs, the new man-portable Iver4 580 UUV.
+
+Iver 4 – 580
+
+The UUV is designed to address several customer missions, including survey; multi-domain intelligence, surveillance and reconnaissance; anti-submarine warfare; seabed warfare and mine warfare.
+
+The new Iver4 580 features a full suite of sensors in a portable size (5.8″ diameter and 82″ length) and small mission footprint for rapid deployment.
+
+The Iver4 580 has been designed to minimize off-mission time. Data recorded from the on-board sensor suite can be downloaded from the Iver4 580 at GigE speed allowing the vehicle to get back on mission in minutes. Read More …
+
+Poland’s MoD Procures Additional Gavia AUVs
+
+July 2020: Ministry of Defence of Poland has procured, through Remontowa Shipbuilding two additional Gavia Autonomous Underwater Vehicles (AUV) for its second and third Kormoran Class new MCMV.
+
+The new modular AUVs will be equipped with the EdgeTech 2205 side scan sonars (Edgetech, West Wareham, MA, USA) with a BlueView MB2250 Microbathymetry Module (Teledyne Reson, Denmark), providing simultaneous dual frequency 600 /1600 kHz EdgeTech 2205 side scan sonar with gapfill featured by the BlueView MB2250.  Inertial navigation will be provided by the PHINS C5 (iXblue, France) inertial navigation system (INS), aided by a 600kHz Pathfinder DVL (Teledyne RDI, CA, USA). Read More …
+
+Kraken serves Royal Danish Navy Mine Hunting upgrade program
+
+July 2020: Kraken Robotics Systems Inc. has landed a contract to provide new sonar systems for the Royal Danish Navy.
+
+KATFISH SAS Sonar
+
+Kraken will deliver the KATFISH towed synthetic aperture sonar, the Tentacle winch, and Autonomous Launch and Recovery System (ALARS) to the Royal Danish Navy. Read More…
+
+NORBIT Subsea Launches new Integrated Ultra High-resolution Multibeam Echo Sounder
+
+July 2020: NORBIT Subsea announced it has launched a new Integrated Ultra-high Resolution Multibeam Echo Sounder.
+
+NORBIT New WINGHEAD Multibeam Echsounder
+
+The all new NORBIT WINGHEAD️ sonar joins the manufacturer’s WBMS Product range of compact sonars. NORBIT claims the new product is the first cylindrical ultra-high resolution bathymetry sonar on the market.
+
+Combined MBES + LiFAR Survey of Old Town Bridge Trondheim, Norway
+
+According to NORBIT, the new portable and lightweight multibeam echosounder features ultra-high resolution 0.5×0.9deg beam width, true 1024 beams beamformer, good acoustic robustness, new high-end GNSS/INS, integrated real-time sound velocity and pipeline mode.
+
+World Hydrographic Day
+
+June 2020: This year’s theme is “Hydrography: Enabling autonomous technology.” 
+As hydrographers, you are uniquely aware of how poorly mapped out world oceans are. If we are to complete the monumental task of mapping our oceans in our lifetime, autonomy and unmanned systems will be the key to accomplishing this. 
+
+In the United States alone we have almost two million square nautical miles of unmapped exclusive economic zone. Efforts like Seabed 2030 bring critical focus to this challenge and make this an exciting time to be in the ocean mapping and hydrographic industry!
+The World Hydrography Day event seeks to bring attention to this issue. It was chartered on November 29, 2005, by the United Nations “…with the aim of increasing the coverage of hydrographic information on a global basis, and urges all States to work with that organization to promote safe navigation, especially in the areas of international navigation, ports and where there are vulnerable or protected marine areas.”
+THSOA would like to hear stories of what you are doing with autonomy and unmanned systems in your surveying work. Please send stories and photos to USHydro@THSOA.org. Happy World Hydrography Day!
+
+FarSounder Signs on NAVSEA UUV Project
+
+June 2020: FarSounder sahas been selected as a subcontractor on a research and development project led by GMATEK Inc. This project is contracted by the U.S. Navy’s Naval Sea Systems Command (NAVSEA), Program Executive Office – Unmanned and Small Combatants (PEO-USC).
+
+ARGOS 350 Forward Looking Sonar
+
+The research project will apply machine learning and deep-learning artificial intelligence (AI) technology to identify solutions and develop a system to mitigate and compensate for sensor degradation onboard unmanned surface and undersea vehicles (USV/UUV).
+
+The compact and lightweight  Argos 350 is a navigation tool for situational awareness for USV/UUVs. Being without a crew, they have an even higher risk of collision due to limitations with traditional navigation methods and technologies. This 3D FLS system allows the vessel to know in real-time what is ahead under the water before it’s too late. Read More …
+
+India’s National Institute of Ocean Technology Signs Contract for AUV System
+
+June 2020: Kongsberg Maritime has announced that contracts have been signed for the sale of a HUGIN AUV system to the Indian National Institute of Ocean Technology (NIOT), located in Chennai, India. The HUGIN AUV system ordered by NIOT is rated to a depth of 6,000 metres and will be equipped with a KONGSBERG HISAS 1032 synthetic aperture sonar and EM2040 multibeam echosounder, designed for hydrographic and seabed classification applications.
+
+It will also carry a high-resolution color still image camera, plus a range of environmental sensors for oceanographic surveys, including a magnetometer. . Read More …
+
+REMUS AUV with MA-X Gapfiller Nose
+
+June 2020: Check out this photo of a REMUS 300 UUV breaching while sea testing! Special thanks to Hydroid engineers that caught the cool action shot. Read more about the REMUS 300: https://www.hydroid.com/REMUS300 #unmanned
+
+Picture courtesy of Huntington Ingalls Industries
+
+Please note that special nose with an integrated Klein MA-X gapfiller sonar. Example of the sonar image in the picture below, from Klein website.
+
+Example of Sidescan (left) and MA-X gapfiller (right) to provide a full seafloor coverage . Picture courtesy of Klein Marine Systems – “Image of the week”.
+Changing the Nature of Mine Warfare
+
+May 2020: More than 90% of the world’s trade happens by sea, so any disruptions to the global flow can have serious consequences. Sea mines are an inexpensive but low-tech weapon that can cause havoc with trade and communication, but Saab’s new MuMNS mine neutralization system could be a breakthrough in countering mine warfare.
+
+Over the past 40 years, the introduction of Remotely Operated Vehicles (ROVs) has largely removed the need for divers to dispose of mines, although certain circumstances still demand their expertise.
+
+SAAB MuMNS
+
+One early system, ECA’s PAP, used a camera to check it’s a mine (and not a rock) before laying a charge. The more recent, ‘one shot’ system employs a much smaller, shaped charge that delivers a high energy slug that is effective against all mines even those filled with insensitive explosives.
+
+But these systems are either too slow, due to the need for the search and recovery phases, or, are ‘fire and forget’. These lighter ‘one-shots’ also struggle to maneuver effectively in strong sea currents.
+
+LEFT: SAAB ROV with 3 charges , RIGHT: Example of NORBIT Forward Looking Sonar
+
+‘One-shot’ systems are also costly, since every single sea mine requires the use of the system on a one-to-one basis, with no reuse possible. History tells us that sea mines are laid in the hundreds or thousands, making this a potentially very expensive approach.
+
+Saab’s solution to these problems represents a breakthrough for safer seas. It has been six years in the making, involving a core team of 12 people, including Lade. It starts with combining the best features of the PAP and one-shot systems. The Saab Multi-Shot Mine Neutralization System (MuMNS) can go down and use sonar for re-location and camera to identify a target, just as the old PAP system can, but it also has a shaped detonation charge like the lighter ‘one-shot’, but with three shaped charges rather than one.
+
+Once the MuMNS charge is attached, a radio receiver floats up to the surface, the charge is then fired remotely from the mother ship on the horizon or beyond. Read More …
+
+USS Nevada Shipwreck Located
+
+May 2020: The wreck of one of the U.S. Navy’s longest-serving battleships has been found 15,400 feet beneath the surface about 65 nautical miles southwest of Pearl Harbor
+
+The USS Nevada (BB-36), which served in two world wars over the course of a career that spanned more than three and a half decades, was discovered by underwater and terrestrial archaeology firm SEARCH, Inc. and marine robotics company Ocean Infinity at the bottom of the Pacific.
+
+Picture left: USS Nevada (US Navy), Pictures Right: Ocean Infinity and their Hugin AUV
+
+USS Nevada was launched in 1914 and performed escort duties for valuable convoys headed to the British Isles. At the end of WWI, she escorted the ocean liner George Washington, carrying U.S. President Woodrow Wilson to attend The Paris Peace Conference.
+
+In WWII, on July 7, 1941, in the attack on Pearl Harbor, USS Nevada was the only battleship to get underway but, having been struck by five bombs, finally sank in nearby shallow waters. During this action 60 of her crew were killed and 109 wounded. Following salvage operations she soon re-joined the war effort, sailing to the United Kingdom to take part in the D-Day landings, amongst other European operations. She then sailed to the Pacific, arriving off Iwo Jima in February 1945 and played an important part in the invasion of Okinawa.
+
+Picture Left: US Tank left on USS Nevada for the Bikin Atomic Test
+Picture Middle: Exterior bulkhead leading into a compartment for one of USS Nevada’s 5-inch/38 caliber guns
+Picture Right: Nevada’s superstructure towering steel tripod mast that supported the navigation and command centers, lookout stations, and radar
+
+After WWII, USS Nevada was assigned to be a target ship in the first Bikini atomic experiments in 1946, which she survived. Finally, in 1948 she was used as a gunnery practice target. Unable to be sunk by the ships using her as a target, she finally went down having been hit by an aerial torpedo on July 31, 1948. Read More …
+
+Mapping the Ikaite Columns of the Ikka Fjord, SW Greenland
+
+May 2020: Ikka Fjord in SW Greenland is the only known place in the World where the rare carbonate mineral ‘Ikaite’ (named after the fjord) is found in the form or large column structures, as opposed to its usual small crystal form. Over the past 25 years, there has been an intensive scientific effort to try and understand why the mineral forms here and in such a dramatic form.
+
+University of Iceland did the survey using a Norbit Multibeam Echosounder System (MBES).
+
+Further surveys are planned over the coming years to monitor the deposits in the locality motivated by the fact that recent changes to currents around Southern Greenland, attributed to global warming, are bringing warmer water into the fjord. As ikaite formation is temperature-sensitive the changes in water temperature poses a threat to the future health, condition, and long-term stability of this spectacular, but now vulnerable location, that itself may hold the key to a powerful tool in the fight against global warming.
+
+Next Generation Forward Looking Navigation Sonar – Vigilante
+
+May 2020: Sonardyne has developed Vigilante, the next-generation, long-range, forward-looking sonar (FLS). Vigilant FLS is a navigation and obstacle sonar. Vigilant provides automated alarms of objects in the water column out to 1.5 km. It also creates a real-time, 3D terrain map of the seabed ahead out to 600 m and down to 100 m water depth.
+
+Vigilant has two principal operational modes, Depth mode, and Sonar mode. Depth mode produces 3D bathymetry and color-coded depth image, out to 600 m and down to 100 m.
+
+Sonar mode processes the intensity of the acoustic data to extract long-range positional data out to 1.5 km and over a 90-degree field of view. Read More …
+
+Royal Navy Tests Autonomous Gliders to Boost Sub-Hunting Operations
+
+May 2020: The Royal Navy is testing advanced underwater gliders that can rapidly send valuable information used for submarine hunting operations in the North Atlantic. One of the Slocum Gliders is right now hoovering up information about the seas west of Scotland during a five-month deployment.
+
+The unmanned Slocum is capable of sending near real-time information on temperature, depth, salinity, currents, oxygen levels, turbulence, and more. These parameters can impact the efficiency of the sonar and sensors used by the Royal Navy’s Type 23 frigates and Merlin and Wildcat helicopters – as well as the Royal Air Force’s P-8 Poseidon – during submarine hunting operations.
+
+Currently, data collection takes months, but these gliders can relay information in a matter of hours. The intention is for the navy to eventually deploy gliders continually to high-threat areas to give a clear and constant picture of the underwater battlespace, meaning operational decisions will be based on the very latest information.
+
+Having this data quickly means sub-hunters will be able to adapt better when they are attempting to detect underwater surface threats. Read More …
+
+μMA-X System Supports US Navy Next Generation Small-class UUV Evaluation
+
+May 2020: Mitcham Industries announced that its Klein Marine Systems unit recently delivered the first micro-MA-X (μMA-X System) in support of US Navy Next Generation Small-Class Unmanned Undersea Vehicle (UUV) evaluation sponsored by the Defense Innovation Unit (DIU).
+
+The μMA-X system is the first in a series of new imaging products based on Klein’s previously announced MA- X technology and designed for both commercial and military unmanned vehicle markets.
+
+Traditional side-scan sonar imaging creates a nadir gap directly under the path of the vehicle. The μMA-X system fills that gap when paired with a conventional side scan, eliminating the need for additional time for overlapping survey lines to achieve 100% coverage. For UUVs, this translates into extended mission duration or shorter time to cover the same area. One of the key discriminators of the μMA-X, particularly for the defense sector, is the ability to produce high-quality imagery of the nadir area that is comparable to the traditional side-scan images. This allows for the data acquired by the system to be fed directly into existing automatic target recognition (ATR) software, allowing for automated detection and recognition of targets of interest. Read More …
+
+US Navy accepts delivery of first Zumwalt-class destroyer
+
+April 2020: The US Navy has accepted delivery of the first Zumwalt-class destroyer, USS Zumwalt (DDG 1000), at its new homeport in San Diego.
+
+The vessel will now transition from Combat Systems Activation to the next phase of developmental and integrated at-sea testing.
+
+The ship’s Raytheon AN/SQQ-90 integrated undersea warfare system includes AN/SQS-60 hull-mounted mid-frequency sonar, AN/SQS-61 hull-mounted high-frequency sonar and AN/SQR-20 multifunction towed array sonar and handling system.
+
+DDG 1000 is the lead ship of the US Navy’s next-generation of multi-mission surface combatants. Read More …
+
+BMT Unveils Hull-form for Autonomous Operations
+
+April 2020: Engineering firm BMT has unveiled a new hull-form specifically designed for long range autonomous operations. The Pentamaran design has been optimized to reduce fuel consumption and increase its adaptability across multiple applications.
+
+Offering a myriad of applications for defense and commercial innovators, Pentamaran vessels may be custom configured for military, patrol, intelligence surveillance and reconnaissance (ISR), anti-submarine warfare (ASW) and hydrographic survey work.
+
+BMT Design for Unmanned Surface Vessel
+
+The Pentamaran has been designed to reduce drag as much as possible, with very slender central hull and two smaller hulls or ‘sponsons’ on either side. The sponsons are set one behind the other, and when the vessel is operating on flat water, the forward sponsons are not immerged, as they provide roll stability effect in waves only. Compared to a trimaran there is less volume permanently immerged and therefore less resistance through the water. Read More…
+
+The looming threat of sea mines
+
+April 2020: In mid-2018, the Chinese navy conducted one of the largest mine warfare exercises in living memory, involving some 60 minelayers and minesweepers, aircraft, and submarines practicing laying and countering live mines. This unprecedented exercise, supported by some of China’s top scientists and mine development specialists, increased the already growing unease about China’s expansion into the South China Sea.
+
+Mine explosion by Royal Australian Navy.
+
+Some 10 years ago, a US Naval War College study revealed that China possessed over 100,000 sea mines and that their use was fundamental to its strategy of constraining US naval forces operating in Beijing’s area of interest. While, at the time, most strategists saw this as a direct reference to the Taiwan Strait and North Korea, that’s no longer so.
+
+With China’s expansion into the South China Sea and its militarisation of several reefs far from its shores, its minelaying forces have a more expansive role to play. The People’s Liberation Army Navy has a fleet of ships and conventional submarines with crews that are well practiced and indeed lauded, for their minelaying skills. They also possess very capable minelaying aircraft. The exercise demonstrated China’s commitment to mine warfare as a pillar of its naval strategy.
+
+Fast-forward to 2020 and we now face a much greater mine threat in APACregion than ever before, with most of the mine-hunting capability in decline — even though Australia remains totally dependent on sea-borne trade. A potential adversary to our north has the mine stocks, aircraft and submarines to completely shut down all sea traffic into our ports or sea lines of communication. Read More ….
+
+China Reveals Boosted Gliders
+
+April 2020: China has boosted its underwater glider capacity by developing an underwater glider named Haiyi, which means “sea wings.” Developed by the Shenyang Institute of Automation under CAS, the Haiyi glider can monitor seawater temperature, salinity, turbidity, chlorophyll, and oxygen content for months on end.
+
+The Haiyi (left picture) bears a striking resemblance to the Littoral Battlespace Sensing-Glider (LBS-G) used by the U.S. Navy (right picture). On December 15, 2016, China intercepted a U.S. Navy LBS-G in international waters in the South China Sea while it was being recovered by a U.S. Navy oceanographic survey ship. The LBS-G is manufactured by Teledyne Webb Research in East Falmouth, Massachusetts. The design is based on Teledyne Marine’s autonomous Slocum glider. Read More …
+
+Kongsberg to Supply Finnish Navy Corvettes with Anti-Submarine Warfare and Diver Detection Sonars
+
+April 2020: Kongsberg Maritime AS, Sensor & Robotics will deliver Anti-Submarine Warfare (ASW) and diver detection sonars for the Pohjanmaa-class corvettes currently being developed by the Finnish Navy under its Squadron 2020 project.
+
+Kongsberg will equip the vessels with its SS2030 and SD9500 sonars, both of which boast acoustic properties which make them ideally suited for deployment in shallow-water environments.
+
+The SS2030, principally devised for ASW operations and capable of detecting torpedoes or other small objects in the water column, is an active hull-mounted sonar that utilizes sophisticated tracking algorithms. Its electronically-stabilized transmitting and receiving beams can be tilted to adjust to challenging sound speed profiles, with its integrated Sound Propagation Model determining the optimal tilt settings and enhancing the Probability of Detection (PoD) ratio.
+
+The SD9500, meanwhile, is a light and compact over-the-side dipping sonar with horizontal and vertical positioning capabilities for diver detection, ASW duties and volumetric survey assignments in shallow, reverberation-limited waters.
+
+Imaging Sonars Receive Ultra-High Definition Upgrade
+
+April 2020: Kraken Robotics claims to be the first in the industry to achieve am imaging resolution of 2 cm with its AquaPix MINSAS, a Commercial-Off-The-Shelf (COTS) Synthetic Aperture Sonar (SAS).
+
+Kraken Thunderfish AUV with AquaPix SAS
+
+Using its Ultra HD software, Kraken improved the image resolution of the AquaPix SAS from 3.0 x 3.3 cm (across-track x along=track) to 1.9 x 2.1 cm, maintaining constant Ultra HD resolution across the entire swath. The high pixel density of Kraken’s Ultra HD sonar imagery allows advanced image processing techniques to extract all the available information from sonar echoes, resulting in superior seabed image quality.
+
+Teledyne SeaBat Multibeam Echosounders Upgrade
+Color-coded History Display
+Normalized Backscatter
+
+April 2020: Teledyne Marine has introduced several new features for the company’s SeaBat T20 and SeaBat T50 multibeam echosounders. The new features are part of the free version 2.0 update.
+
+With the new v2.0 update, Teledyne Marine has introduced 1024 true beams, as well as always having 1024 soundings, for all single head SeaBat T-series products. The increase from 512 to 1024 beams provides improved target detection capability due to the extremely high data density.
+
+A visualization feature update has been added to the Sonar User Interface (SUI), adding color by depth to the intuitive wedge history display. The real-time interpretation of the seabed helps users identify the required survey area faster, aiding productivity. See More …
+
+Royal Danish Navy Enhancing MH-60R Helicopters ASW Capabilities
+
+April 2020: As part of the Royal Danish Navy capabilities in anti-submarine warfare (ASW), the Danish Defence Acquisition and Logistics Organisation (DALO) is now procuring sensors and torpedoes for the 723rd Squadron’s nine MH-60R Seahawk helicopters.
+
+The acquisition includes sonars, sonobuoys, sonobuoys launchers, and torpedoes, as well as modification of the helicopters for the ASW role. The logical choice for sonar is the AN/AQS-22 from Raytheon.
+
+All systems and services are being acquired with the US Navy through the US Foreign Military Sales (FMS) program. Read More …
+
+First S2150 Sonar Fitted Aboard Royal Navy Type 23 Frigate HMS Portland
+
+April 2020: The sonar has been designed by Ultra Electronics Command & Sonar Systems and will replace the legacy Sonar Type 2050, which has been in the Royal Navy service since the 1990s. The new sonar incorporates a state of the art User Interface to improve operator effectiveness and usability. The digital control of the outboard array minimizes interference, reduces ship cabling, maximizes reliability and extends array maintenance intervals to at least 5 years.  The sonar will be fitted to eight of the Royal Navy Type 23 frigates. Ultra has also been awarded the contract to supply this sonar to the first three Royal Navy Type 26 frigates currently under construction. 
+
+As part of Ultra’s ‘Sea Searcher’ sonar range, Ultra has also developed two smaller and lighter weight variants of the Type 2150 Hull Mount Sonar for naval vessels up to 1,000 tonnes and 2,000 tonnes respectively. Read More …
+
+GeoSpectrum Launches Low Frequency Active VDS Deployable by USVs
+
+GeoSpectrum Technologies announces the debut of a new and compact version of its Towed Reelable Active Passive Sonar (TRAPS) suitable for Unmanned Surface Vessels (USVs).
+
+April 2020: Named TRAPS-USV, this lighter-weight variant is designed to fit on almost any size vessel, including patrol boats and USVs, while retaining full active sonar acoustic capabilities and providing ground breaking low-frequency active submarine detection off smaller platforms.
+
+Geospectrum new and compact version of the Towed Reelable Active Passive Sonar (TRAPS) suitable for Unmanned Surface Vessels (USVs)
+
+TRAPS-USV is a Low Frequency (LF) variable-depth-sonar intended for detection, classification, localization, and tracking of submarines in ASW operations. TRAPS’ unique advantage is that its’ projector array is reelable and stows on the winch drum with the receive array and tow cable. This unique feature eliminates the need for a dedicated active over-boarding system saving, weight, space, complexity and cost. Read More …
+
+U.S. Navy Issues Draft RFP For The MUUV Program
+
+April 2020: The Naval Sea Systems Command (NAVSEA) Program Executive Office (PEO) Unmanned and Small Combatants has released the draft RFP for the Medium Unmanned Underwater Vehicle (MUUV) program.
+
+This new effort is a joint collaboration between the Unmanned Maritime Systems program office (PMS 406) and Expeditionary Missions program office (PMS 408) to leverage similar requirements, technologies, capabilities, economies of scale and training and sustainment efforts that will feed into two separate efforts.
+
+UUVs by GDMS/Bluefin Robotics on display at DSEI 2019 (for illustration purpose)
+
+For PMS 406, MUUV will support the Razorback Littoral Battlespace Sensing Autonomous Vehicle, that will be launched and recovered from a submarine dry deck shelter or a torpedo tube.
+
+U.S. Navy image
+Slide 2 of briefing by Captain Pete Small, Program Manager, Unmanned Maritime Systems (PMS 406) during SNA 2019. Overview of US Navy UUV strategy
+
+For PMS 408 MUUV will support the Maritime Expeditionary Mine Countermeasures UUV program. Read More …
+
+Multibeam Sonar Integrated with ROV Control Software
+
+March 2020: During a trial with the U.S. Navy in San Diego, California, subsea technology specialist Tritech‘s Gemini 1200ik dual-frequency multibeam imaging sonar was integrated with SeeByte’s ROV (remotely operated vehicle) control software CoPilot. The Gemini 1200ik sonar was mounted onboard the Navy’s Videoray MSS Defender ROV and used to survey a harbor from the dockside.
+
+VideoRay Defender ROV
+Tritech Gemini 1200ik Sonar
+Tritech Gemini 1200ik Sonar
+
+SeeByte’s CoPilot allows operators to easily navigate the ROV using a point-and-click interface, flying the ROV to a specific point with the click of a mouse. CoPilot permits pilot controlled auto-transit and stop-and-hover, whilst providing automated sonar tracking and movement relative to a target. Read More…
+
+Tritech’s Gemini 1200ik multibeam imaging sonar offers two operational frequencies, 720 kHz and 1200 kHz, with the ability to switch between low and high frequency.
+The 720 kHz low-frequency setting is designed for target identification and obstacle avoidance at longer range, whilst the 1200 kHz high-frequency setting provides extremely detailed multibeam images for close-range. Read More …
+
+Mine Disposal System Integrated on VideoRay ROV
+
+March 2020: U.K. based ECS Special Projects has developed the Viper Mine Disposal System for the VideoRay Mission Specialist Defender remotely operated underwater vehicle (ROV).
+
+VideoRay with Viper Mine Disposal System
+
+The setup employs twin shot Viper disposal systems with the capability of attaching to multiple targets. They can be initiated using a shock tube link to the surface or by using acoustic initiation. Read More …
+
+Kongsberg Boosts EM 2040 MKII Multibeam Echosounder
+
+March 2020: Kongsberg Maritime has released two new features on its EM 2040 MKII multibeam echosounder.
+
+The first enables the use of dual high frequencies to survey wide swaths of the seabed at much higher resolutions than before, while the second facilitates simultaneous collection of backscatter data using multiple frequencies.
+
+With the new high-frequency feature, the EM 2040 MK II will additionally employ 600kHz and 700kHz frequencies to give enhanced detail over a swath of up to 120 degrees.
+
+A 600kHz, 100-degree scan from the EM2040
+
+This will enable the user to carry out bathymetric survey, inspection and wreck mapping at very high resolution.
+
+Seabed classification will also be more accurate due to the added ability to simultaneously collect backscatter data at multiple frequencies. See more…
+
+iXblue Launches Its New SeapiX-C Solid-State 3D Multibeam Sonar
+
+March 2020: iXblue, a major provider of advanced navigation, subsea positioning and imagery solutions dedicated to the Offshore market, announces the launch of its new SeapiX-C solid-state 3D multibeam sonar. Providing increased efficiency and safety, this new sonar offers real-time georeferenced static bathymetry capabilities to marine works operators for instant monitoring and decision-making.
+
+SeapiX-C solid state 3D multibeam sonar
+
+Offering a new static 3D imagery solution able to display the seabed in real-time during jack-up barges deployment, SeapiX-C enables operators to directly see where they are positioning the legs of the platforms, bringing higher efficiency and safety to deployment operations by removing the need for time-consuming and costly pre-lay diver operations.
+
+eapiX-C provides reliable digital elevation model from a static standpoint
+
+All real-time bathymetric results, platform information, and other critical information are furthermore displayed within a single user-friendly interface to facilitate operations.
+
+THALES TO DELIVER NEXT-GENERATION SONAR SYSTEMS FOR THE ROYAL NAVY’S DREADNOUGHT SUBMARINES
+
+Thales has been awarded a £330 million contract to equip the Royal Navy Continuous at Sea Deterrent (CASD) submarines with the latest Sonar 2076 system and Combat System Mast. Sonar 2076 is the world’s most advanced sonar suite and is currently in service with the Navy’s Trafalgar and Astute Class submarines. The Combat System Mast combines world class visuals, electronic warfare and communications.
+
+© BAE Submarine Solutions
+
+The system consists of a comprehensive suite of outboard arrays, combined with an inboard processing capacity providing a capability that is an order of magnitude greater than any other submarine sonar. The outboard components comprise:
+
+Hull-mounted flank, bow, mine detection, and intercept arrays,
+Fin-mounted underwater communications arrays,
+Towed array with associated reelable cable system
+Inside Russia’s Laika Next-Generation Attack Submarine
+
+The Laika class submarine follows on from the Pr.885/885M Severodvinsk Class cruise missile submarines. But it is not a straightforward successor. It was first revealed in the background of a media report on a Russian defense exhibition in December. Although it has not been officially confirmed the new design is likely to be the next generation Russian attack submarine project known as Husky.
+
+Laika Class Submarine with Conformal Bow Array, Integrated Flank Arrays, Towed Array and Active Sonar in the Sail.
+
+The type follows on from the Pr.885/885M Severodvinsk-class cruise missile submarines (SSGN). But it is not a straightforward successor. Instead, it is the cheaper little brother, intended as a replacement for existing attack submarines. As the Severodvinsk-class (also known as Yasen-class) replaces the Oscar-II SSGNs, Laika will replace the Akula and Sierra classes.
+
+Akula Class
+Yasen Class
+
+The submarine model shows a relatively conventional layout with hints of both the Akula and Severodvinsk classes. Like Akula it will revert to the traditional Russian double-hull convention.
+
+And also appears, like Akula, to have a chin-mounted Conformal Passive Sonar Array with integrated Flank Arrays (see drawing above).
+The first Severodvinsk boat had introduced a spherical array, taking up the entire bow much like older US Navy designs. That appears to have been dropped in favor of a conformal array in subsequent Severodvinsk/Yasen-class boats.  Read More …
+
+Sidescan Image of the Week
+
+FEB 2020: Klein submitted the sidescan image of the week, and even if it is an older image, it had a very interesting wreck and at first an unknown target beside the wreck
+
+Klein 2000 Image of wreck and mysterious object within the yellow circle
+
+And the mysterious object turned out to be a US Army Matilda tank with part of the gun corroded away. Read More …
+
+Left: Underwater image of tank and zoom of sonar image. Right Picture of Matilda tank.
+
+Huntington Ingalls Industries To Acquire Hydroid
+
+FEB 2020: Huntington Ingalls Industries (HII) announced today that it has entered into an agreement to acquire Hydroid Inc. a leading provider of advanced marine robotics to the defense and maritime markets and a U.S. based indirect subsidiary, wholly owned by Kongsberg Maritime.
+
+Hydroid’s REMUS autonomous underwater vehicle. Photo courtesy of Hydroid.
+
+In conjunction with the transaction, HII and Kongsberg Maritime are also establishing a strategic alliance to jointly market naval and maritime products and services to the U.S. government market and potentially to global markets.
+
+Hydroid, based in Pocasset, Massachusetts, will become part of HII’s Technical Solutions division. The acquisition of Hydroid expands HII capabilities in the strategically important and rapidly growing autonomous and unmanned maritime systems market. The transaction is subject to regulatory review and customary closing conditions and is expected to close in the first quarter of 2020. The value of the transaction is $350 million.
+
+This Is How Sonar Noise Can Be Cleaned And Classified
+
+FEB 2020: Teledyne CARIS announces the release of HIPS and SIPSTM 11.3. This new software upgrade will introduce the first-ever COTS (commercial-off-the-shelf) release of an AI solution for classifying and cleaning sonar noise.
+
+Teledyne CARIS seeks to reduce significantly the need for manual cleaning and to move data swiftly from acquisition to review. The Sonar Noise Classifier automatically identifies the vast majority of sonar noise, resulting in a reduction of manual cleaning effort by a factor of up to 10x at an accuracy of 95%. This allows the hydrographer to focus more time on other important aspects of the survey and processing workflow.
+
+This new approach to clean sonar noise is powered by the CARIS Mira AI engine, a new cloud-based platform to host current and future AI solutions. CARIS Mira AI also provides a flexible package capable of scaling with data processing needs. All data directed to the CARIS Mira AI platform is anonymized, randomized and encrypted before transmission. For additional security, no data remains stored on the cloud following the AI classification process. Read More…
+
+Ocean Infinity: Exploration company goes for robot boats at scale
+
+FEB 2020: US-based OI is a relatively new exploration and survey company. It was founded in 2016.
+
+It’s made headlines by finding some high-profile wrecks, including the Argentinian submarine San Juan and the South Korean bulk carrier Stellar Daisy. It also led an ultimately unsuccessful “no find, no fee” effort to locate the missing Malaysia Airlines Flight 370.
+
+Armada Unmanned Surface Vessels
+
+Ocean Infinity has ordered 11 USVs in different sizes. The smallest ones are 21m; the biggest is up to 37m.
+
+Each of them will be fitted out with an array of sensors and equipment, but also their own capability to deploy tethered robots to inspect right down to the bottom of the ocean, 6,000m below the surface.
+
+ARMADA Unmanned Surface Vessel with ROV
+
+And with every USV equipped with a hull-mounted, multi-beam echo-sounder, the boats have the potential to add to the global seafloor database. Some of them will also be equipped with towed sidescan sonars. Read More …
+
+Northrop to Integrate Sonar onto L3Harris Small-Class UUV
+
+JAN 2020: Northrop Grumman said it will integrate its µSAS sonar onto L3Harris Iver4 unmanned undersea vehicle (UUV) for a 12-month test period for the Defense Innovation Unit’s (DIU) next generation small-class UUV program
+
+Iver 4 UUV with Northrop Grumman µSAS Sonar
+
+Integrated onto a 9-inch diameter, 99-inch long, 200-pound UUV, the installation will occur at L3Harris’ Fall River, Massachusetts facility and the system will be tested in San Diego, California by the U.S. Navy.
+
+The integration of synthetic aperture sonar on a small diameter UUV is a significant step forward in small class vehicle capability. Read More …
+
+Indonesia’s 1st locally built submarine completes diving trials
+
+JAN 2020: The Indonesian Navy’s third Nagapasa-class submarine KRI Alugoro (405) has completed the nominal diving depth (NDD) phase of the sea trials.
+
+The trials, during which the submarine dived to a depth of 250 meters, were conducted in the Bali Sea and in the waters off East Java on January 20, 2020, Indonesian shipbuilder PT PAL said.
+
+Nagapasa-class submarine KRI Alugoro
+
+Launched in April 2019, KRI Alugoro was assembled in Indonesia under a transfer of technology agreement with South Korean shipbuilder Daewoo Shipbuilding & Marine Engineering (DSME).
+
+Indonesia’s first two Nagapasa-class boats were built at DSME’s shipyard in Okpo, Geoje, and delivered in August 2017, and April 2018.
+
+The Nagapasa-class submarines are 61 meters long, displace 1,400 tons and are operated by a crew of 40 sailors. They have an operating range of approximately 10,000 nautical miles and reach a speed of 21 knots while submerged.
+
+ELAC KaleidoScope sonar suite
+
+The Sonar System consists of ELAC KaleidoScope sonar suite (cylindrical array, a flank array, an acoustic intercept sonar, and a mine avoidance sonar)
+
+Royal Navy to begin Unmanned Minehunting Operations
+
+Jan 2020: The UK Royal Navy will begin minehunting and survey operations using unmanned surface vessels (USVs) in March 2020.
+
+Unmanned Autonomous MCM trials conducted from HMNB Clyde. Credits Royal Navy
+
+The navy will deploy a mix of unmanned and remotely-operated USVs and submersibles designed to detect ‘smart mines’ and conduct survey missions of the ocean and seafloor from HMNB Clyde.
+
+The active service follows a £13m contract award to Atlas Elektronik UK, the culmination of years of work and ongoing trials from the Royal Navy, Defence Equipment and Support (DE&S) and Defence Science Technology Laboratory (Dstl).
+
+Initial operation of the vessel will be carried out under the Royal Navy’s Project Wilton which aims to develop and deliver the navy’s unmanned minehunting and survey programs. Wilton has three vessels under its control; two remote-controlled and one manned boat alongside several submersible vehicles.
+
+XOCEAN Supports Greater Gabbard Survey
+
+Jan 2020 – Ocean data company XOCEAN has provided its XO-450 unmanned surface vessel (USV) for seabed surveys on seven of the turbines at the 140-turbine Greater Gabbard offshore wind farm, located 23 kilometres off the UK coast.
+
+Throughout the survey, the data collected was monitored from shore in real-time by experts located in the UK, to validate data collection before the vessel departed the work locations.
+
+XO-450 unmanned surface vessel (USV)
+
+The unmanned vessel is around the size of an average car (4.5 meters) and half its weight (750kg), and can be monitored and controlled 24/7 via a satellite connection by a team at an on-shore control center. The sonar pod indicates a Kongsberg MBES system.
+
+Wreck of US WWII Plane Revealed in Detailed Images
+
+Jan 2020 – A team of archaeological explorers and scientists recently documented the wreck of a U.S. World War II aircraft 77 years after it was lost off the coast of Hawaii.
+
+World War II aircraft 330 ft deep off Hawaii created from high-resolution video data from R/V Petrel ROV
+
+The Hawaii Undersea Research Laboratory (HURL), Project Recover, and private research vessel Petrel used advanced sonar systems and high-resolution video from AUV and ROV to generate detailed images of the sunken Grumman TBF Avenger.
+
+RV Petrel AUV, ROV, and Ship
+
+The site is believed to be associated with three U.S. servicemen who are missing in action since Oct. 11, 1942. Read More …
+
+US Navy receives another AN/AQS-20C mine-hunting sonar from Raytheon
+
+Jan 2020 – The US Navy has taken delivery of another AN/AQS-20C mine-hunting sonar system from manufacturer Raytheon.
+
+The delivery marks the tenth mine-hunting sonar developed by the company. Following delivery, the system was transferred to the Naval Surface Warfare Center, Panama City Division.
+
+The fully-qualified system is set to be incorporated into the navy’s Littoral Combat Ship (LCS) mine countermeasures mission package.
+
+Raytheon’s AN/AQS-20C mine-hunting sonar in action at the Advanced Naval Technology Exercise.
+
+The system encompasses five distinct sonars, including a synthetic aperture sonar designed to provide high-resolution imagery of mines on the seabed.
+
+The system’s advanced acoustic and electro-optic sensing capabilities play a significant role in detecting, classifying, localizing and identifying near-bottom moored mines, volume mines, and near-surface mines. See More …
+
+SeaRaptor AUV Completes Sea Acceptance Test
+
+Jan 2020 – Teledyne Gavia, a company of Teledyne Marine, announced it has completed the sale and recent sea acceptance testing of the SeaRaptor, 6,000m rated autonomous underwater vehicle (AUV)
+
+SeaRaptor AUV – 6000m version
+
+The SeaRaptor AUV incorporates a broad range of Teledyne content including acoustic modems, ascent and descent weight releases, a black box pinger locator, sub-bottom profiler (Teledyne Benthos), SeaBat T50 multi-beam echosounders, obstacle avoidance multi-beam sonar (Teledyne RESON), Doppler Velocity Log (DVL), Current, Temperature, and Depth sensor (CTD) (Teledyne RD Instruments), and onboard processing software (Teledyne Caris)
+
+2019
+Northrop Grumman’s AQS-24 mine hunting sonar has recently completed initial in-water testing of a Deploy and Retrieval (D&R) payload.
+
+Operated from the Mine Countermeasures Unmanned Surface Vessel (MCM USV), the AQS-24 D&R demonstrated the unmanned operations needed to perform a mine hunting mission off the MCM Mission Package aboard the littoral combat ship (LCS).
+
+AQS-24B Towed Sidescan Sonar System
+
+AQS-24B is a deployed system that uses side-scan sonar for real-time detection, localization, and classification of bottom and moored mines in addition to a laser line scanner for precise optical identification.
+
+MBARI Researchers Discover Seafloor Holes Off Big Sur in California
+
+Monterey Bay Aquarium Research Institute (MBARI) scientists have recently discovered thousands of mysterious holes or pits in the seafloor during a survey off Big Sur, USA.
+
+Scientists and resource managers want to understand how these pits formed because this area is the site of a proposed offshore wind farm.
+
+The researchers found two different sizes of holes. The larger ones, known as pockmarks, average 175 meters (almost 600 feet) across and five meters (16 feet) deep, and are nearly circular and fairly evenly spaced.
+
+Some of these pockmarks were initially discovered by MBARI scientists in 1999 during a seafloor survey using ship-mounted sonar. Over the last few years, additional surveys by MBARI and other organizations revealed over 5,200 pockmarks spread out over 1,300 square kilometers (500 square miles), making this area the largest known pockmark field in North America.
+
+Seafloor map showing pockmark and micro-depressions in the seafloor off Big Sur. Photo: MBARI
+
+More recently, MBARI conducted detailed seafloor surveys using sonar mounted on autonomous underwater vehicles. These surveys revealed thousands of smaller pits, which they termed micro-depressions. The micro-depressions average just 11 meters (36 feet) across and one meter (three feet) deep. They have steeper sides than the pockmarks and are often elongated in one direction.
+
+MBARI AUV
+SeaBat MBES Custom Design for MBARI
+
+
+In contrast to the pockmarks, the micro-depressions formed in relatively young sediment. In addition, almost all of the micro-depressions contain objects such as rocks, kelp holdfasts, bones, trash, or fishing gear. Many micro-depressions also have ‘tails’ of sediment that probably originated within the depression. In many areas, these tails are all oriented in the same direction.
+
+Based on these observations, the researchers hypothesize that the micro-depressions are relatively recent features that were excavated by local seafloor currents. Because the sediment on the seafloor in this area is so soft and ‘fluffy’, the researchers speculate that even the movements of fish hiding out in the micro-depressions could stir up the sediment, allowing it to be carried away by currents.
+
+Underwater Robotic Gliders Provide Key Tool to Measure Ocean Sound Levels
+
+At a time when ocean noise is receiving increased global attention, researchers at Oregon State University and NOAA have developed an effective method to use an underwater robotic glider to measure sound levels over broad areas of the ocean.
+
+Underwater Glider
+
+Ocean sound was recently listed as an essential ocean variable by the Global Ocean Observing System, a UNESCO program, due to its importance for marine life and seagoing humans and because it is used to monitor and locate everything from earthquakes to tsunamis to nuclear explosions.
+
+Traditionally, scientists have measured ocean sound by attaching hydrophones, essentially an underwater microphone, to a fixed mooring in the water. The problem with that is scientists only get data from that single location.
+
+Ocean sound can also be measured from a research ship, but they are expensive to operate. They also create a lot of noise themselves, which disturbs marine animals and fish that are sensitive to sound.
+
+Attaching a hydrophone to a glider solves those problems because gliders operate autonomously, are relatively quiet and can cover hundreds of miles over several weeks.
+
+Gliders equipped with hydrophones can conduct repeated surveys of a region of concern for acoustic habitat degradation and provide real-time measurements of changing noise levels. Gliders have also successfully been used by scientists to measure noise from an underwater volcano and to predict surface wind speeds.
+Read More …
+
+Marine scientists at Raytheon BBN Technologies Corp. in Cambridge, Mass., are investigating new ways of using sea life to detect and track potentially hostile manned submarines and unmanned underwater vehicles (UUVs) over vast areas of the world’s oceans
+
+Officials of the U.S. Defense Advanced Research Projects Agency (DARPA) in Arlington, Va., announced a potential $6.4 million contract to Raytheon BBN last week for the Persistent Aquatic Living Sensors Bio-Acoustic Sonar System (PALS) program.
+
+Persistent Aquatic Living Sensors Bio-Acoustic Sonar System (PALS)
+
+PALS seeks to capitalize on living things in the ocean to augment existing hardware-based maritime sonar to tap into the innate abilities of marine organisms to sense and respond to disturbances caused by submarines and UUVs. The DARPA PALS contract to Raytheon BBN is for $3.3 million, and has options to increase that to $6.4 million.
+
+DARPA and BBN researchers will work together to apply those abilities to detect, characterize, and report on manned or unmanned underwater vehicles ranging from small autonomous vessels to large nuclear submarines.
+
+Because marine organisms are ubiquitous, self-replicating, and largely self-sustaining, sensing systems that use marine organisms as their foundation would be discreet, cost-effective, and provide persistent undersea surveillance with a minimal logistical footprint, DARPA officials explain.
+
+Hydrographic Survey of a flooded quarry in Somerset, UK, using Unmanned Surface Vehicle (USV)
+
+Geodesea Ltd performed the survey, using Seafloors’ HyDrone US. The USV is capable of dropping a turnkey multibeam system, including IMU, PC, and telemetry systems, directly on to the existing frame. HyDrone is one of the smallest multibeam capable USV on the market. Read More …
+
+Equipment: HyDrone USV, PicoMB-120 Multibeam Echosounder, POSMV positioning system, BeamworX software
+
+Discovery of WW1 German Battlecruiser SMS Scharnhorst in Falklands waters
+
+The Falklands Maritime Heritage Trust is pleased to announce that the wreck of SMS Scharnhorst has been located off the Falkland Islands. The Scharnhorst, an armoured battle-cruiser and the flagship of Admiral Maximilian Graf von Spee’s East Asia Squadron, was sunk on 8 December 1914 during the Battle of the Falkland Islands, a crucial naval battle in the early days of the First World War.
+
+SMS Scharnhorst. TOP: Photo, MIDDLE: Multibeam Echosounder image, BELOW: Sidescan Sonar image
+
+This discovery is a major breakthrough in the quest to locate all of the ships that comprised the German squadron lost during the battle. The search began on the centenary of the Battle in December 2014 but was initially unsuccessful. Five years later, the mission was resumed using state of the art subsea search equipment. Working from the subsea search vessel, Seabed Constructor, the search operation involved the deployment of four Autonomous Underwater Vehicles (AUVs), exploring a search box of approximately 4,500km2 of the seabed. Working methodically through the designated search area, and using equipment including side-scan sonar and a multi-beam echo-sounder, Scharnhorst was discovered on the third day of the search 98 nautical miles south-east of Port Stanley at a depth of 1610 meters. Read More …
+
+Hydroid Integrates HISAS 2040 Module with In-Mission Processor onto a REMUS 600 Unmanned Underwater Vehicle
+
+The in-mission processor allows real-time processing of HISAS data, allowing operators to download high-resolution images immediately when the vehicle returns from its mission
+
+Hydroid with HISAS 2040 Sonar System
+
+HISAS 2040 provides up to 2cm by 2cm resolution across a 300-meter swath. When combined with the onboard EM2040 it provides a complete, gap-filled image. Synthetic aperture sonar uses algorithms to synthetically lengthen the aperture, providing consistent resolution across the entire swath, both along and across-track, as opposed to traditional real aperture side scan sonars. Because of the high resolution of HISAS, the files are very large and can take several hours to download
+
+HISAS 2040
+HISAS 2040
+
+With the in-mission processor, HISAS data are processed and compressed in real-time along with the navigation data, allowing immediate download of the sonar imagery when the vehicle returns from its mission through a 10 Gb Ethernet switch. This is ideal for time-sensitive missions like mine countermeasures, where faster data access means safer, more efficient operations. Other HISAS applications include hydrographic surveys, pipeline inspection, and rapid environmental assessment. Read More…
+
+US Navy Biggest Ever Deal: $22B for 9 Virginia Subs
+
+The US Navy has awarded the largest contract in its history, a $22.2 billion deal with Electric Boat and Huntington Ingalls for nine new Virginia-class submarines, which the service says will make them more lethal, and much harder to detect when operating close to hostile shores.
+
+The contract includes an option for a tenth boat, which would bring the contract up to $24.1 billion if enacted. The deal, which calls for construction to begin this year, would see the delivery of the first fast-attack sub in 2025. Read More …
+
+The Virginia Class Submarine is equipped with Light Weight Wide Aperture Array (LWWAA), from Northrop Grumman. The LWWAA system is a set of large array panels that are mounted on either side of the submarine. Instead of traditional ceramic hydrophone sensors, the LWWAA uses FOAS [fiber-optic acoustic sensor] technologies to convert a target submarine’s acoustic energy in the water into information that can be used to identify and track it.
+
+Case Study: Using Unmanned Surface Vehicles for Bathymetric Dam Imaging
+COTS unmanned surface vehicle equipped with a high-resolution multi-beam imaging echo-sounder sonar was used to conduct a comprehensive inspection and survey of the Keokuk Dam on the Mississippi River
+
+
+COTS unmanned surface vehicle equipped with a high-resolution multi-beam imaging echo-sounder sonar was used to conduct a comprehensive inspection and survey of the Keokuk Dam on the Mississippi River. The objective was to map underwater structures with an unmanned surface vehicle, followed by the USV performing the survey of the upstream and downstream sections of the dam. The deliverable was a comprehensive hydrographic survey, which further evolved into a complete high-resolution bathymetric map and inspection report necessary to meet the requirements of the safety group responsible for certifying this dam. Read More …
+
+Kawasaki Launched The 12th & Final Sōryū-Class SSK Submarine For JMSDF
+
+Japan’s shipbuilder Kawasaki Heavy Industries (KHI) launched the 12th and final Soryu-class diesel-electric attack submarine (SSK) for the Japan Maritime Self-Defense Force (JMSDF). JS Tōryū (とうりゅう) SS-512 is the second submarine of the class to feature Li-Ion batteries. Designed by GS Yuasa, the high-performance Li-Ion batteries are said to store about double the power. The last two submarines of the class, fitted with the new battery technology, will probably serve as test-bed for the next generation of Japanese SSK.
+
+Kawasaki Heavy Industries (KHI) launched the 12th and final Soryu-class diesel-electric attack submarine (SSK) for the JMSDF. KHI picture.
+
+Tōryū (とうりゅう) means Fighting Dragon. The name of Toryu is derived from the famous scenic dragon fighting in Kato City, Hyogo Prefecture, where the torrent of the Kako River flows between strangely shaped rocks.
+
+Leonardo’s ULISSES Submarine-Hunting Acoustic System Passes Sea Trials
+
+Leonardo’s ULISSES system was used to automatically locate a number of simulated submarines in a live trials exercise.
+
+ULISSES (Ultra-LIght SonicS Enhanced System) is an integrated acoustic sensor system designed to ‘listen’ for hostile submarines and determine their locations. Uniquely in the market, ULISSES incorporates ‘multistatic’ functionality, where the processor collects and exploits data from up to 64 distributed sonobuoys or dipping sonar sensors, which are processed in parallel. It then uses the multiple sources of information to triangulate the location of potentially hostile vessels.
+
+Leonardo announced the development of the acoustic system, in partnership with Ultra Electronics (providing miniaturised sonobuoys and multistatic technology) and L3 Technologies (providing dipping sonar), at the 2018 Farnborough Air Show.
+Read More…
+
+Fugro RAMMS Tech Benefits US Navy Mapping System
+
+Fugro’s collaboration with Areté to develop the Rapid Airborne Multibeam Mapping System (RAMMS) has resulted in improved maritime domain awareness for the US Navy. Read More…
+
+RAMMS dramatically improves upon existing airborne bathymetric surveying techniques. Unlike traditional ALB systems, which require a trade-off between data density and depth penetration, RAMMS delivers 25,000 range observations per second while achieving 3-Secchi disk depth penetration. The resulting high-resolution bathymetry data is comparable to that derived from multibeam echosounder systems. Read More…
+
+Northrop demonstrates deep tow capabilities of AQS-24 minehunting sonar
+
+Northrop Grumman announced it has operated the AQS-24 minehunting sonar at depths greater than 400 feet during system testing off the coast of Ft. Lauderdale, Florida.
+
+Northrop Grumman AQS-24’s minehunting system
+
+Earlier this year, Northrop Grumman demonstrated an autonomy upgrade path for the AQS-24’s minehunting system by integrating and successfully testing the company’s image exploitation suite, incorporating state-of-the-art machine learning for automatic target recognition (ATR) using multiple ATR algorithms.
+
+The company said the US Navy plans to incorporate this new capability into existing AQS-24 minehunting systems following the demonstration.
+
+FarSounder Unveils 3D Forward-Looking Sonar
+
+FarSounder has debuted a new sonar and a new name, Argos, for its series of 3D forward-looking navigation sonars.
+
+Farsounder new Argos 3D sonar
+
+It has been designed with a smaller and lighter transducer and will have a 350 meter range of detection. It is well-suited for mid-sized yachts from 18 – 40+ meters. As in its other two models the Argos 1000 and Argos 500, the design allows for an easy, fixed installation. The Argos 350 however offers another alternative as well. It can be connected to a hoist in a 10-inch diameter sea chest.
+Read More …
+
+USS Grayback: Missing WW2 submarine found after 75 years
+
+An American submarine that went missing in World War Two has been rediscovered at the bottom of the East China sea.
+
+USS Grayback: Missing WW2 submarine found after 75 years
+
+The USS Grayback and its 80 crew members disappeared in 1944 when it was attacked by a Japanese aircraft.
+
+An underwater exploration project found the submarine off the coast of Okinawa, Japan, after finding military documents with the correct coordinates to locate it. Read More …
+
+Wrecked Japanese Carriers, Lost in WWII, Are Found in Pacific Depth
+
+Deep-sea explorers aboard Petrel, a 250-foot research vessel have used sonar images to pinpoint the location of the Akagi and Kaga, two carriers that attacked Pearl Harbor in 1941 and took part in the Battle of Midway in 1942.
+
+Robert Kraft, director of subsea operations at Vulcan Inc.
+Sonar images showing the wreckage of the Japanese carrier Akagi
+The Japanese carrier Kaga
+Underwater photo of the gun mount of Kaga
+
+In June 1942, American dive-bombers attacked the carriers in one of the most famous battles in American naval history, named after the Midway Atoll, a strategic ring-shaped reef some 1,300 miles northwest of Honolulu, and was seen as a turning point for the United States in the Pacific campaign against Japan. Read More …
+
+ODYSSEA Project to Launch Sea Observatory in Morocco
+
+The EU-funded ODYSSEA Project will launch North Africa’s first fully operational sea observatory in Morocco’s Al-Hoceima National Park.
+
+ODYSSEA is in advanced stages of developing, operating and demonstrating an interoperable and cost-effective platform that fully integrates networks of observing and forecasting systems across the Mediterranean basin, addressing both the open sea and the coastal zone. Read More …
+
+ODYSSEA Project
+
+Developed by ODYSSEA partner ALSEAMAR, the SeaExplorer underwater glider is an autonomous sensing platform designed to collect water column data with wide spatio-temporal coverage.
+
+ALSEAMAR’S SeaExplorer underwater glider
+
+The two gliders developed in the context of the ODYSSEA Project carry three sets of cutting-edge sensor payloads, designed to optimize the monitoring capacity of observatories’ networks.
+
+The glider, deployed in Morocco will be used for documenting and mapping sea mammal populations, sonar ping echo, maritime traffic, health and conditions of marine habitats, human noise, and carrying out basic Environmental Protection Engineering (EPE) studies. Read More …
+
+VLIZ Takes Delivery of a Gavia AUV
+
+Teledyne Gavia announced that after an international tender it has completed the sale and recent sea acceptance testing of an autonomous underwater vehicle (AUV) to the Flanders Marine Institute (VLIZ) in Oostende, Belgium.
+
+Image courtesy of VLIZ Marine Robotics Centre
+
+The VLIZ Gavia is rated to 1,000m depth in a low logistics form factor and includes an array of scientific instruments to meet current and future VLIZ research requirements. The modular nature of the GAVIA AUV allows sensors to be added as mission requirements dictate. The VLIZ Gavia is configured for diverse research applications and includes an iXblue INS coupled with a Teledyne RD Instruments Pathfinder ADCP up/down for highly accurate navigation and current profiling, Klein 3500 side scan with bathymetry, camera system, Gavia Science Bay module housing an iXblue GAPS transponder for use with an existing VLIZ owned USBL system, Aandera dissolved oxygen, Wetlabs ECO puck, and RBR CTD. A SUNA nitrate sensor and Pro-Oceanus Mini CO2 are mounted externally as required. Read More …
+
+The Chinese Navy’s New Mystery Submarine
+
+China continues to surprise the defense world. It is probably the only country on earth that can build a full-size submarine without any details leaking out. By comparison, the name, size and general characteristics of U.S. Navy submarines are well known long before they roll out of the shed. China surprised everyone by launching a submarine that no one had been expecting. Only now are further details emerging via open-source intelligence. From a sonar point of view, it doesn’t look like this submarine is equipped with Flank Arrays. Typically Chinese submarines are equipped with Chinese development of French Thomson-CSFTSM-2233 bow medium-frequency sonar and a domestic Chinese passive ranging sonar, designated as H/SQG-04 sonar.
+
+This submarine is a unique design that has no sail to speak of. All other submarines have this fin-like structure rising up from the middle of the deck where the periscope goes. Until now it has been a defining characteristic of a submarine: this boat is flatter and has a tiny bump where the sail should go. The reason for this has been the subject of speculation. Read More …
+
+PACIFIC 2019 BROKE ALL RECORDS
+
+PACIFIC 2019 had that crackle of something special from day one, and now the numbers confirm that it was the biggest and busiest yet, with attendances up 27 per cent over the 2017 event, a 20 per cent increase in participating exhibitor companies and more than double the number of official delegations.
+
+PACIFIC 2019 broke previous records in every major metric in a dynamic week that has underlined the event’s place as the premier international maritime exposition for the Indo-Asia-Pacific region.
+
+“This was the biggest PACIFIC International Maritime Exposition in the event’s 20 year history, but that value of the event goes beyond mere numbers. PACIFIC 2019 took Australia to the world by bringing the world to Australia.”
+
+Having drinks with Alex at the Sydney Opera Bar, Friday evening after a successful PACIFIC Conference
+China Navy Reveals New Large Underwater Robot
+
+The Chinese military revealed new means to fight future wars unveiling its first large displacement Autonomous Underwater Vehicle (AUV), the HSU-001.
+
+The AUV’s layout is telling. The twin propellers, called screws in nautical circles, are optimized for cruising. So the HSU-001 is likely to be used for long-range patrols. There are also thrusters buried in the hull which allow it to hover or move vertically up or down, even sideways. Size is similar to US Navy’s LDUUV.
+
+The flat nose is a telltale sign that it has a relatively large sonar there for detecting underwater targets. On the sides, you have something that looks like Flank Arrays.
+The above-surface eyes and ears are carried by two masts that fold down into the streamlined hull when not in use. The small bumps either side at the front might be part of a homing system to allow it to locate underwater objects, possible even a mother submarine.
+
+Large underwater robots are seen as one of the key emerging technologies in naval warfare but so far the cost and complexity of this solution have meant that no country, not even the United States, has fielded them operationally. So most operational AUVs are very small. The HSU-001 is therefore at the leading edge of AUV adoption. Read More…
+
+Blue Ocean Monitoring Orders AUV
+
+Blue Ocean Monitoring Ltd. has recently purchased a new L3Harris Technologies Iver3 Autonomous Underwater Vehicle (AUV) to support their global survey operations.
+
+Smaller AUV technology directly challenges traditional vessel-based, ROV and larger AUV survey techniques, delivering highly accurate survey data with significant reductions in project cost, time and risk.  The AUV has been robustly engineered, is capable of operations to 200m, and is one of the smallest and lightest on the market, allowing for single-user deployment from small work vessels or directly from the shore.
+
+Iver3 AUV
+
+The Iver3 AUV is equipped with an EdgeTech 2205B sonar which combines side-scan sonar with an interferometric Phase Differencing Bathymetry System (PDBS) providing a significantly wider swath in shallow water compared to Multibeam Echo Sounders. Read More…
+
+SEA, iXblue unveil autonomous anti-submarine surveillance system
+
+Defense technology company SEA and navigation systems provider iXblue have joined forces to develop an autonomous anti-submarine surveillance system.
+
+SeaDrix, as the system is named, is intended for long-endurance surveillance patrols and can be deployed as a standalone asset or as part of a wider anti-submarine warfare (ASW) surveillance system.
+
+Drix by iXBlue- one of the most advanced unmanned vessels ever designed.
+
+SeaDrix combines SEA’s low-profile acoustic sensor, KraitArray, with iXblue’s unmanned surface vessel, DriX, to create a system that can operate in open ocean conditions and for up to ten days un-refueled or much longer with at-sea refueling system.
+
+WASSP Launches New Rapid Deployment Multibeam Sounder
+
+WASSP Multibeam has launched its new rapid deployment multibeam sounder – the W3 Rapid Deployment System (RDS). Revealed at the recently held Pacific Expo 2019 in Sydney, Australia, W3 RDS has been designed for Navy’s, Maritime Police and Search & Rescue organizations for use where depths are unknown and to find safe navigation routes for larger vessels.
+
+When a fixed transducer installation in a small vessel such as a tender isn’t always practical, the W3 RDS has been designed around a portable Carbonfibre Mast that includes a transducer, motion sensor, and satellite compass. This lets operators deploy the unit over the side or the transom of the vessel into the water quickly and easily often in just minutes
+
+Commercial Hydrographic Training with USV
+
+Swathe Services, a Hydrographic survey support company in Hayle, Cornwall UK ran what it calls the world’s first Multi-Beam Echo-Sounder training course using a remotely operated Unmanned Surface Vessel. 
+
+Hydrographic Surveying is usually done with a manned survey vessel and takes many hours to complete. People came from as far afield as Norway, France, Slovenia, UK, and the USA to attend the intensive 5-day course.
+
+Photo: Swathe Services – MBES Training with Unmanned Surface Vessel
+
+As part of the training, the delegates mapped Hayle Harbor in Cornwall using an Unmanned Surface Vessel fitted with Multi-beam Echo-Sounder technology. The USV was remotely operated from Swathe Services offices nearby using dedicated survey data acquisition software from HYPACK.
+
+GeoSpectrum Technologies Celebrates Successful ASW Sea Trial With the Royal Canadian Navy
+
+GeoSpectrum Technologies (GeoSpectrum) announces the successful trial of the Towed Reelable Active Passive Sonar (TRAPS) onboard the HMCS Glace Bay, completing the final assessment of the system. 
+
+The Department of National Defence’s science and technology organization, Defence Research and Development Canada (DRDC), recently conducted performance trials with HMCS Glace Bay, the second Kingston Class vessel from which the GeoSpectrum’s TRAPS sonar was operated.
+
+Raytheon Demonstrated Unmanned Mine Warfare Capability At ANTX
+
+AQS-20C is an extremely capable towed mine hunting sonar system that can detect, localize and classify mine like objects at high speed. The AQS-20C towed body incorporates four distinct sonars that operated concurrently to allow the Navy to very quickly search an ocean area for both bottom and volume mines at a very high search speed. It uses advanced imaging sonars, signal processing and computer algorithms to provide real-time, computer-aided detection and classification against the full spectrum of mines. In other words, it pinpoints mine-like objects and provides visual images.
+
+AQS-20 in action at ANTX. Raytheon picture
+General Dynamics Introduces New Autonomous UUV
+
+General Dynamics Mission Systems has announced the release of the latest autonomous unmanned underwater vehicle (UUV) in the Bluefin family, the Bluefin-12. The announcement was made at the Defense and Security Equipment International (DSEI) 2019 trade show in London.
+
+The new UUV leverages the proven Bluefin Robotics autonomy technologies and core capabilities, delivering increased mission modularity and enhanced embedded intelligence for dynamic, long-endurance mission requirements.
+
+General Dynamics Mission Systems unveiled its new Bluefin-12 autonomous unmanned underwater vehicle at DSEI in London.
+
+With Standard Payload Interfaces (SPI) and open-architecture compatibility, custom sensors and payloads can be easily and rapidly integrated onto the Bluefin-12.
+
+The system can also be fitted with an optional turnkey survey package that provides capabilities including high-accuracy navigation, high-resolution sonar, environmental sensing, and integrated data processing.
+
+Autonomous ARCIMS USV Can Now Hunt Submarines With ASW Payload
+
+This version of ARCIMS will host SeaSense, a variable depth sonar for shallow water search and protection operations for military, security, anti-piracy and drugs interdiction applications. When in-service the new ARCIMS SeaSense variant will operate alongside ARCIMS Mine counter‑measure (MCM) variants that have been in-service for over 6 years.
+
+AEUK 11 METRE ARCIMS USV WITH ASW PAYLOAD
+
+This market-leading 11m ARCIMS USV is a capable and flexible platform that offers the benefits of payload capacity and transportability to enable effective search and detection, security, patrol and MCM operations.  Read More …
+
+Blue Ocean Monitoring and Woodside Join Forces to Revolutionise Seismic Data Acquisition
+
+Woodside has signed a Shareholders Agreement with Perth-based Blue Ocean Monitoring Ltd (BOM) to invest in Blue Ocean Seismic Services Ltd (BOSS).
+
+Seismic data is critical for understanding geological formations and the nature of hydrocarbon resources that may be contained within them. BOSS is developing an innovative solution that has the potential to make ocean bottom seismic data acquisition cheaper and more accessible.
+
+Blue Ocean Seismic Services AUV
+
+The concept was jointly developed by Woodside and BOM and focuses on using Autonomous Underwater Vehicles (AUVs) in place of Remotely Operated Vehicles (ROVs) to place nodes on the ocean floor that capture and record soundwaves. The BOSS designed AUVs are small submarines that are pre-programmed to self-deploy to the ocean floor and reposition multiple times. This method will improve efficiencies, lower costs and reduce people’s exposure to health and safety risks. Read More …
+
+Blue Robotics Rolls Out New Sonar
+
+Torrance-based Blue Robotics has launched its newest product, the Ping360 Scanning Sonar, which offers small ROVs the ability to navigate in low visibility water conditions.
+
+Blue Robotics Mechanical Scanning Sonar
+
+According to the company, the sonar achieves a new level of affordability with a price that is less than half of any other scanning sonar on the market.
+
+China’s CSIC Lays Keel For Royal Thai Navy’s First S26T Submarine
+
+Chinese shipbuilding group CSIC (China Shipbuilding Industry Corporation) held a keel laying ceremony for the Royal Thai Navy’s first S26T submarine. The event took place on September 5, 2019 at a shipyard in Wuhan, China. Read More…
+
+S26T is based on the PLAN Type 039A SSK
+
+Thai Navy indicates that the S26T key strengths are:
+
+The reliability of its AIP system, which has already proven itself aboard about ten Chinese submarines (Type 039A and Type 039B) providing a submerge endurance of 21 days.
+The wide range of weapon systems, such as torpedoes, mines, anti-ship and land attack missiles.
+The availability of rescue capsules (bells) and the favorable reserve buoyancy margins of the design
+Indian Navy takes delivery of second Scorpene submarine
+
+The Indian Navy has taken delivery of INS Khanderi, the second Scorpene-class submarine, from Mazagon Dock Shipbuilders Limited (MDL).
+
+The delivery ceremony for the diesel-electric attack submarine took place in Mumbai on September 19, 2019.
+
+INS Khanderi
+
+Launched at the beginning of 2017, INS Khanderi be commissioned into the Indian Navy at the end of this month. It is the second of six boats being built by MDL in cooperation with French submarine designer Naval Group (former DCNS). Read More…
+
+Saab Seaeye’s Falcon for Ocean Research
+
+A Saab Seaeye Falcon electric underwater robotic vehicle is to help support a network of oceanographic and atmospheric sensors that are part of the Ocean Observatories Initiative (OOI) transforming ocean research.
+
+Funded by the National Science Foundation, the overall OOI program is managed by Massachusetts-based Woods Hole Oceanographic Institution. The moored, mobile autonomous, and cabled sensors provide real-time data access to address critical issues such as climate change, ecosystem variability, ocean acidification, and carbon cycling.  
+
+The Falcon will conduct operations in support of mooring deployments and recoveries. This would include inspections of instruments and mooring systems, as well as attaching rigging or unfouling instruments to allow recovery of assets.
+
+DSEI 2019: SubSea launches VICTA-class diver delivery unit
+
+UK-based SubSea Craft unveiled its new VICTA-class diver delivery unit (DDU) at the 2019 Defence and Security Equipment International exhibition (DSEI 2019) in London.
+
+When fully submerged, VICTA will have a cruising speed of 6 kt, and a sprint speed of 8 kt, with a range of 25 n miles. Source: SubSea
+
+The innovative DDU, which is based around a monohull design constructed of carbon fibre and Diab core, combines the features of a long-range insertion craft with those of a swimmer delivery vehicle to provide the capability to travel on the surface at high speed before diving to covertly approach a target. The VICTA is equipped with a 3D forward-looking sonar.
+
+US Coast Guard Opts for SRS FUSION ROVs
+
+Strategic Robotic Systems (SRS) has been awarded a contract by the US Coast Guard to replace its existing compact ROV fleet with next generation SRS FUSION vehicles
+
+US Coast Guard Opts for SRS FUSION ROVs
+
+The vehicles will be used by the Coast Guard in a multitude of ways to support, augment and enhance their Statutory Mission responsibilities within the Department of Homeland Security. The SRS Fusion has an integrated Blueprint Forward-Looking Sonar (FLS) that also can be equipped with Sidescan Sonar.
+Read More …
+
+Hydroid completes tests of REMUS 600 AUV coupled with synthetic aperture sonar
+
+Hydroid Inc., announced it has completed testing of the REMUS 600 autonomous underwater vehicle (AUV) with the newly integrated HISAS 2040 synthetic aperture sonar for an unidentified navy customer.
+
+HiSAS 2040 Image
+
+The HISAS 2040 system is engineered and manufactured at Kongsberg Maritime in Horten, Norway. This advanced technology allows for higher resolution sonar images than conventional sonars and is now available to Hydroid customers.
+
+The HISAS 2040 is able to build up a series of synthetic aperture sonar (SAS) images that represent different observation angles. Through this multi-aspect imaging, an AUV operator is able to obtain an extra dimension in the data set since many complex objects have a high aspect-dependent echo and shadow structure. The HISAS 2040 has a practical resolution of 5cm x 5cm at all ranges
+Read More…
+
+Bomb Disposal ROV to be Produced for US Navy
+
+VideoRay, a developer of remotely operated vehicles (ROVs), has been awarded a second multimillion-dollar contract by the U.S. Navy to create and deploy a new underwater platform for Explosive Ordnance Disposal (EOD) operations. An earlier contract was awarded by the United States Department of Defense’s Innovation Unit for a successful prototype.
+
+VideoRay Defender ROV
+
+The new platform is based on VideoRay’s Mission Specialist Series (MSS) Defender ROV, which is already in operation with various global military and commercial customers. Due to the system’s open architecture, the Defender can field a wide variety of payloads and features multiple power and communications options. The integrated EOD Workspace software for control and navigation facilitates supervised autonomy and precise maneuvering. Read More …
+
+New Hydrographic Survey USV Launched
+
+Dynautics Ltd, a developer of intelligent marine electronics for unmanned boats, and CEE HydroSystems, manufacturer of shallow water hydrographic survey echo sounders, have announced a technical collaboration to develop a uniquely integrated survey USV (unmanned surface vehicle), the CEE-USV.
+
+Dynautics new Survey ASV
+
+The CEE-USV hydrographic survey vessel is equipped with a specialized CEE-PILOT control system, developed in partnership with Dynautics Ltd., utilizing a custom version of the Spectre E-boat module integrated with Eye4Software’s Hydromagic survey software.
+
+The collaboration’s focus on simplicity led to the removal of all extraneous connections with no on-board PC needed. Simpler operations are provided through the pre-defined survey grid patterns set up in Hydromagic being integrated with route planning in the modified E-Boat module. Read More …
+
+OceanAlpha Unmanned Boat Surveying on Loire River in Nantes, France
+
+This video demonstrates an OceanAlpha SL40 autonomous survey boat sailing on Loire River in Nantes, France to conduct an autonomous multibeam echosounder survey (June 2019).
+
+OceanAlpha USV
+
+The 1.6-meter-long SL40 is a unique waterjet hydrographic survey USV. It can carry 15 kg of survey instrument, making it the most economical platform for smaller-sized multibeam echo sounder similar to  R2Sonic 2020 MBES.
+
+Survey of Loire River in Nantes, France, autonomous survey boat OceanAlpha SL40 with multibeam echosounder R2Sonic 2020.
+
+The solution scheme and demonstration were carried out by CADDEN Technology Services at R2D3 conference. Read More …
+
+ecoSUB AUV to Explore Hostile Arctic Environment
+
+An underwater robotic vehicle, ecoSUB, will go on an Arctic research mission deemed too dangerous for humans in a bid to help scientists understand the true extent of melting from Arctic glaciers.
+
+ecoSUB AUVs
+
+ecoSUB’s readings will help researchers better understand the process of sub-glacial discharge, a term given to meltwater that flows down through the glacier and out into the ocean. This water is fresher than the surrounding seawater, so starts to rise in the water column, creating a plume that pulls in warmer Atlantic water. As it rises, it circulates and creates a sandpaper effect against the face of the glacier. This process undermines the wall of ice, causing huge chunks to collapse into the sea.
+
+Saipem Sonsub in Final Trials of Its Subsea Intervention Drone
+
+Saipem-Sonsub’s Hydrone-R underwater intervention drone was recently launched in water to start the endurance and qualification tests.
+
+The Hydrone Program is the key workstream of Saipem’s Technology Development Plan within subsea robotics; a strategic move aimed at changing the paradigm of underwater inspections and interventions via a fleet of next-generation drones and advanced ancillary equipment.
+
+Hydrone-R is an underwater intervention drone capable of performing light construction works as well as advanced inspections on subsea assets thanks to a series of sensors embedded onboard and proprietary Artificial Intelligence features for unmanned navigation and autonomous anomaly detection on a wide range of subsea systems.
+
+The vehicle can remain underwater uninterruptedly for 12 months, making it the first-ever resident subsea drone. In this resident mode, Hydrone-R features wireless operability and can be connected to subsea infrastructures via through-water communication links it can cover an area within a 10-km radius for inspections and interventions. Read More…
+
+Orca XLUUV: Boeing’s whale of an unmanned sub
+
+The US Navy has awarded Boeing contracts worth a total of $274.4m to produce five Orca Extra Large Unmanned Undersea Vehicles (XLUUVs). Based on Boeing’s Echo Voyager prototype UUV, the 15.5m-long submersible could be used for mine countermeasures, anti-submarine warfare, anti-surface warfare, electronic warfare and strike missions.
+
+The modular design for the initial Orca XLUUV will enable current and future payloads, sensors, autonomy and, other systems to be able to be integrated over the vehicles’ life cycle
+
+According to Boeing, Sea Voyager offers a range of 6,500 nautical miles and months of operation on a single fuel module. As GPS operation is only possible at the surface, it uses a Kalman filtered inertial navigation unit aided by a set of doppler velocity logs, and depth sensors to navigate underwater. Read More…
+
+First Indonesian-Built Submarine To Soon Reinforce TNI AL Fleet
+
+KRI Alugoro is the third Nagapasa-class submarine (also known as the DSME 1400 design or Improved Chang Bogo-class) and the first one built locally in Indonesia (and the first submarine ever built in South East Asia).
+
+The Alugoro (405) is the third of the Nagapasa-class submarine. DSME picture
+
+The DSME 1400 project is an upgrade of the built-under-license Type 209/1200 with increased length (up to 61.2 m) and displacement (about 1,400 tons underwater).
+Under the terms of the contract, the first two boats for Indonesia were to be built by DSME in South Korea with delivery in 2016–2017, and the third submarine was to be built locally (actually assembled from sections) by PT PAL with technical assistance from South Korea with planned completion in 2018. Read More…
+
+Standing NATO MNinecountermeasures Group 1
+
+The two minehunters FGS Weilheim and LVNS Talivaldis in Action.
+
+Picotech’s Man-Portable Multibeam USV
+
+PicoPOD is a turnkey multibeam package for USVs and small survey vessels which sets the standard for low-power, low-cost multibeam sonar systems.
+
+PicoPOD turnkey multibeam for USV and small Survey vessels
+
+The PicoPOD system operates to a sounding depth of 240m and has a maximum swath width of 408m.  Its features include a PicoMB-120 Multibeam with Integrated Applanix POS MV, Windows 10 IoT Embedded PC, Valeport UltraSV. Read More…
+
+Lost 52 Project Discovers the Bow of WW II Submarine USS Grunion
+
+The Lost 52 Project has identified the bow of the USS Grunion. It was discovered about a quarter-mile from the main wreckage. The submarine went missing about a month after it departed on its first war patrol in 1942. It wasn’t seen again until the sons of the Grunion’s commanding officer began searching for it and found the wreckage in 2007 off the coast of the Aleutian Islands.
+Read More
+
+USS Grunion
+Bathymetric map of USS Grunion
+Underwater 3D scans on the bow and stern of a USS Grunion (Viewport3)
+
+USS Grunion (SS-216) was a Gato-class submarine that was sunk at Kiska, Alaska, during World War II. Her keel was laid down by the Electric Boat Company in Groton, Connecticut on 1 March 1941. 
+
+https://youtu.be/0C3mjTHsErQ
+
+Departing Hawaii on 30 June 1942 the Grunion touched Midway Island before heading toward the Aleutian Islands for her first war patrol. Her first report, made as she patrolled north of Kiska Island, stated she had been attacked by a Japanese destroyer and had fired torpedoes at her with inconclusive results.
+The Grunion was never heard from again. Air searches off Kiska were fruitless, and on 5 October the Grunionwas reported overdue from patrol and assumed lost with all hands.  Read More.
+
+Saildrone launched with seafloor mapping capabilities in the Gulf of Mexico shows promise for remote Arctic mapping
+
+NOAA’s Office of Coast Survey, the University of Southern Mississippi (USM), and Saildrone accomplished a key milestone in the research and testing of unmanned technology that can lead to enhanced seafloor mapping capabilities with the launch of the first Saildrone — a wind-driven and solar-powered unmanned surface vehicle (USV) — equipped with multibeam echosounder technology in the Gulf of Mexico. NOAA anticipates the success of this mission and technical achievement will lead to mapping projects in the Arctic.
+
+Rear Adm. Shepard M. Smith, director of NOAA’s Office of Coast Survey, Richard Jenkins, co-founder and CEO Saildrone, Brian Connon, director of USM’s Hydrographic Science Research Center
+
+Read More
+
+Japan’s Futuristic Attack Submarine SS29
+
+Japan has unveiled what is very likely the design for its next-generation attack submarine. The 29SS submarines would replace the existing Sōryū class submarines starting in the early 2030s. The futuristic undersea warship will ensure that Tokyo retains its reputation for the quietest, most modern non-nuclear submarines in the world.
+
+The submarine is due in the late-2020s. The designation “29SS” is derived from the 29th year of the reign of Emperor Akihito, otherwise known to everyone else as 2017, and SS is the international shorthand for non-nuclear attack submarine.
+Read More
+
+Wave Glider Mission from Hawaii to Mexico Detects Humpback Whale Calls
+
+Jupiter Research Foundation and Whale Trust are pleased to announce the results of their autonomous Wave Glider HUMPACS (Humpback Pacific Survey) acoustic survey.
+
+Waveglider Autonomous Vehicles used for tracking and recording Hump Whales
+
+During a 100-day nearly 7,000 km (3,800 nm) round trip survey on a line between Hawaii and Mexico within the breeding season, humpback whale calls were heard in mid-ocean basin, halfway between the known near-shore assemblies.
+Read More
+
+A Shipwreck, 500 Years Old, Appears on the Baltic Seabed
+
+For 500 years, the Baltic Sea held in its depths a tall ship of the Renaissance era. Around the time the ship sank, Columbus was discovering the New World. His fleet vanished long ago. But the Renaissance vessel suddenly reappeared recently, remarkably well preserved in the icy Baltic waters.
+
+The first hint of its existence came in 2009, when a sonar survey by the Swedish Maritime Administration registered an anomalous blip on the Baltic seafloor. Then, early this year, a robotic camera, employed by a commercial team surveying an undersea route for a natural gas pipeline, illuminated not the only seabed but a mysterious ship.
+
+500-year olf shipwreck discovered in the Baltic
+
+Read More
+
+North Korea Reveals New Ballistic Missile Submarine
+
+North Korean state media KCNA released footage showing the communist leader inspecting a new submarine under construction at a shipyard. This new submarine appears to be based on the old Romeo-class, a Soviet design, and is likely able to deploy a limited number of submarine-launched ballistic missiles (SLBM). Read More…
+
+Experts believe the new submarine can carry two, possibly three  Pukgeukseong missiles. First tested in 2016, Pukgeukseong (called KN-11 by U.S. intelligence)is thought to have a range of 1,200 kilometers (745 miles) and is nuclear-tipped. Launched from the Sea of Japan, such a missile could hold U.S. and Japanese targets at risk of a nuclear attack.  Read More…
+
+MacArtney’s MBES Hydrographic System for the Island of Corsica
+
+MacArtney France has delivered a portable multi-beam echosounder hydrographic system, designed for small vessels, to the French government organisation, Collectivité de Corse, in Corsica.
+
+MacArtney France worked with Kongsberg, Valeport and SBG Systems on this project to fulfill the project-specific needs and supply an adaptable MBES hydrographic system that meets the standards set down by the International Hydrographic Organisation (IHO).
+
+French Navy’s New Generation SSN ‘Suffren’
+
+Naval Group launched the Suffren, during a ceremony attended by French President Emmanuel Macron. Suffren is the first of six new generations, Barracuda-type, nuclear-powered attack submarines (SSN) for the French Navy.
+
+Look at that Flank Array!
+Waterjet
+
+Comparing to the current generation of French SSN, the Rubis-class, the Suffren-class marks a qualitative leap in performances and technologies.
+
+It features a new hybrid steam/electric propulsion that allows high speed and improved noise reduction.
+It can be fitted with a Dry Deck Shelter. Designed by Naval Group, the DDS will be around 15m long and weight 43 tons. Two of them have been procured to equip the 6-ships fleet of Barracuda.
+The Barracuda submarines are using X rudders and retractable forward sail planes, for better maneuverability, improved safety in shallow waters and reduced noise at high speed.
+The ship is fully digitized. Automation reduces human resources in every subsystem of the ship. Even if the Suffren is twice as big as the Rubis, it will have a slightly smaller crew.
+
+Very advanced Sonar System from THALES.
+
+Read More
+
+Acoustics Specialist RTSYS Unveils Latest Versatile Micro-AUV 
+
+After years of development, French Acoustics specialist RTSYS has unveiled its latest versatile micro-AUV named NemoSens.
+
+NemoSens AUV from RTSYS
+
+Less than 1 meter long, and easy to carry and launch (less than 20 pounds including payload), NemoSens can host any kind of payload, be it a CTD probe, side-scan sonar or any other sensors. Thanks to an open LINUX architecture, it can be programmed from a ROS or MOOS interface to complete various kind of missions. Read More
+
+HMNZS Manawanui Dive and Hydrographic Support Vessel
+
+HMNZS Manawanui is a new dive and hydrographic vessel developed for the Royal New Zealand Navy (RNZN). The ship is capable of performing a range of operations such as disaster relief, underwater search and recovery, mine detection and explosives disposal, as well as limited mine countermeasures.
+
+The ship is capable of performing a range of operations such as disaster relief, underwater search and recovery, mine detection and explosives disposal, as well as limited mine countermeasures.
+
+The RNZN intends to deploy the vessel around New Zealand and across the South West Pacific to perform specialist diving, salvage, and hydrography missions. Read More
+
+U.S. Navy Releases RFP For Medium USV
+
+The U.S. Navy released a request for proposals (RFP) to industry for the development of the Medium Unmanned Surface Vehicle (MUSV)
+
+Atlas North America Concept
+Austal Concept
+
+The MUSV will be a pier-launched, self-deploying modular, open architecture surface vehicle capable of autonomous navigation and mission execution. The development of RFP contains options for additional USVs. Read More
+
+Teledyne CARIS Hydrographic Package for South African Navy
+
+Teledyne CARIS will be delivering a full software solution to the South African Navy Hydrographic Office.
+
+The solution, provided through Teledyne CARIS’ official distributor Unique Group, includes software that will be implemented as part of a larger project to be executed by Southern African Shipyards (SAS) where a new hydrographic survey vessel is being built. Read More
+
+US Navy asks Hydroid to build extra versions of MK 18 mine-hunting UUV for underwater reconnaissance
+
+Naval Surface Warfare Center (NSWC) Indian Head Explosive Ordnance Disposal Technology Division in Indian Head, Md., are asking Hydroid for additional MK 18 UUVs to detect, pinpoint, and neutralize underwater threats like sea mines.
+
+Navy asks Hydroid to build extra versions of MK 18 mine-hunting UUV for underwater reconnaissance
+
+The Navy Hydroid MK 18 UUV is a mine-hunting variant of the Hydroid REMUS 600, which Hydroid developed originally developed through funding from the Office of Naval Research (ONR) in Arlington, Va., to support the Navy’s UUVs with extended endurance, increased payload capacity, and greater operating depth. Read More…
+
+Saab Seaeye Reveals Subsea Future
+
+In a world-first, Saab Seaeye successfully docked an autonomous vehicle to an Equinor subsea docking station to recharge its batteries and download data, demonstrating that a new future in underwater technology has arrived.
+
+Sabertooth AUV
+
+From the docking station, the Sabertooth was sent on various autonomous transits to undertake mock inspection tasks that included returning to the station for recharging and video data download
+
+GeoSpectrum introduces submarine clone AUV
+
+Canada’s GeoSpectrum Technologies (GTI) has unveiled a new autonomous underwater vehicle (AUV) that enables true to life and cost-effective training experience of detecting and tracking submarines.
+
+Photo: GeoSpectrum Technologies
+
+Dubbed the Multipurpose Autonomous Sub-Surface Training Target (MASTT), the system imitates submarines from conventional to nuclear with a variety of running modes of operation. Read More…
+
+World War Two seaplane found at bottom of Lough Erne
+
+The remnants of a World War Two seaplane have been discovered at the bottom of Lough Erne in County Fermanagh. It is believed to be a Catalina, also known as a “flying boat”.
+
+The seaplanes played a crucial role in the area during WW2, protecting Allied shipping convoys in the Atlantic.
+
+Marine experts said they think the aircraft may have crashed into the lough and therefore the site is being protected as a potential war grave. Read more …
+
+Mitsui E&S Supplies New Mine Disposal Vehicle To JMSDF
+
+At MAST Asia 2019, the defense exhibition and conference held last month near Tokyo, Japan, local company Mitsui E&S was showcasing for the first time the new expendable mine disposal (EMD) vehicle of the JMSDF
+
+Mitsui E&S EMD vehicle for JMSDF
+
+Mitsui told Naval News during MAST that the JMSDF selected this EMD vehicle after evaluating other systems including foreign ones, among which ECA Group’s K-Ster. Mitsui started deliveries of the EMD to the customer last year. Read More …
+
+New order for Sonardyne Sentinel Intruder Sonar
+
+Sonardyne International’s underwater intruder detection technology has been selected to secure the coastal perimeter of a critical national energy infrastructure (CNI) facility in Eastern Europe
+
+Sentinel Sonar
+
+The Sentinel Intruder Detection Sonar (IDS) will be deployed to detect unauthorized divers and subsurface vehicles approaching the facility from the water. Read more …
+
+Royal Navy Developing AI Mine-Hunting Submersible
+
+The Royal Navy is using artificial intelligence to task autonomous submersibles with hunting underwater mines. British geospatial and data company Envitia, along with its partner BAE Systems Applied Intelligence, has been selected to deliver this, one of the first AI projects for the Royal Navy.
+
+REMUS AUV by Hydroid Inc.
+
+The Royal Navy’s Route Survey & Tasking Analysis (RSTA) project will adopt autonomous vehicles, open architectures, and AI, with the intention to deliver an unmanned capability for routine mine countermeasure tasks in UK waters by the year 2022. Read More …
+
+Teledyne RESON SeaBat T50-R Extended Range Delivered to Greenland
+
+Greenland’s Institute of Natural Resources has taken delivery of a SeaBat T50-R Extended Range multibeam sonar system. In collaboration with OSK Shiptech, Teledyne RESON’s own naval architects and Nuuk Shipyard, R/V ‘Sanna’ was modified to accommodate the new SeaBat T50-R Extended Range multibeam system. Read More…
+
+SeaBat T50 Extended Range
+MacArtney and the Applied Physics Laboratory Launching FOCUS 3 ROTV
+
+MacArtney and the Applied Physics Laboratory at the University of Washington have recently launched the FOCUS 3 – APL’s latest acquisition in the pursuit of unexploded ordnance detection.
+
+FOCUS 3 with Sidescan Sonar
+US Navy tests laser-based ALMDS mine warfare system during BALTOPS
+
+The US Navy’s Helicopter Sea Combat Squadron Two Eight (HSC 28) used the Baltic Sea exercise BALTOPS to test the service’s new Airborne Laser Mine Detection System (ALMDS) and Airborne Mine Neutralization System – Archerfish (AMNS-AF) in the region.
+
+MH-60S Sea Hawk helicopter
+Airborne Laser Mine Detection System (ALMDS) 
+
+ALMDS and AMNS-AF are each operated from the MH-60S helicopter. ALMDS is a laser-based, high-area-coverage system that uses streak-tube imaging light detection and ranging (LIDAR) to detect, classify and localize near-surface, moored mines. Read More …
+
+Oceaneering International to perform the first-ever deepwater Autonomous Underwater Vehicle (AUV) survey in Mexican waters
+
+The geophysical survey will be performed for BHP at its Trion development. Oceaneering will use the DP-2 Ocean Investigator, equipped with their OS-VI AUV and light geotechnical capabilities. Read More … and even more details Here…
+
+HSwMS Uppland, the second of two Royal Swedish Navy Gotland-class submarines, was launched at Saab’s Karlskrona shipyard on June 19
+HSwMS Uppland with the Flank Arrays showing
+
+The mid-life upgrades saw the submarines receive an additional 2-meter hull section to accommodate the third generation of the Stirling air-independent propulsion engine and a diver lock-out chamber in addition to combat management and ship management systems upgrades. Read More…
+
+Columbia Class Subs Take Shape in Virginia
+
+A plasma-burning machine cut the first steel plate that will be used to build Columbia (SSBN 826), the lead ballistic missile submarine. As Newport News continues its digital transformation, the event also marked the first class of submarines that will be built using fully digital blueprints.
+
+Artist Illustration of New Columbia Class SSBN
+Columbia Class First Cut
+
+The Columbia-class boats will replace the fleet of Ohio-class nuclear ballistic submarines.
+
+Columbia Class Subs
+
+The Columbia class is to be equipped with an electric-drive propulsion train, as opposed to the mechanical-drive propulsion train used on other Navy submarines.
+
+“The electric-drive system is expected to be quieter (i.e., stealthier) than a mechanical-drive system,” a Congressional Research Service report on Columbia-Class submarines from earlier this year states. Read More…
+
+BAE Systems Acquires Riptide
+
+BAE Systems, Inc. has announced the purchase of the key assets of Riptide Autonomous Solutions, a Plymouth, Mass.-based provider of unmanned underwater vehicle (UUV) technology and solutions.
+
+Specializing in small UUVs, Riptide’s platforms are designed to be sophisticated yet simple, efficient and highly flexible, offering performance discriminators within this domain that include greater depth, range, endurance, and speed. Read More …
+
+Oil Tankers attacked in Strait of Hormuz
+
+The Strait of Hormuz, the narrow shipping lane between Iran and Oman named after the fabulously wealthy ancient kingdom of Ormus, has fascinated oil traders since the Iranian revolution in 1979. Iran has periodically threatened to close the strait to enemy shipping, while the United States and its allies have pledged to keep it open and maintain freedom of navigation, by force if necessary.
+
+A photograph released by the US Navy shows the suspected limpet mine attached to Kokuka Courageous. A still (inset) from the footage released by CENTCOM shows an Iranian-type FIAC in a location that enabled its crew to recover the object. Source: US Navy/US Central Command
+
+The Trump administration has directly blamed Iran for attacking two more oil tankers in the Gulf of Oman with limpet mines as part of a wider response to economic sanctions.
+
+Having transited the Strait of Hormuz, the two tankers were near each other when they were hit by explosions on their starboard sides early on 13 June. No one was injured, but Front Altair was seriously damaged and set on fire, while Kokuka Courageoussuffered less damage. Read More…
+
+Royal Navy orders Saab’s AUV62-AT ASW training system
+
+The Royal Navy has awarded a contract to a team comprising Swedish company Saab and UK firm QinetiQ to provide the AUV62-AT anti-submarine warfare (ASW) training system.
+
+SAAB AUV62-AT is an advanced AUV designed for ASW training
+
+The payload module of the AUV62-AT system consists of a transducer tail, which features transmitting and receiving transducers to generate realistic submarine noises and echoes.
+
+Autonomous underwater robots: from Swordfish to the Orca
+
+In its master plan, the US Navy identified four types of autonomous underwater vehicles on its wish list – including the extra-large Orca UUV
+
+Autonomous underwater vehicles (AUVs) provide naval support roles such as intelligence, surveillance and reconnaissance (ISR), mine countermeasures, inspection and identification, oceanography and payload delivery. Some AUVs belonging to the largest class can perform attack roles such as anti-submarine warfare and time-critical strikes.
+
+The US Navy categorizes (AUVs) into four classes: man-portable vehicles, lightweight vehicles, heavyweight vehicles, and extra-large vehicles
+
+Man-portable autonomous underwater robots are the smallest class. They are typically torpedo-shaped, but much lighter at around 10-50kg. Man-portable AUVs are generally launched from small vessels or can be integrated into a mine countermeasure vessel.
+
+Slightly bigger than the man-portable AUVs, lightweight autonomous underwater robots usually weigh up to 500lbs (227kg) although many weigh in at around 50kg. They can be launched via small craft such as a rigid-hulled inflatable boat or lowered into the water via a crane attached to a surface vessel.
+
+The heavyweight types of autonomous underwater robots generally weigh between 5,000kg and 10,000kg, and are used for longer missions that require endurances of 40-80 hours
+
+Autonomous underwater robots offer a range of military applications. They are a subset of unmanned underwater vehicles (UUVs) which can include both autonomous and remotely operated UUVs.
+
+Autonomous underwater vehicles (AUVs) provide naval support roles such as intelligence, surveillance and reconnaissance (ISR), mine countermeasures, inspection and identification, oceanography and payload delivery. Some AUVs belonging to the largest class can perform attack roles such as anti-submarine warfare and time-critical strikes.
+
+The US Navy categorises (AUVs) into four classes: man-portable vehicles, lightweight vehicles, heavyweight vehicles, and extra-large vehicles. What are the different classes used for and what kinds of technologies are being developed?
+
+Man-portable
+
+Man-portable autonomous underwater robots are the smallest class. They are typically torpedo-shaped, but much lighter at around 10-50kg. Man-portable AUVs are generally launched from small vessels or can be integrated into a mine countermeasure vessel.
+
+One example is the Mk 18 Mod 1 Swordfish developed by US company Hydroid, which achieved full operational capability in 2008. It can be used for low-visibility exploration activities, as well as reconnaissance, mine countermeasures and hydrographic mapping up to a depth of 40ft.
+
+To carry out its duties, the Swordfish comes with a suite of sensors that measure almost all aspects of the local marine environment. While it has an endurance of 22 hours at 3kn, the Swordfish can reach speeds of up to 5kn during operations lasting less than eight hours.
+
+Lightweight
+
+Slightly bigger than the man-portable AUVs, lightweight autonomous underwater robots usually weigh up to 500lbs (227kg) although many weigh in at around 50kg. They can be launched via small craft such as a rigid-hulled inflatable boat or lowered into the water via a crane attached to a surface vessel.
+
+General Dynamics Mission Systems’ Bluefin-12S is a larger lightweight AUV, weighing in at 213kg. It can carry multiple payloads, and perform mine countermeasure actions and unexploded ordnance detection.
+
+In terms of speed, ATLAS’s SeaWolf (also called SeaFox) lightweight AUV is more useful for particularly time-sensitive mine disposal operations, with its ability to autonomously travel up to 8kn for around three hours.
+
+Heavyweight
+
+The heavyweight types of autonomous underwater robots generally weigh between 5,000kg and 10,000kg, and are used for longer missions that require endurances of 40-80 hours.
+
+Deployed via crane or launched from a submarine, heavyweight AUVs carry out similar tasks as the smaller classes but on a longer and larger scale.
+
+Extra-large
+
+There is no limit to the size and scope of extra-large UUVs (XLUUVs). The largest autonomous underwater robot currently in development is the Cutthroat LSV-2, a 33m long AUV weighing in at around 185,000kg.
+
+Another XLUUV concept in development is Boeing’s Orca, which can eventually be upgraded to support “mine countermeasures, anti-submarine warfare, anti-surface warfare, electronic warfare and strike missions”.
+
+Boeing’s Orca design is based on its previously developed Echo Voyager XLUUV, which can perform duties at sea for months at a time. 
+
+French Frigate Sonars Get an Upgrade
+
+Four French Frigates equipped with analog sonars have been upgraded using RTsys AS3i technology (Analog Surface Ship Sonar Improvement), which digitalized and improved the processing of signals rendered by sensors
+
+New Sonar Architecture
+Klein invent the Sidescan Sonar … again!
+New Klein MA-X View 600 Sidescan Sonar with integrated gap-filler
+
+Klein Marine Systems, a division of Mitcham, has developed a revolutionary, new, patent-pending technology called MA-X that is anticipated to redefine ocean imaging.
+
+Traditional side scan sonar imaging creates a nadir gap in the center of the image.  This gap in data requires overlapping survey lines which leads to significant additional survey time to achieve 100% coverage. 
+
+MA-X allows for seamless imaging of the entire swath, including the nadir area. Klein believes this technology will provide unmatched image quality and an estimated 40% increase in the coverage rate and survey efficiency (i.e. fuel, survey time). Read more…
+
+Russia Launches Belgorod, the World’s Longest Submarine
+
+Russia launched the world’s longest submarine today, the special mission submarine Belgorod. Designed to support a variety of military missions, including the Poseidon long-range strategic nuclear torpedo, the sub is far larger than anything operated by any other naval force, including the U.S. Navy. The six hundred foot long submarine displaces more water than a World War I battleship and can dive to a depth of 1,700 feet. Read More …
+
+Russia’s new “spy-submarine”
+New improved Kilo Submarine
+
+The latest Kilo Class submarine out for sea trials.
+
+New Indonesian Submarines
+
+South Korea to build three new Submarines Indonesia signed a $1.02 billion contract with South Korean shipbuilder Daewoo Shipbuilding and Marine Engineering (DSME) for three Type 209/1400 diesel-electric submarines.
+
+ROKN Chang Bogo
+Unique Group Debuts New Survey USV
+
+Unique Group, a provider of services and solutions for the offshore, subsea and life support industries, has designed and developed its first Unmanned Surface Vehicle (USV) called Uni-Cat.
+
+Uni-Cat USV
+
+With proven hydrographic survey capabilities, the Uni-Cat can be used effectively for bathymetry survey offshore and in shallow waters, claimed a press release from the integrated subsea and offshore solution provider. Read More…
+
+Defending the Underwater Domain: UDT 2019 Dives Deep
+
+Not since the Cold War has the underwater domain played such a critical role in military strategy and tactics. With emerging regional powers bringing significant new capabilities into play and nations around the world embarking on ambitious underwater equipment programmes, the underwater domain is at the very forefront of the modern battlefield.
+
+Bob Anstey, Commodore Royal Navy speaks at UDT 2018. Photo courtesy of UDT
+
+Taking place in Stockholm, Sweden, from 13-15th May 2019, the Undersea Defence Technology (UDT) exhibition and conference will provide a timely look into some of the most relevant work being done in this sector. Read more…
+
+OCEAN Business 19 – Southampton coming up
+
+The most important event of the year, Ocean Business (OB) 2019 in Southampton April 9-11. See new products and attend technical training.
+
+Japan commissions tenth Soryu-class submarine
+JS Shoryu
+
+The Japan Maritime Self Defense Force welcomed its tenth Soryu-class submarine
+
+JMSDF photo of JS Soryu
+
+The submarine was delivered by Japanese shipbuilder Kawasaki Heavy Industries.
+The 84-meter long boat is manned by 65 sailors, displaces 2,950 tonnes and uses its Diesel-Stirling-electric main engine to propel it to a maximum billed speed of 20 knots
+
+Next-generation USV to Launch at Ocean Business 2019
+
+Unmanned Survey Solutions (USS) has designed and built the next-generation Accession Class Unmanned Survey Vessel (USV) for use in nearshore and offshore hydrographic surveys. The device will launch at Ocean Business in April 2019.
+
+The unique modular design of the USV allows the vessel to increase its base design length of 3.5m to a maximum of 5m for additional payload equipment and/or power for extended endurance depending on operational requirements
+
+Read more…
+
+SeaRobotics Launches SR-ENDURANCE ASV
+
+SeaRobotics Corporation (SeaRobotics), has announced the successful completion of its factory acceptance testing of its entry into the Autonomous Surface Vehicle (ASV) Workboat market with the SR-Endurance 7m system.
+
+The system is optimized for sonar research through the utilization of an optionally manned helm configuration and a serial diesel-electric propulsion system. Outfitted with an instrumented launch and recovery system (LARS), and supporting hydrographic winch system, the SR-ENDURANCE 7.0 can deploy towed sonar/instrument systems, dipping sonar/systems, or ROV systems.
+
+Russia launches 6th improved Kilo Submarine
+
+Russian shipbuilder Admiralty Shipyards launched the first of a second batch of Improved Kilo-class submarines in a March 28 ceremony in St. Petersburg.
+
+Photo: Admiralty Shipyard
+
+Petropavlovsk-Kamchatsky will also be the first Project 636.3 to be built for the Vladivostok-based Pacific Fleet
+
+US Hydro 2019 Conference
+
+The U.S. Hydro 2019 Conference, presented by The Hydrographic Society of America, was held at the Beau Rivage Resort & Casino in Biloxi, MS on March 19- 22, 2019
+
+The major trend of the conference was all new Autonomous Surface Vessels (ASV) for hydrographic applications. One of the best was the new HydroCat 180 from Seafloor systems.
+
+Belgium Naval & Robotics win Belgium/Holland MCM Program
+Naval Group & ECA MCM Concept
+
+Belgium chooses Belgium Naval & Robotics for the supply of twelve mine hunters and their drone systems which will equip the Belgian and Dutch Navies after a tender launched in the summer 2018 , Belgium has just notified The selection of the Belgium Naval & Robotics Consortium, bringing together Naval Group and ECA Robotics, for the supply of twelve mine-hunting vessels and their toolbox (payload). Six ships are destined for the Belgian Navy, the other six will be delivered to the Dutch Navy. The contract, for which a budget of almost two billion euros is foreseen, will last for 10 years.  Read more...
+
+
+Thales teams with Aquabotix for Australian autonomous MCM solution
+Photo: Thales
+
+Thales and Aquabotix announced they are joining forces to design and develop a rapidly deployable mine counter measures (MCM), rapid environment assessment (REA) and military hydrographic autonomous system mission solution
+
+More…
+
+US Navy Wraps Up Mine-Hunting Sonar Developmental Trials
+AN/AQS-20C mine-hunting sonar system
+
+The US Navy has completed developmental testing for the AN/AQS-20C mine-hunting sonar system at Naval Surface Warfare Center, Panama City Division.
+
+The AQS-20C is the next generation of the AN/AQS-20 system designed to be incorporated into the Littoral Combat Ship Mine Countermeasures Mission Package. The system consists of four sonar arrays: two side-looking arrays; a gap-filler sonar array; and a forward-looking sonar array providing simultaneous detection, localization and classification of bottom mines, close-tethered moored mines and volume-moored mines.
+
+The system delivers high-definition images of bottom mines, providing the operator with both range and contrast data that combine to form a three-dimensional image during post-mission analysis to aid in mine identification.
+
+The AQS-20C will now be integrated with and deployed from the Mine Countermeasures Unmanned Surface Vehicle (MCM USV), a surface craft that supports the employment of various mine countermeasure payloads.
+
+The MCM USV can be launched and recovered by the LCS, from other vessels of opportunity or from shore sites to provide minesweeping, mine-hunting and mine neutralization capabilities.
+
+Read more….
+
+SeaRaptor 6000m AUV
+SeaRaptor AUV
+
+Teledyne Gavia announced that the company will formally introduce their new 6000 meters rated AUV, SeaRaptorTM, at Ocean Business in April.
+
+“Teledyne is excited to formally introduce the market to SeaRaptor, our new deep rated AUV”, said Thomas Altshuler, Vice President and Group General Manager for the Teledyne Marine Vehicle group. “In SeaRaptor, the Teledyne Marine team has introduced a high-performance AUV capable of carrying the most advanced marine sensors available in the market. We have already delivered our first vehicle and see significant opportunities for SeaRaptor.”
+
+Kraken Completes Sea Tests of KATFISH with Elbit Systems
+Elbit’s Seagull Unmanned Surface Vessel with Kraken Towed SAS KATFISH
+
+Elbit Systems has developed a state-of-the-art Unmanned Surface Vehicle (USV) named “Seagull”. Seagull is a multi-mission USV platform boasting high autonomy levels and modular features, allowing it to be rapidly reconfigured for a wide array of missions – including anti-submarine warfare and mine countermeasures.
+
+“Elbit Systems’ Seagull USV is one of the most advanced ocean drones in the world,” said Karl Kenny, Kraken’s President and CEO. “With KATFISH integrated on Elbit’s Seagull USV, the system can provide remotely operated, unmanned, end-to-end mine hunting operations. With KATFISH, these ocean drones can detect very small objects hidden on the seabed and enter confined spaces where underwater explosives are likely to be hidden. Since robotic systems can be remotely operated their use can remove people from very dangerous missions – in essence, taking the sailor out of the minefield. Kraken and Elbit are co-operating on a number of international contract pursuits for KATFISH integrated on the Seagull platform.”
+
+Naval Group inks $36B Submarine Contract
+
+Australia signed a production contract with French shipbuilder Naval Group for a fleet of 12 new submarines, worth $35.5 billion.
+
+France has won the contract to build 12 submarines for Australia. Picture: news.com.au
+
+Australia selected the French builder as its preferred bidder for the fleet of submarines in 2016 ahead of other offers from Japan and Germany.
+
+The first of the new submarines is scheduled to be delivered in the early 2030s and the final vessel during the 2050s
+
+C-Enduro Delivered to Royal Navy
+Photo: L3 ASV
+
+L3 ASV has announced the successful delivery of a long-endurance autonomous vessel known as the C-Enduro to the Royal Navy. 
+
+The C-Enduro will be used by the Mine countermeasures and Hydrographic Capability (MHC) program.
+
+The 4.8-meter autonomous vessel is equipped with 10 sensors combining scientific and hydrographic survey equipment. The vessel operates using L3 ASV’s proprietary control system, ASView, and is fitted with L3 ASV’s advanced autonomy package, ensuring situational awareness and smart path planning.
+
+Sonar Helps Find Missing Argentine Submarine
+Sonar Image using EdgeTech 2205 of ARA San Juan (Credit Ocean Infinity)
+
+Side scan sonar technology was used to help find the missing Argentine submarine, ARA San Juan, which was located in 900 meters of water off Argentina’s Atlantic Coast after a yearlong search.
+
+The deepwater search was performed by Ocean Infinity and its advanced fleet of 6,000 meter rated autonomous underwater vehicles (AUV) equipped with EdgeTech 2205 Side Scan Sonars.
+
+ 
+
+Join my email list
+
+By clicking submit, you agree to share your email address with the site owner and Mailchimp to receive marketing, updates, and other emails from the site owner. Use the unsubscribe link in those emails to opt out at any time.
+
+74 Replies to “2021 Pings… )))”
+Ted Taylor
+JUNE 12, 2020 AT 10:30 PM
+
+I am not sure where you’re getting your info, but great topic. I needs to spend some time learning more or understanding more. Thanks for fantastic info I was looking for this information for my mission.
+
+Vanetta Korbel
+JUNE 21, 2020 AT 6:56 PM
+
+This was a really wonderful article. Many thanks for providing this information.
+
+blog3009
+JUNE 23, 2020 AT 3:42 PM
+
+Hmm it seems like your site ate my first comment (it was extremely long) so I guess I’ll just
+sum it up what I submitted and say, I’m thoroughly enjoying your blog.
+
+I as well am an aspiring blog writer but I’m still new to the whole thing.
+Do you have any helpful hints for beginner blog writers?
+I’d definitely appreciate it.
+
+my blog blog3009
+
+Merri
+JUNE 28, 2020 AT 3:47 PM
+
+Thanks for the auspicious writeup. It in truth was a leisure account it. Look complex to far brought agreeable from you! However, how can we be in contact?|
+
+blog3009.xyz
+JUNE 30, 2020 AT 5:38 AM
+
+This is my first time go to see at here and i am genuinely pleassant to read all at alone place.
+
+Here is my webpage blog3009 [blog3009.xyz]
+
+Pierre
+JULY 3, 2020 AT 3:40 AM
+
+I’m not that much of a online reader to be honest but your sites really nice, keep it up! I’ll go ahead and bookmark your website to come back later. Many thanks|
+
+مارکت بانک پارسیان
+JULY 12, 2020 AT 4:54 PM
+
+Hey there What’s up to all, the contents existing at this web site are genuinely amazing for people knowledge, well, keep up the good work fellows. grazie
+
+ปั้มไลค์
+JULY 13, 2020 AT 8:31 PM
+
+Like!! I blog quite often and I genuinely thank you for your information. The article has truly peaked my interest.
+
+Daine Rieke
+AUGUST 13, 2020 AT 11:56 AM
+
+nice artilce , thank you Admin . keep it up have a great day
+
+I Fashion Styles
+AUGUST 14, 2020 AT 4:56 PM
+
+Wow! This can be one particular of the most helpful blogs We have ever arrive across on this subject. Actually Fantastic. I am also an expert in this topic therefore I can understand your effort.
+
+href="http://p4player.com/">Download Free PC Games With Torrent
+AUGUST 23, 2020 AT 1:37 PM
+
+nice artilce , thank you Admin . keep it up have a great day
+
+href="http://mac4ufree.com/">Crack software
+AUGUST 25, 2020 AT 1:59 PM
+
+nice artilce , thank you Admin . keep it up have a great day
+
+Free Stuff
+AUGUST 26, 2020 AT 6:24 PM
+
+Greetings from Colorado! I’m bored at work so I decided to check out your website on my iphone during lunch break. I love the information you provide here and can’t wait to take a look when I get home. I’m amazed at how fast your blog loaded on my mobile .. I’m not even using WIFI, just 3G .. Anyways, amazing blog!
+
+Katharyn Basquez
+SEPTEMBER 6, 2020 AT 12:15 PM
+
+Thanks so much for your hard work.
+
+Free Stuff
+SEPTEMBER 6, 2020 AT 8:33 PM
+
+You really make it seem so easy with your presentation but I find this matter to be really something that I think I would never understand. It seems too complex and extremely broad for me. I’m looking forward for your next post, I抣l try to get the hang of it!
+
+Free Stuff
+SEPTEMBER 7, 2020 AT 1:35 AM
+
+A person essentially help to make severely articles I would state. This is the first time I frequented your website page and thus far? I amazed with the research you made to make this actual submit incredible. Magnificent task!
+
+Buddy Fikes
+SEPTEMBER 11, 2020 AT 6:02 AM
+
+I would like to learn more insight from you! And I am going to link back to this |post straight away. Awesome!
+
+Kazuko Kol
+SEPTEMBER 14, 2020 AT 4:00 AM
+
+hi there, your site is so good.Following your site.
+
+Johanne Tanberg
+SEPTEMBER 16, 2020 AT 6:02 AM
+
+hello there, your style is perfect.Following your posts.
+
+Ivey Laxson
+SEPTEMBER 18, 2020 AT 3:41 AM
+
+nice artilce , thank you Admin . keep it up have a great day
+
+Parenting
+SEPTEMBER 22, 2020 AT 9:38 AM
+
+I like what you guys are up too. Such intelligent work and reporting! Keep up the superb works guys I抳e incorporated you guys to my blogroll. I think it will improve the value of my site 
+
+Crave Freebies
+SEPTEMBER 25, 2020 AT 12:12 PM
+
+Wow! Thank you! I always wanted to write on my blog something like that. Can I implement a part of your post to my site?
+
+Hot Girl Snapchat
+SEPTEMBER 27, 2020 AT 4:09 AM
+
+You are a great writer. Do you have any more websites?
+
+GuQin
+SEPTEMBER 28, 2020 AT 2:12 AM
+
+Nice post. I used to be checking constantly this blog and I am impressed! Very helpful information particularly the remaining part  I maintain such information a lot. I was looking for this certain info for a very long time. Thanks and good luck.
+
+lose weight
+SEPTEMBER 29, 2020 AT 2:42 PM
+
+Good job! You certainly included all important points in your post. I want to read more by you. Do you maintain any more blogs?
+
+ways to lose weight
+SEPTEMBER 29, 2020 AT 2:47 PM
+
+Can you clarify some things? It’s a worthy post regardless, so thank you!
+
+st saviours ikoyi
+OCTOBER 1, 2020 AT 11:59 PM
+
+Thanks for sharing, this is a fantastic blog post. Really looking forward to read more. Will read on…
+
+I Fashion Styles
+OCTOBER 4, 2020 AT 7:57 PM
+
+There is clearly a bunch to realize about this. I feel you made some nice points in features also.
+
+king rhino pills
+OCTOBER 7, 2020 AT 7:25 PM
+
+How can I get more useful info?
+
+admin
+OCTOBER 7, 2020 AT 8:47 PM
+
+Subscribe to my newsletter
+
+Jayne Nido
+OCTOBER 15, 2020 AT 1:44 AM
+
+Your place is valueble for me. Thanks!â€¦
+
+Tatyana Vranek
+OCTOBER 15, 2020 AT 9:30 PM
+
+Itâ€™s hard to find knowledgeable people on this topic, but you sound like you know what youâ€™re talking about! Thanks
+
+here
+OCTOBER 17, 2020 AT 1:42 AM
+
+This discusses some insightful considerations-but I am concerned you could be skimming details. I hope to see you write more about this, because you are a worthy writer and I enjoy reading your articles.
+
+project igi 3 size
+NOVEMBER 8, 2020 AT 11:25 PM
+
+It’s nearly impossible to find knowledgeable folks with this topic, and you sound like there’s more you are dealing with! Thanks
+
+I Fashion Styles
+NOVEMBER 17, 2020 AT 3:43 PM
+
+It抯 really a great and helpful piece of info. I抦 glad that you shared this useful info with us. Please keep us informed like this. Thanks for sharing.
+
+Interior
+NOVEMBER 17, 2020 AT 6:00 PM
+
+Great write-up, I抦 regular visitor of one抯 site, maintain up the excellent operate, and It is going to be a regular visitor for a long time.
+
+Nancy Mcmurray
+NOVEMBER 29, 2020 AT 8:23 AM
+
+I often read your blog admin try to find it very fascinating. Thought it was about time i show you , Sustain the really great work
+
+Hairstyles VIP
+DECEMBER 1, 2020 AT 6:47 PM
+
+I’m extremely impressed with your writing skills and also with the layout on your weblog. Is this a paid theme or did you customize it yourself? Anyway keep up the excellent quality writing, it抯 rare to see a nice blog like this one today..
+
+maseczki z filtrem
+DECEMBER 27, 2020 AT 12:52 AM
+
+I’m extremely pleased to discover this website. I wanted to thank you for ones time just for this fantastic read!! I absolutely enjoyed every part of it and i also have you bookmarked to see new stuff in your site.
+
+pożyczki pozabankowe
+JANUARY 1, 2021 AT 1:42 PM
+
+I got what you intend,bookmarked, very decent website.
+
+Hairstyles Women
+JANUARY 18, 2021 AT 2:06 AM
+
+Hello There. I found your blog the use of msn. That is a very neatly written article. I will make sure to bookmark it and come back to read more of your useful info. Thanks for the post. I will certainly comeback.
+
+온라인 바카라
+JANUARY 20, 2021 AT 4:44 AM
+
+This is something New !
+
+스포츠 확률
+JANUARY 23, 2021 AT 7:39 AM
+
+best i have ever seen !
+
+룰렛 사이트
+JANUARY 28, 2021 AT 10:10 AM
+
+best i have ever seen !
+
+Patsy Tillema
+MARCH 2, 2021 AT 8:39 AM
+
+I was able to find good information from your articles.
+
+Long Hairstyles
+MARCH 13, 2021 AT 3:50 AM
+
+I am continually browsing online for articles that can facilitate me. Thx!
+
+I Fashion Styles
+MARCH 16, 2021 AT 10:28 PM
+
+great points altogether, you just gained a logo new reader. What might you suggest about your submit that you just made some days ago? Any sure?
+
+Free Stuff
+MARCH 17, 2021 AT 12:31 PM
+
+Wow, fantastic blog layout! How long have you been blogging for? you made blogging look easy. The overall look of your web site is fantastic, let alone the content!
+
+Blazingseollc
+APRIL 4, 2021 AT 2:45 AM
+
+some truly superb articles on this web site, regards for contribution.
+
+Fashion Styles Ideas
+APRIL 4, 2021 AT 8:34 PM
+
+That is really attention-grabbing, You’re an excessively skilled blogger. I’ve joined your feed and stay up for in the hunt for more of your excellent post. Also, I have shared your web site in my social networks!
+
+Health Tips
+APRIL 5, 2021 AT 8:13 PM
+
+I do not even know how I ended up here, but I thought this post was good. I don’t know who you are but certainly you’re going to a famous blogger if you aren’t already  Cheers!
+
+Fitness Walking
+APRIL 7, 2021 AT 5:33 PM
+
+Pretty nice post. I just stumbled upon your blog and wanted to say that I have truly enjoyed surfing around your blog posts. In any case I抣l be subscribing to your rss feed and I hope you write again very soon!
+
+Lamont
+APRIL 13, 2021 AT 6:55 PM
+
+I know this if off topic but I’m looking into starting my own blog and was wondering
+what all is required to get set up? I’m assuming having a
+blog like yours would cost a pretty penny? I’m not very
+web smart so I’m not 100% sure. Any suggestions or advice
+would be greatly appreciated. Many thanks
+
+I Fashion Styles
+APRIL 17, 2021 AT 4:51 AM
+
+Good web site! I really love how it is easy on my eyes and the data are well written. I’m wondering how I could be notified when a new post has been made. I’ve subscribed to your RSS which must do the trick! Have a nice day!
+
+admin
+APRIL 17, 2021 AT 1:54 PM
+
+This is done with WordPress from scratch, but there are several websites that help you setup things in an easier way (but they charge money).
+
+Dudley Seigart
+APRIL 23, 2021 AT 2:54 AM
+
+Terrific article
+
+KAYSWELL
+MAY 5, 2021 AT 10:52 PM
+
+Wow! Thank you! I constantly wanted to write on my site something like that. Can I include a portion of your post to my website?
+
+Pasquale Gasser
+MAY 6, 2021 AT 4:39 AM
+
+I discovered your blog site on google and check a few of your early posts. Continue to keep up the very good operate. I just additional up your RSS feed to my MSN News Reader. Seeking forward to reading more from you later on!â€¦
+
+KAYSWELL
+MAY 18, 2021 AT 2:32 PM
+
+great post, very informative. I wonder why the other specialists of this sector don’t notice this. You must continue your writing. I am sure, you have a huge readers’ base already!
+
+Otto Hargest
+MAY 19, 2021 AT 12:59 AM
+
+I couldn’t refrain from commenting. Perfectly written!
+
+Trenton Tretola
+MAY 23, 2021 AT 1:09 AM
+
+I’m not that much of a online reader to be honest but your sites really nice, keep it up! I’ll go ahead and bookmark your site to come back down the road. Cheers
+
+KAYSWELL
+MAY 24, 2021 AT 1:10 AM
+
+My brother suggested I might like this website. He was entirely right. This post actually made my day. You can not consider just how a lot time I had spent for this information! Thank you!
+
+KAYSWELL
+MAY 24, 2021 AT 9:18 PM
+
+I have not checked in here for a while since I thought it was getting boring, but the last several posts are good quality so I guess I will add you back to my daily bloglist. You deserve it my friend 
+
+Crave Freebies
+JUNE 2, 2021 AT 4:07 AM
+
+This is very interesting, You are a very skilled blogger. I have joined your rss feed and look forward to seeking more of your great post. Also, I’ve shared your site in my social networks!
+
+먹튀검증
+JUNE 2, 2021 AT 9:23 AM
+
+I simply added your website to my facebook roll, I pray you would take into consideration doing the same.
+you have got a excellent weblog here! do you need to develop invite posts by myself www?
+
+먹튀사이트
+
+에볼루션카지노
+JUNE 12, 2021 AT 7:23 AM
+
+This is genuinely interesting, You happen to be the very skilled blog owner.
+I have became a member of your feed in addition to look forward to seeking more of the wonderful post.
+Likewise, I? ve contributed your website throughout my social networks!
+
+먹튀검증
+
+I Fashion Styles
+JUNE 12, 2021 AT 6:52 PM
+
+Wonderful blog! I found it while browsing on Yahoo News. Do you have any tips on how to get listed in Yahoo News? I’ve been trying for a while but I never seem to get there! Cheers
+
+Kayswell
+JUNE 17, 2021 AT 3:12 AM
+
+whoah this blog is excellent i love reading your posts. Keep up the good work! You know, many people are looking around for this info, you could aid them greatly.
+
+curso mestres do bitcoin 3.0 vale a pena
+JUNE 22, 2021 AT 1:31 PM
+
+Good post. I certainly love this site. Continue the good work! 194285374
+
+Herminia Messenger
+JULY 12, 2021 AT 12:55 PM
+
+Spot on with this write-up, I seriously think this website needs a lot more attention. I’ll probably be back again to read more, thanks for the advice!
+
+Pat Mckissick
+AUGUST 9, 2021 AT 8:08 PM
+
+This is a great tip especially to those fresh to the blogosphere. Brief but very precise info… Thank you for sharing this one. A must read article!
+
+Dean
+AUGUST 10, 2021 AT 1:38 PM
+
+Hello, i read your blog occasionally and i own a similar one
+and i was just curious if you get a lot of spam comments?
+If so how do you protect against it, any plugin or anything you can recommend?
+I get so much lately it’s driving me insane so any support is very much appreciated.
+
+admin
+AUGUST 10, 2021 AT 8:46 PM
+
+3-4 per day SPAM
+
+manhwaland
+SEPTEMBER 1, 2021 AT 1:53 AM
+
+Very neat post.Thanks Again. Really Great.
+
+Leave a Reply
+
+Your email address will not be published. Required fields are marked *
+
+Comment *
+
+Name
+
+Email
+
+Website
+
+CONTACT
+thomas@thomasmeurling.com
+FOLLOW US
+LinkedIn
+ 
+Facebook
+ 
+Twitter
+Proudly powered by WordPress
+ 
+ 
+ ----- 
+ Source link : https://thomasmeurling.com/blog/ 
+ ----- 

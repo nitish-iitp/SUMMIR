@@ -1,0 +1,1658 @@
+Skip to content
+Kluwer Competition Law Blog
+Facebook
+ 
+X
+ 
+LinkedIn
+ 
+YouTube
+ 
+EUROPEAN COURT OF JUSTICE, EXEMPTIONS, SPORTS LAW
+EU Court of Justice Delineates the Scope of the Wouters Exception
+Ben Van Rompuy (Europa Institute, Leiden Law School)/January 15, 2024 /1 Comment
+
+On 21 December 2023, the Court of Justice of the European Union (CJEU) delivered its highly anticipated judgment in the European Super League Company (ESL) case (C-333/21), alongside two other rulings dealing with the application of EU competition and free movement law to sports governance: International Skating Union (ISU) v Commission (C-141/21 P) and SA Royal Antwerp Football Club (Royal Antwerp) (C-680/21). While the ESL case has garnered most of the attention, it is important to read the trio of judgments together (see the previous post assessing the rulings from an antitrust perspective here). The Court – confronted with an increasing number of sports-related antitrust cases – made a clear concerted effort to outline the principles for the appraisal of restrictive sporting rules and practices, particularly those connected to the unusual gatekeeper power that most sports governing bodies possess. This is an assessment that is necessarily guided by sector-specific considerations and the unique role that EU competition law assumes in subjecting transnational private rule-making to rigorous scrutiny.
+
+However, the three judgments do address several points of broader relevance for EU competition law. This blog focuses on one of these, namely the Court’s endeavours to clarify and confine the scope of the enigmatic Wouters exception, which removes certain anti-competitive practices from the reach of antitrust rules, in those cases where they are necessary means for achieving a legitimate objective.
+
+ 
+
+The primary Wouters case and subsequent debate
+
+The Court of Justice established the exception in its 2002 Wouters v Algemene Raad van de Nederlandse Orde van Advocaten judgment (C-309/99). The Court had to determine whether a regulation adopted by the Netherlands Bar prohibiting partnerships between members of the Bar and accountants for ethical reasons violated Article 101 TFEU (and Articles 49 and 56 TFEU). The Court acknowledged that the restriction constituted a decision by an association of undertakings and had the potential to distort competition. It noted, however, that Article 101(1) TFEU does not necessarily prohibit every restriction of the freedom of action of undertakings. To determine whether an agreement or decision constitutes a restriction of competition within the meaning of that provision, account must be taken of its economic and legal context. This, then, may lead to the finding that the consequential anti-competitive effects are inherent to a legitimate objective (the suitability subtest) and do not go beyond what is necessary to attain the pursuit of that objective (the necessity or least-restrictive-means test). If so – and in the case at hand the Court considered that this test was satisfied – the restriction falls outside the scope of Article 101(1) TFEU.
+
+The introduction of this exception was not a passing phenomenon (or “accident de parcours”) as the Court reaffirmed its reasoning in subsequent case law dealing with the rules of professional conduct. A prime example is the Meca-Medina case (C-519/04), where the Court was asked whether the anti-doping regulations of the International Olympic Committee (IOC) infringed Article 101(1) TFEU. The Court, unlike the European Commission and the General Court, refused to give immunity to a category of “purely sporting” rules and instead allowed sports-specific justifications to offset a prima facie case of competitive harm based on the Wouters exception. Ever since, this free movement-style proportionality test has been the central focus of antitrust cases involving sporting rules and practices.
+
+That said, the Wouters exception remains a distinctive feature within EU competition law because it invites an examination of public interest justifications at the Article 101(1) TFEU stage. Although it has frequently been likened to the ancillary restraints doctrine, that comparison has done little to resolve the ongoing debate about the precise scope and application of the exception. A recent topic of discussion is whether private “regulatory” initiatives aimed at achieving sustainability goals in a given sector can invoke it (see e.g. here and here). In its draft guidelines on sustainability agreements, the Netherlands Authority for Consumers and Markets did not rule out that possibility but found the doctrine “still insufficiently clear”. Similarly, the European Commission’s revised guidelines on horizontal cooperation make a passing mention of the exception (footnote 366) downplaying its significance while not entirely dismissing that sustainability agreements could escape the Article 101(1) TFEU prohibition by satisfying the requirements of the Wouters test. In short, the very limited case law (six Court of Justice rulings) left us with considerable uncertainty.
+
+ 
+
+The Wouters exception: when and where?
+
+The ESL, ISU, and Royal Antwerp judgments mark the first time the Court of Justice properly addresses the scope of application of the Wouters exception. The Court makes four important points in this context.
+
+First, the Court specifies that the Wouters exception applies specifically in cases involving “rules adopted by an association such as a professional association or a sporting association” that regulate the “exercise of a professional activity” with a view “to pursuing certain ethical or principled objectives” (C-333/21, para 183). This emphasis on rulemaking by professional bodies can be interpreted as limiting the broader application of the exception to, for instance, agreements setting sustainability standards. Their assessment also presents challenges in evaluating costs and benefits. Nevertheless, restricting the Wouters exception to private (but quasi-legislative) measures imposed on members of a profession appears justified as this peculiar context demands a more intuitive means-ends analysis to encompass the regulatory objectives at play.
+
+Second, the Court affirms the applicability of the Wouters exception to Article 102 TFEU, extending its reach beyond the confines of Article 101 TFEU. Because the two antitrust provisions can come into play at the same time, as exemplified by the ESL and Royal Antwerp judgments, the Court emphasizes that they should be applied consistently, adhering to their respective conditions of application (C-333/21, paras 119,186). In its 2007 White Paper on Sport, the European Commission had already taken the view that unilateral conduct may also benefit from the Wouters exception. More recently, the German competition authority applied the Wouters test when examining the advertising restrictions that the IOC imposes on Olympic athletes and their sponsors under Article 102 TFEU. The Court’s support for this approach, coupled with its express recognition of the need for a consistent analytical framework, is a welcome development.
+
+Third, the Court clarifies that the Wouters exception cannot be applied to conduct that is, by its very nature, harmful to the proper functioning of competition (C-333/21, para 186). This means that before considering the exception, it must first be established whether the conduct can be classified as a restriction by object Only when this is not the case, the Wouters exception can be invoked, possibly leading to the conclusion that the identified restriction of competition or abuse nevertheless escapes the prohibition laid down in Article 101(1) TFEU or Article 102 TFEU.
+
+The Court could have just acknowledged it was both redefining the rationale of the exception and the circumstances under which it applies. Instead, it asserts that this limitation was already “implicitly but necessarily apparent” from the absence of any reference to the Wouters case law in its judgment in the MOTOE case (C-49/07). It is difficult to see how that conclusion was derived. In API (C-184/13 to C-178/13) and CHEZ Elektra Bulgaria (C-427/16 and C-428/16), the Court established that the exception could also extend to State measures that coerce or induce undertakings to engage in anti-competitive practices, potentially violating Article 101 TFEU read in conjunction with Article 4(3) TEU. It follows that the exception can also apply when Article 106(1) TFEU is read together with Article 102 TFEU, as was the case in MOTOE. However, even so, the Court never previously applied the Wouters exception to (State-imposed) unilateral conduct. Furthermore, in both judgments, the Court stated that the legislation at issue might fall outside the prohibition laid down in Article 101(1) TFEU if the Wouters conditions are satisfied, notwithstanding that it rendered mandatory a decision of an association of undertakings “which has the object or effect of restricting competition”. Even comparisons with the ancillary restraints doctrine under Article 101(1) TFEU, which only applies in cases where the main transaction is not anti-competitive in nature, would not have implied this change in direction. In Lupin (T-680/14), for instance, the General Court reasoned that non-challenge and non-marketing clauses contained in a patent dispute settlement agreement could not be regarded as ancillary, because that agreement was aimed at market exclusion. It then added that for the same reason, the Wouters exception could not be invoked (paras 138-144). However, the Court of Justice has never linked the two doctrines. There are conceptual similarities, but also differences. In MOTOE, there were no restraints to appraise in the light of the effects of a main operation: the creation of the legal monopoly carried with it the risk of abuse. So, necessarily apparent? Not quite.
+
+Fourth, the Court sheds some light on the overlap between the Wouters exception and the traditional justification framework laid down in Article 101(3) TFEU. It maintains that the two frameworks are not mutually exclusive. Still, in practice, an efficiency defence under Article 101(3) TFEU will not be successful if the conduct fails the Wouters test on the same grounds. The Court explicitly recognizes that the Wouters exception offers greater flexibility by stressing that the criteria for establishing an efficiency defence “are more stringent” (C-333/21, para 189). In addition to the need to demonstrate appreciable objective advantages (“efficiency gains”) and the indispensability of the restrictions for achieving them, Article 101(3) TFEU requires proving that an equitable part of the benefits is passed on to consumers and that there is no elimination of competition for a substantial part of the products or services concerned. The case law further mandates – as part of the first condition – a weighing of the pro- and anti-competitive effects to ensure that the efficiency gains offset the harm to competition.
+
+Interestingly, the Court contributes to more convergence between the tests by suggesting that the “no elimination of competition” condition similarly applies to the Wouters exception (even though a rule would not necessarily fail the proportionality test simply because it eliminates competition). When describing the Wouters test, the Court highlights the need to assess whether the inherent anti-competitive effects do not exceed what is necessary “in particular by eliminating all competition” (C-333/21, para 183). Furthermore, when addressing the proportionality requirement to satisfy the test of justification under Article 45 TFEU – which conceptually aligns with the Wouters test – the Court in Royal Antwerp draws upon its analysis of the third and fourth conditions of Article 101(3) TFEU (C-680/21, para 148).
+
+Assuming that the public interest benefits can be translated into economic efficiencies (that is a topic for another day), the “fair share for consumers” condition under Article 101(3) TFEU stands as the most prominent difference between the two frameworks. The Court emphasizes in its ESL and Royal Antwerp judgments that this requires the defendants to demonstrate that the sporting rule at issue positively impacts each of the various categories of users, “comprising, inter alia national football associations, professional or amateur clubs, professional or amateur players, young players, and more broadly, consumers, be they spectators or television viewers”. This is a far more demanding proposition than the more open-ended proportionality test under the Wouters exception.
+
+ 
+
+Which legitimate objectives are legitimate?
+
+One of the key debates surrounding the Wouters exception has always been the question of which types of justifications can be invoked to support its application. Some assert that this should be confined to objectives that have a foundation in public law (because then there is input legitimacy, see e.g. here) or those related to “national” interests. However, this view has always been challenged by sports-related cases, which have allowed for objectives that arguably fall outside these categories. Others have characterised legitimate objectives as those aimed at protecting a public good (see e.g. AG Mazák in C-439/09).
+
+In its decision on the ISU Eligibility Rules, the European Commission introduced a limiting factor by stating that only non-economic objectives can be accepted as legitimate objectives. After all, the Wouters exception is a transplant from the free movement case law, where “economic” aims are precluded as justifications (para 220). It, therefore, refused to consider the protection of financial interests as a legitimate objective. And it accepted the prevention of free-riding only as an efficiency benefit. The Court of Justice, however, does not address this specific issue. It merely refers to “legitimate objectives in the public interest” and “principles or ethical objectives” and appears willing to consider the identified legitimate sporting interests (such as encouraging the recruitment and training of young professional football players) as relevant justifications regardless of the analytical framework. This is sensible. The sports sector exemplifies the blurry boundaries between economic/non-economic aims, making labels less useful. For instance, maximising commercial revenue can easily be reframed as preserving the sports ecosystem and, therefore, promoting grassroots development: whether we should accept it as a justification will depend on the presence of effective redistribution mechanisms (see C-333/21, paras 234-237).
+
+ 
+
+Conclusion: more clarity can be just as confusing
+
+The Court of Justice has finally attempted to clarify the scope of the Wouters exception through its judgments in ESL, ISU, and Royal Antwerp. While expanding the exception’s application to Article 102 TFEU, the Court has mostly narrowed its scope, notably by excluding its applicability when anti-competitive effects can be presumed. This was a wholly unnecessary move: the finding that the conduct appears to restrict competition by object should simply have been a pertinent factor in the proportionality assessment (as it was in the Commission’s ISU Eligibility Rules decision). In fact, this exclusion has two undesirable and perhaps far-reaching consequences. Firstly, the application of the Wouters exception presupposes that the conduct is capable of distorting competition. However, the Court now requires a definitive classification of the nature of the restriction of competition or the abuse, before we can consider whether there is a restriction of competition or abuse within the meaning of Articles 101(1) TFEU or 102 TFEU. This is not only counterintuitive but the uncertainty inherent in that classification exercise, as evidenced by the three judgments, risks pushing the analysis in any event towards an efficiency defence. Secondly, the narrower application of the Wouters exception diminishes its distinctive function as a more suitable means-ends test to give proper weight to public interest considerations. Now the nature of the restriction delimits which justification framework(s) will be available, obscuring their relationship. Has the Court (inadvertently) rendered the Wouters exception practically obsolete?
+
+ 
+
+ 
+
+* The author represented the complainants in the proceedings before the European Commission that resulted in its decision of 8 December 2017 in Case AT.40208 – International Skating Union, referred to in this blog. The opinions expressed in this blog are purely personal and do not necessarily correspond with those of the complainants.
+
+
+
+
+________________________
+
+To make sure you do not miss out on regular updates from the Kluwer Competition Law Blog, please subscribe here.
+
+
+
+LIKE? SHARE WITH YOUR FRIENDS.
+Post navigation
+NEXT ARTICLE 
+The Requisite Legal Standard of the DMA’s Designation Process: The European Commission’s Discretionary Powers Explained
+ALBA RIBERA MARTÍNEZ (DEPUTY EDITOR) (UNIVERSITY VILLANUEVA, SPAIN)/JANUARY 16, 2024
+ PREVIOUS ARTICLE
+Feminist Antitrust
+KATI CSERES (UNIVERSITY OF AMSTERDAM)/JANUARY 12, 2024
+One comment
+Steve Weatherill
+JANUARY 31, 2024 AT 10:58 AM
+
+I fully agree that the Court’s assertion that the limitation on the scope of the Wouters case law was already “implicitly but necessarily apparent” from the MOTOE case is not convincing. I did not understand why Court was not willing on 21 December to be fully open about its change of approach. But it is now worse. In Case C-438/22 Em akaunt BG ЕООD (25 January 2024), which concerns a decision of a professional association of lawyers fixing the minimum amount of lawyers’ fees (in Bulgaria), the Court follows the 21 December approach – so Wouters/ Meca-Medina case-law does not apply to conduct that has as its very ‘object’ the prevention, restriction or distortion of competition. OK, but C-438/22 Em akaunt BG ЕООD is a case seeking clarification of an earlier (Bulgarian price-fixing) case, Joined Cases C 427/16 and C 428/16 CHEZ Elektro. In CHEZ Elektro the Court did not distinguish between object and effect for the purposes of application of Wouters/ Meca-Medina. Quite the opposite – para 53, “it should be noted that the legislation at issue in the main proceedings making mandatory a decision of an association of undertakings which has the object or effect of restricting competition or restricting the freedom of action of the parties or of one of them does not necessarily fall within the prohibition laid down in Article 101(1) TFEU..” Yet in C-438/22 Em akaunt BG ЕООD the Court claims (para 34):
+
+“It follows from all of those considerations that, although the Court also referred to paragraphs 51 and 53 of the judgment of 23 November 2017, CHEZ Elektro Bulgaria and FrontEx International (C 427/16 and C 428/16, EU:C:2017:890), to the Wouters case-law in a situation involving national legislation providing for a horizontal pricing agreement, it did so only to guide the referring court in the event that it found, at the end of an assessment of all the facts of the case, that that national legislation made it mandatory to have a decision by an association of undertakings that had only the ‘effect’ of restricting competition. It is apparent from paragraphs 56 and 57 of the judgment of 23 November 2017, CHEZ Elektro Bulgaria and FrontEx International (C 427/16 and C 428/16, EU:C:2017:890), that the Court had found that it did not have all the information relating to the overall context in which the regulation issued by the Supreme Council of the Legal Profession had been taken or applied.”
+
+That is a shameless re-writing of the earlier judgment! True, the Court in CHEZ Elektro did not have all the relevant information – but it did not distinguish between object and effect for the purposes of application of Wouters/ Meca-Medina!
+
+I don’t know what is going on here. The inapplicability of Wouters/ Meca-Medina to restrictions by object was invented on 21 December, but now the Court is pretending it was always the law. Why would it do that? Why can’t it just admit that on 21 December it changed its interpretation of 101(1) and 102? What’s wrong with saying “Contrary to what has previously been decided the Wouters/ Meca-Medina case law does not apply in situations involving conduct which has as its very ‘object’ the prevention, restriction or distortion of competition or by its very nature infringes Article 102 TFEU”?
+
+More generally it increasingly feels as if the Court is newly sceptical about the objects and legitimacy of private regulation. Under free movement law it is possible to justify price regulation by reference to wider legitimate objectives (eg C-94/04 Cipolla, C-377/17 Commission v Germany). But C-438/22 Em akaunt BG ЕООD and also Case C 128/21 (18 Jan 2024) seem less receptive to such arguments under competition law. So it looks increasingly clear that 21 December has started a new and strong mood of scepticism about the legitimate role of private regulators. That’s significant for sport, but not only for sport.
+
+REPLY
+Leave a Reply
+
+YOUR EMAIL ADDRESS WILL NOT BE PUBLISHED. REQUIRED FIELDS ARE MARKED *
+
+COMMENT 
+
+NAME * 
+
+EMAIL * 
+
+WEBSITE 
+
+ SAVE MY NAME, EMAIL, AND WEBSITE IN THIS BROWSER FOR THE NEXT TIME I COMMENT.
+
+NEWSLETTER
+Competition Law of the European Union, Sixth Edition
+Van Bael & Bellis
+€ 398
+AUTHOR SPOTLIGHT
+
+Cees Dekker
+
+Directory of EU Case Law on State Aids, Fifth Edition
+CONTACT US
+The Kluwer Competition Law Blog always welcomes posts from competition law professionals that address current issues in international competition law. Would you like to contribute to the Blog? Please contact our editors at: LRS-Competitionlawblog@wolterskluwer.com
+GO TO POSTS ON
+Abuse of dominance Anticompetitive agreements Antitrust Apple Bulgaria Canada Cartels China Competition Competition law Competition Law 2022 Competition Law 2023 Competition policy Consumer welfare Damages Data protection Digital Digital competition Digital economy Digital markets Digital Markets Act Dominance Enforcement Europe European Commission European Court of Justice European Union Foreign direct investment Germany Gun jumping India Investigations Merger control Mergers National competition authorities (NCAs) Netherlands Private enforcement Regulation Spain State aid Sustainability Türkiye United Kingdom United States of America World Competition Law and Economics Review
+CONTRIBUTORS
+Peter Citron (Editor)
+White & Case, Belgium
+Lena Hornkohl (Deputy Editor)
+University of Vienna, Austria
+Alba Ribera Martínez (Deputy Editor)
+University Villanueva, Spain
+Nils Imgarten (Deputy Editor)
+University of Göttingen, Germany
+Gavin Bushell
+Baker McKenzie, Belgium
+Adrian Emch
+Hogan Lovells, China
+Silke Heinz
+Heinz & Zagrosek Partner mbB, Germany
+Mark Katz
+Davies Ward Phillips & Vineberg LLP, Canada
+Janneke Kohlen
+Bird & Bird, Netherlands
+Pauline Kuipers
+Bird & Bird
+Sam MacMahon Baldwin
+Szecskay Attorneys-at-Law, Hungary
+Jay Modrall
+Norton Rose Fulbright, Belgium
+BROWSE CATEGORIES
+by Jurisdiction...
+Argentina (9)
+Australia (19)
+Austria (12)
+Belarus (1)
+Belgium (12)
+Brazil (12)
+Bulgaria (32)
+Canada (54)
+China (36)
+Czech Republic (8)
+Denmark (9)
+Europe (35)
+European Union (295)
+France (21)
+Germany (89)
+Hong Kong (7)
+India (67)
+Ireland (22)
+Italy (14)
+Jersey (2)
+Latvia (3)
+Netherlands (47)
+Philippines (1)
+Poland (21)
+Russia (18)
+South Korea (5)
+Spain (28)
+Sweden (5)
+Switzerland (24)
+Türkiye (55)
+Ukraine (27)
+United Arab Emirates (2)
+United Kingdom (112)
+United States of America (33)
+by Category...
+Abuse of dominance (144)
+Administrative Discretion (1)
+Administrative monopoly (1)
+Advantage (6)
+Advertising (12)
+Advocate General (22)
+Agriculture (1)
+AI (6)
+Algorithms (17)
+Amazon (13)
+Ancillary (4)
+Anti-dumping (1)
+Anticompetitive agreements (41)
+Antitrust (187)
+Antitrust Writing Award (2)
+App stores (9)
+Apple (28)
+Apps (5)
+Arbitration (6)
+Arm's length principle (3)
+Art. 22 (5)
+Artificial Intelligence (6)
+As Efficient Competitor (8)
+Automotive (2)
+Aviation (3)
+Bahrain (2)
+Bid-rigging (7)
+Big data (11)
+Blockchain (8)
+Book review (1)
+Bosnia and Herzegovina (2)
+Boycott (2)
+Brand Gating (3)
+Brexit (24)
+Broadcasting services (1)
+Brussels Ibis (1)
+Burden of Proof (8)
+Cartels (137)
+CAS (1)
+Chile (4)
+Class action (4)
+Collective Redress (11)
+Collusion (9)
+Colombia (2)
+Commitments (11)
+Common Market for Eastern and Southern Africa (1)
+Comparison shopping (1)
+Competition (159)
+Competition and Markets Authority (7)
+Competition Commission of India (12)
+Competition enforcement (27)
+Competition law (56)
+Competition Law 2020 (15)
+Competition Law 2021 (27)
+Competition Law 2022 (34)
+Competition Law 2023 (33)
+Competition Law 2024 (5)
+Competition policy (59)
+Competition proceedings (24)
+Competitor collaboration (1)
+Complaint (3)
+Compliance (5)
+Composite combinations (1)
+Concentrations (6)
+Conference (4)
+Confidentiality (4)
+Connected cars (2)
+Consultation (5)
+Consumer protection (3)
+Consumer welfare (30)
+Costa Rica (1)
+Costs (1)
+Court of Appeal (7)
+COVID-19 (22)
+Criminal enforcement (2)
+Criminal sanctions (4)
+Croatia (1)
+Crypto (2)
+Cybersecurity (1)
+Cyprus (1)
+Damages (62)
+Data Act (1)
+Data Portability (2)
+Data protection (28)
+Dawn raids (14)
+De minimis (1)
+Designation Decision (10)
+Digital (47)
+Digital competition (80)
+Digital economy (111)
+Digital markets (117)
+Digital Markets Act (79)
+Digital Services Act (13)
+Digitisation (11)
+Disclosure (10)
+Discrimination (5)
+Discriminatory pricing (3)
+Diversity (1)
+Dominance (55)
+Double jeopardy (3)
+Dual pricing (1)
+Dutch clause (13)
+Duty to state reasons (1)
+E-commerce (16)
+E-communications (2)
+EC privilege (1)
+ECN (9)
+Economics (17)
+Ecuador (3)
+Effects-based (6)
+Egypt (3)
+Electricity (4)
+Energy Policy (2)
+Enforcement (82)
+Enlargement (1)
+Equal treatment (2)
+ESG (1)
+Essential Facility (1)
+Estimation (6)
+Estonia (1)
+Eurasian Economic Union (2)
+Euratom Treaty (1)
+European Champions (3)
+European Commission (225)
+European Court of Auditors (2)
+European Court of Human Rights (3)
+European Court of Justice (103)
+Evidence (16)
+Ex ante regulation (17)
+Ex ante regulatory assessment (3)
+Ex post regulatory assessment (3)
+Excessive pricing (12)
+Exclusionary Abuse (1)
+Exclusive dealing (1)
+Exemptions (12)
+Facebook (23)
+Failing firm defence (1)
+Fair Fund (2)
+Fair, reasonable and non-discriminatory (FRAND) (6)
+Feminism (1)
+Fibre-optic broadband networks (1)
+Financial markets (2)
+Fines (9)
+Fintech (1)
+Fiscal aid (2)
+Foreign direct investment (34)
+Foreign investment (24)
+Foreign subsidies (26)
+Foreign Subsidy Regulation (17)
+Four-to-three Merger (3)
+Fundamental rights (16)
+Gender equality (3)
+General (6)
+General Court of the European Union (24)
+Geoblocking (3)
+Geopolitics (2)
+Georgia (4)
+Google (25)
+Governance (3)
+Greece (4)
+Green Deal (6)
+Guernsey (1)
+Guidance (7)
+Guidelines (20)
+Gun jumping (28)
+HBER (7)
+Horizontal (15)
+Household waste policy (1)
+Human resources (1)
+Hungary (6)
+Hybrid Settlement (2)
+Iceland (2)
+ICN (1)
+Individual Sanction (1)
+Industrial policy (2)
+Information exchange (16)
+Innovation (11)
+Intellectual property (IP) (20)
+Interest (1)
+Interim measures (7)
+Interim relief (4)
+Internal Market (1)
+International Law Talk (4)
+Internet of Things (IoT) (1)
+Interoperability (2)
+Investigations (35)
+Iran (1)
+Iraq (1)
+Israel (4)
+Japan (2)
+Joint Bidding (3)
+Joint ventures (5)
+Jordan (1)
+Judicial review (7)
+Jurisdiction (12)
+Jurisdiction clauses (3)
+Jurisdictional clause (2)
+Keyword bidding (2)
+KFTC (1)
+Killer acquisitions (15)
+Kuwait (2)
+Labour market (16)
+Land agreements (1)
+Latin America (2)
+Lebanon (1)
+Legislation (14)
+Legitimate objective (1)
+Leniency (23)
+Liability (8)
+Limitation Period (2)
+Lithuania (1)
+Litigation (8)
+Lobbying (1)
+Locus standi (1)
+Malta (2)
+Margin squeeze (2)
+Market definition (27)
+Market investigations (3)
+Market study (5)
+Media (7)
+Memorandum of Understanding (1)
+MEO Principle (1)
+Merger control (142)
+Merger fees (2)
+Merger notification (22)
+Merger regulation (19)
+Merger Thresholds (26)
+Mergers (169)
+Mexico (1)
+Minority shareholding (6)
+Misleading information (2)
+Mobile applications (1)
+Moldova (1)
+Montenegro (5)
+Morocco (1)
+Most favoured customer clauses (3)
+National competition authorities (NCAs) (39)
+National court (21)
+Ne bis in idem (8)
+Nemo Tenetur (1)
+Network Sharing Agreements (1)
+New Competition Tool (8)
+New Zealand (1)
+No-poach-agreement (7)
+Non-compete clauses (1)
+North Macedonia (2)
+Norway (7)
+Nuclear Energy (1)
+Nudging algorithms (1)
+Objectives of Competition Law (2)
+OECD (6)
+Oman (2)
+Online advertising (7)
+Online advertising restrictions (4)
+Online food market (1)
+Online platforms (22)
+Online sales ban (1)
+OTA (2)
+Palestine (1)
+Paraguay (1)
+Parallel imports (2)
+Parental liability (7)
+Patent settlements (8)
+Peru (1)
+Pharmaceuticals (18)
+Platforms (18)
+Podcast (7)
+Policy (19)
+Portugal (11)
+Postal services (1)
+Potential competition (1)
+Predatory pricing (3)
+Presumption of Innocence (2)
+Presumptions (2)
+Price fixing (11)
+Price gouging (3)
+Pricing (15)
+Pricing algorithms (2)
+Principle of Effectiveness (3)
+Priority setting (1)
+Privacy (12)
+Private actions (14)
+Private enforcement (44)
+Private international law (1)
+Private investment (2)
+Procedures (14)
+Professional body (2)
+Property investment (2)
+Proportionality (8)
+Public procurement (9)
+Qatar (2)
+Railway (2)
+Rebates (4)
+Recovery of aid (1)
+Recovery plan (1)
+References for a preliminary ruling (10)
+Regulation (34)
+Regulatory sandbox (1)
+Relative Market Power (3)
+Remedies (10)
+Request for information (RFI) (6)
+res judicata (1)
+Resale price maintenance (13)
+Restriction by effect (6)
+Restriction by object (19)
+Romania (3)
+Rule of Law (3)
+Saudi Arabia (2)
+Sector inquiries (14)
+Selective distribution (2)
+Self-preferencing (12)
+Serbia (6)
+Settlement (8)
+SGEI (2)
+Simplification package (1)
+Simplified procedure (2)
+simplified settlement procedure (1)
+Slovakia (4)
+Slovenia (3)
+South Africa (2)
+Sport (14)
+Sports law (6)
+Stand-alone action (2)
+Standard essential patent (SEP) (3)
+Standard of Proof (5)
+Start-up (1)
+State aid (52)
+State owned enterprise (SOE) (5)
+Statement of Objections (2)
+Structural competition problems (2)
+Subsidies (10)
+Supply chain (2)
+Sustainability (28)
+Syria (1)
+Tax (9)
+Taxation (8)
+Technological Development (1)
+Telecommunications (9)
+Temporary Crisis Framework (1)
+Temporary Framework (2)
+Tender (5)
+Trade associations (3)
+Trade between Member States (1)
+Trade Law (4)
+Transaction Value Threshold (1)
+Turnover allocation (3)
+Turnover thresholds (6)
+Tying and Bundling (7)
+UAE (2)
+Uncategorized (6)
+Undertaking (1)
+Unfair competition (7)
+Unfair practices (6)
+Unfair prices (3)
+Unfair trading practices (4)
+Unilateral effects (2)
+United Nations (1)
+VBER (10)
+Vertical agreements (11)
+Vertical restraints (13)
+Vertically integrated platform (1)
+Vestager (3)
+Voluntary merger regimes (1)
+Wage fixing (3)
+Warehousing structures (1)
+Western Balkans (2)
+Whatsapp (6)
+Whistle blowing (2)
+White Paper (4)
+Witness (1)
+World Competition Law and Economics Review (28)
+Yemen (1)
+by Contributor...
+Abhishek Abhi
+Abir Roy
+Adam Brown
+Adam Steene
+Adnan Tokić
+Adrian Emch
+Adriana Brincat
+Adrien Giraud
+Adrika Bisen
+Afif Khan
+Agnieszka Blonska
+Ahkam Khan
+Akansha Mehta
+Akanshha Agrawal
+Akos Reger
+Alan Davis
+Alan Riley
+Alastair J. McCulloch
+Alba Ribera Martínez (Deputy Editor)
+Alberta Laschena
+Alejandra González-Concheiro
+Alejandro Guerrero
+Alejandro Yuste Herreruela
+Aleksander Stawicki
+Aleksandra Kinaneva
+Alessandro Cogoni
+Alessandro Massolo
+Alessandro Stanchieri
+Alex Petrasincu
+Alexander Botting
+Alexander Derelius
+Alexander Lee
+Alexander Nazarov
+Alexander Waksman
+Alexandr Svetlicinii
+Alexandra Luchian
+Alexandra Rogers
+Alexandre G. Verheyden
+Alexandre Rouhette
+Alexandros Politis
+Alfonso Rincón
+Ali Ilicak
+Ali Katoğlu
+Alina Lacatus
+Alla Azmukhanova
+Alper Karafil
+Alvaro López Usatorre
+Alyse McDermott
+Alysha Manji-Knight
+Amalia Athanasiadou
+Amy Chen
+Ana Francisca Pinto Dias
+Ana Wallis de Carvalho
+Anastasia Bodnar
+Anastasia Kayukova
+Anastasia Usova
+Anastasiia Panchak
+Anastasiya Grunova
+Andrea Alonso Ibarra
+Andrea Jádi Németh
+Andrea Lofaro
+Andrea Pomana
+Andrea Pomana
+Andreas Grünwald
+Andreas Riis Madsen
+Andrew Eklund
+Andrés Rubio Puente
+Andy Huang
+Angela Landry
+Angelene Duke
+Angus Coulter
+Aniket Ghosh
+Anirudh Singh
+Anish Gupta
+Anisha Chand
+Anita Banicevic
+Ankita Dhawan
+Anna Binotto
+Anna Bryńska
+Anna Jorna
+Anna Mitchel
+Anna Moskal
+Annabel Borg
+Anne Robert
+Anne Vallery
+Anne-Kathrin Lauer
+Anouck Meier
+Anselm Küsters
+Anshuman Sakle
+Anthony Maton
+Antigoni Matthaiou
+Anton Petrov
+Antonio Davola
+Antonio Fuentes Máiquez
+Anupriya Dhonchak
+Anushka Mittal
+Anzhelika Gerasymenko
+Apurv Umredkar
+Arda Diler
+Aren Goldsmith
+Arletta Górecka
+Armaan Gupta
+Armanc Canbeyli
+Arthur Braun
+Ashley Stoner
+Ashu Bhargav
+Assimakis Komninos
+Astrid Waser
+Athanassios Skourtis
+Athina Van Melkebeke
+Aurelien Portuese
+Aurora Gijbels
+Avaantika Kakkar
+Axel Schulz
+Ayberk Kurt
+Ayman Guirguis
+Ayushi Singhal
+Bahadir Balki
+Bahadır Aslan
+Baran Can Yıldırım
+Barbara Justen
+Barbora Slabá
+Barkha Dwivedi
+Barry Rodger
+Barış Yüksel
+Basu Chandola
+Beata Mäihäniemi
+Beatriz Martos Stevenson
+Beatriz Ribeiro Fernandes
+Becket McGrath
+Belinda Harvey
+Ben Van Rompuy
+Benoît Durand
+Benoît Merkt
+Berkay Ünlüsoy
+Bernardine Adkins
+Bertold Bär-Bouyssiere
+Bethany Wise
+Bilgesu Tunçer
+Bill Batchelor
+Björn Christian Becker
+Bora Ikiler
+Boris Andrejaš
+Borja Chastang
+Borja Rivas Lozano
+Boyko Gerginov
+Bram Van der Beken
+Brandon Gantus
+Brendan Kettermann
+Brian Tae-Hyun Chung
+Bruce McCulloch
+Bulut Girgin
+Burak Buğrahan Sezer
+Calum M. Warren
+Camille Keres
+Can Sarıçiçek
+Can Yildiz
+Candy Au
+Caner K. Çeşit
+Carla Marcelino
+Carlo Favaretto
+Carlo Favaretto
+Carmen Puscas
+Carmen Rubio Bañeres
+Carsten Krüger
+Casto González-Páramo Rodríguez
+Catherine Derrig
+Cees Dekker
+Celal Duruhan Aydınlı
+Chantal Lavoie
+Charles Ho Wang Mak
+Charles Tingley
+Charlotte Breuvart
+Chiara Conte
+Chris Boyd
+Chris Macbeth
+Christian Bergqvist
+Christian Fulda
+Christian Grobecker
+Christian Ritz
+Christoph Nüßing
+Christopher Hutton
+Christopher Rother
+Christopher Thomas
+Cihan Doğan
+Claire Paoli
+Clara Ingen-Housz
+Claudia Walz
+Connor McNamara
+Corinne Rüchardt
+Cormac O’Daly
+Cornelius Börner
+Cristina Caroppo
+Cristina Mihai
+Cécile Carlier
+D. Daniel Sokol
+Dajena Pechersky
+Damien Gerard
+Daniel Barrio
+Daniel Mândrescu
+Daniel North
+Daniel Schwarz
+Daniel von Brevern
+Daniel Wojtczak
+Daniela Weerasinghe
+Daniil Lozovsky
+Daniëlle van de Vijver
+Danny Leung
+Darach Connolly
+Dario da Silva Oliveira Neto
+Dariusz Aziewicz
+Darío Martínez Jove
+David Cardwell
+David Howarth
+David Little
+David Mamane
+David Pérez de Lamo
+David Riley
+David van Wamel
+David Went
+David Wood
+David Wouters
+Debanjan Mandal
+Dennis Rickert
+Dennis-Kenji Kipker
+Denys Medvediev
+Dhiraj Yadav
+Dimitrios Kyriazis
+Dimitris Vallindas
+Dina Jubrail
+Dipak Varma
+Divyansh Prasad
+Dmytro Galchynskyi
+Dominika Wojewska
+Dominique Costesec
+Doğa Küçükay
+Dragan Gajin
+Dušan Valent
+Dwayne Bach
+Dylan Geraets
+Dzhuliia Lypalo
+Ece Ulusoy
+Edem Mensitov
+Edmund James Melzer
+Eduardo Molan Gaban
+Edwin Vermulst
+Eivind J. Vesterkjær
+Ekram Belhadj
+Eleni Neoptolemou
+Eleonora Mateina
+Eline Grondman
+Elisabeth Eklund
+Elisabetta Righini
+Elizabeth Malik
+Ella van den Brink
+Elske Raedts
+Emanuela Matei
+Emilia Bonine
+Enrique Bravo-Garcia
+Enzo Marasà
+Erdem Aktekin
+Eric Barbier de la Serre
+Eric J. Stock
+Eric P. Enson
+Eric Paroche
+Ertuğrul Can Canbolat
+Eslam Soliman
+Esma Aktaş
+Ethel Fonseca
+Etienne Perrin
+Eva Fischer
+Evren Sesli
+Ewa Tabor
+Fabian Badtke
+Fabian Ziermann
+Fabrizio Di Benedetto
+Falk Schöning
+Fanny Abouzeid
+Farin Harrison
+Federico Marini-Balestra
+Federico Rossi
+Felix Frommelt
+Felix Prümmer
+Fevzi Toksoy
+Feyo Sickinghe
+Filip Wejman
+Fiona Carlin
+Florian Heimann
+Florian Jonniaux
+Florian Neumayr
+Florian von Schreitter
+Floriane Pisivin
+Flupke van den Bogart
+Francesca Richmond
+Francesco Maria Salerno
+Francisco Marcos
+Frank Bremer
+Frederic Depoortere
+Frédéric Louis
+Frédéric Marty
+Fırat Eğrilmez
+Gabriel Nogueira Dias
+Gabriela Baca
+Gabriela Pepeleascov Gomes
+Gabriela Wilxenski
+Galina Petkova
+Gauri Gupta
+Gavin Bushell
+Gayatri Raghunandan
+Geneviève Borremans
+Geoffroy van de Walle
+George L. Paul
+Georgia Tzifa
+Gerd Jaekel
+Gerhard Fussenegger
+Germán Ricardo Macías
+Gianluca Vassallo
+Gianluca Vassallo
+Gianni De Stefano
+Giorgio Monti
+Giorgio Motta
+Giovanna Massarotto
+Giovanni De Gregorio
+Giulia Rurali
+Giulio Preti
+Giuseppe Colangelo
+Gonçalo Rosas
+Gordon Mensah
+Grant Murray
+Grant Murray
+Gregory Bonné
+Gönül Nur Mingsar
+Gülbin Serin
+Günter Bauer
+Hanna Stakheyeva
+Hans-Markus Wagener
+Harshit Goyal
+Heidi Jorkjend
+Heidi Waem
+Helen Kelly
+Helene Andersson
+Helin Yüksel
+Henri Capin-Gally
+Henry de la Barre
+Henry Gafsen
+Henry Wheare
+Hera Butt
+Hilal Atasoy
+Holger Jakob
+Hrishav Kumar
+Hélène Blaison
+Iakovos Sarmas
+Ian Giles
+Iestyn Williams
+Ieva Moroza
+Ignacio García-Perrote Martínez
+Ingunn Egeland Martinsen
+Institute of European and International Business Law
+Inês F. Neves
+Irene de Angelis
+Irene Picciano
+Irina Trichkovska
+Isabel Rooms
+Isaque Leite
+Ismail Lamie
+Ivan Pico
+Ivan Yaremchuk
+Ivo Tatič
+J. Bruce McDonald
+J. Mark Gidley
+Jaclyn Phillips
+Jacob Borum
+Jacquelyn MacLennan
+Jacques Moscianese
+Jaime Rodríguez-Toquero Aymerich
+Jakob Dewispelaere
+Jakob Šešok
+James Anderson
+James Gray
+James Hain-Cole
+James Hunter
+James Killick
+Jan Blockx
+Jan Broulík
+Jan Jeram
+Jan Kresken
+Jan Kupčík
+Jan Peter van der Veer
+Jan Rybnicek
+Janneke Kohlen
+Jannick Koller
+Jasvinder Nakhwal
+Javier Guillén Caramés
+Javier Ruiz-Calzado
+Jay Modrall
+Jean-Luc Champy
+Jean-Maxime Blutel
+Jean-Nicolas Maillard
+Jeanne Mouton
+Jeffrey May
+Jeffry Senduk
+Jenna Yim
+Jens Hackl
+Jens Munk Plum
+Jessica Hua Su
+Jessica Mandla
+Jessica Walch
+Jia Liu
+Jim Dinning
+Jindrich Kloub
+Jiří Kindl
+Jo Kane
+Joan de Sola-Morales
+Joana Fraga Nunes
+Joanne Finn
+Joao Lacerda
+Joe Cho
+Joe Day
+Joel Gory
+Johana Cau
+Johannes Persch
+John Gaffney
+John Kwan
+John M. Majoras
+John Ratliff
+Jomana Nayed
+Jon Dodds
+Jon Turner QC
+Jonathan Parker
+Jones Day's European Antitrust & Competition Team
+Joost van Roosmalen
+Jordan Riley
+Jorge Padilla
+Joris Gruyters
+Jose Rivas
+Josep Galvez
+Josh White
+Joshua Hollenberg
+Joshua N. Holian
+José Sá Reis
+João Felipe Aranha Lacerda
+Juan David Gutiérrez
+Judith Feldner
+Julia Helminger
+Julia Kampouridi
+Julia Kleen
+Julia M. Böhme
+Julia Molestina
+Julia Suderow
+Julian Maitland-Walker
+Julie McEvoy
+Julien Haverals
+Julián Peña
+Justin Lindeboom
+Justine Haekens
+Jérémie Jourdan
+Jérémie Marthan
+Jérôme Monsenego
+Jörg Hladjk
+Kaan Gürer
+Karan Trehan
+Karoline Narvestad Maurtvedt
+Kasia Czapracka
+Katarzyna Czapracka
+Kate Kelliher
+Kate McKenna
+Kathryn Jordan Mims
+Kati Cseres
+Keith Jones
+Kentaro Hirayama
+Ketevan Zukakishvili
+Kevin Coates
+Kevin Kelly
+Kim-Simone Janutta
+Kirthi Srinivas
+Klaudia Majcher
+Klaus Kowalski
+Knut Fournier
+Koen Darding
+Koen Platteau
+Konrad Biskup
+Konrad Zawodzinski
+Konstantin Köck
+Konstantin Takopulo
+Konstantin Voropaev
+Kremena Yaneva-Ivanova
+Krista Koskivirta
+Krithika Ramesh
+Kritika Singh
+Ksenia Tarkhova
+Kushagra Srivastava
+Kyle Le Croy
+L.B. McCaskey
+Lana Sinichkina
+Lars Kjølbye
+Laura Herzog
+Laura Treacy
+Laura Tresoldi
+Laura Zoboli
+Laurent De Muyter
+Lee Greenfield
+Lena Hornkohl (Deputy Editor)
+Lenka Štiková Gachová
+Leonardo Peixoto Barbosa
+Lerisha Naidu
+Lesley Hannah
+Liana Japaridze
+Lisa Weinert
+Lodewick Prompers
+Logan Breed
+Lorenz Jarass
+Louise Freeman
+Luc Peeperkorn
+M. Mustafa Polat
+Macarena Viertel
+Maciej Bernatt
+Maciej Gac
+Maciej Janik
+Magali Eben
+Mahima Cholera
+Malgorzata Cyndecka
+Manu Mohan
+Manuel Abarca
+Manuela Cox
+Marc Abenhaïm
+Marc Barennes
+Marc Custers
+Marc Israel
+Marc Linsner
+Marc Wiggers
+Marcel Meinhardt
+Marcin Alberski
+Marcin Kolasiński
+Marcin Mleczko
+Marco Botta
+Marco Cappai
+Marco D'Ostuni
+Marco Hickey
+Marco Slotboom
+Marcos Araujo Boyd
+Marcus Glader
+Marcus Pollard
+Maren Tamke
+Maria Afxentiou
+Mariana Buerger
+Marianna Meriani
+Marianne Henne Møller
+Marieke Van Nieuwenborgh
+Marika Harjula
+Marina Iskander
+Marinus Prakke
+Mario Zúñiga
+Mariska van de Sanden
+Mariya Serafimova
+Mark Gall
+Mark Jephcott
+Mark Jones
+Mark Katz
+Mark Powell
+Mark Wagh
+Marko Mirceta
+Marta Delgado Echevarría
+Marta Sznajder
+Marta Teixeira Pires
+Martin Gassler
+Martin Gramsch
+Martin Holásek
+Martin Seegers
+Martin Vejtasa
+María López Ridruejo
+María Turner
+Massimo Merola
+Matej Šimalčík
+Mateusz Kupiec
+Mathieu Vancaillie
+Mathilde Ayel
+Matt Evans
+Matteo Stainer
+Matthew Hunt
+Matthew Levitt
+Matthew O'Regan
+Mattijs Baneke
+Max Findlay
+Max von Thun
+Mehmet Mikail Demir
+Mehmet Salan
+Mei Gong
+Michael A. Gleason
+Michael Engel
+Michael Mayr
+Michael O'Kane
+Michael Ristaniemi
+Michel Debroux
+Miguel Mendes Pereira
+Mika Oinonen
+Miles Chung
+Mithat Can Kaçar
+Mohit Agarwal
+Monika Juriková
+Monika Woźniak-Cichuta
+Monika Zdzieborska
+Ms Priyanshi
+Muhammed Demircan
+Muhammed Safa Uygur
+Mustafa Ayna
+Mykhailo Lazoryshynets
+Nabi Can Acar
+Nada Ina Pauer
+Nam Nguyen
+Nataliia Mazaraki
+Nataliya Kovalyova
+Nathalie Jalabert-Doury
+Nathalie Nielson
+Nathan Martin
+Nathan Wilkins
+Nathaniel Carden
+Naz Çerçioğlu
+Neelambera Sandeepan
+Neetu Ahlawat
+Niccolò Galli
+Niccolò Piga
+Nicholas Greenacre
+Nicholas Querée
+Nick Taylor
+Nicola Boyle
+Nicolas Birkhäuser
+Nicolas Bremer
+Nicolas Cariat
+Nicolas Fafchamps
+Nicole Foster
+Nidhi Singh
+Niels Baeten
+Niki Vischer
+Nikolai Gouginski
+Nils Imgarten (Deputy Editor)
+Nina Frie
+Nina van Stekelenburg
+Nishant Pande
+Niti Richhariya
+Nora Lampecco
+Oleksander Dyakulych
+Oleksandr Aleksyeyenko
+Oleksandr Voznyuk
+Oliver Fleischmann
+Oliver Pollakowsky
+Or Brook
+Orcun Horozoğlu
+Oscar Borgogno
+Pablo Figueroa
+Pablo Torres Méndez
+Pablo Velasco Sanzo
+Paridhi Poddar
+Paschalis Paschalidis
+Pat Treacy
+Patrick Harrison
+Patrick Smith
+Patrik Albrecht
+Patryk Wcislo
+Paul Hughes
+Paul K. Gorecki
+Paul Stuart
+Paula Riedel
+Paulina Komorowska-Mrozik
+Pauline Kuipers
+Paulo Burnier da Silveira
+Payel Chatterjee
+Perceval Renié
+Petar Petrov
+Peter Alexiadis
+Peter Citron (Editor)
+Peter D. Camesasca
+Peter Dalmay
+Peter Gey
+Peter Malone
+Peter Willis
+Philip Andrews
+Philipp Gnatzy
+Philipp Loser
+Philipp Schliffke
+Philipp Werner
+Philipp Westerhoff
+Pierfrancesco Mattiolo
+Pierre Bichet
+Piet-Hein Eijssen
+Pieter Huizing
+Pieter Steyn
+Pieterjan Heynen
+Piotr Skurzyński
+PJ Kaur
+Plamen Yotov
+Pola Karolczyk
+Polina Westerhoven
+Prakhar Bhatnagar
+Priyadarshee Mukhopadhyay
+Priyanka Jain
+Prudence Smith
+Przemysław Ostojski
+Pushkar Singh
+Qing Lyu
+Rachel Cuff
+Radina Tomanova
+Raghu Gagneja
+Rajarshi Singh
+Raluca Maxim
+Ramiz Arslan
+Rana Antar
+Renata Leka
+Reshmi Rampersad
+Reuben Philip Abraham
+Riccardo Tremolada
+Richard Hourihan
+Richard Jenkinson
+Rita Ferreira Gomes
+Rita Pimentel Torres
+Ritwik Bhattacharya
+Ritwik Bhattacharya
+Rob van der Laan
+Robert Gago
+Robert N. Brewer
+Robert Wagner
+Robin Struijlaart
+Robin Vandendriessche
+Rocío Acebal
+Rohan Malhotra
+Roman Vedernikov
+Roman Zagrosek
+Ronan Scanlan
+Ros Kellaway
+Rosanna Connolly
+Ruben Elkerbout
+Ruben Gil Puente
+Rucha Phadtare
+Ruchi Verma
+Ruchit Patel
+Ruslana Karimova
+Rüdiger Harms
+Sahin Ardiyok
+Sahithya Muralidharan
+Saksham Malik
+Sally Evans
+Sam Fulliton
+Sam MacMahon Baldwin
+Samantha Mobley
+Samuel Beighton
+Sandro Travaglini
+Sangyun Lee
+Santiago Andrés Azcoitia
+Sara Johns
+Sarah Bouchon
+Sarah Hoskins
+Sarah Wilks
+Sari Corrijn
+Sarthak Mishra
+Saskia King
+Saumya Sinha
+Sean-Paul Brankin
+Sebastian Gerber
+Sebastian Reiter
+Sebastián Ferreyra Romea
+Seda Eliri
+Selim Turan
+Selçukhan Ünekbas
+Seniha Irem Akin
+Sera Erzene Yildiz
+Serge Clerckx
+Sergiy Glushchenko
+Sezin Elçin Cengiz
+Seán O’Dea
+Shan Hu
+Shane Cranley
+Shane Fahy
+Shaurya Aron
+Shilpa Singh J.
+Silke Heinz
+Silvia Retamales
+Simen Klevstrand
+Simon Boersen
+Simon Holmes
+Simon Pritchard
+Simon Snow
+Simru Tayfun
+Sinead McGarrigle
+Sinem Süslü
+Siobhan L.M. Kahmann
+Siri Teigum
+Siyou Zhou
+Slavica Joković
+Soham Banerjee
+Sonam Mathur
+Sonny Gaarslev
+Sophie Bara
+Sophie Lawrance
+Sophie Moser
+Sophio Momtselidze
+Sphesihle Nxumalo
+Stavros Makris
+Stefan Ciubotaru
+Stefan Tuinenga
+Stefanie Benson
+Stefano Grassani
+Stefano Lucchini
+Stein Ove Solberg
+Stephan Sigrist
+Stephen Dnes
+Stephen Kinsella
+Stephen Lewis
+Stephen Weatherill
+Steve Spinks
+Steve Szentesi
+Stijn Huijts
+Strati Sakellariou-Witt
+Su Şimşek
+Suyash Bhamore
+Suzan Hacisalihzade
+Svein Terje Tveit
+Sviatoslav Henyk
+Swati Sharma
+T. Alexander Puutio
+Tabea Bauermeister
+Tadeusz Gielas
+Tamer Nagy
+Tamta Margvelashvili
+Tanaya Sethi
+Tarek Badawy
+Teodora Groza
+Teraleigh Stevenson
+Teresa Artaza
+Tess Kane
+Theodoros Birmpoutsoukis
+Theresa Oehm
+Thilo Wienke
+Thomas D. York
+Thomas Graf
+Thomas Höppner
+Thomas Shaw
+Thomas Thiede
+Thomas Verstraeten
+Thomas Wilson
+Thosten Käseberg
+Tialda Beetstra
+Till Mueller-Ibold
+Till Schreiber
+Till Steinvorth
+Tilman Kuhn
+Tim Lichtenberg
+Timur Bondaryev
+Tobias Pesch
+Todd Davies
+Tom Jenkins
+Tommi Lahtinen
+Toni Pitesa
+Tony López
+Totis Kotsonis
+Trine Siri Dahl
+Ueli Weber
+Ulrich Soltész
+Umang Khandelwal
+Undine von Diemar
+Unnati Ashish Ghia
+Urja Dhapre
+Valentin Mircea
+Valentine Lemonnier
+Vanessa Johnson
+Vassily Rudomino
+Verity Egerton-Doyle
+Veronika Kalyta
+Victoria Canu
+Victoria Daskalova
+Victoria Paredes Balén
+Vinay Shukla
+Vincent Power
+Vinícius Klein
+Virginia Del Pozo
+Virginia Ondelli
+Vishal Rajvansh
+Vitaly Pruzhansky
+Vladislav Alifirov
+W. Michael G. Osborne
+Werner Berg
+Will Holmes
+Willard Mwemba
+Xavier Quer Zamora
+Xie Fali
+Yiğit Eryılmaz
+Youngjin Jung
+Yvan Desmedt
+Yves Botteman
+Yvonne Handler
+Yüksel Talip Özbek
+Zeno Vanhoyland
+Zoya Todorova
+Édouard Bruc
+Öykü Erdil
+Özlem Başıböyük Coşkun
+İrem Akin
+Šimon Kopárek
+by Date...
+January 2025 (1)
+December 2024 (19)
+November 2024 (14)
+October 2024 (11)
+September 2024 (10)
+August 2024 (10)
+July 2024 (13)
+June 2024 (10)
+May 2024 (21)
+April 2024 (17)
+March 2024 (25)
+February 2024 (21)
+January 2024 (18)
+December 2023 (8)
+November 2023 (20)
+October 2023 (11)
+September 2023 (12)
+August 2023 (11)
+July 2023 (17)
+June 2023 (15)
+May 2023 (15)
+April 2023 (16)
+March 2023 (25)
+February 2023 (23)
+January 2023 (28)
+December 2022 (15)
+November 2022 (11)
+October 2022 (12)
+September 2022 (14)
+August 2022 (11)
+July 2022 (9)
+June 2022 (7)
+May 2022 (12)
+April 2022 (10)
+March 2022 (12)
+February 2022 (17)
+January 2022 (16)
+December 2021 (10)
+November 2021 (11)
+October 2021 (5)
+September 2021 (8)
+August 2021 (8)
+July 2021 (11)
+June 2021 (13)
+May 2021 (6)
+April 2021 (19)
+March 2021 (19)
+February 2021 (10)
+January 2021 (19)
+December 2020 (20)
+November 2020 (17)
+October 2020 (17)
+September 2020 (6)
+August 2020 (3)
+July 2020 (7)
+June 2020 (5)
+May 2020 (10)
+April 2020 (11)
+March 2020 (7)
+February 2020 (5)
+January 2020 (10)
+December 2019 (8)
+November 2019 (6)
+October 2019 (8)
+September 2019 (8)
+August 2019 (7)
+July 2019 (17)
+June 2019 (14)
+May 2019 (6)
+April 2019 (13)
+March 2019 (12)
+February 2019 (9)
+January 2019 (9)
+December 2018 (9)
+November 2018 (7)
+October 2018 (10)
+September 2018 (7)
+August 2018 (12)
+July 2018 (11)
+June 2018 (13)
+May 2018 (8)
+April 2018 (8)
+March 2018 (10)
+February 2018 (10)
+January 2018 (10)
+December 2017 (5)
+November 2017 (9)
+October 2017 (6)
+September 2017 (5)
+August 2017 (4)
+July 2017 (4)
+June 2017 (7)
+May 2017 (6)
+April 2017 (10)
+March 2017 (7)
+February 2017 (8)
+January 2017 (7)
+December 2016 (9)
+November 2016 (9)
+October 2016 (11)
+September 2016 (9)
+August 2016 (6)
+July 2016 (12)
+June 2016 (8)
+May 2016 (13)
+April 2016 (7)
+March 2016 (10)
+February 2016 (7)
+January 2016 (10)
+December 2015 (10)
+November 2015 (2)
+October 2015 (13)
+September 2015 (8)
+August 2015 (2)
+July 2015 (2)
+June 2015 (5)
+April 2015 (5)
+March 2015 (5)
+February 2015 (5)
+January 2015 (3)
+December 2014 (5)
+November 2014 (7)
+October 2014 (3)
+September 2014 (3)
+July 2014 (5)
+June 2014 (4)
+May 2014 (5)
+April 2014 (3)
+March 2014 (1)
+February 2014 (5)
+January 2014 (4)
+December 2013 (6)
+November 2013 (3)
+October 2013 (3)
+September 2013 (3)
+August 2013 (4)
+July 2013 (4)
+June 2013 (5)
+May 2013 (3)
+April 2013 (4)
+March 2013 (7)
+February 2013 (5)
+January 2013 (6)
+December 2012 (8)
+November 2012 (5)
+October 2012 (5)
+September 2012 (2)
+August 2012 (7)
+July 2012 (12)
+June 2012 (10)
+May 2012 (8)
+April 2012 (7)
+March 2012 (5)
+February 2012 (10)
+January 2012 (2)
+December 2011 (1)
+November 2011 (6)
+October 2011 (1)
+September 2011 (5)
+August 2011 (1)
+July 2011 (1)
+June 2011 (4)
+May 2011 (2)
+April 2011 (2)
+March 2011 (4)
+February 2011 (6)
+January 2011 (3)
+December 2010 (3)
+November 2010 (6)
+October 2010 (3)
+September 2010 (5)
+August 2010 (5)
+July 2010 (14)
+RELATED SITES
+Kluwer Competition Law
+AntitrustConnect
+Regulating for Globalization Blog
+Author Portal
+RSS FEEDS
+Summary Feed
+Article Feed
+ABOUT US
+About Kluwer Competition Law Blog
+Kluwer Competition Law
+Kluwer Law International
+E-store
+Authors
+LEGAL POLICY
+User Agreement and Disclaimer
+Editorial Policy & Guidelines
+Privacy Policy and Use of Cookies
+CONTACT
+General Information
+BACK TO TOP
+ 
+ 
+ ----- 
+ Source link : https://competitionlawblog.kluwercompetitionlaw.com/2024/01/15/eu-court-of-justice-delineates-the-scope-of-the-wouters-exception/ 
+ ----- 

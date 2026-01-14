@@ -1,0 +1,990 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+The Armory
+Gunsmithing CLE Krieger Barrel
+ 
+Thread starter
+USNIGHTGUNNER  
+Start date
+Feb 5, 2024
+1
+	
+2
+Next
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 5, 2024
+#1
+What's wrong in these pictures? Point of view is at the chamfer of the neck. More information to follow...
+ 
+Attachments
+Screenshot 2024-02-05 at 8.33.27 PM.png
+1.5 MB · Views: 349
+Screenshot 2024-02-05 at 8.33.53 PM.png
+1.6 MB · Views: 368
+Screenshot 2024-02-05 at 8.34.15 PM.png
+1.5 MB · Views: 370
+Screenshot 2024-02-05 at 8.34.32 PM.png
+1.6 MB · Views: 359
+ 
+Reactions:
+DeathBeforeDismount
+JMGlasgow
+Old Salt
+Full Member
+Minuteman
+Apr 13, 2012
+4,051
+5,811
+Cheyenne, WY
+Feb 5, 2024
+#2
+Does it shoot good or are you just assuming the barrel is faulty?
+ 
+Krob95
+Black Multicam Master Race
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Sep 7, 2019
+4,643
+7,156
+NoCo
+Feb 5, 2024
+#3
+How’s it shoot?
+
+Edit: @JMGlasgow dammit you beat me by seconds lol
+ 
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 5, 2024
+#4
+Krob95 said:
+How’s it shoot?
+
+Edit: @JMGlasgow dammit you beat me by seconds lol
+What do you see that could be a problem if this barrel were to be shot, and if it was even possible to be shot?
+ 
+ 
+Reactions:
+Tokay444
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 5, 2024
+#5
+I'll lay down a hint. In a rifle chamber after the neck, what is to follow?
+ 
+Krob95
+Black Multicam Master Race
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Sep 7, 2019
+4,643
+7,156
+NoCo
+Feb 5, 2024
+#6
+Yeah on further inspection…. Where’s the freebore?
+ 
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 5, 2024
+#7
+Bingo!!!! There is none... It's a 16" Krieger barrel chambered in .223 Wylde by CLE. It failed my .223 Wylde chamber function gauge, it failed .223 headspace, and it failed 5.56 NATO headspace.
+ 
+ 
+Reactions:
+TheBigCountry and Nik H
+Krob95
+Black Multicam Master Race
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Sep 7, 2019
+4,643
+7,156
+NoCo
+Feb 5, 2024
+#8
+Oh my, yeah I’d give them a polite jingle tomorrow and let them know it failed headspace, and has no freebore. I’ve never seen anything bad about CLE but curious to hear how they handle this.
+
+Must’ve been a Friday at 3:45 barrel job 
+ 
+ 
+Reactions:
+TheBigCountry and USNIGHTGUNNER
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Feb 6, 2024
+#9
+When did you order it and when was it delivered? With CLE shutting down at least some of their operations and certain key people moving on, I hope it's not a sign for those who were promised delivery at the end of what ever is happening there.
+ 
+ 
+Reactions:
+Cfshooter and roostercogburn98
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 6, 2024
+#10
+msgriff said:
+When did you order it and when was it delivered? With CLE shutting down at least some of their operations and certain key people moving on, I hope it's not a sign for those who were promised delivery at the end of what ever is happening there.
+It was ordered at the beginning of January, and it was delivered on 02/03/23. And what information do you have on what's going on at CLE? Thanks.
+ 
+Zap_Rowsdower
+This is no time for zymurgy!
+Supporter
+Full Member
+Minuteman
+Mar 22, 2018
+319
+4,714
+North Alabama
+Feb 6, 2024
+#11
+Compass Lake Engineering closing doors to the public
+https://www.facebook.com/compasslakeengineering/ If you have a barrel in the queue it will be finished.
+ www.snipershide.com
+ 
+G
+Greasegun
+Private
+Minuteman
+Nov 28, 2019
+23
+20
+Feb 6, 2024
+#12
+I have a similar problem with the CLE Krieger I just recieved. There is freebore on one side and land all the way the start of the throat on the opposite side. I politely emailed about it, and Conrad said there is nothing wrong with that, its only a few tenths off.
+
+I did the math, in order for that 1.25 deg lead to be off center as shown in the pic, the throat area would have to be a minimum of .0014" off center, or .0028 TIR. By the looks of it I would say its worse if anything.
+
+Obviously this isnt the quality I expected paying $620 for a CLE Krieger. Hope you have better luck than I have so far getting Conrad to stand behind it.
+ 
+Attachments
+Screenshot_20240126_195615_Gallery.jpg
+132.2 KB · Views: 54
+ 
+Reactions:
+Baron23, Milf Dots, Earnhardt and 2 others
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 6, 2024
+#13
+Greasegun said:
+View attachment 8342552View attachment 8342554I have a similar problem with the CLE Krieger I just recieved. There is freebore on one side and land all the way the start of the throat on the opposite side. I politely emailed about it, and Conrad said there is nothing wrong with that, its only a few tenths off.
+
+I did the math, in order for that 1.25 deg lead to be off center as shown in the pic, the throat area would have to be a minimum of .0014" off center, or .0028 TIR. By the looks of it I would say its worse if anything.
+
+Obviously this isnt the quality I expected paying $620 for a CLE Krieger. Hope you have better luck than I have so far getting Conrad to stand behind it.
+Click to expand...
+Mine won't even headspace....
+ 
+ 
+Reactions:
+Milf Dots and Greasegun
+InnaWoods86
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Jun 10, 2020
+477
+138
+Alabama
+Feb 6, 2024
+#14
+You guys can send these CLE Krieger's to me for proper disposal
+ 
+ 
+Reactions:
+Cfshooter and USNIGHTGUNNER
+G
+Greasegun
+Private
+Minuteman
+Nov 28, 2019
+23
+20
+Feb 6, 2024
+#15
+InnaWoods86 said:
+You guys can send these CLE Krieger's to me for proper disposal
+pm me
+ 
+F
+FUNCTIONAL
+Dirty Civilian
+Full Member
+Minuteman
+Feb 19, 2012
+2,178
+2,381
+Eastern, NC
+Feb 6, 2024
+#16
+Yea that's a bit Fed. At first I thought maybe just run a throater in there to get the FB you want but if it's not passing a headspace guage then it needs a whole reamer.
+
+As for the title im not sure it's fair to label it kreiger. They have nothing to do with this, just CLE.
+ 
+ 
+Reactions:
+Aftermath and Jack's Dad
+A
+AccuSol-ERN
+Sergeant
+Full Member
+Minuteman
+Jan 20, 2005
+775
+734
+44
+Baker, FL
+accuratesolutionsllc.com
+Feb 6, 2024
+#17
+Obviously there are issues with that barrel. For what its worth it is an absolute pain to do 223 with any of the standard spec reamers......all of them have very little freebore diameters. I am talking .0002" (.0001 per side) to .0000".......yes thats right .0000"
+
+For general use, I use a jgs 223 wylde spec and it only has .0002" total clearance. It is not uncommon to get a touch of freebore runout from reamer flex or barrel alignment.
+
+Ern
+ 
+ 
+Reactions:
+jetmd, powdahound76, Baron23 and 2 others
+DeathBeforeDismount
+Hey, give your balls a tug.
+Supporter
+Full Member
+Minuteman
+Nov 20, 2021
+5,606
+7,769
+IN YOUR HEAD
+Feb 6, 2024
+#18
+Greasegun said:
+View attachment 8342552View attachment 8342554I have a similar problem with the CLE Krieger I just recieved. There is freebore on one side and land all the way the start of the throat on the opposite side. I politely emailed about it, and Conrad said there is nothing wrong with that, its only a few tenths off.
+
+I did the math, in order for that 1.25 deg lead to be off center as shown in the pic, the throat area would have to be a minimum of .0014" off center, or .0028 TIR. By the looks of it I would say its worse if anything.
+
+Obviously this isnt the quality I expected paying $620 for a CLE Krieger. Hope you have better luck than I have so far getting Conrad to stand behind it.
+Click to expand...
+reverse credit card order. no reason to waste time dealing when they clearly dont give a fuck
+ 
+ 
+Reactions:
+Nik H and Greasegun
+H
+HerCoStarNTheBeaverPictur
+Sergeant of the Hide
+Full Member
+Minuteman
+Jul 9, 2022
+175
+163
+Texas
+Feb 6, 2024
+#19
+This is disappointing.
+
+Signed,
+Guy waiting on a Krieger from CLE
+ 
+ 
+Reactions:
+Milf Dots and Holliday
+G
+Greasegun
+Private
+Minuteman
+Nov 28, 2019
+23
+20
+Feb 6, 2024
+#20
+HerCoStarNTheBeaverPictur said:
+This is disappointing.
+
+Signed,
+Guy waiting on a Krieger from CLE
+I would cancel it if you can. I thought about it when I heard they were going out, wish I woulda.
+ 
+ 
+Reactions:
+Milf Dots, Stavey, DeathBeforeDismount and 1 other person
+wvfarrier
+Ignorant wretch
+Full Member
+Minuteman
+Dec 7, 2012
+2,929
+5,559
+West (By GOD) Virginia
+Feb 6, 2024
+#21
+I would be disputing that charge. thats horse crap
+ 
+ 
+Reactions:
+Milf Dots and Holliday
+G
+Greasegun
+Private
+Minuteman
+Nov 28, 2019
+23
+20
+Feb 6, 2024
+#22
+USNIGHTGUNNER said:
+Mine won't even headspace....
+They cant really argue with that. You going to try to get a refund or have them fix it?
+ 
+Baron23
+Check 6
+Supporter
+Full Member
+Minuteman
+Supporter
+ 
+ 
+Mar 19, 2020
+7,589
+9,890
+72
+Maryland
+Feb 6, 2024
+#23
+To me it actually looks like there is not only no free bore but part of the leade is cut out also.
+ 
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 6, 2024
+#24
+I just tried calling CLE, and their phone is rolling directly to voice mail.
+ 
+ 
+Reactions:
+Greasegun and FUNCTIONAL
+FisherT&C
+Competition Rifle Barrelwork CAGE:9SLZ8
+Full Member
+Minuteman
+Commercial Supporter
+Jan 1, 2020
+734
+806
+Montana
+http
+Feb 6, 2024
+#25
+It's possible only a rougher was used.
+ 
+ 
+Reactions:
+Earnhardt
+InnaWoods86
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Jun 10, 2020
+477
+138
+Alabama
+Feb 6, 2024
+#26
+FisherT&C said:
+It's possible only a rougher was used.
+Do you think a few turns with a throater reamer would clean this up and get it to shoot to it's potential?
+ 
+InnaWoods86
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Jun 10, 2020
+477
+138
+Alabama
+Feb 6, 2024
+#27
+InnaWoods86 said:
+Do you think a few turns with a throater reamer would clean this up and get it to shoot to it's potential?
+Specifically the one Greaseguns has
+I'm not sure how to fix headspace on OPs barrel
+ 
+FisherT&C
+Competition Rifle Barrelwork CAGE:9SLZ8
+Full Member
+Minuteman
+Commercial Supporter
+Jan 1, 2020
+734
+806
+Montana
+http
+Feb 6, 2024
+#28
+InnaWoods86 said:
+Do you think a few turns with a throater reamer would clean this up and get it to shoot to it's potential?
+If only a rougher was used the chamber is undersized. It's possible if a finish reamer was used. Something is going on though; that's not a Wylde freebore for sure.
+ 
+ 
+Reactions:
+wind gypsy and Milf Dots
+G
+Greasegun
+Private
+Minuteman
+Nov 28, 2019
+23
+20
+Feb 6, 2024
+#29
+USNIGHTGUNNER said:
+I just tried calling CLE, and their phone is rolling directly to voice mail.
+I had to email, they wont answer phone and wont return a call
+ 
+A
+AccuSol-ERN
+Sergeant
+Full Member
+Minuteman
+Jan 20, 2005
+775
+734
+44
+Baker, FL
+accuratesolutionsllc.com
+Feb 6, 2024
+#30
+You might be able to clean this chamber up with a finish reamer and bump to correct headspace. If the reamer is super sharp and your bushing fits perfect it might clean up that freebore or any other off-center cutting......but in my experience the new cutter will try and follow the old hole first. It's worth a shot......you are not out anything.
+
+Ern
+ 
+ 
+Reactions:
+USNIGHTGUNNER
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 6, 2024
+#31
+My email sent and no reply as of yet:
+
+"It's apparent that you guys aren't replying to emails or answering your phone calls now. When I call it rolls directly into voicemail, and your mailbox is full.
+
+There are major issues with the barrel that you guys sent, and it's unshootable. This is a 16.1" Krieger barrel chambered in .223 Wylde. There is no freebore, it failed my PTG .223 Wylde chamber function gauge, it failed .223 headspace, it failed 5.56 NATO headspace, it failed live round chambering.
+
+This is unacceptable, and I'm hoping that this can be remedied in an amicable manner. Please contact me via phone or email to discuss further."
+ 
+ 
+Reactions:
+Milf Dots
+Krob95
+Black Multicam Master Race
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Sep 7, 2019
+4,643
+7,156
+NoCo
+Feb 6, 2024
+#32
+You can do a lot of things but it’s on CLE to fix it. Not the end user. If the OP and @Greasegun want to pursue getting it fixed outside of CLE, it would be worth reaching out to Dave Wilson with D. Wilson mfg to explain the situation and see if there’s anything that can be done.
+
+Best of luck to you guys and hopefully CLE fixes their mistakes.
+ 
+ 
+Reactions:
+Earnhardt, USNIGHTGUNNER and InnaWoods86
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Feb 6, 2024
+#33
+Which headspace gauge test failed?
+ 
+Threadcutter308
+Mr. Sugar Tits to you
+Full Member
+Minuteman
+Feb 13, 2017
+15,024
+34,721
+An Island in warshington
+Feb 6, 2024
+#34
+Just do a CC Chargeback. It's not the customer's responsibility to have to dick around and clean up CLE's mess. PARTICULARLY if they're ghosting everyone.
+ 
+ 
+Reactions:
+Milf Dots and Holliday
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 6, 2024
+#35
+msgriff said:
+Which headspace gauge test failed?
+Both the .223 and 5.56 NATO GO.
+ 
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 6, 2024
+#36
+Threadcutter308 said:
+Just do a CC Chargeback. It's not the customer's responsibility to have to dick around and clean up CLE's mess. PARTICULARLY if they're ghosting everyone.
+Easier said than done. CLE requested a check for payment.
+ 
+ 
+Reactions:
+Milf Dots, Holliday and Threadcutter308
+Threadcutter308
+Mr. Sugar Tits to you
+Full Member
+Minuteman
+Feb 13, 2017
+15,024
+34,721
+An Island in warshington
+Feb 6, 2024
+#37
+USNIGHTGUNNER said:
+Easier said than done. CLE requested a check for payment.
+That's unfortunate, sorry to hear that.
+
+Not that this statement is going to help you in any way, but from everything I'm reading in this thread, it sure sounds like CLE has nothing but disdain for their (previous) customers, have pretty much said "fuck it", are washing their hands and walking away.
+
+It's possible there's something else going on, but when the last/final parts that you machine and ship are shit, plus you won't respond to phone calls or e-mails, the appearance is that you've pretty much decided to burn that bridge on the way out of town. It also appears that CLE doesn't really have much concern about their reputation. Perhaps, in the direction that they are moving, they don't feel that their reputation is important.
+
+(watching the clock, waiting for someone to jump my shit and say "you don't have all the facts/you don't know what's going on". That could very well be. But, when you screw customers and then don't respond to them, it seems pretty cut and dried and that there's not a lot more needed to be known about the situation).
+ 
+Last edited: Feb 6, 2024
+ 
+Reactions:
+Holliday and Greasegun
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Feb 6, 2024
+#38
+USNIGHTGUNNER said:
+Both the .223 and 5.56 NATO GO.
+That's what I assumed. You're in a tough situation. At this point, would you want CLE to attempt to fix the barrel? I'm not sure that I would, not knowing who is left there doing the work. I would be looking for a full (return barrel) or partial (have corrected elsewhere) refund, but I doubt that either will happen. Other than runout, it's not a difficult job to correct, and it might be less aggravating in the long run to pay someone qualified to do it. Good luck.
+ 
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 6, 2024
+#39
+Good news!!! Conrad replied to my email and sent a return shipping label. So far so good, and hopefully he will follow through.
+ 
+ 
+Reactions:
+Milf Dots, Dolomite, Holliday and 4 others
+Threadcutter308
+Mr. Sugar Tits to you
+Full Member
+Minuteman
+Feb 13, 2017
+15,024
+34,721
+An Island in warshington
+Feb 6, 2024
+#40
+USNIGHTGUNNER said:
+Good news!!! Conrad replied to my email and sent a return shipping label. So far so good, and hopefully he will follow through.
+Excellent news. I may have to modify my post above.....  
+ 
+ 
+Reactions:
+Greasegun
+G
+Greasegun
+Private
+Minuteman
+Nov 28, 2019
+23
+20
+Feb 6, 2024
+#41
+I suddenly recieved an email just now from CLE. They are taking my barrel back. Im guessing the publicity here on the hide got thier attention or they just had a sudden change of heart.
+
+OP, hope you get your problem resolved as well, definitely email them.
+
+Edit: I see they responded to you as well thankfully.
+ 
+ 
+Reactions:
+Milf Dots, Dolomite, USNIGHTGUNNER and 4 others
+Threadcutter308
+Mr. Sugar Tits to you
+Full Member
+Minuteman
+Feb 13, 2017
+15,024
+34,721
+An Island in warshington
+Feb 6, 2024
+#42
+Greasegun said:
+I suddenly recieved an email just now from CLE. They are taking my barrel back. Im guessing the publicity here on the hide got thier attention or they just had a sudden change of heart.
+
+OP, hope you get your problem resolved as well, definitely email them.
+
+Edit: I see they responded to you as well thankfully.
+Click to expand...
+Great news, good for both of you guys. And, good for CLE for taking care of you.
+ 
+ 
+Reactions:
+Milf Dots, USNIGHTGUNNER and Greasegun
+H
+HerCoStarNTheBeaverPictur
+Sergeant of the Hide
+Full Member
+Minuteman
+Jul 9, 2022
+175
+163
+Texas
+Feb 9, 2024
+#43
+My barrel was delivered yesterday. I don’t have a bore scope …
+
+
+
+
+Jk I’m waiting on a field gauge. It closes on some old junk 556 I had at least
+
+
+
+ 
+ 
+Reactions:
+Greasegun and InnaWoods86
+R
+RTH1800
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Sep 16, 2009
+10,484
+7,033
+Midwest
+Feb 9, 2024
+#44
+Be interesting to see the gas port job on the OP's barrel.
+
+It hilarious to see the "How's it shoot" folks get the smackdown.
+
+There is a correct way to do a job and there is crap. Even if the barrel would allow a round to be chambered, would fire reliably or even shoot well, it is no indication that it will have the longevity, accuracy life safety margins or reliability of a properly chambered barrel.
+
+"How's it shoot" is bullshit when you pay for a first class job. If you want to play the rifle lotto you buy off the shelf.
+ 
+Last edited: Feb 9, 2024
+ 
+Reactions:
+Baron23, USNIGHTGUNNER, AccuSol-ERN and 1 other person
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 23, 2024
+#45
+UPDATE: CLE sent the barrel back, and said that there’s nothing wrong with the barrel. In their defense, I was able to go through several bolts and finally found one that did headspace. However from my perspective there’s still a problem with the chamber as I don’t visually and functionally see any free bore. And I know what a free bore should look like.
+
+Here’s the email replay from Conrad:
+
+“I have inspected your barrel and it’s fine, your bolt headspaces fine and your free bore is fine. 77 grn Black Hills chambers fine with no marks on the bullet. The free bore is the same diameter as the bore and with tolerances between the bushing and bore and the bushing and reamer they usually don’t cut all the way around. One or two out of twenty might clean up, so pretty much every barrel that leaves here looks like yours, it only takes a couple of tenths difference in groove depth to not cut even. I would advise you install the barrel and have fun with it. Also, by the time it’s broken in, the throat will be even.
+
+Conrad”
+
+If there's a way to load a video on here, let me know as I took a video using the 5.56 NATO, .223 Wylde, and .223 chamber gauges in this barrel. I can always email the video to those that might be interested.
+
+All of the function gauges stick with the .223 being less sticky and the 5.56 completely sticks. This is a fail in my world, as all of these gauges should free fall out of the barrel. A correctly cut .223 Wylde chamber should pass all 5.56 gauges.
+
+I've attached a picture of the gauges used. Left to right: 5.56 NATO, .223 Wylde, .223 Rem.
+
+If I’m missing something here, please chime in…
+ 
+Attachments
+IMG_6213.jpg
+782.8 KB · Views: 55
+ 
+Reactions:
+Earnhardt
+FisherT&C
+Competition Rifle Barrelwork CAGE:9SLZ8
+Full Member
+Minuteman
+Commercial Supporter
+Jan 1, 2020
+734
+806
+Montana
+http
+Feb 24, 2024
+#46
+If that is considered a consistent result with their reamer and barrel combination, it would be ideal to have a reamer made that cuts a larger freebore diameter for clearance. I think I would prefer more clearance in a gas gun since they tend to run dirtier anyway. The old 308 Win has a freebore diameter of .310, I've never considered it an issue being .002" over nominal bullet diameter.
+ 
+ 
+Reactions:
+USNIGHTGUNNER
+USNIGHTGUNNER
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 8, 2009
+264
+68
+The Woodlands, TX
+Feb 24, 2024
+#47
+FisherT&C said:
+If that is considered a consistent result with their reamer and barrel combination, it would be ideal to have a reamer made that cuts a larger freebore diameter for clearance. I think I would prefer more clearance in a gas gun since they tend to run dirtier anyway. The old 308 Win has a freebore diameter of .310, I've never considered it an issue being .002" over nominal bullet diameter.
+It's always been my understanding that the diameter of the freebore should be slightly larger than the diameter of the bore.
+ 
+ 
+Reactions:
+Baron23
+M
+msgriff
+Major Hide Member
+Full Member
+Minuteman
+Feb 10, 2021
+1,271
+2,174
+Rogue Valley OR
+Feb 24, 2024
+#48
+USNIGHTGUNNER said:
+It's always been my understanding that the diameter of the freebore should be slightly larger than the diameter of the bore.
+I believe all freebores are a minimum of the groove diameter. 308 Win freebore is .310, but the 223 Rem are closer or at groove dia.
+
+
+ 
+ 
+Reactions:
+FisherT&C and USNIGHTGUNNER
+C
+Cynical
+Private
+Full Member
+Minuteman
+Supporter
+Apr 14, 2010
+590
+349
+Feb 24, 2024
+#49
+USNIGHTGUNNER said:
+UPDATE: CLE sent the barrel back, and said that there’s nothing wrong with the barrel. In their defense, I was able to go through several bolts and finally found one that did headspace. However from my perspective there’s still a problem with the chamber as I don’t visually and functionally see any free bore. And I know what a free bore should look like.
+
+Here’s the email replay from Conrad:
+
+“I have inspected your barrel and it’s fine, your bolt headspaces fine and your free bore is fine. 77 grn Black Hills chambers fine with no marks on the bullet. The free bore is the same diameter as the bore and with tolerances between the bushing and bore and the bushing and reamer they usually don’t cut all the way around. One or two out of twenty might clean up, so pretty much every barrel that leaves here looks like yours, it only takes a couple of tenths difference in groove depth to not cut even. I would advise you install the barrel and have fun with it. Also, by the time it’s broken in, the throat will be even.
+
+Conrad”
+
+If there's a way to load a video on here, let me know as I took a video using the 5.56 NATO, .223 Wylde, and .223 chamber gauges in this barrel. I can always email the video to those that might be interested.
+
+All of the function gauges stick with the .223 being less sticky and the 5.56 completely sticks. This is a fail in my world, as all of these gauges should free fall out of the barrel. A correctly cut .223 Wylde chamber should pass all 5.56 gauges.
+
+I've attached a picture of the gauges used. Left to right: 5.56 NATO, .223 Wylde, .223 Rem.
+
+If I’m missing something here, please chime in…
+Click to expand...
+
+Isn’t that pretty much what Ern said in post 17 above?
+ 
+H
+Hickswr
+Gunny Sergeant
+Full Member
+Minuteman
+Sep 5, 2019
+695
+716
+Alabama
+Feb 25, 2024
+#50
+This thread makes me really glad I’ve never heard of CLE.
+
+I thought the topic was a typo about CLR in Kreiger 
+ 
+ 
+Reactions:
+USNIGHTGUNNER
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+	
+Firearms CLE 223 Bartlein Barreled AR-15
+NLS7162 Dec 25, 2024 Buy - Sell - Trade
+10
+Sunday at 5:37 PM
+S
+	
+Accessories 6BRA 28" Krieger Barrel, MTU SS, Impact, SFS Customs 272 neck
+sobo Saturday at 5:56 PM Buy - Sell - Trade
+0
+Saturday at 5:56 PM
+	
+SOLD 6 ARC upper CLE Bartlein barrel
+NLS7162 Aug 5, 2024 Buy - Sell - Trade
+5
+Aug 12, 2024
+	
+SOLD Krieger AR10 barrel
+sethrrows Nov 23, 2024 Buy - Sell - Trade
+10
+Nov 23, 2024
+	
+Accessories Krieger 6BR barrel Impact/Lone Peak
+Trx498r Dec 27, 2024 Buy - Sell - Trade
+4
+Yesterday at 5:07 PM
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+The Armory
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/cle-krieger-barrel.7206709/ 
+ ----- 

@@ -1,0 +1,322 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Dodgers
+90-62, 42-35 Away
+8
+Final
+Marlins
+56-96, 29-48 Home
+4
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+LAD
+
+
+MIA
+1	2	3	4	5	6	7	8	9	R	H	E
+0	1	0	5	0	0	0	2	0	8	11	2
+0	0	0	0	0	0	3	0	1	4	8	2
+WIN
+L. Knack
+3-4
+5.0 IP, 2 H, 0 ER, 7 K, 2 BB
+LOSS
+R. Weathers
+3-6
+4.1 IP, 8 H, 5 ER, 5 K, 0 BB
+LAD
+Overview
+MIA
+Dodgers Hitting
+HITTERS
+
+S. Ohtani
+DH
+
+
+M. Betts
+2B-RF
+
+
+T. Hernández
+RF-LF
+
+
+K. Kiermaier
+PR-CF
+
+
+F. Freeman
+1B
+
+
+T. Edman
+SS
+
+
+W. Smith
+C
+
+
+A. Pages
+CF
+
+
+a
+M. Muncy
+3B-PH-3B
+
+
+E. Hernández
+3B
+
+
+b
+G. Lux
+PH-2B
+
+
+C. Taylor
+LF-CF-LF
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+5	0	1	0	0	0	.287
+5	0	0	0	0	0	.295
+4	0	0	0	0	0	.267
+0	0	0	0	0	0	.167
+5	2	3	0	0	0	.283
+5	1	1	2	1	0	.279
+4	3	2	1	1	0	.248
+3	1	1	0	0	0	.247
+0	0	0	0	0	1	.232
+3	1	1	3	1	0	.215
+1	0	0	0	0	0	.245
+4	0	2	2	0	0	.182
+39	8	11	8	3	1	
+a-intentionally walked for Pages in the 8th
+b-struck out looking for E. Hernández in the 8th
+BATTING
+2BFreeman (33, Weathers)
+HRE. Hernández (10, 4th inning off Weathers 2 on, 1 Out); Smith (19, 2nd inning off Weathers 0 on, 1 Out); Edman (6, 4th inning off Weathers 1 on, 1 Out)
+RBIE. Hernández 3 (36), Taylor 2 (19), Smith (71), Edman 2 (17)
+2Out RBITaylor 2
+Team LOB6
+Team RISP3-9 (E. Hernández 1-1, Taylor 1-1, Betts 0-1, T. Hernández 0-1, Smith 1-2, Ohtani 0-1, Edman 0-1, Lux 0-1)
+BASERUNNING
+SBFreeman (8, 2nd base off Petersen/Fortes); Ohtani (49, 2nd base off Weathers/Fortes)
+FIELDING
+DP1 (Muncy-Lux-Freeman)
+EE. Hernández (9, throw); Smith (7, throw)
+AssistsPages (Edwards at 3rd base)
+Marlins Hitting
+HITTERS
+
+X. Edwards
+SS
+
+
+C. Norby
+3B
+
+
+J. Sánchez
+LF-RF
+
+
+J. Burger
+1B
+
+
+J. Bride
+DH
+
+
+K. Stowers
+CF-LF
+
+
+O. Lopez
+2B
+
+
+G. Conine
+RF
+
+
+a
+J. Sanoja
+PH-CF
+
+
+N. Fortes
+C
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+5	0	1	0	0	0	.319
+4	0	1	0	0	0	.282
+4	0	0	0	0	0	.250
+3	0	0	0	0	1	.242
+3	1	1	0	0	1	.263
+3	1	1	0	0	1	.190
+4	2	2	2	0	0	.262
+2	0	0	0	0	0	.222
+2	0	1	0	0	0	.292
+2	0	1	2	0	0	.230
+32	4	8	4	0	3	
+a-grounded to second for Conine in the 7th
+BATTING
+2BLopez (21, Honeywell); Stowers (10, Logue)
+RBIFortes 2 (27), Lopez 2 (37)
+SFFortes ( 2)
+GIDPBride
+Team LOB6
+Team RISP2-8 (Burger 0-1, J. Sánchez 0-1, Edwards 0-2, Lopez 1-1, Bride 0-1, Sanoja 1-2)
+BASERUNNING
+SBEdwards 2 (30, 2nd base off Knack/Smith, 2nd base off Treinen/Smith); Lopez (18, 2nd base off Treinen/Smith)
+FIELDING
+EFortes (9, throw); Norby (5, throw)
+Dodgers Pitching
+PITCHERS
+
+L. Knack
+(W, 3-4)
+
+
+J. Kelly
+
+
+Z. Logue
+
+
+B. Treinen
+
+
+M. Kopech
+
+
+B. Honeywell
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+5.0	2	0	7	87-56	3.39
+1.0	0	0	0	10-6	5.02
+0.0	3	3	0	9-8	INF
+1.0	0	0	0	14-10	2.11
+1.0	1	0	0	14-9	3.53
+1.0	2	1	0	23-14	2.94
+9.0	8	4	7	157-103	
+PITCHING
+First-pitch strikes/Batters FacedKelly 1/3; Treinen 3/3; Kopech 4/4; Honeywell 2/5; Logue 2/3; Knack 12/19
+Called strikes-Swinging strikes-Foul balls-In play strikesKelly-0-0-3-3; Treinen-2-1-4-3; Kopech-2-1-3-3; Honeywell-2-2-5-5; Logue-3-0-2-3; Knack-20-8-18-10
+Ground Balls-Fly BallsKelly 1-2; Treinen 2-1; Kopech 2-0; Honeywell 0-3; Knack 2-6
+Game ScoresL Knack 68
+Marlins Pitching
+PITCHERS
+
+R. Weathers
+(L, 3-6)
+
+
+X. Curry
+
+
+M. Petersen
+
+
+M. Baumann
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+4.1	8	5	5	74-48	3.94
+2.2	0	0	3	32-22	4.95
+0.2	3	2	1	21-15	6.89
+1.1	0	0	2	16-11	5.30
+9.0	11	7	11	143-96	
+PITCHING
+IBBMuncy (by Petersen).
+HBPT. Hernández (by Baumann)
+First-pitch strikes/Batters FacedBaumann 2/5; Weathers 13/22; Petersen 5/6; Curry 4/8
+Called strikes-Swinging strikes-Foul balls-In play strikesBaumann-1-4-4-1; Weathers-13-12-6-16; Petersen-3-1-7-4; Curry-3-6-8-5
+Ground Balls-Fly BallsBaumann 1-1; Weathers 4-5; Petersen 0-1; Curry 1-4
+Game ScoresR Weathers 30
+Scoring Summary
+INNING
+	LAD	MIA
+		2nd	Smith homered to left (394 feet).	1	0
+		4th	Edman homered to right (363 feet), Freeman scored.	3	0
+		4th	E. Hernández homered to left center (430 feet), Smith scored and Pages scored.	6	0
+		7th	Lopez singled to center, Bride scored and Stowers scored.	6	2
+		7th	Fortes hit sacrifice fly to left, Lopez scored.	6	3
+		8th	Taylor singled to left, Freeman scored and Smith scored, Muncy to second.	8	3
+		9th	Fortes hit sacrifice fly to right, Lopez scored.	8	4
+Full Play-By-Play
+Game Information
+loanDepot park
+10:40 PM, September 18, 2024
+Miami, Florida
+Line: LAD -205
+Over/Under: 8.5
+Attendance: 17,138
+Game Time:
+2:48
+Umpires:
+Home Plate Umpire - Adam Beck
+First Base Umpire - Dan Iassogna
+Second Base Umpire - Tom Hanahan
+Third Base Umpire - Ben May
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570745 
+ ----- 

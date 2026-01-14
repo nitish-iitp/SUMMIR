@@ -1,0 +1,116 @@
+Close
+Menu
+Language
+My cart
+Home
+DLP products
+Display & projection products
+≥ 0.47-in array products
+DLP651NE
+0.65-inch 1080p HSSI DLP® digital micromirror device (DMD)
+Notifications
+Order now
+DATA SHEET
+DLP651NE 0.65 1080p DMD datasheet (Rev. A)
+PDF
+|
+HTML
+Product details
+Component type	DMD
+Display resolution (max)	1080p (1920x1080)
+System brightness (max) (lm)	8000
+Chipset family	DLPC7540
+Array diagonal (in)	0.65
+Input frame rate (max) (Hz)	240
+Rating	Catalog
+Micromirror array size	1920x1080
+Micromirror pitch (mm)	0.0076
+Operating temperature range (°C)	0 to 70
+Find other ≥ 0.47-in array products
+Similar products you might be interested in
+ Compare alternates
+Similar functionality to the compared device
+NEW
+DLP472NE
+0.47-inch, 1080p, high-speed serial interface DLP® digital micromirror device
+Alternate DMD for lower brightness
+DLP780NE
+0.78-inch 1080p DLP® digital micromirror device (DMD)
+Alternate DMD for lower brightness
+Technical documentation
+=Top documentation for this product selected by TI
+Design & development
+
+For additional terms or required resources, click any title below to view the detail page where available.
+
+EVALUATION BOARD
+DLP650TEEVM — DLP650TE evaluation module for 4K UHD digital micromirror device (DMD)
+
+The DLP® products DLP650TEEVM, when combined with the DLPC7540EVM, can accelerate the prototyping time of a DLP 0.65-inch 4K UHD system. The DLP650TEEVM provides a solution for evaluating the 0.65-inch 4K UHD digital micromirror device (DMD), which is designed to pair with the DLPC7540EVM and can (...)
+
+User guide:
+PDF
+|
+HTML
+Log in to order
+$999.00 (USD)
+Log in to view inventory
+EVALUATION BOARD
+DLPC7540EVM — DLPC7540 evaluation module for high-resolution display controllers
+
+The DLP® products DLPC7540EVM, when combined with the DLP471TEEVM or DLP650TEEVM, can accelerate the prototyping time of a DLP 4K UHD system. The DLPC7540EVM provides a solution for driving either the 0.47-inch 4K UHD or 0.65-inch 4K UHD standard digital micromirror devices (DMDs), while allowing (...)
+
+User guide:
+PDF
+|
+HTML
+View Options
+OPTICAL MODULE
+DLP-OMM-SEARCH — DLP® Products third-party search tools
+
+To best meet your design needs and accelerate your time-to-market, DLP® Products works with a variety of third parties to help with everything from optical modules and hardware design to specialty software and other production services. Download one or both search tools listed below to quickly (...)
+
+View Options
+3D DMD MECHANICAL GEOMETRY
+DLPM051 — DLP651NE DMD With FYP Package (Series 450) 3D-CAD Geometry
+Supported products & hardware
+Download
+CALCULATION TOOL
+DMD-DIFFRACTION-EFFICIENCY-CALCULATOR — Calculator helps model DMD diffraction patterns and diffraction efficiency
+This calculator will be used to help customers understand how to model DMD diffraction patterns and efficiency with their specific DMD input parameters and is modeled to the customer’s specific design. Optical modules can also be used with the calculator.
+Supported products & hardware
+Download
+DMD MOUNTING DESIGN
+DLPC132 — Series 450 DMD Mounting & Electrical Interconnect Information
+Supported products & hardware
+Download
+DESIGN TOOL
+DLP-OPTICAL-DESIGN — DLP-OPTICAL-DESIGN-GUIDELINES
+The DLP optical design guidelines presentation provides a comprehensive overview of the guidelines specific to designing an optical system with DLP Products and will help enable customers in their design process.
+Supported products & hardware
+Download
+DESIGN TOOL
+DLPR112 — DLP55X and DLP65X Optical Design Files
+Optical design files include reference designs and guidelines for DLP55X and DLP65X family products
+Supported products & hardware
+Download
+PCB LAYOUT
+DLP471TEEVM and DLP650TEEVM Board Design Files
+DLPR093.ZIP (6371 KB)
+Download
+Package	Pins	CAD symbols, footprints & 3D models
+DLP-S450 (FYP)	149	Ultra Librarian
+TI's Standard Terms and Conditions for Evaluation Items apply.
+Ordering & quality
+Support & training
+TI E2E™ forums with technical support from TI engineers
+View all forum topics
+
+Content is provided "as is" by TI and community contributors and does not constitute TI specifications. See terms of use.
+
+If you have questions about quality, packaging or ordering TI products, see TI support. ​​​​​​​​​​​​​​
+ 
+ 
+ ----- 
+ Source link : https://www.ti.com/product/DLP651NE 
+ ----- 

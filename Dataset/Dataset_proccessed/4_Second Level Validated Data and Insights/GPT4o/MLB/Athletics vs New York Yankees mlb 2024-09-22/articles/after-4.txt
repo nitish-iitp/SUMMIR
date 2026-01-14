@@ -1,0 +1,363 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Yankees
+92-64, 50-31 Away
+7
+Final
+Athletics
+67-89, 36-42 Home
+4
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Judge hits 55th homer of season, Yankees beat Athletics 7-4 and draw closer to clinching AL East
+— Aaron Judge hit his major league-leading 55th homer of the season, Gleyber Torres and Jasson Domínguez also went deep and the Yankees beat the Oakland Athletics 7-4 on Sunday for a three-game sweep that moved New York to the verge of an AL East title.
+Sep 23, 2024, 12:18 am - AP
+
+
+NYY
+
+
+OAK
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t2\t1\t0\t2\t0\t1\t0\t1\t7\t9\t1
+2\t0\t0\t0\t0\t2\t0\t0\t0\t4\t7\t0
+WIN
+L. Gil
+15-6
+5.1 IP, 5 H, 4 ER, 5 K, 3 BB
+LOSS
+J. Estes
+7-9
+4.0 IP, 7 H, 5 ER, 1 K, 1 BB
+SAVE
+L. Weaver
+4
+1.2 IP, 0 H, 0 ER, 3 K, 0 BB
+Scoring Summary
+INNING
+\tNYY\tOAK
+\t\t1st\tSoderstrom doubled to right, Langeliers scored on error and Bleday scored, Soderstrom safe at third on throwing error by shortstop Volpe.\t0\t2
+\t\t2nd\tDomínguez homered to right (397 feet), Chisholm Jr. scored.\t2\t2
+\t\t3rd\tJudge homered to center (407 feet).\t3\t2
+\t\t5th\tTorres homered to center (407 feet).\t4\t2
+\t\t5th\tChisholm Jr. hit sacrifice fly to center, Soto scored.\t5\t2
+\t\t6th\tNoda doubled to right, Gelof scored and Soderstrom scored.\t5\t4
+\t\t7th\tStanton doubled to center, Judge scored.\t6\t4
+\t\t9th\tWells doubled to left, Soto scored, Judge to third.\t7\t4
+Full Play-By-Play
+Yankees
+Athletics
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+G. Torres
+2B
+\t2-5\t1\t1\t1\t.254
+
+J. Soto
+RF
+\t0-3\t2\t0\t0\t.287
+
+A. Judge
+CF
+\t2-3\t2\t1\t1\t.323
+
+A. Wells
+C
+\t1-5\t0\t0\t1\t.239
+
+G. Stanton
+DH
+\t1-3\t0\t0\t1\t.235
+
+J. Berti
+PR-DH
+\t0-0\t0\t0\t0\t.283
+
+J. Chisholm Jr.
+3B
+\t1-3\t1\t0\t1\t.276
+
+J. Dominguez
+LF
+\t1-4\t1\t1\t2\t.200
+
+A. Verdugo
+LF
+\t0-1\t0\t0\t0\t.233
+
+A. Rizzo
+1B
+\t0-4\t0\t0\t0\t.218
+
+A. Volpe
+SS
+\t1-4\t0\t0\t0\t.248
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+L. Gil
+\t5.1\t5\t4\t3\t5\t92-55\t3.27
+
+I. Hamilton
+\t0.2\t1\t0\t0\t0\t12-8\t3.89
+
+T. Hill
+\t1.0\t0\t0\t0\t1\t5-5\t3.32
+
+C. Holmes
+\t0.1\t1\t0\t1\t1\t12-6\t3.28
+
+L. Weaver
+\t1.2\t0\t0\t0\t3\t18-14\t2.93
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+L. Butler
+RF
+\t0-5\t0\t0\t0\t.265
+
+B. Rooker
+DH
+\t0-5\t0\t0\t0\t.296
+
+J. Bleday
+CF
+\t1-3\t1\t0\t0\t.245
+
+S. Langeliers
+C
+\t1-3\t1\t0\t0\t.224
+
+T. Soderstrom
+1B
+\t2-2\t1\t0\t2\t.229
+
+D. Cameron
+PR-LF
+\t0-0\t0\t0\t0\t.201
+
+Z. Gelof
+2B
+\t1-4\t1\t0\t0\t.213
+
+S. Brown
+LF-1B
+\t0-4\t0\t0\t0\t.233
+
+M. Schuemann
+3B
+\t0-2\t0\t0\t0\t.217
+
+R. Noda
+PH
+\t1-1\t0\t0\t2\t.137
+
+N. Allen
+PR-3B
+\t0-0\t0\t0\t0\t.172
+
+K. McCann
+PH
+\t0-1\t0\t0\t0\t.239
+
+T. Nevin
+3B
+\t0-0\t0\t0\t0\t.199
+
+J. Wilson
+SS
+\t1-4\t0\t0\t0\t.227
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+J. Estes
+\t4.0\t7\t5\t1\t1\t85-56\t4.99
+
+K. Muller
+\t2.1\t0\t0\t1\t0\t25-15\t4.18
+
+M. Otanez
+\t0.1\t1\t1\t1\t0\t11-5\t3.51
+
+T.J. McFarland
+\t0.2\t0\t0\t0\t0\t8-6\t3.95
+
+G. Holman
+\t0.2\t0\t0\t0\t1\t8-6\t4.61
+
+S. Alexander
+\t1.0\t1\t1\t3\t2\t29-17\t2.48
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+New York Yankees (92-64, 50-31 Away)
+Luis Gil (15-7, 3.50)
+-180
+ML
+-180
+o8.5
+-135
+-1.5
+-110
+Oakland Athletics (67-89, 36-42 Home)
+Joey Estes (7-9, 5.01)
+u8.5
+-115
++150
+u8.5
++115
++1.5
+-110
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+YANKEES
+ATHLETICS
+NYY 100
+%
+NYY 7OAK 4
+
+Bottom 9th
+Rooker flied out to left.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+NYY
+OAK
+Hits
+9
+7
+Home Runs
+3
+0
+Total Bases
+21
+9
+Runners LOB
+10
+7
+Full Team Stats
+Regular Season Series
+Current Series
+NYY win 3-0
+Yankees
+4
+Athletics
+2
+Game 1
+9/21
+Final/10
+Yankees
+10
+Athletics
+0
+Game 2
+9/22
+Final
+Yankees
+7
+Athletics
+4
+Game 3
+9/22
+Final
+Game Information
+Oakland Coliseum
+8:07 PM, September 22, 2024
+Oakland, California
+Attendance: 24,663
+Game Time:
+2:55
+Umpires:
+Home Plate Umpire - Jacob Metz
+First Base Umpire - Mike Estabrook
+Second Base Umpire - Erich Bacchus
+Third Base Umpire - Laz Diaz
+Sponsored Headlines
+Get started today!
+Use ForecastEx contracts to trade your view on economic and climate indicators at IBKR!
+Interactive Brokers
+|
+Sponsored
+Learn More
+Grab Workout Ready Drinkware
+Crush your goals, not your gear.
+YETI
+|
+Sponsored
+Shop Now
+MD: Building Muscle After 60 Comes Down To This 1 Thing
+Apex Labs
+|
+Sponsored
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570804/yankees-athletics 
+ ----- 

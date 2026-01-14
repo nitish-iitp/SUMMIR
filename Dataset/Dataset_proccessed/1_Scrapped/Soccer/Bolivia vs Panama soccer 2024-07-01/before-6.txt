@@ -1,0 +1,949 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Night Vision Sig ECHO CV25 LWIR 640x512 Thermal Clip-On
+ 
+Thread starter
+smarcus  
+Start date
+Jun 26, 2024
+1
+	
+2
+Next
+S
+smarcus
+Supporter
+Supporter
+Full Member
+Minuteman
+May 16, 2018
+300
+290
+Connecticut
+Jun 26, 2024
+#1
+Euro Optics just sent out an email on a new SIG Thermal Clip on. I believe there is a hands on event going on at SIG right now. Anyone have any details besides what's mentioned in the ad? Priced at $4K
+
+Thermal
+
+Description
+
+Features of the ECHO CV25 Multi-Purpose Thermal Clip-On Device​
+Compact at only 5" with a QD mount
+Eyepiece optimized for parallax-free clip-on application, and can be used as a thermal sight
+LWIR 640x512 VGA 12um 50Hz thermal core with ≤20mK sensitivity
+Record still photos and video with audio
+Configurable via the BDX App including live video streaming
+Rechargeable and removeable 18650 lithium-ion battery with 9-hour runtime on a single charge
+IP67 Waterproof rating, 25mm Objective, 17° FOV, 1024x768 AMOLED microdisplay
+Ships with EVA Case, Bikini cover, (2) 18650 batteries, and USB-C charging cable
+SIG SAUER Infinite Guarantee unlimited lifetime warranty
+Specifications
+
+Size:4.96" x 2.99" x 3.07"
+Weight:18.8 ounces
+Thermal Sensitivity:≤20mK
+Magnification Range:1x - 8x
+Field of View:17.6°
+Battery Type(x1) 18650
+ 
+TheHorta
+Nest-stirring pot-poker.
+Supporter
+Full Member
+Minuteman
+ 
+Jan 17, 2014
+5,304
+15,641
+NO AL
+Jun 26, 2024
+#2
+Loving the size. Sounds like it’s going HTH with the iRay RH-25, except not as versatile.
+ 
+ 
+Reactions:
+rlsmith1
+XP1K
+Private
+Full Member
+Minuteman
+Jul 20, 2017
+1,808
+3,766
+Texas
+Jun 26, 2024
+#3
+I saw this yesterday. Looks interesting
+ 
+S
+smarcus
+Supporter
+Supporter
+Full Member
+Minuteman
+May 16, 2018
+300
+290
+Connecticut
+Jun 26, 2024
+#4
+I have a REAP 2 35mm TWS but have been looking to add a clip on. I've been hesitant about the Chinese ones but with the SIG lifetime warranty it's a bit more palatable (I assume it's a Chinese core at least given the price). I'd like to see some reviews.
+ 
+ 
+Reactions:
+rlsmith1 and mikefraz
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,336
+2,168
+Midwest
+Jun 26, 2024
+#5
+Lifetime warranty on a thermal is pretty sweet. Hopefully SIG keeps their thermal lineup for a loooong time
+ 
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Jun 26, 2024
+#6
+A parallax-free eye piece is a big deal, pretty cool to see it on a thermal in that price range
+ 
+Last edited: Jun 26, 2024
+ 
+Reactions:
+mikefraz, XP1K and rlsmith1
+N
+NCgreentick
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 23, 2022
+126
+103
+AZ
+Jun 26, 2024
+#7
+It doesn't show or mention the mounting style. Hope they don't F the dog like Steiner.
+ 
+ 
+Reactions:
+bwo44, mikefraz and rlsmith1
+J
+javemtr
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 23, 2021
+184
+252
+Germany
+Jun 27, 2024
+#8
+NCgreentick said:
+It doesn't show or mention the mounting style. Hope they don't F the dog like Steiner.
+Here you go, looks like a copy of the ADM levers: https://www.sigsauer.com/echo-clip-on-cv25.html
+ 
+ 
+Reactions:
+Snapper314 and mikefraz
+J
+javemtr
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 23, 2021
+184
+252
+Germany
+Jun 27, 2024
+#9
+Some more info here, starting at 26:04:
+
+ 
+ 
+Reactions:
+Snapper314, mikefraz and rlsmith1
+N
+NCgreentick
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 23, 2022
+126
+103
+AZ
+Jun 27, 2024
+#10
+NCgreentick said:
+It doesn't show or mention the mounting style. Hope they don't F the dog like Steiner.
+Here you go, looks like a copy of the ADM levers: https://www.sigsauer.com/echo-clip-on-cv25.html
+
+Cool, thanks. The specs look nice, especially the <20mK NETD.
+Price will be everything.
+ 
+Attachments
+1719536871041.gif
+42 bytes · Views: 73
+J
+javemtr
+Sergeant of the Hide
+Full Member
+Minuteman
+Mar 23, 2021
+184
+252
+Germany
+Jun 28, 2024
+#11
+Guy in the video said MSRP is $3999 
+ 
+ 
+Reactions:
+TheHebrewHammer
+S
+smarcus
+Supporter
+Supporter
+Full Member
+Minuteman
+May 16, 2018
+300
+290
+Connecticut
+Jun 28, 2024
+#12
+EuroOptics has it listed for $3,999.99 also.
+ 
+R
+rlsmith1
+Legalize Freedom
+Supporter
+Full Member
+Minuteman
+ 
+May 1, 2019
+2,336
+2,168
+Midwest
+Jun 29, 2024
+#13
+Site says it has SIG BDX 2.0 onboard as well. Maybe it will display some cool things and points to Sig doing a WMLRF?
+ 
+ 
+Reactions:
+Snapper314 and bmicek
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,676
+1,435
+North Central FL
+Jun 30, 2024
+#14
+1.5x base mag so it may beat the RH25 as a clip-on, will be neat to see reviews.
+ 
+bmicek
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 23, 2017
+977
+532
+Kansas
+Jul 1, 2024
+#15
+rlsmith1 said:
+Site says it has SIG BDX 2.0 onboard as well. Maybe it will display some cool things and points to Sig doing a WMLRF?
+I had the same thought. Can’t imagine anyone is going out in the dark with a handheld rangefinder ranging things they can’t see.
+ 
+ 
+Reactions:
+tactic-als
+P
+person1
+Private
+Minuteman
+Aug 30, 2023
+11
+1
+Huntington Beach, CA
+Jul 1, 2024
+#16
+≤20mK thermal sensitivity rating?!
+ 
+M
+Magsz18
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Dec 5, 2023
+204
+147
+Florida
+Jul 6, 2024
+#17
+I watched a video where it said that parallax was fixed at 150 yards. "As long as the target is in the eyebox, you will hit".
+
+Can someone explain that to me?
+
+I'm really curious about this as it seems like a really, really good deal on paper. We all know that this is a Chinese core but the price point is nice and ideally, that lifetime warranty actually means, lifetime.
+ 
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Jul 6, 2024
+#18
+It looks to have an adjustable focus so maybe he was thinking about the fixed diopter?
+ 
+ 
+Reactions:
+Magsz18
+T
+TheHebrewHammer
+Supporter
+Supporter
+Full Member
+Minuteman
+May 1, 2021
+1,173
+1,039
+The South
+Jul 11, 2024
+#19
+I have been waiting for the first civilian collimated clip on, if it's really 1 MOA than I'm sold.
+ 
+ 
+Reactions:
+mikefraz, NHPiper, XP1K and 1 other person
+T
+Texascbr
+Private
+Full Member
+Minuteman
+Nov 7, 2017
+151
+183
+Austin, Texas
+Jul 13, 2024
+#20
+Darn it! Was about to jump on the Iray RH25 with the special 3999.00 pricing then this arrives? Thoughts on Sig Thermal performance vs Iray? What would be the strengths of each?
+ 
+T
+TheHebrewHammer
+Supporter
+Supporter
+Full Member
+Minuteman
+May 1, 2021
+1,173
+1,039
+The South
+Jul 23, 2024
+#21
+Has anyone tried to confirm with Sig if it is collimated?
+ 
+ 
+Reactions:
+NHPiper
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,676
+1,435
+North Central FL
+Jul 24, 2024
+#22
+I would have a hard time believing it is factory digitally-collimated the way it expensive thermals are. I suspect it’s going to be a “pixel shift” zero process like every other inexpensive thermal clip-on.
+ 
+A
+Ape_Factory
+Major Hide Member
+Full Member
+Minuteman
+May 23, 2020
+1,475
+1,000
+San Antonio, Texas
+Jul 24, 2024
+#23
+New to thermals, can you explain collimated vs. the pixel shift zero process and what it accomplishes? Or point me to a good article 
+ 
+ 
+Reactions:
+Magsz18
+the_assman
+Sergeant of the Hide
+Full Member
+Minuteman
+Feb 4, 2021
+119
+222
+VA
+Jul 24, 2024
+#24
+Ape_Factory said:
+New to thermals, can you explain collimated vs. the pixel shift zero process and what it accomplishes? Or point me to a good article 
+a collimated optic would just drop on infront of your day optic and work with your day optics reticle
+
+the pixel shifting process is just basically moving the thermal screen image to overlay your daytime optics reticle to "zero" it
+
+smarter people should be along to correct me or explain it better
+ 
+ 
+Reactions:
+XP1K
+softcock
+novice judgmental prick
+Full Member
+Minuteman
+Mar 24, 2006
+2,474
+2,919
+Oregon
+Jul 24, 2024
+#25
+Sig. Optics is down by wilsonville OR. , their going to be a Sig factory Rep. and products booth at our local Range on Saturday, along with some other. I need to run over there and take a look at that clip-on.
+.
+ 
+ 
+Reactions:
+TheHebrewHammer and dirtytough
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,676
+1,435
+North Central FL
+Jul 25, 2024
+#26
+Ape_Factory said:
+New to thermals, can you explain collimated vs. the pixel shift zero process and what it accomplishes? Or point me to a good article 
+
+The expensive military thermals will commonly have carefully designed rear lens assemblies that are fairly tolerant of misalignment between the day scope and the clip-on, and then they will spend extra time carefully calibrating the unit to ensure that what is seen through the day optic is exactly what the thermal displays on the rear screen, ie that there is no image shift and that 1mil on the day optic will cover exactly 1mil of what the thermal camera sees. In night vision optics this calibration is done with a Risley prism in the clip-on but with thermals it’s done digitally at the factory. The end result is that you can slap the unit onto just about any rifle with the scope reasonably aligned to the thermal and expect fairly minimal POI shift, and your reticle holds should all work accurately.
+
+Cheaper thermals generally don’t do all these things. You might get a lot more POI shift if your scope isn’t perfectly aligned with the thermal, and the lack of a fixed factory calibration means it’s on the user to “zero” the thermal to each rifle. This is done by having a larger screen in the back and digitally shifting the displayed image around on that screen in the menu settings until point of aim is point of impact.
+
+It would be really impressive if Sig has managed to produce a factory collimated thermal optic for under $4000, because that level of design complexity, attention to detail, and additional labor has generally only been available on $10,000+ systems.
+ 
+Last edited: Jul 25, 2024
+ 
+Reactions:
+Magsz18, person1 and Texascbr
+A
+Ape_Factory
+Major Hide Member
+Full Member
+Minuteman
+May 23, 2020
+1,475
+1,000
+San Antonio, Texas
+Jul 25, 2024
+#27
+Great explanation and much appreciated.
+ 
+T
+TheHebrewHammer
+Supporter
+Supporter
+Full Member
+Minuteman
+May 1, 2021
+1,173
+1,039
+The South
+Jul 25, 2024
+#28
+@Conqueror you are probably right but let a man dream. The $4k market for a non-collimated clip ons is flooded right now with options.
+ 
+ 
+Reactions:
+Conqueror
+softcock
+novice judgmental prick
+Full Member
+Minuteman
+Mar 24, 2006
+2,474
+2,919
+Oregon
+Jul 25, 2024
+#29
+Texascbr said:
+Thoughts on Sig Thermal performance vs Iray?
+if the cv25 640/512 processor is same one as Iray installs under their brand name ? My Iray with 640/512 give a pretty impressive image, and does well in high humid.
+This pixel size of my iray is 12μm, same as the cv25, and other specs. Sig. gives . For a clip-on it going to be really hard to tell until someone actually throws one in front of their LVPO and takes it out to actually hunt with it. see's what is actual usable for image with his scope magnification.
+
+The #1 biggest thing I give a shit about with any Clip-on is . Collimation and holding the same set POI zero every time It goes Off and back On on rifle.
+.
+ 
+Last edited: Jul 25, 2024
+ 
+Reactions:
+Patty, Magsz18, smarcus and 3 others
+softcock
+novice judgmental prick
+Full Member
+Minuteman
+Mar 24, 2006
+2,474
+2,919
+Oregon
+Jul 30, 2024
+#30
+One of the Sig. Rep's. over the weekend said that it 'might' be looking for release Oct.-Nov. said ..."he thinks they were doing some Dunk tests right now" and ironing out other small details . So hopefully before Xmas be putting them out to dealers.
+.
+ 
+Evolution 9
+Hurter of feelings
+Supporter
+Full Member
+Minuteman
+ 
+Mar 6, 2010
+1,267
+1,550
+Central Idaho
+Jul 30, 2024
+#31
+Let’s not forget that we’ve been promised collimated clip-ons before, only to find out after release that they were just the same zero-the-screen types we’ve been seeing. In at least one case, it was deliberate false advertising and led to massive pre-orders (with $$ down).
+
+I don’t expect we are seeing that exact scenario now, but I definitely won’t be one of the first to buy this.
+
+If it’s all it’s cracked up to be, we’re moving in a great direction!
+ 
+ 
+Reactions:
+PowPowHawg, mikefraz, Magsz18 and 1 other person
+F
+Flow
+Private
+Minuteman
+Mar 28, 2017
+3
+0
+Aug 21, 2024
+#32
+Are there any images or videos of the performance of this unit anywhere yet?
+ 
+L
+ldunnmobile
+Sergeant
+Full Member
+Minuteman
+Aug 26, 2007
+852
+79
+Arkansas
+Sep 27, 2024
+#33
+Top. Any news.
+ 
+ 
+Reactions:
+knownothing and Patty
+Patty
+Team MDT | Team Leupold
+Full Member
+Minuteman
+Supporter
+Mar 4, 2017
+1,768
+860
+VA
+Oct 9, 2024
+#34
+Here is what an sig PM told me today on the collimation….
+
+“yes, the ocular lens is collimated, it should hold zero from gun to gun. It optical axis will come calibrated from the factory to within 1mrad. There will be a menu in the App similar to MV cal to fine tune the calibration. Once that is done the user should never have to touch it again. “
+
+They said thy are starting to build them this week but don’t know what that means for when they’ll be released.
+ 
+ 
+Reactions:
+mikefraz, Bri0242, TheHebrewHammer and 2 others
+T
+TheHebrewHammer
+Supporter
+Supporter
+Full Member
+Minuteman
+May 1, 2021
+1,173
+1,039
+The South
+Oct 9, 2024
+#35
+Huge if this works as planned.
+ 
+ 
+Reactions:
+Patty
+Evolution 9
+Hurter of feelings
+Supporter
+Full Member
+Minuteman
+ 
+Mar 6, 2010
+1,267
+1,550
+Central Idaho
+Oct 9, 2024
+#36
+“Within 1 MRAD” 
+ 
+ 
+Reactions:
+TheHorta, Conqueror, Texascbr and 1 other person
+WindstormSCR
+Gunny Sergeant
+Full Member
+Minuteman
+Jun 28, 2021
+848
+721
+Maryland
+Oct 9, 2024
+#37
+The main thing that still pulls me towards the RH-25 over this is the ability to use the RH25 helmet/nightcap mounted.
+
+any news if sig has wised up to that use?
+ 
+ 
+Reactions:
+mikefraz
+C
+chevy_man
+Old Salt
+Full Member
+Minuteman
+Jan 25, 2019
+4,117
+4,557
+Oct 9, 2024
+#38
+Patty said:
+Here is what an sig PM told me today on the collimation….
+
+“yes, the ocular lens is collimated, it should hold zero from gun to gun. It optical axis will come calibrated from the factory to within 1mrad. There will be a menu in the App similar to MV cal to fine tune the calibration. Once that is done the user should never have to touch it again. “
+
+They said thy are starting to build them this week but don’t know what that means for when they’ll be released.
+Click to expand...
+
+I really hope he meant within .1 mill.
+
+It seems like every time I'm ready to buy NV or thermal new stuff comes out, and I get the decision paralysis. Hopefully my local sig dealer gets some in.
+ 
+ 
+Reactions:
+mikefraz and Texascbr
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Oct 9, 2024
+#39
+Being zeroed on an optical bench to within 1 mrad is completely acceptable, with the fact you can farther zero it and it holds from gun to gun to gun.
+If they’re optimizing this for a clip on, they don’t need to have it helmet mountable, can’t have both of best worlds and it’s very interesting to see if everything they say is true.
+
+Seen the best clip ons be off .6 to 1 mil and they need to be adjusted.
+ 
+ 
+Reactions:
+ldunnmobile, Magsz18, TheHebrewHammer and 1 other person
+Evolution 9
+Hurter of feelings
+Supporter
+Full Member
+Minuteman
+ 
+Mar 6, 2010
+1,267
+1,550
+Central Idaho
+Oct 10, 2024
+#40
+Some of you are showing that you’re not aware of history.
+
+Sneaky slimy ways of tricking consumers about the collimation or non-collimation of these units is not new, and this description is DRIPPING with the same shady non-speak that separated some of you from your hard earned dollars just a few years ago.
+
+Good luck.
+
+I REALLY do hope this one will do what you think it will, and it MIGHT. But the comments here make it obvious that if you get lucky with this, it’s just that, luck. You don’t know the history or the lingo that has plagued civilian “clip-ons”.
+
+If it was really as simple as correcting the collimation one time on your rifle, and now it’s set for all rifles… then they would do that at the factory.
+
+Last time around I got laughed at for this exact same warning (by well respected members here). Their laughs cost them thousands and earned me the last laugh.
+
+I HOPE this time is different.
+ 
+Last edited: Oct 10, 2024
+ 
+Reactions:
+mikefraz, The Knuckle, TheHebrewHammer and 4 others
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,676
+1,435
+North Central FL
+Oct 10, 2024
+#41
+There is ZERO chance that this consumer-grade Sig unit is digitally collimated at the factory the way that, say, a Theon X-ELR is, and y’all are smoking some high-grade crack to believe it could be. “Collimated at the factory to within 1 mil and you can fine-tune it in the settings” is the most suspicious sales-gibberish for “yeah we center the screen at the factory and you pixel-shift the image like every other consumer clip-on.”
+ 
+ 
+Reactions:
+JackOfAllTrades, TheHebrewHammer, Evolution 9 and 2 others
+bmicek
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 23, 2017
+977
+532
+Kansas
+Oct 10, 2024
+#42
+Conqueror said:
+There is ZERO chance that this consumer-grade Sig unit is digitally collimated at the factory the way that, say, a Theon X-ELR is, and y’all are smoking some high-grade crack to believe it could be.
+It’s fun to pretend though
+ 
+ 
+Reactions:
+mikefraz, TheHebrewHammer, WindstormSCR and 2 others
+T
+TheHebrewHammer
+Supporter
+Supporter
+Full Member
+Minuteman
+May 1, 2021
+1,173
+1,039
+The South
+Oct 11, 2024
+#43
+Let a man dream, I understand it's a pipe dream, but still a dream.
+ 
+Evolution 9
+Hurter of feelings
+Supporter
+Full Member
+Minuteman
+ 
+Mar 6, 2010
+1,267
+1,550
+Central Idaho
+Oct 11, 2024
+#44
+Someone will get it right at some point (hopefully N-Vision due to BAE core and USA made), so it’s remotely possible it’s these guys… so dream away 
+
+The market needs beta testers 
+ 
+ 
+Reactions:
+mikefraz
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Oct 11, 2024
+#45
+The only Hope is being a clip on only thermal they some how actually got some kind of prism in the back….. (doubtful or figured out another way)
+
+Look at the Tigir. Has a a prism (non risley prism) and you have to adjust the image once. So it’s possible
+ 
+ 
+Reactions:
+mikefraz
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,676
+1,435
+North Central FL
+Oct 12, 2024
+#46
+TigIR has six save slots for different rifles so, no…
+ 
+ 
+Reactions:
+Evolution 9
+JackOfAllTrades
+Gunny Sergeant
+Full Member
+Minuteman
+Supporter
+Aug 13, 2023
+856
+203
+North Carolina
+Oct 12, 2024
+#47
+My Tig has no shift once I adjusted it, it’s good from gun to gun to gun so 
+ 
+ 
+Reactions:
+mikefraz
+C
+Conqueror
+Supporter
+Supporter
+Full Member
+Minuteman
+Feb 28, 2008
+1,676
+1,435
+North Central FL
+Oct 12, 2024
+#48
+Not mine. Not faulting it, I have some wonky setups, but Andres doesn’t claim it’s a “set once and forget” type of device.
+ 
+ 
+Reactions:
+JackOfAllTrades
+W
+WhereNow&How
+Major Hide Member
+Full Member
+Minuteman
+Nov 10, 2019
+2,085
+2,496
+MS
+Oct 12, 2024
+#49
+Conqueror said:
+y’all are smoking some high-grade crack to believe it could be.
+Some expert advice on high grade crack. 
+
+
+ 
+ 
+Reactions:
+pangris, Conqueror and TheHebrewHammer
+P
+person1
+Private
+Minuteman
+Aug 30, 2023
+11
+1
+Huntington Beach, CA
+Oct 17, 2024
+#50
+The first of Sig's 3 new thermal optics started shipping, the "ECHO SV50-LRF THERMAL SIGHT 2-16x50MM"
+
+Peak at some menus, buttons and quality that can be expected out of the Sig CV25.
+
+
+ 
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+J
+	
+Night Vision Running review of thermal monoculars/HMT units and my findings
+jstokes1 May 28, 2022 Observation & Sighting Devices
+36
+Jul 28, 2023
+	
+Optics Pulsar Thermion XP50 1.9-15.2x42 Thermal Riflescope
+gr8fuldoug Jun 16, 2020 Buy - Sell - Trade
+1
+Jun 19, 2020
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/sig-echo-cv25-lwir-640x512-thermal-clip-on.7223121/ 
+ ----- 

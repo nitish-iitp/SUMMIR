@@ -1,0 +1,264 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Observation & Sighting Devices
+IRay AP13 AFFO or AGM TM15-256 for a scanner?
+ 
+Thread starter
+SuperDave17  
+Start date
+Mar 17, 2024
+S
+SuperDave17
+Private
+Minuteman
+Feb 28, 2024
+29
+10
+Valparaiso,IN
+Mar 17, 2024
+#1
+Look for a monocular for scanning my back property about 200acres.These two seem very similar on paper for entry level price point which one would you go with ?
+ 
+softcock
+novice judgmental prick
+Full Member
+Minuteman
+Mar 24, 2006
+2,482
+2,921
+Oregon
+Mar 17, 2024
+#2
+SuperDave17 said:
+Look for a monocular for scanning my back property about 200acres.These two seem very similar on paper for entry level price point which one would you go with ?
+
+Both are 256x192 core processor and a very small Obj. Go with the one with better battery and warranty.
+
+There both pretty low entry level thermal scanners, they will scan your backyard, and see hot spots couple hundred yards. with any High humidity on a 256x192 core is a killer for good image.
+( my advise ) .. You should try to swing for a budget going to at least a 384x288 core hand scanner to be happy.
+.
+ 
+ 
+Reactions:
+SuperDave17
+S
+SuperDave17
+Private
+Minuteman
+Feb 28, 2024
+29
+10
+Valparaiso,IN
+Mar 18, 2024
+#3
+softcock said:
+Both are 256x192 core processor and a very small Obj. Go with the one with better battery and warranty.
+
+There both pretty low entry level thermal scanners, they will scan your backyard, and see hot spots couple hundred yards. with any High humidity on a 256x192 core is a killer for good image.
+( my advise ) .. You should try to swing for a budget going to at least a 384x288 core hand scanner to be happy.
+.
+Click to expand...
+Thanks I think I’ll look for a 384 Or higher thermal mono thanks for the input appreciated!
+ 
+lastshot12
+Banhammer
+Banned !
+Minuteman
+Jul 5, 2018
+100
+37
+Mar 23, 2024
+#4
+SuperDave17 said:
+Thanks I think I’ll look for a 384 Or higher thermal mono thanks for the input appreciated!
+So what route did you go AGM looks Hard to beat for the money, they are about same spec on paper but the AGM weighs less you cant go wrong with either.
+ 
+Last edited: Mar 23, 2024
+S
+SuperDave17
+Private
+Minuteman
+Feb 28, 2024
+29
+10
+Valparaiso,IN
+Mar 23, 2024
+#5
+lastshot12 said:
+So what route did you go AGM looks Hard to beat for the money, they are about same spec on paper but the AGM weighs less you cant go wrong with either.
+I’m probably going to go with a clip on sidekick 640 etc type set up on a LPVO 1x8 ffp on an 18” .223. For 2-300yds max the gun likes the 69gr. better than 77gr. I’m doing the math if I spend 1100 to 1500 on a good monocle and then 5-600 on a NV set up on the gun i might as well go with something i can mount on my Wilcox L4 for scanning with my NV and double duty clip on for a rifle so I’m not dedicating to one rifle and still have my daylight scopes and can switch to different rifles I’m going to contact the guys At Strictly Offensive to get some guidance. I really appreciate this group and wish I would have joined sooner lol all though my wallet would have been thinner.
+ 
+jwhjwh54
+Private
+Full Member
+Minuteman
+Supporter
+Jun 13, 2017
+582
+311
+Atlanta, GA
+Mar 23, 2024
+#6
+as big of a FOV and as much resolution as you can afford. Small FOV is miserable
+ 
+S
+SuperDave17
+Private
+Minuteman
+Feb 28, 2024
+29
+10
+Valparaiso,IN
+Mar 23, 2024
+#7
+jwhjwh54 said:
+as big of a FOV and as much resolution as you can afford. Small FOV is miserable
+Looking at both of these one is 50mm and 25mm . They say the jockey 640 will work good on 1x6 and 5x don’t know about the TA 651
+ 
+Attachments
+IMG_3473.png
+779.6 KB · Views: 44
+IMG_3472.png
+1 MB · Views: 73
+S
+SuperDave17
+Private
+Minuteman
+Feb 28, 2024
+29
+10
+Valparaiso,IN
+Mar 23, 2024
+#8
+I went from spending 6-800$ on the thermal to 3k you guys are a bad influence lol
+ 
+YotaEer
+Montani Semper Liberi
+Supporter
+Full Member
+Minuteman
+Supporter
+Nov 3, 2019
+1,704
+626
+Pittsburgh
+Mar 24, 2024
+#9
+I’d highly recommend the AGM taipan 19-384 or 25-384. Both my grandpa and I have used one of these for a couple years now. Day or night. -20F to 95F and no issues. I don’t go on a hunt of any kind without it in my bino pack.
+ 
+ 
+Reactions:
+SuperDave17
+S
+st1650
+Private
+Full Member
+Minuteman
+Aug 13, 2009
+2,292
+2,454
+38
+Mar 24, 2024
+#10
+I have a hikvision 384 scanner that can be helmet mounted and that's what I used for a couple of years until I recently purchased a RH25. Works fine for animal detection to 500y past that, it's getting hard to tell but you'll still pick up heat signature.
+ 
+ 
+Reactions:
+SuperDave17
+S
+SuperDave17
+Private
+Minuteman
+Feb 28, 2024
+29
+10
+Valparaiso,IN
+Mar 25, 2024
+#11
+st1650 said:
+I have a hikvision 384 scanner that can be helmet mounted and that's what I used for a couple of years until I recently purchased a RH25. Works fine for animal detection to 500y past that, it's getting hard to tell but you'll still pick up heat signature.
+Appreciate the info on this!
+ 
+S
+SuperDave17
+Private
+Minuteman
+Feb 28, 2024
+29
+10
+Valparaiso,IN
+Mar 25, 2024
+#12
+YotaEer said:
+I’d highly recommend the AGM taipan 19-384 or 25-384. Both my grandpa and I have used one of these for a couple years now. Day or night. -20F to 95F and no issues. I don’t go on a hunt of any kind without it in my bino pack.
+Thanks for the info might just bite the bullet and go the 640 route
+ 
+ 
+Reactions:
+YotaEer
+You must log in or register to reply here.
+Similar threads
+	
+InfiRay Outdoor AFFO AP13 Thermal Monocular
+gr8fuldoug Dec 8, 2023 New Product Announcements
+4
+Jan 29, 2024
+I
+	
+Night Vision Thermal Options - Helmet, Clip-on, Scanner...?
+Ironman8 Dec 23, 2023 Observation & Sighting Devices
+33
+Apr 11, 2024
+R
+	
+New Thermal
+Redstache Dec 28, 2023 Observation & Sighting Devices
+24
+Feb 12, 2024
+	
+A little help with thermal optics please
+ut755ln Dec 14, 2024 Observation & Sighting Devices
+11
+Dec 18, 2024
+	
+All New Iray RH25 V2
+skinney_7 Oct 16, 2024 Commercial Sales
+13
+Thursday at 5:56 PM
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/iray-ap13-affo-or-agm-tm15-256-for-a-scanner.7211762/ 
+ ----- 

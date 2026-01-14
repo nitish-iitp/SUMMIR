@@ -1,0 +1,963 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+The Armory
+School me on titanium actions
+ 
+Thread starter
+Mr. Wolf  
+Start date
+Jun 6, 2024
+1
+	
+2
+Next
+Mr. Wolf
+Private
+Full Member
+Minuteman
+Feb 27, 2013
+566
+747
+Poor-tuguhl
+Jun 6, 2024
+#1
+Searched but couldn't find a good thread on titanium actions.
+Besides hunting applications and situations that call for lighter weight builds, are there any major advantages and disadvantages to Ti actions?
+
+Does accuracy suffer from either flex or loss of weight near center of mass? Are there barrel tenon or muzzle device issues due to the differences in metal mating surfaces? Etc?
+
+Inquiring minds want to know.
+Thanks in advance.
+ 
+Jefe's Dope
+Red Forman
+Full Member
+Minuteman
+ 
+ 
+Dec 20, 2017
+27,250
+284,033
+Jun 6, 2024
+#2
+IMO, unless you insist on building the lightest hunting rifle possible, they are not worth the extra expense. I'm not aware of any issues other than the higher cost. But if it floats your boat, then do it.
+ 
+ 
+Reactions:
+Taylorbok, R_A_W and wildcats
+O
+owtlaw
+Private
+Full Member
+Minuteman
+Feb 27, 2013
+242
+192
+Jun 6, 2024
+#3
+Several action manufacturers have tried making them and ceased due to the liability involved. Titanium does not handle impact well and it was found that there was not much safety factor in them.
+ 
+wildcats
+Sergeant
+Full Member
+Minuteman
+Mar 26, 2005
+1,611
+1,717
+63
+Honolulu,HI
+Jun 6, 2024
+#4
+IMO, You will be better off with an skeletonized stainless steel receiver and end up with the best of both worlds. a strong action and almost as light as a TI.
+ 
+ 
+Reactions:
+BenW and Huskydriver
+Aftermath
+RECOIL FETISHIST
+Full Member
+Minuteman
+May 14, 2013
+3,865
+5,931
+Yonder
+Jun 6, 2024
+#5
+Remington Model 40X match rifle.
+ www.m14forum.com
+Post #12
+
+
+You are being redirected...
+ 
+ 
+Reactions:
+R_A_W and carbonbased
+Supersubes
+Heathen
+Full Member
+Minuteman
+Supporter
+ 
+Sep 6, 2006
+9,104
+11,202
+Eastern Sierra
+Jun 6, 2024
+#6
+With the current crop of light steel actions that will get you within an ounce or two of a ti action, this choice is easy.
+ 
+ 
+Reactions:
+NewsShooter, camocorvette, R_A_W and 2 others
+Y
+Yondering
+Sergeant
+Full Member
+Minuteman
+Mar 16, 2017
+2,432
+2,009
+Skagit Valley, WA
+Jun 7, 2024
+#7
+owtlaw said:
+Several action manufacturers have tried making them and ceased due to the liability involved. Titanium does not handle impact well and it was found that there was not much safety factor in them.
+
+While several may have tried and ceased making them, I really doubt it's due to liability. Ability to handle impact is a function of the heat treatment of titanium, same as other metals, and safety factor is a function of how strong it is compared to the loads it has to handle. Both of those just come down to basic engineering design. I wouldn't be surprised if someone claimed that as the reasoning, but it's a lot more likely they actually quit due to manufacturing costs; Ti is a lot more expensive to work with.
+
+If Ti couldn't handle impact/shock loads, we wouldn't have all these options for suppressors made from it. Just sayin...
+ 
+ 
+Reactions:
+moosemeat, reelserious, brianf and 1 other person
+Charger442
+Sergeant
+Supporter
+Full Member
+Minuteman
+Supporter
+Nov 2, 2010
+5,117
+6,433
+South Texas
+Jun 7, 2024
+#8
+owtlaw said:
+Several action manufacturers have tried making them and ceased due to the liability involved. Titanium does not handle impact well and it was found that there was not much safety factor in them.
+
+Lone peak Fuzion Ti has entered the chat.
+ 
+ 
+Reactions:
+Aftermath, Secant, kthomas and 1 other person
+T
+tekmann2377
+Private
+Full Member
+Minuteman
+Nov 18, 2011
+180
+201
+40
+OH
+Jun 7, 2024
+#9
+Titanium can be difficult to machine, and is prone to galling with metal/metal contact without appropriate lubrication. Proper maintenance is more critical than a steel action.
+
+A friend of mine has a Pierce Ti action and likes it just fine. It is up to you if it is worth the cost. I have not personally analyzed the action strength associated with each action to comment on the associated safety factor.
+ 
+ 
+Reactions:
+Halfnutz, BenW, flogxal and 1 other person
+4O6shootist
+F. J. B.
+Supporter
+Full Member
+Minuteman
+Sep 5, 2021
+3,400
+2,774
+USA
+Jun 13, 2024
+#10
+Ti is stronger than steel comparing equal weights, however steel is stronger comparing equal volume. So a steel action is more rigid and holds psi better than titanium. Doesn't really matter much on 473 diameter cases, but once you step up to magnums and lapua bolt face. I've ran ti actions in 300 norma, 30 nosler, 7max, 65 suam, and now I've got them all in steel. I do have a 6 creed on a zermatt Ti3, and it performs at same level without psi signs as my steel short actions.
+
+Since you can now get the defiance anti, Pierce shadow, and pure skltn all steel actions near same weight and cheaper than ti, I'd go that route myself.
+ 
+ 
+Reactions:
+DeathBeforeDismount and Mr. Wolf
+Y
+Yondering
+Sergeant
+Full Member
+Minuteman
+Mar 16, 2017
+2,432
+2,009
+Skagit Valley, WA
+Jun 13, 2024
+#11
+4O6shootist said:
+Ti is stronger than steel comparing equal weights, however steel is stronger comparing equal volume. So a steel action is more rigid and holds psi better than titanium.
+
+That’s only true if you’re assuming they’re made to the same dimensions. Not really a good assumption, and no reason it has to be true.
+ 
+4O6shootist
+F. J. B.
+Supporter
+Full Member
+Minuteman
+Sep 5, 2021
+3,400
+2,774
+USA
+Jun 13, 2024
+#12
+Yondering said:
+That’s only true if you’re assuming they’re made to the same dimensions. Not really a good assumption, and no reason it has to be true.
+How many ti actions have you owned?
+ 
+F
+flogxal
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2024
+130
+116
+western montana
+Jun 13, 2024
+#13
+tekmann2377 said:
+Titanium can be difficult to machine, and is prone to galling with metal/metal contact without appropriate lubrication. Proper maintenance is more critical than a steel action.
+I went to a framebuilding school about 20 yrs back, we cut tubes on both vertical and horizontal mills. We focused on CrMo but the school also taught Ti classes. The instructor showed us tool dulling from various softness/hardness ratings of CrMo, and then brought out a Ti tube, the softest he had. Chucked it up and then rode the holesaw down gently, showing how it was basically bouncing vs cutting, as the tool's cutting teeth were hard enough for CrMo but nowhere near it for Ti -- soft Ti. We each got to feel the differences.
+
+Then he chucked in a Ti cutter head holesaw and let us see how that did on the Ti. And on the CrMo. You had to be gentler on the CrMo because of the hardness of the cutter heads.
+
+Instructor fielded Qs on working with Ti and he said basically -- "expensive, needs the sharpest cutting heads and they dull very quickly, relative to any cutters you'd use on steel. Not really worth the hassle as a machinist, unless your clients insist. Be sure to charge a premium."
+ 
+ 
+Reactions:
+Mr. Wolf, gigamortis and sgtsmmiii
+BCX
+Powder Consumer
+Supporter
+Full Member
+Minuteman
+Mar 18, 2018
+2,960
+1,874
+Eastern Tennessee
+Jun 13, 2024
+#14
+I have 2 LP Fusion TI, no issues. There is a shooter here that uses one for PRS, states he had multiple barrels on, 0 issues on the action!
+ 
+ 
+Reactions:
+kthomas
+kthomas
+Sergeant
+Full Member
+Minuteman
+Jun 17, 2009
+8,419
+11,750
+37
+Tucson, AZ
+Jun 13, 2024
+#15
+BCX said:
+I have 2 LP Fusion TI, no issues. There is a shooter here that uses one for PRS, states he had multiple barrels on, 0 issues on the action!
+
+Does the ti version feel a little bit more "sticky" then the steel one?
+
+My understanding is that ti actions feel a bit more sticky/grabby compared to steel actions.
+ 
+BCX
+Powder Consumer
+Supporter
+Full Member
+Minuteman
+Mar 18, 2018
+2,960
+1,874
+Eastern Tennessee
+Jun 13, 2024
+#16
+I don’t own a Fusion in steel, I will tell you my Fusion TI w elite cerakote on the body is way smoother and doesn’t bind like one of the big names I used in the past. You can PM me for details.
+ 
+C
+chevy_man
+Old Salt
+Full Member
+Minuteman
+Jan 25, 2019
+4,117
+4,557
+Jun 13, 2024
+#17
+Stainless is the safe bet. For the cost of a defiance anti that's where I start and end for a hunting action. The Falkor is also really close.
+
+
+If you ever screw up and gall the action threads it becomes much more expensive on the barrel change. Not worth 1 or 2 oz to me. I'll take the weight out of the stock and scope first.
+
+
+Now, to rant about the guys who build a carbon stocked titanium rifle and put a razor Gen II on it.... 
+ 
+BCX
+Powder Consumer
+Supporter
+Full Member
+Minuteman
+Mar 18, 2018
+2,960
+1,874
+Eastern Tennessee
+Jun 13, 2024
+#18
+I would rather lighten the action w titanium, use a CF barrel and use a heavier bullet proof scope… NF  I have seen CF stocks from the top maker get damaged and thin tubed scopes go down on a hunt from a tumble. Never seen an action or barrel get damaged to the point of not being able to use it on a hunt.
+ 
+ 
+Reactions:
+Mr. Wolf
+Secant
+2.71828
+Full Member
+Minuteman
+ 
+Aug 11, 2019
+1,295
+2,242
+Out West
+www.snipershide.com
+Jun 13, 2024
+#19
+kthomas said:
+Does the ti version feel a little bit more "sticky" then the steel one?
+
+My understanding is that ti actions feel a bit more sticky/grabby compared to steel actions.
+That’s seems to be something that’s regurgitated from Remingtons Ti actions they tried for gov contract.
+
+I’ve got a fully nitrided Lone Peak Arms Razor Ti and an SS razor. The Ti hangs in well with the SS, it’s not sticky or gummy at all, and it’s better than many other SS custom actions. I do have a well broken in Defiance, fully nitrided, that is noticeable smoother than that Ti action, but I think that speaks more to the goodness of that Defiance.
+ 
+ 
+Reactions:
+BCX and kthomas
+Secant
+2.71828
+Full Member
+Minuteman
+ 
+Aug 11, 2019
+1,295
+2,242
+Out West
+www.snipershide.com
+Jun 13, 2024
+#20
+BCX said:
+I would rather lighten the action w titanium, use a CF barrel and use a heavier bullet proof scope… NF 
+I think for weight savings, the parts order I look at nowadays is:
+
+Barrel
+Stock
+
+Action
+
+
+Bottom metal/mag
+Rings
+
+Trigger
+Action screws
+
+
+
+
+Scope
+ 
+ 
+Reactions:
+Mr. Wolf, kthomas and BCX
+BCX
+Powder Consumer
+Supporter
+Full Member
+Minuteman
+Mar 18, 2018
+2,960
+1,874
+Eastern Tennessee
+Jun 13, 2024
+#21
+I didn’t want to point out any manufacturers out but my 2 LP Fusion TI are way smoother than the 2 Defiances I owned and sold. Plus I get 0 binding w the LP Fusions. My full rail LP Fusion TI is smoother than my alpine cut but that may be due to the Elite Carakote on the body.
+ 
+ 
+Reactions:
+Sendero_Man and Secant
+Mr. Wolf
+Private
+Full Member
+Minuteman
+Feb 27, 2013
+566
+747
+Poor-tuguhl
+Jun 14, 2024
+#22
+Good to learn from first hand experiences. Thank you.
+Also good to know that there are steel actions that are nearing the weight of the Ti actions.
+
+I don't think I've heard the pros and cons of Ti vs Steel action on Frank's podcast, might be an interesting topic.
+
+Thank you and keep them coming.
+ 
+E. Bryant
+STABILITRAK ACTIVE
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Oct 25, 2010
+6,827
+9,927
+MI
+Jun 17, 2024
+#23
+Yondering said:
+That’s only true if you’re assuming they’re made to the same dimensions. Not really a good assumption, and no reason it has to be true.
+
+For actions based upon the standard R700 footprint, it's an assumption that holds up pretty well in practice since the basic allocation of cross-section was dictated long ago. There are other considerations that go beyond that of the material's modulus and yield, but there's only so much that a designer can do within the constraints of a drop-in replacement.
+
+FWIW, I own one rifle with a Ti action, and it's chambered in 6 ARC.
+ 
+ 
+Reactions:
+Yondering, Tokay444 and 308pirate
+E. Bryant
+STABILITRAK ACTIVE
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Oct 25, 2010
+6,827
+9,927
+MI
+Jun 17, 2024
+#24
+I knew that we'd hashed out this topic previously:
+
+
+Gunsmithing - Gunsmith opinion on Titanium vs Steel action
+...........However because Ti is so much stronger than steel for the same size ............ Are you sure that is correct?
+ www.snipershide.com
+
+Lots of good thoughts in that thread behind my simplistic ramblings.
+ 
+ 
+Reactions:
+Mr. Wolf
+Danrobberg
+Lance Criminal
+Supporter
+Full Member
+Minuteman
+May 31, 2017
+723
+482
+Jun 17, 2024
+#25
+I have a ti lone peak Fuzion and several steel fuzions. To me the ti feels smoother and it only has 100 rounds on it. My steel ones have thousands.
+ 
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,710
+39,335
+Jun 17, 2024
+#26
+4O6shootist said:
+How many ti actions have you owned?
+How many have you designed and engineered?
+
+Owning something doesn't mean shit in this context.
+ 
+ 
+Reactions:
+Aftermath and Tokay444
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,710
+39,335
+Jun 17, 2024
+#27
+4O6shootist said:
+I do have a 6 creed on a zermatt Ti3, and it performs at same level without psi signs as my steel short actions.
+LOL
+
+Associating the action's material with pressure "signs" on a cartridge is one of the dumbest things I've ever heard. The twi have fuck all to do with each other.
+ 
+ 
+Reactions:
+Aftermath
+4O6shootist
+F. J. B.
+Supporter
+Full Member
+Minuteman
+Sep 5, 2021
+3,400
+2,774
+USA
+Jun 17, 2024
+#28
+308pirate said:
+LOL
+
+Associating the action's material with pressure "signs" on a cartridge is one of the dumbest things I've ever heard. The twi have fuck all to do with each other.
+I associate the actions metallurgy with its strength in the ability to resist flex. Ive personally observed a barrel spun to a razor ti that had bolt lift with that load. Moved it to a steel ti, bolt lift was not there, easy smooth opening. I've also observed a razor ti that had the lugs set back near 002 after 900 rounds. You go buy all the titanium you want, I think they're niche and have one application, the superlight hunting rifle. A titanium action will not handle the same chamber pressures as a steel.
+ 
+BCX
+Powder Consumer
+Supporter
+Full Member
+Minuteman
+Mar 18, 2018
+2,960
+1,874
+Eastern Tennessee
+Jun 17, 2024
+#29
+For the record I had a Defiance Deviant made of SS w .750 bolt show signs of lug setback under 500 rounds while my Surgeon XL made of Cromoly take it like a champ in the same cartridge. 
+ 
+ 
+Reactions:
+Chappies
+BCX
+Powder Consumer
+Supporter
+Full Member
+Minuteman
+Mar 18, 2018
+2,960
+1,874
+Eastern Tennessee
+Jun 17, 2024
+#30
+Looks like Pierce is offering TI in their 10x line soon to make weight for high pressure ELR cartridges.
+ 
+E. Bryant
+STABILITRAK ACTIVE
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Oct 25, 2010
+6,827
+9,927
+MI
+Jun 17, 2024
+#31
+BCX said:
+For the record I had a Defiance Deviant made of SS w .750 bolt show signs of lug setback under 500 rounds while my Surgeon XL made of Cromoly take it like a champ in the same cartridge. 
+
+For the bolt to get larger while the action OD remains the same, the material needs to come from somewhere, and it's the lugs. This is why I'm not a big fan of simply making the bolt bigger in a R700 footprint.
+
+Surgeon did things correctly with the XL.
+ 
+ 
+Reactions:
+kthomas and BCX
+E. Bryant
+STABILITRAK ACTIVE
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Oct 25, 2010
+6,827
+9,927
+MI
+Jun 17, 2024
+#32
+FWIW, building a Ti action with some sort of breech ring or lock ring (as used in the GAP Tempest and by AI) would likely provide satisfactory performance if combined with a cartridge that provides modest bolt thrust. I'd feel better about this approach than I would want to rely on fancy PVD coatings to prevent lug galling.
+ 
+BCX
+Powder Consumer
+Supporter
+Full Member
+Minuteman
+Mar 18, 2018
+2,960
+1,874
+Eastern Tennessee
+Jun 17, 2024
+#33
+Lug galling happens w stainless actions also. I’m happy w my LP Fusion TI actions and will run them into the grave. No early pressure signs or no bolt coming open. That full rail build I have shoots .25 inch not .25 moa groups at 200 yards. That tells me I’m not getting any crazy action flex! The 10oz I saved was worth it. You as the consumer need to decide if the extra cost is worth the weight savings.
+ 
+ 
+Reactions:
+Aftermath, Chappies and 308pirate
+R
+RTH1800
+Supporter
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Sep 16, 2009
+10,474
+7,007
+Midwest
+Jun 17, 2024
+#34
+I have owned several Ti actions and presently own 4. I really like them for light weight. I have two LPA with integral bases, a Ti Xtreem (?spelling) 700 foot print long action and a Mauser that is titanium in every part, spring, screw etc. All have been issue free, accurate and a couple have a lot of use and rounds. I would never hesitate to use one where weight is a consideration.
+ 
+ 
+Reactions:
+BCX
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,710
+39,335
+Jun 17, 2024
+#35
+4O6shootist said:
+I associate the actions metallurgy with its strength in the ability to resist flex. Ive personally observed a barrel spun to a razor ti that had bolt lift with that load. Moved it to a steel ti, bolt lift was not there, easy smooth opening. I've also observed a razor ti that had the lugs set back near 002 after 900 rounds. You go buy all the titanium you want, I think they're niche and have one application, the superlight hunting rifle. A titanium action will not handle the same chamber pressures as a steel.
+Click to expand...
+I don't give a shit about your layman's observations. You're assigning cause and effect with no actual knowledge of WTF is going on.
+ 
+ 
+Reactions:
+Aftermath, Chappies and BCX
+M
+Moose
+Sergeant
+Full Member
+Minuteman
+Jul 3, 2005
+2,343
+1,155
+NJ
+Jun 17, 2024
+#36
+I have the LP Ti Fussion on a 223ai and love the set up.Very smooth no binding.
+ 
+ 
+Reactions:
+BCX and RTH1800
+Tokay444
+Black Rifles Matter.
+Full Member
+Minuteman
+ 
+ 
+Jun 24, 2019
+5,105
+6,958
+Jun 17, 2024
+#37
+An aluminum action can be made lighter, and retain a much better feel than any titanium action. There really are only disadvantages.
+ 
+Tokay444
+Black Rifles Matter.
+Full Member
+Minuteman
+ 
+ 
+Jun 24, 2019
+5,105
+6,958
+Jun 17, 2024
+#38
+How much impact is a suppressor supposed to be subjected to?
+ 
+Long Range 338
+Professional Ammo Waster
+Supporter
+Full Member
+Minuteman
+ 
+Jul 10, 2012
+2,980
+3,448
+Out West
+Jun 17, 2024
+#39
+The new lightweight action from Mack Bros would be my go to option over any titanium actions at this point. There are some other skeletonized options as well.
+ 
+BCX
+Powder Consumer
+Supporter
+Full Member
+Minuteman
+Mar 18, 2018
+2,960
+1,874
+Eastern Tennessee
+Jun 17, 2024
+#40
+These lightweight skeletonized actions scare me. Action flex? My guess is yes? Safety idk! I was just thinking the other night about proofing! How many custom actions go to a proof house for design?
+ 
+BCX
+Powder Consumer
+Supporter
+Full Member
+Minuteman
+Mar 18, 2018
+2,960
+1,874
+Eastern Tennessee
+Jun 17, 2024
+#41
+
+There is alot of titanium here vs the new Defiance TI X
+ 
+ 
+Reactions:
+Yondering
+Long Range 338
+Professional Ammo Waster
+Supporter
+Full Member
+Minuteman
+ 
+Jul 10, 2012
+2,980
+3,448
+Out West
+Jun 17, 2024
+#42
+BCX said:
+These lightweight skeletonized actions scare me. Action flex? My guess is yes? Safety idk! I was just thinking the other night about proofing! How many custom actions go to a proof house for design?
+Where exactly do you think the weight is being removed? Where on the action are you worried about flex? Seekins has been making an aluminum action with a steel insert for years now without any problems that I’ve heard of. I mean you need a certain amount of rigidity but we’re not talking about benchrest here, the OP was asking about pros/cons of titanium. For the price of a titanium action and difficulty in finding a smith that wants to work with one due to galling concerns, the skeletonized actions offer a great value. YMMV.
+ 
+Last edited: Jun 17, 2024
+BCX
+Powder Consumer
+Supporter
+Full Member
+Minuteman
+Mar 18, 2018
+2,960
+1,874
+Eastern Tennessee
+Jun 17, 2024
+#43
+TS Customs, Short Action Action Customs, Black Canyon Customs and I’m sure there’s more that will build your TI on non TI rifle. There’s enough TI actions in circulation to prove, if treated correctly galling is an internet myth. Feel free to post pictures.,,along w stainless steel actions galling.
+ 
+Supersubes
+Heathen
+Full Member
+Minuteman
+Supporter
+ 
+Sep 6, 2006
+9,104
+11,202
+Eastern Sierra
+Jun 17, 2024
+#44
+BCX said:
+These lightweight skeletonized actions scare me. Action flex? My guess is yes? Safety idk! I was just thinking the other night about proofing! How many custom actions go to a proof house for design?
+As @Long Range 338 alluded to, none of the weight savings comes from the front receiver ring, lug abutments, or bolt lugs. So from a kaboom standpoint, there’s no change from a standard action.
+
+My guess is all of the action manufacturers test their actions to destruction. Some more publicly than others. ARC is an example of one who’s a little more public about it.
+ 
+ 
+Reactions:
+308pirate and BCX
+carbonbased
+💥💥💥💥
+Full Member
+Minuteman
+Supporter
+Legend
+Jul 26, 2018
+6,170
+10,399
+Minnesota
+Jun 17, 2024
+#45
+Supersubes said:
+My guess is all of the action manufacturers test their actions to destruction. Some more publicly than others.
+I wonder if the proofing regulations are different re: USA vs. Europe?
+
+I seem to recall reading that the USA’s regs on this matter were more lax, but that is probably my hazy brain or some unsubstantiated forum post.
+ 
+Supersubes
+Heathen
+Full Member
+Minuteman
+Supporter
+ 
+Sep 6, 2006
+9,104
+11,202
+Eastern Sierra
+Jun 17, 2024
+#46
+carbonbased said:
+I wonder if the proofing regulations are different re: USA vs. Europe?
+
+I seem to recall reading that the USA’s regs on this matter were more lax, but that is probably my hazy brain or some unsubstantiated forum post.
+Its been a while but from memory C.I.P. is much more stringent. In the US, guns are required to be “tested”, but there aren’t any govt run proof houses as there are in europe. I may be wrong.
+ 
+Last edited: Jun 17, 2024
+ 
+Reactions:
+LeftyJason and E. Bryant
+turbobrick
+Private
+Minuteman
+Jan 22, 2021
+92
+213
+Carson City, NV USA
+Jun 17, 2024
+#47
+I had a super light hunting rifle built on a Pierce Ti, and it was an awesome gun, I deeply regret selling it. I had another light rifle built on a Defiance AnTi that is every bit as light (within a few ounces) for way less money. No matter what I did, the Pierce was never what I would consider smooth. It was solid and positive in every way, just never had that butter smooth action, the Defiance absolutely has that great feel. I probably would not go down the Ti route again, the extra cost wasn't worth the little bit of weight.
+ 
+ 
+Reactions:
+Long Range 338
+jbuck88
+Full Member
+Full Member
+Minuteman
+Oct 25, 2010
+3,028
+3,669
+42
+Port Angeles, WA
+Jun 19, 2024
+#48
+I haven't played with many Ti actions. I will say the uncoated ones I've played with were horrible feeling. Felt like sand and grit in the action. However the LP was every bit as smooth as anything else I've played with. LP would be on my short list of Ti actions.
+ 
+V
+valhal25
+Private
+Minuteman
+Feb 10, 2024
+4
+4
+NY, USA
+Jun 19, 2024
+#49
+Titanium is fine if it has been made correctly. Actually better than fine, it is a superior option in just about every way but price. Lone Peak has a good one
+ 
+ 
+Reactions:
+Yondering, BCX, 308pirate and 1 other person
+E. Bryant
+STABILITRAK ACTIVE
+Supporter
+Full Member
+Minuteman
+ 
+ 
+Oct 25, 2010
+6,827
+9,927
+MI
+Jun 19, 2024
+#50
+valhal25 said:
+Titanium is fine if it has been made correctly. Actually better than fine, it is a superior option in just about every way but price. Lone Peak has a good one
+
+Material characteristics strongly disagree with your assessment, which is why titanium is so rarely used in firearms of any type regardless of application or budget. The fact of the matter is that steel is usually the best choice even when cost is not the primary concern. If you want a lighter product, use a higher-grade steel and less of it; there are much better choices than what Remington has used, and cross-sections could be reduced accordingly.
+
+Given that the majority of raw titanium product comes from China, your "if it has been made correctly" caveat is doing some heavy lifting. This is an extraordinarily difficult material to process at every step, and the consequences of errors are generally higher than with other materials.
+ 
+ 
+Reactions:
+308pirate
+1
+	
+2
+Next
+You must log in or register to reply here.
+Similar threads
+	
+MARS-Lc Review & Order Link
+SkyScrapin Dec 29, 2022 Observation & Sighting Devices
+190
+Nov 13, 2024
+	
+New Products Intel from Camera Land
+gr8fuldoug Sep 18, 2023 New Product Announcements
+3
+Aug 30, 2024
+A
+	
+Suppressors Form 1, 14.5" barrel and multi-gun conundrum
+Ape_Factory Jun 30, 2020 The Armory
+7
+Jul 1, 2020
+E
+	
+2022 SHOT Show: Day 1 (Tuesday, Jan 18, 2022)
+ELR researcher Jan 19, 2022 ELR - Beyond 1000 Yards
+7
+Jan 20, 2022
+	
+Rifle Scopes Steiner T6Xi 3-18x56 Review and comparison with NF ATACR 4-16x42, S&B US 3-20x50 and March 4.5-28x52
+Glassaholic Mar 3, 2024 Observation & Sighting Devices
+129
+Oct 5, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+The Armory
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/school-me-on-titanium-actions.7220953/ 
+ ----- 

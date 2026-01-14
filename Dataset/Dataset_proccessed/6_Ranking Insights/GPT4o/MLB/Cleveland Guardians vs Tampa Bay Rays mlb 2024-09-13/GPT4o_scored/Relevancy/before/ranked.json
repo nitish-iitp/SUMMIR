@@ -1,0 +1,24 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "The Cleveland Guardians will face the Tampa Bay Rays on September 13, 2024, in an epic MLB showdown.",
+            "score": 9
+        },
+        {
+            "sentence": "Looking forward to see if the Guardians can pull off a surprise victory in the late innings!",
+            "score": 8
+        },
+        {
+            "sentence": "I can't believe they are charging so much for tickets to the Guardians vs Rays game!",
+            "score": 8
+        },
+        {
+            "sentence": "Baseball fans are eagerly anticipating the matchup as both teams are strong contenders.",
+            "score": 7
+        },
+        {
+            "sentence": "The weather last night was lovely.",
+            "score": 1
+        }
+    ]
+}

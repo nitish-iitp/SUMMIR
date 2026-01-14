@@ -1,0 +1,326 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Twins
+80-71, 38-38 Away
+4
+Final
+Guardians
+87-65, 46-28 Home
+1
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+MIN
+
+
+CLE
+1	2	3	4	5	6	7	8	9	R	H	E
+0	0	1	0	1	0	0	2	0	4	8	0
+0	0	0	1	0	0	0	0	0	1	8	0
+WIN
+C. Sands
+9-1
+1.0 IP, 0 H, 0 ER, 1 K, 0 BB
+LOSS
+G. Williams
+3-10
+5.0 IP, 5 H, 2 ER, 7 K, 2 BB
+SAVE
+G. Jax
+9
+0.2 IP, 1 H, 0 ER, 1 K, 0 BB
+MIN
+Overview
+CLE
+Twins Hitting
+HITTERS
+
+B. Buxton
+CF
+
+
+M. Wallner
+RF
+
+
+a
+M. Margot
+PH-RF
+
+
+C. Santana
+1B
+
+
+R. Lewis
+3B
+
+
+T. Larnach
+DH
+
+
+W. Castro
+LF
+
+
+R. Jeffers
+C
+
+
+B. Lee
+SS
+
+
+E. Julien
+2B
+
+
+K. Farmer
+2B
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+3	1	1	0	0	2	.277
+3	0	2	2	0	0	.250
+2	0	0	0	0	0	.244
+4	0	1	0	0	0	.243
+4	0	0	0	0	0	.246
+3	1	1	0	0	1	.253
+4	1	2	2	1	0	.250
+4	1	1	0	0	0	.231
+4	0	0	0	0	0	.223
+3	0	0	0	0	0	.208
+0	0	0	0	0	1	.225
+34	4	8	4	1	4	
+a-grounded to second for Wallner in the 7th
+BATTING
+2BBuxton (24, Williams)
+HRCastro (12, 8th inning off Sandlin 1 on, 2 Out)
+RBICastro 2 (57), Wallner 2 (36)
+2Out RBICastro 2, Wallner 2
+GIDPMargot
+Team LOB7
+Team RISP2-8 (Santana 0-1, Buxton 0-1, Margot 0-1, Lewis 0-1, Jeffers 0-1, Wallner 2-2, Lee 0-1)
+BASERUNNING
+SBCastro (14, 2nd base off Morgan/Bo Naylor)
+FIELDING
+DP1 (Julien-Lee-Santana)
+Guardians Hitting
+HITTERS
+
+A. Martinez
+LF
+
+
+A. Gimenez
+2B
+
+
+J. Ramirez
+3B
+
+
+J. Naylor
+1B
+
+
+L. Thomas
+CF
+
+
+K. Manzardo
+DH
+
+
+M. Straw
+PR-DH
+
+
+a
+D. Fry
+PH
+
+
+W. Brennan
+RF
+
+
+Bo Naylor
+C
+
+
+B. Rocchio
+SS
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	0	2	0	0	0	.266
+4	0	0	0	0	0	.250
+4	0	1	0	0	0	.273
+4	0	0	0	0	0	.243
+3	1	1	1	1	1	.220
+2	0	1	0	0	1	.233
+0	0	0	0	0	0	.000
+1	0	0	0	0	0	.261
+4	0	2	0	0	0	.253
+4	0	1	0	0	0	.204
+3	0	0	0	0	0	.208
+33	1	8	1	1	2	
+a-struck out swinging for Straw in the 9th
+BATTING
+2BRamírez (35, Duran)
+HRThomas (13, 4th inning off Matthews 0 on, 1 Out)
+RBIThomas (59)
+GIDPRocchio
+Team LOB7
+Team RISP1-6 (Ramírez 0-1, J. Naylor 0-1, Bo Naylor 0-2, Fry 0-1, Brennan 1-1)
+BASERUNNING
+Picked OffStraw (1st base, Henriquez)
+FIELDING
+DP1 (Giménez-J. Naylor)
+PBBo Naylor
+Twins Pitching
+PITCHERS
+
+Z. Matthews
+
+
+C. Irvin
+
+
+C. Sands
+(W, 9-1)
+
+
+R. Henriquez
+(H, 2)
+
+
+J. Duran
+(H, 7)
+
+
+G. Jax
+(S, 9)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+4.2	5	1	5	76-47	6.30
+0.1	0	0	0	3-3	4.85
+1.0	0	0	1	14-9	2.82
+1.0	1	0	0	10-7	2.45
+1.1	1	0	2	30-20	3.99
+0.2	1	0	1	8-6	2.16
+9.0	8	1	9	141-92	
+PITCHING
+First-pitch strikes/Batters FacedIrvin 1/1; Duran 3/6; Jax 2/3; Sands 3/3; Matthews 12/19; Henriquez 2/3
+Called strikes-Swinging strikes-Foul balls-In play strikesIrvin-1-1-0-1; Duran-7-4-6-3; Jax-0-4-0-2; Sands-4-1-2-2; Matthews-10-8-16-13; Henriquez-3-1-0-3
+Ground Balls-Fly BallsIrvin 1-0; Duran 2-0; Jax 1-0; Sands 1-1; Matthews 5-3; Henriquez 1-1
+Game ScoresZ Matthews 54
+Guardians Pitching
+PITCHERS
+
+G. Williams
+(L, 3-10)
+
+
+E. Morgan
+
+
+T. Herrin
+
+
+N. Sandlin
+
+
+A. Walters
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+5.0	5	2	7	89-57	5.12
+1.1	1	0	1	14-10	1.69
+0.2	0	0	0	4-4	1.94
+1.0	2	2	1	14-12	3.98
+1.0	0	0	1	20-12	0.00
+9.0	8	4	10	141-95	
+PITCHING
+First-pitch strikes/Batters FacedMorgan 5/6; Sandlin 3/5; Herrin 1/1; Williams 17/22; Walters 2/4
+Called strikes-Swinging strikes-Foul balls-In play strikesMorgan-3-2-1-4; Sandlin-2-3-3-4; Herrin-1-1-1-1; Williams-13-16-15-13; Walters-1-2-7-2
+Ground Balls-Fly BallsMorgan 2-1; Sandlin 1-1; Herrin 1-0; Williams 5-3; Walters 0-2
+Game ScoresG Williams 54
+Scoring Summary
+INNING
+	MIN	CLE
+		3rd	Wallner singled to right, Jeffers scored, Wallner to second, Buxton to third.	1	0
+		4th	Thomas homered to center (424 feet).	1	1
+		5th	Wallner singled to right, Buxton scored.	2	1
+		8th	Castro homered to right (371 feet), Larnach scored.	4	1
+Full Play-By-Play
+Game Information
+Progressive Field
+10:40 PM, September 17, 2024
+Cleveland, Ohio
+Line: CLE -145
+Over/Under: 8.5
+Attendance: 17,391
+Game Time:
+2:37
+Umpires:
+Home Plate Umpire - Junior Valentine
+First Base Umpire - Chad Fairchild
+Second Base Umpire - Ryan Wills
+Third Base Umpire - Carlos Torres
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570731 
+ ----- 

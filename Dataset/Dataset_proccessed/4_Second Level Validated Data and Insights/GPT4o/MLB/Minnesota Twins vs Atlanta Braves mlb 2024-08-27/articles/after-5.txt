@@ -1,0 +1,315 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Braves
+72-60, 36-32 Away
+8
+Final/10
+Twins
+72-60, 37-28 Home
+6
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Braves score 4 times in 10th to beat Twins 8-6
+— Matt Olson drove in the go-ahead run on a fielder’s choice, Travis d’Arnaud added an RBI single and Ramón Laureano put the game away with a two-run double as the Atlanta Braves scored four times in the 10th inning to beat the Minnesota Twins 8-6 on...
+Aug 28, 2024, 04:05 am - AP
+
+
+ATL
+
+
+MIN
+1\t2\t3\t4\t5\t6\t7\t8\t9\t10\tR\tH\tE
+0\t2\t0\t0\t2\t0\t0\t0\t0\t4\t8\t11\t0
+0\t0\t0\t0\t0\t0\t3\t1\t0\t2\t6\t14\t0
+WIN
+R. Iglesias
+4-1
+1.1 IP, 1 H, 0 ER, 2 K, 0 BB
+LOSS
+J. Duran
+6-8
+0.1 IP, 4 H, 3 ER, 1 K, 0 BB
+Scoring Summary
+INNING
+\tATL\tMIN
+\t\t2nd\tHarris II homered to right (424 feet), Olson scored.\t2\t0
+\t\t5th\tOzuna singled to left, Arcia scored and Laureano scored, Soler to second.\t4\t0
+\t\t7th\tLarnach doubled to left, Castro scored.\t4\t1
+\t\t7th\tWallner singled to right, Larnach scored.\t4\t2
+\t\t7th\tJulien doubled to right, Wallner scored.\t4\t3
+\t\t8th\tLarnach singled to center, Castro scored.\t4\t4
+\t\t10th\tOlson grounded into fielder's choice to second, Kelenic scored.\t5\t4
+\t\t10th\td'Arnaud singled to center, Williams scored, Olson to second.\t6\t4
+\t\t10th\tLaureano doubled to center, d'Arnaud scored and Olson scored.\t8\t4
+\t\t10th\tMiranda singled to left, Kepler scored.\t8\t5
+\t\t10th\tLarnach singled to right, Miranda scored, Castro to third.\t8\t6
+Full Play-By-Play
+Braves
+Twins
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+W. Merrifield
+2B
+\t0-6\t0\t0\t0\t.291
+
+J. Soler
+RF
+\t0-2\t0\t0\t0\t.207
+
+J. Kelenic
+PR-LF
+\t0-1\t1\t0\t0\t.232
+
+M. Ozuna
+DH
+\t2-4\t0\t0\t2\t.308
+
+L. Williams
+PR-DH
+\t0-0\t1\t0\t0\t.118
+
+M. Olson
+1B
+\t2-5\t2\t0\t1\t.231
+
+T. d'Arnaud
+C
+\t1-5\t1\t0\t1\t.251
+
+M. Harris II
+CF
+\t2-5\t1\t1\t2\t.248
+
+R. Laureano
+LF-RF
+\t3-5\t1\t0\t2\t.301
+
+G. Urshela
+3B
+\t1-5\t0\t0\t0\t.290
+
+O. Arcia
+SS
+\t0-3\t1\t0\t0\t.224
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+S. Schwellenbach
+\t4.2\t5\t0\t3\t8\t106-67\t3.72
+
+D. Lee
+\t0.1\t0\t0\t0\t1\t3-3\t1.94
+
+J. Chavez
+\t1.0\t3\t3\t1\t0\t25-14\t3.40
+
+J. Jimenez
+\t1.2\t2\t1\t0\t2\t23-17\t2.89
+
+R. Iglesias
+\t1.1\t1\t0\t0\t2\t19-14\t1.36
+
+P. Johnson
+\t1.0\t3\t1\t0\t1\t20-14\t3.47
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+W. Castro
+SS
+\t3-5\t2\t0\t0\t.255
+
+T. Larnach
+LF
+\t3-6\t1\t0\t3\t.260
+
+M. Margot
+PR
+\t0-0\t0\t0\t0\t.248
+
+M. Wallner
+DH
+\t2-5\t1\t0\t1\t.276
+
+E. Julien
+2B
+\t1-4\t0\t0\t1\t.218
+
+R. Lewis
+3B
+\t0-5\t0\t0\t0\t.258
+
+M. Kepler
+RF
+\t1-5\t1\t0\t0\t.258
+
+C. Santana
+1B
+\t2-4\t0\t0\t0\t.240
+
+R. Jeffers
+C
+\t1-5\t0\t0\t0\t.234
+
+A. Martin
+CF
+\t0-4\t0\t0\t0\t.252
+
+J. Miranda
+PH
+\t1-1\t1\t0\t1\t.299
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+S. Woods Richardson
+\t4.2\t3\t4\t3\t3\t91-55\t3.85
+
+J. Alcala
+\t0.1\t1\t0\t0\t1\t8-6\t3.19
+
+C. Boushley
+\t2.0\t3\t0\t1\t0\t32-20\t4.50
+
+C. Sands
+\t1.0\t0\t0\t0\t0\t6-4\t3.02
+
+G. Jax
+\t1.0\t0\t0\t0\t1\t10-7\t1.70
+
+J. Duran
+\t0.1\t4\t3\t0\t1\t19-15\t3.77
+
+C. Thielbar
+\t0.2\t0\t0\t1\t0\t8-4\t5.45
+Full Box Score
+Win Probability
+100
+%
+2nd
+4th
+6th
+8th
+10th
+100
+50
+100
+BRAVES
+TWINS
+ATL 100
+%
+ATL 8MIN 6
+
+Bottom 10th
+Wallner struck out swinging.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+ATL
+MIN
+Hits
+11
+14
+Home Runs
+1
+0
+Total Bases
+17
+20
+Runners LOB
+9
+13
+Full Team Stats
+Regular Season Series
+Current Series
+ATL wins 3-0
+Braves
+10
+Twins
+6
+Game 1
+8/26
+Final
+Braves
+8
+Twins
+6
+Game 2
+8/27
+Final/10
+Braves
+5
+Twins
+1
+Game 3
+8/28
+Final
+Game Information
+Target Field
+11:40 PM, August 27, 2024
+Minneapolis, Minnesota
+Line: MIN -110
+Over/Under: 8.5
+Attendance: 20,200
+Game Time:
+3:18
+Umpires:
+Home Plate Umpire - Clint Vondrak
+First Base Umpire - Jeremie Rehak
+Second Base Umpire - Bruce Dreckman
+Third Base Umpire - Mark Wegner
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570445/braves-twins 
+ ----- 

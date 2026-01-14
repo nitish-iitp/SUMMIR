@@ -1,0 +1,289 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Blue Jays
+73-80, 35-43 Away
+4
+Final
+Rangers
+73-80, 43-35 Home
+0
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Videos
+
+
+TOR
+
+
+TEX
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+0\t1\t1\t0\t0\t0\t1\t0\t1\t4\t7\t0
+0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t2\t1
+WIN
+K. Gausman
+13-11
+5.0 IP, 0 H, 0 ER, 6 K, 1 BB
+LOSS
+K. Rocker
+0-1
+3.0 IP, 2 H, 1 ER, 5 K, 4 BB
+TOR
+Overview
+TEX
+Blue Jays Hitting
+HITTERS
+
+N. Lukes
+RF
+
+
+E. Clement
+SS
+
+
+V. Guerrero Jr.
+DH
+
+
+S. Horwitz
+1B
+
+
+D. Schneider
+LF
+
+
+A. Barger
+3B
+
+
+L. Jimenez
+2B
+
+
+J. Loperfido
+CF
+
+
+T. Heineman
+C
+
+TEAM
+AB\tR\tH\tRBI\tHR\tBB\tAVG
+4\t0\t0\t1\t0\t0\t.327
+5\t0\t1\t0\t0\t0\t.261
+4\t3\t3\t2\t2\t1\t.322
+4\t0\t2\t0\t0\t1\t.275
+4\t0\t1\t0\t0\t0\t.202
+3\t1\t0\t0\t0\t1\t.210
+3\t0\t0\t0\t0\t0\t.220
+3\t0\t0\t0\t0\t1\t.212
+2\t0\t0\t0\t0\t2\t.000
+32\t4\t7\t3\t2\t6\t
+BATTING
+HRGuerrero Jr. 2 (30, 7th inning off Festa 0 on, 0 Out, 9th inning off Garabito 0 on, 2 Out)
+RBIGuerrero Jr. 2 (99), Lukes (7)
+2Out RBIGuerrero Jr.
+SFLukes
+Team LOB9
+Team RISP0-10 (Clement 0-1, Jimenez 0-2, Loperfido 0-3, Schneider 0-2, Barger 0-2)
+BASERUNNING
+CSLoperfido (2, 2nd base by Chafin/Kelly)
+FIELDING
+AssistsLukes (Smith at 2nd base)
+Rangers Hitting
+HITTERS
+
+M. Semien
+2B
+
+
+J. Smith
+SS
+
+
+W. Langford
+LF
+
+
+A. Garcia
+RF
+
+
+N. Lowe
+1B
+
+
+L. Taveras
+CF
+
+
+E. Duran
+3B
+
+
+C. Kelly
+C
+
+
+J. Heim
+DH
+
+TEAM
+AB\tR\tH\tRBI\tHR\tBB\tAVG
+4\t0\t0\t0\t0\t0\t.234
+4\t0\t1\t0\t0\t0\t.260
+3\t0\t0\t0\t0\t0\t.253
+3\t0\t0\t0\t0\t0\t.217
+2\t0\t0\t0\t0\t1\t.264
+3\t0\t0\t0\t0\t0\t.228
+3\t0\t0\t0\t0\t0\t.242
+3\t0\t0\t0\t0\t0\t.241
+3\t0\t1\t0\t0\t0\t.215
+28\t0\t2\t0\t0\t1\t
+BATTING
+Team LOB2
+Team RISP0-1 (Smith 0-1)
+FIELDING
+EDuran (4, fielding)
+AssistsTaveras (Clement at Home)
+Blue Jays Pitching
+PITCHERS
+
+K. Gausman
+(W, 13-11)
+
+
+D. Tate
+(H, 3)
+
+
+G. Cabrera
+(H, 13)
+
+
+E. Swanson
+(H, 9)
+
+
+C. Green
+
+TEAM
+IP\tH\tER\tK\tPC-ST\tERA
+5.0\t0\t0\t6\t58-38\t3.91
+1.0\t0\t0\t2\t12-8\t4.46
+1.0\t1\t0\t1\t13-9\t3.05
+1.0\t0\t0\t0\t7-5\t5.45
+1.0\t1\t0\t1\t16-12\t3.35
+9.0\t2\t0\t10\t106-72\t
+PITCHING
+First-pitch strikes/Batters FacedGausman 9/16; Green 3/4; Tate 1/3; Swanson 2/3; Cabrera 2/3
+Called strikes-Swinging strikes-Foul balls-In play strikesGausman-12-7-10-9; Green-4-3-2-3; Tate-2-5-0-1; Swanson-2-0-0-3; Cabrera-1-2-4-2
+Ground Balls-Fly BallsGausman 4-5; Green 1-1; Tate 0-1; Swanson 3-0; Cabrera 0-1
+Game ScoresK Gausman 72
+Rangers Pitching
+PITCHERS
+
+K. Rocker
+(L, 0-1)
+
+
+W. Pennington
+
+
+M. Festa
+
+
+A. Chafin
+
+
+G. Garabito
+
+TEAM
+IP\tH\tER\tK\tPC-ST\tERA
+3.0\t2\t1\t5\t71-41\t2.57
+2.2\t3\t0\t3\t40-28\t1.56
+1.1\t1\t1\t2\t15-12\t7.00
+1.0\t0\t0\t2\t16-8\t3.42
+1.0\t1\t1\t0\t19-13\t4.88
+9.0\t7\t3\t12\t161-102\t
+PITCHING
+HBPJimenez (by Rocker)
+First-pitch strikes/Batters FacedChafin 2/3; Festa 3/5; Garabito 1/4; Rocker 12/17; Pennington 8/11
+Called strikes-Swinging strikes-Foul balls-In play strikesChafin-2-6-0-0; Festa-2-3-4-3; Garabito-3-2-4-4; Rocker-17-7-10-7; Pennington-9-5-7-7
+Ground Balls-Fly BallsFesta 0-2; Garabito 2-1; Rocker 2-3; Pennington 3-1
+Game ScoresK Rocker 50
+Scoring Summary
+INNING
+\tTOR\tTEX
+\t\t2nd\tLukes hit sacrifice fly to left, Barger scored.\t1\t0
+\t\t3rd\tGuerrero Jr. scored on error, Jimenez safe at first on fielding error by third baseman Duran, Jimenez safe at second on error, Horwitz safe at third on error.\t2\t0
+\t\t7th\tGuerrero Jr. homered to left (422 feet).\t3\t0
+\t\t9th\tGuerrero Jr. homered to center (441 feet).\t4\t0
+Full Play-By-Play
+Game Information
+Globe Life Field
+6:35 PM, September 19, 2024
+Arlington, Texas
+Line: TEX -135
+Over/Under: 7.5
+Attendance: 30,384
+Game Time:
+2:17
+Umpires:
+Home Plate Umpire - Mike Estabrook
+First Base Umpire - Erich Bacchus
+Second Base Umpire - Laz Diaz
+Third Base Umpire - Jacob Metz
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401570764 
+ ----- 

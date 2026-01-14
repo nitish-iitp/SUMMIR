@@ -1,0 +1,16 @@
+{
+    "ranked_sentences": [
+        {
+            "sentence": "New York Mets fans were extremely disappointed after the narrow defeat.",
+            "score": 9
+        },
+        {
+            "sentence": "Philadelphia Phillies took an early lead and never looked back.",
+            "score": 8
+        },
+        {
+            "sentence": "The game was overshadowed by sudden hail during the seventh inning.",
+            "score": 5
+        }
+    ]
+}

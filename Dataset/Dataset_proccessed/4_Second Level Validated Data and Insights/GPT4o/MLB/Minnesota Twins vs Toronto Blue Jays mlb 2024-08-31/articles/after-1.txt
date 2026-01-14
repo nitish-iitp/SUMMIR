@@ -1,0 +1,340 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Blue Jays
+67-71, 33-38 Away
+15
+Final
+Twins
+73-62, 38-30 Home
+0
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Daulton Varsho, Spencer Horwitz homer in 7-run 1st inning as Blue Jays rout Twins, 15-0
+— Toronto hit three two-run homers, including two in a seven-run first inning, and José Berríos tossed six shutout innings as the Blue Jays routed the Minnesota Twins 15-0 on Saturday night.
+Sep 1, 2024, 02:45 am - AP
+
+
+TOR
+
+
+MIN
+1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+7\t2\t2\t0\t0\t1\t0\t2\t1\t15\t23\t0
+0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t4\t0
+WIN
+J. Berrios
+14-9
+6.0 IP, 3 H, 0 ER, 5 K, 1 BB
+LOSS
+Z. Matthews
+1-2
+2.0 IP, 10 H, 9 ER, 5 K, 0 BB
+Scoring Summary
+INNING
+\tTOR\tMIN
+\t\t1st\tVarsho homered to center (419 feet), Springer scored.\t2\t0
+\t\t1st\tHorwitz homered to right (381 feet), Guerrero Jr. scored.\t4\t0
+\t\t1st\tLukes hit a ground rule double, Kirk scored, Wagner to third.\t5\t0
+\t\t1st\tJimenez singled to left, Wagner scored and Lukes scored.\t7\t0
+\t\t2nd\tBarger homered to right center (395 feet), Horwitz scored.\t9\t0
+\t\t3rd\tGuerrero Jr. singled to center, Jimenez scored, Varsho to third.\t10\t0
+\t\t3rd\tHorwitz singled to center, Varsho scored, Guerrero Jr. to second.\t11\t0
+\t\t6th\tWagner homered to right (419 feet).\t12\t0
+\t\t8th\tLukes tripled to center, Wagner scored.\t13\t0
+\t\t8th\tJimenez singled to center, Lukes scored.\t14\t0
+\t\t9th\tWagner doubled to right, Barger scored, Kirk to third.\t15\t0
+Full Play-By-Play
+Blue Jays
+Twins
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+G. Springer
+RF
+\t0-3\t1\t0\t0\t.216
+
+D. Schneider
+PH-LF
+\t0-2\t0\t0\t0\t.195
+
+D. Varsho
+CF
+\t2-4\t2\t1\t2\t.218
+
+J. Loperfido
+CF
+\t0-1\t0\t0\t0\t.205
+
+V. Guerrero Jr.
+1B
+\t3-5\t1\t0\t1\t.324
+
+E. Clement
+PR-2B
+\t0-1\t0\t0\t0\t.259
+
+S. Horwitz
+DH
+\t3-5\t2\t1\t3\t.264
+
+A. Barger
+3B
+\t2-6\t2\t1\t2\t.213
+
+A. Kirk
+C
+\t2-5\t1\t0\t0\t.241
+
+W. Wagner
+2B-1B
+\t5-6\t3\t1\t2\t.357
+
+N. Lukes
+LF-RF
+\t4-6\t2\t0\t2\t.556
+
+L. Jimenez
+SS
+\t2-4\t1\t0\t3\t.237
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+J. Berrios
+\t6.0\t3\t0\t1\t5\t63-43\t3.59
+
+T. Nance
+\t1.0\t0\t0\t0\t1\t7-6\t3.65
+
+E. Swanson
+\t1.0\t0\t0\t0\t1\t13-9\t6.28
+
+R. Burr
+\t1.0\t1\t0\t0\t1\t10-8\t4.50
+HITTERS\tH-AB\tR\tHR\tRBI\tAVG
+
+W. Castro
+SS
+\t1-2\t0\t0\t0\t.255
+
+J. Miranda
+SS
+\t0-1\t0\t0\t0\t.299
+
+T. Larnach
+DH
+\t0-3\t0\t0\t0\t.253
+
+K. Farmer
+P
+\t0-1\t0\t0\t0\t.190
+
+M. Wallner
+LF
+\t0-4\t0\t0\t0\t.267
+
+R. Lewis
+3B
+\t1-4\t0\t0\t0\t.258
+
+M. Kepler
+RF
+\t0-4\t0\t0\t0\t.255
+
+C. Santana
+1B
+\t0-3\t0\t0\t0\t.238
+
+E. Julien
+2B
+\t1-3\t0\t0\t0\t.217
+
+M. Margot
+CF
+\t0-2\t0\t0\t0\t.250
+
+A. Martin
+CF
+\t0-1\t0\t0\t0\t.246
+
+C. Vazquez
+C
+\t1-3\t0\t0\t0\t.229
+PITCHERS\tIP\tH\tER\tBB\tK\tPC-ST\tERA
+
+Z. Matthews
+\t2.0\t10\t9\t0\t5\t69-45\t7.41
+
+M. Tonkin
+\t1.0\t3\t2\t2\t0\t37-20\t3.90
+
+S. Blewett
+\t3.0\t4\t1\t1\t3\t54-36\t1.29
+
+C. Thielbar
+\t1.0\t1\t0\t0\t1\t19-14\t5.72
+
+K. Farmer
+\t2.0\t5\t3\t1\t0\t23-14\t13.50
+Full Box Score
+Betting Results
+
+Odds by
+
+Open
+ML
+Total
+RL
+Toronto Blue Jays (67-71, 33-38 Away)
+Jose Berrios (16-11, 3.60)
+o8.5
+-105
++120
+o8.5
+-135
++1.5
+-175
+Minnesota Twins (73-62, 38-30 Home)
+Zebby Matthews (1-4, 6.69)
+-160
+ML
+-145
+u8.5
++115
+-1.5
++145
+See All on ESPN BET
+Win Probability
+100
+%
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+100
+50
+100
+BLUE JAYS
+TWINS
+TOR 100
+%
+TOR 15MIN 0
+
+Bottom 9th
+Kepler lined out to center.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+TOR
+MIN
+Hits
+23
+4
+Home Runs
+4
+0
+Total Bases
+41
+5
+Runners LOB
+11
+5
+Full Team Stats
+Regular Season Series
+Current Series
+MIN wins 2-1
+Blue Jays
+0
+Twins
+2
+Game 1
+8/31
+Final
+Blue Jays
+15
+Twins
+0
+Game 2
+8/31
+Final
+Blue Jays
+3
+Twins
+4
+Game 3
+9/1
+Final
+Game Information
+Target Field
+11:10 PM, August 31, 2024
+Minneapolis, Minnesota
+Attendance: 30,517
+Game Time:
+2:30
+Umpires:
+Home Plate Umpire - Derek Thomas
+First Base Umpire - Nic Lentz
+Second Base Umpire - Will Little
+Third Base Umpire - Lance Barksdale
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401570514/blue-jays-twins 
+ ----- 

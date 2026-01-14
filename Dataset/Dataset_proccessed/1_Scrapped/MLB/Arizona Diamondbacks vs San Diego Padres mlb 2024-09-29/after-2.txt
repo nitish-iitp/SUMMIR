@@ -1,0 +1,621 @@
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2024 MLB Scores & Schedule
+Arizona Diamondbacks Schedule
+San Diego Padres Schedule
+San Diego Padres vs Arizona Diamondbacks Box Score: September 29, 2024
+MLB Scores — September 29, 2024
+TBR	1	Final
+BOS	3	
+PIT	4	Final
+NYY	6	
+STL	6	Final
+SFG	1	
+PHI	6	Final
+WSN	3	
+TEX	8	Final
+LAA	0	
+MIA	3	Final
+TOR	1	
+SDP	2	Final
+ARI	11	
+LAD	2	Final
+COL	1	
+CHW	9	Final
+DET	5	
+NYM	5	Final
+MIL	0	
+BAL	6	Final
+MIN	2	
+OAK	4	Final
+SEA	6	
+KCR	4	Final
+ATL	2	
+CIN	3	Final
+CHC	0	(10)
+MLB Scores & Standings on this Day
+San Diego Padres
+2
+93-69
+Prev Game
+ 
+Arizona Diamondbacks
+11
+89-73
+Prev Game
+Sunday, September 29, 2024
+Start Time: 12:10 p.m. Local
+Attendance: 38,892
+Venue: Chase Field
+Game Duration: 2:41
+Day Game, on artificial turf
+Logos via Sports Logos.net / About logos
+ 	 	1	2	3	4	5	6	7	8	9	R	H	E
+
+	San Diego Padres	0	1	0	0	0	1	0	0	0	2	4	0
+
+	Arizona Diamondbacks	0	0	0	6	1	1	1	2	X	11	16	0
+WP: Brandon Pfaadt (11-10) • LP: Martín Pérez (5-6) • SV: Ryne Nelson (1)
+San Diego Padres 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Luis Arráez 1B	3	1	1	0	0	1	3	.314	.346	.392	.739	9	7	-0.019	0.53	0.019	-0.038	-0.00%	0.03	0.5	5	0	2B
+   Donovan Solano 1B	1	0	0	0	0	1	1	.286	.343	.417	.760	6	4	0.000	0.02	0.000	0.000	0%	0.00	-0.1	1	0	
+Fernando Tatis Jr. DH	4	0	0	0	0	2	4	.276	.340	.492	.833	14	9	-0.040	0.38	0.000	-0.040	-0.00%	0.02	-1.0	0	0	
+Jake Cronenworth 2B	4	0	0	1	0	1	4	.241	.324	.390	.714	18	13	-0.037	0.41	0.000	-0.037	-0.00%	0.02	-0.4	5	2	
+David Peralta LF	4	0	0	0	0	3	4	.267	.335	.415	.750	16	11	-0.044	0.43	0.000	-0.044	-0.00%	0.02	-0.6	1	0	
+Jackson Merrill CF	2	0	1	0	1	0	3	.292	.326	.500	.826	11	5	0.033	0.43	0.039	-0.005	0.00%	0.02	0.1	5	0	
+Nick Ahmed SS	3	1	1	0	0	1	3	.229	.267	.295	.562	11	9	-0.048	0.74	0.006	-0.054	-0.00%	0.04	-0.3	1	5	
+Elias Díaz C	3	0	1	1	0	0	3	.265	.313	.382	.695	15	10	0.094	0.52	0.116	-0.022	0.00%	0.02	0.3	6	0	2B,GDP
+Tyler Wade 3B	3	0	0	0	0	0	3	.217	.285	.239	.524	11	8	-0.040	0.48	0.000	-0.040	-0.00%	0.03	-0.7	0	2	
+Brandon Lockridge RF	3	0	0	0	0	2	3	.167	.167	.417	.583	16	11	-0.027	0.36	0.000	-0.027	-0.00%	0.02	-0.5	0	0	
+																							
+Martín Pérez P																					0	1	
+   Matt Waldron P																					0	0	
+   Yuki Matsui P																					0	0	
+Team Totals	30	2	4	2	1	11	31	.133	.161	.200	.361	127	87	-0.128	0.46	0.180	-0.307	-0.00%	0.02	-2.6	24	10	
+2B: Elias Díaz (20, off Brandon Pfaadt); Luis Arráez (32, off Brandon Pfaadt).
+TB: Elias Díaz 2; Luis Arráez 2; Nick Ahmed; Jackson Merrill.
+GIDP: Elias Díaz (15).
+RBI: Elias Díaz (39); Jake Cronenworth (83).
+2-out RBI: Elias Díaz.
+Team LOB: 2.
+With RISP: 0 for 3.
+Fielding
+DP: 1. Tyler Wade-Jake Cronenworth-Luis Arráez.
+PB: Elias Díaz (1).
+Arizona Diamondbacks 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting	AB	R	H	RBI	BB	SO	PA	BA	OBP	SLG	OPS	Pit	Str	WPA	aLI	WPA+	WPA-	cWPA	acLI	RE24	PO	A	Details
+Ketel Marte 2B	5	1	2	2	0	0	5	.292	.372	.560	.932	23	17	0.072	0.64	0.118	-0.046	0.19%	2.86	1.1	2	3	HR
+   Kevin Newman 2B	0	0	0	0	0	0	0	.278	.311	.375	.686										0	0	
+Corbin Carroll RF	4	1	0	0	1	1	5	.231	.322	.428	.749	19	11	-0.071	0.52	0.004	-0.075	-0.19%	2.32	-1.0	0	0	SB
+Lourdes Gurriel Jr. LF	5	0	3	1	0	0	5	.279	.322	.435	.757	16	12	0.012	0.55	0.050	-0.037	0.03%	2.44	1.2	0	0	3B
+   Alek Thomas PR-CF	0	1	0	0	0	0	0	.189	.245	.358	.603			0.000	0.00	0.000	0.000	0%	0.00	0.1	0	0	
+Christian Walker 1B	3	1	1	0	0	0	5	.251	.335	.468	.803	15	11	-0.025	0.59	0.060	-0.085	-0.07%	2.61	-0.3	8	1	2B,2·HBP,GDP
+Randal Grichuk DH	5	3	2	2	0	0	5	.291	.348	.528	.875	16	11	0.034	0.53	0.068	-0.033	0.09%	2.37	1.3	0	0	HR
+Eugenio Suárez 3B	5	2	3	2	0	2	5	.256	.319	.469	.788	23	14	0.070	0.67	0.093	-0.023	0.19%	3.00	1.3	2	2	HR
+Jake McCarthy CF-LF	5	1	3	2	0	1	5	.285	.349	.400	.749	15	12	0.123	0.51	0.134	-0.012	0.33%	2.27	2.1	3	0	2B
+Gabriel Moreno C	3	1	1	1	1	1	4	.266	.353	.380	.734	19	12	0.166	0.75	0.169	-0.004	0.44%	3.35	1.2	11	0	2B
+Geraldo Perdomo SS	3	0	1	1	0	1	4	.273	.344	.374	.718	15	10	-0.008	0.72	0.015	-0.023	-0.02%	3.23	-0.2	0	3	SH
+																							
+Brandon Pfaadt P																					0	0	
+   Joe Mantiply P																					0	0	
+   Ryne Nelson P																					1	0	
+Team Totals	38	11	16	11	2	6	43	.421	.476	.789	1.266	161	110	0.373	0.58	0.711	-0.338	1.00%	2.61	6.9	27	9	
+2B: Christian Walker (26, off Martín Pérez); Gabriel Moreno (18, off Martín Pérez); Jake McCarthy (13, off Matt Waldron).
+3B: Lourdes Gurriel Jr. (2, off Matt Waldron).
+HR: Ketel Marte (36, off Martín Pérez, 4th inn, 1 on, 2 outs to Deep LF); Eugenio Suárez (30, off Matt Waldron, 7th inn, 0 on, 0 outs to Deep CF); Randal Grichuk (12, off Matt Waldron, 8th inn, 1 on, 2 outs to Deep CF-RF).
+SH: Geraldo Perdomo (7, off Martín Pérez).
+HBP: Christian Walker 2 (10, 2 by Matt Waldron).
+TB: Eugenio Suárez 6; Ketel Marte 5; Lourdes Gurriel Jr. 5; Randal Grichuk 5; Jake McCarthy 4; Christian Walker 2; Gabriel Moreno 2; Geraldo Perdomo.
+GIDP: Christian Walker (12).
+RBI: Randal Grichuk 2 (46); Jake McCarthy 2 (56); Ketel Marte 2 (95); Eugenio Suárez 2 (101); Gabriel Moreno (45); Geraldo Perdomo (37); Lourdes Gurriel Jr. (75).
+2-out RBI: Randal Grichuk 2; Ketel Marte 2; Jake McCarthy; Lourdes Gurriel Jr..
+Team LOB: 8.
+With RISP: 7 for 16.
+Fielding
+DP: 1. Geraldo Perdomo-Ketel Marte-Christian Walker.
+PB: Gabriel Moreno (3).
+Baserunning
+SB: Corbin Carroll (35, 2nd base off Matt Waldron/Elias Díaz).
+San Diego Padres 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Martín Pérez, L (5-6)	3.2	8	6	6	2	3	1	4.53	20	64	42	26	7	9	7	8	5	0	22			-0.352	1.26	-0.01%	0.07	-4.2
+Matt Waldron	4	8	5	4	0	3	2	4.91	22	94	66	44	7	15	7	10	5	0		1	0	-0.021	0.09	-0.00%	0.01	-3.0
+Yuki Matsui	0.1	0	0	0	0	0	0	3.73	1	3	2	1	1	0	0	1	0	0		1	0	0.000	0.00	0.00%	0.00	0.2
+Team Totals	8	16	11	10	2	6	3	11.25	43	161	110	71	15	24	14	19	10	0	22	2	0	-0.373	0.58	-0.01%	0.03	-6.9
+
+Arizona Diamondbacks 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching	IP	H	R	ER	BB	SO	HR	ERA	BF	Pit	Str	Ctct	StS	StL	GB	FB	LD	Unk	GSc	IR	IS	WPA	aLI	cWPA	acLI	RE24
+Brandon Pfaadt, W (11-10)	5.1	3	2	1	1	9	0	4.71	20	79	54	30	10	14	5	5	2	0	64			0.111	0.65	0.30%	2.91	1.4
+Joe Mantiply	0.2	0	0	0	0	1	0	3.92	2	11	7	4	3	0	1	0	0	0		1	1	0.004	0.28	0.01%	1.23	-0.3
+Ryne Nelson, S (1)	3	1	0	0	0	1	0	4.24	9	37	26	20	4	2	6	2	1	0		0	0	0.013	0.08	0.03%	0.37	1.5
+Team Totals	9	4	2	1	1	11	0	1.00	31	127	87	54	17	16	12	7	3	0	64	1	1	0.128	0.46	0.34%	2.04	2.6
+
+Balks: None.
+WP: Matt Waldron 2 (5).
+HBP: Matt Waldron 2 (11; Christian Walker, Christian Walker).
+IBB: None.
+Pickoffs: None.
+Other Info 
+Umpires: HP - Stu Scheurwater, 1B - Mark Carlson, 2B - Alex Tosi, 3B - Jordan Baker, LF - (none), RF - (none).
+Time of Game: 2:41.
+Attendance: 38,892.
+Start Time Weather: 78° F, Wind 0mph, In Dome.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Padres
+1	Luis Arráez	1B
+2	Fernando Tatis Jr.	DH
+3	Jake Cronenworth	2B
+4	David Peralta	LF
+5	Jackson Merrill	CF
+6	Nick Ahmed	SS
+7	Elias Díaz	C
+8	Tyler Wade	3B
+9	Brandon Lockridge	RF
+	Martín Pérez	P
+Diamondbacks
+1	Ketel Marte	2B
+2	Corbin Carroll	RF
+3	Lourdes Gurriel Jr.	LF
+4	Christian Walker	1B
+5	Randal Grichuk	DH
+6	Eugenio Suárez	3B
+7	Jake McCarthy	CF
+8	Gabriel Moreno	C
+9	Geraldo Perdomo	SS
+	Brandon Pfaadt	P
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - San Diego Padres vs. Arizona Diamondbacks, September 29
+2024
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+ARI
+50%
+SDP
+Inning	Win Pct
+1	0.5
+2	0.48
+3	0.46
+4	0.45
+5	0.42
+6	0.45
+7	0.41
+8	0.5
+9	0.48
+10	0.5
+11	0.47
+12	0.59
+13	0.56
+14	0.58
+15	0.6
+16	0.61
+17	0.59
+18	0.57
+19	0.56
+20	0.52
+21	0.54
+22	0.58
+23	0.62
+24	0.6
+25	0.58
+26	0.6
+27	0.57
+28	0.6
+29	0.55
+30	0.48
+31	0.4
+32	0.28
+33	0.15
+34	0.14
+35	0.06
+36	0.06
+37	0.06
+38	0.06
+39	0.05
+40	0.04
+41	0.04
+42	0.03
+43	0.04
+44	0.04
+45	0.04
+46	0.02
+47	0.03
+48	0.04
+49	0.03
+50	0.03
+51	0.03
+52	0.03
+53	0.02
+54	0.03
+55	0.03
+56	0.01
+57	0.01
+58	0.02
+59	0.01
+60	0.02
+61	0.01
+62	0
+63	0
+64	0
+65	0
+66	0
+67	0
+68	0
+69	0
+70	0
+71	0
+72	0
+73	0
+74	0
+75	0
+76	0
+77	0
+78	0
+79	0
+80	0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+b4	2-1	1	12-	3,(1-1) 	R	ARI	Gabriel Moreno	Martín Pérez	13%	85%	Double to LF (Line Drive to Deep LF-CF); E. Suárez Scores; J. McCarthy to 3B
+t2	0-0	2	1--	2,(0-1) 	R	SDP	Elias Díaz	Brandon Pfaadt	-12%	41%	Double to LF (Line Drive to Deep LF Line); N. Ahmed Scores
+b4	1-1	1	12-	3,(1-1) 	R	ARI	Jake McCarthy	Martín Pérez	12%	72%	Single to RF (Ground Ball thru 2B-1B); R. Grichuk Scores; E. Suárez to 2B
+b4	0-1	1	1-3	1,(0-0) 	R	ARI	Eugenio Suárez	Martín Pérez	9%	60%	Single to CF (Line Drive to Deep LF-CF); C. Walker Scores; R. Grichuk to 2B
+b1	0-0	1	12-	3,(0-2) 	OO	ARI	Christian Walker	Martín Pérez	-9%	50%	Ground Ball Double Play: 3B-2B-1B
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn	Score	Out	RoB	Pit(cnt)	R/O	@Bat	Batter	Pitcher	wWPA	wWE	Play Description
+Top of the 1st, Padres Batting, Tied 0-0, Diamondbacks' Brandon Pfaadt facing 1-2-3
+t1	0-0	0	---	5,(1-2) 	O	SDP	Luis Arráez	Brandon Pfaadt	2%	52%	Strikeout Swinging
+t1	0-0	1	---	5,(2-2) 	O	SDP	Fernando Tatis Jr.	Brandon Pfaadt	2%	54%	Strikeout Swinging
+t1	0-0	2	---	6,(1-2) 	O	SDP	Jake Cronenworth	Brandon Pfaadt	1%	55%	Flyball: 3B (Deep 3B)
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 0, Diamondbacks 0.
+Bottom of the 1st, Diamondbacks Batting, Tied 0-0, Padres' Martín Pérez facing 1-2-3
+b1	0-0	0	---	5,(2-2) 		ARI	Ketel Marte	Martín Pérez	3%	58%	Single to LF (Ground Ball thru SS-3B Hole)
+b1	0-0	0	1--	3,(0-2) 	O	ARI	Corbin Carroll	Martín Pérez	-3%	55%	Strikeout Swinging
+b1	0-0	1	1--	3,(1-1) 		ARI	Lourdes Gurriel Jr.	Martín Pérez	3%	59%	Single to CF (Line Drive); K. Marte to 2B
+b1	0-0	1	12-	3,(0-2) 	OO	ARI	Christian Walker	Martín Pérez	-9%	50%	Ground Ball Double Play: 3B-2B-1B
+									0 runs, 2 hits, 0 errors, 1 LOB. Padres 0, Diamondbacks 0.
+Top of the 2nd, Padres Batting, Tied 0-0, Diamondbacks' Brandon Pfaadt facing 4-5-6
+t2	0-0	0	---	4,(1-2) 	O	SDP	David Peralta	Brandon Pfaadt	2%	52%	Strikeout Swinging
+t2	0-0	1	---	1,(0-0) 		SDP	Jackson Merrill	Brandon Pfaadt	-3%	50%	Single to CF (Ground Ball thru SS-2B)
+t2	0-0	1	1--	3,(0-2) 	O	SDP	Nick Ahmed	Brandon Pfaadt	3%	53%	Groundout: 2B unassisted/Forceout at 2B; N. Ahmed to 1B
+t2	0-0	2	1--	2,(0-1) 	R	SDP	Elias Díaz	Brandon Pfaadt	-12%	41%	Double to LF (Line Drive to Deep LF Line); N. Ahmed Scores
+t2	1-0	2	-2-	4,(2-1) 	O	SDP	Tyler Wade	Brandon Pfaadt	3%	44%	Flyball: CF (Deep CF-RF)
+									1 run, 2 hits, 0 errors, 1 LOB. Padres 1, Diamondbacks 0.
+Bottom of the 2nd, Diamondbacks Batting, Behind 0-1, Padres' Martín Pérez facing 5-6-7
+b2	0-1	0	---	1,(0-0) 	O	ARI	Randal Grichuk	Martín Pérez	-3%	42%	Flyball: CF (Deep LF-CF)
+b2	0-1	1	---	6,(3-2) 	O	ARI	Eugenio Suárez	Martín Pérez	-2%	40%	Strikeout Looking
+b2	0-1	2	---	3,(0-2) 	O	ARI	Jake McCarthy	Martín Pérez	-1%	39%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Diamondbacks 0.
+Top of the 3rd, Padres Batting, Ahead 1-0, Diamondbacks' Brandon Pfaadt facing 9-1-2
+t3	1-0	0	---	5,(2-2) 	O	SDP	Brandon Lockridge	Brandon Pfaadt	2%	41%	Strikeout Looking
+t3	1-0	1	---	1,(0-0) 	O	SDP	Luis Arráez	Brandon Pfaadt	2%	43%	Flyball: CF (Deep CF)
+t3	1-0	2	---	4,(1-2) 	O	SDP	Fernando Tatis Jr.	Brandon Pfaadt	1%	44%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Diamondbacks 0.
+Bottom of the 3rd, Diamondbacks Batting, Behind 0-1, Padres' Martín Pérez facing 8-9-1
+b3	0-1	0	---	9,(3-2) 		ARI	Gabriel Moreno	Martín Pérez	4%	48%	Walk
+b3	0-1	0	1--	2,(0-1) 	O	ARI	Geraldo Perdomo	Martín Pérez	-2%	46%	Bunt Groundout: P-1B/Sacrifice; G. Moreno to 2B
+b3	0-1	1	-2-	6,(2-2) 	O	ARI	Ketel Marte	Martín Pérez	-4%	42%	Flyball: CF (Deep CF-RF)
+b3	0-1	2	-2-	3,(2-0) 	O	ARI	Corbin Carroll	Martín Pérez	-4%	38%	Groundout: SS-1B (SS-2B)
+									0 runs, 0 hits, 0 errors, 1 LOB. Padres 1, Diamondbacks 0.
+Top of the 4th, Padres Batting, Ahead 1-0, Diamondbacks' Brandon Pfaadt facing 3-4-5
+t4	1-0	0	---	4,(1-2) 	O	SDP	Jake Cronenworth	Brandon Pfaadt	2%	40%	Strikeout Swinging
+t4	1-0	1	---	5,(2-2) 	O	SDP	David Peralta	Brandon Pfaadt	2%	42%	Strikeout Swinging
+t4	1-0	2	---	6,(3-2) 		SDP	Jackson Merrill	Brandon Pfaadt	-1%	40%	Walk
+t4	1-0	2	1--	6,(2-2) 	O	SDP	Nick Ahmed	Brandon Pfaadt	2%	43%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 1 LOB. Padres 1, Diamondbacks 0.
+Bottom of the 4th, Diamondbacks Batting, Behind 0-1, Padres' Martín Pérez facing 3-4-5
+b4	0-1	0	---	3,(1-1) 	O	ARI	Lourdes Gurriel Jr.	Martín Pérez	-3%	40%	Lineout: CF (Deep CF)
+b4	0-1	1	---	1,(0-0) 		ARI	Christian Walker	Martín Pérez	5%	45%	Double to LF (Line Drive to Deep LF Line)
+b4	0-1	1	-2-	1,(0-0) 		ARI	Randal Grichuk	Martín Pérez	6%	52%	Single to LF (Ground Ball thru SS-3B Hole); C. Walker to 3B
+b4	0-1	1	1-3	1,(0-0) 	R	ARI	Eugenio Suárez	Martín Pérez	9%	60%	Single to CF (Line Drive to Deep LF-CF); C. Walker Scores; R. Grichuk to 2B
+b4	1-1	1	12-	3,(1-1) 	R	ARI	Jake McCarthy	Martín Pérez	12%	72%	Single to RF (Ground Ball thru 2B-1B); R. Grichuk Scores; E. Suárez to 2B
+b4	2-1	1	12-	3,(1-1) 	R	ARI	Gabriel Moreno	Martín Pérez	13%	85%	Double to LF (Line Drive to Deep LF-CF); E. Suárez Scores; J. McCarthy to 3B
+b4	3-1	1	-23	2,(1-0) 	RO	ARI	Geraldo Perdomo	Martín Pérez	1%	86%	Groundout: 2B-1B (Weak 2B-1B); J. McCarthy Scores; G. Moreno to 3B
+b4	4-1	2	--3	1,(0-0) 	RR	ARI	Ketel Marte	Martín Pérez	8%	94%	Home Run (Fly Ball to Deep LF); G. Moreno Scores
+b4	6-1	2	---	5,(3-1) 		ARI	Corbin Carroll	Martín Pérez	0%	94%	Walk
+									
+Matt Waldron replaces Martín Pérez pitching
+
+b4	6-1	2	1--	4,(0-2) 		ARI	Lourdes Gurriel Jr.	Matt Waldron	0%	94%	C. Carroll Steals 2B
+b4	6-1	2	-2-	5,(1-2) 	O	ARI	Lourdes Gurriel Jr.	Matt Waldron	-1%	94%	Groundout: SS-1B
+									6 runs, 6 hits, 0 errors, 1 LOB. Padres 1, Diamondbacks 6.
+Top of the 5th, Padres Batting, Behind 1-6, Diamondbacks' Brandon Pfaadt facing 7-8-9
+t5	1-6	0	---	7,(3-2) 	O	SDP	Elias Díaz	Brandon Pfaadt	1%	95%	Groundout: SS-1B
+t5	1-6	1	---	1,(0-0) 	O	SDP	Tyler Wade	Brandon Pfaadt	1%	96%	Groundout: 2B-1B (2B-1B)
+t5	1-6	2	---	3,(0-2) 	O	SDP	Brandon Lockridge	Brandon Pfaadt	0%	96%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 1, Diamondbacks 6.
+Bottom of the 5th, Diamondbacks Batting, Ahead 6-1, Padres' Matt Waldron facing 4-5-6
+b5	6-1	0	---	4,(1-2) 		ARI	Christian Walker	Matt Waldron	1%	97%	Hit By Pitch
+b5	6-1	0	1--	2,(0-1) 	O	ARI	Randal Grichuk	Matt Waldron	0%	96%	Groundout: SS-2B/Forceout at 2B; R. Grichuk to 1B
+b5	6-1	1	1--	1,(0-0) 		ARI	Eugenio Suárez	Matt Waldron	0%	96%	Passed Ball; R. Grichuk to 2B
+b5	6-1	1	-2-	4,(1-2) 	O	ARI	Eugenio Suárez	Matt Waldron	-1%	96%	Strikeout Swinging
+b5	6-1	2	-2-	2,(0-1) 	R	ARI	Jake McCarthy	Matt Waldron	2%	98%	Double to 3B (Ground Ball); R. Grichuk Scores/unER
+b5	7-1	2	-2-	4,(1-2) 	O	ARI	Gabriel Moreno	Matt Waldron	0%	97%	Strikeout Swinging
+									1 run, 1 hit, 0 errors, 1 LOB. Padres 1, Diamondbacks 7.
+Top of the 6th, Padres Batting, Behind 1-7, Diamondbacks' Brandon Pfaadt facing 1-2-3
+t6	1-7	0	---	3,(1-1) 		SDP	Luis Arráez	Brandon Pfaadt	-2%	96%	Double to CF (Line Drive to Deep CF-RF)
+t6	1-7	0	-2-	4,(2-1) 	O	SDP	Fernando Tatis Jr.	Brandon Pfaadt	1%	97%	Groundout: 3B-1B (SS-3B Hole)
+									
+Joe Mantiply replaces Brandon Pfaadt pitching
+
+t6	1-7	1	-2-	2,(1-0) 		SDP	Jake Cronenworth	Joe Mantiply	0%	97%	Passed Ball; L. Arráez to 3B
+t6	1-7	1	--3	5,(2-2) 	RO	SDP	Jake Cronenworth	Joe Mantiply	0%	97%	Groundout: 1B unassisted; L. Arráez Scores/unER
+t6	2-7	2	---	6,(2-2) 	O	SDP	David Peralta	Joe Mantiply	0%	97%	Strikeout Swinging
+									1 run, 1 hit, 0 errors, 0 LOB. Padres 2, Diamondbacks 7.
+Bottom of the 6th, Diamondbacks Batting, Ahead 7-2, Padres' Matt Waldron facing 9-1-2
+									
+Donovan Solano replaces Luis Arráez playing 1B batting 1st
+
+b6	7-2	0	---	6,(2-2) 		ARI	Geraldo Perdomo	Matt Waldron	0%	98%	Single to RF (Line Drive)
+b6	7-2	0	1--	7,(1-2) 	O	ARI	Ketel Marte	Matt Waldron	0%	97%	Groundout: SS-2B/Forceout at 2B; K. Marte to 1B
+b6	7-2	1	1--	3,(0-2) 	O	ARI	Corbin Carroll	Matt Waldron	0%	97%	Groundout: SS-2B/Forceout at 2B; C. Carroll to 1B
+b6	7-2	2	1--	2,(0-1) 	R	ARI	Lourdes Gurriel Jr.	Matt Waldron	1%	99%	Triple to RF (Line Drive to Deep RF Line); C. Carroll Scores
+b6	8-2	2	--3	4,(0-2) 		ARI	Christian Walker	Matt Waldron	0%	99%	Hit By Pitch
+b6	8-2	2	1-3	3,(2-0) 	O	ARI	Randal Grichuk	Matt Waldron	0%	98%	Groundout: 3B-1B (SS-3B Hole)
+									1 run, 2 hits, 0 errors, 2 LOB. Padres 2, Diamondbacks 8.
+Top of the 7th, Padres Batting, Behind 2-8, Diamondbacks' Ryne Nelson facing 5-6-7
+									
+Ryne Nelson replaces Joe Mantiply pitching
+
+t7	2-8	0	---	4,(2-1) 	O	SDP	Jackson Merrill	Ryne Nelson	1%	99%	Groundout: 3B-1B (SS-3B Hole)
+t7	2-8	1	---	2,(0-1) 		SDP	Nick Ahmed	Ryne Nelson	-1%	98%	Single to CF (Ground Ball thru SS-2B)
+t7	2-8	1	1--	6,(2-2) 	OO	SDP	Elias Díaz	Ryne Nelson	1%	99%	Ground Ball Double Play: SS-2B-1B
+									0 runs, 1 hit, 0 errors, 0 LOB. Padres 2, Diamondbacks 8.
+Bottom of the 7th, Diamondbacks Batting, Ahead 8-2, Padres' Matt Waldron facing 6-7-8
+b7	8-2	0	---	7,(2-2) 	R	ARI	Eugenio Suárez	Matt Waldron	0%	100%	Home Run (Fly Ball to Deep CF)
+b7	9-2	0	---	4,(1-2) 		ARI	Jake McCarthy	Matt Waldron	0%	100%	Single to 1B (Ground Ball)
+b7	9-2	0	1--	3,(1-1) 	O	ARI	Gabriel Moreno	Matt Waldron	0%	100%	Flyball: CF (Deep CF-RF)
+b7	9-2	1	1--	5,(2-2) 	O	ARI	Geraldo Perdomo	Matt Waldron	0%	100%	Strikeout Looking
+b7	9-2	2	1--	3,(0-2) 		ARI	Ketel Marte	Matt Waldron	0%	100%	Wild Pitch; J. McCarthy to 2B
+b7	9-2	2	-2-	4,(1-2) 	O	ARI	Ketel Marte	Matt Waldron	0%	100%	Lineout: CF (Deep CF)
+									1 run, 2 hits, 0 errors, 1 LOB. Padres 2, Diamondbacks 9.
+Top of the 8th, Padres Batting, Behind 2-9, Diamondbacks' Ryne Nelson facing 8-9-1
+t8	2-9	0	---	6,(1-2) 	O	SDP	Tyler Wade	Ryne Nelson	0%	100%	Groundout: 2B-1B (Weak 2B)
+t8	2-9	1	---	8,(3-2) 	O	SDP	Brandon Lockridge	Ryne Nelson	0%	100%	Groundout: SS-1B (Deep SS)
+t8	2-9	2	---	6,(2-2) 	O	SDP	Donovan Solano	Ryne Nelson	0%	100%	Strikeout Swinging
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Diamondbacks 9.
+Bottom of the 8th, Diamondbacks Batting, Ahead 9-2, Padres' Matt Waldron facing 2-3-4
+b8	9-2	0	---	5,(2-2) 	O	ARI	Corbin Carroll	Matt Waldron	0%	100%	Flyball: 2B (Deep 2B-1B)
+b8	9-2	1	---	3,(1-1) 		ARI	Lourdes Gurriel Jr.	Matt Waldron	0%	100%	Single to LF (Line Drive to LF Line)
+									
+Alek Thomas pinch runs for Lourdes Gurriel Jr. (LF) batting 3rd
+
+b8	9-2	1	1--	3,(1-1) 	O	ARI	Christian Walker	Matt Waldron	0%	100%	Flyball: SS (Deep SS-2B)
+b8	9-2	2	1--	8,(2-2) 		ARI	Randal Grichuk	Matt Waldron	0%	100%	Wild Pitch; A. Thomas to 2B
+b8	9-2	2	-2-	9,(3-2) 	RR	ARI	Randal Grichuk	Matt Waldron	0%	100%	Home Run (Fly Ball to Deep CF-RF); A. Thomas Scores
+b8	11-2	2	---	5,(3-1) 		ARI	Eugenio Suárez	Matt Waldron	0%	100%	Single to LF (Line Drive to LF-CF)
+									
+Yuki Matsui replaces Matt Waldron pitching
+
+b8	11-2	2	1--	3,(1-1) 	O	ARI	Jake McCarthy	Yuki Matsui	0%	100%	Flyball: LF (Short LF)
+									2 runs, 3 hits, 0 errors, 1 LOB. Padres 2, Diamondbacks 11.
+Top of the 9th, Padres Batting, Behind 2-11, Diamondbacks' Ryne Nelson facing 2-3-4
+									
+Kevin Newman replaces Ketel Marte playing 2B batting 1st
+Jake McCarthy moves from CF to LF
+Alek Thomas moves from PR to CF
+
+t9	2-11	0	---	1,(0-0) 	O	SDP	Fernando Tatis Jr.	Ryne Nelson	0%	100%	Flyball: LF (Deep LF)
+t9	2-11	1	---	3,(1-1) 	O	SDP	Jake Cronenworth	Ryne Nelson	0%	100%	Lineout: 3B (SS-3B Hole)
+t9	2-11	2	---	1,(0-0) 	O	SDP	David Peralta	Ryne Nelson	0%	100%	Groundout: 1B-P
+									0 runs, 0 hits, 0 errors, 0 LOB. Padres 2, Diamondbacks 11.
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2024 MLB Scores & Schedule Arizona Diamondbacks Schedule San Diego Padres Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2024 > San Diego Padres vs Arizona Diamondbacks Box Score: September 29, 2024
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Ronald Acuña Jr., Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Brian Snitker, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2025 All-Star Game, 2024 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2024 Draft, 2023 Draft, 2022 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, College Baseball Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Korean Baseball Stats, Cuban National Series Stats, Mexican Baseball Stats, Winter Leagues Stats, Independent League Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Thursday, January 9, 4:30PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE, STATHEAD, IMMACULATE GRID, and IMMACULATE FOOTY trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid ®
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR • Baseball-Reference.com T-Shirts & Store • Cookie Preferences
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/ARI/ARI202409290.shtml 
+ ----- 

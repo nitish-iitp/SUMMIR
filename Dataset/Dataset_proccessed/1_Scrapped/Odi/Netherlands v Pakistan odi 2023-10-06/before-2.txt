@@ -1,0 +1,938 @@
+ENG 
+Select Languages
+हिंदी | Hindi
+Select Language 
+Languages
+हिंदी | Hindi
+Search
+Featured Links
+Australia vs India
+Champions Trophy 2025
+CT Schedule
+EPL Table
+EPL Schedule
+Featured Sports
+Cricket
+Football
+Formula 1
+Tennis
+Hockey
+Golf
+Badminton
+More Sports
+Kabaddi
+NBA
+Boxing
+Athletics
+Chess
+Swimming
+Shooting
+Wrestling
+Table tennis
+Othersports
+More From NDTV
+NDTV
+Business
+Hindi
+Movies
+Cricket
+Health
+Food
+Tech
+Auto
+Apps
+Trains
+Art
+World Cup 2023
+05 Oct 23 to 19 Nov 23
+Scores
+News
+Photos
+Videos
+Fixtures
+Points Table
+Teams
+Players
+Venues
+More 
+Results
+Stats
+Cheer For India
+Cricket Matches
+Cricket Matches
+Football Matches
+All Matches
+India Matches
+World Cup 2023
+Final, ICC Cricket World Cup, 2023 at Ahmedabad, Nov 19, 2023
+India
+240 (50.0)
+Australia
+241/4 (43.0)
+Australia beat India by 6 wickets
+2nd Semi-Final, ICC Cricket World Cup, 2023 at Kolkata, Nov 16, 2023
+South Africa
+212 (49.4)
+Australia
+215/7 (47.2)
+Australia beat South Africa by 3 wickets
+1st Semi-Final, ICC Cricket World Cup, 2023 at Mumbai, Nov 15, 2023
+India
+397/4 (50.0)
+New Zealand
+327 (48.5)
+India beat New Zealand by 70 runs
+Sports Home World Cup 2023 Points Table
+ 
+World Cup 2023 Points Table
+No	Teams	P	W	L	T	NR	PTS	NRR	
+
+1
+	
+India
+	
+9
+	
+9
+	
+0
+	
+0
+	
+0
+	
+18
+	
++2.570
+	
+
+Match 5
+Oct 8 2023, (Chennai)
+Point +2
+vs Australia
+India beat Australia by 6 wickets
+% Chance to Win
+Match 9
+Oct 11 2023, (Delhi)
+Point +2
+vs Afghanistan
+India beat Afghanistan by 8 wickets
+% Chance to Win
+Match 12
+Oct 14 2023, (Ahmedabad)
+Point +2
+vs Pakistan
+India beat Pakistan by 7 wickets
+% Chance to Win
+Match 17
+Oct 19 2023, (Pune)
+Point +2
+vs Bangladesh
+India beat Bangladesh by 7 wickets
+% Chance to Win
+Match 21
+Oct 22 2023, (Dharamsala)
+Point +2
+vs New Zealand
+India beat New Zealand by 4 wickets
+% Chance to Win
+Match 29
+Oct 29 2023, (Lucknow)
+Point +2
+vs England
+India beat England by 100 runs
+% Chance to Win
+Match 33
+Nov 2 2023, (Mumbai)
+Point +2
+vs Sri Lanka
+India beat Sri Lanka by 302 runs
+% Chance to Win
+Match 37
+Nov 5 2023, (Kolkata)
+Point +2
+vs South Africa
+India beat South Africa by 243 runs
+% Chance to Win
+Match 45
+Nov 12 2023, (Bengaluru)
+Point +2
+vs Netherlands
+India beat Netherlands by 160 runs
+% Chance to Win
+
+
+2
+	
+South Africa
+	
+9
+	
+7
+	
+2
+	
+0
+	
+0
+	
+14
+	
++1.261
+	
+
+Match 4
+Oct 7 2023, (Delhi)
+Point +2
+vs Sri Lanka
+South Africa beat Sri Lanka by 102 runs
+% Chance to Win
+Match 10
+Oct 12 2023, (Lucknow)
+Point +2
+vs Australia
+South Africa beat Australia by 134 runs
+% Chance to Win
+Match 15
+Oct 17 2023, (Dharamsala)
+Point 0
+vs Netherlands
+Netherlands beat South Africa by 38 runs
+% Chance to Win
+Match 20
+Oct 21 2023, (Mumbai)
+Point +2
+vs England
+South Africa beat England by 229 runs
+% Chance to Win
+Match 23
+Oct 24 2023, (Mumbai)
+Point +2
+vs Bangladesh
+South Africa beat Bangladesh by 149 runs
+% Chance to Win
+Match 26
+Oct 27 2023, (Chennai)
+Point +2
+vs Pakistan
+South Africa beat Pakistan by 1 wicket
+% Chance to Win
+Match 32
+Nov 1 2023, (Pune)
+Point +2
+vs New Zealand
+South Africa beat New Zealand by 190 runs
+% Chance to Win
+Match 37
+Nov 5 2023, (Kolkata)
+Point 0
+vs India
+India beat South Africa by 243 runs
+% Chance to Win
+Match 42
+Nov 10 2023, (Ahmedabad)
+Point +2
+vs Afghanistan
+South Africa beat Afghanistan by 5 wickets
+% Chance to Win
+
+
+3
+	
+Australia
+	
+9
+	
+7
+	
+2
+	
+0
+	
+0
+	
+14
+	
++0.841
+	
+
+Match 5
+Oct 8 2023, (Chennai)
+Point 0
+vs India
+India beat Australia by 6 wickets
+% Chance to Win
+Match 10
+Oct 12 2023, (Lucknow)
+Point 0
+vs South Africa
+South Africa beat Australia by 134 runs
+% Chance to Win
+Match 14
+Oct 16 2023, (Lucknow)
+Point +2
+vs Sri Lanka
+Australia beat Sri Lanka by 5 wickets
+% Chance to Win
+Match 18
+Oct 20 2023, (Bengaluru)
+Point +2
+vs Pakistan
+Australia beat Pakistan by 62 runs
+% Chance to Win
+Match 24
+Oct 25 2023, (Delhi)
+Point +2
+vs Netherlands
+Australia beat Netherlands by 309 runs
+% Chance to Win
+Match 27
+Oct 28 2023, (Dharamsala)
+Point +2
+vs New Zealand
+Australia beat New Zealand by 5 runs
+% Chance to Win
+Match 36
+Nov 4 2023, (Ahmedabad)
+Point +2
+vs England
+Australia beat England by 33 runs
+% Chance to Win
+Match 39
+Nov 7 2023, (Mumbai)
+Point +2
+vs Afghanistan
+Australia beat Afghanistan by 3 wickets
+% Chance to Win
+Match 43
+Nov 11 2023, (Pune)
+Point +2
+vs Bangladesh
+Australia beat Bangladesh by 8 wickets
+% Chance to Win
+
+
+4
+	
+New Zealand
+	
+9
+	
+5
+	
+4
+	
+0
+	
+0
+	
+10
+	
++0.743
+	
+
+Match 1
+Oct 5 2023, (Ahmedabad)
+Point +2
+vs England
+New Zealand beat England by 9 wickets
+% Chance to Win
+Match 6
+Oct 9 2023, (Hyderabad)
+Point +2
+vs Netherlands
+New Zealand beat Netherlands by 99 runs
+% Chance to Win
+Match 11
+Oct 13 2023, (Chennai)
+Point +2
+vs Bangladesh
+New Zealand beat Bangladesh by 8 wickets
+% Chance to Win
+Match 16
+Oct 18 2023, (Chennai)
+Point +2
+vs Afghanistan
+New Zealand beat Afghanistan by 149 runs
+% Chance to Win
+Match 21
+Oct 22 2023, (Dharamsala)
+Point 0
+vs India
+India beat New Zealand by 4 wickets
+% Chance to Win
+Match 27
+Oct 28 2023, (Dharamsala)
+Point 0
+vs Australia
+Australia beat New Zealand by 5 runs
+% Chance to Win
+Match 32
+Nov 1 2023, (Pune)
+Point 0
+vs South Africa
+South Africa beat New Zealand by 190 runs
+% Chance to Win
+Match 35
+Nov 4 2023, (Bengaluru)
+Point 0
+vs Pakistan
+Pakistan beat New Zealand by 21 runs (D/L method)
+% Chance to Win
+Match 41
+Nov 9 2023, (Bengaluru)
+Point +2
+vs Sri Lanka
+New Zealand beat Sri Lanka by 5 wickets
+% Chance to Win
+
+
+5
+	
+Pakistan
+	
+9
+	
+4
+	
+5
+	
+0
+	
+0
+	
+8
+	
+-0.199
+	
+
+Match 2
+Oct 6 2023, (Hyderabad)
+Point +2
+vs Netherlands
+Pakistan beat Netherlands by 81 runs
+% Chance to Win
+Match 8
+Oct 10 2023, (Hyderabad)
+Point +2
+vs Sri Lanka
+Pakistan beat Sri Lanka by 6 wickets
+% Chance to Win
+Match 12
+Oct 14 2023, (Ahmedabad)
+Point 0
+vs India
+India beat Pakistan by 7 wickets
+% Chance to Win
+Match 18
+Oct 20 2023, (Bengaluru)
+Point 0
+vs Australia
+Australia beat Pakistan by 62 runs
+% Chance to Win
+Match 22
+Oct 23 2023, (Chennai)
+Point 0
+vs Afghanistan
+Afghanistan beat Pakistan by 8 wickets
+% Chance to Win
+Match 26
+Oct 27 2023, (Chennai)
+Point 0
+vs South Africa
+South Africa beat Pakistan by 1 wicket
+% Chance to Win
+Match 31
+Oct 31 2023, (Kolkata)
+Point +2
+vs Bangladesh
+Pakistan beat Bangladesh by 7 wickets
+% Chance to Win
+Match 35
+Nov 4 2023, (Bengaluru)
+Point +2
+vs New Zealand
+Pakistan beat New Zealand by 21 runs (D/L method)
+% Chance to Win
+Match 44
+Nov 11 2023, (Kolkata)
+Point 0
+vs England
+England beat Pakistan by 93 runs
+% Chance to Win
+
+
+6
+	
+Afghanistan
+	
+9
+	
+4
+	
+5
+	
+0
+	
+0
+	
+8
+	
+-0.336
+	
+
+Match 3
+Oct 7 2023, (Dharamsala)
+Point 0
+vs Bangladesh
+Bangladesh beat Afghanistan by 6 wickets
+% Chance to Win
+Match 9
+Oct 11 2023, (Delhi)
+Point 0
+vs India
+India beat Afghanistan by 8 wickets
+% Chance to Win
+Match 13
+Oct 15 2023, (Delhi)
+Point +2
+vs England
+Afghanistan beat England by 69 runs
+% Chance to Win
+Match 16
+Oct 18 2023, (Chennai)
+Point 0
+vs New Zealand
+New Zealand beat Afghanistan by 149 runs
+% Chance to Win
+Match 22
+Oct 23 2023, (Chennai)
+Point +2
+vs Pakistan
+Afghanistan beat Pakistan by 8 wickets
+% Chance to Win
+Match 30
+Oct 30 2023, (Pune)
+Point +2
+vs Sri Lanka
+Afghanistan beat Sri Lanka by 7 wickets
+% Chance to Win
+Match 34
+Nov 3 2023, (Lucknow)
+Point +2
+vs Netherlands
+Afghanistan beat Netherlands by 7 wickets
+% Chance to Win
+Match 39
+Nov 7 2023, (Mumbai)
+Point 0
+vs Australia
+Australia beat Afghanistan by 3 wickets
+% Chance to Win
+Match 42
+Nov 10 2023, (Ahmedabad)
+Point 0
+vs South Africa
+South Africa beat Afghanistan by 5 wickets
+% Chance to Win
+
+
+7
+	
+England
+	
+9
+	
+3
+	
+6
+	
+0
+	
+0
+	
+6
+	
+-0.572
+	
+
+Match 1
+Oct 5 2023, (Ahmedabad)
+Point 0
+vs New Zealand
+New Zealand beat England by 9 wickets
+% Chance to Win
+Match 7
+Oct 10 2023, (Dharamsala)
+Point +2
+vs Bangladesh
+England beat Bangladesh by 137 runs
+% Chance to Win
+Match 13
+Oct 15 2023, (Delhi)
+Point 0
+vs Afghanistan
+Afghanistan beat England by 69 runs
+% Chance to Win
+Match 20
+Oct 21 2023, (Mumbai)
+Point 0
+vs South Africa
+South Africa beat England by 229 runs
+% Chance to Win
+Match 25
+Oct 26 2023, (Bengaluru)
+Point 0
+vs Sri Lanka
+Sri Lanka beat England by 8 wickets
+% Chance to Win
+Match 29
+Oct 29 2023, (Lucknow)
+Point 0
+vs India
+India beat England by 100 runs
+% Chance to Win
+Match 36
+Nov 4 2023, (Ahmedabad)
+Point 0
+vs Australia
+Australia beat England by 33 runs
+% Chance to Win
+Match 40
+Nov 8 2023, (Pune)
+Point +2
+vs Netherlands
+England beat Netherlands by 160 runs
+% Chance to Win
+Match 44
+Nov 11 2023, (Kolkata)
+Point +2
+vs Pakistan
+England beat Pakistan by 93 runs
+% Chance to Win
+
+
+8
+	
+Bangladesh
+	
+9
+	
+2
+	
+7
+	
+0
+	
+0
+	
+4
+	
+-1.087
+	
+
+Match 3
+Oct 7 2023, (Dharamsala)
+Point +2
+vs Afghanistan
+Bangladesh beat Afghanistan by 6 wickets
+% Chance to Win
+Match 7
+Oct 10 2023, (Dharamsala)
+Point 0
+vs England
+England beat Bangladesh by 137 runs
+% Chance to Win
+Match 11
+Oct 13 2023, (Chennai)
+Point 0
+vs New Zealand
+New Zealand beat Bangladesh by 8 wickets
+% Chance to Win
+Match 17
+Oct 19 2023, (Pune)
+Point 0
+vs India
+India beat Bangladesh by 7 wickets
+% Chance to Win
+Match 23
+Oct 24 2023, (Mumbai)
+Point 0
+vs South Africa
+South Africa beat Bangladesh by 149 runs
+% Chance to Win
+Match 28
+Oct 28 2023, (Kolkata)
+Point 0
+vs Netherlands
+Netherlands beat Bangladesh by 87 runs
+% Chance to Win
+Match 31
+Oct 31 2023, (Kolkata)
+Point 0
+vs Pakistan
+Pakistan beat Bangladesh by 7 wickets
+% Chance to Win
+Match 38
+Nov 6 2023, (Delhi)
+Point +2
+vs Sri Lanka
+Bangladesh beat Sri Lanka by 3 wickets
+% Chance to Win
+Match 43
+Nov 11 2023, (Pune)
+Point 0
+vs Australia
+Australia beat Bangladesh by 8 wickets
+% Chance to Win
+
+
+9
+	
+Sri Lanka
+	
+9
+	
+2
+	
+7
+	
+0
+	
+0
+	
+4
+	
+-1.419
+	
+
+Match 4
+Oct 7 2023, (Delhi)
+Point 0
+vs South Africa
+South Africa beat Sri Lanka by 102 runs
+% Chance to Win
+Match 8
+Oct 10 2023, (Hyderabad)
+Point 0
+vs Pakistan
+Pakistan beat Sri Lanka by 6 wickets
+% Chance to Win
+Match 14
+Oct 16 2023, (Lucknow)
+Point 0
+vs Australia
+Australia beat Sri Lanka by 5 wickets
+% Chance to Win
+Match 19
+Oct 21 2023, (Lucknow)
+Point +2
+vs Netherlands
+Sri Lanka beat Netherlands by 5 wickets
+% Chance to Win
+Match 25
+Oct 26 2023, (Bengaluru)
+Point +2
+vs England
+Sri Lanka beat England by 8 wickets
+% Chance to Win
+Match 30
+Oct 30 2023, (Pune)
+Point 0
+vs Afghanistan
+Afghanistan beat Sri Lanka by 7 wickets
+% Chance to Win
+Match 33
+Nov 2 2023, (Mumbai)
+Point 0
+vs India
+India beat Sri Lanka by 302 runs
+% Chance to Win
+Match 38
+Nov 6 2023, (Delhi)
+Point 0
+vs Bangladesh
+Bangladesh beat Sri Lanka by 3 wickets
+% Chance to Win
+Match 41
+Nov 9 2023, (Bengaluru)
+Point 0
+vs New Zealand
+New Zealand beat Sri Lanka by 5 wickets
+% Chance to Win
+
+
+10
+	
+Netherlands
+	
+9
+	
+2
+	
+7
+	
+0
+	
+0
+	
+4
+	
+-1.825
+	
+
+Match 2
+Oct 6 2023, (Hyderabad)
+Point 0
+vs Pakistan
+Pakistan beat Netherlands by 81 runs
+% Chance to Win
+Match 6
+Oct 9 2023, (Hyderabad)
+Point 0
+vs New Zealand
+New Zealand beat Netherlands by 99 runs
+% Chance to Win
+Match 15
+Oct 17 2023, (Dharamsala)
+Point +2
+vs South Africa
+Netherlands beat South Africa by 38 runs
+% Chance to Win
+Match 19
+Oct 21 2023, (Lucknow)
+Point 0
+vs Sri Lanka
+Sri Lanka beat Netherlands by 5 wickets
+% Chance to Win
+Match 24
+Oct 25 2023, (Delhi)
+Point 0
+vs Australia
+Australia beat Netherlands by 309 runs
+% Chance to Win
+Match 28
+Oct 28 2023, (Kolkata)
+Point +2
+vs Bangladesh
+Netherlands beat Bangladesh by 87 runs
+% Chance to Win
+Match 34
+Nov 3 2023, (Lucknow)
+Point 0
+vs Afghanistan
+Afghanistan beat Netherlands by 7 wickets
+% Chance to Win
+Match 40
+Nov 8 2023, (Pune)
+Point 0
+vs England
+England beat Netherlands by 160 runs
+% Chance to Win
+Match 45
+Nov 12 2023, (Bengaluru)
+Point 0
+vs India
+India beat Netherlands by 160 runs
+% Chance to Win
+P : Played
+W : Win
+L : Loss
+T : Tie
+NR : No Results
+NRR : Net Run Rate
+PTS : Points
+Win : 2 points
+Tie, No Result or abandoned : 1 point
+Loss : 0 point
+ICC Cricket World Cup 2023 POINTS TABLE
+The ICC Cricket World Cup get underway in India from October 5. Defending champions England face New Zealand in the opening match, which will be repeat of the 2019 final. The last three World Cups have all been won by the hosting nations -- India 2011, Australia (co-hosts alongside New Zealand) 2015 and England 2019. The final will be played on November 19 at the Narendra Modi Stadium in Ahmedabad, which will also host the opener, as well as the blockbuster match between India and Pakistan on October 15. The ICC World Cup 2023 will follow the same format as the previous edition four years ago, meaning that all 10 teams will face one another in a round-robin format. This will be the last edition to follow this pattern as ICC is set to announce a new format for the 2027 showpiece event. As per the current format, 10 teams will play every other side once in a single round robin format, with the top four teams going on to the semi-finals. The top team after the round robin will play the team finishing fourth on the table, while the second and third-place finishers will meet in the other semi-final. The winners of each semi-final will meet in the final on 20 November. After India qualified as hosts, the next seven teams were decided by finishing positions in the ICC Men's Cricket World Cup Super League, a three-year competition where 13 teams played eight three-match bilateral series each. New Zealand, England, Bangladesh, Pakistan, Australia, Afghanistan and South Africa all progressed to the Cricket World Cup via a top eight position in the competition, while the bottom five went on to the Cricket World Cup Qualifier, joining others from League 2 and the Qualifier Play-off tournament. Sri Lanka and the Netherlands, after finishing 10th and 13th respectively in Super League, progressed to Cricket World Cup 2023 only via the Qualifier.
+Trending News
+"Forget Playing For India": Bumrah Sent Stern Message By World Cup Winner
+India Squad For CT: Champions Trophy To Be Rohit, Kohli's Last ICC Event?
+"For Those...": Chahal's Cryptic Post Amid Divorce Rumours With Dhanashree
+Fresh Bumrah Setback For India Ahead Of Champions Trophy Squad Selection
+Not Hardik, Gill: This Star To Be India Vice-Captain For Champions Trophy
+Not Acceptable: Yuvraj Reminds India Of 'More Hurting' Loss Than Australia
+
+Advertisement
+
+Latest From Sports
+Sabalenka To Andreeva: 5 Women To Watch Out For At Australian Open 2025
+Tennis
+Naomi Osaka Ends 5-Year Relationship With Ahead Of Australian Open 2025
+Tennis
+World No. 1 Sinner Kicks Off AO 2025 With Doping Fears Still Hanging Above
+Tennis
+"For Those...": Chahal's Cryptic Post Amid Divorce Rumours With Dhanashree
+Cricket
+Now Trending
+Paralympics 2024
+Jay Shah
+Virat Kohli
+Paralympics Medal Tally
+India's Schedule Paralympics 2024
+Rohit Sharma
+
+Advertisement
+
+Advertisement
+
+Trending Links
+Paralympics 2024
+Jay Shah
+Virat Kohli
+Paralympics Medal Tally
+India's Schedule Paralympics 2024
+Rohit Sharma
+Follow us on:
+CRICKET
+Live Scores
+Series
+Fixtures
+Results
+News
+Photos
+Videos
+Features
+Teams
+Players
+Venues
+ICC Ranking
+FOOTBALL
+ISL 2022-23
+EPL 2022-23
+News
+Features
+Photos
+Fixtures
+Results
+Videos
+Teams
+Players
+Matchcentre
+MORE SPORTS
+Formula 1
+Tennis
+Hockey
+Badminton
+Golf
+Nba
+Kabaddi
+Shooting
+Swimming
+Table Tennis
+Advertise
+About Us
+Feedback
+Disclaimer
+Investor
+Complaint Redressal
+Careers
+Contact Us
+This website follows the DNPA Code of Ethics © Copyright NDTV Convergence Limited 2025. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://sports.ndtv.com/icc-cricket-world-cup-2023/points-table 
+ ----- 

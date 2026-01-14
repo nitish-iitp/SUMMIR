@@ -1,0 +1,418 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+The Armory
+Sidearms & Scatterguns What is causing this? CZ P10 Problem
+ 
+Thread starter
+RFutch  
+Start date
+Jun 28, 2024
+RFutch
+Yoohoo. I'll make you famous.
+Full Member
+Minuteman
+Sep 28, 2010
+1,901
+1,948
+43
+Georgia
+Jun 28, 2024
+#1
+Bought a factory OR slide for my stock P10. Now it wont eject after a fired round. Does this once probably every mag sometimes multiple times per mag. It stops halfway and locks the slide and the mag from moving. I have to smack the back of the slide forward back into battery, then drop the mag, then eject the spent casing. The next round in the mag is all chewed up from locking the mag and the slide from moving. This pistol had approximately 700 rounds fired with no malfunctions before the slide swap.
+
+
+ 
+Ichi
+Major Hide Member
+Full Member
+Minuteman
+Oct 1, 2022
+1,356
+3,540
+Texas
+Jun 28, 2024
+#2
+You might contact Cajun Gun Works and ask if they have ever seen this problem. They are CZ tuners...
+
+https://cajungunworks.com
+ 
+ 
+Reactions:
+RFutch
+mrdrar
+Private
+Full Member
+Minuteman
+Dec 1, 2011
+485
+755
+Jun 28, 2024
+#3
+Because it's not a Glock?
+ 
+RFutch
+Yoohoo. I'll make you famous.
+Full Member
+Minuteman
+Sep 28, 2010
+1,901
+1,948
+43
+Georgia
+Jun 28, 2024
+#4
+CZ sent me a label this afternoon to send it in but offered no explanation as to what could be the issue. I’ll prob call Cajun also to see what they think.
+ 
+ 
+Reactions:
+flogxal
+F
+flogxal
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2024
+130
+116
+western montana
+Jun 29, 2024
+#5
+Was it a complete slide, with barrel? Or are you using the same barrel from the iron-sights slide?
+
+I can't see what is going on, obviously, but it sounds like maybe a tight chamber if you got a new barrel.
+
+I have a pair of C and a pair of F models in the P-10 series, swapped slides and barrels among them just because I was curious about possible swap issues. Never had any problems myself. But what you are experiencing is something people I know with Springfield Prodigy pistols had, early on, with a slightly too-tight chamber.
+ 
+RFutch
+Yoohoo. I'll make you famous.
+Full Member
+Minuteman
+Sep 28, 2010
+1,901
+1,948
+43
+Georgia
+Jun 29, 2024
+#6
+Using the same barrel from the old slide.
+ 
+ 
+Reactions:
+flogxal
+K
+Kadams1563
+Giver of Bad Advice
+Full Member
+Minuteman
+Feb 13, 2017
+2,929
+3,163
+North Texas
+Jun 29, 2024
+#7
+Same barrel and same ammunition?
+
+I wonder since adding the optic if the recoil spring needs to be lightened?
+
+Odd that it would work for 700 rounds and then swapping just the slide would start malfunctions.
+ 
+ 
+Reactions:
+flogxal
+RFutch
+Yoohoo. I'll make you famous.
+Full Member
+Minuteman
+Sep 28, 2010
+1,901
+1,948
+43
+Georgia
+Jun 29, 2024
+#8
+Yes everything is the same except for the new stripped slide I bought.
+ 
+ 
+Reactions:
+flogxal
+R
+Redlion
+Gunny Sergeant
+Full Member
+Minuteman
+Aug 21, 2022
+827
+1,802
+Midwest
+Jun 29, 2024
+#9
+That is really odd. CZ seems very ready to take it and figure it out for you. I would let them. I have a P-10C that came with an OR slide. It has worked flawlessly.
+ 
+WhoIsPat
+Candy Man
+Minuteman
+Jan 28, 2023
+55
+29
+Ohio
+Jun 29, 2024
+#10
+If you load up a full mag (I believe 19 rnds) and insert and seat the mag, then pull the slide back and SLOWLY guide the slide home until it is into battery, a round is chambered and then eject the magazine, does the first round in the magazine fall out?
+ 
+RFutch
+Yoohoo. I'll make you famous.
+Full Member
+Minuteman
+Sep 28, 2010
+1,901
+1,948
+43
+Georgia
+Jun 29, 2024
+#11
+WhoIsPat said:
+If you load up a full mag (I believe 19 rnds) and insert and seat the mag, then pull the slide back and SLOWLY guide the slide home until it is into battery, a round is chambered and then eject the magazine, does the first round in the magazine fall out?
+No it does not.
+ 
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,706
+39,328
+Jun 29, 2024
+#12
+RFutch said:
+Yes everything is the same except for the new stripped slide I bought.
+My bet is that the barely might need to be clearance just a tiny bit to fit the slide. Mass produced pistols are designed so thar shouldn't be necessary but every now and then you might run into a fitment issue.
+
+The issue might be where the front of the barrel goes through the hole in the slide. The farther the slide moves back the more contact there is at the muzzle end of both.
+ 
+WhoIsPat
+Candy Man
+Minuteman
+Jan 28, 2023
+55
+29
+Ohio
+Jun 29, 2024
+#13
+It could be that the new slide's recoil spring channel is a little shorter and not allowing the slide to travel far enough back. One way to test that is pull both slides all the way back manually (not on the slide stop) and measure how far it goes past the back of the frame or make a sharpie mark on the frame and see where each slide travels in relation to that mark
+ 
+F
+flogxal
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2024
+130
+116
+western montana
+Jun 29, 2024
+#14
+RFutch said:
+Yes everything is the same except for the new stripped slide I bought.
+I have not fully stripped & reassembled a P-10 slide -- is it possible you messed up something in the parts swap?
+ 
+ 
+Reactions:
+308pirate
+F
+flogxal
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2024
+130
+116
+western montana
+Jun 30, 2024
+#15
+Kadams1563 said:
+Same barrel and same ammunition?
+
+I wonder since adding the optic if the recoil spring needs to be lightened?
+
+Odd that it would work for 700 rounds and then swapping just the slide would start malfunctions.
+I would not expect the recoil spring weight to be that sensitive on the P-10 series. I have run my OR models w/o RDS and w/ RDS. I have put my OR slide w/ RDS mounted, onto an iron sights P-10 using its original barrel and recoil spring assembly. No difference. Granted that's a sample of one person with 4 P-10 models, so narrow sample.
+ 
+ 
+Reactions:
+RFutch and Kadams1563
+RFutch
+Yoohoo. I'll make you famous.
+Full Member
+Minuteman
+Sep 28, 2010
+1,901
+1,948
+43
+Georgia
+Jul 1, 2024
+#16
+flogxal said:
+I have not fully stripped & reassembled a P-10 slide -- is it possible you messed up something in the parts swap?
+I guess anything is possible but its so damn easy I dont see what could be messed up. The extractor moves freely by hand and doesn't hang up. The only other thing to replace is the striker assembly which comes out as a whole unit so its not rocket science. The gun also works 75% of the time so if I had done something you would think it wouldnt. 
+
+Its on its way to CZ today so we'll see what they say about it.
+ 
+ 
+Reactions:
+flogxal
+F
+flogxal
+Sergeant of the Hide
+Full Member
+Minuteman
+May 31, 2024
+130
+116
+western montana
+Jul 1, 2024
+#17
+Didn't mean to insult with that question. Since I haven't done it I don't know if it's straightforward or something where, for example, a directional part placed in the wrong direction, would be possible. I don't like to assume others are hamfisted in mechanics, but I have known many people to play around with mechanics while not really understanding things. Didn't want to assume that was you, though.
+ 
+RFutch
+Yoohoo. I'll make you famous.
+Full Member
+Minuteman
+Sep 28, 2010
+1,901
+1,948
+43
+Georgia
+Jul 1, 2024
+#18
+Its all good, you didn't.
+ 
+RFutch
+Yoohoo. I'll make you famous.
+Full Member
+Minuteman
+Sep 28, 2010
+1,901
+1,948
+43
+Georgia
+Aug 7, 2024
+#19
+Got my P10 back today. Hopefully I'll be able to shoot it a little this weekend but not sure yet. Here is what they said they did to it. Not sure exactly what the first part means but hopefully it works now...
+
+“Adjusted and polished breach face lead in. Honed chamber and barrel hood. Cleaned debris from extractor. Functions checked and test fired good with CCI Blazer 9mm 115gr FMJ with customer magazine.”
+ 
+sgtsmmiii
+Lieutenant
+Full Member
+Minuteman
+ 
+Sep 2, 2010
+866
+559
+69
+Central KY
+Aug 7, 2024
+#20
+For the future- I have helped some customers with FTE issues with Glocks & Sigs when the optic plate screw was just a tad too long and interfered with the extractor movement.
+ 
+ 
+Reactions:
+Ichi and W54/XM-388
+308pirate
+Gunny Sergeant
+Full Member
+Minuteman
+ 
+Apr 25, 2017
+24,706
+39,328
+Aug 9, 2024
+#21
+sgtsmmiii said:
+For the future- I have helped some customers with FTE issues with Glocks & Sigs when the optic plate screw was just a tad too long and interfered with the extractor movement.
+Not an issue with P-10s
+ 
+RFutch
+Yoohoo. I'll make you famous.
+Full Member
+Minuteman
+Sep 28, 2010
+1,901
+1,948
+43
+Georgia
+Aug 11, 2024
+#22
+Shot 165 rounds through it today no issues. Looking good so far.
+ 
+ 
+Reactions:
+clcustom1911 and sgtsmmiii
+You must log in or register to reply here.
+Similar threads
+	
+CZ P10 review
+ut755ln Sep 9, 2024 The Armory
+7
+Sep 10, 2024
+R
+	
+Causes For a Semi Auto Pistol to Not Lock Back On an Empty Mag?
+RLinNH Dec 24, 2023 The Armory
+11
+Dec 24, 2023
+K
+	
+Firearms CZ 75B High Polish Cajunized price drop
+kmarc13 Apr 27, 2024 Buy - Sell - Trade
+5
+May 9, 2024
+	
+Suppressors Glock 19 cycling issue with suppressor. Seeking Advice
+Pappyreds Nov 1, 2022 The Armory
+72
+Nov 8, 2022
+N
+	
+Terminus Action Review / Observations
+N565 Guy Oct 26, 2024 Bolt Action Rifles
+89
+Dec 2, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+The Armory
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/what-is-causing-this-cz-p10-problem.7223360/ 
+ ----- 

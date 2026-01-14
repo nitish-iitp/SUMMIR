@@ -1,0 +1,304 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Reloading Depot
+Bullets with shortest jump to lands, AR 308 gas guns
+ 
+Thread starter
+Ape_Factory  
+Start date
+Jun 19, 2024
+A
+Ape_Factory
+Major Hide Member
+Full Member
+Minuteman
+May 23, 2020
+1,475
+1,000
+San Antonio, Texas
+Jun 19, 2024
+#1
+Short version. Looking for a HPBT bullet with similar dimensions and more consistent, precise construction than a Hornady 150 grain FMJ/BT. This is their lowest-priced bullet, #3037. I want a similar bullet as it'll provide the shortest jump to the lands in my .308 gas gun. If anyone has measured the jump to the lands (I do it to the jam) and has found something similar or better but in a HPBT design, I'm all ears.
+
+Long Version. I recently had my .308 re-barreled as it was closing on a field gauge and my overall headspace was fairly long when measured with a comparator. I had several accurate loads with this barrel, consistently MOA or less so I was sort of sorry to see it go. The accurate loads were mostly with bullets in the 150 grain range but a few that were higher in weight.
+
+My most accurate load has always been with a plane Jane Hornady 150 grain FMJ/, #3037. This is literally their least expensive bullet and it's really for plinking, not even a "match" bullet. I always thought it had to do with a number of factors, one being the rifle just liked 150 grain projectiles.
+
+Once the new barrel was in and I had the rifle back, I took it to the range for barrel break-in. Right off the bat, the same 150 grain load was shooting really well. I had a scope with a 1 MOA dot (Athlon 2-12) which made it hard to go after stellar groupings. And given the barrel was new, I wasn't expecting anything out of it at that point. I'd cleaned the barrel down to new, no copper, prior.
+
+I did have two failure to fires with light primer strikes that were very difficult to eject early on but the rest of the session went fine with no FTF's of any kind. Thinking maybe I had a very tight chamber and may need a small base die, I started measuring/testing a few different cases with known headspace below that of the of the rifle, all sized with a normal full length die (Forester or Hornady). All chambered and ejected without issue. Tried a few hand-load cartridges as well as factory Federal Gold Medal 175 grain cartridges and no issues with them either.
+
+For shits and giggles, I decided to pull out the OAL gauge (Hornady) and just see what the jump to the jam looked like. A lightbulb went off in my head and I decided to measure every bullet I had (have about 10 different bullets). What I discovered was that the el cheapo Hornady FMJ had, by far, the shortest jump to the lands. Measured, it comes out to about 2.840-2 OAL depending on the OAL of the bullet as there's always going to be some variation. Loading out to max PMAG length, I'm within .02 of the jam. Not bolt action close by any means but some bullets were far, far greater, like tenths.
+
+I'd tested various loads using Berger's 155 grain VLD (very low drag) in the old barrel and they didn't shoot well. The OAL is considerably longer to the jam with that bullet. And honestly, the shorter the jump, the more accurate the bullet has been in my experience with this particular rifle.
+
+So I'm looking for a HPBT in the 150-168 range that's provided a smaller jump to the jam than most of the "match" grade bullets. Any suggestions? Dunno if something like the Berger 180 grain OTM juggernaut or even their 168 grain classic hunter produces a shorter jump. I have some Sierra 169's which is my go-to with the bolt gun but they produce a 2.9+ OAL.
+
+Photo, left to right, Berger 155 VLD, Hornady 155 Match HPBT, Hornady 150 SST, Hornady 150 FMJ/BT.
+
+ 
+E
+Evintos
+Lurker
+Full Member
+Minuteman
+Sep 19, 2008
+1,124
+1,336
+Jun 19, 2024
+#2
+Bullet lengths of the bullets you have for reference
+Hornady 150gr FMJBT -1.120
+Hornady 150 SST - 1.153
+Hornady 155 HPBT - 1.151
+Berger 155 VLD - 1.247
+Sierra 169 MatchKing - 1.295
+
+Some alternatives in tangent ogive profile around the 1.150-ish length
+
+Nosler 155 Custom Competitoin - 1.145
+Sierra 150 FMJBT - 1.113
+Sierra 150 MatchKing - 1.123
+Sierra 155 MatchKing Palma 2155 (tangent ogive)- 1.131
+
+Maybe category - Shorter than the Berger 155 VLD but still with a tangent ogive profile
+
+Sierra 168 MatchKing - 1.215
+Sierra 175 MatchKing - 1.240 (close to the Berger 155 VLD length)
+
+Maybe category 2
+
+Sierra 155gr MatchKing Palma 2156 slightly longer nose that is closer to a hybrid ogive profile vs the 2155 SMK-P - 1.210"
+
+
+ 
+Last edited: Jun 19, 2024
+ 
+Reactions:
+simonp
+Doom
+Balding Eagle
+Full Member
+Minuteman
+Mar 24, 2013
+1,220
+988
+South of the Mason Dixon Line.
+Jun 19, 2024
+#3
+This is a 308 chamber of some version. Forget about the VLD's, ELD's and any other super duper match grade bullet. You are going to be limited to an ~2.800" COAL with a chamber designed around tangent ogive bullets. Best bets are the 168 SMK and the 175 SMK.
+ 
+A
+Ape_Factory
+Major Hide Member
+Full Member
+Minuteman
+May 23, 2020
+1,475
+1,000
+San Antonio, Texas
+Jun 19, 2024
+#4
+Wow great info, thank you. So looks like the Sierra Match King is about the closest in a HPBT design.
+
+I have a coupe of others not on your list. I'll grab some measurements from them and post. But really I need to measure from tip to ogive, smallest one wins.
+
+I haven't tried developing any loads for this one yet, not enough rounds through it. I could easily find the new barrel likes a wider array of bullets.
+ 
+A
+Ape_Factory
+Major Hide Member
+Full Member
+Minuteman
+May 23, 2020
+1,475
+1,000
+San Antonio, Texas
+Jun 19, 2024
+#5
+Doom said:
+This is a 308 chamber of some version. Forget about the VLD's, ELD's and any other super duper match grade bullet. You are going to be limited to an ~2.800" COAL with a chamber designed around tangent ogive bullets. Best bets are the 168 SMK and the 175 SMK.
+
+Like I said, I tried the VLD's and a few other "pointy" projectiles and none worked exceptionally well. The Hornday 155 match was close and I have a decent load with the 180 grain SST and the 200 grain ELD-X. I can generally get MOA or a bit over with most, the Berger VLD and Sierra 169's being the worst that I tried.
+
+I also tried the Hornady 155 tipped match and the regular HPBT match was better.
+ 
+straightshooter1
+Private
+Full Member
+Minuteman
+Dec 5, 2017
+2,768
+2,119
+AZ
+Jun 19, 2024
+#6
+Ape_Factory said:
+Short version. Looking for a HPBT bullet with similar dimensions and more consistent, precise construction than a Hornady 150 grain FMJ/BT. This is their lowest-priced bullet, #3037. I want a similar bullet as it'll provide the shortest jump to the lands in my .308 gas gun. If anyone has measured the jump to the lands (I do it to the jam) and has found something similar or better but in a HPBT design, I'm all ears.
+
+Long Version. I recently had my .308 re-barreled as it was closing on a field gauge and my overall headspace was fairly long when measured with a comparator. I had several accurate loads with this barrel, consistently MOA or less so I was sort of sorry to see it go. The accurate loads were mostly with bullets in the 150 grain range but a few that were higher in weight.
+
+My most accurate load has always been with a plane Jane Hornady 150 grain FMJ/, #3037. This is literally their least expensive bullet and it's really for plinking, not even a "match" bullet. I always thought it had to do with a number of factors, one being the rifle just liked 150 grain projectiles.
+
+Once the new barrel was in and I had the rifle back, I took it to the range for barrel break-in. Right off the bat, the same 150 grain load was shooting really well. I had a scope with a 1 MOA dot (Athlon 2-12) which made it hard to go after stellar groupings. And given the barrel was new, I wasn't expecting anything out of it at that point. I'd cleaned the barrel down to new, no copper, prior.
+
+I did have two failure to fires with light primer strikes that were very difficult to eject early on but the rest of the session went fine with no FTF's of any kind. Thinking maybe I had a very tight chamber and may need a small base die, I started measuring/testing a few different cases with known headspace below that of the of the rifle, all sized with a normal full length die (Forester or Hornady). All chambered and ejected without issue. Tried a few hand-load cartridges as well as factory Federal Gold Medal 175 grain cartridges and no issues with them either.
+
+For shits and giggles, I decided to pull out the OAL gauge (Hornady) and just see what the jump to the jam looked like. A lightbulb went off in my head and I decided to measure every bullet I had (have about 10 different bullets). What I discovered was that the el cheapo Hornady FMJ had, by far, the shortest jump to the lands. Measured, it comes out to about 2.840-2 OAL depending on the OAL of the bullet as there's always going to be some variation. Loading out to max PMAG length, I'm within .02 of the jam. Not bolt action close by any means but some bullets were far, far greater, like tenths.
+
+I'd tested various loads using Berger's 155 grain VLD (very low drag) in the old barrel and they didn't shoot well. The OAL is considerably longer to the jam with that bullet. And honestly, the shorter the jump, the more accurate the bullet has been in my experience with this particular rifle.
+
+So I'm looking for a HPBT in the 150-168 range that's provided a smaller jump to the jam than most of the "match" grade bullets. Any suggestions? Dunno if something like the Berger 180 grain OTM juggernaut or even their 168 grain classic hunter produces a shorter jump. I have some Sierra 169's which is my go-to with the bolt gun but they produce a 2.9+ OAL.
+
+Photo, left to right, Berger 155 VLD, Hornady 155 Match HPBT, Hornady 150 SST, Hornady 150 FMJ/BT.
+View attachment 8442342
+Click to expand...
+I think you're focusing on the wrong thing and asking the wrong question . . . having to do with "jump". Like, distance to the lands is such a very minor thing compared to the seating depth. And I'd suggest it's the seating depth that you should really focus on and determine what difference in seating depth is making the difference for you. That actual seating depth is going to be determined my how your seating stem of your seating die fits on a particular bullet's ogive. There can be a big difference in seating depths when comparing bullets with a secant ogives to bullets with tangent ogives.
+
+Also note that a chamber with a relatively steep feed ramp will make it harder for a secant ogive to work well. And gas guns, from what I've often heard, designed with somewhat steep feed ramps compared to what one might see in something like a precision bolt gun. I can only assume your's probably has such a feed ramp. 
+ 
+A
+Ape_Factory
+Major Hide Member
+Full Member
+Minuteman
+May 23, 2020
+1,475
+1,000
+San Antonio, Texas
+Jun 20, 2024
+#7
+Normally I'd agree with you. There are so many variables from all the components alone, brass, powder, primers, in addition to measured amounts from case size, concentricity, to the number of grains of powder and of course, seating depth. It's possible to load the secant ogive bullets to factory recommended depths and still come in under mag length. So it's not like I'm going crazy with the seating depth. With that said...see below so maybe?
+
+Almost invariably, you're loading to or just shy of mag length in a gas gun and I don't mess a ton with seating depth TBH because "usually" seating depth and jump to lands can't be optimized as the jump is too far in a gas gun. And because of that, I'd never really concerned myself with jump or jam to the lands OR my bullet selection based upon the bullet's design and ogive type. But with secant ogives, I'm having to seat them deeper than if it had a tangent ogive (most likely) to remain within the confines of the magazine's predetermined length. So maybe the additional seating depth along with other variables just don't work with that particular bullet. I will often try more than one powder. But the jump to the lands, being far greater on secant ogive bullets can't be ignored based on what I'm seeing.
+
+The 150's seat a little more shallow in the case than something like a bullet in the 180 grain range though but the position of the ogive relative to the tip varies. I'm assuming it's the same for the ogive to the base. On the Hornady 150 fmj's there's a cannelure but it's above the case neck on my load. And it obviously works. Initially, I believe I used the factory-recommended OAL for that round and it was ok, not great. I then loaded to mag length and that's when the groups were really tight.
+
+From my experiences reloading for this particular rifle, bullets with a shorter jump have usually done better, the Hornady fmj's being almost half MOA when I'm having a good day. And they have the shortest jump. Those VLD's, which I'm sure are a fine, more precise bullet than the Hornady, did horribly, enough so that I didn't waste any more primers or powder on them. Those'll be relegated to the bolt gun.
+
+You're right on the feed ramps but I've not had any issues with FTF's using any of those projectiles. With the prior barrel, it was my most reliable rifle having no FTF's or FTE's over thousands of rounds except ones that I induced myself. It just ate everything from cheap steel case ammo to 200 grain hand loads. The only thing I've not tried are the really light rounds in the 110-125 grain range.
+
+I know there are some precision gas guns out there where the lands are far closer and the jump can be taken into consideration. Mine isn't one of them and I don't consider it to be a precision rifle. It's just a lightweight 16" rifle-length gas system workhorse that just happens to shoot well.
+
+Miraculously, I have a few days off, going to go over some of my data for my other loads and see if anything else stands out about them. I also need to get more rounds down the tube before I start developing new loads for it. The good news is I can use the same head space measurement (comparator) as my bolt gun. Will make processing brass a touch easier.
+ 
+T
+tekmann2377
+Private
+Full Member
+Minuteman
+Nov 18, 2011
+180
+201
+40
+OH
+Jun 20, 2024
+#8
+I know you really want to minimize jump to the lands, but have you considered the old-style Sierra 155 SMK (#2155)? It isnt the highest BC but is fairly jump tolerant and will likely shoot at least a little better than the 150 FMJ-BT. They are also less finicky than the Sierra 2156 (the new 155 SMK). I have used the 2155 with very good results in multiple large frame AR's.
+ 
+A
+Ape_Factory
+Major Hide Member
+Full Member
+Minuteman
+May 23, 2020
+1,475
+1,000
+San Antonio, Texas
+Jun 20, 2024
+#9
+I have. I've found a few sources for them online, going to run by my local Bass Pro and see what they have in stock first. There are a few I'm looking at. Just want something that'll effectively kill pigs at distance.
+ 
+P
+pabrousseau
+Sergeant of the Hide
+Full Member
+Minuteman
+Dec 18, 2018
+177
+58
+Jun 23, 2024
+#10
+Shortest jump will be with the sierra gameking 165 bthp.
+ 
+nn8734
+NN8734
+Full Member
+Minuteman
+Supporter
+Feb 26, 2013
+4,517
+4,205
+NA
+Jun 23, 2024
+#11
+You dont need to minimize "jump" with tangent or hybrid bullet ogives. I am not sure why people still believe that to be the case.
+ 
+You must log in or register to reply here.
+Similar threads
+Y
+	
+Hornady Bullet Comparator and OAL Tool Measures over .050" too short
+yo-yo Dec 3, 2024 Reloading Depot
+40
+Dec 7, 2024
+M
+	
+208 ELDM and 212 ELDX in 30-06 questions!
+Marv_2101 Nov 12, 2024 Reloading Depot
+5
+Nov 17, 2024
+M
+	
+6.5 CM Bullet Comparator
+MMH Aug 6, 2024 Reloading Depot
+9
+Sep 13, 2024
+T
+	
+Seating Depth / Lands Measurement Way Off?
+_Thor_ Oct 14, 2024 Reloading Depot
+9
+Oct 14, 2024
+	
+SOLD WTS: 308 bullets
+trickpony Sep 29, 2024 Buy - Sell - Trade
+2
+Sep 29, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Reloading Depot
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/bullets-with-shortest-jump-to-lands-ar-308-gas-guns.7222433/ 
+ ----- 

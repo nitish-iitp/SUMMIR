@@ -1,0 +1,329 @@
+Skip to main content
+Skip to navigation
+Top Events
+NFL
+NCAAF
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+Reds
+75-71, 39-32 Away
+6
+Final/10
+Tigers
+66-78, 31-42 Home
+5
+Gamecast
+Recap
+Box Score
+Play-by-Play
+Tyler Stephenson has RBI single in 10th to lift Reds past Tigers, 6-5
+— Tyler Stephenson had an RBI single in the 10th inning in the Cincinnati Reds' 6-5 victory over the Detroit Tigers on Tuesday night.
+Sep 13, 2023, 02:48 am - AP
+
+
+CIN
+
+
+DET
+1	2	3	4	5	6	7	8	9	10	R	H	E
+0	3	2	0	0	0	0	0	0	1	6	9	0
+3	0	0	0	2	0	0	0	0	0	5	9	2
+WIN
+A. Diaz
+9-4
+1.0 IP, 0 H, 0 ER, 1 K, 0 BB
+LOSS
+A. Lange
+6-4
+1.0 IP, 1 H, 0 ER, 1 K, 0 BB
+SAVE
+B. Farmer
+3
+1.0 IP, 0 H, 0 ER, 1 K, 0 BB
+Scoring Summary
+INNING
+	CIN	DET
+		1st	Ibañez homered to left (378 feet).	0	1
+		1st	Carpenter singled to left, Torkelson scored, Carpenter to second, Rogers to third.	0	2
+		1st	Cabrera singled to right, Rogers scored, Carpenter to third.	0	3
+		2nd	Friedl singled to right, Stephenson scored, Friedl to second, De La Cruz to third.	1	3
+		2nd	India singled to left, De La Cruz scored and Friedl scored.	3	3
+		3rd	Bader doubled to center, De La Cruz scored and Votto scored.	5	3
+		5th	Ibañez doubled to left, Vierling scored.	5	4
+		5th	Carpenter singled to right, Ibañez scored.	5	5
+		10th	Stephenson singled to right, Marte scored.	6	5
+Full Play-By-Play
+Reds
+Tigers
+HITTERS	H-AB	R	HR	RBI	AVG
+
+J. India
+2B
+	1-4	0	0	2	.252
+
+N. Senzel
+3B
+	2-3	0	0	0	.233
+
+W. Benson
+PH-RF
+	0-2	0	0	0	.271
+
+S. Steer
+RF-3B-LF
+	0-5	0	0	0	.267
+
+H. Renfroe
+DH
+	0-4	0	0	0	.237
+
+N. Martini
+PH-DH
+	0-1	0	0	0	.245
+
+N. Marte
+PR-3B
+	0-0	1	0	0	.254
+
+T. Stephenson
+C
+	1-5	1	0	1	.254
+
+J. Votto
+1B
+	1-4	1	0	0	.202
+
+E. De La Cruz
+SS
+	1-4	2	0	0	.235
+
+H. Bader
+CF
+	2-4	0	0	2	.239
+
+J. Fraley
+PH
+	0-1	0	0	0	.266
+
+B. Farmer
+P
+	0-0	0	0	0	.000
+
+T. Friedl
+LF-CF
+	1-3	1	0	1	.271
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+B. Williamson
+	4.0	7	5	2	4	92-57	4.47
+
+F. Cruz
+	1.0	1	0	0	1	12-7	4.24
+
+D. Duarte
+	1.0	0	0	0	2	15-10	3.76
+
+L. Sims
+	1.0	0	0	0	0	11-5	3.42
+
+I. Gibaut
+	1.0	1	0	0	2	18-12	3.18
+
+A. Diaz
+	1.0	0	0	0	1	17-11	2.19
+
+B. Farmer
+	1.0	0	0	0	1	13-7	3.50
+HITTERS	H-AB	R	HR	RBI	AVG
+
+M. Vierling
+LF
+	1-4	1	0	0	.269
+
+A. Ibanez
+2B
+	2-4	2	1	2	.252
+
+S. Torkelson
+1B
+	1-5	1	0	0	.234
+
+J. Rogers
+C
+	2-4	1	0	0	.209
+
+A. Baddoo
+PH
+	0-1	0	0	0	.216
+
+K. Carpenter
+RF
+	2-5	0	0	2	.294
+
+M. Cabrera
+DH
+	1-4	0	0	1	.251
+
+Z. Short
+3B
+	0-2	0	0	0	.213
+
+Z. McKinstry
+PH-3B
+	0-2	0	0	0	.236
+
+J. Baez
+SS
+	0-4	0	0	0	.217
+
+P. Meadows
+CF
+	0-3	0	0	0	.197
+PITCHERS	IP	H	ER	BB	K	PC-ST	ERA
+
+J. Wentz
+	2.2	6	2	3	1	69-43	6.65
+
+B. Brieske
+	2.0	2	0	1	4	46-26	4.28
+
+W. Vest
+	1.1	0	0	0	4	16-12	3.15
+
+T. Holton
+	1.2	0	0	0	0	16-10	2.15
+
+J. Foley
+	1.1	0	0	0	0	19-11	2.48
+
+A. Lange
+	1.0	1	0	0	1	17-10	3.51
+Full Box Score
+Win Probability
+100
+%
+2nd
+4th
+6th
+8th
+10th
+100
+50
+100
+REDS
+TIGERS
+CIN 100
+%
+CIN 6DET 5
+
+Bottom 10th
+Carpenter struck out swinging.
+
+According to ESPN Analytics
+
+Hitting Stats
+Pitching Stats
+CIN
+DET
+Hits
+9
+9
+Home Runs
+0
+1
+Total Bases
+11
+14
+Runners LOB
+9
+7
+Full Team Stats
+Regular Season Series
+Current Series
+CIN wins 2-1
+Reds
+6
+Tigers
+5
+Game 1
+9/12
+Final/10
+Reds
+4
+Tigers
+3
+Game 2
+9/13
+Final
+Reds
+2
+Tigers
+8
+Game 3
+9/14
+Final
+Game Information
+Comerica Park
+10:40 PM, September 12, 2023
+Detroit, Michigan
+Line: CIN -125
+Over/Under: 9.5
+Attendance: 15,080
+Game Time:
+3:23
+Umpires:
+Home Plate Umpire - Adrian Johnson
+First Base Umpire - Manny Gonzalez
+Second Base Umpire - Quinn Wolcott
+Third Base Umpire - Charlie Ramos
+Gebruiksvoorwaarden
+Privacybeleid
+Gepersonaliseerde advertenties
+Europese Privacy Regelgeving
+Cookiebeleid
+Support
+Manage Privacy Preferences
+© ESPN Enterprises, Inc. Alle rechten voorbehouden.
+ 
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 870 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/game/_/gameId/401473181/reds-tigers 
+ ----- 

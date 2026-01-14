@@ -1,0 +1,237 @@
+Skip to content
+Sign in / Register
+Green settings
+Submenu
+EN
+Translate Submenu
+Main Logo
+weADAPT
+Search for:
+Learn
+Submenu
+Share
+Share Submenu
+Connect
+Submenu
+About
+About Submenu
+By switching to dark mode you can reduce the energy consumption of our digital service.
+Community Based Adaptation (CBA)
+Locally led adaptation: Promise, pitfalls, and possibilities
+This article offers a nuanced understanding of the power and justice considerations required to make locally led adaptation useful for local communities and institutions, and to resolve the tensions between LLA and other development priorities.
+Multiple Authors
+723 Page views
+24th Sep 2024
+7 min read
+22 Downloads
+Delegates from the International Community-Based Adaptation Conference. Credit: Climate Change, Agriculture and Food Security via flickr
+Bookmark
+Learn 
+Articles 
+Locally led adaptation: Promise, pitfalls, and possibilities
+
+This article is an abridged version of the original text, which can be downloaded from the right-hand column. It highlights some of the publication’s key messages below, but please access the downloadable resource for more comprehensive detail, full references, or to quote text. 
+
+Summary
+
+Locally led adaptation (LLA) has recently gained importance against top-down planning practices that often exclude the lived realities and priorities of local communities and create injustices at the local level. Critical reflections on the intersections of power and justice in LLA are, however, lacking. This article offers a nuanced understanding of the power and justice considerations required to make LLA useful for local communities and institutions, and to resolve the tensions between LLA and other development priorities.
+
+Introduction
+
+“Adapt Now”, the 2019 flagship report of the Global Commission on Adaptation set the stage for increased political momentum around the concept of locally led adaptation (LLA) and the development of eight principles for LLA by the International Institute for Environment and Development (IIED) and the World Resources Institute (WRI). Funding has followed and most recently at the 27th COP in Egypt, the Step Change initiative valuing ~ £17 million was launched to accelerate equitable and inclusive LLA in the Global South. LLA’s heightened political profile has led to a growing articulation of the concept in the academic and policy literatures. LLA is premised on the idea that adaptation should shift from centring non-local actors, to adaptation that is driven by emancipatory local participation. The goal is to enable local communities and institutions to “lead” rather than be tokenistic beneficiaries of adaptation efforts. Despite the enthusiasm around the concept of LLA, there is still relatively little experience with LLA on the ground to date. Reviews have also found that local actors are often involved primarily as recipients—they rarely assume leadership roles. This article critically analyzes the promise, pitfalls, and possibilities of LLA.
+
+Analytical framework
+
+Fraser’s definition of justice as “parity of participation” is useful for understanding the promise, pitfalls, and possibilities of LLA because it aligns neatly with the language of participatory planning commonly used in adaptation practice but also used as a basis and means of achieving LLA. Fraser outlines three dimensions of injustice: distributive (economic) injustice, recognitional (cultural) injustice, and representational (political) injustice. LLA could reproduce injustices due to the economic, cultural, and political inequalities between and amongst donors, elite actors in planning and implementing organizations, government officials, local elites, and project beneficiaries.
+
+Given that inequalities are inherent in interactions between and amongst elite organizational actors and marginalized local people and therefore continuously shape the adaptation solutions that are generated, it is important to consider how power is asserted. For this, we turn to Lukes’ “three faces of power”. The first face is the most public, whereby power is asserted through direct decision-making. The second face is power that is asserted indirectly through non-decision-making, often shorthanded as agenda setting. The third face is hegemonic or ideological power. Through hegemony, powerful actors influence the wishes and thoughts of others.
+
+We intersect Fraser’s three dimensions of injustice with Lukes’ three faces of power to identify the ways in which injustice might persist in LLA (see figure below)
+
+Intersections of Fraser’s dimensions of injustice and Lukes’ faces of power.
+Evaluating power and injustice in LLA
+
+To better understand how diverse forms of power might produce and reproduce inequality and injustice, we evaluate three critical components of LLA where these dynamics play out: (1) defining “local”, (2) controlling resources, and (3) tracking success. Using the analytical framework we described above, we elaborate on the promise, pitfalls, and possibilities of LLA as a transformative approach to climate change adaptation.
+
+Defining “local”: The promise: A core component of LLA that differentiates it from earlier approaches to adaptation such as “community-based adaptation” is the idea that “local” approaches offer benefits that non-local approaches do not. For adaptation to be truly “locally led”; however, we must interrogate the meaning of “local”. Often “local” is used in juxtaposition with “global” or “national” to indicate a subnational scale, although, in climate policy, local can even be used to refer to the national context. In each of these instances, “local” gives the impression of a smaller, more connected group of people or communities that are closer to the problem of climate change. This emphasis may encourage the exploration of more meaningful, viable, radical, and creative entry points that overcome the inherent issues, gaps, and assumptions around the notion of “community” in adaptation.
+
+The pitfalls: As LLA has gained popularity, different actors have been using the term quite differently. “Local” is used to refer to people who are quite different from each other and who have varying levels of power, which can create at least two potential challenges in practice, which we will discuss below.
+
+The first challenge is elite capture wherein the power structures at local levels mirror the same power structures of the “haves and have nots” in the wider global capitalist system. LLA projects may end up being led by the same few people in the “know” who gain access to adaptation funding in communities given the varying definitions of “local”. The second problem is whether the concept of “locally led” can be reduced to a specific geographical location or set of spatial characteristics. n the case of LLA, “local” actors targeted for adaptation interventions have varying spatial characteristics. What is needed are more nuanced and dynamic understandings that recognise the various layers and complexity in “local” and “community” framings.
+
+The possibilities: Keeping the intersecting dimensions of injustice and power in mind, we believe that each LLA intervention should specify what “local” and “locally led” means in its context, defined according to scale and desired outcomes. Improved understanding of the “who” and “what” of adaptation needs critical reflection to ensure that actions are actually locally led. Local engagement in adaptation takes place in a variety of ways along a continuum. Figure 2 illustrates the range of possibilities, beginning with the projects offering the least local agency (top) to those with the most local agency (bottom).
+
+Figure 2. Continuum of local contributions to adaptation programmes and projects.
+
+Controlling resources: The promise: LLA comes with the promise that local people can control finance and other resources available for adaptation, implying that they have both easy access to these resources and decision-making power over how they are used. To date, the push for LLA has predominantly focused on lack of finance reaching the local level. However, the trickle-down nature of adaptation finance means that actors at the lower levels of the finance hierarchy experience distributive injustice in funding. When a subset of actors dominate resources, funds can be earmarked for projects preferred by these subset of actors. LLA promises to enhance distributive justice by reducing funders’ and international organizations’ control over resources and instead increasing local actor control of them.
+
+The pitfalls: The greatest challenge to enhancing distributive justice through a locally led approach is overcoming the existing institutional infrastructures and norms that guide the flow of adaptation finance. Funders and international organizations are wary of the potential for corruption in administering resources directly to local actors and have mechanisms in place that ensure their control over what they believe to be their “investment”. However, these criteria practically prevent local actors from accessing funds directly. Funders’ ideas about what transformative adaptation should look like may also create institutional barriers to LLA. A solution may require developing local capabilities in a way that enhances local actors’ abilities to directly access and control funds based on their own priorities and needs rather than producing the institutional infrastructures that funders expect.
+
+The possibilities: There are significant improvements that can be made to the existing system for the allocation of international adaptation funding that would better facilitate LLA. This requires that funders abandon their current view of international climate finance for adaptation as an investment and instead, seeing it as resources owed to vulnerable communities according to the principles of climate justice.
+
+Tracking success: The promise: LLA acknowledges that there should be downward accountability where funders and other non-local actors report back to local actors. LLA initiatives could use metrics, evidence, learnings and other outputs of the monitoring and evaluation (M&E) process that resonate with local priorities and understandings and empower local actors to hold project leaders and funders accountable. By offering programmatic funding as opposed to project-based funding, LLA promises greater flexibility in adaptation funding. It also offers an opportunity to empower local people to create success metrics that matter to them.
+
+The pitfalls: Unlike mitigation, which focuses on reducing greenhouse gas emissions, universally applicable “success” measures are not available for adaptation. Adaptation tracking typically does not engage with what really constitutes “success” and does not address questions, such as “who has a voice in talking about adaptation success”. Available adaptation approaches may, therefore, privilege certain worldviews and processes over others. Indicators tend to be selected that can be measured cleanly and neatly such as goods and services delivered, number of beneficiaries, and value for money. These approaches often ignore longer-term unwanted outcomes.
+
+The possibilities: As LLA’s political profile continues to increase and if it is to promote climate justice, donors and other non-local actors will need to collaborate to set up monitoring and evaluation (M&E) systems that are flexible and open to embracing a plurality of definitions and measures of adaptation success. Likewise, locally appropriate measures of reporting adaptation “failure” could be helpful, alongside an exploration of the discursive power dynamics when tracking both “success” and “failure”, which is critical for strengthening the opportunities for adaptation learning. A key question is how funding structures, power relations and the organization and implementation of adaptation interventions may open up or close down space for reflective learning processes within organizations as well as deliberative processes within projects. If experimentation, collaboration and deeper learning amongst adaptation actors become a central goal of adaptation projects, rather than delivering measurable material outputs according to usual standards, more equitable and lasting vulnerability reduction may be possible. 
+
+Conclusion
+
+The emergence of LLA, both conceptually and practically, could lead to on-the-ground transformative adaptation where “local” approaches offer benefits that non-local approaches cannot, where local institutions and people control adaptation funds and resources, where access is easier and they have more control over decision-making. Despite this potential, intersecting Fraser’s three dimensions of injustice with Lukes’ three faces of power to identify the ways in which injustice may persist in LLA, we show that due to competing interests and inequalities in actors’ power, LLA risks reproducing many of the issues that have arisen in earlier adaptation approaches. LLA could retrench existing power dynamics as some actors continue to control the agenda and wield hegemonic power over local actors in decision-making. As maladaptation is a greater possibility when equity and justice issues are not central, LLA needs to be accompanied by a deeper understanding of a community’s underlying vulnerabilities and their drivers in order for it to avoid reproducing or reinforcing existing vulnerabilities or creating new ones.
+
+As large as the promises of LLA are, there are dangers that the concept may facilitate governments to abandon their role in enabling people’s adaptive capacities and instead leave it up to the “local” actors to adapt and fend for themselves. Unless issues of power and justice are at the forefront, LLA risks increasing the onus of adaptation, which already falls on those most affected and those who are least responsible for climate change and have the least resources to address it. Ultimately, the utility of the LLA framing in promoting climate justice needs to be tested empirically.
+
+Now is the time to move beyond the rhetoric, incremental shifts and organizational tweaks. A call for LLA should result in delegating more authority to diverse local actors and covering their core costs, not just passing on the responsibility for achieving results. In doing so, funding, expertise, and resources should be made available to, and be controlled by, local actors as well as disentangled from the values and expectations of funders, with external actors becoming facilitators or enablers. 
+
+Suggested citation
+
+Rahman, M.F., Falzon, D., Robinson, Sa. et al. Locally led adaptation: Promise, pitfalls, and possibilities. Ambio 52, 1543–1557 (2023). https://doi.org/10.1007/s13280-023-01884-7
+
+Like
+Comment
+Share
+Further resources
+Savio Rousseau Rozario Published a Blog
+Interview: Why trust, not cash, is key to locally led adaptation
+This blog explains why donors should put CASH – ‘compassion, accountability, security and honour’ – at the heart of efforts to help local communities build resilience to climate change.
+6th Sep 2024
+5 min read
+Marie-Eve Landry Published an Event
+Recording: Unlocking finance for locally led adaptation: Overcoming blockages and getting money to where it’s needed most
+This webinar explored concrete efforts to facilitate access to quality finance for locally led adaptation.
+Event: 28/08/2024 - 12:00 (UTC +00:00) - 14:00 (UTC +00:00)
+1 min read
+Multiple Authors
+Factsheet for young people: Locally Led Adaptation
+How can locally led adaptation respond to highly localized risks in contexts marked by deficits in formal governance machinery? Learn more in this factsheet, which is part of a series that presents information from the Global Center on Adaptation’s flagship reports State and Trends in Adaptation in Africa 2021 and 2022.
+21st Jul 2023
+3 min read
+Featured Resources
+Locally led adaptation: Promise, pitfalls, and possibilities (2023)
+22 Views
+Download
+Contributors
+M. Feisal Rahman
+Postdoctoral Research Associate
+Trained in Environmental Engineering, I work at the intersection of natural science, social science, and public policy. My...
+Follow
+Stacy-ann Robinson
+PhD Scholar (Climate Change Adaptation) & International Consultant
+Follow
+Lisa Schipper
+Professor for Development Geography
+University of Bonn
+
+The focus of my research is what causes people to be vulnerable to climate change in the Global South, and the barriers an...
+1 Follower
+Follow
+Bernadette P. Resurrección
+Senior Research Fellow
+SEI
+
+Dr. Bernadette (Babette) P. Resurrección is a Senior Research Fellow at the SEI Asia Centre. Babette is co-lead of SEI's T...
+Follow
+Md Nadiruzzaman
+Assistant Professor
+I am an Assistant Professor in the department of Health, Ethics and Society and Co-Vice Directorof the Master in Global He...
+Follow
+Tags
+distributive justice
+power imbalances
+climate justice
+locally led adaptation
+Locally-led adaptation
+Article Theme
+Community Based Adaptation (CBA)
+This theme aims to support and connect people working to empower communities to adapt to climate change and features monthly collaborative learning CBA forums.
+179 Members
+Join
+Share
+Contributing organisations
+UoN
+Contact
+Rutgers University
+1 Member
+Contact
+University of Pennsylvania
+1 Member
+Contact
+Northeastern University
+1 Member
+Contact
+Griffith University
+13 Members
+Contact
+University of Oxford
+59 Members
+Contact
+University of Bonn
+2 Members
+Contact
+University of Queensland
+2 Members
+Contact
+Queen’s University
+1 Member
+Contact
+Makerere University
+5 Members
+Contact
+Maastricht University
+1 Member
+Contact
+View all Organisations
+Related Themes & Networks
+Community Based Adaptation (CBA)
+This theme aims to support and connect people working to empower communities to adapt to climate change and features monthly collaborative learning CBA forums.
+179 Members
+Join
+Share
+Published: 24th Sep 2024
+Add your project
+
+Exchange your climate change adaptation projects and lessons learned with the global community.
+
+Add
+
+weADAPT
+Subscribe to newsletter
+Get in touch
+Contact
+Frequently Asked Questions
+Services
+About weADAPT
+Microsites
+Information
+Privacy Policy
+Terms of Use
+Creative Commons
+Cookie Notice
+Join the weADAPT community
+I accept the 
+Terms of Use
+ and 
+Privacy Policy
+
+By subscribing, you will receive the latest adaptation updates, insights, news, articles and events. You can change your mind at any time by clicking the unsubscribe link in the footer of each newsletter or by contacting info@weADAPT.org.
+
+Facebook
+X
+LinkedIn
+weADAPT® is partly funded by core support to SEI from Sida and has been established since 2007.
+×
+This website uses cookies
+This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+UNCLASSIFIED
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+ 
+ 
+ ----- 
+ Source link : https://weadapt.org/knowledge-base/community-based-adaptation/locally-led-adaptation-promise-pitfalls-and-possibilities/ 
+ ----- 

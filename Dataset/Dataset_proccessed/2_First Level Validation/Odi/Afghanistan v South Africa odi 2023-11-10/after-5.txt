@@ -1,0 +1,354 @@
+AFG vs SA
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+42nd Match (D/N), Ahmedabad, November 10, 2023, ICC Cricket World Cup
+AFG
+244
+SA
+(47.3/50 ov, T:245) 247/5
+
+South Africa won by 5 wickets (with 15 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+AFG 0.00%
+SA 100%
+AFG
+SA
+100%
+50%
+100%
+AFG Innings
+SA Innings
+
+Over 48 • SA 247/5
+
+South Africa won by 5 wickets (with 15 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Blog
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Rassie van der Dussen
+, SA
+76* (95)
+CRICINFO'S MVP
+Azmatullah Omarzai
+, AFG
+127.54 pts
+Impact List
+Afghanistan
+South Africa
+Match Flow
+Info
+Afghanistan  (50 ovs maximum)
+Batting	R	B	4s	6s	SR
+
+Rahmanullah Gurbaz 
+	25	22	3	1	113.63
+
+c Klaasen b Maharaj
+
+
+Ibrahim Zadran 
+	15	30	3	0	50.00
+
+c †de Kock b Coetzee
+
+
+Rahmat Shah 
+	26	46	2	0	56.52
+
+c Miller b Ngidi
+
+
+Hashmatullah Shahidi (c)
+	2	7	0	0	28.57
+
+c †de Kock b Maharaj
+
+
+Azmatullah Omarzai 
+	97	107	7	3	90.65
+
+not out
+
+
+Ikram Alikhil †
+	12	14	1	1	85.71
+
+c †de Kock b Coetzee
+
+
+Mohammad Nabi 
+	2	3	0	0	66.66
+
+c †de Kock b Ngidi
+
+
+Rashid Khan 
+	14	30	0	0	46.66
+
+c †de Kock b Phehlukwayo
+
+
+Noor Ahmad 
+	26	32	4	0	81.25
+
+c †de Kock b Coetzee
+
+
+Mujeeb Ur Rahman 
+	8	5	0	1	160.00
+
+c Markram b Coetzee
+
+
+Naveen-ul-Haq 
+	2	4	0	0	50.00
+
+run out (Rabada)
+
+Extras	15	(b 4, lb 1, w 10)
+Total	244	
+50 Ov (RR: 4.88)
+
+
+Fall of wickets: 1-41 (Rahmanullah Gurbaz, 8.1 ov), 2-41 (Ibrahim Zadran, 9.3 ov), 3-45 (Hashmatullah Shahidi, 10.5 ov), 4-94 (Rahmat Shah, 23.5 ov), 5-112 (Ikram Alikhil, 26.5 ov), 6-116 (Mohammad Nabi, 27.4 ov), 7-160 (Rashid Khan, 37.5 ov), 8-204 (Noor Ahmad, 45.6 ov), 9-226 (Mujeeb Ur Rahman, 47.4 ov), 10-244 (Naveen-ul-Haq, 49.6 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Kagiso Rabada
+	10	0	40	0	4.00	0	0
+
+Lungi Ngidi
+	8.3	0	69	
+2
+	8.11	6	0
+
+Aiden Markram
+	4.3	0	25	0	5.55	0	0
+
+Gerald Coetzee
+	10	1	44	
+4
+	4.40	2	0
+
+Keshav Maharaj
+	10	1	25	
+2
+	2.50	2	0
+
+Andile Phehlukwayo
+	7	0	36	
+1
+	5.14	0	0
+South Africa  (T: 245 runs from 50 ovs)
+Batting	R	B	4s	6s	SR
+
+Quinton de Kock †
+	41	47	2	3	87.23
+
+lbw b Mohammad Nabi
+
+
+Temba Bavuma (c)
+	23	28	3	0	82.14
+
+c Rahmanullah Gurbaz b Mujeeb Ur Rahman
+
+
+Rassie van der Dussen 
+	76	95	6	1	80.00
+
+not out
+
+
+Aiden Markram 
+	25	32	1	1	78.12
+
+c Naveen-ul-Haq b Rashid Khan
+
+
+Heinrich Klaasen 
+	10	13	1	0	76.92
+
+b Rashid Khan
+
+
+David Miller 
+	24	33	1	1	72.72
+
+c & b Mohammad Nabi
+
+
+Andile Phehlukwayo 
+	39	37	1	3	105.40
+
+not out
+
+Extras	9	(lb 3, w 6)
+Total	247/5	
+47.3 Ov (RR: 5.20)
+
+
+Did not bat: 
+Gerald Coetzee, 
+Keshav Maharaj, 
+Kagiso Rabada, 
+Lungi Ngidi 
+
+
+Fall of wickets: 1-64 (Temba Bavuma, 10.6 ov), 2-66 (Quinton de Kock, 13.1 ov), 3-116 (Aiden Markram, 23.1 ov), 4-139 (Heinrich Klaasen, 27.3 ov), 5-182 (David Miller, 37.1 ov) • 
+DRS
+Bowling	O	M	R	W	ECON	WD	NB
+
+Mujeeb Ur Rahman
+	10	0	51	
+1
+	5.10	1	0
+
+Naveen-ul-Haq
+	6.3	0	52	0	8.00	1	0
+
+Mohammad Nabi
+	10	1	35	
+2
+	3.50	0	0
+
+Azmatullah Omarzai
+	1	0	8	0	8.00	0	0
+
+Rashid Khan
+	10	1	37	
+2
+	3.70	1	0
+
+Noor Ahmad
+	9	0	49	0	5.44	3	0
+
+Rahmat Shah
+	1	0	12	0	12.00	0	0
+Unlocking the magic of Statsguru
+Match Flow
+Afghanistan innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 41 runs, 2 wickets)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 132 runs, 5 wickets)
+Afghanistan: 50 runs in 12.6 overs (78 balls), Extras 3
+Drinks: Afghanistan - 53/3 in 14.0 overs (Rahmat Shah 6, Azmatullah Omarzai 2)
+Afghanistan: 100 runs in 24.5 overs (149 balls), Extras 3
+Over 27.4: Review by South Africa (Bowling), Decision Challenged - Wicket, Umpire - CM Brown, Batter - Mohammad Nabi (Upheld)
+Drinks: Afghanistan - 124/6 in 29.0 overs (Azmatullah Omarzai 31, Rashid Khan 1)
+Over 33.4: Review by South Africa (Bowling), Decision Challenged - Wicket, Umpire - CM Brown, Batter - Rashid Khan (Struck down)
+Afghanistan: 150 runs in 34.3 overs (207 balls), Extras 11
+Azmatullah Omarzai: 50 off 71 balls (4 x 4, 1 x 6)
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 71 runs, 3 wickets)
+Afghanistan: 200 runs in 45.2 overs (272 balls), Extras 12
+Innings Break: Afghanistan - 244/10 in 50.0 overs (Azmatullah Omarzai 97)
+South Africa innings
+Powerplay 1: Overs 0.1 - 10.0 (Mandatory - 57 runs, 0 wicket)
+South Africa: 50 runs in 9.2 overs (56 balls), Extras 0
+1st Wicket: 50 runs in 56 balls (Q de Kock 33, T Bavuma 17, Ex 0)
+Powerplay 2: Overs 10.1 - 40.0 (Mandatory - 135 runs, 5 wickets)
+Over 13.1: Review by Afghanistan (Bowling), Decision Challenged - Wicket, Umpire - CM Brown, Batter - Q de Kock (Upheld)
+Drinks: South Africa - 83/2 in 17.0 overs (HE van der Dussen 7, AK Markram 11)
+South Africa: 100 runs in 20.1 overs (121 balls), Extras 1
+3rd Wicket: 50 runs in 57 balls (HE van der Dussen 23, AK Markram 25, Ex 2)
+South Africa: 150 runs in 30.2 overs (182 balls), Extras 5
+Over 33.4: Review by Afghanistan (Bowling), Decision Challenged - Wicket, Umpire - CM Brown, Batter - HE van der Dussen (Struck down)
+Drinks: South Africa - 175/4 in 35.0 overs (HE van der Dussen 52, DA Miller 19)
+HE van der Dussen: 50 off 66 balls (5 x 4, 1 x 6)
+Powerplay 3: Overs 40.1 - 50.0 (Mandatory - 55 runs, 0 wicket)
+South Africa: 200 runs in 42.3 overs (255 balls), Extras 6
+Over 42.3: Mujeeb Ur Rahman got 2nd warning for running on to the protected area of the pitch (by umpire Nitin Menon)
+6th Wicket: 50 runs in 60 balls (HE van der Dussen 23, AL Phehlukwayo 29, Ex 3)
+Match Details
+Narendra Modi Stadium, Ahmedabad
+
+Toss	Afghanistan, elected to bat first
+Series	
+ICC Cricket World Cup
+
+Season	
+2023/24
+
+Player Of The Match	
+Rassie van der Dussen
+
+Match number	
+ODI no. 4699
+
+Hours of play (local time)	14.00 start, First Session 14.00-17.30, Interval 17.30-18.00, Second Session 18.00-21.30
+Match days	10 November 2023 - daynight (50-over match)
+Umpires	
+Chris Brown
+DRS
+Nitin Menon
+DRS
+
+TV Umpire	
+Kumar Dharmasena
+
+Reserve Umpire	
+Chris Gaffaney
+
+Match Referee	
+Jeff Crowe
+
+Points	South Africa 2, Afghanistan 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 874 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/afghanistan-vs-south-africa-42nd-match-1384433/full-scorecard 
+ ----- 

@@ -1,0 +1,586 @@
+Skip to content
+
+🚀 Free and fast shipping worldwide!
+
+🛠️ A great range of only the best tools & supplies.
+
+Daitool
+0
+Cart
+items
+TOOLS
+GARDENING
+ELECTRICAL
+SPECIALTY
+PPE
+OUTDOOR
+BRANDS
+SALE
+ Login / Register
+ Wishlist
+ About Us
+ Help Center
+United States
+Home Daitool Blog
+6 min read
+March 26, 2024
+by Simon Way
+The Best Guide To Removing A Stripped Bolt
+Author: Simon Way Guides
+Jump to:
+What Do We Mean By A Stripped Bolt?
+Prevention Is Better Than Cure
+Steps For Removing A Stripped Bolt
+Useful Tools For the Job
+More Drastic Measures
+Safety Equipment
+Patience Is The Key
+
+Undoing or removing a bolt is simply a matter of finding the right-sized spanner or wrench and applying the necessary force, right? Well, in theory, that is the case, but there are cases where the head of the bolt has become damaged, or stripped, and it is not possible to remove it in the normal way. Unless resolved quickly, these situations can become a workman’s worst nightmare as the whole project may get put on hold until the offending, pesky item can be tackled effectively.
+
+If you are faced with this situation fear not! This article, after looking at what a stripped bolt is, and the causes of a stripped bolt, will give you the lowdown on the best methods to try to remove a stripped bolt, which tools to use for each, and the safety equipment required when trying out the various measures discussed.
+
+What Do We Mean By A Stripped Bolt?
+
+Before looking at how to tackle the problem itself, it would perhaps be useful to define exactly what we mean by a stripped bolt. In this article, it will be given its broadest meaning of some part of the bolt becoming damaged to the extent that the bolt is impossible (or at least very difficult) to remove.
+
+This can refer to the head becoming rounded or broken off, the bolt itself becoming rusted or the threads becoming damaged to the extent that the bolt will not turn. 
+
+To start off, let’s look at what we can do to stop the problem from occurring in the first place.
+
+Prevention Is Better Than Cure
+
+Adhering to the maxim that “prevention is better than cure”, we should first look at what causes a bolt to strip in the first place, so we can try and avoid it in advance. 
+
+Firstly, when tightening the bolt, it is necessary to give it just the right amount of torque as both over-tightening and under-tightening a bolt can lead to problems. If you tighten the bolt too much, this can exceed the tensile rating of the bolt and cause the head of the bolt to snap. Conversely, if you do not tighten it sufficiently, the bolt may move around on the thread and this can wear down (that is to say, flatten or dent) the threads.
+
+If you use a wrench that is too big to tighten the screws this can round off the edges of the bolt head, making it difficult to grip it when you want to remove it later.
+
+There is also cross-threading, where the threads become marred or damaged and fail to line up correctly, and the threads may become damaged to the point they are unusable, and you are unable to rotate the bolt. Cross-threading will often be caused by forcing in a bolt that clearly does not want to go in. If it doesn’t go in smoothly, it is trying to tell you something.
+
+Steps For Removing A Stripped Bolt
+
+Remove any Outside Rust
+
+To help you grip the head of the bolt more firmly, you should use a wire brush to remove the extraneous rust on the bolt head. This will also make the application of the next step easier.
+
+Penetrating Fluid
+
+In a best-case scenario, simply applying penetrating fluid will remove any rust or grime in the bolt and, after allowing it to soak for a while, will allow you to remove the bolt in the normal way. Even though the probability of it being this easy is fairly low, applying penetrating fluid will make the following steps more likely to succeed.
+
+Screw In to Screw Out
+
+If you are able to move the bolt just a little, you may find that screwing it in first will allow you to screw it out afterward. You should keep applying more penetrating fluid if you feel you are getting some success.
+
+Tapping the Bolt Head
+
+A sharp tap of the bolt head can sometimes remove the bond between the rust and the bolt. This is a somewhat tricky balancing act, however, as too much force can damage the threads making it even harder to remove the bolt.
+
+Use of a Propane Torch
+
+Heating the bolt can cause it to expand and then contract, which again can loosen the bonds and enable you to remove the bolt. 
+
+Use a Slightly Smaller Wrench
+
+If the head has become rounded and the wrench that was originally used for the bolt does not fit anymore, you may get some joy by hammering a smaller wrench onto the bolt. This may lock it very tight and enable you to remove the bolt. Consider, however, that once you remove the bolt, it will be another job to remove the bolt from the wrench.
+
+Useful Tools For the Job
+
+If you are unable to remove the bolt using a normal wrench even after doing the above, there are a few tools that may help you do the job. 
+
+Locking Pliers
+
+The important thing when trying to budge a reluctant bolt is to make sure you get an adequate grip. This can be particularly difficult when the head has become rounded. Locking pliers can help provide adequate grip on the bolt and are thus a useful addition to anyone’s toolkit. An example are these Engineer Neji Saurus VP Series Screw Removal Locking Pliers. This product can remove stripped, rusted, torx(six-lobed), and dome headed screws, using the horizontal and vertical serrations on its jaws, which ensure good bite, and a tight grip. They feature a cutter on the inside of the jaws that can cut cooper wires, and their grip-proof elastomer handles are easy to hold and do not slip easily.
+
+Bolt Extractor Set
+
+This has reverse spiral sockets that provide extra grip onto a rounded bolt with teeth that dig into the bolt. Apply penetrating oil and tap the socket down with a hammer. 
+
+Adjustable Spanners
+
+An a monkey wrench, or adjustable spanner, may be all you need to get the job done. Unlike most monkey wrenches that have smooth mouth surfaces, the Deen Monkey Wrench Adjustable Spanner has grooves that enable you to grip the bolt without applying excessive force. This is a really useful tool in your armory for tackling rusted or greasy bolts.
+
+More Drastic Measures
+
+Whereas cleanly unscrewing the bolt is obviously the best possible scenario, there will be times it just won’t budge, or the head is worn down or even snapped off to the extent that there will be nothing to grip. In such a case, more drastic measures are required. If you are really in a jam, you might like to try the following.
+
+Creating a Groove in the Bolt
+
+A tactic less drastic than the measures to follow, but still involving altering the bolt in question is to create a groove in the bolt by attaching a metal cutting tip to a rotary cutting tool. Doing this may allow you to turn the bolt with a screwdriver.
+
+Cracking Nuts
+
+If you still cannot get the bolt out, you can try to remove the thing holding it in place. By progressively tightening a nut splitter, eventually you will split the nut and you can remove the bolt (hopefully).
+
+Drilling Out the Bolt
+
+If you are proficient with power tools, this is your last chance saloon. Again, you have to be willing to destroy some hardware. Add successively larger bits to a drill and keep drilling until the bolt breaks apart.
+
+Safety Equipment
+
+Some of the above activities required safety equipment, namely safety goggles and mechanic gloves. Penetrating fluids are toxic and should be handled with care. It is also important to wear goggles and gloves when using a propane torch to loosen the bolt or if you are forced to drill out the bolt.
+
+Patience Is The Key
+
+In this article, we have looked at what we mean by a stripped bolt, looked at the causes of a bolt becoming stripped, looked at various methods with different levels of destructiveness, some good tools to use, and discussed safety considerations.
+
+The important thing is that patience is the key. It is possible to remove any bolt, however damaged it is. Methodically going through the measures described above is your way home to solving this particular headache. 
+
+Do you know any other ways of removing stripped bolts? Let us know in the comments.
+
+About the author
+Simon Way
+
+Simon is a freelance writer for Daitool who is currently living in Koto-Ku, Tokyo. He first came to Japan more than 30 years ago, after graduating with a BA joint honours in English Literature/Philosophy from the University of Keele in the UK. Simon enjoys working during the day at some of the many great coffee shops in East Tokyo, and is particularly interested in writing food-and-drink-based/travel/culture articles about Japan. In his free time, he enjoys domestic and international travel, going for walks with his two French Bulldogs, and following his favourite football (soccer) team.
+
+View articles by Simon Way
+Share:
+Share
+Share on Facebook
+Tweet
+Tweet on Twitter
+Pin it
+Pin on Pinterest
+Share via email
+Share via email
+Fan favorites
+View all
+Add
+Deen
+Deen Fast Action Twist Handle Reversible Ratchet Wrench & Screwdriver
+$89.00
+Add
+Lobster
+Lobster Hybrid Thin & Lightweight Adjustable Monkey Wrench
+$20.99
+Add
+Fujiya
+Rated 5.0 out of 5 stars
+1
+Fujiya Kurokin Adjustable Monkey Wrench And Ratchet Wrench FGL-38-BG
+$38.00
+Add
+TONE
+Rated 5.0 out of 5 stars
+1
+Tone Lightweight Stubby Adjustable Monkey Wrench 140mm MWRS-36
+$32.00
+Add
+Engineer
+Engineer Smart Monkey Wrench TWM-07
+$26.95
+Add
+Deen
+Deen 1/4 Inch T-Handle Combination Socket Wrench & Bit Holder
+$39.00
+Add
+Deen
+Rated 5.0 out of 5 stars
+1
+Deen Delta Palm Ratchet Reversible Thumbwheel Ratchet Wrench
+$34.00
+Add
+Deen
+Deen Swivel Head Spinner Handle Non-Ratcheting Bit Wrench
+$29.95
+Add
+KTC
+KTC Combination Wrench Set (10-Pieces Box) TM-510
+$165.00
+Add
+TONE
+Rated 5.0 out of 5 stars
+1
+Tone Bit Ratchet Set 22 Pieces BRS20
+$39.99
+Add
+Koken
+Koken Z-Series 72-Tooth 3/8" Ratcheting Socket Wrench Set (21 Pieces) 3286Z
+$276.00
+Add
+Lobster
+Lobster Aluminum Offset Pipe Wrench Corner Wrench
+$79.00 $67.15
+On Sale
+0 comments
+Leave a comment
+
+Please note, comments must be approved before they are published
+
+Name*
+Email*
+Comment*
+SUBMIT
+Subscribe to our newsletter
+
+Subscribe to receive exclusive offers and essential updates.
+
+→
+Related Picks
+Micrometers vs Calipers: Which Tool Best Fits Your Measurement Needs?
+9 min read
+December 26, 2024
+Everything You Need To Know About Weed Removal
+9 min read
+November 25, 2024
+A Beginner's Guide to Tree Pruning: When, What, and How to Trim
+11 min read
+November 07, 2024
+The Ultimate Guide to Choosing the Best Ratchets for Everyday Use
+10 min read
+October 09, 2024
+SIGN UP FOR OUR NEWSLETTER
+→
+ 
+
+Explore our other brands
+
+SHOP
+Tools
+Gardening
+Electrical
+Specialty
+PPE
+Outdoor
+Brands
+Sale
+MY ACCOUNT
+Login
+Register
+Wishlist
+ABOUT
+About Us
+Brands
+Blog
+Reviews
+HELP
+Sign in
+Help Center
+Live Chat
+Contact Us
+Shipping & Deliveries
+Returns Policy
+Delivering to
+United States
+Returns Policy Privacy Policy
+
+Copyright © 2024, Expandy Co. Ltd. or its affiliates. All rights reserved.
+
+Payment methods accepted
+Shopping Cart
+Items
+Your cart is currently empty.
+You're now shopping in
+United States
+USD $
+Åland Islands
+EUR €
+Albania
+USD $
+Algeria
+USD $
+Andorra
+EUR €
+Angola
+USD $
+Antigua & Barbuda
+USD $
+Argentina
+USD $
+Armenia
+USD $
+Australia
+AUD $
+Austria
+EUR €
+Azerbaijan
+USD $
+Bahamas
+USD $
+Bahrain
+USD $
+Bangladesh
+USD $
+Barbados
+USD $
+Belgium
+EUR €
+Belize
+USD $
+Bermuda
+USD $
+Bhutan
+USD $
+Bolivia
+USD $
+Bosnia & Herzegovina
+USD $
+Botswana
+USD $
+Brazil
+USD $
+Brunei
+USD $
+Bulgaria
+USD $
+Cambodia
+USD $
+Canada
+CAD $
+Cape Verde
+USD $
+Cayman Islands
+USD $
+Chile
+USD $
+China
+USD $
+Colombia
+USD $
+Costa Rica
+USD $
+Côte d’Ivoire
+USD $
+Croatia
+USD $
+Curaçao
+USD $
+Cyprus
+EUR €
+Czechia
+USD $
+Denmark
+USD $
+Dominican Republic
+USD $
+Ecuador
+USD $
+Egypt
+USD $
+El Salvador
+USD $
+Equatorial Guinea
+USD $
+Estonia
+EUR €
+Ethiopia
+USD $
+Faroe Islands
+USD $
+Fiji
+USD $
+Finland
+EUR €
+France
+EUR €
+French Guiana
+EUR €
+Gabon
+USD $
+Gambia
+USD $
+Georgia
+USD $
+Germany
+EUR €
+Ghana
+USD $
+Greece
+EUR €
+Greenland
+USD $
+Grenada
+USD $
+Guadeloupe
+EUR €
+Guatemala
+USD $
+Guyana
+USD $
+Honduras
+USD $
+Hong Kong SAR
+USD $
+Hungary
+USD $
+Iceland
+USD $
+India
+USD $
+Indonesia
+USD $
+Iraq
+USD $
+Ireland
+EUR €
+Isle of Man
+USD $
+Israel
+ILS ₪
+Italy
+EUR €
+Jamaica
+USD $
+Japan
+JPY ¥
+Jordan
+USD $
+Kazakhstan
+USD $
+Kenya
+USD $
+Kosovo
+EUR €
+Kuwait
+USD $
+Kyrgyzstan
+USD $
+Laos
+USD $
+Latvia
+EUR €
+Liechtenstein
+USD $
+Lithuania
+EUR €
+Luxembourg
+EUR €
+Macao SAR
+USD $
+Madagascar
+USD $
+Malaysia
+USD $
+Maldives
+USD $
+Malta
+EUR €
+Martinique
+EUR €
+Mauritius
+USD $
+Mayotte
+EUR €
+Mexico
+USD $
+Moldova
+USD $
+Monaco
+EUR €
+Mongolia
+USD $
+Montenegro
+EUR €
+Morocco
+USD $
+Namibia
+USD $
+Nepal
+USD $
+Netherlands
+EUR €
+New Zealand
+NZD $
+Nicaragua
+USD $
+Nigeria
+USD $
+North Macedonia
+USD $
+Norway
+NOK kr
+Oman
+USD $
+Pakistan
+USD $
+Panama
+USD $
+Papua New Guinea
+USD $
+Paraguay
+USD $
+Peru
+USD $
+Philippines
+USD $
+Poland
+USD $
+Portugal
+EUR €
+Qatar
+USD $
+Réunion
+EUR €
+Romania
+USD $
+Russia
+USD $
+Samoa
+USD $
+San Marino
+EUR €
+Saudi Arabia
+SAR ر.س
+Serbia
+USD $
+Seychelles
+USD $
+Singapore
+USD $
+Slovakia
+EUR €
+Slovenia
+EUR €
+South Africa
+USD $
+South Korea
+USD $
+Spain
+EUR €
+Sri Lanka
+USD $
+St. Martin
+EUR €
+Suriname
+USD $
+Svalbard & Jan Mayen
+USD $
+Sweden
+SEK kr
+Switzerland
+CHF CHF
+Taiwan
+USD $
+Thailand
+USD $
+Trinidad & Tobago
+USD $
+Tunisia
+USD $
+Türkiye
+USD $
+Turkmenistan
+USD $
+Ukraine
+USD $
+United Arab Emirates
+AED د.إ
+United Kingdom
+GBP £
+United States
+USD $
+Uruguay
+USD $
+Uzbekistan
+USD $
+Vatican City
+EUR €
+Venezuela
+USD $
+Vietnam
+USD $
+ 
+ 
+ ----- 
+ Source link : https://daitool.com/blogs/daitool-blog/the-best-guide-to-removing-a-stripped-bolt?srsltid=AfmBOooDdukRFFiYTvgtukn7PZgydn9CXLScJ2gNtwOeCP_E_PnHKczI 
+ ----- 

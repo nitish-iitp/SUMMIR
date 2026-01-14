@@ -1,0 +1,313 @@
+Log in
+Register
+New posts
+ 
+Trending
+ 
+Search forums
+ 
+Leaderboards
+ 
+Media
+Having trouble using the site?
+Contact support
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Newbie using Hornady 4DOF ... what am I missing?
+ 
+Thread starter
+TechPilot  
+Start date
+Feb 10, 2024
+T
+TechPilot
+Private
+Minuteman
+Jan 11, 2024
+27
+33
+Kansas City, MO
+Feb 10, 2024
+#1
+I've searched here but can't find an answer...
+
+Have been reading what many of you have posted about NOT thinking in terms of inches or centimeters when you are adjusting a scope for distance. A couple of you have written that when you finally "get it," you get it. Apparently I haven't gotten it yet.
+
+When I enter all info needed into my 4DOF app, it spits out a range card with an MOA column. I then divide the MOA number (for the distance I'll be shooting) by 0.36 [the amount of MOA represented by each click of the elevation turret] and then turn the turret that number of clicks.
+
+Is that what you all go through, or am I missing something? If so, why doesn't the 4DOF app simply add a field for the click value and give you a click count instead of the MOA?
+
+What am I missing here? If this extra step is caused by me converting MOA to MRAD, can I use the 4DOF app differently and skip that conversion?
+
+Thanks in advance, I hope!
+ 
+BruceLeroy
+Private
+Full Member
+Minuteman
+Nov 25, 2007
+148
+162
+Texas
+Feb 10, 2024
+#2
+Stop doing anything in moa or inches. It doesnt matter. Come to the dark side and think in mils only. Don't convert anything. I don't even look at inches or moa for anything. It is not a consideration any more.
+ 
+Mormegil87
+Major Hide Member
+Full Member
+Minuteman
+Oct 21, 2013
+1,972
+1,776
+The Frozen Tundra
+Feb 10, 2024
+#3
+Go into the "edit" tab for your rifle and then select the hilighted part in the screen shot I've attached
+ 
+Attachments
+Screenshot_20240210_221246.jpg
+140 KB · Views: 110
+ 
+Reactions:
+Baron23, R_A_W and 6.5SH
+T
+TechPilot
+Private
+Minuteman
+Jan 11, 2024
+27
+33
+Kansas City, MO
+Feb 10, 2024
+#4
+BruceLeroy said:
+Stop doing anything in moa or inches. It doesnt matter. Come to the dark side and think in mils only. Don't convert anything. I don't even look at inches or moa for anything. It is not a consideration any more.
+That's what I'm hearing, but where do I go? My scope is in mills, so do I just use a different ballistic app?
+ 
+BruceLeroy
+Private
+Full Member
+Minuteman
+Nov 25, 2007
+148
+162
+Texas
+Feb 10, 2024
+#5
+Change the setting in the app
+ 
+ 
+Reactions:
+RayDBonz
+R_A_W
+Miderator
+Full Member
+Minuteman
+Supporter
+Dec 19, 2006
+1,035
+1,057
+Texas
+Feb 10, 2024
+#6
+TechPilot said:
+it spits out a range card with an MOA column.
+not sure if I follow what you're saying, no one shooting MRAD is getting MOA outputs
+
+tap the 3 dots on the right side of the profile, edit, switch to MRAD
+
+e - what @Mormegil87 said
+ 
+Last edited: Feb 10, 2024
+M
+Megalodong
+Sergeant of the Hide
+Full Member
+Minuteman
+Supporter
+Mar 13, 2022
+147
+163
+Denver
+Feb 10, 2024
+#7
+lol. Man. You’re making this extra double hard haha
+ 
+Trigger Monkey
+Ronin
+Full Member
+Minuteman
+Apr 29, 2005
+4,404
+5,331
+Winchester Virginia
+Feb 10, 2024
+#8
+TechPilot said:
+When I enter all info needed into my 4DOF app, it spits out a range card with an MOA column. I then divide the MOA number (for the distance I'll be shooting) by 0.36 [the amount of MOA represented by each click of the elevation turret] and then turn the turret that number of clicks.
+
+BTW this math is wrong. If you need to convert a MOA value to a mil value you divide MOA by 3.438. 1 MOA / 3.438 = .3 mrad.
+
+What do you pilot?
+ 
+ 
+Reactions:
+TechPilot, mtnhunter22 and Rob01
+MO Fugga
+Asshole
+Full Member
+Minuteman
+Feb 1, 2024
+533
+904
+Midwest
+Feb 10, 2024
+#9
+Strelok Pro is the best $11 you'll ever spend. If it's still available, that is.
+ 
+ 
+Reactions:
+RayDBonz
+Rob01
+Moderator
+Staff member
+Moderator
+Full Member
+Minuteman
+ 
+Jul 9, 2001
+17,186
+13,762
+NC
+Feb 10, 2024
+#10
+You can just click on the bottom corner where it gives you your come up in moa and this will come up below. Just hit MRAD and then set and you will get data in mils.
+
+
+ 
+ 
+Reactions:
+TechPilot
+T
+TechPilot
+Private
+Minuteman
+Jan 11, 2024
+27
+33
+Kansas City, MO
+Feb 10, 2024
+#11
+Thanks guys, that helps a lot. I WAS converting correctly six months ago and nailing targets out to 650 yards, but have been traveling for work and forgot how I did it. I appreciate your patience. Now I don't have to convert anything.
+ 
+T
+TechPilot
+Private
+Minuteman
+Jan 11, 2024
+27
+33
+Kansas City, MO
+Feb 11, 2024
+#12
+Megalodong said:
+lol. Man. You’re making this extra double hard haha
+I realize that now, but that's what my pro trainer taught me to do (even though months later I forgot the calculation, it worked at the time). Maybe that was just his way of messing with me and to go back to the shop with another hilarious Noob story?!
+ 
+Bluedog82
+Gunny Sergeant
+Full Member
+Minuteman
+Dec 18, 2019
+908
+674
+Feb 12, 2024
+#13
+TechPilot said:
+I realize that now, but that's what my pro trainer taught me to do (even though months later I forgot the calculation, it worked at the time). Maybe that was just his way of messing with me and to go back to the shop with another hilarious Noob story?!
+What “pro” trainer recommended converting data from your ballistic app into MOA when your scope is already in mils?
+ 
+Trigger Monkey
+Ronin
+Full Member
+Minuteman
+Apr 29, 2005
+4,404
+5,331
+Winchester Virginia
+Feb 12, 2024
+#14
+Did he say his call sign was Krieger?
+ 
+T
+TechPilot
+Private
+Minuteman
+Jan 11, 2024
+27
+33
+Kansas City, MO
+Feb 12, 2024
+#15
+Bluedog82 said:
+What “pro” trainer recommended converting data from your ballistic app into MOA when your scope is already in mils?
+No comment. 
+ 
+ 
+Reactions:
+Bluedog82
+You must log in or register to reply here.
+Similar threads
+R
+	
+Come ups in Hornady 4DOF App?
+rmiked Jan 31, 2024 Observation & Sighting Devices
+7
+Feb 1, 2024
+	
+At What Distance Should I Use Ballistics Calculator
+Airik Farley Apr 9, 2024 Practical Marksmanship Questions
+8
+Apr 25, 2024
+	
+Winners Chosen - Next Drawing is August 7
+gr8fuldoug Jul 3, 2024 Observation & Sighting Devices
+0
+Jul 3, 2024
+	
+Beginner Could Use Some Advice
+XrayDoc88 Jul 20, 2024 Practical Marksmanship Questions
+71
+Nov 23, 2024
+R
+	
+Federal 308 Premium Gold Medal 168gr Sierra MK velocity out of my AR10
+Rick2001 Jul 8, 2024 Semi-Automatic Rifles
+31
+Jul 10, 2024
+Share:
+Facebook
+X (Twitter)
+WhatsApp
+Email
+Link
+Forums
+The Hide Armory
+Observation & Sighting Devices
+Realms: Sniper's Hide (Dark)
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+You must be at least 18 years of age to use this site
+You confirm that you are at least 18 years of age by continuing to use the site.
+Confirm
+ 
+ 
+ ----- 
+ Source link : https://www.snipershide.com/shooting/threads/newbie-using-hornady-4dof-what-am-i-missing.7207307/ 
+ ----- 

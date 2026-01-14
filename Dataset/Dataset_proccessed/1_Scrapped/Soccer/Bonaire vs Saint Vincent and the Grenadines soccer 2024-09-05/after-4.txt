@@ -1,0 +1,1214 @@
+Football
+Hockey
+Basketball
+Tennis
+Cricket
+Settings
+Home
+Live
+Favourites
+England
+Champions League
+Champions League 23/24
+Spain
+Italy
+Germany
+France
+Netherlands
+Scotland
+Turkiye
+Europa League
+Europa Conference League 23/24
+Euro 2024 Qualification
+Euro 2024
+UEFA Nations League
+International
+World Cup Qualification
+Africa Cup of Nations 2023
+UEFA Women's CL
+UEFA Nations League Women
+Copa Libertadores
+Copa Sudamericana
+Africa Cup of Nations Qualification
+African Nat. Champ.
+Club Friendlies
+Women's World Cup
+International Friendlies
+Women's World Cup Qualification
+Women's Euro
+Women's World Cup U20
+World Cup U20
+Women's World Youth Cup
+World Youth Cup
+Women's Euro U19
+Women's Euro U17
+Women's World Cup U17
+World Cup U17
+UEFA Youth League
+Euro U21 2025
+Euro U21
+Euro U19
+Euro U19 Qualification
+Euro U17
+CONCACAF Nat. League
+CONCACAF Championship U20
+Copa America
+AFC Asian Cup
+AFC Women's Club Championship
+CONCACAF Gold Cup
+Africa
+Asia
+CONCACAF
+Oceania
+South America
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Benin
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Chile
+China
+Colombia
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+DR Congo
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Mali
+Malta
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Romania
+Rwanda
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+USA
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
+World Cup 2022
+Champions League 22/23
+Champions League 21/22
+Champions League 20/21
+Champions League 19/20
+Europa League 22/23
+Europa League 21/22
+Europa League 20/21
+Europa League 19/20
+Europa Conference League 22/23
+Europa Conference League 21/22
+Africa Cup of Nations 2021
+Euro 2020
+UEFA Women's CL 22/23
+Women's CAF Champions League
+CONCACAF Women Gold Cup
+UEFA Nations League 22/23
+Paris 2024 Women
+Europa League 23/24
+The Games - Men
+The Games - Women
+Conference League
+CONCACAF Women Champions Cup
+World Cup 2026
+DEC 25
+DEC 26
+DEC 27
+TODAY
+DEC 29
+DEC 30
+DEC 31
+UEFA NATIONS LEAGUE - LEAGUE A: GROUP 1
+SEPTEMBER 5
+FT
+Portugal
+2 - 1
+Croatia
+FT
+Scotland
+2 - 3
+Poland
+UEFA NATIONS LEAGUE - LEAGUE A: GROUP 4
+SEPTEMBER 5
+FT
+Denmark
+2 - 0
+Switzerland
+FT
+Serbia
+0 - 0
+Spain
+UEFA NATIONS LEAGUE - LEAGUE C: GROUP 1
+SEPTEMBER 5
+FT
+Azerbaijan
+1 - 3
+Sweden
+FT
+Estonia
+0 - 1
+Slovakia
+UEFA NATIONS LEAGUE - LEAGUE C: GROUP 3
+SEPTEMBER 5
+FT
+Belarus
+0 - 0
+Bulgaria
+FT
+Northern Ireland
+2 - 0
+Luxembourg
+UEFA NATIONS LEAGUE - LEAGUE D: GROUP 1
+SEPTEMBER 5
+FT
+San Marino
+1 - 0
+Liechtenstein
+WORLD CUP QUALIFICATION - CONMEBOL QUALIFICATION
+SEPTEMBER 5
+FT
+Bolivia
+4 - 0
+Venezuela
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP A
+SEPTEMBER 5
+FT
+Tunisia
+1 - 0
+Madagascar
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP B
+SEPTEMBER 5
+FT
+Central African Republic
+3 - 1
+Lesotho
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP E
+SEPTEMBER 5
+FT
+Algeria
+2 - 0
+Equatorial Guinea
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP F
+SEPTEMBER 5
+FT
+Ghana
+0 - 1
+Angola
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP I
+SEPTEMBER 5
+FT
+Guinea-Bissau
+1 - 0
+Eswatini
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP K
+SEPTEMBER 5
+FT
+Congo
+1 - 0
+South Sudan
+AFRICA CUP OF NATIONS QUALIFICATION - QUALIFICATION: GROUP L
+SEPTEMBER 5
+FT
+Malawi
+2 - 3
+Burundi
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 3RD ROUND: GROUP A
+SEPTEMBER 5
+FT
+Uzbekistan
+1 - 0
+North Korea
+FT
+Iran
+1 - 0
+Kyrgyzstan
+FT
+Qatar
+1 - 3
+UAE
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 3RD ROUND: GROUP B
+SEPTEMBER 5
+FT
+South Korea
+0 - 0
+Palestine
+FT
+Iraq
+1 - 0
+Oman
+FT
+Jordan
+1 - 1
+Kuwait
+WORLD CUP QUALIFICATION - AFC QUALIFICATION: 3RD ROUND: GROUP C
+SEPTEMBER 5
+FT
+Australia
+0 - 1
+Bahrain
+FT
+Japan
+7 - 0
+China
+FT
+Saudi Arabia
+1 - 1
+Indonesia
+WORLD CUP QUALIFICATION - OFC QUALIFICATION: 1ST ROUND
+SEPTEMBER 5
+FT
+Cook Islands
+1 - 3
+Tonga
+CONCACAF NATIONS LEAGUE - LEAGUE A: GROUP 1
+SEPTEMBER 5
+FT
+Guyana
+1 - 3
+Suriname
+CONCACAF NATIONS LEAGUE - LEAGUE A: GROUP 2
+SEPTEMBER 5
+FT
+French Guiana
+0 - 1
+Nicaragua
+CONCACAF NATIONS LEAGUE - LEAGUE B: GROUP 1
+SEPTEMBER 5
+FT
+Montserrat
+1 - 4
+El Salvador
+AFC ASIAN CUP - QUALIFICATION PLAY-OFFS
+SEPTEMBER 5
+FT
+Timor-Leste
+4 - 1
+Mongolia
+FT
+Sri Lanka
+0 - 0
+Cambodia
+BRAZIL - SERIE A
+SEPTEMBER 5
+FT
+Cuiaba
+0 - 0
+Juventude
+INTERNATIONAL FRIENDLIES - FRIENDLIES 2024
+SEPTEMBER 5
+FT
+Solomon Islands
+0 - 3
+Hong Kong
+FT
+Bhutan
+0 - 1
+Bangladesh
+CLUB FRIENDLIES - CLUB FRIENDLIES 2024
+SEPTEMBER 5
+FT
+Austria Lustenau
+1 - 0
+FC Wil 1900
+FT
+Sturm Graz
+4 - 1
+Kapfenberger SV
+FT
+Widzew Lodz
+3 - 0
+Wisla Plock
+FT
+FC Copenhagen
+1 - 2
+Landskrona BoIS
+FT
+FC Twente
+2 - 4
+Fortuna Dusseldorf
+FT
+Union Berlin
+2 - 2
+Eintracht Braunschweig
+FT
+Vaesteraas IK
+2 - 1
+AIK
+FT
+VfL Bochum
+3 - 1
+RW Essen
+FT
+VfL Osnabrück
+3 - 4
+Magdeburg
+FT
+Dynamo Dresden
+2 - 2
+Hertha Berlin
+FT
+Grasshopper
+1 - 2
+Aarau
+FT
+VfB Stuttgart
+4 - 1
+Kaiserslautern
+FT
+Winterthur
+0 - 1
+Thun
+FT
+US Darfo Boario
+0 - 5
+Brescia
+FT
+Augsburg
+4 - 1
+SSV Ulm 1846
+FT
+FC Marchfeld Donauauen
+3 - 3
+SV Horn
+FT
+Austria Wien
+2 - 2
+SKN St. Poelten
+FT
+Locri
+1 - 3
+Catanzaro
+FT
+Nea Salamis
+3 - 1
+Apollon Limassol
+FT
+Preussen Muenster
+3 - 2
+Werder Bremen
+FT
+Brindisi
+2 - 0
+Lazio U20
+EURO U21 2025 - QUALIFICATION: GROUP A
+SEPTEMBER 5
+FT
+Latvia U21
+0 - 1
+Norway U21
+FT
+Italy U21
+7 - 0
+San Marino U21
+EURO U21 2025 - QUALIFICATION: GROUP B
+SEPTEMBER 5
+FT
+Kazakhstan U21
+4 - 1
+Malta U21
+EURO U21 2025 - QUALIFICATION: GROUP C
+SEPTEMBER 5
+FT
+Georgia U21
+3 - 0
+Moldova U21
+FT
+Netherlands U21
+5 - 0
+North Macedonia U21
+EURO U21 2025 - QUALIFICATION: GROUP G
+SEPTEMBER 5
+FT
+Croatia U21
+2 - 1
+Faroe Islands U21
+CONCACAF WOMEN CHAMPIONS CUP - CHAMPIONS CUP WOMEN: GROUP B
+SEPTEMBER 5
+FT
+Santa Fe W
+1 - 2
+Vancouver Whitecaps FC Elite Academy
+FT
+Portland Thorns
+3 - 1
+CF America W
+INTERNATIONAL FRIENDLIES - FRIENDLIES U21
+SEPTEMBER 5
+FT
+Hungary U21
+1 - 2
+Slovakia U21
+INTERNATIONAL FRIENDLIES - FRIENDLIES U20
+SEPTEMBER 5
+FT
+Portugal U20
+2 - 1
+Norway U20
+FT
+Brazil U20
+2 - 1
+Mexico U20
+INTERNATIONAL FRIENDLIES - FRIENDLIES U19
+SEPTEMBER 5
+FT
+Serbia U19
+1 - 3
+Hungary U19
+WOMEN'S WORLD CUP U20 - GROUP C
+SEPTEMBER 5
+FT
+Morocco U20 W
+0 - 2
+USA U20 W
+WOMEN'S WORLD CUP U20 - GROUP D
+SEPTEMBER 5
+FT
+South Korea U20 W
+0 - 0
+Venezuela U20 W
+WOMEN'S WORLD CUP U20 - GROUP E
+SEPTEMBER 5
+FT
+Japan U20 W
+4 - 1
+Ghana U20 W
+WOMEN'S WORLD CUP U20 - GROUP F
+SEPTEMBER 5
+FT
+North Korea U20 W
+9 - 0
+Costa Rica U20 W
+AUSTRIA - REGIONALLIGA EAST
+SEPTEMBER 5
+FT
+SC Neusiedl am See 1919
+3 - 0
+SV Leobendorf
+AUSTRIA - REGIONALLIGA MIDDLE
+SEPTEMBER 5
+FT
+Ried (A)
+4 - 0
+Union Gurten
+CHILE - COPA CHILE
+SEPTEMBER 5
+FT
+Deportes Iquique
+1 - 2
+Coquimbo Unido
+FT
+Palestino
+0 - 5
+Universidad de Chile
+COLOMBIA - PRIMERA B: CLAUSURA
+SEPTEMBER 5
+FT
+Internacional de Palmira
+0 - 0
+Orsomarso
+FT
+Leones
+1 - 1
+Union Magdalena
+FT
+Tigres FC
+1 - 0
+Bogota FC
+COSTA RICA - LIGA DE ASCENSO: APERTURA: GROUP B
+SEPTEMBER 5
+FT
+Antioquia
+1 - 0
+Futbol Consultants
+COSTA RICA - COPA COSTA RICA
+SEPTEMBER 5
+FT
+Puntarenas FC
+2 - 1
+Guanacasteca
+FT
+LD Alajuelense
+5 - 1
+Escorpiones
+AP
+Santos de Guapiles
+1 - 1
+Deportivo Saprissa
+ECUADOR - SERIE B
+SEPTEMBER 5
+FT
+Guayaquil City
+1 - 0
+Nueve de Octubre
+FT
+Vargas Torres
+0 - 0
+Manta
+EL SALVADOR - PRIMERA DIVISION U20: APERTURA
+SEPTEMBER 5
+21:00
+Alianza FC U20
+-
+CD Luis Angel Firpo U20
+ESTONIA - ESILIIGA B
+SEPTEMBER 5
+FT
+Nomme Kalju FC U21
+8 - 0
+FC Kuressaare U21
+FINLAND - KAKKONEN: GROUP A: RELEGATION ROUND
+SEPTEMBER 5
+FT
+JaePS/47
+2 - 3
+PPJ
+ISRAEL - LIGA LEUMIT
+SEPTEMBER 5
+FT
+Hapoel Afula
+1 - 1
+Hapoel Kfar Saba
+FT
+Hapoel Nir Ramat HaSharon
+1 - 2
+Hapoel Tel Aviv
+FT
+Hapoel Nof HaGalil
+1 - 3
+Hapoel Kfar Shalem
+FT
+Hapoel Rishon LeZion
+0 - 1
+Hapoel Ironi Akko
+ISRAEL - LIGA ALEF: SOUTH
+SEPTEMBER 5
+FT
+AS Nordia Jerusalem
+1 - 0
+Shimshon Kafr Qasim
+KAZAKHSTAN - 1ST DIVISION
+SEPTEMBER 5
+FT
+Altai Semey
+2 - 1
+Akzhaiyk Uralsk
+Postp.
+FK Ekibastuz
+-
+Turkistan FC
+FT
+Ulytau
+4 - 1
+Taraz
+FT
+Kaspyi Aktau
+6 - 1
+Aktobe Reserves
+Canc.
+Kyran Shymkent
+-
+Kaisar Kyzylorda Reserves
+MEXICO - WOMEN'S LIGA MX: APERTURA
+SEPTEMBER 5
+FT
+Mazatlan FC W
+0 - 2
+Tigres W
+PARAGUAY - COPA PARAGUAY
+SEPTEMBER 5
+FT
+Salto Del Guaira
+1 - 3
+Luqueno
+POLAND - III LIGA: GROUP 3
+SEPTEMBER 5
+FT
+LKS Goczalkowice-Zdroj
+1 - 1
+Miedz Legnica ll
+POLAND - WOMEN'S EKSTRALIGA
+SEPTEMBER 5
+FT
+SMS Resovia Rzeszow W
+1 - 2
+Skra Czestochowa W
+REPUBLIC OF KOREA - WOMEN'S WK-LEAGUE
+SEPTEMBER 5
+FT
+Changnyeong W
+0 - 2
+Suwon UDC W
+FT
+Gumi Sportstoto W
+1 - 1
+Hwacheon KSPO W
+FT
+Gyeongju FC W
+4 - 3
+Seoul City W
+SLOVAKIA - SLOVAK CUP
+SEPTEMBER 5
+FT
+Tj Druzstevnik Mala Ida
+0 - 7
+Humenne
+UKRAINE - 1ST DIVISION: GROUP A
+SEPTEMBER 5
+Postp.
+Khust
+-
+Metalist Kharkiv
+USA - NCAA: WESTERN ATHLETIC CONFERENCE
+SEPTEMBER 5
+FT
+Evansville Purple Aces
+1 - 0
+Eastern Illinois Panthers
+FT
+San Diego Toreros
+1 - 1
+Washington Huskies
+FT
+Marquette Golden Eagles
+0 - 0
+Purdue Fort Wayne Mastodons
+FT
+Boston University Terriers
+1 - 1
+Saint Marys Gaels
+FT
+Dartmouth Big Green
+4 - 1
+Fairleigh Dickinson Knights
+FT
+Virginia Tech Hokies
+2 - 1
+Presbyterian Blue Hose
+FT
+Army Black Knights
+0 - 1
+Marist Red Foxes
+FT
+Western Illinois Leathernecks
+4 - 2
+Saint Ambrose Fighting Bees
+FT
+Central Arkansas Bears
+1 - 0
+Oral Roberts Golden Eagles
+FT
+Albany Great Danes
+0 - 1
+Siena Saints
+FT
+Bryant Bulldogs
+1 - 0
+Merrimack Warriors
+FT
+Cleveland State Vikings
+0 - 2
+Mercyhurst Lakers
+FT
+Duquesne Dukes
+1 - 0
+Niagara Purple Eagles
+FT
+Florida Atlantic Owls
+0 - 1
+Utah Valley Wolverines
+FT
+Fordham Rams
+4 - 0
+Santa Clara Broncos
+FT
+Mercer Bears
+2 - 0
+Memphis Tigers
+FT
+Xavier Musketeers
+2 - 2
+Bradley Braves
+FT
+Rhode Island Rams
+1 - 1
+Harvard Crimson
+USA - WOMEN'S NCAA: ATLANTIC COAST CONFERENCE
+SEPTEMBER 5
+FT
+Duke Blue Devils W
+1 - 0
+North Carolina Tar Heels W
+USA - WOMEN'S NCAA: WESTERN ATHLETIC CONFERENCE
+SEPTEMBER 5
+FT
+BYU Cougars W
+2 - 0
+Boise State Broncos W
+FT
+Central Michigan Chippewas W
+1 - 1
+South Dakota Coyotes W
+FT
+South Alabama Jaguars W
+2 - 0
+Lamar Lady Cardinals
+FT
+Charleston Southern Buccaneers W
+5 - 0
+South Carolina State Lady Bulldogs
+FT
+Detroit Mercy Titans W
+5 - 0
+Chicago State Cougars W
+FT
+LIU Sharks W
+4 - 1
+Dominican New York Chargers W
+FT
+Le Moyne Dolphins W
+0 - 4
+Temple Owls W
+FT
+Western Illinois Leathernecks W
+0 - 5
+Green Bay Phoenix W
+FT
+Alabama AM Bulldogs W
+0 - 5
+Middle Tennessee Blue Raiders W
+FT
+Arkansas State Red Wolves W
+0 - 0
+Kansas State Wildcats W
+FT
+Georgetown Hoyas W
+1 - 2
+Pepperdine Waves W
+FT
+Ohio Bobcats W
+2 - 0
+Marshall Thundering Herd W
+FT
+Robert Morris Colonials W
+0 - 0
+Akron Zips W
+FT
+The Citadel Bulldogs W
+0 - 3
+Presbyterian Blue Hose
+FT
+Umass Minutewomen
+4 - 0
+Northeastern Huskies W
+FT
+Villanova Wildcats W
+0 - 1
+Wake Forest Demon Deacons W
+FT
+California Golden Bears W
+5 - 1
+Nevada Wolf Pack W
+FT
+Purdue Fort Wayne Mastodons W
+1 - 0
+Southern Indiana Screaming Eagles W
+FT
+Appalachian State Mountaineers W
+2 - 4
+Radford Highlanders W
+FT
+Austin Peay State Lady Governors
+1 - 2
+Ball State Cardinals W
+FT
+Chattanooga Mocs W
+1 - 1
+Tennessee Tech Golden Eagles W
+FT
+Cornell Big Red W
+2 - 3
+Boston College Eagles W
+FT
+Delaware Fightin Blue Hens W
+1 - 1
+Penn Quakers W
+FT
+La Salle Explorers W
+2 - 1
+Colgate Raiders W
+FT
+Lehigh Mountain Hawks W
+1 - 5
+Monmouth Hawks W
+FT
+Loyola Chicago Ramblers W
+2 - 1
+Toledo Rockets W
+FT
+North Florida Ospreys W
+0 - 3
+Georgia Southern Eagles W
+FT
+Old Dominion Lady Monarchs
+1 - 0
+George Mason Patriots W
+FT
+South Carolina Gamecocks W
+1 - 1
+Clemson Tigers W
+FT
+Southern Utah Thunderbirds W
+2 - 0
+Colorado College Tigers W
+FT
+Stonehill Skyhawks W
+0 - 4
+Fordham Rams W
+FT
+Wofford Terriers W
+3 - 1
+Winthrop Eagles W
+FT
+Yale Bulldogs W
+1 - 0
+Stony Brook Seawolves W
+FT
+Binghamton Bearcats W
+0 - 1
+Syracuse Orange W
+FT
+Georgia Bulldogs W
+2 - 0
+Illinois Fighting Illini W
+FT
+Bellarmine Knights
+1 - 1
+Indiana State Sycamores W
+FT
+Boston University Terriers W
+0 - 1
+Harvard Crimson W
+FT
+Brown Bears W
+2 - 0
+Central Connecticut Blue Devils W
+FT
+Charlotte 49ers W
+1 - 0
+Campbell Fighting Camels W
+FT
+Cincinnati Bearcats W
+2 - 0
+Butler Bulldogs W
+FT
+Columbia Lions W
+0 - 0
+Fairleigh Dickinson Knights W
+FT
+Connecticut Huskies W
+2 - 0
+Cal State Fullerton Titans W
+FT
+Davidson Wildcats W
+2 - 0
+Longwood Lancers W
+FT
+Dayton Flyers W
+3 - 0
+Western Kentucky Lady Toppers
+FT
+Eastern Washington Eagles W
+2 - 3
+UC Davis Aggies W
+Postp.
+Florida Gulf Coast Eagles W
+-
+Florida Atlantic Owls W
+FT
+Furman Paladins W
+2 - 1
+UNC Asheville Bulldogs W
+FT
+Georgia State Panthers W
+2 - 0
+Kennesaw State Owls W
+FT
+Hendrix Warriors W
+1 - 1
+Arkansas-Pine Bluff Golden Lady Lions
+FT
+High Point Panthers W
+1 - 0
+UNC Greensboro Spartans W
+FT
+Howard Lady Bison
+2 - 2
+George Washington Colonials W
+FT
+Iowa State Cyclones W
+2 - 2
+Michigan Wolverines W
+FT
+Iupui Jaguars W
+2 - 0
+Eastern Illinois Panthers W
+FT
+Miami Hurricanes W
+4 - 1
+Southeastern Louisiana Lady Lions
+FT
+Michigan State Spartans W
+6 - 0
+Queens Charlotte Royals W
+FT
+Navy Midshipsmen W
+0 - 4
+Ohio State Buckeyes W
+FT
+Northern Kentucky Norse W
+1 - 3
+Eastern Kentucky Colonels W
+FT
+Notre Dame Fighting Irish W
+4 - 0
+Northern Illinois Huskies W
+FT
+Pittsburgh Panthers W
+6 - 1
+Dartmouth Big Green W
+FT
+Princeton Tigers W
+0 - 1
+Penn State Nittany Lions W
+FT
+Purdue Bolermakers W
+0 - 1
+Alabama Crimson Tide W
+FT
+Saint Bonaventure Bonnies W
+2 - 0
+Youngstown State Penguins W
+FT
+Saint Josephs Hawks W
+0 - 2
+Bucknell Bison W
+FT
+Samford Bulldogs W
+0 - 5
+Auburn Tigers W
+FT
+South Florida Bulls W
+1 - 0
+Ucf Knights W
+FT
+Southern Illinois Sallikis W
+3 - 1
+North Alabama Lions W
+FT
+St John's Red Storm W
+2 - 0
+Albany Great Danes W
+FT
+Tennessee Volunteers W
+0 - 0
+UCLA Bruins W
+FT
+Texas Longhorns W
+3 - 1
+San Diego State Aztecs W
+FT
+Towson Tigers W
+1 - 1
+Maryland Terrapins W
+FT
+UIC Flames W
+0 - 1
+DePaul Blue Demons W
+FT
+UMBC Retrievers W
+1 - 3
+American Eagles W
+FT
+VCU Rams W
+0 - 1
+Virginia Cavaliers W
+FT
+Wagner Seahawks W
+3 - 2
+NJIT Highlanders W
+FT
+West Virginia Mountaineers W
+2 - 0
+James Madison Dukes W
+FT
+Western Carolina Catamounts W
+4 - 0
+Gardner-Webb Runnin´ Bulldogs W
+FT
+William And Mary Tribe W
+1 - 0
+Richmond Spiders W
+FT
+Wright State Raiders W
+3 - 0
+Morehead State Eagles W
+FT
+Rice Owls W
+2 - 2
+Louisiana Lafayette Ragin Cajuns W
+FT
+Belmont Bruins W
+0 - 1
+Coastal Carolina Chanticleers W
+FT
+Cal Poly Mustangs W
+1 - 2
+Loyola Marymount Lions W
+FT
+Kentucky Wildcats W
+1 - 0
+Murray State Racers W
+FT
+Louisville Cardinals W
+2 - 0
+UT Martin Skyhawks W
+FT
+Portland Pilots W
+4 - 0
+Sacramento State Hornets W
+FT
+Virginia Tech Hokies W
+1 - 2
+Liberty Lady Flames
+VENEZUELA - PRIMERA DIVISION: CLAUSURA
+SEPTEMBER 5
+FT
+Portuguesa FC
+2 - 1
+Inter de Barinas
+ZAMBIA - SUPER LEAGUE
+SEPTEMBER 5
+FT
+NAPSA Stars FC
+0 - 1
+Zesco United
+FT
+Red Arrows
+1 - 0
+Green Buffaloes
+Live Scores and fixtures for football on 5 September 2024
+Looking for the livescore today? See live scores and fixtures for football on 5 September 2024.
+LiveScore brings you the latest football fixtures, results and live score information for 5 September 2024. Revisit scores and statistics and look ahead for upcoming fixtures for your favourite sport team. Plus, find out the livescore today, 5 September 2024.
+© 1998-2024 LiveScore Limited
+CareersMobileAdvertiseContactPrivacy NoticeCookie PolicyTerms of UseCorporate
+This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners.For more information see our Cookie Policy
+Manage Preferences Accept Cookies
+ 
+ 
+ ----- 
+ Source link : https://livescore.mobi/football/2024-09-05/ 
+ ----- 

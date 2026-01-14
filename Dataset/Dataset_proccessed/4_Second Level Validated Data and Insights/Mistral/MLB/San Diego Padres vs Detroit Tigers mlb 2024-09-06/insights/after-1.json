@@ -1,0 +1,43 @@
+{
+    "Relevancy": [
+        "Relevant"
+    ],
+    "New Records": [
+        "Parker Meadows hit a grand slam off a 100.7 mph four-seam fastball, which is the second-fastest pitch a Tigers player has homered off of in the pitch-tracking era."
+    ],
+    "Key Match Events": [
+        "Parker Meadows hit a game-winning grand slam in the 9th inning."
+    ],
+    "Pre-Game Insights": [],
+    "Post-Match Reflections": [
+        "Parker Meadows expressed excitement about his game-winning hit."
+    ],
+    "Miscellaneous Highlights": [
+        "The game was a close one with the Padres leading 3-0 before the Tigers' comeback."
+    ],
+    "Others": [
+        "The Tigers' win stopped the Padres' three-game winning streak."
+    ],
+    "Detailed Analysis": {
+        "San Diego Padres": {
+            "Starting Pitcher": "Martin Pérez",
+            "Innings Pitched": "6 1/3",
+            "Runs Allowed": "0",
+            "Hits Allowed": "3",
+            "Strikeouts": "5"
+        },
+        "Detroit Tigers": {
+            "Starting Pitcher": "Casey Mize",
+            "Innings Pitched": "5 1/3",
+            "Runs Allowed": "3",
+            "Hits Allowed": "6",
+            "Strikeouts": "0"
+        },
+        "Closer": {
+            "Name": "Robert Suarez",
+            "Outcome": "Loss",
+            "Pitches": "100.7 mph",
+            "Result": "Grand slam by Parker Meadows"
+        }
+    }
+}

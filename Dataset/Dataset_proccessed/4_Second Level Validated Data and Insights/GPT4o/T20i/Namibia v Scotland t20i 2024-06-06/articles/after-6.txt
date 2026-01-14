@@ -1,0 +1,335 @@
+NAM vs SCOT
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+RESULT
+12th Match, Group B, Bridgetown, June 06, 2024, ICC Men's T20 World Cup
+NAM
+155/9
+SCOT
+(18.3/20 ov, T:156) 157/5
+
+Scotland won by 5 wickets (with 9 balls remaining)
+
+Powered by Smart Stats
+Win Probability
+NAM 0.00%
+SCOT 100%
+NAM
+SCOT
+100%
+50%
+100%
+NAM Innings
+SCOT Innings
+
+Over 19 • SCOT 157/5
+
+Scotland won by 5 wickets (with 9 balls remaining)
+Summary
+Scorecard
+MVP
+Report
+Commentary
+Stats
+Overs
+Table
+News
+Videos
+Photos
+PLAYER OF THE MATCH
+Michael Leask
+, SCOT
+35 (17) & 1/16
+CRICINFO'S MVP
+Gerhard Erasmus
+, NAM
+130.36 pts
+Impact List
+Namibia
+Scotland
+Match Flow
+Info
+Namibia  (20 ovs maximum)
+Batting\tR\tB\t4s\t6s\tSR
+
+JP Kotze 
+\t0\t3\t0\t0\t0.00
+
+c McMullen b Wheal
+
+
+Nikolaas Davin 
+\t20\t12\t4\t0\t166.66
+
+c Currie b Sole
+
+
+Jan Frylinck 
+\t12\t14\t2\t0\t85.71
+
+b Currie
+
+
+Gerhard Erasmus (c)
+\t52\t31\t5\t2\t167.74
+
+st †Cross b Leask
+
+
+Malan Kruger 
+\t2\t8\t0\t0\t25.00
+
+c Jones b Greaves
+
+
+Zane Green †
+\t28\t27\t1\t1\t103.70
+
+c Jones b Wheal
+
+
+David Wiese 
+\t14\t13\t0\t1\t107.69
+
+c Watt b Wheal
+
+
+Ruben Trumpelmann 
+\t1\t2\t0\t0\t50.00
+
+c Wheal b Currie
+
+
+JJ Smit 
+\t11\t8\t0\t1\t137.50
+
+run out (Jones/Wheal)
+
+
+Bernard Scholtz 
+\t6\t4\t0\t0\t150.00
+
+not out
+
+
+Tangeni Lungameni 
+\t0\t0\t0\t0\t-
+
+not out
+
+Extras\t9\t(b 1, lb 3, nb 2, w 3)
+Total\t155/9\t
+20 Ov (RR: 7.75)
+
+
+Fall of wickets: 1-0 (JP Kotze, 0.3 ov), 2-19 (Jan Frylinck, 3.2 ov), 3-37 (Nikolaas Davin, 4.5 ov), 4-55 (Malan Kruger, 7.3 ov), 5-106 (Gerhard Erasmus, 13.5 ov), 6-137 (David Wiese, 17.3 ov), 7-138 (Zane Green, 17.5 ov), 8-140 (Ruben Trumpelmann, 18.2 ov), 9-151 (JJ Smit, 19.4 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Brad Wheal
+\t4\t0\t33\t
+3
+\t8.25\t1\t1
+
+Brad Currie
+\t4\t0\t16\t
+2
+\t4.00\t0\t0
+
+Chris Sole
+\t3\t0\t23\t
+1
+\t7.66\t1\t1
+
+Mark Watt
+\t4\t0\t39\t0\t9.75\t0\t0
+
+Chris Greaves
+\t3\t0\t24\t
+1
+\t8.00\t0\t0
+
+Michael Leask
+\t2\t0\t16\t
+1
+\t8.00\t0\t0
+Scotland  (T: 156 runs from 20 ovs)
+Batting\tR\tB\t4s\t6s\tSR
+
+George Munsey 
+\t7\t15\t0\t0\t46.66
+
+c Wiese b Lungameni
+
+
+Michael Jones 
+\t26\t20\t3\t1\t130.00
+
+c †Green b Erasmus
+
+
+Brandon McMullen 
+\t19\t17\t2\t0\t111.76
+
+st †Green b Erasmus
+
+
+Richie Berrington (c)
+\t47\t35\t2\t2\t134.28
+
+not out
+
+
+Matthew Cross †
+\t3\t5\t0\t0\t60.00
+
+lbw b Scholtz
+
+
+Michael Leask 
+\t35\t17\t0\t4\t205.88
+
+c Wiese b Trumpelmann
+
+
+Chris Greaves 
+\t4\t3\t0\t0\t133.33
+
+not out
+
+Extras\t16\t(lb 3, nb 1, w 12)
+Total\t157/5\t
+18.3 Ov (RR: 8.48)
+
+
+Did not bat: 
+Mark Watt, 
+Chris Sole, 
+Brad Wheal, 
+Brad Currie 
+
+
+Fall of wickets: 1-23 (George Munsey, 3.5 ov), 2-49 (Michael Jones, 7.3 ov), 3-67 (Brandon McMullen, 9.3 ov), 4-73 (Matthew Cross, 10.6 ov), 5-147 (Michael Leask, 17.5 ov) • 
+DRS
+Bowling\tO\tM\tR\tW\tECON\tWD\tNB
+
+Ruben Trumpelmann
+\t4\t0\t36\t
+1
+\t9.00\t4\t1
+
+David Wiese
+\t3.3\t0\t30\t0\t8.57\t0\t0
+
+Tangeni Lungameni
+\t3\t0\t39\t
+1
+\t13.00\t1\t0
+
+Bernard Scholtz
+\t4\t0\t20\t
+1
+\t5.00\t0\t0
+
+Gerhard Erasmus
+\t4\t0\t29\t
+2
+\t7.25\t2\t0
+Unlocking the magic of Statsguru
+Match Flow
+Namibia innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 48 runs, 3 wickets)
+Over 5.4: Review by Scotland (Bowling), Decision Challenged - Wicket, Umpire - Nitin Menon, Batter - MG Erasmus (Struck down)
+Namibia: 50 runs in 6.1 overs (39 balls), Extras 6
+Drinks: Namibia - 78/4 in 10.0 overs (MG Erasmus 33, ZE Green 5)
+Namibia: 100 runs in 13.3 overs (83 balls), Extras 7
+MG Erasmus: 50 off 30 balls (5 x 4, 2 x 6)
+5th Wicket: 50 runs in 37 balls (MG Erasmus 37, ZE Green 13, Ex 1)
+Namibia: 150 runs in 19.3 overs (119 balls), Extras 9
+Innings Break: Namibia - 155/9 in 20.0 overs (BM Scholtz 6, T Lungameni 0)
+Scotland innings
+Powerplay: Overs 0.1 - 6.0 (Mandatory - 43 runs, 1 wicket)
+Scotland: 50 runs in 7.4 overs (46 balls), Extras 10
+Drinks: Scotland - 69/3 in 10.0 overs (RD Berrington 3, MH Cross 1)
+Scotland: 100 runs in 13.3 overs (81 balls), Extras 13
+5th Wicket: 50 runs in 32 balls (RD Berrington 29, MA Leask 19, Ex 2)
+Scotland: 150 runs in 18.1 overs (110 balls), Extras 16
+Match Details
+Kensington Oval, Bridgetown, Barbados
+
+Toss\tNamibia, elected to bat first
+Series\t
+ICC Men's T20 World Cup
+
+Season\t
+2024
+
+Player Of The Match\t
+Michael Leask
+
+Match number\t
+T20I no. 2643
+
+Match days\t6 June 2024 - day (20-over match)
+Umpires\t
+Jayaraman Madanagopal
+DRS
+Nitin Menon
+DRS
+
+TV Umpire\t
+Asif Yaqoob
+
+Reserve Umpire\t
+Joel Wilson
+
+Match Referee\t
+Andy Pycroft
+
+Points\tScotland 2, Namibia 0
+Terms of Use
+|
+Privacy Policy
+|
+Interest-Based Ads
+|
+EU Privacy Rights
+|
+Cookie Policy
+|
+Feedback
+|
+Manage Privacy Preferences
+|
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+
+Your Privacy Settings
+We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. We work with 873 partners. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time through the “Manage Privacy Preferences” link on each page. These choices will be signaled to our partners and will not affect browsing data. For additional information, please visit our Cookie Policy.
+We and our partners process data to:
+
+Store and/or access information on a device. Precise geolocation data, and identification through device scanning. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+I Accept
+Show Purposes
+Continue without Accepting
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/namibia-vs-scotland-12th-match-group-b-1415712/full-scorecard 
+ ----- 

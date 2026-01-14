@@ -1,0 +1,139 @@
+Skip to main content
+Bullets Forever homepage
+a Washington Wizards community
+Follow Bullets Forever online:
+Log in or sign up
+Site search
+Search
+Bullets Forever main menu
+FANPOSTS
+MORE 
+ALL 300 COMMUNITIES ON 
+
+FILED UNDER:
+
+WASHINGTON WIZARDS STATISTICAL ANALYSIS
+The Numbers Crunch: Breaking down the Wizards’ loss to the Rockets
+
+Stats, analysis, commentary.
+
+By Kevin Broom@so_wizards  Nov 12, 2024, 7:00am EST  171 Comments / 171 New
+Share this story
+Share this on Facebook (opens in new window)
+Share this on Twitter (opens in new window)
+SHARE
+All sharing options
+
+The Washington Wizards seem to have a rule this season: only two players at a time can have a good game. Last night, it was Bub Carrington and Jonas Valanciunas. Others had some good moments but were missing in action for long stretches. Others were downright awful.
+
+Carrington had another of his strong non-scoring games. He scored 10 points on 3-6 shooting, knocked down both his three points attempts and made his best contributions on defense — four steals and two blocks.
+
+Valanciunas was his usual self — efficient scoring (10 points and 2 assists on 7 field goal attempts), 8 rebounds (including 3 offensive boards) and not much in the way of defensive contributions.
+
+In the “flashes” department, Kyshawn George hit a couple threes. Corey Kispert looked like he was en route to a breakout game but went back to missing. Alex Sarr added a couple more blocked shots. He also shot 2-9 from the floor, went 0-3 from deep, and got thoroughly dominated by Rockets big man Alperen Sengun.
+
+Sengun finished with 27 points on 19 shots, 17 rebounds (including 7 offensive boards), and had 3 assists and 3 steals. He opened the game by driving past Sarr for a dunk. He repeatedly scored on Sarr throughout the game. Washington eventually tried sending double-teams, which were generally too slow to be effective. Sarr has to learn from this kind of experience to be the kind of impact defender the team believes he can be.
+
+Bright side: the Wizards didn’t lose by 20+ points for a fifth time this season. They trailed by as much as 20 points, but the final margin was 15.
+
+The biggest negatives worth mention were Kyle Kuzma’s stultifying performance in his first game back from injury, and Jordan Poole’s sloppy, wasteful game.
+
+Returning from a groin injury that kept him out of action the past two weeks, Kuzma led the team in field goal attempts despite playing just 24 minutes. He finished the night 7-18 from the floor, and 3-8 from deep. He had three turnovers and zero assists. His usage rate was a sky-high 34.6% with an offensive rating of 81. League average this season: 113.1.
+
+Poole played worse — 11 points on 5-14 shooting, 1-5 from three-point range. Poole did produce 5 rebounds, 6 assists and 4 steals, but his reckless play and haphazard decision making resulted in 8 costly turnovers.
+
+Kuzma and Poole combined for an offensive rating of 69. Their teammates had a combined offensive rating of 106. The team’s full offensive rating: 92.
+
+With Kuzma and Poole burning possessions, there weren’t as many left for their teammates. Carrington had a 149 offensive rating and a usage rate of 12.6%. Bilal Coulibaly got off to a decent start but finished with a 96 offensive rating and a usage rate of 14.1%. George had a 105 offensive rating and a 15.0% usage rate.
+
+The only rotation player besides Kuzma and Poole to top 18% usage was Valanciunas at 21.5% (and an offensive rating of 150).
+
+This is not to blame Kuzma and Poole for the loss. It was a team effort. The Rockets entered the game as the NBA’s best offensive rebounding team; the Wizards were last in defensive rebounding. Houston shot poorly but to 17 offensive rebounds — an offensive rebounding percentage of 39.5%. League average is about 25%.
+
+While Houston laid bricks (just 5-23 from three-point range), they still outshot Washington, grabbed more offensive boards, and won at the free throw line (22-9). The Wizards “won” the turnover battle with 18 turnovers to Houston’s 19. Washington’s defense wasn’t bad, despite the stellar game from Sengun. Their offense was atrocious.
+
+Next up for the Wizards: Victor Wembanyama and the San Antonio Spurs.
+
+Four Factors
+
+Below are the four factors that decide wins and losses in basketball — shooting (efg), rebounding (offensive rebounds), ball handling (turnovers), fouling (free throws made).
+
+Four Factors: Wizards at Rockets
+﻿FOUR FACTORS	WIZARDS	ROCKETS
+
+EFG	0.472	0.489
+OREB	8	17
+TOV	18	19
+FTM	9	22
+PACE	100	
+ORTG	92	107
+Stats & Metrics
+
+Below are a few performance metrics, including the Player Production Average (PPA) Game Score. PPA is my overall production metric, which credits players for things they do that help a team win (scoring, rebounding, playmaking, defending) and dings them for things that hurt (missed shots, turnovers, bad defense, fouls).
+
+Game Score (GmSC) converts individual production into points on the scoreboard. The scale is the same as points and reflects each player’s total contributions for the game. The lowest possible GmSC is zero.
+
+PPA is a per possession metric designed for larger data sets. In small sample sizes, the numbers can get weird. In PPA, 100 is average, higher is better and replacement level is 45. For a single game, replacement level isn’t much use, and I reiterate the caution about small samples sometimes producing weird results.
+
+POSS is the number of possessions each player was on the floor in this game.
+
+ORTG = offensive rating, which is points produced per individual possessions x 100. League average last season was 114.8. Points produced is not the same as points scored. It includes the value of assists and offensive rebounds, as well as sharing credit when receiving an assist.
+
+USG = offensive usage rate. Average is 20%.
+
+ORTG and USG are versions of stats created by former Wizards assistant coach Dean Oliver and modified by me. ORTG is an efficiency measure that accounts for the value of shooting, offensive rebounds, assists and turnovers. USG includes shooting from the floor and free throw line, offensive rebounds, assists and turnovers.
+
++PTS = “Plus Points” is a measure of the points gained or lost by each player based on their efficiency in this game compared to league average efficiency on the same number of possessions. A player with an offensive rating (points produced per possession x 100) of 100 who uses 20 possessions would produce 20 points. If the league average efficiency is 114, the league — on average — would produced 22.8 points in the same 20 possessions. So, the player in this hypothetical would have a +PTS score of -2.8.
+
+Stats & Metrics: Wizards
+﻿WIZARDS	MIN	POSS	ORTG	USG	+PTS	PPA	GmSC	+/-
+
+Carlton Carrington	31	65	149	12.6%	2.9	220	31.6	-12
+Jonas Valanciunas	17	35	150	21.5%	2.8	251	19.8	-4
+Bilal Coulibaly	35	74	96	14.1%	-1.8	68	11.2	-23
+Kyshawn George	25	51	105	15.0%	-0.6	37	4.2	-4
+Corey Kispert	34	70	78	17.9%	-4.4	20	3.1	-12
+Johnny Davis	2	5	288	21.8%	1.8	806	0.0	5
+Jared Butler	5	10	123	34.8%	0.3	137	0.0	2
+Patrick Baldwin Jr.	2	4		0.0%	0.0	0	0.0	3
+Anthony Gill	2	4		0.0%	0.0	0	0.0	3
+Marvin Bagley III	2	4	49	34.3%	-0.8	-77	0.0	3
+Kyle Kuzma	24	50	81	34.6%	-5.5	-7	0.0	-14
+Alexandre Sarr	28	58	63	16.4%	-4.8	-35	0.0	-12
+Jordan Poole	34	71	59	29.3%	-11.1	-40	0.0	-10
+Stats & Metrics: Rockets
+﻿ROCKETS	MIN	POSS	ORTG	USG	+PTS	PPA	GmSC	+/-
+
+Alperen Sengun	31	65	144	29.5%	5.9	350	50.5	22
+Amen Thompson	28	59	108	19.9%	-0.6	177	23.2	16
+Tari Eason	26	55	91	17.6%	-2.1	127	15.6	14
+Reed Sheppard	17	35	148	10.4%	1.3	149	11.6	1
+Jabari Smith Jr.	32	67	110	15.4%	-0.3	71	10.6	2
+Aaron Holiday	17	35	155	18.6%	2.8	125	9.8	-3
+Jalen Green	37	77	89	25.8%	-4.8	26	4.4	13
+Dillon Brooks	33	68	78	17.4%	-4.2	21	3.2	20
+Jack McVeigh	2	4		0.0%	0.0	0	0.0	-3
+Jae'Sean Tate	2	4	0	19.1%	-0.8	-197	0.0	-3
+Steven Adams	15	32	64	20.1%	-3.1	-42	0.0	-4
+Loading comments...
+Chorus
+	
+FanPosts
+Masthead
+Community Guidelines
+Facebook
+Twitter
+YouTube
+	
+Contact Have a News Tip? Browse Blogs SB Nation Masthead Company Blog Blog Openings Editorial Ethics and Guidelines
+Vox Media
+Terms of Use Privacy Notice Cookie Policy Do Not Sell or Share My Personal Data  Licensing FAQ Accessibility Platform Status Advertise with us Jobs @ Vox Media
+© 2025 Vox Media, LLC. All Rights Reserved
+
+
+Gambling Problem? Call 1-800-GAMBLER (1-800-426-2537). Hope is here. GamblingHelpLineMA.org or call (800) 327-5050 for 24/7 support (MA). Visit www.mdgamblinghelp.org (MD). Call 877-8HOPE-NY or text HOPENY (467369) (NY). 21+ (18+ D.C.) and present in select states (for KS, in affiliation with Kansas Star Casino). Call 1-888-789-7777 or visit ccpg.org/chat (CT) or visit FanDuel.com/RG.
+ 
+ 
+ ----- 
+ Source link : https://www.bulletsforever.com/2024/11/12/24294326/washington-wizards-houston-rockets-nba-statistical-analysis 
+ ----- 

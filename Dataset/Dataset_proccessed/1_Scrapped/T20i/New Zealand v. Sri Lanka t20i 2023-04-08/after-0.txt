@@ -1,0 +1,141 @@
+STATS ANALYSIS
+Thank you, England, for redefining Test cricket over the last ten months
+
+An ode to their thrilling approach to Test cricket since Ben Stokes and Brendon McCullum took over
+
+Anantha Narayanan
+08-Apr-2023
+
+The England way: 12 Tests, ten wins, two losses, no dull moments  •  Getty Images
+
+Everyone knows what England have done over the past ten months. They threw all convention out the window and wrote their own scripts. They challenged all preconceived notions. When the sceptics said, "Let us see them do it on the road" they did exactly that, in style. They were unmindful of failure and succeeded beyond all expectations. They played, inarguably, the best dozen Tests any team has played so far, and won ten of those. When they lost, whether by a mile or an inch, they laughed it off and made more friends in the process. No glum faces, no excuses, no superficial, difficult-to-believe explanations. This team made Test cricket compete with T20 cricket, and win hands down.
+
+RELATED
+
+Age-defying James Anderson still fabulous at 40
+
+From Melbourne 1877 to Rawalpindi 2022: travelling through time to witness the best matches
+
+How England aced their four spectacular Test chases this summer
+
+After the first four Tests of this run, I speculated whether England would be able to sustain their strategy (hereafter referred to as ERS - England's Recent Strategy) in the Tests against South Africa and in away matches.
+
+England proved that they could, and more. In recognition of the team's (and their captain's and coach's) efforts to redefine Test cricket, here is an article that provides an anecdotal and analytical look at those 12 Tests. Call it an ode, albeit somewhat long, to the English team.
+
+The table above is self-explanatory. Three of the Tests (Trent Bridge and Headingley against New Zealand, and Multan against Pakistan) could easily have gone the other way. These were won by attacking batting and bowling. More on the
+
+Anantha Narayanan
+
+On average, across the dozen Tests, England scored at a rate of 4.73 runs per over. That translates to an average score of 425 on a typical day. This is 140 runs more than the average number of runs scored in a day by all teams in the past 23 years and 167 more than the average number of runs scored by all teams in a day across 146 years of Test cricket. This single statement is enough to define what England have achieved through a sustained implementation of ERS.
+
+England's highest match run rate was 6.7, in the Rawalpindi Test. The first innings was relatively sedate (6.50) compared to the second innings (7.37). The lowest match run rate was in the low-scoring Lord's Test against New Zealand. Even there, England scored at 3.45, which translates to 310 per day. It is interesting to note that the scoring rates in both Multan and Karachi were identical (4.77).
+
+An important point - 4.73 is the average of the 12 run-rate values in these matches. I have done this to make sure that the mean is consistent with the other values in the graph. The more correct method is to determine the average run rate as "Total runs scored/Total overs bowled". That value is 4.79.
+
+Anantha Narayanan
+
+As most regular readers will be aware, Team Performance Points (TPP) is a complex derivation that tells us how teams perform. It can be explained in a few sentences. The total for all results (barring two Test matches - the Centurion Test in 2000 and the Oval forfeiture in 2006) is 100 points. Innings wins and wins by huge run margins secure 75 points for the winning teams. The tied Tests are scored at 50 points each. Draws get fewer than 100 points, depending on the extent of completion of the match. The range is 0.38 to 99.90. Even in lost matches, teams get rewarded if they fight to the end.
+
+England's average TPP for the 12 Tests was 60. This is the equivalent of a six-wicket win or a comfortable 150-run win in a normal scoring match. While they secured only 24 points in the innings loss against South Africa, their one-run loss against New Zealand gained them 49.9 points. That is the strength of TPP, which takes into account the relative value of performances clearly. The recent two-wicket win by New Zealand against Sri Lanka finished with a TPP distribution of 51.85-48.15.
+
+The leaders of the English batting pack are highlighted here. Joe Root scored the most runs (over 1000), Harry Brook's average was the highest (80-plus) and he scored his runs at a strike rate of nearly 100 - in away Tests at that. Brook and Ollie Pope scored just over 800 runs each. Jonny Bairstow's average was the second best, and he was just behind Brook on strike rate. It is amazing that the top two averages also go hand in hand with the top two strike rates. Look at Ben Duckett's near-100 strike rate; that sort of thing used to be reserved for Virender Sehwag.
+
+It is no surprise that James Anderson led the wickets stakes, closely followed by Jack Leach. Anderson, at 40-plus, is still on top of his game, bowling immaculate, penetrating spells. Leach's wickets cost twice as much as Anderson's. Among the regular bowlers, Ollie Robinson averaged 21. Anderson was the most economical, had the best strike rate, and was the best bowler by a mile.
+
+Root, Bairstow, and Brook scored four hundreds each. Pope scored two, and four other batters one each. There were no double-hundreds. Brook's 186 against New Zealand in Wellington was the highest score; he finished on the losing side in that Test, though.
+
+Leach had five four-wicket hauls, while Anderson and Robinson had four each, and Stuart Broad three. Leach was expensive but contributed with important wickets. Will Jacks was the only bowler to take six wickets in an innings.
+
+There were 18 hundred partnerships in all for England. Root was involved in eight of them. Five other batters - Bairstow, Brook, Pope, Ben Stokes and Ben Foakes had four hundred partnerships each. The best was the 302-run stand between Root and Brook, though it ended on the losing side. Surprisingly, there were six such partnerships for the sixth wicket and four for the fourth wicket.
+
+The top three Tests
+If I were to select three memorable Tests from the dozen Tests, it would have to be the Rawalpindi win, the win over India at Edgbaston, and the first Test at Lord's against New Zealand.
+
+To truly appreciate the Rawalpindi win, it is necessary to cast one's mind to the Ahmedabad Test between India and Australia four months later, where virtually no attempt was made by either team to force the pace and try to break the deadlock. Common sense dictates that if teams score 1000-plus runs at a rate of below three an over on a really flat pitch, there is virtually no chance of a win for either.
+
+Contrast this with what happened in Rawalpindi. Two innings aggregating to over 1200 runs were completed in just over three days, despite Pakistan's relatively low scoring rate. Then England batted as if there was no next day, and gave Pakistan over eight hours to score a mere 343, risking defeat. Deservedly, they won, with some inspired spells of fast bowling. This was, arguably, the greatest display of Test captaincy ever. This was not an application of ERS when convenient. It was total commitment.
+
+Root and Bairstow's unbeaten partnership of 269 against India helped England pull off their highest-ever successful chase in Test cricket•Getty Images
+
+The next Test I want to feature is the amazing and emphatic win against India. England started the game in dominant fashion - India were 98 for 5 on the opening day - but Rishabh Pant and Ravindra Jadeja snatched it away, and finally England were staring down the barrel, at a target of 378, with lots of time available. There was no playing for a draw. England had to win or face defeat. They began the chase well, but 107 without loss became 109 for 3 and things were looking tough when there was an amazing, rapid stand of 269 between Root and Bairstow. One of the greatest of chasing wins, achieved at a canter. ERS at its brightest.
+
+For the third featured Test, we go back to where everything started ten months ago. Despite dismissing New Zealand for 132, England were on the back foot with even a lead looking doubtful. A nothing lead and a strong batting performance by the visitors set up a difficult target of 277. England went from 49 for 4 to 159 for 4. The loss of Stokes was a big blow, but Foakes stood firm and he and Root took England home. They could have easily lost the Test. This was not necessarily an ERS-driven Test. It was good old top-class batting on a difficult and wearing pitch.
+
+Bairstow and Brook
+In the first six Tests, Bairstow was the enforcer. When needed, and perhaps sometimes even when not, he scored at an average strike rate of nearly a run a ball and won matches for England. Then a freak injury happened, but another Yorkshire lad stepped up, seemingly to the manner born. Brook scored more runs than Bairstow in five Tests, at a faster rate. Such clean hitting has not been witnessed in Tests since Sehwag left the scene. Brook fashioned four century stands. It was his bizarre run out, without facing a ball in Wellington, that ultimately led to the narrow England defeat in that game.
+
+Imagine, the White Rose county that gave us Geoff Boycott and Brian Bolus, plodders extraordinaire, also gave us Bairstow and Brook, entertainers extraordinaire. England's current top order reads Crawley, Duckett, Root, Brook, Bairstow, Stokes: three attacking batters and three others who are not exactly in the Boycott mould. With the Ashes coming up later this summer, fun days are here, that is sure.
+
+The anchors: Root and Co
+England needed some quality anchor batters to support their attacking batters. Root was the leader of this group. He scored well over 1000 runs and there were times when he was threatening to break into the other group, with a strike rate of over 75. Pope started well but was less effective in the later stages. Crawley did reasonably well, and Foakes was a surprise addition to the list.
+
+England's bowlers combined to take 230 wickets over 12 Tests•PA Images via Getty Images
+
+The bowlers
+Batters can win white-ball matches for teams. However, in Tests, if the bowlers do not take capture 20 wickets, there is no win to win. ERS will not take off without full bowling support. And indeed, barring the innings loss at Lord's, England took 220 wickets in 11 matches, winning ten. Anderson, Leach, Stuart Broad, and Ollie Robinson took most of these wickets and were effectively supported by Matthew Potts and Stokes. And they did well in three continents. Anderson and Leach played in most of the 12 matches. Broad skipped the Pakistan leg. Potts was very effective in the first few Tests of the run. Robinson missed the home Tests against New Zealand.
+
+The allrounders
+Stokes was very effective as an allrounder, even more so for someone who was also the captain. Over 650 runs and 20 wickets are very good returns when saddled with this wide range of responsibilities. He was part of four century partnerships, a couple of these very crucial. This was no Botham who failed as a captain and player.
+
+Foakes kept wicket in a terrific manner and batted very well. In the nine matches he played, he effected 35 dismissals, scored over 400 invaluable runs, and was part of four very important partnerships. Unassuming and quiet, a terrific performer always, he is a true allrounder indeed
+
+The Wellington Test
+This article will be incomplete if I do not comment on the bizarre, exciting, once-in-many-decades Test in which all results were possible when the penultimate ball was going to be bowled. Everyone knows what happened. ERS did not take a hit in Wellington. Rather it was a strange decision that led to England's loss. Why did England enforce the follow-on? There were more than eight sessions to go, and the first-innings lead was only 226. Here is what they should have done: bat for three sessions, on an improving pitch. Score 300. Set a target of 500-plus runs. And win 100 times out of 100 - no team has ever lost doing this.
+
+I can think of two reasons why England bowled rather than batted. Complete undiluted overconfidence, bordering on arrogance, that whatever target was set could be chased down. The other reason could have been the fear that England could have been dismissed for, say, a score of 200 and the pitch would still be good enough for New Zealand to effect a 400-plus run chase. And there was no weather around, unlike at the same venue a month later, against Sri Lanka. You take your pick. One thing is certain: England didn't want to adopt the routine "lead-by-250-bat-again-and-win" nonsense. ERS does indeed make the Test scene exciting.
+
+A sincere message of heartfelt thanks and appreciation to the English team in general, and to Stokes and McCullum in particular. May your tribe flourish.
+
+Talking Cricket Group
+Any reader who wishes to join the general-purpose cricket-ideas-exchange group of this name that I started last year can email me a request for inclusion, providing their name, place of residence, and what they do.
+
+Email me your comments and I will respond. This email id is to be used only for sending in comments. Please note that readers whose emails are derogatory to the author or any player will be permanently blocked from sending in any feedback in future.
+
+England
+
+Anantha Narayanan has written for ESPNcricinfo and CastrolCricket and worked with a number of companies on their cricket performance ratings-related systems
+
+Download the 
+Android
+ and 
+iOS
+ apps for a better experience.
+Get latest cricket updates on WhatsApp
+Terms of Use
+  •  
+Privacy Policy
+  •  
+Your US State Privacy Rights
+  •  
+Children's Online Privacy Policy
+  •  
+Interest - Based Ads
+  •  
+Do Not Sell or Share My Personal Information
+  •  
+Feedback
+Terms of Use
+|
+Privacy Policy
+|
+Your US State Privacy Rights
+|
+Children's Online Privacy Policy
+|
+Interest - Based Ads
+|
+Do Not Sell or Share My Personal Information
+|
+Feedback
+© 2025 ESPN Sports Media Ltd. All rights reserved
+Home
+Matches
+Series
+Videos
+News
+ 
+ 
+ 
+ ----- 
+ Source link : https://www.espncricinfo.com/story/stats-analysis-how-england-have-redefined-test-cricket-over-the-last-ten-months-1366701 
+ ----- 

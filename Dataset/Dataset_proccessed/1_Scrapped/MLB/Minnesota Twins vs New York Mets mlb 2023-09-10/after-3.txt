@@ -1,0 +1,348 @@
+NEWS
+SCORES
+SCHEDULE
+STATS
+ScoresSchedule
+MON
+SEP 4
+TUE
+SEP 5
+WED
+SEP 6
+THU
+SEP 7
+FRI
+SEP 8
+SAT
+SEP 9
+SUN
+SEP 10
+MON
+SEP 11
+TUE
+SEP 12
+WED
+SEP 13
+THU
+SEP 14
+FRI
+SEP 15
+SAT
+SEP 16
+FINAL
+Marlins
+74 - 69
+Phillies
+78 - 64
+R	H	E
+5	5	0
+4	8	0
+W:
+Robertson
+6 - 6|3.10 ERA
+L:
+Domínguez
+4 - 4|4.25 ERA
+S:
+Scott, Tan
+7
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Mariners
+79 - 64
+Rays
+88 - 56
+R	H	E
+3	9	0
+6	11	0
+W:
+Eflin
+14 - 8|3.53 ERA
+L:
+Miller, B
+8 - 5|4.05 ERA
+S:
+Fairbanks
+22
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+White Sox
+55 - 88
+Tigers
+66 - 77
+R	H	E
+2	5	2
+3	9	1
+W:
+Gipson-Long
+1 - 0|3.60 ERA
+L:
+Scholtens
+1 - 8|4.44 ERA
+S:
+Lange
+23
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Orioles
+90 - 52
+Red Sox
+73 - 70
+R	H	E
+3	7	3
+7	8	0
+W:
+Bello
+12 - 8|3.68 ERA
+L:
+Rodriguez, G
+5 - 4|4.88 ERA
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Dodgers
+87 - 55
+Nationals
+64 - 79
+R	H	E
+7	14	0
+3	9	0
+W:
+Suero
+1 - 0|7.88 ERA
+L:
+Williams
+6 - 10|5.44 ERA
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Pirates
+66 - 77
+Braves
+93 - 49
+R	H	E
+2	7	0
+5	7	0
+W:
+Hand
+4 - 1|4.56 ERA
+L:
+Selby
+2 - 1|8.64 ERA
+S:
+Iglesias, R
+29
+MLB.TV
+Wrap
+Box
+Story
+FINAL/13
+Brewers
+79 - 63
+Yankees
+71 - 72
+R	H	E
+3	6	0
+4	3	0
+W:
+Misiewicz
+2 - 0|7.71 ERA
+L:
+Milner
+2 - 1|2.03 ERA
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Royals
+44 - 100
+Blue Jays
+80 - 63
+R	H	E
+2	8	0
+5	6	0
+W:
+Berríos
+10 - 10|3.63 ERA
+L:
+Clarke, T
+2 - 5|5.47 ERA
+S:
+Romano
+34
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Cardinals
+63 - 80
+Reds
+74 - 71
+R	H	E
+1	1	1
+7	10	1
+W:
+Greene, H
+4 - 6|4.43 ERA
+L:
+Mikolas
+7 - 11|4.75 ERA
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Padres
+67 - 77
+Astros
+82 - 62
+R	H	E
+2	7	4
+12	11	0
+W:
+France, J
+11 - 5|3.61 ERA
+L:
+Waldron
+0 - 3|5.55 ERA
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Mets
+65 - 77
+Twins
+75 - 68
+R	H	E
+2	4	0
+0	4	0
+W:
+Raley, B
+1 - 2|3.00 ERA
+L:
+Jax
+6 - 9|4.12 ERA
+S:
+Ottavino
+9
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+D-backs
+75 - 69
+Cubs
+77 - 67
+R	H	E
+2	9	1
+5	9	0
+W:
+Hendricks
+6 - 7|3.71 ERA
+L:
+Mantiply
+1 - 2|5.87 ERA
+S:
+Merryweather
+1
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Athletics
+44 - 99
+Rangers
+78 - 64
+R	H	E
+4	9	1
+9	12	1
+W:
+Heaney
+10 - 6|4.10 ERA
+L:
+Medina
+3 - 9|5.68 ERA
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Guardians
+68 - 76
+Angels
+67 - 77
+R	H	E
+1	8	0
+2	3	0
+W:
+Rosenberg
+1 - 1|4.50 ERA
+L:
+Bibee
+10 - 4|3.03 ERA
+S:
+Estévez
+30
+MLB.TV
+Wrap
+Box
+Story
+FINAL
+Rockies
+51 - 91
+Giants
+73 - 70
+R	H	E
+3	6	0
+6	11	0
+W:
+Winn, K
+1 - 2|3.55 ERA
+L:
+Lambert, P
+3 - 7|5.36 ERA
+S:
+Doval
+37
+MLB.TV
+Wrap
+Box
+Story
+OFFICIAL INFORMATION
+HELP/CONTACT US
+MORE MLB SITES & AFFILIATES
+CAREERS
+CONNECT WITH MLB
+Terms of Use
+Privacy Policy
+Legal Notices
+Contact Us
+Do not Sell or Share My Personal Data
+Cookie Settings
+© 2025 MLB Advanced Media, LP. All rights reserved.
+By clicking “Accept & Continue”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+The MLB Privacy Policy and Terms of Use Agreement have been updated, effective February 6, 2024, to encompass all MiLB.com and Minor League Club digital properties, and to update the arbitration and dispute resolution procedures, among other changes. By continuing to use our services, you agree to the updated Privacy Policy and Terms of Use Agreement.
+Cookies Settings Accept & Continue
+ 
+ 
+ ----- 
+ Source link : https://www.mlb.com/scores/2023-09-10 
+ ----- 

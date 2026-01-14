@@ -1,0 +1,296 @@
+Skip to main content
+Skip to navigation
+Top Events
+NCAAF
+NFL
+NBA
+NCAAM
+NCAAW
+NHL
+UFC
+Top Soccer
+PGA Tour
+LPGA Tour
+NBA G League
+Tennis (M)
+Tennis (W)
+PLL (Lacrosse)
+WNBA
+MLB
+Men's NCAA Ice Hockey
+Women's NCAA Ice Hockey
+Feb 20
+Feb 21
+Feb 22
+Gamecast
+CHC
+0-0
+LAD
+0-0
+2/20
+8:05 PM
+Full Scoreboard »
+Menu
+ESPN
+ALDS - Game 4NYY win series 3-1
+Yankees
+94-68, 50-31 Away
+3
+Final
+Royals
+86-76, 45-36 Home
+1
+Gamecast
+Recap
+Box Score
+Play-by-Play
+
+
+NYY
+
+
+KC
+1	2	3	4	5	6	7	8	9	R	H	E
+1	0	0	0	1	1	0	0	0	3	8	0
+0	0	0	0	0	1	0	0	0	1	6	0
+WIN
+G. Cole
+1-0
+7.0 IP, 6 H, 1 ER, 4 K, 0 BB
+LOSS
+M. Wacha
+0-1
+4.2 IP, 6 H, 2 ER, 2 K, 1 BB
+SAVE
+L. Weaver
+3
+1.0 IP, 0 H, 0 ER, 2 K, 0 BB
+NYY
+Overview
+KC
+Yankees Hitting
+HITTERS
+
+G. Torres
+2B
+
+
+J. Soto
+RF
+
+
+A. Judge
+CF
+
+
+A. Wells
+C
+
+
+G. Stanton
+DH
+
+
+D. Ellis
+PR-DH
+
+
+J. Chisholm Jr.
+3B
+
+
+A. Volpe
+SS
+
+
+A. Verdugo
+LF
+
+
+J. Berti
+1B
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+5	1	2	1	0	0	.200
+4	0	1	1	0	0	.286
+2	1	1	0	0	2	.154
+4	0	0	0	0	0	.125
+3	0	2	1	0	1	.375
+0	0	0	0	0	0	.000
+3	0	0	0	0	1	.133
+4	0	1	0	0	0	.250
+4	1	0	0	0	0	.214
+3	0	1	0	0	1	.286
+32	3	8	3	0	5	
+BATTING
+2BStanton (2, Wacha); Judge (1, Erceg); Torres (1, Wacha)
+RBIStanton (4), Torres (3), Soto (2)
+2Out RBITorres
+GIDPJudge; Wells
+Team LOB7
+Team RISP3-10 (Stanton 1-1, Verdugo 0-1, Torres 1-1, Soto 1-2, Chisholm Jr. 0-2, Volpe 0-2, Wells 0-1)
+BASERUNNING
+SBJudge (1, 2nd base off Schreiber/Perez)
+FIELDING
+DP1 (Berti-Volpe)
+Royals Hitting
+HITTERS
+
+M. Massey
+2B
+
+
+B. Witt Jr.
+SS
+
+
+V. Pasquantino
+DH
+
+
+S. Perez
+C
+
+
+Y. Gurriel
+1B
+
+
+M. Melendez
+LF
+
+
+T. Pham
+RF
+
+
+K. Isbel
+CF
+
+
+M. Garcia
+3B
+
+TEAM
+AB	R	H	RBI	HR	BB	AVG
+4	0	0	0	0	0	.304
+4	1	1	0	0	0	.192
+4	0	1	1	0	0	.130
+4	0	0	0	0	0	.208
+4	0	0	0	0	0	.190
+3	0	0	0	0	0	.150
+3	0	3	0	0	0	.333
+3	0	0	0	0	0	.214
+3	0	1	0	0	0	.318
+32	1	6	1	0	0	
+BATTING
+2BPasquantino (1, Cole)
+RBIPasquantino (2)
+2Out RBIPasquantino
+GIDPMassey
+Team LOB4
+Team RISP0-2 (Perez 0-1, Massey 0-1)
+FIELDING
+DP3 (Witt Jr.-Massey-Gurriel , Massey-Witt Jr.-Gurriel , Gurriel)
+Yankees Pitching
+PITCHERS
+
+G. Cole
+(W, 1-0)
+
+
+C. Holmes
+(H, 1)
+
+
+L. Weaver
+(S, 3)
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+7.0	6	1	4	87-63	3.00
+1.0	0	0	1	10-7	0.00
+1.0	0	0	2	9-8	0.00
+9.0	6	1	7	106-78	
+PITCHING
+First-pitch strikes/Batters FacedCole 17/26; Holmes 3/3; Weaver 3/3
+Called strikes-Swinging strikes-Foul balls-In play strikesCole-12-6-23-22; Holmes-5-0-0-2; Weaver-0-4-3-1
+Ground Balls-Fly BallsCole 6-10; Holmes 1-1; Weaver 0-1
+Game ScoresG Cole 65
+Royals Pitching
+PITCHERS
+
+M. Wacha
+(L, 0-1)
+
+
+L. Erceg
+
+
+A. Zerpa
+
+
+J. Schreiber
+
+
+S. Long
+
+TEAM
+IP	H	ER	K	PC-ST	ERA
+4.2	6	2	2	64-42	5.19
+1.1	2	1	0	24-12	3.00
+1.1	0	0	1	17-12	2.25
+0.1	0	0	1	14-6	0.00
+1.1	0	0	0	22-13	2.25
+9.0	8	3	4	141-85	
+PITCHING
+WPSchreiber
+IBBStanton (by Schreiber).
+First-pitch strikes/Batters FacedWacha 12/19; Erceg 2/6; Schreiber 1/3; Long 3/5; Zerpa 4/4
+Called strikes-Swinging strikes-Foul balls-In play strikesWacha-13-4-9-15; Erceg-2-3-2-5; Schreiber-3-1-2-0; Long-5-0-4-4; Zerpa-8-0-1-3
+Ground Balls-Fly BallsWacha 5-5; Erceg 1-2; Long 1-3; Zerpa 2-1
+Game ScoresM Wacha 45
+Scoring Summary
+INNING
+	NYY	KC
+		1st	Soto singled to right, Torres scored.	1	0
+		5th	Torres singled to right, Verdugo scored, Berti to third.	2	0
+		6th	Stanton singled to center, Judge scored.	3	0
+		6th	Pasquantino doubled to left, Witt Jr. scored.	3	1
+Full Play-By-Play
+Game Information
+Kauffman Stadium
+12:08 AM, October 11, 2024
+Coverage: TBS/truTV/Max
+Kansas City, Missouri
+Line: NYY -150
+Over/Under: 8.5
+Attendance: 39,012
+Game Time:
+2:36
+Umpires:
+Home Plate Umpire - Mark Carlson
+First Base Umpire - Lance Barksdale
+Second Base Umpire - Roberto Ortiz
+Third Base Umpire - Adam Hamari
+Left Field Umpire - Ryan Blakney
+Right Field Umpire - Lance Barrett
+Terms of Use
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Do Not Sell or Share My Personal Information
+Contact Us
+Disney Ad Sales Site
+Work for ESPN
+Corrections
+ESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.
+Copyright: © 2025 ESPN Enterprises, Inc. All rights reserved.
+ 
+ 
+ ----- 
+ Source link : https://www.espn.com/mlb/boxscore/_/gameId/401701048 
+ ----- 

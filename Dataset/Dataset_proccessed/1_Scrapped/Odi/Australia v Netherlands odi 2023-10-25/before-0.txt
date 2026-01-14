@@ -1,0 +1,43 @@
+We value your privacy
+We and our partners store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised advertising and content, advertising and content measurement, audience research and services development. With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our 1467 partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences or withdraw your consent at any time by returning to this site and clicking the "Privacy" button at the bottom of the webpage.
+Please note that this website/app uses one or more Google services and may gather and store information including but not limited to your visit or usage behaviour. You may click to grant or deny consent to Google and its third-party tags to use your data for below specified purposes in below Google consent section.
+MORE OPTIONS
+AGREE
+	CricClubs
+Home
+Players
+Matches
+Teams
+Statistics
+Series
+League
+ Log in
+Player Batting Records
+Player:	Josh Inglis
+Series:	ICC Cricket World cup 2023
+Start Date:	10/05/2023	
+
+
+No.  	Match Date  	Team  	Against  	Winner  	Batting Position  	Runs  	Balls 	SR  	4's  	6's  	Points  	 
+1	11/19/2023	Australia	India	Australia	0	DNB	DNB	0.00	0	0	0	Scorecard
+2	11/16/2023	Australia	South Africa	Australia	7	28	49	57.14	3	0	51	Scorecard
+3	11/11/2023	Australia	Bangladesh	Australia	0	DNB	DNB	0.00	0	0	0	Scorecard
+4	11/07/2023	Australia	Afghanistan	Australia	5	0	1	0.00	0	0	-10	Scorecard
+5	11/04/2023	Australia	England	Australia	5	3	6	50.00	0	0	3	Scorecard
+6	10/28/2023	Australia	New Zealand	Australia	7	38	28	135.71	4	1	94	Scorecard
+7	10/25/2023	Australia	Netherlands	Australia	5	14	12	116.67	1	1	37	Scorecard
+8	10/20/2023	Australia	Pakistan	Australia	6	13	9	144.44	3	0	46	Scorecard
+9	10/16/2023	Australia	Sri Lanka	Australia	5	58	59	98.31	5	1	181	Scorecard
+10	10/12/2023	Australia	South Africa	South Africa	5	5	4	125.00	1	0	6	Scorecard
+
+© Copyright 2025 CricClubs.com. All Rights Reserved.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ----- 
+ Source link : https://cricclubs.com/InternationalScores/playerBattingRecords.do?playerId=2309708&league=1468&clubId=11707 
+ ----- 

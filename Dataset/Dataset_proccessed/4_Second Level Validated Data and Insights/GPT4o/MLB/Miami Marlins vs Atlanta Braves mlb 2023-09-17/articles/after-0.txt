@@ -1,0 +1,660 @@
+We value your privacy
+We and our partners store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised advertising and content, advertising and content measurement, audience research and services development. With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our 1419 partners’ processing as described above. Alternatively you may click to refuse to consent or access more detailed information and change your preferences before consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences or withdraw your consent at any time by returning to this site and clicking the "Privacy" button at the bottom of the webpage.
+MORE OPTIONS
+DISAGREE
+AGREE
+MENU
+MLB Scores & Boxes
+Schedules, Scores, & Boxes
+2023 MLB Scores & Schedule
+Miami Marlins Schedule
+Atlanta Braves Schedule
+Atlanta Braves vs Miami Marlins Box Score: September 17, 2023
+MLB Scores — September 17, 2023
+TBR\t4\tFinal
+BAL\t5\t(11)
+NYY\t2\tFinal
+PIT\t3\t
+BOS\t2\tFinal
+TOR\t3\t
+TEX\t2\tFinal
+CLE\t9\t
+ATL\t2\tFinal
+MIA\t16\t
+CIN\t4\tFinal
+NYM\t8\t
+MIN\t4\tFinal
+CHW\t0\t
+HOU\t7\tFinal
+KCR\t1\t
+WSN\t2\tFinal
+MIL\t1\t(11)
+PHI\t5\tFinal
+STL\t6\t
+SFG\t11\tFinal
+COL\t10\t
+DET\t5\tFinal
+LAA\t3\t
+SDP\t10\tFinal
+OAK\t1\t
+LAD\t6\tFinal
+SEA\t1\t
+CHC\t2\tFinal
+ARI\t6\t
+MLB Scores & Standings on this Day
+Atlanta Braves
+2
+96-53
+Prev Game Next Game
+ 
+Miami Marlins
+16
+78-72
+Prev Game Next Game
+Sunday, September 17, 2023
+Start Time: 1:40 p.m. Local
+Attendance: 22,051
+Venue: loanDepot park
+Game Duration: 2:54
+Day Game, on turf
+Logos via Sports Logos.net / About logos
+ \t \t1\t2\t3\t4\t5\t6\t7\t8\t9\tR\tH\tE
+
+\tAtlanta Braves\t0\t0\t0\t0\t0\t0\t0\t2\t0\t2\t9\t1
+
+\tMiami Marlins\t0\t0\t5\t0\t1\t4\t4\t2\tX\t16\t17\t0
+WP: Jesús Luzardo (10-9) • LP: Charlie Morton (14-12)
+Atlanta Braves 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Ozzie Albies 2B\t5\t0\t2\t0\t0\t1\t5\t.267\t.323\t.494\t.817\t14\t10\t0.032\t0.37\t0.055\t-0.023\t0%\t0.01\t-0.2\t1\t3\t2·2B
+Austin Riley 3B\t3\t0\t0\t0\t1\t1\t4\t.277\t.339\t.514\t.853\t24\t15\t-0.021\t0.68\t0.011\t-0.032\t0%\t0.01\t-0.6\t1\t1\t
+   Luke Williams 3B\t1\t0\t0\t0\t0\t0\t1\t.077\t.077\t.077\t.154\t1\t1\t0.000\t0.00\t0.000\t0.000\t0%\t0.00\t-0.4\t0\t1\t
+Matt Olson 1B\t5\t0\t0\t0\t0\t0\t5\t.278\t.385\t.612\t.996\t17\t12\t-0.084\t0.58\t0.000\t-0.084\t-0.00%\t0.01\t-1.7\t8\t0\t
+Marcell Ozuna DH\t4\t1\t2\t1\t0\t1\t4\t.266\t.338\t.531\t.869\t16\t11\t-0.013\t0.47\t0.027\t-0.039\t0%\t0.01\t0.9\t\t\tHR
+Travis d'Arnaud C\t4\t1\t2\t0\t0\t2\t4\t.229\t.280\t.412\t.693\t10\t8\t-0.003\t0.47\t0.026\t-0.029\t0%\t0.01\t0.1\t5\t0\t2B
+Michael Harris II CF\t4\t0\t1\t1\t0\t1\t4\t.296\t.336\t.485\t.821\t11\t8\t-0.041\t0.51\t0.000\t-0.041\t-0.00%\t0.01\t0.1\t3\t0\t
+Orlando Arcia SS\t3\t0\t0\t0\t1\t3\t4\t.268\t.324\t.435\t.758\t20\t12\t-0.029\t0.45\t0.008\t-0.037\t0%\t0.01\t-0.6\t3\t2\t
+Eddie Rosario LF\t1\t0\t0\t0\t0\t0\t2\t.264\t.317\t.473\t.789\t3\t2\t-0.004\t0.93\t0.022\t-0.026\t0%\t0.02\t0.1\t1\t0\tHBP
+   Forrest Wall PH-LF\t2\t0\t1\t0\t0\t0\t2\t.333\t.333\t.667\t1.000\t14\t11\t0.001\t0.01\t0.001\t0.000\t0%\t0.00\t0.4\t1\t0\t2B
+Kevin Pillar RF\t4\t0\t1\t0\t0\t2\t4\t.229\t.253\t.412\t.665\t14\t9\t-0.064\t0.62\t0.000\t-0.064\t-0.00%\t0.01\t-0.8\t1\t0\t2B
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Charlie Morton P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t2\t
+   Dereck Rodríguez P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Nicky Lopez P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t36\t2\t9\t2\t2\t11\t39\t.250\t.308\t.472\t.780\t144\t99\t-0.226\t0.50\t0.150\t-0.375\t-0.00%\t0.01\t-2.8\t24\t9\t
+2B: Ozzie Albies 2 (25, 2 off Jesús Luzardo); Forrest Wall (2, off JT Chargois); Travis d'Arnaud (12, off Chi Chi González); Kevin Pillar (10, off Jacob Stallings).
+HR: Marcell Ozuna (35, off Chi Chi González, 8th inn, 0 on, 1 out to Deep LF Line).
+HBP: Eddie Rosario (1, by Jesús Luzardo).
+TB: Marcell Ozuna 5; Ozzie Albies 4; Travis d'Arnaud 3; Kevin Pillar 2; Forrest Wall 2; Michael Harris II.
+RBI: Marcell Ozuna (82); Michael Harris II (53).
+Team LOB: 10.
+With RISP: 1 for 13.
+Fielding
+DP: 1. Austin Riley-Orlando Arcia-Matt Olson.
+E: Orlando Arcia (11).
+Miami Marlins 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Batting\tAB\tR\tH\tRBI\tBB\tSO\tPA\tBA\tOBP\tSLG\tOPS\tPit\tStr\tWPA\taLI\tWPA+\tWPA-\tcWPA\tacLI\tRE24\tPO\tA\tDetails
+Luis Arráez 2B\t5\t2\t3\t2\t0\t0\t5\t.353\t.393\t.471\t.864\t17\t12\t0.030\t0.56\t0.064\t-0.034\t0.03%\t1.00\t1.3\t0\t3\tGDP
+   Xavier Edwards 2B\t1\t0\t0\t0\t0\t0\t1\t.291\t.316\t.345\t.661\t1\t1\t0.000\t0.00\t0.000\t0.000\t0%\t0.00\t-0.2\t0\t2\t
+Jorge Soler DH\t3\t2\t2\t2\t1\t0\t4\t.243\t.332\t.520\t.852\t12\t7\t0.098\t0.69\t0.102\t-0.004\t0.10%\t1.23\t2.2\t\t\tHR
+   Jacob Stallings PH-DH-P\t2\t1\t1\t0\t0\t0\t2\t.202\t.290\t.307\t.598\t7\t3\t0.000\t0.00\t0.000\t0.000\t0%\t0.00\t-0.2\t0\t0\t
+Josh Bell 1B\t5\t2\t1\t1\t0\t1\t5\t.242\t.320\t.407\t.727\t18\t12\t0.047\t0.67\t0.078\t-0.031\t0.05%\t1.19\t-0.0\t8\t0\t
+   Yuli Gurriel 1B\t1\t0\t1\t0\t0\t0\t1\t.253\t.313\t.372\t.685\t2\t2\t0.000\t0.00\t0.000\t0.000\t0%\t0.00\t0.2\t3\t0\t
+Jazz Chisholm Jr. CF\t2\t4\t1\t4\t3\t1\t5\t.256\t.311\t.468\t.779\t22\t7\t0.103\t0.49\t0.126\t-0.023\t0.11%\t0.88\t2.5\t3\t0\tHR
+   Jon Berti LF\t1\t0\t1\t1\t0\t0\t1\t.277\t.315\t.353\t.668\t5\t3\t0.000\t0.00\t0.000\t0.000\t0%\t0.00\t1.1\t2\t0\t
+Jake Burger 3B\t5\t1\t2\t3\t1\t0\t6\t.249\t.310\t.531\t.841\t22\t12\t-0.026\t0.21\t0.004\t-0.030\t-0.03%\t0.37\t2.7\t0\t1\tHR,2B
+Jesús Sánchez RF\t1\t0\t1\t0\t3\t0\t5\t.262\t.338\t.466\t.804\t24\t10\t0.026\t0.24\t0.036\t-0.010\t0.03%\t0.43\t0.7\t1\t0\tHBP
+Garrett Hampson LF-CF\t4\t0\t0\t2\t1\t1\t5\t.283\t.354\t.406\t.760\t23\t14\t-0.016\t0.35\t0.017\t-0.033\t-0.02%\t0.62\t0.2\t1\t0\t
+Joey Wendle SS\t5\t0\t0\t0\t0\t2\t5\t.218\t.252\t.315\t.567\t14\t10\t-0.036\t0.26\t0.000\t-0.036\t-0.04%\t0.45\t-2.0\t0\t0\t
+Nick Fortes C\t5\t4\t4\t1\t0\t0\t5\t.210\t.265\t.308\t.573\t15\t9\t0.048\t0.20\t0.048\t0.000\t0.05%\t0.35\t3.2\t9\t2\tHR,2·2B
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Jesús Luzardo P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t2\t
+   JT Chargois P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+   Chi Chi González P\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0\t0\t
+Team Totals\t40\t16\t17\t16\t9\t5\t50\t.425\t.540\t.800\t1.340\t182\t102\t0.274\t0.35\t0.475\t-0.201\t0.29%\t0.62\t11.7\t27\t10\t
+2B: Nick Fortes 2 (9, 2 off Dereck Rodríguez); Jake Burger (27, off Dereck Rodríguez).
+HR: Jazz Chisholm Jr. (18, off Charlie Morton, 3rd inn, 3 on, 0 outs to Deep CF); Jorge Soler (36, off Dereck Rodríguez, 6th inn, 1 on, 0 outs to Deep LF); Jake Burger (33, off Dereck Rodríguez, 7th inn, 2 on, 2 outs to Deep LF-CF); Nick Fortes (6, off Nicky Lopez, 8th inn, 0 on, 1 out to Deep LF).
+HBP: Jesús Sánchez (2, by Charlie Morton).
+TB: Nick Fortes 9; Jake Burger 6; Jorge Soler 5; Jazz Chisholm Jr. 4; Luis Arráez 3; Jacob Stallings; Jon Berti; Josh Bell; Jesús Sánchez; Yuli Gurriel.
+GIDP: Luis Arráez (18).
+RBI: Jazz Chisholm Jr. 4 (48); Jake Burger 3 (75); Jorge Soler 2 (73); Luis Arráez 2 (69); Garrett Hampson 2 (21); Josh Bell (66); Jon Berti (28); Nick Fortes (24).
+2-out RBI: Jake Burger 3; Garrett Hampson; Jon Berti.
+Team LOB: 10.
+With RISP: 8 for 12.
+Baserunning
+Pickoffs: Jesús Sánchez (1st base by Charlie Morton).
+Atlanta Braves 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Charlie Morton, L (14-12)\t4.2\t6\t6\t6\t5\t5\t1\t3.66\t25\t98\t58\t27\t13\t18\t6\t8\t4\t0\t28\t\t\t-0.267\t0.68\t-0.00%\t0.02\t-4.1
+Dereck Rodríguez\t2\t7\t8\t8\t3\t0\t2\t15.19\t16\t54\t28\t18\t2\t8\t6\t7\t3\t0\t\t3\t0\t-0.007\t0.03\t0.00%\t0.00\t-6.2
+Nicky Lopez\t1.1\t4\t2\t2\t1\t0\t1\t7.71\t9\t30\t16\t10\t0\t6\t4\t4\t1\t0\t\t0\t0\t0.000\t0.00\t0.00%\t0.00\t-1.4
+Team Totals\t8\t17\t16\t16\t9\t5\t4\t18.00\t50\t182\t102\t55\t15\t32\t16\t19\t8\t0\t28\t3\t0\t-0.274\t0.35\t-0.00%\t0.01\t-11.7
+
+Miami Marlins 
+Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Pitching\tIP\tH\tR\tER\tBB\tSO\tHR\tERA\tBF\tPit\tStr\tCtct\tStS\tStL\tGB\tFB\tLD\tUnk\tGSc\tIR\tIS\tWPA\taLI\tcWPA\tacLI\tRE24
+Jesús Luzardo, W (10-9)\t6\t4\t0\t0\t2\t8\t0\t3.68\t25\t97\t62\t32\t17\t13\t6\t8\t4\t0\t70\t\t\t0.225\t0.76\t0.24%\t1.35\t3.2
+JT Chargois\t1\t1\t0\t0\t0\t2\t0\t3.55\t4\t15\t11\t5\t4\t2\t0\t2\t1\t0\t\t0\t0\t0.001\t0.02\t0.00%\t0.04\t0.5
+Chi Chi González\t1\t3\t2\t2\t0\t1\t1\t7.36\t6\t25\t20\t13\t2\t5\t3\t2\t1\t0\t\t0\t0\t0.000\t0.00\t0.00%\t0.00\t-1.5
+Jacob Stallings\t1\t1\t0\t0\t0\t0\t0\t6.00\t4\t7\t6\t5\t0\t1\t1\t3\t1\t0\t\t0\t0\t0.000\t0.00\t0.00%\t0.00\t0.5
+Team Totals\t9\t9\t2\t2\t2\t11\t1\t2.00\t39\t144\t99\t55\t23\t21\t10\t15\t7\t0\t70\t0\t0\t0.226\t0.50\t0.24%\t0.88\t2.8
+
+Balks: None.
+WP: Dereck Rodríguez (1); Jesús Luzardo (7).
+HBP: Charlie Morton (12; Jesús Sánchez); Jesús Luzardo (6; Eddie Rosario).
+IBB: None.
+Pickoffs: Charlie Morton (2; Jesús Sánchez, 1st base).
+Other Info 
+Umpires: HP - Quinn Wolcott, 1B - Charlie Ramos, 2B - (none), 3B - Adrian Johnson, LF - (none), RF - (none).
+Time of Game: 2:54.
+Attendance: 22,051.
+Start Time Weather: 72° F, Wind 0mph, In Dome.
+Become a Stathead & surf this site ad-free.
+Starting Lineups 
+Braves
+1\tOzzie Albies\t2B
+2\tAustin Riley\t3B
+3\tMatt Olson\t1B
+4\tMarcell Ozuna\tDH
+5\tTravis d'Arnaud\tC
+6\tMichael Harris II\tCF
+7\tOrlando Arcia\tSS
+8\tEddie Rosario\tLF
+9\tKevin Pillar\tRF
+\tCharlie Morton\tP
+Marlins
+1\tLuis Arráez\t2B
+2\tJorge Soler\tDH
+3\tJosh Bell\t1B
+4\tJazz Chisholm Jr.\tCF
+5\tJake Burger\t3B
+6\tJesús Sánchez\tRF
+7\tGarrett Hampson\tLF
+8\tJoey Wendle\tSS
+9\tNick Fortes\tC
+\tJesús Luzardo\tP
+Win Probability Chart 
+Explanation of WPAMouse over chart for play descriptions
+Baseball-Reference.com Win Probability - Atlanta Braves vs. Miami Marlins, September 17 2023
+t1
+b1
+t2
+b2
+t3
+b3
+t4
+b4
+t5
+b5
+t6
+b6
+t7
+b7
+t8
+b8
+t9
+MIA
+50%
+ATL
+Inning\tWin Pct
+1\t0.5
+2\t0.48
+3\t0.46
+4\t0.45
+5\t0.47
+6\t0.45
+7\t0.48
+8\t0.5
+9\t0.48
+10\t0.5
+11\t0.48
+12\t0.45
+13\t0.47
+14\t0.45
+15\t0.48
+16\t0.5
+17\t0.47
+18\t0.46
+19\t0.48
+20\t0.49
+21\t0.44
+22\t0.4
+23\t0.35
+24\t0.27
+25\t0.19
+26\t0.07
+27\t0.08
+28\t0.07
+29\t0.08
+30\t0.08
+31\t0.11
+32\t0.08
+33\t0.07
+34\t0.07
+35\t0.08
+36\t0.1
+37\t0.06
+38\t0.06
+39\t0.06
+40\t0.07
+41\t0.1
+42\t0.08
+43\t0.06
+44\t0.04
+45\t0.05
+46\t0.05
+47\t0.05
+48\t0.04
+49\t0.04
+50\t0.02
+51\t0.03
+52\t0.02
+53\t0.02
+54\t0.01
+55\t0.01
+56\t0.01
+57\t0
+58\t0
+59\t0
+60\t0
+61\t0
+62\t0
+63\t0
+64\t0
+65\t0
+66\t0
+67\t0
+68\t0
+69\t0
+70\t0
+71\t0
+72\t0
+73\t0
+74\t0
+75\t0
+76\t0
+77\t0
+78\t0
+79\t0
+80\t0
+81\t0
+82\t0
+83\t0
+84\t0
+85\t0
+86\t0
+87\t0
+88\t0
+89\t0
+90\t0
+91\t0
+92\t0
+93\t0
+The height of bar indicates the probability of a team winning the game given the current game state.
+Top 5 Plays 
+wWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+b3\t1-0\t0\t123\t1,(0-0) \tRRRR\tMIA\tJazz Chisholm Jr.\tCharlie Morton\t12%\t93%\tHome Run (Fly Ball to Deep CF); L. Arráez Scores; J. Soler Scores; J. Bell Scores
+b3\t0-0\t0\t123\t2,(0-1) \tR\tMIA\tJosh Bell\tCharlie Morton\t8%\t81%\tSingle to RF (Line Drive); N. Fortes Scores; L. Arráez to 3B; J. Soler to 2B
+b3\t0-0\t0\t12-\t2,(0-1) \t\tMIA\tJorge Soler\tCharlie Morton\t7%\t73%\tSingle to 2B (Ground Ball); N. Fortes to 3B; L. Arráez to 2B
+b3\t0-0\t0\t1--\t2,(0-1) \t\tMIA\tLuis Arráez\tCharlie Morton\t6%\t65%\tSingle to RF (Line Drive); N. Fortes to 2B
+t3\t0-0\t2\t12-\t3,(1-1) \tO\tATL\tMatt Olson\tJesús Luzardo\t5%\t56%\tGroundout: 2B-1B (2B-1B)
+POWERED BY
+Looking for something amazing? Uncover the story that stats can tell with Stathead.
+Search through thousands of plays from baseball history using the Event Finder.
+Try it & get your first month FREE
+Play by Play 
+View Pitches Box Score ExplanationwWE and wWPA Explanation Share & Export
+Modify, Export & Share Table
+Get as Excel Workbook
+Get table as CSV (for Excel)
+Get Link to Table
+About Sharing Tools
+Video: SR Sharing Tools & How-to
+Video: Stats Table Tips & Tricks
+Data Usage Terms
+Glossary
+Scroll Right For More Stats · Switch to Widescreen View
+Inn\tScore\tOut\tRoB\tPit(cnt)\tR/O\t@Bat\tBatter\tPitcher\twWPA\twWE\tPlay Description
+Top of the 1st, Braves Batting, Tied 0-0, Marlins' Jesús Luzardo facing 1-2-3
+t1\t0-0\t0\t---\t7,(2-2) \tO\tATL\tOzzie Albies\tJesús Luzardo\t2%\t52%\tStrikeout Swinging
+t1\t0-0\t1\t---\t8,(3-2) \tO\tATL\tAustin Riley\tJesús Luzardo\t2%\t54%\tFlyball: CF (Deep CF)
+t1\t0-0\t2\t---\t3,(1-1) \tO\tATL\tMatt Olson\tJesús Luzardo\t1%\t55%\tGroundout: 2B-1B (2B-1B)
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Marlins 0.
+Bottom of the 1st, Marlins Batting, Tied 0-0, Braves' Charlie Morton facing 1-2-3
+b1\t0-0\t0\t---\t3,(1-1) \tO\tMIA\tLuis Arráez\tCharlie Morton\t-2%\t53%\tGroundout: P-1B (Front of Home)
+b1\t0-0\t1\t---\t5,(3-1) \t\tMIA\tJorge Soler\tCharlie Morton\t2%\t55%\tWalk
+b1\t0-0\t1\t1--\t5,(2-2) \tO\tMIA\tJosh Bell\tCharlie Morton\t-3%\t52%\tStrikeout Swinging
+b1\t0-0\t2\t1--\t6,(3-2) \tO\tMIA\tJazz Chisholm Jr.\tCharlie Morton\t-2%\t50%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 1 LOB. Braves 0, Marlins 0.
+Top of the 2nd, Braves Batting, Tied 0-0, Marlins' Jesús Luzardo facing 4-5-6
+t2\t0-0\t0\t---\t4,(1-2) \tO\tATL\tMarcell Ozuna\tJesús Luzardo\t2%\t52%\tStrikeout Swinging; M. Ozuna out at 1B/C-1B
+t2\t0-0\t1\t---\t1,(0-0) \t\tATL\tTravis d'Arnaud\tJesús Luzardo\t-3%\t50%\tSingle to LF (Line Drive to LF Line)
+t2\t0-0\t1\t1--\t2,(1-0) \tO\tATL\tMichael Harris II\tJesús Luzardo\t2%\t52%\tGroundout: 2B-1B (2B-1B); T. d'Arnaud to 2B
+t2\t0-0\t2\t-2-\t4,(1-2) \tO\tATL\tOrlando Arcia\tJesús Luzardo\t3%\t55%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Marlins 0.
+Bottom of the 2nd, Marlins Batting, Tied 0-0, Braves' Charlie Morton facing 5-6-7
+b2\t0-0\t0\t---\t3,(1-2) \tO\tMIA\tJake Burger\tCharlie Morton\t-2%\t53%\tGroundout: 2B-1B (SS-2B)
+b2\t0-0\t1\t---\t3,(0-2) \t\tMIA\tJesús Sánchez\tCharlie Morton\t3%\t55%\tSingle to P (Line Drive to SS-3B Hole)
+b2\t0-0\t1\t1--\t4,(1-2) \tO\tMIA\tGarrett Hampson\tCharlie Morton\t-3%\t52%\tStrikeout Swinging
+b2\t0-0\t2\t1--\t4,(1-2) \tO\tMIA\tJoey Wendle\tCharlie Morton\t-2%\t50%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Marlins 0.
+Top of the 3rd, Braves Batting, Tied 0-0, Marlins' Jesús Luzardo facing 8-9-1
+t3\t0-0\t0\t---\t2,(0-1) \tO\tATL\tEddie Rosario\tJesús Luzardo\t3%\t53%\tGroundout: P-1B
+t3\t0-0\t1\t---\t4,(2-1) \tO\tATL\tKevin Pillar\tJesús Luzardo\t2%\t54%\tLineout: LF
+t3\t0-0\t2\t---\t1,(0-0) \t\tATL\tOzzie Albies\tJesús Luzardo\t-2%\t52%\tGround-rule Double (Fly Ball to Deep RF)
+t3\t0-0\t2\t-2-\t6,(3-2) \t\tATL\tAustin Riley\tJesús Luzardo\t-1%\t51%\tWalk
+t3\t0-0\t2\t12-\t3,(1-1) \tO\tATL\tMatt Olson\tJesús Luzardo\t5%\t56%\tGroundout: 2B-1B (2B-1B)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 2 LOB. Braves 0, Marlins 0.
+Bottom of the 3rd, Marlins Batting, Tied 0-0, Braves' Charlie Morton facing 9-1-2
+b3\t0-0\t0\t---\t1,(0-0) \t\tMIA\tNick Fortes\tCharlie Morton\t4%\t60%\tSingle to LF (Line Drive to Deep LF-CF)
+b3\t0-0\t0\t1--\t2,(0-1) \t\tMIA\tLuis Arráez\tCharlie Morton\t6%\t65%\tSingle to RF (Line Drive); N. Fortes to 2B
+b3\t0-0\t0\t12-\t2,(0-1) \t\tMIA\tJorge Soler\tCharlie Morton\t7%\t73%\tSingle to 2B (Ground Ball); N. Fortes to 3B; L. Arráez to 2B
+b3\t0-0\t0\t123\t2,(0-1) \tR\tMIA\tJosh Bell\tCharlie Morton\t8%\t81%\tSingle to RF (Line Drive); N. Fortes Scores; L. Arráez to 3B; J. Soler to 2B
+b3\t1-0\t0\t123\t1,(0-0) \tRRRR\tMIA\tJazz Chisholm Jr.\tCharlie Morton\t12%\t93%\tHome Run (Fly Ball to Deep CF); L. Arráez Scores; J. Soler Scores; J. Bell Scores
+b3\t5-0\t0\t---\t1,(0-0) \tO\tMIA\tJake Burger\tCharlie Morton\t-1%\t92%\tGroundout: SS-1B (Deep SS)
+b3\t5-0\t1\t---\t4,(1-2) \t\tMIA\tJesús Sánchez\tCharlie Morton\t1%\t93%\tHit By Pitch
+b3\t5-0\t1\t1--\t2,(1-1) \tO\tMIA\tGarrett Hampson\tCharlie Morton\t-1%\t92%\tJ. Sánchez Picked off 1B (P-1B)
+\t\t\t\t\t\t\t\t\tTag play Challenged by ATL manager (Brian Snitker): Original call overturned as shown.
+b3\t5-0\t2\t---\t6,(3-2) \tO\tMIA\tGarrett Hampson\tCharlie Morton\t0%\t92%\tPopfly: SS (Deep SS-3B Hole)
+\t\t\t\t\t\t\t\t\t5 runs, 5 hits, 0 errors, 0 LOB. Braves 0, Marlins 5.
+Top of the 4th, Braves Batting, Behind 0-5, Marlins' Jesús Luzardo facing 4-5-6
+t4\t0-5\t0\t---\t3,(1-1) \t\tATL\tMarcell Ozuna\tJesús Luzardo\t-2%\t89%\tSingle to CF (Line Drive to Deep LF-CF)
+t4\t0-5\t0\t1--\t4,(1-2) \tO\tATL\tTravis d'Arnaud\tJesús Luzardo\t2%\t92%\tStrikeout Swinging
+t4\t0-5\t1\t1--\t2,(0-1) \tO\tATL\tMichael Harris II\tJesús Luzardo\t2%\t93%\tLineout: CF (Deep CF)
+t4\t0-5\t2\t1--\t1,(0-0) \t\tATL\tOrlando Arcia\tJesús Luzardo\t0%\t93%\tWild Pitch; M. Ozuna to 2B
+t4\t0-5\t2\t-2-\t5,(3-1) \t\tATL\tOrlando Arcia\tJesús Luzardo\t-1%\t92%\tWalk
+t4\t0-5\t2\t12-\t1,(0-0) \t\tATL\tEddie Rosario\tJesús Luzardo\t-2%\t90%\tHit By Pitch; M. Ozuna to 3B; O. Arcia to 2B
+t4\t0-5\t2\t123\t5,(2-2) \tO\tATL\tKevin Pillar\tJesús Luzardo\t4%\t94%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 3 LOB. Braves 0, Marlins 5.
+Bottom of the 4th, Marlins Batting, Ahead 5-0, Braves' Charlie Morton facing 8-9-1
+b4\t5-0\t0\t---\t3,(0-2) \tO\tMIA\tJoey Wendle\tCharlie Morton\t0%\t94%\tStrikeout Looking
+b4\t5-0\t1\t---\t3,(1-1) \t\tMIA\tNick Fortes\tCharlie Morton\t0%\t94%\tReached on E6 (throw) (Ground Ball); N. Fortes to 1B
+b4\t5-0\t1\t1--\t7,(3-2) \tOO\tMIA\tLuis Arráez\tCharlie Morton\t-1%\t93%\tGround Ball Double Play: 3B-SS-1B
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 1 error, 0 LOB. Braves 0, Marlins 5.
+Top of the 5th, Braves Batting, Behind 0-5, Marlins' Jesús Luzardo facing 1-2-3
+t5\t0-5\t0\t---\t1,(0-0) \t\tATL\tOzzie Albies\tJesús Luzardo\t-3%\t90%\tDouble to LF (Fly Ball to Deep LF Line)
+t5\t0-5\t0\t-2-\t6,(1-2) \tO\tATL\tAustin Riley\tJesús Luzardo\t2%\t92%\tFlyball: RF (Deep CF-RF); O. Albies to 3B
+t5\t0-5\t1\t--3\t4,(1-2) \tO\tATL\tMatt Olson\tJesús Luzardo\t2%\t94%\tGroundout: P-1B
+t5\t0-5\t2\t--3\t5,(2-2) \tO\tATL\tMarcell Ozuna\tJesús Luzardo\t2%\t96%\tGroundout: 1B unassisted (2B-1B)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Marlins 5.
+Bottom of the 5th, Marlins Batting, Ahead 5-0, Braves' Charlie Morton facing 2-3-4
+b5\t5-0\t0\t---\t2,(0-1) \tO\tMIA\tJorge Soler\tCharlie Morton\t0%\t95%\tFlyball: CF (Deep CF-RF)
+b5\t5-0\t1\t---\t6,(3-2) \tO\tMIA\tJosh Bell\tCharlie Morton\t0%\t95%\tFlyball: CF
+b5\t5-0\t2\t---\t6,(3-2) \t\tMIA\tJazz Chisholm Jr.\tCharlie Morton\t0%\t95%\tWalk
+b5\t5-0\t2\t1--\t7,(3-2) \t\tMIA\tJake Burger\tCharlie Morton\t0%\t96%\tWalk; J. Chisholm to 2B
+b5\t5-0\t2\t12-\t6,(3-2) \t\tMIA\tJesús Sánchez\tCharlie Morton\t0%\t96%\tWalk; J. Chisholm to 3B; J. Burger to 2B
+b5\t5-0\t2\t123\t6,(3-2) \tR\tMIA\tGarrett Hampson\tCharlie Morton\t2%\t98%\tWalk; J. Chisholm Scores; J. Burger to 3B; J. Sánchez to 2B
+\t\t\t\t\t\t\t\t\t
+Dereck Rodríguez replaces Charlie Morton pitching
+
+b5\t6-0\t2\t123\t2,(1-0) \tO\tMIA\tJoey Wendle\tDereck Rodríguez\t-1%\t97%\tGroundout: 2B-1B (2B-1B)
+\t\t\t\t\t\t\t\t\t1 run, 0 hits, 0 errors, 3 LOB. Braves 0, Marlins 6.
+Top of the 6th, Braves Batting, Behind 0-6, Marlins' Jesús Luzardo facing 5-6-7
+t6\t0-6\t0\t---\t4,(1-2) \tO\tATL\tTravis d'Arnaud\tJesús Luzardo\t1%\t98%\tStrikeout Swinging
+t6\t0-6\t1\t---\t5,(2-2) \tO\tATL\tMichael Harris II\tJesús Luzardo\t0%\t98%\tStrikeout Swinging; M. Harris out at 1B/C-1B
+t6\t0-6\t2\t---\t7,(3-2) \tO\tATL\tOrlando Arcia\tJesús Luzardo\t0%\t99%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 0 hits, 0 errors, 0 LOB. Braves 0, Marlins 6.
+Bottom of the 6th, Marlins Batting, Ahead 6-0, Braves' Dereck Rodríguez facing 9-1-2
+b6\t6-0\t0\t---\t4,(2-1) \t\tMIA\tNick Fortes\tDereck Rodríguez\t0%\t99%\tDouble to CF (Line Drive to Deep CF)
+b6\t6-0\t0\t-2-\t1,(0-0) \tR\tMIA\tLuis Arráez\tDereck Rodríguez\t1%\t99%\tSingle to CF (Line Drive to LF-CF); N. Fortes Scores; L. Arráez to 2B
+b6\t7-0\t0\t-2-\t3,(1-1) \tRR\tMIA\tJorge Soler\tDereck Rodríguez\t0%\t100%\tHome Run (Fly Ball to Deep LF); L. Arráez Scores
+b6\t9-0\t0\t---\t1,(0-0) \tO\tMIA\tJosh Bell\tDereck Rodríguez\t0%\t100%\tFlyball: CF (Deep CF-RF)
+b6\t9-0\t1\t---\t4,(3-0) \t\tMIA\tJazz Chisholm Jr.\tDereck Rodríguez\t0%\t100%\tWalk
+b6\t9-0\t1\t1--\t3,(2-0) \t\tMIA\tJake Burger\tDereck Rodríguez\t0%\t100%\tDouble to LF (Ground Ball thru SS-3B Hole); J. Chisholm to 3B
+b6\t9-0\t1\t-23\t7,(3-2) \t\tMIA\tJesús Sánchez\tDereck Rodríguez\t0%\t100%\tWalk
+b6\t9-0\t1\t123\t4,(1-2) \tRO\tMIA\tGarrett Hampson\tDereck Rodríguez\t0%\t100%\tGroundout: 3B unassisted/Forceout at 3B (Weak 3B); J. Chisholm Scores; J. Sánchez to 2B; G. Hampson to 1B
+b6\t10-0\t2\t12-\t3,(2-1) \tO\tMIA\tJoey Wendle\tDereck Rodríguez\t0%\t100%\tFlyball: LF (Deep LF Line)
+\t\t\t\t\t\t\t\t\t4 runs, 4 hits, 0 errors, 2 LOB. Braves 0, Marlins 10.
+Top of the 7th, Braves Batting, Behind 0-10, Marlins' JT Chargois facing 8-9-1
+\t\t\t\t\t\t\t\t\t
+JT Chargois replaces Jesús Luzardo pitching
+Forrest Wall pinch hits for Eddie Rosario (LF) batting 8th
+
+t7\t0-10\t0\t---\t4,(0-2) \t\tATL\tForrest Wall\tJT Chargois\t0%\t100%\tDouble to RF (Line Drive to Deep RF Line)
+t7\t0-10\t0\t-2-\t4,(1-2) \tO\tATL\tKevin Pillar\tJT Chargois\t0%\t100%\tStrikeout Swinging
+t7\t0-10\t1\t-2-\t3,(2-0) \tO\tATL\tOzzie Albies\tJT Chargois\t0%\t100%\tFlyball: CF (Deep CF); F. Wall to 3B
+t7\t0-10\t2\t--3\t4,(1-2) \tO\tATL\tAustin Riley\tJT Chargois\t0%\t100%\tStrikeout Swinging
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Braves 0, Marlins 10.
+Bottom of the 7th, Marlins Batting, Ahead 10-0, Braves' Dereck Rodríguez facing 9-1-2
+\t\t\t\t\t\t\t\t\t
+Luke Williams replaces Austin Riley playing 3B batting 2nd
+Forrest Wall moves from PH to LF
+
+b7\t10-0\t0\t---\t3,(1-1) \t\tMIA\tNick Fortes\tDereck Rodríguez\t0%\t100%\tDouble to LF (Ground Ball)
+b7\t10-0\t0\t-2-\t2,(0-1) \t\tMIA\tLuis Arráez\tDereck Rodríguez\t0%\t100%\tWild Pitch; N. Fortes to 3B
+b7\t10-0\t0\t--3\t4,(1-2) \tR\tMIA\tLuis Arráez\tDereck Rodríguez\t0%\t100%\tSingle to CF (Ground Ball); N. Fortes Scores
+\t\t\t\t\t\t\t\t\t
+Jacob Stallings pinch hits for Jorge Soler (DH) batting 2nd
+
+b7\t11-0\t0\t1--\t2,(1-0) \tO\tMIA\tJacob Stallings\tDereck Rodríguez\t0%\t100%\tFlyball: LF (Deep LF-CF)
+b7\t11-0\t1\t1--\t4,(1-2) \tO\tMIA\tJosh Bell\tDereck Rodríguez\t0%\t100%\tGroundout: 2B-SS/Forceout at 2B (2B-1B); J. Bell to 1B
+b7\t11-0\t2\t1--\t5,(3-1) \t\tMIA\tJazz Chisholm Jr.\tDereck Rodríguez\t0%\t100%\tWalk; J. Bell to 2B
+b7\t11-0\t2\t12-\t4,(2-1) \tRRR\tMIA\tJake Burger\tDereck Rodríguez\t0%\t100%\tHome Run (Line Drive to Deep LF-CF); J. Bell Scores; J. Chisholm Scores
+\t\t\t\t\t\t\t\t\t
+Nicky Lopez replaces Dereck Rodríguez pitching
+
+b7\t14-0\t2\t---\t4,(3-0) \t\tMIA\tJesús Sánchez\tNicky Lopez\t0%\t100%\tWalk
+b7\t14-0\t2\t1--\t3,(0-2) \tO\tMIA\tGarrett Hampson\tNicky Lopez\t0%\t100%\tGroundout: 3B-2B/Forceout at 2B (SS-3B Hole); G. Hampson to 1B
+\t\t\t\t\t\t\t\t\t4 runs, 3 hits, 0 errors, 1 LOB. Braves 0, Marlins 14.
+Top of the 8th, Braves Batting, Behind 0-14, Marlins' Chi Chi González facing 3-4-5
+\t\t\t\t\t\t\t\t\t
+Chi Chi González replaces JT Chargois pitching
+Yuli Gurriel replaces Josh Bell playing 1B batting 3rd
+Xavier Edwards replaces Luis Arráez playing 2B batting 1st
+Jon Berti replaces Jazz Chisholm Jr. (CF) playing LF batting 4th
+Garrett Hampson moves from LF to CF
+
+t8\t0-14\t0\t---\t4,(1-2) \tO\tATL\tMatt Olson\tChi Chi González\t0%\t100%\tGroundout: 2B-1B (2B-1B)
+t8\t0-14\t1\t---\t4,(1-2) \tR\tATL\tMarcell Ozuna\tChi Chi González\t0%\t100%\tHome Run (Fly Ball to Deep LF Line)
+t8\t1-14\t1\t---\t1,(0-0) \t\tATL\tTravis d'Arnaud\tChi Chi González\t0%\t100%\tDouble to RF (Line Drive to RF Line)
+t8\t1-14\t1\t-2-\t2,(0-1) \tR\tATL\tMichael Harris II\tChi Chi González\t0%\t100%\tSingle to RF (Ground Ball); T. d'Arnaud Scores
+t8\t2-14\t1\t1--\t4,(0-2) \tO\tATL\tOrlando Arcia\tChi Chi González\t0%\t100%\tStrikeout Swinging
+t8\t2-14\t2\t1--\t10,(3-2) \tO\tATL\tForrest Wall\tChi Chi González\t0%\t100%\tGroundout: 2B-1B (2B-1B)
+\t\t\t\t\t\t\t\t\t2 runs, 3 hits, 0 errors, 1 LOB. Braves 2, Marlins 14.
+Bottom of the 8th, Marlins Batting, Ahead 14-2, Braves' Nicky Lopez facing 8-9-1
+b8\t14-2\t0\t---\t2,(1-0) \tO\tMIA\tJoey Wendle\tNicky Lopez\t0%\t100%\tFlyball: RF (Deep RF)
+b8\t14-2\t1\t---\t4,(2-1) \tR\tMIA\tNick Fortes\tNicky Lopez\t0%\t100%\tHome Run (Fly Ball to Deep LF)
+b8\t15-2\t1\t---\t1,(0-0) \tO\tMIA\tXavier Edwards\tNicky Lopez\t0%\t100%\tGroundout: 1B unassisted
+b8\t15-2\t2\t---\t5,(3-1) \t\tMIA\tJacob Stallings\tNicky Lopez\t0%\t100%\tSingle to 3B (Line Drive to Short LF)
+b8\t15-2\t2\t1--\t2,(0-1) \t\tMIA\tYuli Gurriel\tNicky Lopez\t0%\t100%\tSingle to CF (Ground Ball thru SS-2B); J. Stallings to 2B
+b8\t15-2\t2\t12-\t5,(2-2) \tR\tMIA\tJon Berti\tNicky Lopez\t0%\t100%\tSingle to LF (Ground Ball); J. Stallings Scores; Y. Gurriel to 3B
+b8\t16-2\t2\t1-3\t4,(2-1) \tO\tMIA\tJake Burger\tNicky Lopez\t0%\t100%\tFoul Popfly: 1B (1B into Foul Terr.)
+\t\t\t\t\t\t\t\t\t2 runs, 4 hits, 0 errors, 2 LOB. Braves 2, Marlins 16.
+Top of the 9th, Braves Batting, Behind 2-16, Marlins' Jacob Stallings facing 9-1-2
+\t\t\t\t\t\t\t\t\t
+Jacob Stallings moves from DH to P (team loses DH)
+
+t9\t2-16\t0\t---\t1,(0-0) \t\tATL\tKevin Pillar\tJacob Stallings\t0%\t100%\tDouble to LF (Line Drive to Deep LF Line)
+t9\t2-16\t0\t-2-\t2,(0-1) \tO\tATL\tOzzie Albies\tJacob Stallings\t0%\t100%\tGroundout: 3B-1B (SS-3B Hole)
+t9\t2-16\t1\t-2-\t1,(0-0) \tO\tATL\tLuke Williams\tJacob Stallings\t0%\t100%\tFlyball: LF (Deep LF)
+t9\t2-16\t2\t-2-\t3,(1-1) \tO\tATL\tMatt Olson\tJacob Stallings\t0%\t100%\tFlyball: LF (Deep LF-CF)
+\t\t\t\t\t\t\t\t\t0 runs, 1 hit, 0 errors, 1 LOB. Braves 2, Marlins 16.
+
+Retrosheet.org Boxscore:MIA202309170
+BackToBaseball.com Game Playback
+
+Play-by-Play Explanation
+Score- The score from the perspective of the batting team.
+RoB- This gives the baserunner (Runners on Base) configuration at the start of the play. "1-3" would mean runners on first and third. Clicking on this will show the defensive players and baserunners on the field for this play.
+Pit- When available, the number of pitches in this plate appearance. Clicking on this number will show the sequence of pitches thrown including, when available, things like runner going, ball blocked, attempted pickoffs and the like. We believe this data to be as accurate as humanly possible, but there are going to be some errors in the data, so please take it with a grain of salt. Clicking on this will show the defensive players and baserunners on the field for this play.
+R/O- This has a "O" for every out on the play and an "R" for every run that scored on the play. Some plays will have both in no particular order.
+Batter- The batter at the plate when this play occurred. If the play is a baserunning event, then the batter's name will be repeated as indicated by quotes.
+Pitcher- The pitcher on the mound when this play occurred.
+wWPA- Winning Team's Win Probability Added. The amount that this play increased or decreased the eventual winning team's probability of winning the game. More About Win Probability Added
+wWE- Winning Team's Win Expectancy. The probability of the eventual winning team winning the game at the end of this play given two average teams playing each other. More About Win Probability Added
+Play Detail- This is an explanation of the play that occurred. In some cases, batted ball location and type will be indicated within parentheses. Again, these are best efforts to the record the game as it happened. Also, plays made on the baserunners (including the batter as a baserunner) will be indicated in parentheses after the baserunner's name. Advancement of baserunners is given in cases where the advancement is not easily deduced or obvious from the play. For example, advancement for a walk will not be given, but for a single or double it will be given.
+
+Please report any issues or strangeness you see with the description of plays given above. We have tested several hundred different types of plays, but, in all likelihood, there are still some errors or misinterpretations of the play-by-play data.
+
+In some cases, the results from play-by-play data will contradict results in the official record. The official record has many, many errors, but we have not undertaken to reconcile those errors. Pitch-by-pitch data should not be taken as completely accurate, though we believe it to be as accurate as is currently possible.
+
+Box scores and play-by-play outputs produced by Sports Reference LLC. All Rights Reserved.
+
+Schedules, Scores, & Boxes
+
+MLB Scores & Boxes
+
+2023 MLB Scores & Schedule Miami Marlins Schedule Atlanta Braves Schedule
+Ad-Free Login Create Account
+You are here: BR Home Page > Box Scores > 2023 > Atlanta Braves vs Miami Marlins Box Score: September 17, 2023
+Full Site Menu 
+Return to Top
+Major League Players
+Current Greats: Clayton Kershaw, Mike Trout, Mookie Betts, Jacob deGrom, Miguel Cabrera, Zack Greinke, Jose Altuve, ...
+All-Time Greats: Stan Musial, Barry Bonds, Babe Ruth, Derek Jeter, Oscar Charleston, Ken Griffey Jr, Jackie Robinson, Hank Aaron, ...
+Major League Teams
+NL East: Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, Washington Nationals
+NL Central: Chicago Cubs, Cincinnati Reds, Milwaukee Brewers, Pittsburgh Pirates, St. Louis Cardinals
+NL West: Arizona Diamondbacks, Colorado Rockies, Los Angeles Dodgers , San Diego Padres, San Francisco Giants
+AL East: Baltimore Orioles, Boston Red Sox, New York Yankees, Tampa Bay Rays, Toronto Blue Jays
+AL Central: Chicago White Sox, Cleveland Guardians, Detroit Tigers, Kansas City Royals, Minnesota Twins
+AL West: Houston Astros, Los Angeles Angels, Oakland Athletics, Seattle Mariners, Texas Rangers
+Seasons
+2024, 2023, 2024 MLB Pitching, 2024 MLB Batting, 2024 MLB Standings, 2024 MLB Attendance, 2024 MLB Rookies, ...
+Major League Leaders
+2024 MLB Batting, 2024 MLB Pitching, Career WAR Leaders, Single-Season Home Run Leaders, Active Strikeout Leaders, Upcoming Player Milestones, ...
+MLB Scores
+Yesterday's MLB Games, Scores from any date in Major League history, MLB Probable Pitchers, Baseball-Reference Stream Finder, ...
+MLB Schedule
+MLB Standings
+AL Standings, NL Standings, Standings for any date in history, ...
+Playoffs
+World Series Winners, 2019 World Series: Astros vs Nationals, 2018 World Series: Red Sox vs Dodgers, 2017 World Series: Astros vs Dodgers, World Series Batting Leaders, World Series Pitching Leaders, ...
+Stathead
+Player Finders: Season & Career Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Versus Finder, ...
+Team Finders: Season Finder, Game Finder, Streak Finder, Span Finder, Split Finder, Event Finder, ...
+Other Finders: Draft Finder, Team Trade Histories, Head-to-Head Records, ...
+Managers
+Active: Terry Francona, Rocco Baldelli, Dave Roberts, ...
+Retired: John McGraw, Bobby Cox, Earl Weaver, ...
+Awards
+Baseball Hall of Fame, MLB MVP's, MLB Cy Young Award, MLB Rookie of the Year, Rawlings Gold Gloves, 2024 HOF results, 2025 Hall of Fame ballot, ...
+All-Star Games
+2024 All-Star Game, 2023 All-Star Game, All-Time All-Star Batters, All-Time All-Star Pitchers, ...
+Frivolities
+and More
+Players who played for multiple teams, Oracle of Baseball, Uniform Number Tracker, Cups of Coffee, Pronunciation Guide, Birthplaces, Players by School Attended, ....
+MLB Draft
+2023 Draft, 2022 Draft, 2021 Draft, MLB Number One Picks, ...
+Minor, Foreign, College, & Black Baseball
+Minor League Stats, Black Baseball Stats, Nippon Pro Baseball Stats, Cuban National Series Stats, Korean Baseball Stats, 2024 Minor Leagues, 2024 Affiliates, ...
+Baseball-Reference Bullpen
+100,000+ pages of baseball information, How to Contribute, ...
+About Baseball Reference
+Batting Glossary, Pitching Glossary, Wins Above Replacement Explainer, WAR data archive, BR Data Coverage, Frequently Asked Questions about MLB and Baseball, ...
+Immaculate Grid
+Put your baseball knowledge to the test with our daily baseball trivia game. Can you complete the grid?
+Baseball-Reference.com Blog and Articles
+We're Social...for Statheads
+          
+
+Every Sports Reference Social Media Account
+
+Site Last Updated: Saturday, January 11, 11:12PM
+
+Question, Comment, Feedback, or Correction?
+
+Subscribe to our Free Email Newsletter
+
+Subscribe to Stathead Baseball: Get your first month FREE
+Your All-Access Ticket to the Baseball Reference Database
+
+Do you have a sports website? Or write about sports? We have tools and resources that can help you use sports data. Find out more.
+
+FAQs, Tip & Tricks
+Learn about the Wins Above Replacement Formula
+Tips and Tricks from our Blog.
+Do you have a blog? Join our linker program.
+Watch our How-To Videos to Become a Stathead
+Subscribe to Stathead and get access to more data than you can imagine
+
+All logos are the trademark & property of their owners and not Sports Reference LLC. We present them here for purely educational purposes. Our reasoning for presenting offensive logos.
+
+Logos were compiled by the amazing SportsLogos.net.
+
+Copyright © 2000-2024 Sports Reference LLC. All rights reserved.
+
+The SPORTS REFERENCE and STATHEAD trademarks are owned exclusively by Sports Reference LLC. Use without license or authorization is expressly prohibited.
+
+Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.
+
+Win Expectancy, Run Expectancy, and Leverage Index calculations provided by Tom Tango of InsideTheBook.com, and co-author of The Book: Playing the Percentages in Baseball.
+
+Total Zone Rating and initial framework for Wins above Replacement calculations provided by Sean Smith.
+
+Full-year historical Major League statistics provided by Pete Palmer and Gary Gillette of Hidden Game Sports.
+
+Some defensive statistics Copyright © Sports Info Solutions, 2010-2024.
+
+Some high school data is courtesy David McWater.
+
+Many historical player head shots courtesy of David Davis. Many thanks to him. All images are property the copyright holder and are displayed here for informational purposes only.
+
+Data Provided By
+the official stats partner of the NBA, NHL and MLB.
+
+ Sports Reference ® Baseball Football (college) Basketball (college) Hockey Soccer Blog Stathead ® Immaculate Grid
+About • Conditions & Terms of Service • Advertise With Us • Jobs at SR
+
+Sports Reference Purpose: We will be the trusted source of information and tools that inspire and empower users to enjoy, understand, and share the sports they love.
+
+Privacy Policy • Gambling Revenue Policy • Accessibility Policy • Use of Data
+ 
+ 
+ ----- 
+ Source link : https://www.baseball-reference.com/boxes/MIA/MIA202309170.shtml 
+ ----- 

@@ -1,0 +1,198 @@
+International
+Products
+Digitalisation
+Service
+News
+Holding
+Career
+Investor Relations
+Koenig & Bauer
+
+28. May 2024
+
+Koenig & Bauer presents the future of print in a networked production environment at drupa
+Smarter, More Efficient, More Visionary: Koenig & Bauer with Digital Solutions and New Products at drupa 2024
+share
+tweet
+share
+share
+The focus of the over 4,000 m² fair stand is directed at the packaging market and digital solutions
+End-to-end packaging workflow with offset, digital and flexo printing and finishing
+More efficiency and profitability through digital innovation: ten new digital products and technologies
+‘Connected Packaging’ builds a bridge between analogue packaging and the digital world
+Further progress made on development of the modular automation platform
+Rapida 106 X heralds a new dimension in performance with speeds of 22,000 sheets/h
+
+Visitors to the 4,000 sqm Koenig & Bauer stand at drupa 2024 in Düsseldorf (Stand A31 in Hall 16) can experience an end-to-end packaging workflow with offset, digital and flexo printing and finishing
+
+At the world’s flagship trade fair for printing technologies, which is being held from 28 May to 7 June 2024, Koenig & Bauer is presenting its uniquely broad product portfolio and numerous digital innovations to raise print production and post-press finishing to a new level. The stand measuring over 4,000 m2 (Hall 16, Stand A31) places a particular focus on solutions for the packaging market – not only machinery, but also digital products.
+
+Live experience of revolutionary digital products: more efficiency and profitability with Kyana
+
+Koenig & Bauer is presenting ten brand new digital products and technologies at drupa 2024. These innovations are the quintessential contribution by the industry’s oldest manufacturer to the core theme of its latest global get-together, a topic which has never before been so pivotal for the trade fair: the digitalisation of the world of print.
+
+The central point of contact for access to the comprehensive suite of digital products is the myKyana portal, which enables seamless interaction with all digital offers. Each of the digital products integrated into myKyana supports Koenig & Bauer’s customers on their path to more efficiency and profitability. Kyana Connect establishes the fundamental infrastructure for consistent data exchanges and real-time data analysis. By using the performance dashboards that are a feature of Kyana Data, it has never been easier for users to analyse their key production figures.
+
+To be able to handle jobs in record time in the dynamic environment of a modern printshop, immediate support in case of any questions or problems is decisive. This necessity was the driver behind development of the generative artificial intelligence Kyana Assist – one of the highlights of this year’s fair presentations.
+
+Highlight ‘Connected Packaging’: live show on packaging as a new communication channel
+
+The live demonstrations of innovative digital products are not the only reasons for future-oriented print companies and brand owners to visit the Koenig & Bauer stand; they also have much to gain from numerous keynotes and panel discussions on business models for the printing world of tomorrow.
+
+One highlight is the daily live show ‘Connected Packaging’ presented by Sandra Wagner, vice president for digitalisation at Koenig & Bauer. The presentation introduces a platform based on Google cloud technology where brand owners can store digital information to individualise, personalise and enrich their printed packaging, alongside detailed product and manufacturing specifications. The accompanying app for end consumers acts as a bridge between analogue packaging and the digital world, and by making comprehensive product information available to the consumer by way of augmented reality, enhances the shopping experience.
+
+A total of ten product and technology innovations from the Koenig & Bauer Digital Unit are the focus of drupa presentations planned by Sandra Wagner, Vice President Digitalisation (left), together with Ralf Sammeck, CDO Koenig & Bauer (right)
+
+A glimpse into the development lab: cooperation with Siemens to develop a new Koenig & Bauer automation platform
+
+Using the feeder for a Rapida 106 medium-format sheetfed offset press as an example, Koenig & Bauer offers fair visitors a first glimpse of the future with its standardised and modular automation platform, and demonstrates real-life predictive maintenance cases and performance dashboards for individual machine components.
+
+The platform is currently still in the development phase, but already shows how Koenig & Bauer intends to respond to global megatrends and lead the group into a new era. In cooperation with Siemens, Koenig & Bauer plans to offer customers a virtual product configuration based on innovative automation technologies and a digital twin of its own production facilities. The objective is to accelerate development and commissioning processes and to raise customer support and after-sales service to a new level. The partnership with Siemens is also eminently important for the development of digital solutions, as the new technology allows the collection and evaluation of even more detailed machine data and information on the condition of machine components.
+
+End-to-end packaging workflow
+
+Koenig & Bauer is bringing a firework display of technical innovations to Düsseldorf to demonstrate an end-to-end packaging workflow from pre-press to printing and die-cutting as well as gluing of the folding cartons. In cooperation with Hybrid Software, it is presenting PrintFusion as a new gateway to control Rapida presses in conjunction with the pre-press software PACKZ and the production workflow suite CLOUDFLOW from Hybrid Software. All presses and machines presented at drupa – a Rapida 106 X, a VariJET 106, a CutPRO X 106 rotary die-cutter, a CutPRO Q 106 SB flat-bed die-cutter and an Omega Alius 90 folder-gluer – incorporate the very latest features. These features boost performance by at least 20 per cent compared to the predecessor generations and once again set new benchmarks for folding carton production.
+
+The Rapida 106 X heralds a new performance dimension with speeds of up to 22,000 sheets/h
+
+Rapida 106 X heralds a new performance dimension: live demonstrations at 22,000 sheets/h
+
+In sheetfed offset, the list of innovations kicks off with a further increase in production speed: the current medium-format sheetfed offset press Rapida 106 X (max. sheet format 750/780 × 1,060 mm) prints at speeds up to 22,000 sheets per hour and thereby sets yet another new benchmark in terms of output.
+
+Other innovations for greater automation and added performance include the coating plate changing system CPC+ (Coating Plate Change Plus). It is controlled from the press console and functions fully automatically. Coating supply has also been raised to a new level with VariCoat+. 
+
+Within the Rapida+ product family for automated printing, Koenig & Bauer offers an app called PressTalk that allows operators to communicate via headset, irrespective of where they are currently standing at the press. In addition, AutoGuide provides process-related status information and recommends which action to take – using the console wall screen and as voice messages on the headset.
+
+Several trade fair innovations relate to the measuring and control systems for Rapida presses. The ErgoTronic ExpertScreen presents additional colour control information and frees up space on the console wall screen. QualiTronic Image+makes the incorporation of colour bars on the printed sheet unnecessary. The individual measuring elements can be placed at any position on the sheet, for example on glue flaps or on elements that are going to be stripped. It is also possible to perform measurements in solid areas of scale and spot colours. The elimination of colour bars creates additional space on the sheet and allows better space utilisation. What’s more, QualiTronic Opaque+ permits colour bars printed onto primary colours to be used for measurement and control – for example when pre-printing with an opaque white.
+
+Another tool that is especially interesting for packaging printers is ErgoTronic FormCheck, which allows coating and die-cutting outlines to be projected onto the printed sheet at the console. This permits straightforward visual checks of whether the coating and die-cutting formes align with the printed image.
+
+In-house development of the new VariDry+ and VariDryBlue+ dryer generation unleashes important potential for savings in the energy-intensive drying process, as Koenig & Bauer’s contribution to more sustainability in printing.
+
+Top performance in die-cutting and folding carton gluing
+
+World premiere: the rotary die-cutter CutPRO X 106 for folding carton production with four process units (embossing, creasing, die-cutting, stripping) now runs at speeds of up to 16,000 sheets/h. And a new generation of blankers makes a mark with a significantly more compact design and results of the highest quality. In terms of the die-cutting layout variants that can be handled, it is also much more flexible than in the past.
+
+A similarly pioneering development for industrial folding carton production is the flat-bed die-cutter CutPRO Q 106 SB, which packs a whole host of ingenious technical solutions. Available as a standard system with stripping unit, or with additional incorporation of a blanker, it offers ultimate die-cutting performance at speeds of up to 9,000 sheets/h. One feature unique to the CutPRO Q 106 SB is the integration of technical solutions from Koenig & Bauer’s successful series of Rapida medium-format sheetfed offset presses. Innovative dedicated drive technology at the DriveTronic feeder provides for an optimised sheet infeed and the shortest possible makeready times, irrespective of the substrate being handled. The Cut2Print register system is equally innovative and promises the highest die-cutting quality. Non-stop solutions with fully automatic pallet changing allow uninterrupted processes and enhanced production efficiency The CutPRO Q 106 SB is fully integrated into the LogoTronic production data management system.
+
+The folder-gluer Omega Alius 90 stands for maximum productivity. Innovative automation modules and memory functions enable extremely fast makeready for job changeovers and permit maximum production throughput with belt speeds of up to 600 m/min. Peripheral equipment tailored to individual demands and needs secures maximum flexibility and helps to optimise the process before and after gluing. The machine on show at the fair is configured with a pre-feeder and the automatic carton packing system Omega E-Pack.
+
+Strategic sales partnership with AHM extends the folder-gluer portfolio to cover more corrugated board applications
+
+Through its sales partnership with AHM Germany, a manufacturer specialised in the development of folder-gluers and tape applicators for the corrugated board market, Koenig & Bauer has rounded off its product portfolio for folding carton gluing. AHM, a spin-off from the folding and gluing centre Opti-Run GmbH, offers folder-gluers distinguished by maximum ease of operation for the processing of corrugated board. Modular tape applicators add further to the efficiency of AHM’s products for this market segment. Sharing specific know-how serves not only to encourage joint product developments, but also to strengthen sales activities.
+
+Highly automated corrugated board processing for more efficiency
+
+Corrugated board processors can look forward to hybrid shows introducing the highly automated machines ChromaCUT X Pro and ChromaCUT High Tech 2S. On the ChromaCUT X Pro, a die-cutter that can be preset allows makeready for a new die-cutting forme to be performed while current production is still running. The fully equipped and highly automated machine boasts a host of patented features and enables customers to increase their productivity by yet another notch.
+
+The Chroma 2S technology is the most recent development from Koenig & Bauer Celmacch and is available for the Chroma High Tech and Chroma Smart series. It enables corrugated board processors to handle inside and outside printing in a single machine pass. This not only boosts efficiency, but also reduces production costs considerably.
+
+RotaJET – High-volume digital inkjet web printing 
+
+Koenig & Bauer is showing various ground-breaking applications for the RotaJET digital web press at drupa. The main focus lies on digital decor printing and high-volume inkjet packaging production. As a special highlight, the products interact directly with Koenig & Bauer’s digital AI solutions. At the same time, they will be protected on the basis of ValiPack solutions from Koenig & Bauer Banknote Solutions. Further folding carton products, drinks cartons and high-volume inkjet applications are on show on the Koenig & Bauer stand and will be processed on the BW Papersystems stand.
+
+As the market leader in single-pass inkjet decor printing, Koenig & Bauer is showcasing a range of decor applications. High-quality floor laminates with corporate branding or an AI-generated 18-metre decor without repeats raise digital decor printing to a new level.
+
+CI flexo printing: compact and efficient solutions for the packaging sector
+
+The drupa presentations for the field of CI flexo printing focus on biodegradable film products for food packaging. The XD Pro combines a high degree of automation with simple operation, while the high-performance XG is available to handle high-volume production with optional flying sleeve changes (SSC). Ultimate efficiency is a particular hallmark, especially in folding carton and board packaging applications. The compact design of the CI flexo presses from Koenig & Bauer provides for fast job changeovers, maximum print quality and register accuracy even with the most difficult substrates.
+
+Koenig & Bauer Durst: the best of two worlds for short runs and fast throughput times
+
+Another highlight that can be seen in public for the first time is the VariJET 106 press from joint venture Koenig & Bauer Durst. This new development combines the global experience and know-how of both partners. It will feature in several production runs throughout the fair and is now also available with additional coater units. The print samples produced on the VariJET 106 showcase a wide range of applications such as pharmaceutical, healthcare and cosmetics products, as well as food and beverage packaging.
+
+The market-proven corrugated board press Delta SPC 130 is likewise an important focus of the drupa presentations. A console has been set up to demonstrate how the Delta SPC 130 operates in a production environment with the software solutions Durst Workflow and Durst Analytics.
+
+The joint venture is also showing game-changing industry firsts such as printing on mainly brown substrates with water-based digital white for primary food packaging. Koenig & Bauer Durst is the first company in the world to offer digital white inks for primary packaging. All Koenig & Bauer Durst presses use water-based food-safe inks and coatings that comply with all regulatory requirements.
+
+Koenig & Bauer MetalPrint – modular and sustainable
+
+With the MetJET ONE, Koenig & Bauer MetalPrint has successfully developed the first digital metal decorating press. The press combines tested and proven digital components with strong engineering expertise in the field of metal decorating: sheet handling solutions from Koenig & Bauer MetalPrint are paired with integrated inkjet technology in the form of a Durst multi-pass printing unit. With a very attractive price-performance ratio and outstanding print quality, the benchmark for metal decoration has been redefined. The modularity of the MetJET ONE enables flexible adaptation of the entire production line to the individual needs of customers and their planned products.
+
+On the subject of sustainability, the first positive results from the future-oriented ‘Hydrogen dryers’ development project are now on the table. Conventional printing and coating lines use thermal drying ovens – which are currently heated with natural gas – to dry the solvent-based coating. Switching from gas to green hydrogen could reduce the carbon emissions of the overall production process to a significant extent. Following a positive feasibility study, the first hydrogen dryer was tested on a coating machine at Pano Verschluss GmbH. A team from Koenig & Bauer MetalPrint monitored production using hydrogen over the course of almost a week. Production ran smoothly, emissions of volatile organic compounds (VOCs) into the exhaust air remained below the applicable thresholds, and the final product displayed the usual high quality. This pioneering development project can thereby help customers of Koenig & Bauer MetalPrint to operate more sustainably in the future and at the same time to actively contribute to attaining their climate goals. 
+
+Sustainable solutions for a reduced ecological footprint
+
+Demand-based production, reduced resource consumption and optimised print processes are top priorities across the entire Koenig & Bauer Group. CEO Dr Andreas Pleßke predicts: “The subject will be a defining factor for the whole industry in future, because in our business sustainability goes hand in hand with lower costs.” 
+
+Koenig & Bauer supports its worldwide customers as a sustainability enabler and helps them to achieve their sustainability and efficiency goals. Various eco-components and innovative technical solutions contribute to lower carbon emissions by reducing the consumption of energy, paper, board, plastic films, inks, coatings and other substrates and consumables. On sheetfed offset presses, use of the VariDryBlue+ technology can reduce the energy input for drying by up to 35 per cent. QualiTronic inline measuring and control systems reduce the consumption of substrates and consumables associated with the colour workflow by up to 30 per cent. On metal decorating presses, gas cost savings of up to 70 per cent are possible by using the HighEcon drying technology. And when it comes to banknote printing on an intaglio press, ink consumption can be reduced by up to 25 per cent as well with a special approach to ink application. These examples show that there is no conflict of interest between sustainability and profitability in the print industry, and that sustainability activities are in fact a powerful lever when it comes to lowering the costs of print production.
+
+In addition, Koenig & Bauer offers customers a ‘Product Carbon Footprint Calculator’ to support analytical calculation of the carbon emissions attributable to sheetfed offset production and which is able to supply valid proposals for corresponding compensation. The calculator was developed within the framework of an innovation partnership with the Munich-based start-up Telusio.
+
+To sharpen customer awareness for sustainability issues and the associated benefits for their own production activities, and at the same time to shine a spotlight on the topic in general industry discourse, Koenig & Bauer has decided to present its Green Dot Award again this year – with a special ceremony at its fair stand (Stand A 31 in Hall 16) at 1:00 pm on 31 May 2024. This award for outstanding sustainability achievements was created by Koenig & Bauer two years ago to honour visionary managers who have already made innovative contributions to sustainable printing in a special way.
+
+Dr Andreas Pleßke is assuming twin roles at drupa 2024: as CEO Koenig & Bauer, he is spearheading presentation of the company’s long list of innovations. As Chairman of the drupa committee, on the other hand, he has his eye on developments in the industry as a whole and will be speaking at various events
+
+Success begins with people: career and development opportunities
+
+The print industry faces the same skill shortages as all other branches, and the accompanying challenges are therefore also an important topic at drupa 2024. At a special HR cube, Koenig & Bauer is drawing attention to the measures the company is taking to grow its reputation as an attractive employer: from flexible work patterns, to individual social benefits and corporate health care offers. Interested prospective employees have the opportunity to speak directly with company experts at the fair.
+
+What’s more, the Koenig & Bauer Academy is being presented to drupa visitors as an all-inclusive concept for qualification and further training programmes. When it comes to personnel development and qualification, Koenig & Bauer offers integrated solutions covering advice, planning and the implementation of corresponding measures, all of which can be tailored precisely to the individual needs of the customer.
+
+Keywords:Company,drupa
+share
+tweet
+share
+share
+Downloads
+Photo 1: Koenig & Bauer stand 2024
+Download JPG, 1 MB
+Photo 2: Sandra Wagner and Ralf Sammeck
+Download JPG, 586 KB
+Photo 3: Rapida 106 X
+Download JPG, 1 MB
+Photo 4: Dr Andreas Pleßke
+Download JPG, 1 MB
+24-05-28-CC-drupa-Press-Conference-EN.docx
+Download DOCX, 57 KB
+Newsentry incl. photos
+Download ZIP, 4 MB
+Dagmar Ringel
+
+Director Corporate Communications
+
+Friedrich-Koenig-Straße 4
+97080 Würzburg
+Germany
+
+T: +49 931 909-6756
+
+E-Mail
+
+Back to overview
+Newsletter
+
+Sign up now for our newsletter.
+
+Subscribe
+Follow us!
+LinkedIn
+Instagram
+YouTube
+Facebook
+Products
+Digitalisation
+Service
+News
+Holding
+Career
+Investor Relations
+Compliance & Whistleblowing
+Press
+Downloads
+Contact
+PressSupport24 request
+Koenig & Bauer worldwide
+DisclaimerTerms of usePrivacy policyRevokeTerms and ConditionsSitemap
+RSS Subscription
+
+© 2024 Koenig & Bauer AG
+
+0
+Order Print Brochures
+Order Now
+ 
+ 
+ ----- 
+ Source link : https://www.koenig-bauer.com/en/news/details/article/smarter-more-efficient-more-visionary-koenig-bauer-with-digital-solutions-and-new-products-at-drupa-2024/ 
+ ----- 
